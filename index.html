@@ -290,7 +290,7 @@ td .warn{color:var(--warn);font-weight:600}
       const bust = '?t=' + Date.now();
       const [n, s] = await Promise.all([fetch('data/news.json'+bust).then(r=>r.json()), fetch('data/status.json'+bust).then(r=>r.json()).catch(()=>({sources:[]}))]);
       NEWS = n; STATUS = s;
-      $('#updated').textContent = `Updated ${rel(NEWS.updated)} · ${new Date(NEWS.updated).toLocaleString()} · refreshes every 15 min`;
+      $('#updated').textContent = `Updated ${rel(NEWS.updated)} · ${new Date(NEWS.updated).toLocaleString()} · refreshes automatically`;
       if (first) populateFilters();
       renderAll();
     }catch(e){
