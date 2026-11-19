@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:13:01Z",
+ "updated": "2026-11-19T22:06:41Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2032,8 +2032,8 @@
    "company": "Biogen",
    "title": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 - Biogen",
    "summary": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 Biogen",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZm1kZ0otbW1OVzlwMWdxQlR1VzVzajlxRWtlTUJEY0EtY3dfSEZQZlhSWEM1ZVVwTlZMTGxCYS1rNWdrMXRCZnYxUWRWcUpieU1Ec0VzUDQzYVRHY3lUTjZMcTFlSjFYcDh3ZnBLOUo4c1dQd0Y4cUdQeDNYNzYtdTJEMWxlQmJkWXpxM1k2SjVlTVpGNjRvcjFZVWRKcTZoeERoNEhJQXNrZmJYakFZb1k0QzRQZFVINGF3?oc=5",
-   "published": "2026-11-16T23:00:29Z",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoczRESnJac1FyV2M3ZlkzaVVCYXZ6T1RrM3liMGl0SnBUeWtpZjhyNklYd3JWWnVkS3ZCdFM2dHZFZVJqN1RUWXVZUGdRRU53clhzZHpB?oc=5",
+   "published": "2026-11-17T00:55:53Z",
    "outlet": "Biogen",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
@@ -2915,17 +2915,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHA0R1NqMUY4aXNqZFRISElLVzd0bkJEcHpQWkVGOXExQlg5OFBUZHI5OERCb21tQzlFa3lZUHVYNHlwRDBHUFVMa2hjVWU0UlI3M01KRE1kNmREU3B3ZUh5VXduMVR2TVU1ZmxDUWhsdnZhYXBNeEt2WkFscGlCYllSZHNmRnZNUXVhbDZaNlFwMk84dEFQSEEzZmhVd21rVExqWkRQMmU4TnEtaU42dEpXeXlwSURDWG40amZRV092YjVkdTBwRQ?oc=5",
    "published": "2026-11-03T23:01:40Z",
    "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "6600a28430b239ae",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon to Present at Upcoming Investor Conferences - Xenon Pharmaceuticals Inc.",
-   "summary": "Xenon to Present at Upcoming Investor Conferences Xenon Pharmaceuticals Inc.",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTdSRGhuRzg4RmVqaDRxaGZYekNFd190bHRGUDI5Q216VFdsekRZSDRXR3doN25ZLVpNUGl4cFFBcWtEMVFzQkhlQlBhV2tVaExsTTYxaDczbmdoaGkyQU9KMEowUHNuaE4xY2JybThhQ0FCb1hTRE1lNlRObzhNYVp6RUdFUF8ycVF1WHpvX2lvOGJrR3pmby1lOWZ6ZWo4aWNzRHBSdFR6NkRqSW9fSEhNVWw?oc=5",
-   "published": "2026-11-03T21:01:38Z",
-   "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -5141,6 +5130,17 @@
    "first_seen": null
   },
   {
+   "id": "1abdfb8e1f5d5818",
+   "company": "Annovis Bio",
+   "title": "Events & Presentations - Annovis Bio, Inc.",
+   "summary": "Events & Presentations Annovis Bio, Inc.",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16X1VoOVhyTDAtamlhVFMwcTlVSmdqN2NoRDFYaEhvV3ltamM4Q0pQQ2oxVnFxWE55TlZYbnJCbVVpdjNZWWR6ZmE4SUt5MHNGN0RJQUhiX2thUkdKejhCRQ?oc=5",
+   "published": "2026-09-18T23:33:14Z",
+   "outlet": "Annovis Bio, Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "5a86d55602a566fb",
    "company": "Usona Institute",
    "title": "Joe Casey on Protomartyr’s 16-Year Journey to Hotel Usona - Northern Transmissions",
@@ -6208,6 +6208,17 @@
    "first_seen": null
   },
   {
+   "id": "ffccaa329cd46cf1",
+   "company": "XellSmart",
+   "title": "XellSmart scores FDA fast track for Parkinson’s cell therapy - Longevity.Technology",
+   "summary": "XellSmart scores FDA fast track for Parkinson’s cell therapy Longevity.Technology",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTdJb01fQ2laM3Vsb2pxZ3doS1hRc1Exd0VUaFNNcElUMk5GQnM1Vk5peFBCUHBmdnRzSVV4SkZzZTctOUZpZE1BMm9yTmhoY0o0TjUzTXVzdnEtZi1kM3RKaTdPcVEzV3pDRmFQS0pKZGllYkFEN1NtVHlHYUNRbklZS3U2eUJ1QjRXQ1JqRzR3OG95UFhyUDJ3?oc=5",
+   "published": "2026-08-20T07:00:00Z",
+   "outlet": "Longevity.Technology",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
    "id": "e5c428e103496fbe",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "For many people living with depression, “fine” may not mean “well” - Johnson & Johnson",
@@ -7011,17 +7022,6 @@
    "first_seen": null
   },
   {
-   "id": "8fa99be7fd7c00ad",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update - Rapport Therapeutics",
-   "summary": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update Rapport Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1BQZkl2ZUY5TG5qcGNJTGJha2k1UnVNWUxTYmRKcmhwQkdIZjFsUzE5ekMzd0pPN2w0SmRwYkdJME5pYmR1OEhFN3ctdUN2TnN5aHRuUEduVGxBS2JhT2RkeGFrM1Uza2x6SHBRSTRfcXdxVXA4WGxhTkY4cDg0dXU1akk2bzF6UXZiLXEtTkhnc3RFYUF0Z2dzRDdjTGxpZG5OTGJaX3ptOXVfTTNsXzJxQVVMNFRlR3lFMTN2RkVjYWo0ZDdMX0FYTQ?oc=5",
-   "published": "2026-08-05T15:58:00Z",
-   "outlet": "Rapport Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "08baa1c3d8a5f303",
    "company": "Novartis",
    "title": "Sales Representative, Neuroscience- Central & South Area - Novartis",
@@ -7029,6 +7029,17 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFRsT1dSSGJsaks3MjlqOFh5SE5sN0FDZmxQbkdKNEZMTnUzX1RaSWFMbHBmdlFhQVdFSEJDWl9JX2xhX3F2SDBWalg1NmplbU1xMXYwSDlWUmszdmRORXMzX3Y0Q0RweFd2dHc1WkRNbWdoSE52bUxZaGFHTFZadnZmVkVGbkY2cENvVXQ3b3ZVY0N0eEUtYmgxSTc4Q3p3R2oyOVFrUTk5VDJjbUsxbXh5eGx0cWR5WEN3dnJXdkVqSURzTDJCN2Rn?oc=5",
    "published": "2026-08-05T12:17:13Z",
    "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8fa99be7fd7c00ad",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update - Rapport Therapeutics",
+   "summary": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update Rapport Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GSy1EYkVyVTRwSDMyQjBfdTB2eGV2VW9CZU95TmRjdUNpMjQ4LUstNnhlRjlvTzZ0b3c5a2lnQjRwc1ZlQ3pfcHBTUGpCYkN1RkJEeHZab28?oc=5",
+   "published": "2026-08-05T07:00:00Z",
+   "outlet": "Rapport Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -9695,6 +9706,17 @@
    "first_seen": null
   },
   {
+   "id": "a9e929867a416162",
+   "company": "Annovis Bio",
+   "title": "Annovis CEO to Present on Multi-Protein Model of Alzheimer's Disease at Fierce Biotech Week 2026 - Annovis Bio",
+   "summary": "Annovis CEO to Present on Multi-Protein Model of Alzheimer's Disease at Fierce Biotech Week 2026 Annovis Bio",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVdLUHFBbDBtZTZzM1FRY1IzZmxxTXo3dXZBOXJaLUxhRHVZaFJEVHJlZ0dnWWh0Y0tmNFp5UW94QTM4ZEV5eVdwQXlYUnJ3SzEwQTlHRVJvMjVLQWpsMUxMYzNPLW1rZndWLVFxTnJZZ0dlZ3RoWnVZeUFIaWVyeVNZT2xDSVFhVUtGNk5qMTdkZUs0MXU2QWZFdnpLYTNpbmRpWU9IR0ZZSmViMGZsSnI4RjFkSmQ3dndzSFFoNjZMb1RIWjlWNFZrS0hCQnA5T3c?oc=5",
+   "published": "2026-05-07T07:00:00Z",
+   "outlet": "Annovis Bio",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "b96238ce2fe63505",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals to Participate in the Bank of America 2026 Health Care Conference - Supernus Pharmaceuticals",
@@ -10586,6 +10608,17 @@
    "first_seen": null
   },
   {
+   "id": "6600a28430b239ae",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Present at Upcoming Investor Conferences - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon to Present at Upcoming Investor Conferences Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeEdqRkJ1SG11UERXNjBkTTI3UmRLcVQxenA2Y2hLbEtpSDNpQ29IX2lSdmhhZEl5U1pFcGVKRWdzZDVhdm1aSDhFbDkxbE9qSkFuc2g0WGY5NThiMkZZYlZyRzlDMU9jTVJrel9YaEhaaDdNM0JxSWIwYm1ZTVE0RktwNnhBT0RXaEd0VHp3LXE2SG80bGV4NjBCUlFEVFZxWGQ4VURFVm5Cb2pwTmFQM2hlT3Y?oc=5",
+   "published": "2026-04-15T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c10bc42063f5ab42",
    "company": "Neurocrine Biosciences",
    "title": "Form DEFA14A for Neurocrine Biosciences INC filed 04/15/2026 - neurocrine.gcs-web.com",
@@ -10747,6 +10780,17 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYkxYMmo1YjZ0X2VuQTBNOWlWX1FlVXdkeW1fS0lQZmFDYUhhRHhPNDdLdkI2WUIwcGZNNm1jdGU0N2VzVlBPNExUWnBoWHJBaTVlNS1Va1pPWkFPVm91LWJPQXNzQk5SenFjMjdFTV91dUxmYW5URHZ5V3FRVFpyemw1UmVQZzdfbUl1TnpIQUVGb2p2YW5ESE1paFk1c00tc2pWM2R5WUh4bER0NnJDeHRHSU1vZGdkeWRHaFJkOUY2RGptcTVJU2Y4T29qNFVVYnR0NjZ2cw?oc=5",
    "published": "2026-04-09T07:00:00Z",
    "outlet": "Boehringer Ingelheim",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "3a79b2d92a1d84c9",
+   "company": "Annovis Bio",
+   "title": "Annovis Announces $10 Million Underwritten Offering of Common Stock and Accompanying Warrants - Annovis Bio",
+   "summary": "Annovis Announces $10 Million Underwritten Offering of Common Stock and Accompanying Warrants Annovis Bio",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYkRqY05Fa2JROHZPWHF0Nk9rUVNWeFdsMHJGeUpnRi1GN3JXcjQtbHpBOU5CMDFaU1VXZnN2aFVpUmd1WGkzdTZNNUUtNlM5Z3Nyc2JybmdOMlBfMWlqMHE4ZTlSOEtVNUluTndIRWtxa0pkUS0zUVF5ZUpLc1JrOUc0eGtyQkRtekRlOThNMEFxX3JxckwyNmY3Vk5fLUwzalZqRXJqNW53Q0VaX0pKbExMV2xaYlFNc29UM1FUV1dmbngwaFMwUEVVS1JGQQ?oc=5",
+   "published": "2026-04-09T07:00:00Z",
+   "outlet": "Annovis Bio",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -12947,6 +12991,17 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXZ3eXdsVTd5eUJudzVHX0FtNXlIaW9vOTAzVl8xZGpKTzRJcldnazYxMUk1X2tFcU13UFQycWR2ZWQ2YldUakJrX1hyUWRyZ0c0T3Y1eERQV0JPdEVFSzY2dVZGeVowZjBXNzhubGlMbmJZYjk3R0ZNQXhsU2dxUUdmdmd2VWhNT0Fjb2Y3aUIydUlmX21iUGZBaWgxZnY5RG5DRERYMW55dUZQR0I3QVlhaGJEcEtKbWpUcnlfSQ?oc=5",
    "published": "2026-02-03T08:00:00Z",
    "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "f58d4b3255e5da7f",
+   "company": "Eli Lilly",
+   "title": "Q4 2025 Lilly Presentation - Eli Lilly and Company",
+   "summary": "Q4 2025 Lilly Presentation Eli Lilly and Company",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjV6bGg5allveENBU1Z2enREU2hrcnJkajFqOFdfMUxZX1dxcDBpb2szckpXUG5mN1lDOWJUNlJOaWJEaldXWXJyd2dZN3VLU1k2NXBIV1JqRlZMVHVZeHkyenNaM3ZWZENOSGZ3S2NfZUlXUVFRdERacnBEVFRMRDh3?oc=5",
+   "published": "2026-02-03T08:00:00Z",
+   "outlet": "Eli Lilly and Company",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
