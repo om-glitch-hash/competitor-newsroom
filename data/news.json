@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:06:41Z",
+ "updated": "2026-11-19T22:54:56Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1797,6 +1797,17 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZzZV9wcG9yMkJkbTJidXVtdUkxV0lvZzZoNlZQUGduMkt4LVAzbmVvSm5kLWE5Z0lWajJiNmlCdm5FSzc5U2J4b0NMbURnTHNtWHdiVndINjdScnV3Y2JEcGVwUWpPYjFPYzd3dWNHWE1vc3JPMnNveGhvMjZVVlc1TU03eHp0cGxYaXNySG5MN2w1ZW1Gc2pFU2N2OVZkQkxXV3pZQ3l4UWVNRTBORHVzYw?oc=5",
+   "published": "2026-11-19T00:49:03Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
    "id": "1432df6517373c1e",
    "company": "BioVie",
    "title": "Form 4 Biovie Inc: V. do Cuong (Director, President & CEO) For: 18 November - Investing.com India",
@@ -1827,6 +1838,17 @@
    "published": "2026-11-19T00:00:00Z",
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
+   "published": "2026-11-18T15:14:53Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
@@ -1883,17 +1905,6 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
-  },
-  {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUXNvZHlmRHNJc3hIVXp4R25DdDMzZ0RBelhzdXJHRE11UEFtMTBybWJueHF2LTk1cXcxOXdYVjRjclhqVTc3ZFZRWjZiNHh5NnEyaGxQTHk0Qng0bGpEejkwZnFvR2dxS09WRjBaQTFHbExCR2c0Z3laeDVLMzlrSm1Xb29pNmF3Ynlmcm40WWhNc1F1eHpkRHl0dGF6WHI2cWdSdlpDS3R2OC1fVnFxVnJuMFNhbEwyYlJZRmVTdHdJdkFoYXNxSlN0RjRpUQ?oc=5",
-   "published": "2026-11-18T08:42:01Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "0db1e43907961bfd",
@@ -1995,17 +2006,6 @@
    "first_seen": "2026-11-19T17:31:37Z"
   },
   {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXNEbDlMM0Y2cFpJWS1nYkRseld1MXJxdE53QTlMNUpDZzMyLTVtOUFIODdOTmVyc1R5ajNXeXpHX2tjVEs3aHdNa0U3ZHdjZWdfQU5uQlY1eDRYc1FNZ0RxTkFSNTNVUmx0TGx3dUszbzAtRHE1Q2lUUnVGd3pnVFVBM3dVYmFuTVNOckZ1ZFNkVWstYkxGazAxX2RZbVhTSjJ2b3pvdVFJSGRoUWxGUEtHUQ?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
    "id": "0919cfc4c92dc050",
    "company": "Novartis",
    "title": "Novartis Cosentyx® becomes first and only FDA-approved anti-IL-17 biologic for people with polymyalgia rheumatica (PMR) - Novartis",
@@ -2032,8 +2032,8 @@
    "company": "Biogen",
    "title": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 - Biogen",
    "summary": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 Biogen",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoczRESnJac1FyV2M3ZlkzaVVCYXZ6T1RrM3liMGl0SnBUeWtpZjhyNklYd3JWWnVkS3ZCdFM2dHZFZVJqN1RUWXVZUGdRRU53clhzZHpB?oc=5",
-   "published": "2026-11-17T00:55:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZm1kZ0otbW1OVzlwMWdxQlR1VzVzajlxRWtlTUJEY0EtY3dfSEZQZlhSWEM1ZVVwTlZMTGxCYS1rNWdrMXRCZnYxUWRWcUpieU1Ec0VzUDQzYVRHY3lUTjZMcTFlSjFYcDh3ZnBLOUo4c1dQd0Y4cUdQeDNYNzYtdTJEMWxlQmJkWXpxM1k2SjVlTVpGNjRvcjFZVWRKcTZoeERoNEhJQXNrZmJYakFZb1k0QzRQZFVINGF3?oc=5",
+   "published": "2026-11-16T23:00:29Z",
    "outlet": "Biogen",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
@@ -2204,6 +2204,17 @@
    "first_seen": null
   },
   {
+   "id": "20d490bf8044415d",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics, Inc. (SER) Tops Q3 EPS by 3c - StreetInsider",
+   "summary": "Serina Therapeutics, Inc. (SER) Tops Q3 EPS by 3c StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ055M2NPX1Atb1pfLUk3Wm1XTjFBOGowVnRxVXFlaEM5MEE5aGNKZUJDYXp5R3RnUXFOa0lxeGNacDZkUGR1NF96RTBlaElPeTNpVEV6dmMwWDB4VEI4cDJ4QTJWN2d5SkZMMFVVTG5VWldkYlZBd013TlZmZGxmSWM3VW1MVzBfaFFoVGdJaW10X0Rra0RBanVsWkFEcnBJSUJPd0xzbzRmV2dr?oc=5",
+   "published": "2026-11-16T13:02:58Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1155d2f34254a95f",
    "company": "Teva",
    "title": "U.S. FDA Approves IGALMI® as First At-Home Acute Treatment - GlobeNewswire",
@@ -2325,6 +2336,17 @@
    "first_seen": null
   },
   {
+   "id": "e0aa518fbd114ac8",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus - Financial Statements - Q2-27 - Helus Pharma",
+   "summary": "Helus - Financial Statements - Q2-27 Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZVFZsT1pQbzVXalhxOFJDYm1QSVRLU1ZZZllWZmFfMm1yZHBWNGtHU2o5WGR3SEVldlFtTzNaODBPd2Vxc0h5c09Fb2tUYk5uTGVHc0o2M1BIMWE1UHY5Q2JLOTVPVVZLem5YdFZhOGx4VFpydkhDdUJR?oc=5",
+   "published": "2026-11-14T10:12:24Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "8d160d7ab999a899",
    "company": "Regeneron",
    "title": "Note regarding Forward-Looking Statements This presentation includes forward-looking statements that involve risks and uncertain - Regeneron",
@@ -2343,6 +2365,28 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzhMVjYweUpkSUdwRmFUVXFQd2Y4aEhuRzVFbG9RYVVtWER0V2FuQnk0aEVrYkkzY0I4OThBMkJ0WkZDR001MTBvSTk1VmRtSkZDV0ZVZnNnX01vbGszUlZ3VWtFa0FnWWtmbjVmdHdlNlprLWk2MFdnV1RxUGVkSEVKY2VZTlNOWEw4YjRKaVhDR1NnODVkeHJ1YUJqWDVfMWdJX05pWC1feXFUazNmV29RYzNJZWdWaFJmMS1B?oc=5",
    "published": "2026-11-13T11:48:00Z",
    "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "cae51a8d5d1cc87f",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Share News - Latest Updates, Live News & More - scanx.trade",
+   "summary": "Serina Therapeutics Share News - Latest Updates, Live News & More scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92dVRmQThnNDZEelZrYXlIeENleW8wVHhMZ0JWSWQ0RUNTb1puUUdMZVVBUWFmWk55aERBWEhqd0cwRXRvZmRiVjBISEJHak50NjdkLXBvWlBnZU1RbUNDaFU5VVFZcHVVOTFjR3p3?oc=5",
+   "published": "2026-11-13T09:33:58Z",
+   "outlet": "scanx.trade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8c4759ee4220f8a7",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics completes SER-252 dosing ahead of Q3 2026 guidance - scanx.trade",
+   "summary": "Serina Therapeutics completes SER-252 dosing ahead of Q3 2026 guidance scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQlZ6YzVmaDZ2SmdEZlZ6ZHdDNTRkSHlNT2FudFgyamdPWDlQWGpHMWdMMzJFSWFTaWJjcnVJcTlyZlE1VlVzUWdYdDczQ1loQktzMVFtS3NBbEpjSDlVZExNbzhBOHl2cktVUUNSSDF0V0p0Z3BmUzlFXzdTWkpBRm1oVmxsRDYzemVYOFVYdF9FS0dqa29OcC1CTV9QdUdsbzZwU1VFdm5uS0RtbmhkY2ExTzFjd2QtdHBMMjFBNmtad0lrUzdv?oc=5",
+   "published": "2026-11-13T07:02:06Z",
+   "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -2369,6 +2413,50 @@
    "first_seen": null
   },
   {
+   "id": "250228415a5dbdf6",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Q3 net loss widens on higher R&D costs - TradingView",
+   "summary": "Serina Therapeutics Q3 net loss widens on higher R&D costs TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0hYMEFoVUk2M0FjUlZaOGtpWlNuT1MzVmJpcHAya3VJTm1BS01SeVVRdEZ5ZWtwcnczUFVDTVdzUHUxOEpUVERReUJHajZ0SXhJLXYwMXpzNDVvbVM5RklFYWdBRklXUGxubUlSdXREall6aVBHUnJ2dUU5SDlQNTZLYlZJS2dlM3JVUWE3X1M3dFJ3aFg5Yi1zUlNfSG9fWWphZlhzLXBCT2phcW9RREtMdFg5SDdCdnF0ZWdXYjhJbG1sWGM4?oc=5",
+   "published": "2026-11-12T21:57:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e248ba946436035c",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Q3FY27 Results: Loss narrows to $0.31; SER-252 advances - scanx.trade",
+   "summary": "Serina Therapeutics Q3FY27 Results: Loss narrows to $0.31; SER-252 advances scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONktjT0p2aHMwWmJWSlZ3MFpTWXp6NlFQYkp0VjJjZHZwOE43dTlQNFNxMm8teG9jSHNTcXRXV2RDZTJOVmdubThKNHV5aS1RQ3RwSGlnSWFnT3VvQnA2UFRxTjJ1NnRxNlltQ0tLckRnZW5qZXZKbXFIMWg2ME1SS3h4cHNjWWtWcUNTaEN2aGxYVDZZSnNlTGtPX0VzcUFLbVlEaUlsMzRQT1ZSWFlIaUJrcl9EZw?oc=5",
+   "published": "2026-11-12T21:46:50Z",
+   "outlet": "scanx.trade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5ef16c9e125395dd",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Reports $7.9M Q3 Net Loss; SER-252 Advances to Cohort 2 - TradingView",
+   "summary": "Serina Therapeutics Reports $7.9M Q3 Net Loss; SER-252 Advances to Cohort 2 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRFRzUTFCcGZPSlF1dDA5MndEd0tidlY4QXR2dlE2OVhuVkRtUkZ5UTRPbDZRMWctdDFLOS1LUlV2Nmg4S1VhY0hHdHhXa0p4TWhDR0FfanJxMEZMbTNhS01fS3haNkUyaTlabWNVeWFVRXItMHdVVk5URnA1OEc4b3ZhcVVPdnZSLXZjYnRiMFJVZ19qeHBPZkZMbGJVcjVzZXBZUExlOUV0ZmxWNXRUd0hWZnpneGphMnNvQ1ZsblRBSVVaSWRUXzhVYU5mai1a?oc=5",
+   "published": "2026-11-12T21:28:50Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2f11add56e46dfe2",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates - Quantisnow",
+   "summary": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkplMW9QV0owcTBSVUJmeU1HOWt0aUtoYVdqTEQ4YURDeUswWGktRW9nWGFEcmIxX2o5NHBpWHlSMDhNSTl2a2FpWVNOcjdGTFVjS0xqVzkxY3hIeDRzVTdFYlAxRnNXdjcwUV9ha2pxWlJINVVsSDkyYTFLWkhWUTEtOEVSLWp3R2tQQW5DVFlGeWtfYUNIQTZIemJTT3ljY0Z4dlZZYkY2TDViUC1seXJib1pJejJ5YnpvdA?oc=5",
+   "published": "2026-11-12T21:21:54Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e730631ae318ec38",
    "company": "Serina Therapeutics",
    "title": "SER: Serina Therapeutics Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
@@ -2376,6 +2464,17 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OX0lpWmNnREV0eTRDeTh6SWFrRU5GdDRNanp2OUhtSE9GcHJFbHpNeTVFQk0tR214Q0c0VzZUUE1JdTJLWWl4dA?oc=5",
    "published": "2026-11-12T21:21:45Z",
    "outlet": "Stocktwits",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "11492d0e4fef6186",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics, Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+   "summary": "Serina Therapeutics, Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQWVFS2dLTVlxXzA5T0IwNkpEWklQQi1aNU5LWElJRmFyUFdPUjNlZ25mbEdzTFRzT0pURU1BOHViZVNfU0lVcXNkcEZkdmx3WUludHdTQ1RHbnhiWXQzRHhqczhxTENxbFFaczlfX3ZRaU13a3dqdVhSRXZQeHZvNnJZNjBMZ2d0QXE0dTltTGExT2wxVU82U0hBZzJmNmJLb1dvZGZhWmNaZ0QtM19LWHBoRGZNM0NQRVZaaXNPUnNTQ2NEUnJrQ0NJWGtVWlBRTWZhckxYRlg4RDZNUVZ6OTU2eWdRZw?oc=5",
+   "published": "2026-11-12T21:12:00Z",
+   "outlet": "www.marketscreener.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -2908,6 +3007,17 @@
    "first_seen": null
   },
   {
+   "id": "aa94d8a73b860333",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
+   "summary": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41Zi1Rd2RjWjNvcHBlRTFfVkRPa3hfd091amFxYjZmTEhDSldtbXpFNkpqelh3T181YkFvWTlxdWxDcFNydHFEODhVZw?oc=5",
+   "published": "2026-11-04T04:51:45Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "5b2021fc845d5d73",
    "company": "Novartis",
    "title": "Sales Representative - Neuroscience - Ontario Northwest - Novartis",
@@ -2926,6 +3036,17 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEtfRkQzN1dHWWlDRjJRMlNDQ3htOUs3SjlnYnRqbURsM09HMFctWnZCOGFnWTdlZjA0bno3NzJHaW9IdzlZX1Y3Wm1TRHl3SDlLb2F3OHpkTlVla2I5dFJSUTgwVWc4bFVTWklERHVHa2lzM3RGbUc0c2NLQTFGM09RQTF0OEF2S3oycy1YMnRGSTFPRDExMzJxSUE0TjhfeW9IQ3Q1emNoVGxCZlR6clA0Q0o4STFhWl90R0E3dG5MZzREcnUwMndpMnA?oc=5",
    "published": "2026-11-03T18:44:07Z",
    "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "17ce1787bed6665c",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Guggenheim 3rd Annual Healthcare Innovation Conference - Helus Pharma",
+   "summary": "Guggenheim 3rd Annual Healthcare Innovation Conference Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWktsMkk2YU9vdmNJNmFkMEs2YmVIbm9Kb1BoY2p3R0U2V051WndHajAtSVlsTzdzelR0ZHZkSEYybGdGenJnazh3a1N1NUZaOHRqb0VoMHB5UDdLdWpYSDlXSEp2V1lmdUxnVnY0TlhrdVd5bTNua082cUQ5UkREZW5tb3NsVjN2U0lEa29nWjk2cUV4VUtMTEdpWW8?oc=5",
+   "published": "2026-11-03T16:01:40Z",
+   "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -2971,17 +3092,6 @@
    "published": "2026-11-03T11:30:00Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "b2d81312b5f66a65",
-   "company": "Novartis",
-   "title": "Neuroscience Territory Account Specialist – New York City - Novartis",
-   "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjVuclN5dG5iVHpvSGxXZ1BIdzg0cGp5cFQ0VW1BSlRUb1dRQk5OaHdsbG5pQlpuODNJN2xQUWNudlFkeE9mdEpGSVppdEE5d3d6U2dmdXRBaVJIMW85cl9vV2JIQS1zaV93U1F6TUdpMUJSRFd5T1Z5M1dJVHV1R1l1TU9HdjJmRmhjSEMySWpqV19UNGZHOVJIU3lPV1M4OXhjSjU5RTNDeG1yemstZHNoTDdyNDlpVHpfVDloZmwwRU5FbWE0UFFYcWNZQQ?oc=5",
-   "published": "2026-11-03T10:29:10Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -3040,6 +3150,28 @@
    "first_seen": null
   },
   {
+   "id": "e2f8fa6b11aafa96",
+   "company": "Serina Therapeutics",
+   "title": "A passive investor reports 2 million Serina Therapeutics (SER) shares in an amended disclosure. - Stock Titan",
+   "summary": "A passive investor reports 2 million Serina Therapeutics (SER) shares in an amended disclosure. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd3UwLXlUZ2VjWnVSWmFZaFoxSHU5eE04eC15TVd2aEx6cXVtOExvcnJRYVNKN1J1YUtCaGZhczE0cHdUU0ZSN0pLUDNGb1Y4WFhhcUw2R21DNEQ3VHhRdW9zSVl6ems5bG5aR2h4OGQ0UWNLeEM1MHBhQUhnUlJ1Qm42VlNRTmZDMVJ6d1RLeTFEUjFXay1WVGFtQWp6dE1jLVhIRkdXVkZhaUxTYVRYYk1PLXdrV1NmZEVhQjRxazdVZDNsb2FxWnZB?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0dbd14657326c9ec",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics (SER) Edges 1.08% Lower to $1.83 as Shares Drift Toward Lower End of Range - Donchian Channel - https://www.siam.in/",
+   "summary": "Serina Therapeutics (SER) Edges 1.08% Lower to $1.83 as Shares Drift Toward Lower End of Range - Donchian Channel https://www.siam.in/",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLVpFNnNxZ2pmTmRlbnBkdm95MjBTUG53RGtSbDROVThBSlMyeC1JMmZRUURsUG52QTJXVmdRUFBuTmxhbTM4LVFkejVsbGIxU0ZTaUowbHcyZ09IOGIyRVJVbFpGNV9MZWJZWmdVamhydjQyc2VtX1ZqUHZEMWlwZFRjQzlmMXhGaUpTajkxMGdRQWViaEFTYlhsaG5QN0txdHJESkhNNFhhR2lVbDBNRi1hRWFBWFRVanhvbUpfTjBRazBvTFBJZWl2X3E?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "https://www.siam.in/",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dd359d86190e407a",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals Legacy SEC Filings - Supernus Pharmaceuticals",
@@ -3048,6 +3180,17 @@
    "published": "2026-11-02T22:10:59Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b9dc5dca1f0a7640",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics (SER) Stock Price, Chart & Analysis - debelegger.nl",
+   "summary": "Serina Therapeutics (SER) Stock Price, Chart & Analysis debelegger.nl",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrTnZ4NFFjYlBvUTFhbGV5U1BFLXBLZERZTldzN3IzX1pzTERXOC14bUNYdE5tQklodVAwUUN4TDQ4LWVlaTNvdHlDUlpWSm9wMlJV?oc=5",
+   "published": "2026-11-02T12:48:17Z",
+   "outlet": "debelegger.nl",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -3447,6 +3590,17 @@
    "first_seen": null
   },
   {
+   "id": "9d20025ef29df802",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Announces Co-Founders’ Transition from Executive Leadership as Company Advances Toward Next Stage of Development - Helus Pharma",
+   "summary": "Helus Pharma Announces Co-Founders’ Transition from Executive Leadership as Company Advances Toward Next Stage of Development Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIQ21aYmFvMXYyLTlUX0VIbUtUY0pLdzVxUDFtVnd1Vy1DLWZKRVBnU3dISTVvU0lRM2VpV1VzMGpramVoNlMyaFNFMA?oc=5",
+   "published": "2026-10-27T14:53:42Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "a9d5f55148cac6e6",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals Presented an Analysis of Phase 3 Data Demonstrating TONMYA® Improved Physical Symptoms and Functional Ability of Patients with Fibromyalgia at the IASP 2026 World Congress on Pain",
@@ -3762,6 +3916,17 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOFhkUi1iN1NvNzlmRVRJMGhUS21wbksxd0RHaW45em0zZEdiWUxDS3dtSGJjT0ZoTWg2dEdCR1FORmpwX0stY3JJUEprYnFydG9GNkl5a1RtV0FMZGt5SERfQXZSMHFOa3Z4U2UyOW1zc2JwS25NdUd0Q3NGdDUxT0tFNXlaMnV1ektqQ1AyT0lUTmJzY2ZkcGVfS3FqQ2RPa1RLTGRlNXR1TGRUVjBjMldZUWFUWmNYd0NYQTJiZVJpbjl2UEI1aW5GUlp0dnB3cDRn?oc=5",
    "published": "2026-10-22T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7c549a19d78d50f8",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics (SER) Edges Higher to $1.80 as $1.71 Support Holds - Single Stock ETF - siam.in",
+   "summary": "Serina Therapeutics (SER) Edges Higher to $1.80 as $1.71 Support Holds - Single Stock ETF siam.in",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0s5Ny1KeHBzXzlNb19BbTYwUU1la2k0cHpQc2VZV0ZJUklJSlVBaVl2RkgyU2YwU1FqclpaNW5vUl95TXZMd2ZwcDdiSTQ1cW54SzRLSjhjZEt0QjIwX1NrT3lOdUoyTkRaSHRKeUFuY1dBNmFGYW1ZdTVKWFZleE1MdHUya2tub2F5a3Qtek1iYlphR09WUEhDOVhoeFFSdnpYRUQtZzJ1UW8?oc=5",
+   "published": "2026-10-22T07:00:00Z",
+   "outlet": "siam.in",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4954,6 +5119,28 @@
    "first_seen": null
   },
   {
+   "id": "2ab0cf13407599b8",
+   "company": "Serina Therapeutics",
+   "title": "Registration Is Now Open For Tribe Public’s CEO Presentation and Q&A Webinar Event \"A New Approach to Advanced Parkinson’s Disease: Serina Discusses SER-252’s Clinical Progress\" - BioSpace",
+   "summary": "Registration Is Now Open For Tribe Public’s CEO Presentation and Q&A Webinar Event \"A New Approach to Advanced Parkinson’s Disease: Serina Discusses SER-252’s Clinical Progress\" BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPSGZkczVTZnpsYThGa0NqcXZIYnZrQkk1V2FnZWhNUGN3V0s0d3F0Ymx4bU5GeU1hYUlYb0FzX0pTSnFPVGdvMDF4OUZaOGNvVmQ3WlBveXM3ZWFkTnF0TmdoZzA3TzhFMEw3Vlc1VUZrWjd3TUR5N28xeTBYVGFkdkVKTDZBYjdEYWNheEFWd1JXNWxjVTdNa0J5TmtENzBiNzlEanFmaUwwUUJVUm9aRHkxTHN1RnlQbHJqc2tSYWYwV01SVEZ4M05JWkh0d2Y0UEU5ME0tQXZzY0lNNjJWYWpENUN2d2xsdmNyendiRGhwaXk2THZSTUc5WVB1Z2Q5NVNXSmJZU25SVWlMVDA5VTZPZXgwSndKa0xzWFhRa0FkdEw2bmtPLVA4WWNwM3lhSjJleHp3?oc=5",
+   "published": "2026-09-23T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1bf56a9bdd526a00",
+   "company": "Serina Therapeutics",
+   "title": "Registration Is Now Open For Tribe Public’s CEO Presentation and Q&A Webinar Event \"A New Approach to Advanced Parkinson’s Disease: Serina Discusses SER-252’s Clinical Progress\" - Morningstar",
+   "summary": "Registration Is Now Open For Tribe Public’s CEO Presentation and Q&A Webinar Event \"A New Approach to Advanced Parkinson’s Disease: Serina Discusses SER-252’s Clinical Progress\" Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxORXlFbGxMZ1JfcmZPODdRUjdtSHNSelYyM2l5TjhTOHpxYUNPOXhoR0toTEVrVGhqZ19xTnlad2t4U3JEcDNISW9QRlduZGw4RE90bTBrSTRhN1ZWd09NMjg5TGRZQWlOYmlFdGFaNDdnTS0zelpJdG1MZEdJaTRLT0JQTXRQcko1anNBSWc2ZjZ4UHY5SDJkb1VVdWtWWU82NlFHRTE5Y1N5aUc1ZFo1UlMxS2FTajZSZVdUWW5hR19iSWhDWEZzZXJvV3VSc0UyRTZfVXhYdW40eDN2eHNwVnFZdDlydXpwUGdOYUl3Rk9vUU5maWRIRnhnQXpCVVF1VmhyMHVZclI4MENSeHNKaDg5N1BWNFM3dmhkalhVVXZsXy1xcUhBRHF6Q1Zla2hLVWpKTG9rM1hRaDBwQnV4ekxxUjZDSHo2YlE?oc=5",
+   "published": "2026-09-23T07:00:00Z",
+   "outlet": "Morningstar",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "37ca1df71bb785a9",
    "company": "Reviva Pharmaceuticals",
    "title": "Reviva to Participate in the Lytham Partners Fall 2026 Investor Conference",
@@ -5083,6 +5270,17 @@
    "published": "2026-09-21T07:00:00Z",
    "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e030fe534e7f4f2c",
+   "company": "Serina Therapeutics",
+   "title": "Wearable-delivered Parkinson’s therapy shows promise in early trial - Parkinson's News Today",
+   "summary": "Wearable-delivered Parkinson’s therapy shows promise in early trial Parkinson's News Today",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORmMxUnZKTmtpeC1BcmtwZ0lRamc3TURLSVZuMzBLSFRoUHA2Qld6TjRTWlFpanY3WHZMdHBPLVdVcE5neU55VVRPMmhiSVNDZUhVVDhtNmZTX3J4RmlIRjVRNy0wTUpmei1JdTBEMU5leUJJU3BQWmtiLXpEbWw1X0dvWkE0U0tjSlkzV1p6VldzdmI3dUpMbDBleFF0ZThpQ09Z?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -5614,6 +5812,17 @@
    "first_seen": null
   },
   {
+   "id": "910833f96bd86d9d",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Morgan Stanley 24th Annual Global Healthcare Conference - Helus Pharma",
+   "summary": "Morgan Stanley 24th Annual Global Healthcare Conference Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWJjNnFjTHY4ZzFWMFEyeW9rWjlGc3ZtU0pXejdYQTN0dGJMbGVwZjAwN2IydVNYZHVrb2ZESDJ5dTc5aklMY0NSdU1DSnBTaldzZjM3SHRhdEk5bWFzVUlWNm9mNnpVZl9TVHN6ZXFGTDUyOEM0Z1NhNWpnczVPUUFtNUVfWDZyWjVxLXBsN1I1RjZOV3gzSHJBQklSdw?oc=5",
+   "published": "2026-09-10T16:03:11Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "5f9960ea43f588f0",
    "company": "Resilient Pharmaceuticals (ex-Lykos)",
    "title": "FDA to consider ‘innovative approaches’ to psychedelic drug development - RAPS",
@@ -5684,7 +5893,7 @@
    "company": "Incannex Healthcare",
    "title": "Incannex Healthcare Provides Corporate Update on Clinical Progress, Intellectual Property and Capital Position - Incannex Healthcare",
    "summary": "Incannex Healthcare Provides Corporate Update on Clinical Progress, Intellectual Property and Capital Position Incannex Healthcare",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DMlBhd0dRbVVTdWxMbUVPczd5RUhnUEJ1cDlyOG4zenFqTzlFVEFIRWhueXdmRWxQQ3Ewa3R3c24wMERHejRUVXAzNF9JQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUF9PbUoyalctV0xFRjQ4SGpHSjBOcUlEVFVtSnN3dGR0UGctYlNoeWJmM1JSTE9JZ1g2bktFVWlyWW4tc3VLTTd5c0x1V3VSdm1kbVRiYlMtRUNabXhIQVV3alNxTWFwSXZ0emxxZUJhdkhMdll4by1yVGZnVTVuNlRrTm93M0h2S1NoeFN1cnVtb2JjVUc3eGtUQzZIbFJ0cmJwNlFTU2g2Vktxc2tvRXVZRWs4czI1WDZOSEFNWlM?oc=5",
    "published": "2026-09-09T07:00:00Z",
    "outlet": "Incannex Healthcare",
    "method": "newsroom via Google News (site:)",
@@ -5710,6 +5919,17 @@
    "published": "2026-09-09T07:00:00Z",
    "outlet": "Quiver Quantitative",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9c6f133a228e3f55",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to Participate at the H.C. Wainwright 28th Annual Global Investment Conference in New York - Wed, 09/09/2026 - 07:30 - Helus Pharma",
+   "summary": "Helus Pharma to Participate at the H.C. Wainwright 28th Annual Global Investment Conference in New York - Wed, 09/09/2026 - 07:30 Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2pBZ2JTTW42Zkd0bG93b2pDZ3o2OFZjQTN1TERpNUNjYkxMd2lQWkFfaUdQT3ViVHVtWWZZNmFWaUhqVU9LRkZwZkRyblpBN1lOVFNmbTV0RjlzUmM4d2NNZUpNY2c1VEZTcXRod25nQjQxVk1QdE9JZzhLckJLam5qUVFkMXJWVWZNQTZwOXVsZUNnVlBQaXJoOWVfdEMzZDNwbzBvZ0lDQ1ZOb2pidTByQQ?oc=5",
+   "published": "2026-09-09T07:00:00Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -5823,6 +6043,17 @@
    "first_seen": null
   },
   {
+   "id": "b94950369888bf35",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "2026 Cantor Global Healthcare Conference - Helus Pharma",
+   "summary": "2026 Cantor Global Healthcare Conference Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUkNlNHMtaThCNmtHTzVwcUdBSERHM0FtM3pTdUFpZVcyOGhtZFpvOVlobDRxNmJTVUV6WWloeV9CTkF1aGFyVjZOeno1ckdld1ZaZ1NETGlFaG4xOTZ0MTEwYktCVGdxT1dacURULXVyUnZtaktOMGNlaU1LZ1hBZjZNcFAySkppNHc?oc=5",
+   "published": "2026-09-03T13:57:15Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "51ba26aa6bff86a6",
    "company": "Xenon Pharmaceuticals",
    "title": "Xenon to Present at Wells Fargo Healthcare Conference - Xenon Pharmaceuticals Inc.",
@@ -5852,6 +6083,17 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc25vSTEteVN5TENyY3MtbDBreGNORm11NEx6Qmpyckk4bGdRTTl5b0czbTFJWnh5OGNQZHRjVWlJR21uX0taaVNDYWNSWG91d1JNYjV0ZlI0bElrWDI1UXRUTFJEbVg0dnFVVE5Hcjl5MFlqOFhSbHhzdXp6ZG9jVmE4VzhiRk84NWZsNkN2ZWhYcVgxOGtFMHQ5akxHSWp1dTFldWJ1RUt1R2hOWktjbFNwQ2lTXzVaVDU0cnNB?oc=5",
    "published": "2026-09-03T07:00:00Z",
    "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8cb28303e1b00a25",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to Participate at the 2026 Cantor Global Healthcare Conference in New York - Thu, 09/03/2026 - 07:30 - Helus Pharma",
+   "summary": "Helus Pharma to Participate at the 2026 Cantor Global Healthcare Conference in New York - Thu, 09/03/2026 - 07:30 Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUlJJbmM5T3Z4ckQ1eVVGZWVfek9pbXZwUl9sS0lNTXp6WjE2YjZUVEJVR3B6VkZCYUo0TVpDdk9JZGV6LXY2S09LUDQteGQ4WHRWRWF3dm1yNGtRem55eUtPSC1vZnVhS1JFNV8yWmZaMXZmWTV0WkpJTzVhNDFGODNwQWtObjhUODBHN1dxVUQybmptUnJwYWthZkdVaDNaWEQxdzlvZTRkMVJLWEpJ?oc=5",
+   "published": "2026-09-03T07:00:00Z",
+   "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -6469,6 +6711,50 @@
    "published": "2026-08-13T07:00:00Z",
    "outlet": "The Australian",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1e275ab732f510b2",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics reports Q2 2026 results — $23.0M cash; Q2 net loss $8.9M - TradingView",
+   "summary": "Serina Therapeutics reports Q2 2026 results — $23.0M cash; Q2 net loss $8.9M TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGFYYjRKMDVjVXh3RlVCZGowLWFGSnFhaVpSd18xdjVsSkx6cXFLNFhsWTlHcmxLamRtWXdIdlRXSXlRSmZkV2dfdXNnazA5aDNYZnZjT0ZtN2ZGRW9Nam9YdVNiY1JwQWZWRl9ZNnJQbEc4ZmQ4TEZtTG42RVRpY1NERkFxVnRBN281MkxGejVsRG42WjVuM2dxOThhNjRPVWpRbm4tMThTU0Q4d1oyZnRaUUlXaVhNUC1KNU1yUFk5dzlVaml1bFFSMjJuUQ?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9759f2ada1df2c44",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics, Inc. 2026: Revenue $0 EPS ($0.55) — 10-Q Summary - TradingView",
+   "summary": "Serina Therapeutics, Inc. 2026: Revenue $0 EPS ($0.55) — 10-Q Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjBBbEJpV2V1VUFHVVktS2ozbG04RlgzckktOTZPZ25aRFVtMkg2bXlQSnBZXy0xOXFJaUlOSWg0a2NCaHlQYzdSNkx4T2Q1WlBnekxyclRlTVd4WHFnOEdibFNFR3VGbUlkWnEtU3FLQTBfcUJRdzk1a284RWpoOG1KcTlrN3lPWDNFYTV4SGw4aXN3WkF3WkM0bDNyN2plNzVvU3lGdU1lWE9nclhGem9VenpvRjNEcVhSUVlDRQ?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "88cbc1c7f25adb51",
+   "company": "Serina Therapeutics",
+   "title": "SER: SER-252 Phase 1b Cohort 1 completed early; net loss rose, but cash position strengthened - TradingView",
+   "summary": "SER: SER-252 Phase 1b Cohort 1 completed early; net loss rose, but cash position strengthened TradingView",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUXlVVzVlREdXTDd3MXg2NEhaOGFVLW5FeTBUTkdORTRuTy01Q3l4OVJUelZMc0t5bVItQ3V2RG1nam1ZanlYbFlXWnR6VUpZcE9WRlZnN3ZmQTNHX3pFN1pHWnR1VkJmdEs2TEFDUmFRVTg4WWtjYm5kSEtLUFJmcVhkQThxLXlJbzQ3bU5WQjkyejFHTU9TamNTUjNvV25sTXJndFRuLV9ueE14ZDNwSEttZW9sVExnQmhlS0hHZlFCT1Jpem1DWHE4bGV2Z1RULWdybTRQUkZidnJVMHFzLWpQbmlIVncyV2VoT2dFd3RwQ19xVGFvY1BjenJZai1CRHQ0?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "12881245dab143be",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Brian Korb | Board Member | NRx Pharmaceuticals, Inc. - NRx Pharmaceuticals",
+   "summary": "Brian Korb | Board Member | NRx Pharmaceuticals, Inc. NRx Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfSFJ3Y014LWJ5ZmVPU2U5MU5uUnVEeVBJMS1SWE9YTWdZRmkwX0ZiUGd1T2V5aHhGN1Bjd1htWE5URUwwY1lEa1VpOEFiNVVLWUNZYm10LWpBQ2Vi?oc=5",
+   "published": "2026-08-13T03:31:19Z",
+   "outlet": "NRx Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -7638,6 +7924,17 @@
    "first_seen": null
   },
   {
+   "id": "b2d81312b5f66a65",
+   "company": "Novartis",
+   "title": "Neuroscience Territory Account Specialist – New York City - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2VQWlhJem1hUjF6N1JuMzRYR1ZfNDhXazJMMmlZMTZZQWpsQUZiejBTRHZDbVE0dzRpR3NhYUt6V1RibkR1bHVZMUc0N1UwZXNvZFBla0lMd1ExcUNUMk1kQ21KOXR3al9GNEx6SE1aaGhwQV9yZkxpQmE2WXRyemQ5ZndXWEdqdU1TRlMzLXNpWW9hbFpQOTdPYVk0SXJrTTFwblIwUTJZelpFLTNtb3B0c3p0UGw1NUtKeFdZOENsVDhhUkE?oc=5",
+   "published": "2026-07-21T00:57:02Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "fbad692909861c63",
    "company": "Newronika",
    "title": "Newronika, the report on TG1 Medicina - Newronika",
@@ -7778,6 +8075,17 @@
    "published": "2026-07-13T07:00:00Z",
    "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "01573e6b10b0f9c8",
+   "company": "Serina Therapeutics",
+   "title": "Serina concludes sentinel dosing in Phase Ib trial’s Cohort 1 - Clinical Trials Arena",
+   "summary": "Serina concludes sentinel dosing in Phase Ib trial’s Cohort 1 Clinical Trials Arena",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGV5bHlVcUVlZ19jVV9LTVhoZDlVYlpQM2M0bG1Kd21hN0cxRnMzOVdoanZveHprYVNCbjVvT1hKQVhlX3dic2pxdlpEa0FmMFJIZlJsd0N0bTRSQnFlamVNS250S29zWmdfaEVTa3Bnc1JmeFRKNlVtdDRmWi1wc29sNFRWTjNE?oc=5",
+   "published": "2026-07-13T07:00:00Z",
+   "outlet": "Clinical Trials Arena",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -7990,6 +8298,17 @@
    "first_seen": null
   },
   {
+   "id": "ab450dab07630862",
+   "company": "Serina Therapeutics",
+   "title": "Gannet BioChem partners with Serina Therapeutics on SER-252 - scanx.trade",
+   "summary": "Gannet BioChem partners with Serina Therapeutics on SER-252 scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclRnX0plRllpTVpsYTNrQUMzdm5kV0xoVl93b2prb3pVanVIcjhHdUNNaWlFSHVrNms4U3ctWHpET3JQLVV6YTE0M1JuSFhyeXRwMXBoUlh0QktfamdvZ1NpR29TX1dwMm1SdW1PRHZIRG9tc2hxUFlDRXNzcTh2Wk03S1EwWkpWcXNSMm95Vno5ckFyOGNXSnFLRW03elBKVWczZnR4Y05tWmdoeWhrRlgtN1dEa0k?oc=5",
+   "published": "2026-06-30T07:00:00Z",
+   "outlet": "scanx.trade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "473cadf608f17eb0",
    "company": "Zambon",
    "title": "Zambon Announces Positive CHMP Opinion for Hopledo® (IPX203) for Adults with Parkinson’s Disease and Moderate to Severe Motor Fluctuations | Zambon - Zambon",
@@ -8075,6 +8394,17 @@
    "published": "2026-06-27T06:28:15Z",
    "outlet": "neurocrine.gcs-web.com",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "0c11f0e53738f02d",
+   "company": "Serina Therapeutics",
+   "title": "SER Forecast — Price Target — Prediction for 2027 - TradingView",
+   "summary": "SER Forecast — Price Target — Prediction for 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBURHYxRnM2S1R6SHZTd05UUU9uV2szVG85cTFLTkJHWkQ3bWFQVnZJNFdDU1R2YXFQQ3E5U2NFOUtzUFptN1pDTng2UVB5Q3FTOHExRjJybEFOQnVvMGNWM21hTlA2d0ZTMHRpQXdPOVFJaGRIdVE?oc=5",
+   "published": "2026-06-26T18:17:38Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -8226,6 +8556,17 @@
    "title": "Helus Pharma™ Announces US$50 Million Underwritten Offering - Wed, 06/24/2026 - 06:01 - Helus Pharma",
    "summary": "Helus Pharma™ Announces US$50 Million Underwritten Offering - Wed, 06/24/2026 - 06:01 Helus Pharma",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHFvZjhtVHlxSG5tUGZQX1BaSkhqQ2VZTEliSWNaWi1CenBFcE55b0NzdWNtSmpQZFFmbmh1aUZaamVRMVRPd3ZlZzJMZndtV2M2WFpkWXhYOUNmRl9kc1h1Tkh1aVZtV0Zpa3VwLVVyRHBWTXlDSUpQTVRFa1FxNXlWcW1WbTZUbnFGVTdVbVhqTm53UXBUQXEydGRsQ3dhZlljeG8wbEZMQ1lObU5mM3lJSWVVQQ?oc=5",
+   "published": "2026-06-24T07:00:00Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "9b0e39c199787659",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Provides Update on APPROACH Phase 3 Trial Enrollment Progress - Wed, 06/24/2026 - 06:00 - Helus Pharma",
+   "summary": "Helus Pharma Provides Update on APPROACH Phase 3 Trial Enrollment Progress - Wed, 06/24/2026 - 06:00 Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTnQ0eVpHWTVqeW1ZOGRPU1BmRHBqQ01IaEpvZGE4RDFFR3FJcXBPclF0YzlRMkFZVDlPdm1pbkZsenpGLTRubUVjbVNQQmxRcmhpWjRpcHFFQk5Bdzd5dU5kWnpUMUxscVNWX1AxeW02Z2RJYjQ3YTZmYnFLMmdqMDFRYkNYT3FoV1M5aUtOTlYzZDVMeDZoNUxlMWUwdG5GVElsbDhtMDl0eXBpTTVjczlVOEprNkNMMFE?oc=5",
    "published": "2026-06-24T07:00:00Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
@@ -8760,6 +9101,17 @@
    "first_seen": null
   },
   {
+   "id": "5aee241557029da5",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals, Inc. Announces Closing of $22.3 Million Public Offering of Common Stock and Including Exercise of the Underwriters’ Option | Thu, 06/04/2026 - 17:12 - NRx Pharmaceuticals",
+   "summary": "NRx Pharmaceuticals, Inc. Announces Closing of $22.3 Million Public Offering of Common Stock and Including Exercise of the Underwriters’ Option | Thu, 06/04/2026 - 17:12 NRx Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkM5OU13MlJRNU4wQWU0cExfUHFlazJ4aktpYk5zVGtVc2M4b3JOejJYMmlIODJFaUhNT0x5T3Z6RE1sQ1NjX1Z6ZlRLdjVySjU1QU8tY0FGUWxSOUVNUDAxUEswZWFMQWhiNGxjNy1MRXNNRHhxVDZfNWZpenl2UkVxT1RTbjU2anBTdGZZbEtaX214bFQ5OXdjM0x1a3hVeE9uTFg2RjZTVGZVN0xWWnVVc2tRRE4wc19RVg?oc=5",
+   "published": "2026-06-04T07:00:00Z",
+   "outlet": "NRx Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "9d6e854e3bebd0da",
    "company": "Autobahn Therapeutics",
    "title": "Autobahn Therapeutics Reports Positive Phase 2 Topline Data for Elunetirom in Bipolar Depression, Demonstrating Rapid, Robust, and Durable Antidepressant Effects",
@@ -8789,6 +9141,17 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTB2cDBrVzNfOFpnWDBRZzNjdUtieTRLdndtSTA4dkVyOTlpRVFnN3FmeVNCUlU0dmlWRkpXem83S0M1bDVjN3p5ZWtfd2FkWlZKZHM2aVVkYmNia3d0dy00aVdmeE9YTE1YclNFU1lXRkdrQUxsN1JmdXlibUZoeXctcGYxX3JPOWJ5LUktSVNRUU01YnYyS3hieEE3U2NkaERscFdJaldfTk1YVlBHa3ZFWmJINjZWeWowQ1l3?oc=5",
    "published": "2026-06-03T07:00:00Z",
    "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "d603b0c8a2343211",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals, Inc. Announces Pricing of Public Offering of Common Stock | Wed, 06/03/2026 - 08:19 - NRx Pharmaceuticals",
+   "summary": "NRx Pharmaceuticals, Inc. Announces Pricing of Public Offering of Common Stock | Wed, 06/03/2026 - 08:19 NRx Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTk5qWXd4bS1HZDlIem5uY1R0amVWLTVyNzdTc1QtT2h3ekp5d3Rqd29zZWV5bFVoVEx2cTFJcFFYai03eFd1aml2RWFmc2dncy1qc1d0dVRFRktTLXF2dVJQcWN6VVpLLS1nNjBQZGpCbXNpT01KamxjODlZdzB0bWt2b1lFMzRjVjc2YUlmcE1SaG1YdElSYXk0aGdkU1FMVFNBbXNHNkpkMmtpRXdGbXFhak83XzI0VGpqTG5rX09NUQ?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "NRx Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -8999,6 +9362,17 @@
    "published": "2026-05-27T01:48:35Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "9acfa2d5ba06b350",
+   "company": "Serina Therapeutics",
+   "title": "SER - Serina Therapeutics Inc Stock Price and Quote - Finviz",
+   "summary": "SER - Serina Therapeutics Inc Stock Price and Quote Finviz",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9KMFJpZUp5TWc5cmVSNmlOSUJ4Ui1kQkVHaTlvODhRRnM2MkZIbW9LS241eEF4NlQ5TmRTZFpYQzFKM0x4?oc=5",
+   "published": "2026-05-26T20:30:00Z",
+   "outlet": "Finviz",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -9251,6 +9625,17 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ob04yTEkzZkNKUm9pOXVCU3J0WXp3THp2NndvRk4tYnVvNFBXY2ZUa1RjOHM2aV9BRHUzT3pPbXFhT0JIZ19iNktNSGFLZHJTU3N2RkNaNlA?oc=5",
    "published": "2026-05-18T07:00:00Z",
    "outlet": "neurocrine.gcs-web.com",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "aa89386a98f3cd68",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Reports First Quarter 2026 Financial Results and Provides Corporate Update - NRx Pharmaceuticals",
+   "summary": "NRx Pharmaceuticals (Nasdaq:NRXP) Reports First Quarter 2026 Financial Results and Provides Corporate Update NRx Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xUlNMaEo1clNaVFVnT1lJTHluWTVvWE9wVXlUblBELWpiUnR5TDdGNjUxcF85TlZIdHlLQzlHUU54UEFLYUtxMmFDeFRNU3VB?oc=5",
+   "published": "2026-05-18T07:00:00Z",
+   "outlet": "NRx Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -9713,6 +10098,17 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVdLUHFBbDBtZTZzM1FRY1IzZmxxTXo3dXZBOXJaLUxhRHVZaFJEVHJlZ0dnWWh0Y0tmNFp5UW94QTM4ZEV5eVdwQXlYUnJ3SzEwQTlHRVJvMjVLQWpsMUxMYzNPLW1rZndWLVFxTnJZZ0dlZ3RoWnVZeUFIaWVyeVNZT2xDSVFhVUtGNk5qMTdkZUs0MXU2QWZFdnpLYTNpbmRpWU9IR0ZZSmViMGZsSnI4RjFkSmQ3dndzSFFoNjZMb1RIWjlWNFZrS0hCQnA5T3c?oc=5",
    "published": "2026-05-07T07:00:00Z",
    "outlet": "Annovis Bio",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8a82502664826d24",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Announces FDA Clearance to Proceed with Clinical Trial of NRX-101 in Combination with Robotic-enabled Transcranial Magnetic Stimulation in Patients with Depression and Suicidality | Thu, 05/07/2026 - 08:00 - NRx Pharmaceuticals",
+   "summary": "NRx Pharmaceuticals (Nasdaq:NRXP) Announces FDA Clearance to Proceed with Clinical Trial of NRX-101 in Combination with Robotic-enabled Transcranial Magnetic Stimulation in Patients with Depression and Suicidality | Thu, 05/07/2026 - 08:00 NRx Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlpLUFZ4ajBla1ZORV9QYldia3FLWVk2bDJDb1JRXzA3WjF0VllzREszZjV3bWxrOVRuVElqRkVJdHZKdWs5ZlFoZlBpNlZjdi04bDQwU2k2Yk15UmhpQTNpeFJkZV81RzE4MnIwa0lHM05PM1JQd0VyMDBHTllIZkdhNzdtbHpRVVlVVEtqSm03TnhGUkdLRVhSdjlKT09GU01FR0FuS1dZeklUa3hQd1FhRlg4aG5rRlF6a014NA?oc=5",
+   "published": "2026-05-07T07:00:00Z",
+   "outlet": "NRx Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -10256,6 +10652,17 @@
    "first_seen": null
   },
   {
+   "id": "ddb0f5c914979c7a",
+   "company": "Resilient Pharmaceuticals (ex-Lykos)",
+   "title": "Breaking: FDA Awards Priority Review Vouchers to Otsuka, Compass, and Usona - Psychedelic Alpha",
+   "summary": "Breaking: FDA Awards Priority Review Vouchers to Otsuka, Compass, and Usona Psychedelic Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1RYZk9FSS1uYUpBV3Rqa0s5cVVEd2V0NGpuR0JJZURvUVRrTTF1Q0g1emo4ZG1PT09VeUJYbnUtck0zMm5tTXFBMk50R0JkdjdhQWZrcjd6UVNxeW9GNzhSNGNkMHJVUUEzNXFaZU1waWZLRXdFQjFVTjZkMEhMUGEwWkpjWVpQSXBEeDNIekpYbm8xQ2t6RG4yNnlBU1U2cThqWDVIdEdYNGM?oc=5",
+   "published": "2026-04-24T07:00:00Z",
+   "outlet": "Psychedelic Alpha",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
    "id": "e212d250f0623af7",
    "company": "Reviva Pharmaceuticals",
    "title": "Reviva to Participate in a Fireside Chat Hosted by A.G.P. on Brilaroxazine’s Potential Across Multiple Neuropsychiatric Indications",
@@ -10762,6 +11169,17 @@
    "first_seen": null
   },
   {
+   "id": "7457e96e631ce7ef",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "CYBIN INC. DOING BUSINESS AS HELUS PHARMA - Helus Pharma",
+   "summary": "CYBIN INC. DOING BUSINESS AS HELUS PHARMA Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fTTVCZ2RWemRkTklLemZWeXVWbGpsQ3hwb3BSLWE4bWdSMkJ0alJMemlHU09Tak1YUHBrUVJhNEE1REZSbVdySmdSRTVVSkhZbFgtWVVmWmxDVml6MlR6aEY3Z05JU0VTSDNuRHpGc2ljbEEwdEdGNjlB?oc=5",
+   "published": "2026-04-10T07:00:00Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c3f912760927ecb2",
    "company": "Spinogenix",
    "title": "Spinogenix’s Fragile X Syndrome drug shows normalisation of brain function",
@@ -10960,6 +11378,17 @@
    "first_seen": null
   },
   {
+   "id": "b192d38bb4e6b8b7",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Patrick Trucchio | Analyst - Helus Pharma",
+   "summary": "Patrick Trucchio | Analyst Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12eHVzbzV2dnY4Tk5UVHZxZnJSUUtQTmFObEtBR05nNTB1ZTRzWDQ0bHJNUjE1dTVxYklkRXMzaVdXcDc2dUEzQmRITWdSN1Z6RWppdW90c2Q?oc=5",
+   "published": "2026-04-01T19:10:12Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "6fc86d324cd7bb51",
    "company": "Alkermes",
    "title": "Alkermes Announces Initiation of Phase 3 Brilliance Studies Evaluating Alixorexton for the Treatment of Narcolepsy Type 1 and Type 2 - Alkermes",
@@ -10971,6 +11400,17 @@
    "first_seen": null
   },
   {
+   "id": "0cfb10283c34d5c1",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin to Transfer U.S. Stock Exchange Listing to Nasdaq - Thu, 12/18/2025 - 07:30 - Helus Pharma",
+   "summary": "Cybin to Transfer U.S. Stock Exchange Listing to Nasdaq - Thu, 12/18/2025 - 07:30 Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPem1lWU9mVklwMEg2Q2dNNnNQRnl5Z0RXRUp0R1JfS1U5Mk5OT1QwYnNFTmpqeF9BMlcwN0pUOHpIZDhXV1ZWWUt6WXRYSnd2V1VPVV9UMTJZNTVteGVCYkU4QlY0cW92Y1hBWXJsWmJ1R1FwVUtVUjUwUGtId0dUREV4OEZWMzRPUWtCSFpsUi1NR3dpZ1hPVmN4cHZITTM0YThUM2RB?oc=5",
+   "published": "2026-03-31T22:53:19Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "7993dcffdf2357ec",
    "company": "Roche",
    "title": "ADPD 17 March - 21 March 2026 | Copenhagen, Denmark / Virtual (Hybrid) - Roche",
@@ -10978,6 +11418,17 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ed2h2T0dfZzlBWS1zQlRuTldjcjRvLVRlWnZvTkVKdDZ5cUVEMzJrc3gwbEY0T0pwSklBRW82bE03YzRkQ2toQzF5aXc5MU5lWWN5UmM0WEozUEtud05jRWpTUnVFa1lhZGZEZDg3VnBkcmhvSlQ0Q3dPZU0?oc=5",
    "published": "2026-03-31T22:29:56Z",
    "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e2000d6a85287478",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Annual Reports - Helus Pharma",
+   "summary": "Annual Reports Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQdEJVdi03QTRuUFlIdFgtOHFTY2ZETTRlZm5FRWFzV0tiZG0wc2xDYS02cHdJVzZweTVRMFQtWUVNNE1OQ2JHemZWSQ?oc=5",
+   "published": "2026-03-31T16:23:57Z",
+   "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -11064,6 +11515,17 @@
    "title": "Governance Documents - Helus Pharma",
    "summary": "Governance Documents Helus Pharma",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRFd2VlIzVDNyTXFWRU9tTzc5RkpSMjZrOW1rNlB5OTlubFZxZ1NlN2Qwc2g3Nm1GaXVLMHdSS2pIV2k1YmtNSjB4OEduSVBPbEVhSk5LUXhhLVVnQWhSNWJhbE5rMlVBNWd3dUlpOA?oc=5",
+   "published": "2026-03-31T01:49:08Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e1e8686f0dc051d3",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Historical Price Lookup - Helus Pharma",
+   "summary": "Historical Price Lookup Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12RzJIUlkwT0NRajRXWFVGQS1Fc05NMXg0R3NvU1FsQWkwMEhDYkJIU1lFdHVEYVkwT0ZrRzEyZmtoZUxOZEd1S1kzZzlLM0Zickctc0ctTC00ZVI1OHdpT0dSdnJpVnZSd1RnNTJONA?oc=5",
    "published": "2026-03-31T01:49:08Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
@@ -11221,6 +11683,17 @@
    "published": "2026-03-30T07:00:00Z",
    "outlet": "Pharmaceutical Technology",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "52f0131892c10931",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Hope Therapeutics, an NRx Pharmaceuticals Subsidiary (Nasdaq:NRXP), Announces Strategic Partnership with Emobot to Integrate its AI-Powered “Depression Thermometer” Across its Interventional Psychiatry Network | Mon, 03/30/2026 - 07:00 - NRx Pharmaceuticals",
+   "summary": "Hope Therapeutics, an NRx Pharmaceuticals Subsidiary (Nasdaq:NRXP), Announces Strategic Partnership with Emobot to Integrate its AI-Powered “Depression Thermometer” Across its Interventional Psychiatry Network | Mon, 03/30/2026 - 07:00 NRx Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFVEeHNBbkxHRU45YnFQVU9mbDE4S2hOSndFNlRscExzOEZCVFZvbGVBd2k3Z2ZoZFNyOUVnQUZtelhFTDJqMkdDd3dkTUY0T3FFS0dDLUpWTGlibHAtUy00RFZKN2tvU0lmQy1pcnhOVEVXQkVKanowOS1SVkRxX0xRT2NNZGxGc21vNTIxNVV4RUFfUnNob0RwRVB1OVQ1U1lRSnQ5SmRBZGhBU1hOcTdGWDA5X25yTzFF?oc=5",
+   "published": "2026-03-30T07:00:00Z",
+   "outlet": "NRx Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -11451,6 +11924,17 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOalhsQ2JqR3dNXzVPeWNCeV9PUU45X1plN2o2b3YwZk44dHJwVFNXUndHdktTMHhid2NhYnIyekJpYjZfaDJPbFBuanRJYkQ4NUxjX2pSYzBQYUhhVEZRZmJjUFlKV3gwcnJfVmhpa0M2bWlSRnprY0F2S0RJNzVKWUx0QTJJVEViMlAwbmdmWlZvOXc5VnRXR3FaMnk0bjZGTUQ3WkZlXzlsODY3Q2Zj?oc=5",
    "published": "2026-03-26T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "332ab9956e20045e",
+   "company": "Serina Therapeutics",
+   "title": "SER Stock Price and Chart — AMEX:SER - TradingView",
+   "summary": "SER Stock Price and Chart — AMEX:SER TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOTnJkVGtzUzZENGpGWnNiaXY3WUxoVGw1REt1dnZOeWhhdXYzVmx4ZDBLVFhsR2xNS2tfX1VmWFg4bHRwaWRUXzQ3MllWQlhLaWI5X01TRnA?oc=5",
+   "published": "2026-03-26T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11826,6 +12310,17 @@
    "published": "2026-03-17T07:00:00Z",
    "outlet": "Fierce Biotech",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9321a6f3eebca740",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Announces FDA Bioequivalence Determination by Office of Generic Drugs for NRx’s Preservative-Free Ketamine Application | Tue, 03/17/2026 - 07:00 - NRx Pharmaceuticals",
+   "summary": "NRx Pharmaceuticals (Nasdaq:NRXP) Announces FDA Bioequivalence Determination by Office of Generic Drugs for NRx’s Preservative-Free Ketamine Application | Tue, 03/17/2026 - 07:00 NRx Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGlSeE9CY0g2N19LODhncnl4d3BIM3pWYXJnVlc0cFVWUXNaS29OQjY3TUJNU0xsaU0xWTc1dDRTTEN3R0ZZM0lWMkZBMUxlUFdUamx0V0s5YUpXQVJsODl2ZXMxeFF4a0V6VldjWmFCXzY1YnNsTjBGMTdJVUJsTEUyajZxY2pnVUw5UVJmMDF6YW9kSkJ3dlV0N1A1ZmRYZGhwd2FUM0IwYjJOaTdua2ZiekdrdVF0cXZV?oc=5",
+   "published": "2026-03-17T07:00:00Z",
+   "outlet": "NRx Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -12254,6 +12749,17 @@
    "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQMHJyZ1k3QUlTN2VrMmJzR0xKLWdTajFvQ053R2lBczlzUWQtZXFzRVlTTlBYX2huY1BkanNrdF9vNG5nakJuNmE5ekdSQ1hJT29pVTBGTlBLV2FzYy1saDR0eFpLM0RMa1Y2ejVxdnQ3cnBWTVpleF9acWk4dXl3M1pfOThSVHEycUFiVHpZQ1R2Z01YRTJuakhJV3dvbmFPczdOaEZjUW1wREZ5ZW9WcllhdDdsTzdiZnlXSm5Zc0c2RmFBVG9mU0JMZEtRejMtU3NmSkFUOE5uYnRNM0s2cnM4LS1hcFV2c0RoS0J4YW1INjhUUFJCNTVvSzl4VEVFTjVfN2xJcUN6eTVlcUlvOFh1cG9tbjlLSTctR203S3hXZzZEbEhJUkN2N1d3SUkyR0V0YzU1MGZRNkxtamtlbGlqR1Y2a01BR09nNWRaOGxIaldOQjdTdmQtLWs?oc=5",
    "published": "2026-03-02T18:10:48Z",
    "outlet": "Prevail Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1ae89c3b0190cd1d",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq: NRXP) Appoints Prof. Joshua Brown MD, PhD, as Chief Medical Innovation Officer - NRx Pharmaceuticals",
+   "summary": "NRx Pharmaceuticals (Nasdaq: NRXP) Appoints Prof. Joshua Brown MD, PhD, as Chief Medical Innovation Officer NRx Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZklWU2plcjVfVkdhNktLcElONGVYVXlxMGtfeVlKcktJNDBrZGd3RmplWkpYTlNONzJVUXJCcUxLcFliMmdOeDh2Ulh2dHpzTVRFSU9RRkVJeUlvbDJRMDZYTkQxNEYxaHdGQV9UUmV2Vk9zMTJnR08tZXF4c196U1pRMUlBNkNpRnhES2hMQ0tfSTNMSDdXTkNFT21DZUt2dm45NENuV0ViOEJjUE82VGlzT2g4M0xHd05raHFB?oc=5",
+   "published": "2026-03-02T08:00:00Z",
+   "outlet": "NRx Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13127,6 +13633,17 @@
    "first_seen": null
   },
   {
+   "id": "2a797bd0a3cb77a0",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics (SER) Stock Price, News & Analysis $SER - MarketBeat",
+   "summary": "Serina Therapeutics (SER) Stock Price, News & Analysis $SER MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DSlFVNHNSSVRKVzZlMGl4M0NrM0NoeXI5NTQyWGg0MEdjYVViYmlKWGRoak9YZUYxZGJodW5DZ29NRGxycDVTLU5rdmUwS3JaQW1KU1RwMks0QldCT2NLVw?oc=5",
+   "published": "2026-01-21T15:00:13Z",
+   "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "12891077dccac12f",
    "company": "iRegene Therapeutics",
    "title": "FDA grants advanced therapy status to Parkinson’s cell treatment - Parkinson's News Today",
@@ -13644,6 +14161,28 @@
    "first_seen": null
   },
   {
+   "id": "42fd8b3f6344c352",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin - MDA - Q3-26 - Helus Pharma",
+   "summary": "Cybin - MDA - Q3-26 Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yNGFQaF9FdTNMdnlNaEUxN09oMWhNdmlyQlVSZHJaQ24tdVBsYTNPY2llSmh6VHFoZnFsRGtESldBMXlUNkIxc3BGNjZWclh2bmxYMFNWcnBNVnNsSHFDZERsN0dGN1RNalo4dF81dnRiRDRxcDR1aDd3?oc=5",
+   "published": "2026-01-06T08:00:00Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "afed705455733c92",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Privacy Policy - Helus Pharma",
+   "summary": "Privacy Policy Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLdVV6Mi1DcC1EVHVyNGJ2VkJYSEM0N2RBMl93cXBwM0FCclNTREN4NDhDeWlSZm9JNW00X3NlM3hGT2F6VDFHTDhadzBvdw?oc=5",
+   "published": "2026-01-05T21:28:11Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "728894b59534fd4a",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Archives: Press Releases - Helus Pharma",
@@ -13749,6 +14288,17 @@
    "summary": "Clinical Trials Helus Pharma",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KRHNrcGphdGIzN3ZqVUNFYmZsRGVxNFBnY01DaGxGamhNcWpXOFpSeTBrQlJNMnE1dlBpR1FEbWZEV09QZURnMUlwZjhOYW8?oc=5",
    "published": "2026-01-05T11:17:31Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "fa482f41f1c7cb7d",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Scientific Publications - Helus Pharma",
+   "summary": "Scientific Publications Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aUmNkWFlWekJjT1NtMFBBcnhlcHNpeFdfbF9Qd1pZMXhMcWFNMXlqOGxlNGxKd2sycEttU0k4am9tTlNFb3hJM2FnSDdYN1E4dFctbDctcVAzQQ?oc=5",
+   "published": "2026-01-05T10:30:01Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -14642,6 +15192,17 @@
    "published": "2025-11-21T08:00:00Z",
    "outlet": "NeurologyLive",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "a88fd3eafe428ad2",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Ending Veteran Suicide with Neuroplastic Therapies – NRx & Angel Force USA - NRx Pharmaceuticals",
+   "summary": "Ending Veteran Suicide with Neuroplastic Therapies – NRx & Angel Force USA NRx Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUTZJNnc2cGItUTI2MVVuTTNfQ05FMFlNZG8wa2dJWFlVd2VTYUdMREtwaUNHWjRQb1NZZlVpR0RDUmxqTWNUdDliNEQ2N1NrdEdCY3ZKMERXNFVYOFdSdWN6dWxVNUZYTFlJU05pRDFHVlFLbXdIUzdXanZ6YnBSazdJYw?oc=5",
+   "published": "2025-11-21T08:00:00Z",
+   "outlet": "NRx Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
