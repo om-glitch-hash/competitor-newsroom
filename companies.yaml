@@ -534,7 +534,7 @@ companies:
   site: https://investors.rapportrx.com/news-releases
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "RAP-219"}
--- name: MapLight Therapeutics
+- name: MapLight Therapeutics
   site: https://maplighttherapeutics.gcs-web.com/news-releases
   rss: https://maplighttherapeutics.gcs-web.com/rss/news-releases.xml
   lists:
