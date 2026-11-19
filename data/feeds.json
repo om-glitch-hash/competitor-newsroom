@@ -46,7 +46,7 @@
   "method": "newsroom via Google News (site:)",
   "site": "https://www.dizlin.com/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "NeuroOne Medical Technologies": {
   "feed": "https://news.google.com/rss/search?q=site%3Anmtc1.com&hl=en-US&gl=US&ceid=US:en",
@@ -151,7 +151,7 @@
   "method": "newsroom via Google News (site:)",
   "site": "https://www.brenigtx.com/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Neuron23": {
   "feed": "https://neuron23.com/feed/",
@@ -207,7 +207,7 @@
   "method": "newsroom via Google News (site:)",
   "site": "https://ir.ventyxbio.com/news-releases",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Unixell": {
   "feed": "https://news.google.com/rss/search?q=Unixell+Parkinson&hl=en-US&gl=US&ceid=US:en",
@@ -263,7 +263,7 @@
   "method": "news search (no newsroom found)",
   "site": null,
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com&hl=en-US&gl=US&ceid=US:en",
@@ -277,7 +277,7 @@
   "method": "newsroom via Google News (site:)",
   "site": "https://oryoncell.com/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Prevail Therapeutics (Lilly)": {
   "feed": "https://news.google.com/rss/search?q=site%3Aprevailtherapeutics.com&hl=en-US&gl=US&ceid=US:en",
@@ -347,7 +347,7 @@
   "method": "newsroom via Google News (site:)",
   "site": "https://www.gabatx.com/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "AskBio (Bayer)": {
   "feed": "https://www.askbio.com/feed/",
@@ -375,35 +375,35 @@
   "method": "newsroom via Google News (site:)",
   "site": "https://ir.atai.com/news-releases",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Arcadia Medicine": {
   "feed": "https://news.google.com/rss/search?q=Arcadia+Medicine+AM-1002+MDMA&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "site": null,
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": null
  },
  "Sensorium Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=site%3Asensoriumtx.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "site": "https://www.sensoriumtx.com/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Pharma Two B": {
   "feed": "https://news.google.com/rss/search?q=site%3Apharma2b.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "site": "https://www.pharma2b.com/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Helus Pharma (ex-Cybin)": {
   "feed": "https://news.google.com/rss/search?q=site%3Acybin.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "site": "https://ir.cybin.com/investors/news/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Transcend Therapeutics": {
   "feed": "https://www.transcendtherapeutics.com/feed",
@@ -417,7 +417,7 @@
   "method": "newsroom via Google News (site:)",
   "site": "https://www.usona.org/news/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Alzamend Neuro": {
   "feed": "https://ir.alzamend.com/news-events/press-releases/rss",
@@ -445,7 +445,7 @@
   "method": "news search (no newsroom found)",
   "site": null,
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Insightec": {
   "feed": "https://news.google.com/rss/search?q=site%3Ainsightec.com&hl=en-US&gl=US&ceid=US:en",
@@ -480,7 +480,7 @@
   "method": "news search (no newsroom found)",
   "site": null,
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
   "feed": "https://news.google.com/rss/search?q=site%3Amt-pharma.co.jp&hl=en-US&gl=US&ceid=US:en",
@@ -539,11 +539,11 @@
   "checked": "2026-11-19T17:00:29Z"
  },
  "Reunion Neuroscience": {
-  "feed": "https://reunionneuro.com/feed/",
-  "method": "newsroom rss",
+  "feed": "https://news.google.com/rss/search?q=site%3Areunionneuro.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "site": "https://reunionneuro.com/news/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": null
  },
  "Alkermes": {
   "feed": "https://news.google.com/rss/search?q=site%3Aalkermes.com&hl=en-US&gl=US&ceid=US:en",
@@ -557,7 +557,7 @@
   "method": "newsroom via Google News (site:)",
   "site": "https://alteritytherapeutics.com/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Neurocrine Biosciences": {
   "feed": "https://news.google.com/rss/search?q=site%3Aneurocrine.gcs-web.com&hl=en-US&gl=US&ceid=US:en",
@@ -697,7 +697,7 @@
   "method": "newsroom via Google News (site:)",
   "site": "https://www.suven.com/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": null
  },
  "Roche": {
   "feed": "https://news.google.com/rss/search?q=site%3Aroche.com&hl=en-US&gl=US&ceid=US:en",
@@ -732,14 +732,14 @@
   "method": "newsroom via Google News (site:)",
   "site": "https://www.britannia-pharm.com/",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "BioVie": {
   "feed": "https://news.google.com/rss/search?q=site%3Abiovie.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "site": "https://www.biovie.com/news",
   "rss": null,
-  "checked": "2026-11-19T17:00:29Z"
+  "checked": "2026-11-19T17:02:35Z"
  },
  "Novartis": {
   "feed": "https://news.google.com/rss/search?q=site%3Anovartis.com&hl=en-US&gl=US&ceid=US:en",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:00:29Z",
+ "updated": "2026-11-19T17:02:35Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.mt-pharma.co.jp/e/news/",
@@ -4648,6 +4648,17 @@
    "first_seen": null
   },
   {
+   "id": "85983391d3689447",
+   "company": "Reunion Neuroscience",
+   "title": "Reunion Neuroscience Announces Appointment of Sahil V. Kirpekar, M.D., as President and CEO - Reunion Neuroscience",
+   "summary": "Reunion Neuroscience Announces Appointment of Sahil V. Kirpekar, M.D., as President and CEO Reunion Neuroscience",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbTNoaXVyM3lXS2xtZ2dhemRBVGExN3c3bVluUFh0TFZPeWlVV2tZaFpBa0wzQlE0M2hnUV9NME5hVzFqNC1SemFlV1VsRVlfUWZuandicGJqZksxX05XLUFUUjZMZDF4SGt6UVFXbXI3OEdkOEo2b0cyMl8wQ2U2djFXZU9fWnZjd3Z6Zm1zOGR1QURwMWRRMmJvdXdzeUJmaFJQMTNBakFCREltY2JUY09HZFJoZXpkSGdVeXlpZUhOZw?oc=5",
+   "published": "2026-06-15T07:00:00Z",
+   "outlet": "Reunion Neuroscience",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:02:35Z"
+  },
+  {
    "id": "841c2610f6a55f26",
    "company": "Gain Therapeutics",
    "title": "Parkinson’s Disease vs. Shrinking: What the Show Gets Right (and Wrong) About a Complex Condition",
@@ -4835,6 +4846,17 @@
    "first_seen": null
   },
   {
+   "id": "e03e92cd28c7eea6",
+   "company": "Merz Therapeutics (Inbrija, ex-Acorda)",
+   "title": "Merz Therapeutics Presents New Research at World Parkinson Congress 2026, Revealing the Hidden Burden of \"OFF\" Episodes in Parkinson’s Disease - Merz Therapeutics",
+   "summary": "Merz Therapeutics Presents New Research at World Parkinson Congress 2026, Revealing the Hidden Burden of \"OFF\" Episodes in Parkinson’s Disease Merz Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPM0ZDanZqWE81SmdlR2F2UGNEYklMNVA0YnRSajNJS2Z1bG50ZFhPeWVrVjlteGY3NDRIdy1remQ2QTcwX2d3Zk0wS0I4ajd3M19uUkxMTy1heE8tSkk5SFM4QkJhQUtnbDliSzlrUUt6Z2RWeXE4SGg0SkdaVnkzXzhFeU5ZZ0FuY2RnbGNHdmg4UVJibmlKQUNXR1NWaDBHdWY0OFlsN2lQWk0yNmlDdENPY1JlY3Q1SVpGaDF0ZlI3WE11dHhaUjY5TzV3NWRsT3E4NXhmMTA0Z3paSTRCLUU5X01sQVAxbVI4TVc1cEtHUFNUUDVqcFNNMTQ?oc=5",
+   "published": "2026-05-28T07:00:00Z",
+   "outlet": "Merz Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:02:35Z"
+  },
+  {
    "id": "139e55d9a51b8885",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals to Participate in June Investor Conferences - Supernus Pharmaceuticals",
@@ -4888,6 +4910,17 @@
    "outlet": "Parkinson's News Today",
    "method": "news search (no newsroom found)",
    "first_seen": null
+  },
+  {
+   "id": "263a3e50beb96846",
+   "company": "Merz Therapeutics (Inbrija, ex-Acorda)",
+   "title": "Merz Therapeutics and Kvvit Enter Exclusive Agreement for INBRIJA® (levodopa inhalation powder) in mainland China, Hong Kong and Macao - Merz Therapeutics",
+   "summary": "Merz Therapeutics and Kvvit Enter Exclusive Agreement for INBRIJA® (levodopa inhalation powder) in mainland China, Hong Kong and Macao Merz Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaW5KREE1dlhnQXJOdlNOV3M0RHFGbnZZZXZuTl9GdkVBdVdZdDNmeXFCNEQ2YllrYlVpdmo5NTZCUXR3UUZfUDg4ZFlsQWhja3FYR2VtbHJ3eXd4TjV0cnpFeGZudVBNaS1SOFp0b3p0OXpNVDRGTkRtZVRaRzZtMTRaR1c1NzUtWlJwM0o5TkphOXYtb3cyM0xWNEJna24zQ2NpWGV6SzliOEdKLVFjWkZWLWpvNnVwT1Awd2VKRk9QSkEyT3NhQ0NzeThpUHpQWS1tTjc3LTQ1RU1UUDI1ZWE1aVpHdUk2WHQzUDVuRkh1Zw?oc=5",
+   "published": "2026-05-26T07:00:00Z",
+   "outlet": "Merz Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:02:35Z"
   },
   {
    "id": "44559718203e2f65",
@@ -5130,6 +5163,17 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": null
+  },
+  {
+   "id": "3c492fae8f783c1e",
+   "company": "Reunion Neuroscience",
+   "title": "Reunion Neuroscience to Present Full Data from RECONNECT Phase 2 Clinical Trial at Upcoming ASCP and APA Annual Meetings - Reunion Neuroscience",
+   "summary": "Reunion Neuroscience to Present Full Data from RECONNECT Phase 2 Clinical Trial at Upcoming ASCP and APA Annual Meetings Reunion Neuroscience",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYzUxRmdyVUpjYk43NG5iUlctbE1HdTA2VzRhTGoyRS1IT0tvS1U1VVFZN254UjFSMVZ0RkMtaVExTkpUckw0OHViOHhKY2huSzJiUG1DRFl4VHJ6ZFMySVFQaV9sZ3FLZGFtbklDQWlxYXZtTnBpbHQ5NzlPdnJXNGE5WUdkRDA5d0gxSnlHemZvUE54OGV6c2dSaGFjdi1YMW05OFQ1bU5ZN1NrRHJHR2ZNX19VQ1VfQkFYNGNFRWRFamxwQWtKNndpbFpQU3FqUnFGaHRnUTM1dXIxejkzc3ZhaFFteXZKSVVwd0Nn?oc=5",
+   "published": "2026-05-11T07:00:00Z",
+   "outlet": "Reunion Neuroscience",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:02:35Z"
   },
   {
    "id": "3f2a1a808e7af5f9",
@@ -5756,6 +5800,17 @@
    "published": "2026-04-09T21:47:11Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "8de03799d72a26e8",
+   "company": "Cerevance",
+   "title": "Cerevance - Cerevance",
+   "summary": "Cerevance Cerevance",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPY2NNWUZWejVqcHFXdkRVakpZaW9fZUU5UGRNbHNjbDJBcXFGZGoyY0pJLW1fd3k1MU4wUjBWbGpPSG53RDVkamRFT2pZTUkxcXhRN3dxekEzU1U0dXBfRVZadDdOc3VQMlVUeHREXzZLNGRiMGtyMXRhbmRpc0dHZ3dLYjNuSkphOHdjbGk5WVBSX1NwUnllZUI1SXdoNlJvekF3a1RoQ2d0bEJzd2kwSkJIcHM2dHJBMUhhSi0teWM0elNKbmNQRW51M1pHc29CMGdULUFGR2NIRnNZOFQtc3dlLWs0b3E3dkZHZ2stLTQ3cHZOcTNRUA?oc=5",
+   "published": "2026-04-09T07:00:00Z",
+   "outlet": "Cerevance",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -6573,6 +6628,28 @@
    "first_seen": null
   },
   {
+   "id": "1b125edef23b201f",
+   "company": "Reunion Neuroscience",
+   "title": "U.S. FDA Grants Reunion Neuroscience’s Luvesilocin (RE104) Breakthrough Therapy Designation Status - Reunion Neuroscience",
+   "summary": "U.S. FDA Grants Reunion Neuroscience’s Luvesilocin (RE104) Breakthrough Therapy Designation Status Reunion Neuroscience",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTUxtWWl3eWV5MTZia2M1WnhpcElWUTIyNEtHOW54bnBsZGxVMF84X2ZkcGhFckgyX25ENGpEWjA5RWlKaHNOdzlwYWUyRW1yczJsMlVucFk5Y2UyN2l3Y2pVMXZtcVkxNkZ2ZlVydkhQbDlUSk9MWmhTU0duRE94NHVVZVJUTWhfWU9nd2NsT1drUjcybDJFSnlIb3NUNGg3RHRhZzlyQ0VGMjFQYmJHMzhsUlVfMzZKaU5EVnlra29UQll0ckpjdWdlSQ?oc=5",
+   "published": "2026-02-23T08:00:00Z",
+   "outlet": "Reunion Neuroscience",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:02:35Z"
+  },
+  {
+   "id": "207415748596ee70",
+   "company": "S.Biomedics",
+   "title": "Catalent And S Biomedics Partner To Advance Stem Cell Therapy For Parkinsons Disease - BioPharma APAC",
+   "summary": "Catalent And S Biomedics Partner To Advance Stem Cell Therapy For Parkinsons Disease BioPharma APAC",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOENxRXl1N0doV1ZHbzAtdjFVelBoX0Rnb1pDQWpXaENGZGFjNDQ5aGhTMzZTMEUtQVU0UWZURDMtUVBMci1fb3hvMndYRks4Z3VOdElEa0wzRmdibGVReWxmTjRTclJ4ZTgxaW9YcF9heTF1dVQ0MGxNSGJIdW40WUFFNERReXBITGtla3BZU1ZwdkpreWNVTjdKNHhiWHdrMHg5ZDVFTjI3SXk1clo4bWNnd0xwVlFlLUg5M1FuanZscmE1NHl3?oc=5",
+   "published": "2026-02-23T00:31:39Z",
+   "outlet": "BioPharma APAC",
+   "method": "news search (no newsroom found)",
+   "first_seen": "2026-11-19T17:02:35Z"
+  },
+  {
    "id": "b6be5a785ad6c641",
    "company": "Prevail Therapeutics (Lilly)",
    "title": "Gene Therapy for Parkinson’s Disease Associated with GBA1 Mutations - Prevail Therapeutics",
@@ -6771,6 +6848,17 @@
    "first_seen": null
   },
   {
+   "id": "7b183f6b8167cf5f",
+   "company": "Merz Therapeutics (Inbrija, ex-Acorda)",
+   "title": "Merz Therapeutics Launches ‘Celebrating the Fighters’ Campaign, Channeling Muhammad Ali’s Resilience to Empower the Parkinson’s Disease Community - North America (US) - Merz Therapeutics",
+   "summary": "Merz Therapeutics Launches ‘Celebrating the Fighters’ Campaign, Channeling Muhammad Ali’s Resilience to Empower the Parkinson’s Disease Community - North America (US) Merz Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOd25LSTdNNDRmRV9zRGotazRjV2xVTHJjaVpybmk3TmFibXB0ZGpxOUVOWkpJSEo2NkhBX1l0Rl8tM185ZkxobzlFTmc3alRCN3d3ZUs0N3NEcGhKVWZGNTBlRGRFYXBYMDZka1NVOUQxVXhVLWU0emtGUnI1dWtNOWYzQ2RESjE3YVNxZU5oakJPWVBKZnFjRGh2Rm1RVm9oVEdiOFRkdlA5OVNOX1BtTDV1MUlQU2RiX29YV1pBZld2VEM4Z05rYVJfNFVvbUVSZjZ6NWtZVHduWHh1UjZtU1Npc1dkVlczQTJJRmdndXJKazR4SDVQZU5pcGxEUUJCeDNz?oc=5",
+   "published": "2026-02-03T08:00:00Z",
+   "outlet": "Merz Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:02:35Z"
+  },
+  {
    "id": "c465cd6c43659e6b",
    "company": "Remepy",
    "title": "Therapeutics Program Manager (Medical Psychology) - Remepy",
@@ -6848,6 +6936,17 @@
    "first_seen": null
   },
   {
+   "id": "1de72ffa0e742dd0",
+   "company": "Reunion Neuroscience",
+   "title": "Reunion Neuroscience Presents Full Data from RECONNECT Phase 2 Clinical Trial of RE104 for the Treatment of Postpartum Depression (PPD) at ACNP Annual Meeting - Reunion Neuroscience",
+   "summary": "Reunion Neuroscience Presents Full Data from RECONNECT Phase 2 Clinical Trial of RE104 for the Treatment of Postpartum Depression (PPD) at ACNP Annual Meeting Reunion Neuroscience",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTmZkWGxkWVZNcFlMUE5VUU9YdDZ5TjlYUXZrZi1rRXFOUzJ1cmptWGM4ZmNDUnpkd3VNUXNta0VEUzZ1SmVKdE9JaTZCbk5xTWVHRFZFOVIyNjl2NENIeGUzZW1XcXRxd1RqLW1TUG1kR3Y2ZG1IQjJIT05mWnVmdDU2akdVNm5oYklYbzFPLTNNcnNaVlJReGNneVZ1M0V3MDlJbHlwanoyMEZ3clZ3dkRSc2o4UEh5SV96R3FUdFhNRFVIZXBoUW9GZ0VJNGRzSHZRSWxmcHNNMEZEcFBoa1JGYmNBcU8xU0FUVEdKbFNUTmhvaUEtRTlEU25DS2R1ZE5yQ2s2YndfYldsRW92MnpiUUhxbnBKUlhZeW1n?oc=5",
+   "published": "2026-01-20T08:00:00Z",
+   "outlet": "Reunion Neuroscience",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:02:35Z"
+  },
+  {
    "id": "b1cd5565bfefcf7f",
    "company": "iRegene Therapeutics",
    "title": "FDA Grants RMAT Designation to iRegene’s NouvNeu001, Cementing its Lead as the World’s First iPSC Therapy with Both FTD and RMAT Recognitions - Fierce Biotech",
@@ -6890,6 +6989,17 @@
    "outlet": "neurocrine.gcs-web.com",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "dde8815b0286e1d5",
+   "company": "Reunion Neuroscience",
+   "title": "RESULTS BACKGROUND METHODS CONCLUSIONS - Reunion Neuroscience",
+   "summary": "RESULTS BACKGROUND METHODS CONCLUSIONS Reunion Neuroscience",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZnVZN0lhWlQ3YVlsMWU2OEU3bjMyMmUzS0RaZm9YRnh4UGJHWFQ4dkhvSnExdkw2c0RUeXFIQURmUHlJdkJxM2ExRERxUmRCSFFnMEJVQy04a3U1WEZHcWJkNXBIeldFUFpRZ1JNelFMX2xScHNXYllIX21hc19XSGZBeWt2WS1iR243ck1IRkJYM19XakJvUzRpMA?oc=5",
+   "published": "2026-01-15T08:00:00Z",
+   "outlet": "Reunion Neuroscience",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:02:35Z"
   },
   {
    "id": "1992c40857d7995c",
@@ -6945,6 +7055,17 @@
    "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "748d6c3b47f0454e",
+   "company": "Reunion Neuroscience",
+   "title": "Reunion Neuroscience Announces Program Updates and Highlights Anticipated 2026 Milestones - Reunion Neuroscience",
+   "summary": "Reunion Neuroscience Announces Program Updates and Highlights Anticipated 2026 Milestones Reunion Neuroscience",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNEVUQllJcEx5RkFuVTJlY0NDeFVfcktuajlIR2NIdFg0UVBfd25mUng2ZERaZ1A2cjlRbzh5MkVGMHdGaHIwampwczdKN0ZqYlZEaHVMRi04OURCQ0xJX1pwRlQwVlZ2c3RibFhqZHZXX2t5Rl9hSThJUWNjVEx3SmZuYkZmdWRxZFZDdThXcVJrOGtWdDVwT2hrcVdQSks1X3JXLS0yRXN6TjNrUjRCZlhDSERIODBOT0lHSEU5UVVRaGVr?oc=5",
+   "published": "2026-01-12T08:00:00Z",
+   "outlet": "Reunion Neuroscience",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:02:35Z"
   },
   {
    "id": "0562732e88fccd5b",
@@ -7372,17 +7493,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnBkdmZzZXlyczd3eWtLZERSaDZ5ZVNvblFKb2hVbU5hazZqUG5jNEt4UHRnRURidWVHVWZuUzhjODhqZWF1ejhQT1ZiR1Q3OU5fb0Q5UlRmUjhkdnd5bGs1RUs5bWJ3aHFDUlQ5THFVeEV1OUtsVF9ISVpMSWpWX2R2bXM5cVBxU0V4ZVhHUVZPRmswX3ZvT1M5eDJQWjk0ZUtJekx5aE9pSTB2NjljLUJ4Z2EtNHN0NEVRaS1DY1lWVm82RjZyTXRiTQ?oc=5",
    "published": "2025-11-25T08:00:00Z",
    "outlet": "Rapport Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "8de03799d72a26e8",
-   "company": "Cerevance",
-   "title": "Cerevance - Cerevance",
-   "summary": "Cerevance Cerevance",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS21BQmlzVTgtSXFpQVd3U1MzYlpLU29HM0Rub292dmlHQTluSWRYanREWDZLQmVaQkN1QmNBLVdteWNTNFc4Um92djduWHVmc1IyLW1LNF9IdmtQclNzQWtXaUwxTmdXTDJmVTI3aGNCWWUxZGFHZmE5elJVMGVvSDRadUoxSGU4eWEwa0pmSUR4eVdTdGpMa1lGTXRtUDNxb0p5UGVTbS1lazhhV19KRkw2UFcyRGhhakRMQi02VDdibWFFSjZFMEVpNUZ1TFVhR0s2UEdsR1MzRklnMGxHRHd3TEU?oc=5",
-   "published": "2025-11-24T08:00:00Z",
-   "outlet": "Cerevance",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
