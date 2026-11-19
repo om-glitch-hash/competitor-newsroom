@@ -123,10 +123,10 @@ def name_query(company: dict) -> str:
 def discover(company: dict) -> dict:
     """Pick the best working news source for a company, in priority order."""
     site = company.get("site")
-        if company.get("rss"):
-        fp = parse_feed(company["rss"])
-        if fp:
-            return {"feed": company["rss"], "method": "rss (configured)"}
+    if company.get("rss"):
+    fp = parse_feed(company["rss"])
+    if fp:
+        return {"feed": company["rss"], "method": "rss (configured)"}
         # configured feed unreachable (moved, or blocks GitHub's servers): try the rest
 
     if site:
