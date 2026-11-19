@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:18:20Z",
+ "updated": "2026-11-19T21:13:01Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1753,6 +1753,17 @@
    "first_seen": "2026-11-19T18:09:55Z"
   },
   {
+   "id": "0abf3ccee26bc66f",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push - Investing.com",
+   "summary": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWnZkaXl2bGFQeEFWYWZ6bVE0Z3FXQWFCMV9OOWw1TzVaaWZoU1o2MzlJdFpyTWI0R3lKY2I0eXNqb2JYWWlRQ3JHeDVjSFZ5RUlha3F2Ri1ZNGNZbU95MVp1UjRSaGw2LVJDSGZ6YURMSXR0Nm42OHR6SEhLUEdETjM1dU9DVjFIMy1KZ2lsdjA2alRlajNKdk1xS1g4YlJuOWdnMjltb2FrX1FQUDBDV2ltZVZNcndna1kzVmNhZnkxQlZrcGhueg?oc=5",
+   "published": "2026-11-19T01:40:22Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T21:13:01Z"
+  },
+  {
    "id": "8ab2b4090111e315",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com - Investing.com UK",
@@ -1783,17 +1794,6 @@
    "published": "2026-11-19T00:50:08Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZzZV9wcG9yMkJkbTJidXVtdUkxV0lvZzZoNlZQUGduMkt4LVAzbmVvSm5kLWE5Z0lWajJiNmlCdm5FSzc5U2J4b0NMbURnTHNtWHdiVndINjdScnV3Y2JEcGVwUWpPYjFPYzd3dWNHWE1vc3JPMnNveGhvMjZVVlc1TU03eHp0cGxYaXNySG5MN2w1ZW1Gc2pFU2N2OVZkQkxXV3pZQ3l4UWVNRTBORHVzYw?oc=5",
-   "published": "2026-11-19T00:49:03Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
@@ -1863,6 +1863,17 @@
    "first_seen": null
   },
   {
+   "id": "3ed1892a3c3871e7",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Ltd (PBN.DU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+   "summary": "Alterity Therapeutics Ltd (PBN.DU) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DTGg3dkp3TjZjdGZ6TjljTnhoODZFQVU3akdjRUZWODdNMVBrTmZMVTFyeDVQcWNZR09jVDEtWHozVlVuRC1sZERpbGdaT01DYVVYOXlaN1k5eWRlU1Vrc21tQmU?oc=5",
+   "published": "2026-11-18T12:00:22Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T21:13:01Z"
+  },
+  {
    "id": "4d66c7c588b7d9c2",
    "company": "MapLight Therapeutics",
    "title": "MapLight Therapeutics, Inc. SEC Filing (Nov 18, 2026) - Stock Titan",
@@ -1894,6 +1905,17 @@
    "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:13:38Z"
+  },
+  {
+   "id": "ebbe1cb3a86c04a2",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Limited (ATH.AX) Seasonal returns chart - Yahoo Finance UK",
+   "summary": "Alterity Therapeutics Limited (ATH.AX) Seasonal returns chart Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dDZKSmFDRlA3VVVwU0VzZVF6RUJhQnB0djlHRHlDUEtIUW9TeG0td0lkcVdMQ2ZPNVBnYVNzRXpxbjZVQzdHT3Rodmh2YWtfY210VXhtT290S2dsMjJzZXBncU4?oc=5",
+   "published": "2026-11-18T05:22:47Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T21:13:01Z"
   },
   {
    "id": "d9e7169c785c4ecd",
@@ -1971,6 +1993,17 @@
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXNEbDlMM0Y2cFpJWS1nYkRseld1MXJxdE53QTlMNUpDZzMyLTVtOUFIODdOTmVyc1R5ajNXeXpHX2tjVEs3aHdNa0U3ZHdjZWdfQU5uQlY1eDRYc1FNZ0RxTkFSNTNVUmx0TGx3dUszbzAtRHE1Q2lUUnVGd3pnVFVBM3dVYmFuTVNOckZ1ZFNkVWstYkxGazAxX2RZbVhTSjJ2b3pvdVFJSGRoUWxGUEtHUQ?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "0919cfc4c92dc050",
@@ -2314,6 +2347,17 @@
    "first_seen": null
   },
   {
+   "id": "7e552f8a09c7a983",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH): What Comes After Its Phase 2 Regulatory Discussions? - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH): What Comes After Its Phase 2 Regulatory Discussions? Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWpPWVBrb2RKMlJCWTVUaVBlQlhvRzU0aUNjcDRjUkRKS1BsdklXRmZ1bjBza0hkWHRmcVNGSTI3aHYyWmlEVl9TbmVQNlhRTzBoVThUS3pvUmxJbDJtaWs4b3hWbXFtS2kyQWVhVzFmZXYxcm9OUUxYTjR1UG9IdE1BYXJFSjNMY2N4d1ROUHZMU0Fac25fY3RaY2pwUU94WXlJMUc1ZHAwVnMzUGY1TjY1ak5BRjJoT0kw?oc=5",
+   "published": "2026-11-13T04:25:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3d9b2534581ef9b3",
    "company": "Reviva Pharmaceuticals",
    "title": "Reviva Reports Third Quarter 2026 Financial Results and Recent Business Highlights",
@@ -2358,6 +2402,17 @@
    "first_seen": null
   },
   {
+   "id": "e54787d817acc404",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics to present at Bell Potter... - Pluang",
+   "summary": "Alterity Therapeutics to present at Bell Potter... Pluang",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT19fOFBERi0yUmxBSGdORmkwNngwMkgtMExsTGhnelJoTmVKNmk0NlN2RG9HUjJraHRQV3NnX1BDY1dOeGRjZ2ZXOHJYM0pibE9OSXZENW4xWm54aGpfbXdyRVFoZ2lhLUV6V1NVN1RPUFZCTEtKMzBlY3E5QUZEV0xmalpCYm53TDFjS1FSeTA5N0tUNjczWHNvS3Y2bUd4V2R2VG1WZzlZX3M?oc=5",
+   "published": "2026-11-12T12:19:12Z",
+   "outlet": "Pluang",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f5d5fa89923b0d54",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics to Present at the Virtual Bell Potter Healthcare Conference - Yahoo Finance",
@@ -2376,6 +2431,28 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUUNNWVdnSXlfZUdJVURGZXlIdWEtLVJ0WVMyRVNXNUFvUnJpTTNienpKZmxDQUktSWFuSVN3RXdxeHJmVDNvU1hZZ21iQ1RPbG1ZQ3phM0dWVTA5bUN1dTRlM3JzQmE5Nm9sY01zTk9XRTFVUy13aks2V0cyZFhZTXdYSlVOVV8tNkloSkp2Q1B4OGZQSnNNSEIxVnpPU0J2RlRqQktHVXJlQV9WdW9rLUppZlY?oc=5",
    "published": "2026-11-12T12:05:00Z",
    "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b6560aeaf1612b35",
+   "company": "Alterity Therapeutics",
+   "title": "At noon AEDT on November 19, Alterity (ATHE) CEO David Stamler will address a virtual healthcare conference. - Stock Titan",
+   "summary": "At noon AEDT on November 19, Alterity (ATHE) CEO David Stamler will address a virtual healthcare conference. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXpxZTBzdDlTaThiZG1kaVBKb19wN0lFU3ctZEVtTkNIbmxmTG1rRkJCWjZqWmdvVGdCZzY5d2FNZW8xOENvSmtUOFppZ25nZl9UNHZxRVQ0cks0bGNTR283a0VrRTc3TUd4NjgyUHJyZ1VVMlBqSlpTdlVrUGtFSlFsNHRrdWJBemUxcnNvMk56NkwyT01VTkNjaS1RVWctZ2gzeXczNGdtdjBSQTNWMEZ1R2UxbFRISnhCRUNB?oc=5",
+   "published": "2026-11-12T11:05:39Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "553731f77ddd2ffb",
+   "company": "Alterity Therapeutics",
+   "title": "Form 6-K ALTERITY THERAPEUTICS For: Nov 30 - StreetInsider",
+   "summary": "Form 6-K ALTERITY THERAPEUTICS For: Nov 30 StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02VGNrNzhyQ0lKdHhYa1hkcGI4ejZUYlhKZWx3N2R6UlRWMUY3UmRUdFRsbTFMdUpjTGNnb21LYmVPMVo2RDVOWUV2bDhyLU9pVjB5Sm9xWUxPaDJ6RTVhWUxieGt1b0xBdGkybQ?oc=5",
+   "published": "2026-11-12T11:05:00Z",
+   "outlet": "StreetInsider",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -2531,6 +2608,17 @@
    "published": "2026-11-09T21:01:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "1d91cd8c065ed75c",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Ltd (NASDAQ: ATHE) Share Price, ATHE Stock News, ATHE Share Price & Updates - Kalkine",
+   "summary": "Alterity Therapeutics Ltd (NASDAQ: ATHE) Share Price, ATHE Stock News, ATHE Share Price & Updates Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNdVp5MXhuNGRncnplVmtFOG53SXBneEJYZkl1RTNES20yWXMxYVY1MnBFMDljU24wMl9ZYzVNTWpzSUpIc195eG1GLTJDZ3hUUFhXWXVR?oc=5",
+   "published": "2026-11-09T21:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -3004,6 +3092,17 @@
    "published": "2026-11-02T11:30:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "744b4843075c1268",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH): Small-Molecule Iron Chaperones Matter for Neurodegenerative Care - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH): Small-Molecule Iron Chaperones Matter for Neurodegenerative Care Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRmVxZ3ZWNDJJcXJpNlBqSjBodjI4bHFaSVhnV3lUOU14YzlfRGFNU25mTlpUVGlqeXVUUUY2NXpiVktTR20wUS16a2NBMGoxVWd6SENCZGhIUS1CM1NKR19IZHZ4SDB3Nm1hWHJhQ3VRc1c4YzhNN3R5SkNJeURvUVFrdVhjWk1BM1JvVmo3U1JDRnpMMFRWYkRxcUFWem5mVzE1dUNCRVpRRXZIN2Z4blE5OUJLU2hWb1NNNXd1VkN6bENQOUctRFJRcTg?oc=5",
+   "published": "2026-11-02T09:26:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -3524,6 +3623,17 @@
    "first_seen": null
   },
   {
+   "id": "1f4faf368d051cca",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH) Shares Fall: What’s Behind the Drop? - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH) Shares Fall: What’s Behind the Drop? Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMTdKRDdPeEg1ampua2lGbS05MEM5VEFWY0Z1bmFuY0tPY2l1S05DbVVZOEs5X1ItZ1RsbGlmUlpHeUZ5UVh6MVhpUGZOeUtGRlV2bFloNXFXVXhZSXlOakI2Qmgwd24yMXA4NVVFZU5Ib21GNzBxSU1OU3FMTzloaXIxeUMxcF81TklZWXlGUGk3ei1Bbm1XTEZ3bVRBY25ncVo0QzFkUjRmVkhPM1FmMQ?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7f878831bd4bb9de",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals to Report Third Quarter 2026 Financial Results on November 9, 2026",
@@ -3755,6 +3865,17 @@
    "first_seen": null
   },
   {
+   "id": "a2213f98d688b09c",
+   "company": "Alterity Therapeutics",
+   "title": "ATHE Stock Price, Quote & News - Syfe",
+   "summary": "ATHE Stock Price, Quote & News Syfe",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fSWJTLUtyS0t1ODhwdkVDRDJUNDNreHlTU3E5LVlRcTJuUktUWVNlR21ibC1iLXd6S2ZlLWZ3QXlaUEQyeGtNNXNjdw?oc=5",
+   "published": "2026-10-20T08:50:35Z",
+   "outlet": "Syfe",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "0aabd38b7db12b97",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics Announces Positive Topline Results from its Phase 2 Trial of RAP-219 for the Treatment of Bipolar Mania - Rapport Therapeutics",
@@ -3773,6 +3894,28 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOazlaOXN6OWV0S3VVdkN3OW9GNVhXTUN3X0p5WnM0ZERBdzd3MTY2ejE5d0xGUXRUWXoyQUc4X19HTWZmSWFEMGNsMlRZdUxVbV8yWXp0NFlqOVRsLWJMbFNvNzU5YTFHT25FSFptdUEyaDdxYlhGVTJJc3BhR0Z0TkwzdlJxenZvbkx5SWhzc1EtUjZWVzhKNC1tREZvT2JmT2FDYi16U1p2VkZaR25nMGhzQVg5T3c2TGlxN0pCVTRIOUFqZTVkTm04N2pUVGc?oc=5",
    "published": "2026-10-20T07:00:00Z",
    "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1e10e127e1dac620",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH) Touches 52-Week Low Today: Key Reasons Explained - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH) Touches 52-Week Low Today: Key Reasons Explained Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTN6ekRscFlTZ3ZuNm5BRkhhbTdIdmkwbDgtVldvNzRHc3d5cU9qT1Q3MUJrTkhEd2RWYXNfYW4yQ0o4ZnUycndNVkNQaThvc1ZobjJwVW4wbmktY2dLZ2pyT1FtZFhwN1V6NldIM2ptM3A3M0lSR1VkazhZMEdHSHJqcnJ2c25OQ28xa0c5MUNFQTFod2NpdmhUWEYxcU1McFE4S2J5eDdLYmdNalA2NVRMX2NMa0pqNWs0Q2hMQjl5Zk0?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e93071cd070f4fa5",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX: ATH) Share Price Drops: Here’s Why - Kalkine",
+   "summary": "Alterity Therapeutics (ASX: ATH) Share Price Drops: Here’s Why Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMDJJLVp0SkF5T2RCaUNDNVR3ei1Xc21wTEdhNnB0WTRVRUVFUWlpQ0JodDMtQ2JKNjBpa2ZHbWUtZWtfYTZlVWxJa0tRd3ZRNlI4bXBGbkhYaEdTMnpBalktVlRGYldxemd1MUZqbExyeVNHRWZlc0FRQnR0R0QyRlUyYVRKRlNhcDBUdE5taDREeURGYnRqNWdlWWJWTXJOOVZzNFkyY1NfZw?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -3840,6 +3983,17 @@
    "published": "2026-10-19T07:00:00Z",
    "outlet": "The Courier-Journal",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "a026bec83837ff61",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics CEO David Stamler to Appear at Craig-Hallum Virtual Biotech Catalyst Conference on 22 October 2026 - Kalkine",
+   "summary": "Alterity Therapeutics CEO David Stamler to Appear at Craig-Hallum Virtual Biotech Catalyst Conference on 22 October 2026 Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeTBId2FRUGtudEZyRnRBYUFXWlVCZnJOaGVaMXV2Y0Z2VzZ4aWpsbVI5N0Jnb3Q0bUI5RmQzTENHakJEQzBoOE1Ia0c1UE90TFZkU3h4LUZXb3VwdXBBZEZSZHdLWmFCMlpuQzdkWU1aczJGSlBUUS1QMkRqZnpFZ3pHZ0FhN2JpNWVXZ0RMUnNJSUZuendmTXQ2M0RfVGdnc0xMYy1MWGNUelVrN0xrTmJWRjlXOHQ4VWppZWtjMGptV2V6SnNvTHIwcFdZWkdHWjlJWlpxaWRlY29WQnFnTW10QTdscGI1Qll2THJIZlp1eHBN?oc=5",
+   "published": "2026-10-19T07:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -3982,6 +4136,17 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTV9UMUZPWXAxd0lyc2FhZ0ZkQkhzOXl6dlJJU0YxR0pmbXFsVkZGN3ZTaG9zQ3hZNW12a2U4NFU5WEVocFk4UU00RGJET3I3Y25aNTN6WVd5S0ZRRXgwVWR3RDN4cldsM1BPTW84Nmtsa0ZkWFI3WXNsa1pxUnVURllFVUVydDAzemx5R3ItWU5DV3NVLUhVekwxcUM?oc=5",
    "published": "2026-10-14T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2392135118eb1b23",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH): ATH434 Phase 3 Planning and Brain Iron Research - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH): ATH434 Phase 3 Planning and Brain Iron Research Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3VhMXhuLWUwWTRkbGFsdkhPNmhIRFFWN0RJMTRTcWNUODdaUUFxZVozRFczR3diWXg1MDk2ak9JY25qaWp1SnB3Sk1Oa0tNbDlKaVR6M0w3Nm9BUUphZS1NRFZDdzJMcW53M0hCd0drcmtyN2lvdklPc09KUmp0cDRNS3h2eWJ6YktRcUhnUndac0kyUmdkcmQ4bEtWVGhrYkZaOVEyd1czZ3RkeXMxdC11R2FzUQ?oc=5",
+   "published": "2026-10-14T07:00:00Z",
+   "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4206,6 +4371,17 @@
    "first_seen": null
   },
   {
+   "id": "6052fc16fc1728fc",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics CEO David Stamler to Present at Canaccord Genuity Drug and Device Conference on 12 October 2026 - Kalkine",
+   "summary": "Alterity Therapeutics CEO David Stamler to Present at Canaccord Genuity Drug and Device Conference on 12 October 2026 Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcmtobV9tWTRBN1ROQWxBdW5uby1UMnFNT0Y0ajZlQURUMlcyaFB2aWxtMERZdDQ1NEZzbE9hazJYOHlaeFRvTTRieGFCY0VRMTlaOEFOUUd2LVc0SnZTV0ZiVWJBNy1Ba1J1ZzU0czNHaW9zVW1pWlFLc1JlaUJKUGJFQUJvTUtZWGFqekNLLW9NSWVTWUdUZHY4SDZHOUwxVDJhUnlkVk83RWZna2VDSGxabmIwYnVmX1ZEUUhQQkFTbmYwdVNDNmU5Y0gxYzdXTDNMcUhkVzB6R3pKNFYzZWpDZnhrQnh5UXBfMDdQMGg?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b1424414297aacd2",
    "company": "NRG Therapeutics",
    "title": "Annual NEALS Meeting 2026",
@@ -4305,6 +4481,17 @@
    "first_seen": null
   },
   {
+   "id": "0d3e8e2abb798513",
+   "company": "Novartis",
+   "title": "Neuroscience Territory Account Specialist – New Orleans - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – New Orleans Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU3VoY3B0U0ZpQXpVUEtsNDJxTktGUE51MVd5TDM2UjNQWWFmSkpQYjRNOFBINDd4MVVaZElrdU1oSjJhNURLWVdQcjJOSFJqMnNmQlhMRkJ0TW9BWmc3M2hIaFdldGVkd3d1YlJ6MnZCWFp4a3hPVnpQd3ZhUkdva0FNVDRnM0QzSl9TYjBJSXdOdDVMbEJxMGg0alp2dExLZVJJNXNNeGlubGVvdUtEY0lHamNSeGxPT0JrVWZ1cExDZWs?oc=5",
+   "published": "2026-10-07T14:53:01Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "0bca950b36ee40cf",
    "company": "Novartis",
    "title": "Medical Science Liaison – Neuroscience - Novartis",
@@ -4334,6 +4521,17 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVXVqMTR0MU9RSzNDbXl4UU4tWkdJemF3YTV2MmYwQTNscVJWWmMtTTdBMUdldDV0azUwYnNFVnMwdkNjQXI5UmdPMFlPNldYNUtFZTJHNG5LN0E4Y1hHeVZQbEw4cFpYaVhBczdR?oc=5",
    "published": "2026-10-06T07:00:00Z",
    "outlet": "Pitchfork",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5be6ac042616d71f",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity analysis strengthens MSA trial case - The Australian",
+   "summary": "Alterity analysis strengthens MSA trial case The Australian",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUHI2OUFWekNvWTcyTVh1ZkdZd3YwWkpGT3cwOXdGcktadXFlT2RhdlJkdDVTSl9qclRnYUZvYkZBbWFMNllzaVg4dDNWeWNKTmNnOGxGZFFlRkpyRno1R3IxNTVYS1RKMWhBQ3k5aGczQVA4R2dQZl9ZM0VpektMMldfTnV4THJFajBCbDc0aDJtbC1hVHZzSHZRQ2tRd0w4eFFJT2V3TVBCOC0yVWhJNzhydmQyODlPaE9GeE1LaEJuY3U2ZEllRXIxT2ViTkhlVWM2eEVsQWNWOS1OQy0wTjJnb3dEUlNJdVAxajBveEhmNXhxOVhITGVZbkZRTmNHejA2SUhmeF8tTFllTFYw?oc=5",
+   "published": "2026-10-06T07:00:00Z",
+   "outlet": "The Australian",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5251,6 +5449,17 @@
    "first_seen": null
   },
   {
+   "id": "037e1796f704f1be",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH): ATH434 Phase 3 Preparation for Multiple System Atrophy - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH): ATH434 Phase 3 Preparation for Multiple System Atrophy Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOEFQaW54OFR5NGVBTmdORVBiSF9ZdHZaMTFkZjdsaVVmRFp1b0dOcVFEZnlnazJBUDUxZjJSb2tlTllmdTlGckx1OHYyNHBGODlzcEFMUlQtWVdDY0F5alJ6YWpkdXlteTlTbG45UnoxMjdUSU5hYmRPUlFOVlRxaENOTFBwWnlhR1ZOWk5uTTdpQjV1SFp4T0t5TnJvTlJUeUNXeTBGLWJVNHdGNElKbXJ5ZUtSaF9LUkhzRGxFZw?oc=5",
+   "published": "2026-09-15T07:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b25b86d765b75a83",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics Announces Positive Topline Results from Phase 3 Panorama Study of DT120 ODT in Generalized Anxiety Disorder",
@@ -5369,6 +5578,28 @@
    "published": "2026-09-11T07:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c20ce47afdf35481",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics at Cantor healthcare conference: phase iii path sharpens - Investing.com",
+   "summary": "Alterity Therapeutics at Cantor healthcare conference: phase iii path sharpens Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemZkNS1lSFlEU2JIMGt0YjRTdFNuT1Y3ZFk1Tld3UExtaUh2TmJ1V0JobURGQ2NBS3gyQWhKNmxHVTlpZzR6ZWdYNGtPcl9JZGhiWDVfQklHOXZwOFBFak9kRlV6ZXo5VWQ5Ykhwb015NUlxMC00MVBQeG1ZVTkycEd3TTJGVTU0R1RHalZtV0RZWmVWUk1mblVNaDZYN2JNWDA0dE41VXVfYVZWMzdrR2hReXI2ZFVJWEhJd3VXRlhWX2xnZTN5YkxwdE9xdw?oc=5",
+   "published": "2026-09-11T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7f9c11c2896203b9",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH) Slides on the ASX - Is Support Close? - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH) Slides on the ASX - Is Support Close? Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnMyM0k5MGVGam1fQU96SWRvR1pmLTVnclJyc1dXYS1kMGw5RktZZjNnZWdzbXVzcTN3ZTZlX1V2TDZOTmxGaUVJUDZRUlcyQWswWF9maEphUE1xazRTdU5qeW9DT3VSSTV6blpPYjFpbWxnVGVfeTg4MXUtRHdnUG41WWRWWVg0NWtIWTE4ckl2eXRwMXVRdURPLXNkRHhWYTM1bWNiX0ltWHJaV3JGWlZn?oc=5",
+   "published": "2026-09-11T07:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -5680,6 +5911,17 @@
    "first_seen": null
   },
   {
+   "id": "1d8de08b14b84d82",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity to boost funds ahead of MSA trial - The Australian",
+   "summary": "Alterity to boost funds ahead of MSA trial The Australian",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYUdSSXduVXJmQ0wwZU5nRlY4RHJKZXNhakZSME03Mlcxc05fSzdsMHh5MFlsbWEyZW9wTkIyN2ZXX3dnLUs3WlJfWWY1bTZqWWxvZ3NlRlEzWDc2YXhsalZ5YmZ3VGhiR2NpRkJoZ092YUNRQ3BPOERTWXBMSjNhQ0VyM0p3YmNycFYtRTFPLUJSMmJ5RjJVSVRnU1lsS2FXSlJpdkVaVVJNd2pXUk84NWRaUWcyc1p0YW9SM2liMlZycVNjVk5FNjJBNURNa1AwMW5oVVNsX2JpbzVaSFM5OHVGaHF5SzFORWVtc3Z2RnNGMmJob2dpT2RvSnI3U3AyRk1ob1c1Qy0ydTg?oc=5",
+   "published": "2026-09-02T07:00:00Z",
+   "outlet": "The Australian",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "855a2bd7183c8974",
    "company": "Luye Pharma",
    "title": "Luye Pharma Announces 2026 Interim Results - 绿叶制药集团",
@@ -5867,6 +6109,17 @@
    "first_seen": null
   },
   {
+   "id": "0a8ed263375d75c5",
+   "company": "Alterity Therapeutics",
+   "title": "Long Shortz with Alterity Therapeutics: New US patent extends ATH434’s commercial runway - The Australian",
+   "summary": "Long Shortz with Alterity Therapeutics: New US patent extends ATH434’s commercial runway The Australian",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPR1NOWU5vN3JfMHlsZUlaR21KVWhKdy1YN1FjOUpnYkhneE90OVM4TFhhZ01xdER1ZDRENFJZWkJ1SDB2bWpmRTBjOVIxMnRjWUZ3RHB4ZE5ZdS05YmdibFlaNlZDRzA4aWlwVlRNNE1LN0daNVdfRWZwS2tSNmY0aG1UZS00OEw3cGk2ZHhVTUxOWkoybVZUU2lyd0lBYlVUbFNPVm9uQ3pUNnIyX1FjQV9zcU9iRXF2djF1cm5TM3pkNFYxYkkxbUhuLVBBSlJXcVlnTVJaTWh5UlAxWkNVSXI3NXh4VDhpZHU5TEpqY3FIdER0WUJjZDdGWmZOMjVEVDJvYzRIVEJSNmJZLVFyanVYbHdYSWJ3Y3c?oc=5",
+   "published": "2026-08-24T07:00:00Z",
+   "outlet": "The Australian",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "93c83b12d44bd746",
    "company": "Protagenic Therapeutics",
    "title": "Jennifer Buell, Ph.D. - Protagenic Therapeutics",
@@ -5886,6 +6139,17 @@
    "published": "2026-08-22T08:19:24Z",
    "outlet": "Lilly Trials",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "0d12ac7a0e0c8fe4",
+   "company": "Alterity Therapeutics",
+   "title": "FDA Accepts Ecopipam NDA for Tourette Syndrome, Remlifanserin Receives Fast Track Designation for AD Psychosis, Alterity Reaches FDA Alignment on ATH434 - NeurologyLive",
+   "summary": "FDA Accepts Ecopipam NDA for Tourette Syndrome, Remlifanserin Receives Fast Track Designation for AD Psychosis, Alterity Reaches FDA Alignment on ATH434 NeurologyLive",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNb2U1eVVjUWd2RWFnTGhzcFplUHJLU2Foa3I3VFhqRC1hanFOTVVUbVl6MExwN3BlX3I2ZkFfOUE2ckdWaWdsQkhwa2kzTVJDalNMczVKb1RZSDd6YXBjRnVFMFBlY0w1SlBKdmh4UU5Ea0V5czZXMXB2NGdhbnk3cWVrb3JUaXlvbTFOTU9IaWZmSEtYR0lMSGRYU0JpWE5HeFNYODB3Sk5hblc4YjJJM0t5U0FyQnFXeVVKalRndDNnNnloWnlGWmhrYm44RkJub0lZQlBxaXpuUndOZFRBemFNSzM0YzZvc0Z5VVdjLVdYVDVGS1piU1hWTkxUcjlma1FOQw?oc=5",
+   "published": "2026-08-22T07:00:00Z",
+   "outlet": "NeurologyLive",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -6186,6 +6450,17 @@
    "first_seen": null
   },
   {
+   "id": "b57a34098e72a3aa",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity granted additional US patent for ATH434 - The Australian",
+   "summary": "Alterity granted additional US patent for ATH434 The Australian",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQODZFLVExV3NhNVc5eHVaZFpmN2J4UDFfcmNFWXBUUTFKUUZqSGJEcjBXdDVNTnFSbFQydHp0S0txQjFpelo1a1NfenR3M3FhSVQxdHh0OG9Vd0JpT1BFYWhsT0dzVGNoS2dwbHpwVGc3WDc0WUJiang4UXdJYmt3TVFSaXo3QmV4MXctNWY3UlVSQUtaSVhYM3lXWnV2RlNwLWJoSW81Q24xX1V4VjNQQ1o0aDBDZzdlOU4tSU0tMUdaeWxiYm9EWXFfblJ6ajBzMVRGd1dveldZVHpOb2NKUjhCUEdKT25tUVEzS2R6NHB3alVKT09lNUFKTmtHdGRaMXBGNUF6dV9mNnphbmNqMUFIV2I?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "The Australian",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "140cb82b15de0447",
    "company": "Minerva Neurosciences",
    "title": "Minerva Announces Leadership Transition - Minerva Neurosciences",
@@ -6296,6 +6571,17 @@
    "first_seen": null
   },
   {
+   "id": "fa8ece84740d1964",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Secures Key US Patent for Lead Asset - Benzinga",
+   "summary": "Alterity Therapeutics Secures Key US Patent for Lead Asset Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFFkYm5jbFExOTEtVTQzcmx4aWprWUVXRGdKOUpKUTY5MDBPMklLQ1dQYlRBTlBmSy1ZdjZvYXdjd2ZSYVZuYlNweHBZWUtOZTZNd1ZVYUhFeS1HdTNwR25xdGpCcC0yU3lwdTNRa3Z4NmlTU052YVBKSGJLQ1ZtV2Rsbi02Q0pfWGN5aVMtWG9WSUkxamlkV0g5NVNtLTdKTURTNHZTMEZrUVlBQzRpcW9qcXVMQQ?oc=5",
+   "published": "2026-08-12T07:00:00Z",
+   "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ae9f26f0205bcbec",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics Reports Financial Results for Second Quarter 2026 and Provides Corporate Update - Gain Therapeutics",
@@ -6347,6 +6633,28 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbmFYel9jUm9RN2VtN1QwNHdzdjVncThmaS1RaVlXWDdDVU5vY3lLa3BaR3BEdmtYa0xnSWVfX0ZNRFFQeGtJbjNOMllVX2lDMm1KeS1OX3VlMWNsSzJ3ejlEaXVoWmJxZUh1YVJ4Qk5pN3JnQ0Zxby1rMURoRjNWcUktUWJKVHhtYXRjNV8zbWtWWnA1bWUtOS02bVg?oc=5",
    "published": "2026-08-11T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "964eab06fc5eaf36",
+   "company": "Alterity Therapeutics",
+   "title": "Craig-Hallum initiates Alterity Therapeutics stock coverage with buy rating - Investing.com",
+   "summary": "Craig-Hallum initiates Alterity Therapeutics stock coverage with buy rating Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRk9fMkVvNnU4cXZEY1l4aWNyekxUamM2a21Sb25zRTkxbWpOangzWHVMWnI3akJOVy1LYjE2Nk5pZGdHT3NWaWJZdEtiajdOSm9qR0o0ckkyWFc1R0tpRUF6bExyMDM1MEFWR1pYXzlkZ1NfUVJHcHRVb09uZFpNQnpoX1V1cUtaYjdoWkNyNm5tUmpYNDdtN3VYNFoxb0Z4SnptUVhFQnM2N2VBYUFGdjlyZU9vYXJNdUZIUHJVN1YwTjRVdVI4NGFLTlJUcjA?oc=5",
+   "published": "2026-08-11T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1b26d97957711158",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Granted ATH434 Patent to Treat Neurodegenerative Diseases - smallcaps.com.au",
+   "summary": "Alterity Therapeutics Granted ATH434 Patent to Treat Neurodegenerative Diseases smallcaps.com.au",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0lMbGhwV1pZa2tzM01GYk5nN0dGNlYxREU5M1R0Ry1PV19PQ2FZS1VwM0tQTHhiRFVlcldSYlh4alAwTElFMjdoZk9mUm9nVXVmd0U1MGstbE1GVEdPM1YzMGdzWWZCNDJ1aHhiSEdkaGFjaWpYOG1Gb1pHLThoa2o4RmZkeDJoRUxfM0VoVmlsWFR0VXBhd2o2aGhWMzdSMV9SOUt4alRfT1FGY3ppaVRB?oc=5",
+   "published": "2026-08-11T07:00:00Z",
+   "outlet": "smallcaps.com.au",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6557,6 +6865,17 @@
    "published": "2026-08-08T14:13:04Z",
    "outlet": "Gain Therapeutics",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "11adc51237db5337",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH) CEO David Stamler on upcoming milestones - YouTube",
+   "summary": "Alterity Therapeutics (ASX:ATH) CEO David Stamler on upcoming milestones YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84ZUxvNGVtZy1uWjVPbkVwRi1GMDlRc21pRm1kOFlTSEdFbmRZM1JsbUZILTJ0c0FuUi1TS194Y182c2tacjR6QXVTTFVLR3YzU3BVTmxVdEw5MWpy?oc=5",
+   "published": "2026-08-08T07:00:00Z",
+   "outlet": "YouTube",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -7539,6 +7858,17 @@
    "first_seen": null
   },
   {
+   "id": "1b05d037ea920873",
+   "company": "Alterity Therapeutics",
+   "title": "US FDA confirms Alterity’s Phase III trial path - The Australian",
+   "summary": "US FDA confirms Alterity’s Phase III trial path The Australian",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdmFjZjVsREM3eG1zOF81d0lDbXBWQmxvcWFhb2dEMF9WNXNoVk4ySk1yRmVBSEpCcTY1Qmx6X053YVE1Um9xWWhjdlNYdU53ZXVrbWRVMk1DQ3E2Q3cwdFVmMm1adFFyV2NhOFQwQ3N2WXBud3hzNXV1MlNQMXhld3dhQUpHdVA4ZHgtY3NMTllNUUYyOENDVzd1ZjgteGNyVzcwRzhZZjIxaEx0NlJCbF9JU2FjdjhnVEdnTHV3NE9ORnNrSGF5VUtmRENtRm4zRkx0TWJYT1RNeHRrOHBJYTZKWjNjUkpZeUtEbGJydU53c084cVlXb1JWcTFRS0dOSEtFenlUOTZXN3M2U1JVYjhERQ?oc=5",
+   "published": "2026-07-07T07:00:00Z",
+   "outlet": "The Australian",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c775eefb600d47f8",
    "company": "Unixell",
    "title": "UniXell secures FDA clearance for iPSC-derived Parkinson’s cell therapy - BioSpectrum Asia",
@@ -7778,6 +8108,17 @@
    "published": "2026-06-26T07:00:00Z",
    "outlet": "Merz Therapeutics",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "9051015ac3069e3f",
+   "company": "Alterity Therapeutics",
+   "title": "ATH Forecast — Price Target — Prediction for 2027 - TradingView",
+   "summary": "ATH Forecast — Price Target — Prediction for 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56OE1JTHpEbkNRd1hUdWl5SHpBcW9yWWYyY0VvbF91SmpTd2pnRVZhckZPcGlHSURVVWdOWUR5ZUJRT2ZxU0lHN05nQXRFY1c2eTA0TG1jSVhZb2NGNXhFc2cyQlllUDZiajh4VzhkTmctZFRM?oc=5",
+   "published": "2026-06-25T15:55:23Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -8320,6 +8661,28 @@
    "first_seen": null
   },
   {
+   "id": "905937ad5201c60a",
+   "company": "Alterity Therapeutics",
+   "title": "US drug regulator backs Alterity’s pivotal phase III trial - The Australian",
+   "summary": "US drug regulator backs Alterity’s pivotal phase III trial The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdDVZX3dYZU4wUk1kbWRVUzllRE1qc0lzdzkxeUZjenA2QXRJOHV1TkpCY01MREJoUWlhbEdLM3J5S3JlSVg2Zkl5OEo1YVRiaFlHd0I2Ti1GLURrOVU4V1ZsdU9qRjY5WFZMZzBNM0FtVmRtZzF1VGRkcDZQMU5sYWdIQWNoVW5DRnFSR1hJR2VJTlB0bGVieXdhcXBpR1JDdXJSRkQyN2I5dU9vY3plbGhWdFhxTTZ0OFhNeG9mVFVsYjhYRmRlRVltVDdncDlabzI3VnFlNlk0aldmZHJzank4M2FsTVpKZUZZelNXOElVWEptZXRiMk9R?oc=5",
+   "published": "2026-06-09T07:00:00Z",
+   "outlet": "The Australian",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "cce989345add3b52",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH) Stock in Focus After FDA Endorses Registrational Pathway for ATH434 - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH) Stock in Focus After FDA Endorses Registrational Pathway for ATH434 Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQTg4M1BBcFZOMEEwbTBDS21LLUEzc1Q5aTdFeUNjUElNc3dfWDhtanNMVE1qck5UaFR6VUdsQ2FVUDJvM3pxRnowb1JsZFV6c19POUJwYUdEdlhDS2NlUW9kVllZeElMZExaYlZjZ2U3U2NpZmxsaHBfZ2tLYWtjMURPc01CN09IeFFOZExqek55REc3MXUzMlU3SkI5VU1vTUhWX1E1dXlfOFl3RGJsSFhFcXpKOFJpdWZLVmVQVzJBTzFTRmc2bXJhci1VWHBo?oc=5",
+   "published": "2026-06-09T07:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "2a437505ce8c152c",
    "company": "Kyowa Kirin",
    "title": "Integrated Report 2025 - Kyowa Kirin",
@@ -8518,6 +8881,17 @@
    "first_seen": null
   },
   {
+   "id": "1f4215aa33d3ab08",
+   "company": "Alterity Therapeutics",
+   "title": "ATHE - Alterity Therapeutics Ltd ADR Stock Price and Quote - Finviz",
+   "summary": "ATHE - Alterity Therapeutics Ltd ADR Stock Price and Quote Finviz",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yS0hMZnljMkZPWFY5TmYwRml4elRqRnNRNmtHWmdnY1lLX1AxTmVrWENJRFMxYVNlSFlEVmtqS2tCcHM4Z2c?oc=5",
+   "published": "2026-05-29T05:10:31Z",
+   "outlet": "Finviz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "9bffb0958c00039a",
    "company": "Alto Neuroscience",
    "title": "Alto Neuroscience Appoints Karuna Therapeutics Founder Andrew Miller, Ph.D. to Board of Directors",
@@ -8658,6 +9032,17 @@
    "published": "2026-05-26T01:40:03Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "51a11f8cb312d75d",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity presents at key medical conferences - The Australian",
+   "summary": "Alterity presents at key medical conferences The Australian",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQME1jODZPRlJMSlRmVmd3QVV4OGFXeTJLOTczd0Y3azQxRnZDclozM1ZFSUZYbzhOMDFKX214UUxGRHhjbUoxaERFOHMzRVUxdG45NHVTNGctNlZvd2duY2UtcjducS1uYmpHNGJSVXFDbVFxYmdDMUJyMFRZUF85LXUzUnp2MXZvLThtN3hycWpnQWNVQ21JcXpLaDcxSF9PVU1JYXFMMzNLOVNDc2FSMEJGUTdtTnpJTkMweWNsTUFfeW5Iam0tQ0h3SjE2RnY0Ri1mdWk5NEVGZnVacXNyU21xdk11N1htWXRxeU9lMlkwdTU1czFPbVN5SEJkanBZOUdUa1BjSlVuUXZRZE53U2VmdExBQkhVSkotUDdRQW9QRlR5aDlGSWtjQWkwdw?oc=5",
+   "published": "2026-05-25T07:00:00Z",
+   "outlet": "The Australian",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -9131,6 +9516,17 @@
    "published": "2026-05-12T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8212027d6ae28eee",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity strengthens ATH434 case with validated brain imaging biomarker in MSA - The Australian",
+   "summary": "Alterity strengthens ATH434 case with validated brain imaging biomarker in MSA The Australian",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbXE2MUZYTFowWkc5V0tRTVV6bU1VZ0FiV0Q4LTZhbXVhMTc2dmVHaUFjM1FlSUtHM1ZrYllwblg0ZFJHVzVncFFNNXBUMGQ0bUdwYzZHZk1IVlZVeUNvY2ROYW5wNlgxb25yOXl2alhpX3lPTDk2N2dfLUk0U3p3eF9vZ01PbHplUEVhanZqUWFidWtiX1BHMDF2SHBhb3hJRDhMWFBaekJtYlJodWxibUVGWUs1QW5yaFEyZzBSd2JIandLT3dwTkZDbUhoeHV5SUFVZzlCTHZnMWJQXzN6ZTI3bGhxdzBCUU02bmJwazllbXdmSFh6UF9XQ01scnJ5UmthcVlEWTlOdFlkeVE4?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "The Australian",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -10036,6 +10432,17 @@
    "first_seen": null
   },
   {
+   "id": "cc4d3baec2f6967c",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity strengthens board with seasoned biotech leader as it advances flagship therapy - BiotechDispatch",
+   "summary": "Alterity strengthens board with seasoned biotech leader as it advances flagship therapy BiotechDispatch",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd1FjM05ST0U2eUNkVGs2eENpNlF0MlNQVmhibUVaOWxYZGZ6b25wZ3NYdFlIMm1HeGVMV3RpWWZiT0dzdmxGb2tpS3FlRFhIbmllaWw5NmlYYmRkZ0dJZGVtU01xeFRRN2ltRlNRTS0yNFNpOVFSYjNub2dzS2tMNlRLYVdGREFWaXU0cHRwYU85RS1GajhoY2xPb1BkT0hVcER2VVVEVnl1M293TFdYMlQwV3RYaVhwLU5SS2RKYkY?oc=5",
+   "published": "2026-04-21T07:00:00Z",
+   "outlet": "BiotechDispatch",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "26e786ba25aacbdf",
    "company": "AskBio (Bayer)",
    "title": "AskBio’s Viralgen to Supply Commercial-Scale Drug Product for REGENERATE-PD Investigational Gene Therapy Phase II Trial for Parkinson’s Disease",
@@ -10487,6 +10894,17 @@
    "first_seen": null
   },
   {
+   "id": "e9fe6c5f215ace2d",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity gains positive FDA feedback ahead of phase III MSA trial - The Australian",
+   "summary": "Alterity gains positive FDA feedback ahead of phase III MSA trial The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd1EwVnJnQ0Q3NTRHOFFydzlZWUg2czAxcUFNVHRyaGNmWTV0cVRDYlY3OGdnaUJwOWV2NHIzLWVpcm9XNjhOTl8yNzdNNEI1NXFUV280b1lzdy1qSnhiZl9UdjJqZlE5YWRVaDBjRWY1OWloQmk2bE9nQXJ0dlluMHNHOWpldEVURW4zaUw1X01pUUdZVWlmNzlLV1ZFcEh3UXdvX2R0UlNVZG95VHZPMTZYZm54Q0dtNElUVkxwT3RaOEhyaFRyNlJsTlRvd1plQVJyRlI4Q2QzRmtzX3hYY3NLZE4xMnVsY25JQnpqaS02TW8wMmZNWmZQeHRndw?oc=5",
+   "published": "2026-04-02T07:00:00Z",
+   "outlet": "The Australian",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a7a891cb7919e9e1",
    "company": "Luye Pharma",
    "title": "Luye Pharma Announces 2025 Financial Results - 绿叶制药集团",
@@ -10769,6 +11187,17 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXpraWFPT1ZjUjJrbUZ1QmtpUVgtY2N1clJTRUZOeHZiYll3ZDVITld2NFFPWjU2MHVCY05nMFNva3NfR2lCVVJyYTV3dlNGcjJiUW0yNGp5empZWXZhTGNwbVphZUM4QkFPVTlXc3dRQXNfbG55TXR2bHM3QXB3bWVoYjB5Zw?oc=5",
    "published": "2026-03-29T07:00:00Z",
    "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3038531a10c71b30",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Receives Positive FDA Feedback for ATH434 Phase 3 MSA Program - smallcaps.com.au",
+   "summary": "Alterity Therapeutics Receives Positive FDA Feedback for ATH434 Phase 3 MSA Program smallcaps.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVTFzMEFNS1FkalFMQlVieDBrR2NnRWVOY0pucWJWQkM3b0JaSnNkSWs3VUVuZndSSlM4eElzT0VqYncxWGFTWjRGaDB3TlQ2MnZMQXAtWU85ZXMyQkJFd3NzOWU3Q2RxU3AxNE4yUkVwMVozVmIwendWcGhWaE9VLXJWRzc1T25sdWFrZzlnY3hQa21abTF4OFpyMnFJMndVd21kTEtwejgwR0lmTmZsNU9IT2tVT2VtaUE?oc=5",
+   "published": "2026-03-29T07:00:00Z",
+   "outlet": "smallcaps.com.au",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13594,6 +14023,17 @@
    "title": "Reports and Presentations 2026 - Newron Pharmaceuticals",
    "summary": "Reports and Presentations 2026 Newron Pharmaceuticals",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JVExqaG8taWs4eEVHaFJMWkpGeU9JM2dzLXE0bjRzeF9zQV9kLVpfUDRUZ2RralA5Wk94Wk95djZoVkgwSDFjS3M1MjhyRDdPUGNsZjdFYmhERE5vZFBRSGZKcUZYZDZaYmNaLXpER29rajVhdFE?oc=5",
+   "published": "2025-12-15T12:58:10Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "f303576f247fb1a5",
+   "company": "Newron Pharmaceuticals",
+   "title": "Regulatory News 2026 - Newron Pharmaceuticals",
+   "summary": "Regulatory News 2026 Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bFZVZTRMQUcxZGljdWswb0g5RVFVUjJPRFdrVm54NEdQSlozdTVwZmRJVFc4M3ZSSzB6V0ZmckhrelByZzFuZDRGMXptcHZybzg3c1ZRNkl1Sm1mMDJtSG1QSUlTT3ptbkVTR0FKTkc?oc=5",
    "published": "2025-12-15T12:58:10Z",
    "outlet": "Newron Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
