@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:12:29Z",
+ "updated": "2026-11-19T20:18:20Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1940,6 +1940,17 @@
    "first_seen": "2026-11-19T17:31:37Z"
   },
   {
+   "id": "34a6336482cef4ca",
+   "company": "Xenon Pharmaceuticals",
+   "title": "0001193125-26-377309 | 4 | Xenon Pharmaceuticals Inc. - Xenon Pharmaceuticals Inc.",
+   "summary": "0001193125-26-377309 | 4 | Xenon Pharmaceuticals Inc. Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmhmcy1sZ1JpN1BKREhWbXVxQ0JpYnhvOEFUdDdGbTg3T2hwSkJjUFQ0QmRoQmRDc2N2N3hKY19pRGxvdG84OWtrSFJLbjhUdG5yQ1NaR09fMDRkcWlHNkRiblVDb1h4UGlrNzdmZHhzdk1nQjQ3dUIzbDV1aGtaQkw4Y2pNZw?oc=5",
+   "published": "2026-11-17T11:03:06Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T20:18:20Z"
+  },
+  {
    "id": "b2974cb11f3cfff1",
    "company": "Teva",
    "title": "Teva scores FDA OK for at-home agitation drug weeks after bankruptcy-sale buy - FirstWord Pharma",
@@ -1988,8 +1999,8 @@
    "company": "Biogen",
    "title": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 - Biogen",
    "summary": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 Biogen",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoczRESnJac1FyV2M3ZlkzaVVCYXZ6T1RrM3liMGl0SnBUeWtpZjhyNklYd3JWWnVkS3ZCdFM2dHZFZVJqN1RUWXVZUGdRRU53clhzZHpB?oc=5",
-   "published": "2026-11-17T00:55:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZm1kZ0otbW1OVzlwMWdxQlR1VzVzajlxRWtlTUJEY0EtY3dfSEZQZlhSWEM1ZVVwTlZMTGxCYS1rNWdrMXRCZnYxUWRWcUpieU1Ec0VzUDQzYVRHY3lUTjZMcTFlSjFYcDh3ZnBLOUo4c1dQd0Y4cUdQeDNYNzYtdTJEMWxlQmJkWXpxM1k2SjVlTVpGNjRvcjFZVWRKcTZoeERoNEhJQXNrZmJYakFZb1k0QzRQZFVINGF3?oc=5",
+   "published": "2026-11-16T23:00:29Z",
    "outlet": "Biogen",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
@@ -2200,6 +2211,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BWVluQ1BKbUE4OF9KUXNWY2h0WjFKNHhwbGRPX280VnNLMWRuT2lnTU9BUlFaYkRCWVEtTUczTS02Y2xxQ241ZFFSNXdDMVpPOVdsR2NsMWQxMHdjRDM4?oc=5",
    "published": "2026-11-16T08:00:00Z",
    "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "3a8a037779296602",
+   "company": "Xenon Pharmaceuticals",
+   "title": "0001172661-26-005106 | SCHEDULE 13G | Xenon Pharmaceuticals Inc. - Xenon Pharmaceuticals Inc.",
+   "summary": "0001172661-26-005106 | SCHEDULE 13G | Xenon Pharmaceuticals Inc. Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3oteHkzc3RLZEhFdWt1MDJKVkdVX2h5Zk1ZRjdFZ2s1RGVCQjhRQ0VuSTM3WTZKalFBOUFYZGJNXzZWakJEQXR3Vk5uSXlFQXJBMmN6TE5FTGhTX19SdnJETGw2YXRMckRSaldxQTlmZ2tnRmtyU1Z1Yml3OFgwb1ZFT3NfeXBsMEEzSzRKbk5NVDVW?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -2446,6 +2468,17 @@
    "first_seen": null
   },
   {
+   "id": "10ca61f211fd2fd4",
+   "company": "Novartis",
+   "title": "Medical Science Liaison - Neuroscience - Novartis",
+   "summary": "Medical Science Liaison - Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU21CejdCcnBpTU9wLWdMQ01IT0w1WTRGMklMU2ZXaXJyUXcyNDJTZ0N0djhfOGt1VDY3NGxxMUlLV3dnXzhBQzNzaEtRaERvM25zSWxjZ0FsMUJLVndCdnQwRUl2bXdqdzJuNzBfY3VEX3NMSUNYZ2hNUWlOblZVanZGMC1qOHh4OVpfWFBWbVlIR00wQVFQb2JpaERQTjg2VWhfVlVJTG1WdWpLMzZUWHlabDk?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "79b274f5e69f78ed",
    "company": "Alto Neuroscience",
    "title": "Alto Neuroscience Reports Third Quarter 2026 Financial Results and Recent Business Highlights",
@@ -2475,6 +2508,17 @@
    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTkhvOGlxN2tNRGpzTGFCZHJ4bmYxUGtHWUd6SGNMN01JV1Q4VGh5dGhtb3c3MkVrWENUc2NQaXhJSkJ0amNfaHBiWEstaXo3SGt5YXg2Q1pNUEVZM1QzYTJaZXBJOXpaOFFlSWI4YzVrbHRuLThPV2NxQUZsNEk0bmdndWFsNkhzcnBUNmQ1dVV3aHZMQ2ZLQzIzNHdEVE9JbGJuN0VoXzZNNlFodEFEM1hNWjRKOGpLanB3U3k1dXZtTTU1Y1dMazlzZ3RhYTFlS2ZvenBoZGVraWlPcXppQ3ktN0FEdElvalhxb2R4ZW9vRDFIQ19Mc2hnYTZpTDJyVDltUmRUUXo1TEs1UmMxSA?oc=5",
    "published": "2026-11-10T08:00:00Z",
    "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "083da40444df5bba",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Form 8-K for Xenon Pharmaceuticals INC filed 11/09/2026 - Xenon Pharmaceuticals Inc.",
+   "summary": "Form 8-K for Xenon Pharmaceuticals INC filed 11/09/2026 Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmlldzhJdjdWOFdVRDZhazBTQ3ZlWG4xMTFBRmIwVUNlNldPRTBJRGJaUWpBRWU2RWR0Zk9QVWFFR2o4MlhFR213Umlnc1NhV3J5enFscVN6SzViZ3I1N2JqUzFsQmRQVFFSaDBGQWNPNnh5LWYwQlNVemM2WlJmU3ZWM2lyaGFvZk80?oc=5",
+   "published": "2026-11-10T04:13:57Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -2563,6 +2607,39 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RME5NVl9STmNNVElDTXAzRlUycTJaLW55OVBzeVg3VHp3YWFRelM2N21RaU4yTTU0eVY0TlhPQ1VyaDFkQ3RLdmR0X0Nua2Z5RDlZSFZvcTlvaXRoSWtTejJPOUZLX1hD?oc=5",
    "published": "2026-11-09T08:00:00Z",
    "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b62b95c658657c45",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Q3 2026 Xenon Pharmaceuticals Inc. Earnings Conference Call - Xenon Pharmaceuticals Inc.",
+   "summary": "Q3 2026 Xenon Pharmaceuticals Inc. Earnings Conference Call Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXhvNFIyM3JVOTc0UlhONHBTeVZabl9UNHVuOHFZLWI5emR0Yy0telZHSE5RekVqS1JWczRHSUxoeXhId1FkQktuVHdKZ2lqN2VOVU9UbXhpeFc3Tk9yRm0yWElTcnN5MmlXbC02cjk5TnhVYXRFQTlpN3RMTTUta2lfUUhXMk1JRGU3V3hnOUZtTmNzOXV0dVNySTZyRWpIbUd6UVhhb2xtWVh3R2tNM05IQQ?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "be90c21394bedbcb",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Report Q3 2026 Financial Results on November 9, 2026 - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon to Report Q3 2026 Financial Results on November 9, 2026 Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlh4QWlkckpkRU10bkJqWWhhTHB5OWtQQnQ4R2J3cVpRUG5IaFp5aGVwM3Q3NHdfQlVkOTNXYk02bktFbENFREhtYUFLLTBralFqdWJXRGFySlBVNzliYXNySzZJY0g5X01lamF4MWRQZlVJM0hmQVJNdFFlbG04UDFXS1lyOHM0OXF1VXNESnV1N09DNnViUjhCakdkZE9jc2dmWEVGRGlVaVpFdmg3NVpxSEFfWjhWOFdxWW9McmY?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "5235e44c70781488",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Reports Q3 2026 Financial Results and Provides Business Update - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon Reports Q3 2026 Financial Results and Provides Business Update Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYi1uMlNXclVoZmdqUFJCbXpLWVE1YUk5MzdmeDFjOFQzNFM2aVN3aXJybEhhU1pwa3ROSl9nbTM5aGI0bGVxdmtoaDFhUU1Da2ZITV9RNXdiMkJLZ0VqR29XZHFJbk5ZVmVqT2xtOVR4TVZDRVZjYllZbnEyc2J1alNTaVMtZ3VfQlBrNVZEckt0cmU2VElsVnJLUjVWX05EN2cxbG9KMWtTbUU2VnZrMlMyd1JScWd5Y3cySlZnYlBJNWhtUlE4N1BR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -2750,6 +2827,17 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHA0R1NqMUY4aXNqZFRISElLVzd0bkJEcHpQWkVGOXExQlg5OFBUZHI5OERCb21tQzlFa3lZUHVYNHlwRDBHUFVMa2hjVWU0UlI3M01KRE1kNmREU3B3ZUh5VXduMVR2TVU1ZmxDUWhsdnZhYXBNeEt2WkFscGlCYllSZHNmRnZNUXVhbDZaNlFwMk84dEFQSEEzZmhVd21rVExqWkRQMmU4TnEtaU42dEpXeXlwSURDWG40amZRV092YjVkdTBwRQ?oc=5",
    "published": "2026-11-03T23:01:40Z",
    "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "6600a28430b239ae",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Present at Upcoming Investor Conferences - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon to Present at Upcoming Investor Conferences Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTdSRGhuRzg4RmVqaDRxaGZYekNFd190bHRGUDI5Q216VFdsekRZSDRXR3doN25ZLVpNUGl4cFFBcWtEMVFzQkhlQlBhV2tVaExsTTYxaDczbmdoaGkyQU9KMEowUHNuaE4xY2JybThhQ0FCb1hTRE1lNlRObzhNYVp6RUdFUF8ycVF1WHpvX2lvOGJrR3pmby1lOWZ6ZWo4aWNzRHBSdFR6NkRqSW9fSEhNVWw?oc=5",
+   "published": "2026-11-03T21:01:38Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3073,6 +3161,17 @@
    "first_seen": null
   },
   {
+   "id": "54ec92c4ab0cec79",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSmJpcWZTZjY2VXpyQkh5UHBPYzQtd0NVS09CV2ZEY3dEd0pfdjJobG5HUmhQazN2aGRUWlhrWmdLb0Fja3hsdzl5YXRMTVJVQVJET21Mbm41RThtSkd0RTlIdXRBV3lkWlRZRktQVEtTd2NmY2JOdnJNOVdkckdpelZJZk5KSVhodDQwZEVsdXIyVFp2aXhlV2dvYW9NaGFBekZ4NWFsTjIyRHZRdFh4R0dXNFVFX3dTbnBpQ3RlM1R5T181MlhoaE5TX1E?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "9b2f39b2b9e9cc51",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Report Third Quarter 2026 Financial Results on November 9, 2026",
@@ -3135,6 +3234,28 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMndSbmp4RmtqYk5kU1NPOC16QTNhVUgxbjZSSjdQbG5tYWJwaUdCa2U5anh6UTlQZFN6cUpONFNuNmlwX0cxVm1jQ2VjOGhXRllUSGxxTzVwNXRPRjFtb0F0MWxyLTFua3lHdTVRNXR0c0Q1dnZMbVRmRUtKMHJSZXotYU14cFNHdEdUOE9qbXVhOWc?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "STADA",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "97142b5e380def4a",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Announces Positive Phase 1 and New Preclinical Data at IASP 2026 Supporting Advancement of XEN1701 and XEN1120 to Phase 2 Proof-of-Concept Studies in Acute Pain - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon Announces Positive Phase 1 and New Preclinical Data at IASP 2026 Supporting Advancement of XEN1701 and XEN1120 to Phase 2 Proof-of-Concept Studies in Acute Pain Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDVnVUpzM0ZRc3EycTV0d1d0eEVZN1BEelF3bmd1dlQ2Tl9ITmprQ1ZfSmswX2NQU3ljX29sRXgyR3ZwRVMzZDJrU0FwR1BIZEI4b3pkWmlrZmloc2RWZUxobUYzU2doSFFfRXJ6d3RGMlVtTUhTNWNSMzBIWW4zLTZiT3pFUjdJY1JSWTZiX2FpVDRTaWlPYlhVMG1zM3VpcWhNbEM0eDdwa2pESTVhY29wX2x5ay10OE9jS1RVdVdLU1BVOE83UGJzTQ?oc=5",
+   "published": "2026-10-29T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "48c3998b96c6fcc8",
+   "company": "Xenon Pharmaceuticals",
+   "title": "XEN1120, a Phase 2-Ready KV7 Channel Opener: Advancing a Novel Non- Opioid Strategy for Pain - Xenon Pharmaceuticals Inc.",
+   "summary": "XEN1120, a Phase 2-Ready KV7 Channel Opener: Advancing a Novel Non- Opioid Strategy for Pain Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV3Nrb242Z0RGaHlZWmRFM0ZlSmhjb0w5UFVhS2lDbDFZenFwWEJwOHJFeERLcnRJYnhtNVdKZ0tlRDJOaURDVHFJZVdZTHNDU0wxOWhTcGhjVEVnWG9sSGpWR2luSXRZY3FUQjJoOW1ySlEzWVctdVZUc2x5MGJ4cll6b3Z4dmVsR3ZYX2JUMHYzVEFGYk80Vi1lUXZhbnVDendiZm5pdjVNUHgtS2VkUGpBb2ZEYmZLVE85Sm9HTk1iUjVneVh6UA?oc=5",
+   "published": "2026-10-29T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3608,6 +3729,17 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1J6WlhiM3IzXzdoMThzZTJaY081bFRCTWJMVV85VW0xeHpGZTBVd0habzBhcDJyeWlvZWhBSVptVlZhc3EzSUVldHl2TWNUbWlOTzZkbFhoS1A3bW5LUEVYemRERXpGMDREbFZIVzhtNEVOYjFoa2traVAyN0V4U2luRzVJOE8waFc1UGdwcWZTV1ZoUS1VY3lPREJpY3IyTll5Vkp1d1lfeUxQN0QzVQ?oc=5",
    "published": "2026-10-21T07:00:00Z",
    "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "364f496dbc647527",
+   "company": "Rapport Therapeutics",
+   "title": "0001193125-26-346995 » 4 » Rapport Therapeutics, Inc. - Rapport Therapeutics",
+   "summary": "0001193125-26-346995 » 4 » Rapport Therapeutics, Inc. Rapport Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczdVSF8wVmpra0UyWTdEdkZsQk9hMmRGenQ3SUw2TEhQZFhBczVOMktJa2liaF8yckdfRkhLdlh1b05UZmwycFJKOW9YdjhYWmZlMnU2QU9sR1JwU05vaHJkSnh6QWl4ZkhSbloyMVNVZ3NvaVVGSmFvM25SdlNXSzkya3E?oc=5",
+   "published": "2026-10-21T06:57:40Z",
+   "outlet": "Rapport Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -4349,6 +4481,17 @@
    "first_seen": null
   },
   {
+   "id": "ba2188bda22efc12",
+   "company": "Usona Institute",
+   "title": "Protomartyr on \"Hotel Usona\" Interview - Under the Radar Magazine",
+   "summary": "Protomartyr on \"Hotel Usona\" Interview Under the Radar Magazine",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVd2xpUjZnVVlSZzBfejVPeTlMVEk5RkdnLVgwQmlVdHU2NzNGa1pCeVNRX2VuSkwtRGNlNW1EeXJLZmpnMU9oSGhkRGcxTW9mSE9vRGRFMHZBbzNnUnk1RHJfbGhmVGVpZF92YkQwSXNwVXJIdm5wMUxfbw?oc=5",
+   "published": "2026-09-30T07:00:00Z",
+   "outlet": "Under the Radar Magazine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b7301a3802afac20",
    "company": "Sensorium Therapeutics",
    "title": "Two Investigational Paths in GAD: Company-Reported Results on DT120 ODT and SNTX-2643 - Psychiatrist.com",
@@ -4742,6 +4885,17 @@
    "published": "2026-09-21T07:00:00Z",
    "outlet": "Psychiatric Times",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "707aac56a5eeed21",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Present at TD Cowen Novel Mechanisms in Neuropsychiatry & Epilepsy Summit - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon to Present at TD Cowen Novel Mechanisms in Neuropsychiatry & Epilepsy Summit Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSEFlRW03b1Q3WlRmZXU3b2RjdEFxTkVqUnZSazNxMlhWU2pRSnRGczRQUXp5Smp4YnI0MW5KSC1DXzNlTDlNc19DV2FXMzRicVV4N0xZNjVUTGVIR1dicUtqUXVDcE5wNVYyMEllRVAzWnhWaGNsMGp1YnRqbnEtSWZaM09nby00MkNFNGw5OE9Ea0EtSDhjRnNMTXFGbmZadnVQTDNqNHVFaGp1TDh6NjFrX3MtTmU0Y2VBcVJYa1dUUTM4b2FIam5xaktmZw?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -5317,6 +5471,17 @@
    "first_seen": null
   },
   {
+   "id": "0d160009250caed7",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Announces Independent Committee Recommends Advance of SER-252 Parkinson’s Study to Cohort 2 | SER Stock News - Quiver Quantitative",
+   "summary": "Serina Therapeutics Announces Independent Committee Recommends Advance of SER-252 Parkinson’s Study to Cohort 2 | SER Stock News Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa0xHZzZkblBLYlYtVzdFejBVSzg1SUwtZi1sdDFPWGNsR0FDT2JVZy0wdl9uOGMwWWRQMkZTTXhyVGljSjNlZkFHdnZxTjhNb1NaYmpXY2lITHdTOUszb0Zsdnl0SnFscUNySW1CSjJVRTR2TG05ZkRwZTY1eTB6TXRZT3dsUGMxandwcDhxRmo4VzhOdVpqYS11T2MtQTRWZ2JOSTlDMTJieWVfYXdCNThyMUlVd2RoODhOUHdjUXNaRS13NFE2SzFxRlFoWDBfbVNiOVVqbGFWTF82ajNrMzJNZ3FHbVU?oc=5",
+   "published": "2026-09-09T07:00:00Z",
+   "outlet": "Quiver Quantitative",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7187bb10238938bc",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals Promotes Thomas Englese, MBA, to Chief Commercial Officer",
@@ -5708,17 +5873,6 @@
    "summary": "Jennifer Buell, Ph.D. Protagenic Therapeutics",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOemFxWjFHVUtFTVJ4cTctZEZFdWV5NWhTV3ZvSkpPeE9xc1lkSml0UDI1dlZXaE9NS2l3SzdpU19wbGtWOTlYSjluUndwc3hGRDdzSg?oc=5",
    "published": "2026-08-23T05:53:12Z",
-   "outlet": "Protagenic Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "d45c9127ff193dfe",
-   "company": "Protagenic Therapeutics",
-   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
-   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rbEJYVVpIYU9xX1VZa28wOTdDRUxIdkFrMTdCT1VDUS1OYnRNbmdvWTZlenY3Mk5XSXlQNVprTFNIWDNOc2pxSzZhUkExYklscVE?oc=5",
-   "published": "2026-08-23T05:44:04Z",
    "outlet": "Protagenic Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -6538,6 +6692,17 @@
    "first_seen": null
   },
   {
+   "id": "8fa99be7fd7c00ad",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update - Rapport Therapeutics",
+   "summary": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update Rapport Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1BQZkl2ZUY5TG5qcGNJTGJha2k1UnVNWUxTYmRKcmhwQkdIZjFsUzE5ekMzd0pPN2w0SmRwYkdJME5pYmR1OEhFN3ctdUN2TnN5aHRuUEduVGxBS2JhT2RkeGFrM1Uza2x6SHBRSTRfcXdxVXA4WGxhTkY4cDg0dXU1akk2bzF6UXZiLXEtTkhnc3RFYUF0Z2dzRDdjTGxpZG5OTGJaX3ptOXVfTTNsXzJxQVVMNFRlR3lFMTN2RkVjYWo0ZDdMX0FYTQ?oc=5",
+   "published": "2026-08-05T15:58:00Z",
+   "outlet": "Rapport Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "08baa1c3d8a5f303",
    "company": "Novartis",
    "title": "Sales Representative, Neuroscience- Central & South Area - Novartis",
@@ -6567,17 +6732,6 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xUFpYRTBzanFNRUM4S2lKSHVla1dGV1R2bDFhRmJVRkxhcG9VbHUyS3JyUVplUmh5UWJINXUyVmQ5OU90RFltQjctMGRMWnlVeGc4cHNfd05Zcnhra3kxX0FSTVBiZ0FfWmc?oc=5",
    "published": "2026-08-05T07:00:00Z",
    "outlet": "Vanda Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "8fa99be7fd7c00ad",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update - Rapport Therapeutics",
-   "summary": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update Rapport Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GSy1EYkVyVTRwSDMyQjBfdTB2eGV2VW9CZU95TmRjdUNpMjQ4LUstNnhlRjlvTzZ0b3c5a2lnQjRwc1ZlQ3pfcHBTUGpCYkN1RkJEeHZab28?oc=5",
-   "published": "2026-08-05T07:00:00Z",
-   "outlet": "Rapport Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -8298,6 +8452,17 @@
    "first_seen": null
   },
   {
+   "id": "a6c125bf4898f2f9",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Pharmaceuticals Annual Meeting of Shareholders - Xenon Pharmaceuticals",
+   "summary": "Xenon Pharmaceuticals Annual Meeting of Shareholders Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTm95UnNDeEdyYTF5UWtSdExBYmpQYXBfblZiRUR5NVp2ZFJGdG45MTdsTkZxcWkyWTVrb0ZieUllQ0pRRDVKbFk2dlJ0TW9OWnpxSUlobXhvcTQ1OUR4eDZfVmhjaHdRSGU5YmRyYllKNDFqcXBkQk1TYVY5MEpjam1TTEhWa2RfQWwwaEgxX2ZKZklzcDdXMzB5ZUV0b2hNRjNldUZIMDVfUQ?oc=5",
+   "published": "2026-06-02T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "99bc2d3caf3a7f45",
    "company": "Herantis Pharma",
    "title": "Meeting the challenge of Parkinson’s disease - Herantis Pharma",
@@ -8544,7 +8709,7 @@
    "company": "Denali Therapeutics",
    "title": "Biogen and Denali Therapeutics Provide Update on Phase 2b LUMA Study of BIIB122 (DNL151) in Early-Stage Parkinson’s Disease - Denali Therapeutics",
    "summary": "Biogen and Denali Therapeutics Provide Update on Phase 2b LUMA Study of BIIB122 (DNL151) in Early-Stage Parkinson’s Disease Denali Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsLWxvd3dZWV9KSllXRWlicXh5MHNoMVdta0MxZ0tOdkFMX0EtRW9kY1dBb2UwY3A0aU5PM2tvSVB2VGJLM2ZhdTkwQmo1RmF2RWVvM3V5SDh4YV9tVnlEX2JrUF9fQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmJjTnZfTU5PU1liT0pzRHFLTnpDakdvaU54SlI1RnZTeUEtUWxEZnpZV3ljXzlzWUpjNmg0c2diaGNIeDc4TEFZU3N6anhWdm1nbEF5RFA4ejVUV1Fkb1NXMmpHdXBObUVjWjhpcHM2ZjFJREN5cXdWTVFHZW1zU3FYemZjaTVNYXBGV282c01CaTNaLW80NDNsTVJaSVVHY3NLdi1oX2s4aHU3WUpUUjJzRG1CeTBlR2RXQVNjQXRGckg1UThtYlJBcEFfZUNC?oc=5",
    "published": "2026-05-21T07:00:00Z",
    "outlet": "Denali Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -8756,6 +8921,17 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uVmZXaUNvdW9QNTVzMzhfdVlxeGl4VVpaMTRsQ0JSa1p2WERIci1sTV81eE54NS1Oc1hZVG1OY2F2ZXZPQlBPYlNCM3BxZEplc1ZEY2FIRDV4aVgzVkZNeTQzQlF6N3BQYXU0Sk13TjhfemUtZDE4dEp5YnBQUQ?oc=5",
    "published": "2026-05-15T07:00:00Z",
    "outlet": "AC Immune SA",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "d45c9127ff193dfe",
+   "company": "Protagenic Therapeutics",
+   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
+   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxeDQtN0l6ZERYZ2RGbVBlZGY4TzJmS3VfS2RvVEFZOTc5ZF9ObFVRUGVpNnZmUExOYlBlTGxFcHpZUWFKTWxLY24wVmV0cDMtMld5a25LTQ?oc=5",
+   "published": "2026-05-15T01:07:39Z",
+   "outlet": "Protagenic Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -10010,17 +10186,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEpVSGliWFJwZ2ZRWGZxcTYtMWI3dURqRm9rNlVGYVlQNDBXVVpvNVJOTjBUV1FwdUxlMGZwWDczcEFEZ3hSNjBsczNjUDhLX2I4SGV0aHFDdGNxcklSME5qcmlJQ0REUkVnZWlvMV9vSUhTU3dEaEZzOG5xejVhVWdFNGgxSUE?oc=5",
    "published": "2026-04-15T07:00:00Z",
    "outlet": "neurocrine.gcs-web.com",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "6600a28430b239ae",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon to Present at Upcoming Investor Conferences - Xenon Pharmaceuticals Inc.",
-   "summary": "Xenon to Present at Upcoming Investor Conferences Xenon Pharmaceuticals Inc.",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeEdqRkJ1SG11UERXNjBkTTI3UmRLcVQxenA2Y2hLbEtpSDNpQ29IX2lSdmhhZEl5U1pFcGVKRWdzZDVhdm1aSDhFbDkxbE9qSkFuc2g0WGY5NThiMkZZYlZyRzlDMU9jTVJrel9YaEhaaDdNM0JxSWIwYm1ZTVE0RktwNnhBT0RXaEd0VHp3LXE2SG80bGV4NjBCUlFEVFZxWGQ4VURFVm5Cb2pwTmFQM2hlT3Y?oc=5",
-   "published": "2026-04-15T07:00:00Z",
-   "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -11440,6 +11605,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWZCeDNxNVRjUmNHWWtwckJRWVhuNjhyaXFMWXlFRWUxZF8xUTRwdHYyZlZRNlVBcEZtQlNONFk4MFpLOVF2WWxXaGpoaVhmeHlmSnd1bUstTk8tOXdtZ1FtSHRpMlZDdVBONGFSa2I0TjNHbWo1YzY3MEhfZ2RNRGFBUGtyTl9pZ2t1X0ZLcVE1b18wUHJCYUctRmZqQkxNNkxvc3VMbnlJbUFxU1ZtenU5R3Mzcm1xVDQ1d0JLdFI?oc=5",
    "published": "2026-03-09T07:00:00Z",
    "outlet": "Rapport Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "976f33e2334c5749",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Pharmaceuticals Announces Proposed Public Offering - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon Pharmaceuticals Announces Proposed Public Offering Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUHM4eWdIUFJPU0ZxLVIwVzFDNmVoMWsxRk5EdndDU1gxc3Y2THlOQ3dtOGdfSU80VUFMNDNaQVNnX3NzTGFGQjJnc3FiR3JIbXVnenhGSzE3LTJ6cHdPVkxEUHJha2M5cGRGODBQWWxvR0Y1eFc4VThDa2ZwdjhnOEhlbjZjMTJlMWFKaVVGTlZ2WV9BdnNRYVJfNHZsSUxkckxOOFphYXZmYWtGd29VSWdfdUJXRy1nUElOUzZJRmhJZHg2ZVE?oc=5",
+   "published": "2026-03-09T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13904,6 +14080,17 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnBkdmZzZXlyczd3eWtLZERSaDZ5ZVNvblFKb2hVbU5hazZqUG5jNEt4UHRnRURidWVHVWZuUzhjODhqZWF1ejhQT1ZiR1Q3OU5fb0Q5UlRmUjhkdnd5bGs1RUs5bWJ3aHFDUlQ5THFVeEV1OUtsVF9ISVpMSWpWX2R2bXM5cVBxU0V4ZVhHUVZPRmswX3ZvT1M5eDJQWjk0ZUtJekx5aE9pSTB2NjljLUJ4Z2EtNHN0NEVRaS1DY1lWVm82RjZyTXRiTQ?oc=5",
    "published": "2025-11-25T08:00:00Z",
    "outlet": "Rapport Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "2d54305f730a5e03",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Present New Azetukalner OLE Study Data in Epilepsy at AES 2025 - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon to Present New Azetukalner OLE Study Data in Epilepsy at AES 2025 Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUtYbnU2RzZZV0dhTTlaQjBtbEk1UU5Bd2d4QldxZ283VmF3WWpiRUpQbHk3TkFfVWt4VTlzNjJ4c3JCV2tWdzhlVk5nenJWQmtpMTNubE10eDBKUEF5S1laTjg3ekRDdURScEdhc2dnaUpMLW1BVURoRHJSbi1SclhuWV9wZWU3SWZRbmNmZXduWEl5QWM2TVFuSVdKRTBSNEI1b1J1bUlsVHNlWjMxN01fNFVMQXVLZ3RLRmpld1RWZnZ3QlR0SEtuOA?oc=5",
+   "published": "2025-11-25T08:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
