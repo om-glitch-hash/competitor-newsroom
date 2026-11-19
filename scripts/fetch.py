@@ -3,10 +3,11 @@
 
 Each company gets a news source chosen in this order:
   1. `rss` from companies.yaml, if set
-  2. An RSS/Atom feed found on the company's newsroom page or homepage
-  3. Common feed paths (/feed, /rss, Q4 and GCS investor-site feeds, ...)
-  4. Google News RSS limited to the company's own site (site:domain)
-  5. If no website is listed: a Google News search on the company name
+  2. The newsroom's own RSS/Atom feed (found on the page, or at a common feed path),
+     skipped if its newest item is over 120 days old
+  3. Google News RSS limited to the company's own site (site:domain + keywords)
+  4. A Google News search on `search` (or the company name), for small companies whose
+     sites Google News doesn't index, or companies with no website listed
 
 Feed choices are cached in data/feeds.json and re-checked weekly or when a feed breaks.
 Feed health per company goes to data/status.json (shown on the dashboard's Sources tab).
@@ -37,6 +38,7 @@ STATUS_FILE = DATA / "status.json"
 
 KEEP_DAYS = 365          # drop items older than this
 REDISCOVER_DAYS = 7      # re-check feed choice this often
+NEW_DAYS = 3             # items published longer ago than this are never flagged NEW
 TIMEOUT = 20
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/130.0 Safari/537.36 CI-newsroom-tracker")
@@ -95,8 +97,30 @@ def google_news_url(query: str) -> str:
             + "&hl=en-US&gl=US&ceid=US:en")
 
 
+STALE_DAYS = 120   # an RSS feed whose newest item is older than this is treated as dead
+
+
+def is_fresh(fp) -> bool:
+    times = [t for t in (entry_time(e) for e in fp.entries) if t]
+    return bool(times) and max(times) > now - timedelta(days=STALE_DAYS)
+
+
+def or_terms(words: list[str] | None, limit: int = 12) -> str:
+    if not words:
+        return ""
+    words = ["psychiatry" if w == "psychiatr" else w for w in words[:limit]]
+    return " (" + " OR ".join(f'"{w}"' for w in words) + ")"
+
+
+def name_query(company: dict) -> str:
+    if company.get("search"):
+        return company["search"]
+    base = re.split(r" \(| / ", company["name"])[0].strip()
+    return f'"{base}"' + or_terms(company.get("keywords"))
+
+
 def discover(company: dict) -> dict:
-    """Pick the best news source for a company."""
+    """Pick the best working news source for a company, in priority order."""
     site = company.get("site")
     if company.get("rss"):
         return {"feed": company["rss"], "method": "rss (configured)"}
@@ -119,7 +143,6 @@ def discover(company: dict) -> dict:
                 h = a["href"]
                 if re.search(r"(rss|/feed\b|\.xml$|atom)", h, re.I) and "sitemap" not in h.lower():
                     candidates.append(urljoin(r.url, h))
-        # newsroom-path variants first, then domain root
         site_path = site.rstrip("/")
         candidates += [site_path + p for p in ("/feed", "/rss", "/feed/")]
         candidates += [base + p for p in COMMON_PATHS]
@@ -129,22 +152,24 @@ def discover(company: dict) -> dict:
             if c in seen or c.startswith(("mailto:", "javascript:")):
                 continue
             seen.add(c)
-            # skip comment feeds and per-category tag feeds where possible
-            if re.search(r"comments/feed|/tag/|/author/", c):
+            if re.search(r"comments/feed|/tag/|/author/|/category/", c):
                 continue
-            if parse_feed(c):
+            fp = parse_feed(c)
+            if fp and is_fresh(fp):          # skip dead feeds (e.g. an old blog feed)
                 return {"feed": c, "method": "newsroom rss"}
 
         domain = parsed.netloc.removeprefix("www.")
-        # IR subdomains (ir., investors.) rarely have their own Google News coverage;
-        # search the parent domain instead so press releases on the main site count too.
         parts = domain.split(".")
         if len(parts) > 2 and parts[0] in {"ir", "investor", "investors", "news", "media"}:
             domain = ".".join(parts[1:])
-        return {"feed": google_news_url(f"site:{domain}"), "method": "newsroom via Google News (site:)"}
+        gn = google_news_url(f"site:{domain}" + or_terms(company.get("keywords")))
+        if parse_feed(gn):
+            return {"feed": gn, "method": "newsroom via Google News (site:)"}
+        # Small companies' own sites often aren't indexed by Google News: search the
+        # company name instead, which picks up their wire releases (GlobeNewswire etc.)
+        return {"feed": google_news_url(name_query(company)), "method": "news search (newsroom not indexed)"}
 
-    q = company.get("search") or f'"{company["name"]}"'
-    return {"feed": google_news_url(q), "method": "news search (no newsroom found)"}
+    return {"feed": google_news_url(name_query(company)), "method": "news search (no newsroom found)"}
 
 
 def clean(text: str, limit: int = 320) -> str:
@@ -171,21 +196,19 @@ def matches(keywords: list[str] | None, text: str) -> bool:
 def process(company: dict, cache: dict) -> tuple[list[dict], dict]:
     name = company["name"]
     cached = cache.get(name)
-    fresh = (cached and cached.get("site") == company.get("site")
-             and cached.get("rss") == company.get("rss")
+    sig = json.dumps([company.get(k) for k in ("site", "rss", "search", "keywords")])
+    fresh = (cached and cached.get("sig") == sig
              and datetime.fromisoformat(cached["checked"].replace("Z", "+00:00"))
              > now - timedelta(days=REDISCOVER_DAYS))
-    choice = cached if fresh else None
-    if not choice:
-        choice = discover(company)
+    reused = bool(fresh)
+    choice = dict(cached) if fresh else discover(company)
 
     fp = parse_feed(choice["feed"])
-    if fp is None and fresh:                 # cached feed broke: rediscover once
-        choice = discover(company)
+    if fp is None and reused:                # cached feed broke: rediscover once
+        choice, reused = discover(company), False
         fp = parse_feed(choice["feed"])
 
-    choice.update({"site": company.get("site"), "rss": company.get("rss"),
-                   "checked": choice.get("checked") if fresh and fp else iso(now)})
+    choice.update({"sig": sig, "checked": choice["checked"] if reused else iso(now)})
     cache[name] = choice
 
     status = {"company": name, "site": company.get("site"), "feed": choice["feed"],
@@ -202,7 +225,8 @@ def process(company: dict, cache: dict) -> tuple[list[dict], dict]:
         summary = clean(e.get("summary", "") or e.get("description", ""))
         if not title:
             continue
-        if not matches(company.get("keywords"), f"{title} {summary}"):
+        # Google News queries already include the keywords; only filter direct RSS feeds
+        if "rss" in choice["method"] and not matches(company.get("keywords"), f"{title} {summary}"):
             continue
         link = e.get("link", "")
         published = entry_time(e)
@@ -246,9 +270,12 @@ def main() -> int:
                 # keep first_seen; refresh link/summary in case they changed
                 existing[it["id"]].update({k: it[k] for k in ("link", "summary", "published") if it[k]})
             else:
-                it["first_seen"] = None if first_run else stamp   # backfill isn't "new"
+                # Only recent items count as "new"; a backfill from a newly added
+                # or newly fixed source shouldn't flood everyone's unread count.
+                recent = not it["published"] or it["published"] >= iso(now - timedelta(days=NEW_DAYS))
+                it["first_seen"] = stamp if (recent and not first_run) else None
                 existing[it["id"]] = it
-                new_count += 0 if first_run else 1
+                new_count += 1 if it["first_seen"] else 0
 
     cutoff = iso(now - timedelta(days=KEEP_DAYS))
     known = {c["name"] for c in companies}
