@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:31:37Z",
+ "updated": "2026-11-19T18:09:55Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1731,6 +1731,17 @@
    "first_seen": "2026-11-19T17:19:05Z"
   },
   {
+   "id": "b61dd6651cd77733",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com - Investing.com Canada",
+   "summary": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbnpYM2kxWkVYODBmU3h5Q3U5TTVBbTZ2OFBONXRiMHFJZVhIaWw0MHBaekhEUjJyOHdMSndFQVFOUUxCYlZ0SV85QWN5aUxja1ZwcG5oM0Nlbnh3MnNQVTR1cmJLelU2RGdGWE4xOFkzb1EtWlBqTDZ3dUVCQ1NhWklhTHQtbVV2bFpXeEFFcXJNVExYc0JhYUpLMG9XTjNPVFdacDMtWmpUM1NMRHpLX1VGdHlNcFFKY2FYYlN2S1VENVk5QWZaeFNVWE9NWDQ?oc=5",
+   "published": "2026-11-19T01:44:07Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T18:09:55Z"
+  },
+  {
    "id": "8ab2b4090111e315",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com - Investing.com UK",
@@ -1761,6 +1772,17 @@
    "published": "2026-11-19T00:50:08Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZzZV9wcG9yMkJkbTJidXVtdUkxV0lvZzZoNlZQUGduMkt4LVAzbmVvSm5kLWE5Z0lWajJiNmlCdm5FSzc5U2J4b0NMbURnTHNtWHdiVndINjdScnV3Y2JEcGVwUWpPYjFPYzd3dWNHWE1vc3JPMnNveGhvMjZVVlc1TU03eHp0cGxYaXNySG5MN2w1ZW1Gc2pFU2N2OVZkQkxXV3pZQ3l4UWVNRTBORHVzYw?oc=5",
+   "published": "2026-11-19T00:49:03Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
@@ -1927,17 +1949,6 @@
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
-  },
-  {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUNySXI4SVdpNHBFNGo2OEJ5TU5pcTZZM2VIVjY1aUFNcGV1NG5KYS05NkJkNVdzRzRlS1Z4QW9xQVVKX0RfcmdtNTlvcGRJYmlYM1FtZ2piRjFHbms3dVB4RDRpaW9MSUtUaGVEenJ1MVdsNVBCSW5RWHdMUlhYYUhXcGZBdmt2em95d0JJaHI5amJ6dkFmcTBkQlJiOVdGMGN4M1RNVkZHQ1ZzVksxRVBHWQ?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "0919cfc4c92dc050",
@@ -2208,8 +2219,8 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder - Helus Pharma",
    "summary": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder Helus Pharma",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBta0FxdHc0QXRzRFMzUEtjZ2xZTlRoNkRYNWN0MFpIb18xTld4SktzTUdLaHpvWTBYRzdXNEtUWklkOEhTUk1xd0dMWQ?oc=5",
-   "published": "2026-11-15T20:25:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0JhQkZrRFJWeWdWYjhUcjN3YVVIYTR5elVLdGxUMFh1Zkh6WVNyclJrQk95SzNVRUI2djJrRW1yS1dCRzZmbWpFWlJVM2x2bEVHR2RMS2czbU5zMHZxYlduY095MmNaYi04TFEtS1FSVHZRR0hTWFdCR2F6TGJwTTlaTVBrdElLYlpBV0tCa3JIUXpfUk8wSnVNbWZRR3hBam9oUVp6b1ZIZktqYnlaWm9FRldhcHo2eWUw?oc=5",
+   "published": "2026-11-15T20:02:29Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -12749,6 +12760,17 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcE9BWmRRZDFpWXpKVWczUS1sM0thLUtZZ3Bndk5qZEJzekN4a2s3NDhNTml4VjJ4VmRQcGxnQzFnX0RlanFRVmpIUlBPWVEyNW1LX1EycnpyM1JVUHhncnZ3d1BKLWRCWnFLa3hZNl96dGZ5ZzFjRTdrVDJBQlZ2djBGUDNaT3ZPQUxYbA?oc=5",
    "published": "2026-01-08T08:00:00Z",
    "outlet": "Investor's Business Daily",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "e9f41836dcd00585",
+   "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
+   "title": "Lilly announces acquisition of Ventyx Biosciences for around $1.2bn - PMLiVE",
+   "summary": "Lilly announces acquisition of Ventyx Biosciences for around $1.2bn PMLiVE",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOel9aOFlHNHh5RDZ3SE8tbGJicEo4M01BTEduSTZsT3RWVGpMeDltX2pISkNnQlRZQlpIT0c0RG8zQVNkaWNhTGN6Ty1seUNwcGtCbEpydUVKZGs2ZHhkQWIyckRrZkUxdi1NZUFWVWJiVjRNZW5JYktIeFRoSVJzbW05Ty1nTWo0My04b3BfaWNNSUhQYURtdHlLaGhFWUE?oc=5",
+   "published": "2026-01-08T08:00:00Z",
+   "outlet": "PMLiVE",
    "method": "news search (no newsroom found)",
    "first_seen": null
   },
