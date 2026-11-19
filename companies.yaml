@@ -36,6 +36,7 @@ companies:
 - name: Dizlin Pharmaceuticals
   site: https://www.dizlin.com/
   verify: true
+  search: '"Dizlin" OR "Infudopa"'
   lists:
     - {program: Polyamine, list: List A, priority: 1, assets: "DIZ101, DIZ102"}
 - name: Amneal
@@ -52,6 +53,7 @@ companies:
     - {program: Polyamine, list: List A, priority: 1, assets: "Hopledo"}
 - name: Serina Therapeutics
   site: https://serinatherapeutics.com/
+  search: '"Serina Therapeutics" OR "SER-252"'
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "SER-252"}
 - name: Stada
@@ -99,6 +101,7 @@ companies:
 - name: Britannia Pharmaceuticals
   site: https://www.britannia-pharm.com/
   verify: true
+  search: '"Britannia Pharmaceuticals" OR "APO-go"'
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "Intraduodenal"}
 
@@ -137,6 +140,7 @@ companies:
 - name: Pharma Two B
   site: https://www.pharma2b.com/
   verify: true
+  search: '"Pharma Two B" OR "P2B001"'
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "P2B001"}
 - name: Annovis Bio
@@ -170,6 +174,7 @@ companies:
     - {program: Polyamine, list: List B, priority: 2, assets: "ACI-7104"}
 - name: BioVie
   site: https://www.biovie.com/news
+  search: '"BioVie" OR "bezisterim"'
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Bezisterim"}
 - name: Vertero
@@ -190,6 +195,7 @@ companies:
 - name: Brenig Therapeutics
   site: https://www.brenigtx.com/
   verify: true
+  search: '"Brenig Therapeutics" OR "BT-267"'
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "BT-267"}
 - name: Abli Therapeutics
@@ -203,9 +209,9 @@ companies:
   verify: true
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "NRG5051"}
-- name: Ventyx Biosciences
-  site: https://ir.ventyxbio.com/news-releases
-  keywords: [VTX-3232, Parkinson, NLRP3, neuro]
+- name: Ventyx Biosciences (acquired by Lilly, Mar 2026)
+  site: null
+  search: '"VTX3232" OR "VTX-3232" OR "Ventyx"'
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "VTX-3232"}
 - name: Remepy
@@ -221,6 +227,7 @@ companies:
     - {program: Polyamine, list: List B, priority: 2, assets: "IRX4204"}
 - name: Alterity Therapeutics
   site: https://alteritytherapeutics.com/
+  search: '"Alterity Therapeutics" OR "ATH434"'
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "ATH434"}
 - name: Roche
@@ -274,13 +281,14 @@ companies:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy"}
 - name: Shanghai Xinzhi
   site: null
-  search: "Shanghai Xinzhi Parkinson cell therapy"
+  search: '"Xinzhi" Parkinson'
   verify: true
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy"}
 - name: Oryon Cell Therapies
   site: https://oryoncell.com/
   verify: true
+  search: '"Oryon Cell" OR "Oryon Cell Therapies"'
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy"}
 - name: AskBio (Bayer)
@@ -300,6 +308,7 @@ companies:
     - {program: Polyamine, list: List B, priority: 2, assets: "Injectables"}
 - name: Herantis Pharma
   site: https://herantis.com/
+  search: '"Herantis" OR "HER-096"'
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Injectables (HER-096)"}
 
@@ -320,9 +329,8 @@ companies:
     - {program: Yoda, list: PTSD, priority: 2, assets: "Rexulti (discontinued; CRL Sep 2025)"}
     - {program: Valine, list: Valine, priority: 1, assets: "Ulotaront, Rexulti"}
 - name: Helus Pharma (ex-Cybin)
-  site: https://ir.cybin.com/investors/news/
-  search: "Helus Pharma"
-  verify: true
+  site: https://ir.helus.com/news-releases
+  search: '"Helus Pharma"'
   lists:
     - {program: Yoda, list: GAD, priority: 1, assets: "CYB004 / HLP004"}
     - {program: Valine, list: Valine, priority: 2, assets: "SPL026, HLP003, HLP004"}
@@ -344,16 +352,19 @@ companies:
     - {program: Yoda, list: GAD, priority: 2, assets: "PSX-001"}
 - name: Engrail Therapeutics
   site: https://engrail.com/news/
+  search: '"Engrail Therapeutics" OR "ENX-102" OR "ENX-205"'
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "ENX-102"}
     - {program: Yoda, list: PTSD, priority: 2, assets: "ENX-205"}
 - name: GABA Therapeutics
   site: https://www.gabatx.com/
   verify: true
+  search: '"GABA Therapeutics" OR "GRX-917"'
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "GRX-917 (deuterated etifoxine)"}
-- name: Atai Beckley
-  site: https://ir.atai.com/news-releases
+- name: AtaiBeckley (Atai Beckley)
+  site: https://ir.ataibeckley.com/news-releases
+  search: '"AtaiBeckley" OR "Atai Beckley"'
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "EMP-01 (SAD)"}
     - {program: Valine, list: Valine, priority: 2, assets: "BPL-003 (with Lilly)"}
@@ -376,6 +387,7 @@ companies:
 - name: Sensorium Therapeutics
   site: https://www.sensoriumtx.com/
   verify: true
+  search: '"Sensorium Therapeutics" OR "SENS-01"'
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "SENS-01"}
 - name: Arcadia Medicine
@@ -387,6 +399,7 @@ companies:
 - name: Usona Institute
   site: https://www.usona.org/news/
   verify: true
+  search: '"Usona Institute" OR "Usona"'
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "Psilocybin"}
     - {program: Yoda, list: PTSD, priority: 2, assets: "Psilocybin"}
@@ -430,7 +443,7 @@ companies:
     - {program: Yoda, list: PTSD, priority: 2, assets: "Daridorexant (ACT-541468)"}
 - name: Honeybrains Biotech
   site: null
-  search: "Honeybrains Biotech HB-1"
+  search: '"Honeybrains" OR "HB-1 PTSD"'
   verify: true
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "HB-1 (telmisartan + verapamil)"}
@@ -443,6 +456,7 @@ companies:
 - name: Ananda Scientific
   site: https://anandascientific.com/
   verify: true
+  search: '"Ananda Scientific"'
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "Liquid Structure CBD"}
 - name: Corcept Therapeutics
@@ -452,7 +466,7 @@ companies:
     - {program: Yoda, list: PTSD, priority: 2, assets: "CORT-108297"}
 - name: Neurala Biosciences
   site: null
-  search: "Neurala Biosciences NBX-100"
+  search: '"Neurala Biosciences" OR "NBX-100"'
   verify: true
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "NBX-100"}
@@ -474,7 +488,7 @@ companies:
     - {program: Valine, list: Valine, priority: 1, assets: "KarXT (Cobenfy)"}
 - name: Eli Lilly
   site: https://investor.lilly.com/news-releases
-  keywords: [brenipatide, BPL-003, Atai, psychiatr, depression, schizophrenia, alcohol, Prevail, Parkinson]
+  keywords: [brenipatide, BPL-003, Atai, psychiatr, depression, schizophrenia, alcohol, Prevail, Parkinson, Ventyx, VTX3232]
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Brenipatide (GLP-1); BPL-003 (with Atai Beckley)"}
 - name: NRx Pharmaceuticals (Hope Therapeutics)
@@ -519,8 +533,7 @@ companies:
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "RAP-219"}
 - name: MapLight Therapeutics
-  site: https://www.maplightrx.com/news
-  verify: true
+  site: https://maplighttherapeutics.gcs-web.com/news-releases
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "ML-007C-MA (M1/M4 agonist)"}
 - name: LB Pharmaceuticals
@@ -529,7 +542,8 @@ companies:
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "LB-102"}
 - name: Newron Pharmaceuticals
-  site: https://www.newron.com/news-and-media/press-releases
+  site: https://www.newron.com/news-and-media/regulatory-news
+  search: '"Newron" OR "evenamide"'
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Evenamide"}
 - name: Teva
