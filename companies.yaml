@@ -15,8 +15,10 @@ companies:
 
 # ---------------- Polyamine: List A ----------------
 - name: Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)
-  site: https://www.mt-pharma.co.jp/e/news/
-  keywords: [ND0612, Onerji, NeuroDerm, Parkinson]
+  site: https://www.tanabe-pharma.com/en/news.html
+  # No RSS feed and Google News doesn't index the PDF releases, so read the news page directly
+  scrape: {item: "a[href*='/en/news/']", title: ".news_tx", date: ".date"}
+  keywords: [ND0612, Onerji, NeuroDerm, Parkinson, levodopa]
   lists:
     - {program: Polyamine, list: List A, priority: 1, assets: "ND0612 / Onerji"}
     - {program: Polyamine, list: List B, priority: 2, assets: "ND0612"}
