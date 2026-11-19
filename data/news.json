@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-19T17:16:02Z",
+ "updated": "2026-11-19T17:19:05Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
-   "site": "https://www.mt-pharma.co.jp/e/news/",
+   "site": "https://www.tanabe-pharma.com/en/news.html",
    "lists": [
     {
      "program": "Polyamine",
@@ -21,7 +21,8 @@
     "ND0612",
     "Onerji",
     "NeuroDerm",
-    "Parkinson"
+    "Parkinson",
+    "levodopa"
    ]
   },
   "NeuroDerm": {
@@ -1708,6 +1709,17 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
+   "id": "7796afb7eda8dc61",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "Tanabe Pharma Announces Wind-Down of Operations at Its Wholly Owned Subsidiary NeuroDerm Ltd. - 田辺ファーマ株式会社",
+   "summary": "Tanabe Pharma Announces Wind-Down of Operations at Its Wholly Owned Subsidiary NeuroDerm Ltd. 田辺ファーマ株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UOTVQYWlfdzhNU0FUS3dEc2x2WXc0bjJMRmJRZi1mR1RET0p4MDMyek1vYUt6U1BaaEJ0YjgzMnBvWnFlay03T0lBRF8zWjltbnR6S0tPRGdrYzZpa3BUOFNFcw?oc=5",
+   "published": "2026-11-19T05:53:22Z",
+   "outlet": "田辺ファーマ株式会社",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:19:05Z"
+  },
+  {
    "id": "8ab2b4090111e315",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com - Investing.com UK",
@@ -1738,17 +1750,6 @@
    "published": "2026-11-19T00:50:08Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZzZV9wcG9yMkJkbTJidXVtdUkxV0lvZzZoNlZQUGduMkt4LVAzbmVvSm5kLWE5Z0lWajJiNmlCdm5FSzc5U2J4b0NMbURnTHNtWHdiVndINjdScnV3Y2JEcGVwUWpPYjFPYzd3dWNHWE1vc3JPMnNveGhvMjZVVlc1TU03eHp0cGxYaXNySG5MN2w1ZW1Gc2pFU2N2OVZkQkxXV3pZQ3l4UWVNRTBORHVzYw?oc=5",
-   "published": "2026-11-19T00:49:03Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
@@ -1869,6 +1870,17 @@
    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPX29LTzliUjRrVTVfQWxaSnJnRzA5TjVtYXp6ak5UdTU3cVV2X3Z4RHR5ZDNMdkl3Ym56OGdjcHVRRTJZSDVtM2d4ZnBnZ3JUNHdCWmI0UUlRV0drVzJaRnRvazJycG9NcTZrUW8tUUNNeF9FdENsWTBHa0RONWJHQm9wb1BTbC1MZlp5UDZDQm5qa3NrejNQaTVCNWtMbW9zaERIWGxoMHI4VmtuMk1seWdpUGt0ZHdNaWNpYXc2cXNTRnZXa1FOdVJ4NjNpVEhDTG9OYlVxMjJWSnhWeHRqYmFhZ1dKNUh3Zk1sRjhfWlJEekVraDYycVVLU3ZxV1Q1MUZESTljUUlaZGxFUUItSVgzdHFIVDNrREJJQlJ3cFVRdUk2amI3NmVKTWtzZw?oc=5",
    "published": "2026-11-18T00:09:40Z",
    "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUNySXI4SVdpNHBFNGo2OEJ5TU5pcTZZM2VIVjY1aUFNcGV1NG5KYS05NkJkNVdzRzRlS1Z4QW9xQVVKX0RfcmdtNTlvcGRJYmlYM1FtZ2piRjFHbms3dVB4RDRpaW9MSUtUaGVEenJ1MVdsNVBCSW5RWHdMUlhYYUhXcGZBdmt2em95d0JJaHI5amJ6dkFmcTBkQlJiOVdGMGN4M1RNVkZHQ1ZzVksxRVBHWQ?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
@@ -8506,6 +8518,17 @@
    "first_seen": null
   },
   {
+   "id": "05a2557fde70834c",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "April 30, 2026 European Commission Grants Marketing Authorization for Onerji® for the Treatment of Parkinson’s Disease - 田辺ファーマ株式会社",
+   "summary": "April 30, 2026 European Commission Grants Marketing Authorization for Onerji® for the Treatment of Parkinson’s Disease 田辺ファーマ株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PTGFGc3h6OVlNXzE0dWg4dDBQUjAtZ1YtOXBoVnFzalV1d3UxcndNY1dOVHJ4ZFJKSl9VNHJ1akJnTnNiOEItaW1PaDRjRTZwdmIwQmNmQWNZYWQtSG5iai1BZw?oc=5",
+   "published": "2026-04-30T07:00:00Z",
+   "outlet": "田辺ファーマ株式会社",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "f378717e744418d7",
    "company": "Gain Therapeutics",
    "title": "Parkinson’s Disease KOL Event",
@@ -8590,6 +8613,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXBiRnRUbjZ2SENBbEFjSWVmcUtlYzh5Yml0QUE2c1pGRGJPVDNfRXBmR1ZSMmJPOGdDS00wZU5pY2ZWalBsNG9BbFppMC1neGFuTzAta3NhakxEcm5IVWphVWJGRzI0aUN1am1oQ2FQRVFJZGlnT3ZQNWNXTkJXaXh5QVNaRnZCekNxcEFVR3N2RDQxTUtHWXNhZEFGdzc1Zm5mUm81amNVb185UkhYSzdyek10ZlVM?oc=5",
    "published": "2026-04-28T07:00:00Z",
    "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "7787dedefac98c5d",
+   "company": "Novartis",
+   "title": "Novartis Investor presentation - Q1 2026 - Novartis",
+   "summary": "Novartis Investor presentation - Q1 2026 Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUFTc2YtR0xIRnlhSWYxcFo2VFVfaWJhR1Yxc0EyeUstMFoybE9KREN2R2htTWRMZXpXT1l2WGFWRWhiWFVqUjA4blIyelY0NllkU19tNUxkVVdjejIyMmdZVUcyOS1NMFdscjdHdFFWdzRGa3VMRDFSRmFRc1N0aENfQ3p5cS1rZnhj?oc=5",
+   "published": "2026-04-28T07:00:00Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -9295,6 +9329,17 @@
    "published": "2026-04-02T07:00:00Z",
    "outlet": "Biogen",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "39b3346c30216ca6",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Announces NYSE American Acceptance of Continued Listing Compliance Plan - Yahoo Finance",
+   "summary": "Serina Therapeutics Announces NYSE American Acceptance of Continued Listing Compliance Plan Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWJVaFp4N3RWWFJTSEtSYmdONkVsZk11U0lsOEM4LXViZmhHTjN4QmlJdGhWMXBJNmFFdDJyblpERXpTX1FtTU8wUUhkVXByay1IaUZ0WGpMaHlKS3BHX29qQ2pnSXdiaHJiV1VXLVNMUnhmTjdxLU9iTUdQeU1uMzNjVFd3NWswS192eXNoSmpZUXp4bnNfWWdrWlphNzRLUEVIeWFpbGhzWjhsV0lacHZn?oc=5",
+   "published": "2026-04-02T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -12411,6 +12456,28 @@
    "first_seen": null
   },
   {
+   "id": "c0c1d35cf82d8e98",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "Mitsubishi Tanabe Pharma Group Methodology Transfers of Value to Members of the Public in the United Kingdom Introduction Under - Tanabe Pharma Europe",
+   "summary": "Mitsubishi Tanabe Pharma Group Methodology Transfers of Value to Members of the Public in the United Kingdom Introduction Under Tanabe Pharma Europe",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkR2SkdvTVhkb2VPQUR4Ulh4Szg5d0pabGFZQV9qNUZtMVU4QlhBdzJWT1dLdU5MMm14YmxiMmxwcy1LcDJDYzM1X1Jld19WOUIydDFZcHFtdEF4YnRyczNpNGFfQ1AyV20xR0ZMUWFUZkhvOVV6U2NublRDdWcycGxlSzM0ZXY1NHJfRFNUWF91Ri1Ed0VsVmJYQ19NNFhLUVVCZmVFUnFNUE5kUFJGMWVzU3FCU0JJX0E?oc=5",
+   "published": "2025-12-02T14:32:54Z",
+   "outlet": "Tanabe Pharma Europe",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c9a727d71faa103a",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "Press Releases - Tanabe Pharma America",
+   "summary": "Press Releases Tanabe Pharma America",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SclFNYk5Fa1ktZDBkLTk2NlBaanFpeWRBbXFNb0dQdzlsYUwxQjdzRTVNbm5YTll6ZWhXRk5LS0V5cWNoQ0pNbURlWm5SUldYcWJ0Wmk0R1l5Q2g0MnI1dTZkN0RvQ18tYkE?oc=5",
+   "published": "2025-12-02T09:32:19Z",
+   "outlet": "Tanabe Pharma America",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "ade08ac14b739cdb",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals Announces US Food and Drug Administration (FDA) Receipt of ANDA for KETAFREE™, a Preservative-Free IV Ketamine | Tue, 12/02/2025 - 08:30 - NRx Pharmaceuticals",
@@ -12418,6 +12485,105 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM3dqcWlfQWFPd01VYnVnM0w2U3N1MVdQNFJkMW1mLWtEQ0pHQnd5YzJ0YkFpNG8zbDZnQkNNOEVyVEloMzRmVFFTbEV6LUtoVGZLLWd2dW5YVW5kSzE0c0FrdThORURIdy1Bd2hQTUxaSUhEekNKYUN4eV8ydmlGNEhETkpjbHJyZF9xUGRLZnhYY1E2Q01yOVhaTEJwdVcxa1V0bnhnUkk1UlRxQXcxZVRYVUtkN1V3SGhaTDBB?oc=5",
    "published": "2025-12-02T08:00:00Z",
    "outlet": "NRx Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "fa6a68c9acfdb858",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "Science, Research and our Pipeline - Tanabe Pharma America",
+   "summary": "Science, Research and our Pipeline Tanabe Pharma America",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fa0NmZFdPLTZrckNBMjU0N1M3MW0wZnp4bkd2ZHF4d2trZFNMZFFRbXdhYThVQ2hZWEF1RGctTXJ1QTZxYjE1bmc4eWE?oc=5",
+   "published": "2025-12-02T01:51:54Z",
+   "outlet": "Tanabe Pharma America",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "dc0c3917a9ee9dc8",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "News and Media - Tanabe Pharma America",
+   "summary": "News and Media Tanabe Pharma America",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZdXNtUTNPLS03OTZaZ19Qd2ZvN2xYMDMyMFhxOVhTeFpxNV9CYm04c3lVOHNQb2ZNR1BFdDFnZFhPcWlDZlFKaVdkZC04U01KbE5ZWk93?oc=5",
+   "published": "2025-12-02T01:51:52Z",
+   "outlet": "Tanabe Pharma America",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b614f539094b66fa",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "Scientific Research and Publications - 田辺ファーマ株式会社",
+   "summary": "Scientific Research and Publications 田辺ファーマ株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fcjlQNDRlX3ZQVURrSXdCSEoyMmlILTlvYkRSS0QyampjWGkydWhMUEJfSnhiM3Jlb0pMdV9KZ2YtWUg4T1pYbFp2WUliWUlVdm9wS0ZTcHdCSjJYWlhZQzVCQTQzWkE?oc=5",
+   "published": "2025-12-01T20:18:12Z",
+   "outlet": "田辺ファーマ株式会社",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c30962107e3294b7",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "ALS & Parkinson's Community Support - Tanabe Pharma America",
+   "summary": "ALS & Parkinson's Community Support Tanabe Pharma America",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vUHdjb2Z3YzR6Y3VTdk9tUFhBZGVfQ3VmRnlkUjE1M0F1VDJXb0xMa213TGZIUHdtMFB4WWxVaC1uc0tseTR0NHdScXFMUjJGRzgwMng5dUxsWWNj?oc=5",
+   "published": "2025-12-01T17:51:18Z",
+   "outlet": "Tanabe Pharma America",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c8298e85b42d7a7c",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "Group Companies | About Us | Tanabe Pharma Corporation - 田辺ファーマ株式会社",
+   "summary": "Group Companies | About Us | Tanabe Pharma Corporation 田辺ファーマ株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiaWNvWHdZbTlITmpiODFGYzFlZm1EV1E2cktkOFdoRUMyOWNHZDNjQUoyUlY3RjBrRmZPYnhIUGE3ejdzOHotbFNJSTR2RjEzVVQwOXR1TnltWlBMbDA5dw?oc=5",
+   "published": "2025-12-01T06:47:33Z",
+   "outlet": "田辺ファーマ株式会社",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "acb21f9ffbabc06e",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "Pipeline | R&D | Tanabe Pharma Corporation - 田辺ファーマ株式会社",
+   "summary": "Pipeline | R&D | Tanabe Pharma Corporation 田辺ファーマ株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mM1RmaW1Lam9hQ1pjdnJ0VkRwclQ4RWVuanVxR3gxb0c2YlRMQW5EODVKQ2RmX1g3VmhBTHp5LVltWGthUkV6Q1hBaURmNVFpNzd5V0dKbjc4SjMzYVNpZzZRWHc?oc=5",
+   "published": "2025-12-01T05:43:14Z",
+   "outlet": "田辺ファーマ株式会社",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "40e41718c3a1913e",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "News | Tanabe Pharma Corporation - 田辺ファーマ株式会社",
+   "summary": "News | Tanabe Pharma Corporation 田辺ファーマ株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PVXhZYm9YM3I0eHN4elp5T0pUQ2Q0MjRPbWtFVnF6N0tYOF9hWEc4c3hNV1lJMGlZdmV6X0h0Rlk4U3RfaHM1Q3QxX3IzREREUFozOA?oc=5",
+   "published": "2025-12-01T04:53:17Z",
+   "outlet": "田辺ファーマ株式会社",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "059cd14e84b1d2ef",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "R&D News | R&D | Tanabe Pharma Corporation - 田辺ファーマ株式会社",
+   "summary": "R&D News | R&D | Tanabe Pharma Corporation 田辺ファーマ株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PWUxGM0RnNy1KNVNVQlJpSHM3ZnBtVDZrLWJ4a21fSS1tLUlLM2dOcnUxTmtubVBib0ppVGdWS2NSZVUxakdONk1aTFVQWlE5MTNoazJNYlFtWXFuODJR?oc=5",
+   "published": "2025-12-01T04:31:25Z",
+   "outlet": "田辺ファーマ株式会社",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "ad48d188e6b793fc",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "Tanabe Pharma Corporation - 田辺ファーマ株式会社",
+   "summary": "Tanabe Pharma Corporation 田辺ファーマ株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wSTQ0ZkM1QVJSZHhXRERpOEtGNGt1RU9WNkYxb3BybDdsNlJ1RU8tb2hHT29TQndWUTRmT3VRRlZGWXZob1o3RTJJcnVtMDRSTHAzbkVR?oc=5",
+   "published": "2025-12-01T04:15:48Z",
+   "outlet": "田辺ファーマ株式会社",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -12440,6 +12606,17 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fZVZMXzN1ZE5wb0hlWmtYSU1rTmVZQ3ZnSnBKTFlVeFRMVmRmRGhnLUtDcEtkendxLXZIMVlOQ2RUTWRsOEJzT3RLMzRYN3hqeGdtcWlGbVBSbVRicjRTVnYyZ2hUTkMxd3g0?oc=5",
    "published": "2025-11-28T21:01:56Z",
    "outlet": "Remepy",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c3a6979a8dc16d3c",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "Aktuelles - Pressemitteilungen 2016 - 田辺ファーマ株式会社",
+   "summary": "Aktuelles - Pressemitteilungen 2016 田辺ファーマ株式会社",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41Ykw2TlctT2xxOVRYS3VCWDBtTHU2T2s5S0hDY2Vuck05Nk9BM1hZaUxqZjZJVk5qa3B1MGkyZHo5MUVRMEN4d2RkSzJxWTZaZWtraGctS1QxTmJDWHNLdHJCZnJmTXBxVndPNF9mSQ?oc=5",
+   "published": "2025-11-28T16:57:29Z",
+   "outlet": "田辺ファーマ株式会社",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
