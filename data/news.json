@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:19:58Z",
+ "updated": "2026-11-19T17:31:37Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1830,6 +1830,17 @@
    "first_seen": null
   },
   {
+   "id": "4d66c7c588b7d9c2",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics, Inc. SEC Filing (Nov 18, 2026) - Stock Titan",
+   "summary": "MapLight Therapeutics, Inc. SEC Filing (Nov 18, 2026) Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWQyaVJ1VFMxT25uTGNwdERFSndkMmx6b1paT0I5NTUxZGVNZ2diZUJBaWFsQXFpZmQ0N2Y5MW9uWkxmbk5oRTVSMjNYSFJBTmJDM3FtLUtLbFRNanlwRnNEdDYzd05wRVY1Sno4MTdJaTBiLTQ3cFN4MS13ZS1NOS1WemExVWZZZkpUMm1mMlFQS0ZLZXBfOXl6NWZHbUNOdHRIcEhINXNHUQ?oc=5",
+   "published": "2026-11-18T11:03:14Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
    "id": "253ab459c5560286",
    "company": "Novartis",
    "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
@@ -1885,6 +1896,39 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
+   "id": "e6af4f8c7377179e",
+   "company": "Teva",
+   "title": "FDA clears Teva's Igalmi for at-home use, first approval for self-administered agitation treatment - AllSci",
+   "summary": "FDA clears Teva's Igalmi for at-home use, first approval for self-administered agitation treatment AllSci",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFN2S2ZLVDQ3b0ZRRlhkYzc2djh0MlBranhMeTc1RnNIT3Vqa28zaXN2NGM4VTY4WDVpbUotZlg2NTVqNFNjcTJERVlaWUNHVk9kQmNQOXJuUmpIVlNkYnFPRjhrNU11dkRnaGZCN0xRcHJaZGpycVBmbHNVWjdmenJ1T1l6OWs?oc=5",
+   "published": "2026-11-17T19:20:17Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
+   "id": "b2974cb11f3cfff1",
+   "company": "Teva",
+   "title": "Teva scores FDA OK for at-home agitation drug weeks after bankruptcy-sale buy - FirstWord Pharma",
+   "summary": "Teva scores FDA OK for at-home agitation drug weeks after bankruptcy-sale buy FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aUEV3NWNhMlQyRXpjWHprNFpiQW15OEpieXA2dDhZUVJhUVZickdmbHJPU005TThPOU0tQnVUQ0FCNU52Rmx3Mk8yN3AyTjBsaUdn?oc=5",
+   "published": "2026-11-17T10:45:55Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
+   "id": "e7461345cbca21a2",
+   "company": "Teva",
+   "title": "Teva Pharmaceutical Industries (TEVA) Could Be 13% Undervalued Following FDA Approval For IGALMI - Simply Wall St",
+   "summary": "Teva Pharmaceutical Industries (TEVA) Could Be 13% Undervalued Following FDA Approval For IGALMI Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSEo3Q3VGZEU4Mjc0MW1weFhxRVdrYXVxQVN3RzdoUjNvdmdPODVLU2doY0NMLU1sY1J5TGFacUdNM2lYQ3BOSGU5THFKWjlsSWNDbEdaVGQwVzdRcHNNTmtKMmFyWGlMVFZGWk1JZjhmTjZHYTkzeXNUNE02Y3p2Wnc5NnVMbkxkOVZ1VUtWMTBrMEc1ZmJGclhuMW4zVXF3MkN0WWxEQjNCX3p0ZnhGU1M0Q0F0dmtCaUduWWJLZGZTMXR6RVNGYXRLWWxvbWh1OU1aTF9WTUROeDNiMG9OOGJSMEtIa2JzbUo2bmhYSWxjUmfSAfgBQVVfeXFMT3Z0SjF5UEFFZDY1YkZyQnhiQl9fRU9xOHFVSmo1a1pvaDBFQWRmbl9GX0JtXzZVOFhKMFZhRFIxM2xZOXl4azZCS0Z4amRmLUNlQlBzSlpoSmlEX1ZUelNhQ1ZITUdEeW9DdHV6dERRcFZHdnNhMzRpX2szLW5PcmFkQ18zc0o0YURtRVZJcERYMTdNRFp6a2tKS0FiMVB2SjQzcWxUTXBlLWNqWi1QRmZyN2FmZDNyMnBONkVVdDN0MEFVUWt6OWZGVEhQMllIUFZFTDJVbXBLcmx4NlJXNTlZVGdWNEQ2RzdYVVZtZzRVZ2RaU19MVkM?oc=5",
+   "published": "2026-11-17T10:12:16Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
    "id": "6e858dea1b2a6086",
    "company": "Novartis",
    "title": "Brand Manager – Oncology & Neuroscience - Novartis",
@@ -1929,6 +1973,39 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
+   "id": "fe2e65a4f2f93ae4",
+   "company": "Teva",
+   "title": "Teva Pharmaceutical (TEVA) Gains FDA Nod for Igalmi Sublingual F - GuruFocus",
+   "summary": "Teva Pharmaceutical (TEVA) Gains FDA Nod for Igalmi Sublingual F GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSmh4X0FORFJmMmtCRVg0ejhQZTBXQUFPU215QnlaUU9EQnFfTHRZaDdMRWRadFUwOHRUNVdIQWZ4NndheWlOMV9HMW5kcWl0ajRZaGJRbmJyT3AyNUpITGY1WXNKX3AtektDMUxEWTdySHlpeFVMc2oyN1dxdUxIQkxPdTVZZVJZSWRnem1Ec0FFOWJLSEtLVUk4dDlQaWYxa1cxY24zWk0wSy1ZYnhiVFZENFRtVUlfQms5dExBUGNfcE9kTDdtUnRCTlowQ1VM?oc=5",
+   "published": "2026-11-16T18:13:32Z",
+   "outlet": "GuruFocus",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
+   "id": "565ab57675177769",
+   "company": "Teva",
+   "title": "FDA Clears Teva's Newly Acquired At-Home Agitation Treatment in Schizophrenia and Bipolar Disorder - Benzinga",
+   "summary": "FDA Clears Teva's Newly Acquired At-Home Agitation Treatment in Schizophrenia and Bipolar Disorder Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1lQRDlHTzIybEZQa25VVThNMnpWTUJFS09LSW02a3lGeFdBSGlyb040TFJTVk5qVjEtQkpGdmdFMDZNV3k1eEJVcG9Jb0c0T3BTNWJla05wN0F5REMteHlQeUd1aXNoMnp1YjkwOEpLWHMxcEREdHVycTlOcE5rTjZONnhPVk4wWmpNdy1qckhfVXp4NXVDczU0bGdIMHJFSjllcThvYUZJbk8yODRXczNJSko5RG9sZXNpdkFILVdJZ0ZIajl1Tkk5cDJROWhFb1pXSnVXTXdnSldTRkgw?oc=5",
+   "published": "2026-11-16T18:11:19Z",
+   "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
+   "id": "f78b8c4400890b45",
+   "company": "Teva",
+   "title": "US FDA approves Teva’s Igalmi for at-home use - The Pharma Letter",
+   "summary": "US FDA approves Teva’s Igalmi for at-home use The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNczFRR0dXMEJFNVh3a3BXRmhwa0otWFpfaE1Ga1VDazRoam8zeG9RbHA5LUxTN2puODY0RDUzZkRwSl9WTGhlbzc4aktlNGh3NHJpaV9IZVpKbi0xSzZTYUswUUNzQXByVTMtSU5LZTRhWUhyZjNRNklHNUl0LXdXeExmU1ZVWWFHMjh3Qk1DRHdJUQ?oc=5",
+   "published": "2026-11-16T17:45:07Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
    "id": "e5908de0d510cb1c",
    "company": "Newronika",
    "title": "Adaptive DBS for Parkinson's | Clinical Evidence - Newronika",
@@ -1937,6 +2014,28 @@
    "published": "2026-11-16T16:41:58Z",
    "outlet": "Newronika",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "6be0a2b7e42d1642",
+   "company": "Teva",
+   "title": "FDA approves Igalmi for at-home use for agitation in schizophrenia and bipolar disorder - Managed Healthcare Executive",
+   "summary": "FDA approves Igalmi for at-home use for agitation in schizophrenia and bipolar disorder Managed Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDF6ZWdCc2J2clJlTmVOUjhzMzVXQXBCc0N2MGdaSzZlY2MwQzdmRmxVVHdEN0l0TGk4WUNUWk92VXZHSFNzVElyeWV5QW9DVHc3RUlMQV8zdHVfeXpNVEdMcGZFeGtlelp2X3JEak96cnMyQ1U0eHk5dmExVTJPX0hwcTZ4cGYtUmpBWGQ1Ymhhai1SZWxDbmdlQkV4MVNqUGFrZXJiVVdIUDBTWlpoOXpCN3YzdzZUenlFTDlpOWpjY3hIMVE?oc=5",
+   "published": "2026-11-16T16:35:24Z",
+   "outlet": "Managed Healthcare Executive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e09a7a5f515b6a89",
+   "company": "Teva",
+   "title": "FDA clears Teva's IGALMI as first at-home agitation treatment in schizophrenia and bipolar disorder - Dealroom",
+   "summary": "FDA clears Teva's IGALMI as first at-home agitation treatment in schizophrenia and bipolar disorder Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSktaZjIyWVFOQ1NVQV9GeTc0UUJnX19QRTFxNmR5S05ka08yR2g0eGo0QkVaYy1ERG9iRFlvckk4SVY5YlJGVGJ1cTRwdmtGZFd1b25iYTh6ZloxbkNxNHhIYVJOZEFkT2ZpQl9rWEdlOFhUYWFSQWRqQ3hRSDRLZE5OV2hlWjNyaWcwLXp0UTMxWmdVUTl1N3JQYmNaeEpMNXNRR1RIeWRVZVk4SW1DVWFLMzA2THkwNVROZEp0dUdXR1JiLUtka0R2NW5qZw?oc=5",
+   "published": "2026-11-16T16:11:30Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -1951,6 +2050,83 @@
    "first_seen": null
   },
   {
+   "id": "4bd708763d6bd03d",
+   "company": "Teva",
+   "title": "US FDA approves at-home use of BioXcel's agitation drug - Reuters",
+   "summary": "US FDA approves at-home use of BioXcel's agitation drug Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVd4OEJUd09KSXFnWjdqRDhmZjlWdVdOMlJmNC1paThFS1JqNThuUEFpVl9xYlNYbmRNTDZCaWVtLWhnWnYzZm02WXViMmJXaFBmYmRZblBFdjlnRHBJWm5GZzBJRnMwOVphclM5MlJiT25ySHdWZllsRTdENnA2VWVvQkN2NmhEOTB6bGljc0w3LWdVSEd3X1o3eml2Zi1nTVktdGVtMA?oc=5",
+   "published": "2026-11-16T14:55:24Z",
+   "outlet": "Reuters",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9302704ef30ff752",
+   "company": "MapLight Therapeutics",
+   "title": "Form 8K MapLight Therapeutics Inc For: 16 November By Investing.com - Investing.com India",
+   "summary": "Form 8K MapLight Therapeutics Inc For: 16 November By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTF3MUg3Z01nRXo4SzhxUF9yeTVJM3B5cWlqQkdoSEFid1VzZWVyTDdieDZXNjZMVU9GYjdyeUlXVHl5a213clNEWWlFUHBvR010dEVacjdKWjJnYkMydGtTb0M3eFdqd01MaFNNdEk5RTBNQVhlRkwzZDQ5TkpDSGV5T2RUZmRtUGhLUFZBc3hLT3J2NmxkTEo1VEZsTTRFZUVERmtabUJqb1A0bGU0?oc=5",
+   "published": "2026-11-16T14:53:06Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "32b01a8e1d8f926b",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics announces $100 million at-the-market equity program - Investing.com",
+   "summary": "MapLight Therapeutics announces $100 million at-the-market equity program Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHNfNnNzalplQTg1Ymx5Vzg2S1AtUDRYN1lmVVNNRzJYUVlXSktlTmlzWnlHWjRaUEk5X2R2R3VzaVdnN1RyT1ZtVGl1ZHJkUFByd2I3ZUVld0ZLbnJKcG91c1VseWh1blFncmNYdDhWdkhUWE55Rm90WUtvcFRqX2huZFcxWWxpclFtUUx2dUpfSUgwaS1MVzVINGwxM292UWxfNVZZNHZybEFKcFduQkY4YUNleG9oa1p5ZkJjc19HaGFq?oc=5",
+   "published": "2026-11-16T14:42:46Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f9428ef95f814387",
+   "company": "Teva",
+   "title": "FDA Approves Igalmi for Agitation Associated With Schizophrenia, Schizoaffective Disorder, or Bipolar I or II Disorder - Psychiatric Times",
+   "summary": "FDA Approves Igalmi for Agitation Associated With Schizophrenia, Schizoaffective Disorder, or Bipolar I or II Disorder Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeVBXWWJRejBTUXVtWUgzcFBJUzF2b19zVHVkaEFudlZ5Zk5WYV9oMV8tLVE2eFhiR0RjYUFKbzhBYVVRcC05UkxpMHIxMnRwcm9sT1A5Y2hzanlRTGQ0OU95WjhqTC1WTGNuYTJXdUs0SHp6bVE4aXY1MzBJVmxGRGUxSUlIMUZRZ0lIZ1pUZFVTc1pfQ1R3X1RJblB3eUVSWENMR1NlVENLM2cyRjlrbXB6X0dBenJFQ0pLSVM5MmdxVDBfZld3dmVFUlpkSnI5Snk4WlBXc0VPMElMdVh2Nmx3ZWVPVV92SFE?oc=5",
+   "published": "2026-11-16T14:29:03Z",
+   "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4750493105db1ac8",
+   "company": "MapLight Therapeutics",
+   "title": "Maplight Therapeutics - May Offer Up To $400 Million Of Securities - TradingView",
+   "summary": "Maplight Therapeutics - May Offer Up To $400 Million Of Securities TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZEU0QzRzcldPMTZObGxva29xaVRhdnZsUUxrWVN1TGdURmNid0tqaDlmTDdlcUJtcjVSek1tTTRQQ0xqZUFWa3RLeVprMnVjdmRZdGgyYnZQNERhSnB3MS1ya0Z2ZlRabjVlVk14S3M5cEN5UzlXU2xkb2JXNVhPcVBBVHlZaTlUb0l3VW1RaFE0NHE3bzFuZ2NwdHBTMktES053WUVTcG9uc2p5RWJYNndCeHNhWVUtVmxEVEtzUFZrUUViQk9OUEVnMVpIQQ?oc=5",
+   "published": "2026-11-16T14:18:23Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "059ab91d35acf393",
+   "company": "MapLight Therapeutics",
+   "title": "A $100M stock sales agreement is part of a broader offering proposed by MapLight Therapeutics (MPLT). - Stock Titan",
+   "summary": "A $100M stock sales agreement is part of a broader offering proposed by MapLight Therapeutics (MPLT). Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1doVVV1M1c3amkzS19oSzNQSHV4aV9DZ2hXOGJyVnBMNE1TMnZoUWNpbF9ZekRLbHJmZlc3UU00dU8tX1Nxb0tsdzRlZFRWUnpDbm9tMWFLYi1xVWV5djJPbzhMVTFsb3NzdGNhcGotYkpxZkpVZU5rSzlpalJpa0Q5ME1mVlRqWWxOTHVhbFFoUldEVDBDTU9raVoySnlqZk1oWC1nNTNyaVFFdGdHUVVLc1M1bGFGOUQyQm5B?oc=5",
+   "published": "2026-11-16T13:53:18Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "649e36ccffeb9ad7",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics (MPLT) adds no securities in resale update covering up to 13.2M shares. - Stock Titan",
+   "summary": "MapLight Therapeutics (MPLT) adds no securities in resale update covering up to 13.2M shares. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWUJyY00zb0Q0ZXIxZ01kalMxTUY4ZzcxV3RCWERtRnU2cFpRc3hLLWlydzE0a3JRdEUzMGN6azBfakdRWHRjT0VxWkNGN1lTMmVySFVKYmZoay1OaEd2RS14TTlNcnNxWDRVVndRTjJFZWlxR2lYMWRlZnJaOHdqcnZ6ZllHUEwyeUI4RWNaN2lFZ19saGg0VmlzVkJYa0xRYllPZ3JaaTl0Zw?oc=5",
+   "published": "2026-11-16T13:49:22Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "0771d5611d333dae",
    "company": "Teva",
    "title": "U.S. FDA Approves IGALMI® as First At-Home Acute Treatment for Agitation Associated with Schizophrenia, S - Teva Pharmaceuticals",
@@ -1959,6 +2135,17 @@
    "published": "2026-11-16T13:08:28Z",
    "outlet": "Teva Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1155d2f34254a95f",
+   "company": "Teva",
+   "title": "U.S. FDA Approves IGALMI® as First At-Home Acute Treatment - GlobeNewswire",
+   "summary": "U.S. FDA Approves IGALMI® as First At-Home Acute Treatment GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPM3R5bi1TaFgxZEtTQ25Jc1JKb2wzaGltMm5yRWpMaVZLUGp0OTI5NmIzdEVOMHNiTHlCMzBzbHdZSEpOMlUwT2poRzhzeDFXTFc4U2gyT1ptemVLajloa2JmNVdCS0kwSm1zZmRDc29LcndLbEV1ZjlCUDBwV3h3RTlRZkc4RWJNZGgzcDZJYXYwT3IxRGx3ZHR5aURwOC1SOVNIVjdzdEpDdzJOS0wxdGdaNkVxS2pyMGMtclVDbERoQ0lnZEtKRk5aakVPUXpoYnpTTUw3b3FPbHMzRVpyczBNQWwtTVpoUXVsZ2U0dTVyMVBzN2hwWDNHU05ham45UHNMYm5PYXhUQ3RxZS1pdVlJM29KLTM5bEtWRm5YNVoxVldLUzN1NEI1VkFLZFdZeHZvYmE3NnB5UjdtU1Jxd0tDX280dkQxaDVtaEhWd2JxbFRIS0E?oc=5",
+   "published": "2026-11-16T13:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -2006,14 +2193,36 @@
    "first_seen": null
   },
   {
+   "id": "b40fcbd330d630eb",
+   "company": "MapLight Therapeutics",
+   "title": "Alzheimer’s field looks beyond amyloid as biopharma converges at CTAD 2026 - BioSpace",
+   "summary": "Alzheimer’s field looks beyond amyloid as biopharma converges at CTAD 2026 BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYjVXRlBCVUlQNnBSRU9hVzA5bGl3NW5VdVZ5VVhwVzM4ajVhVEpFVWx1VVRrN3ZnWUFmaVNXMUQ2a3RHOXZlejdfLUZFV1ptSUlfSTNlS0dZZUhQTk41eXl1WDVYZWFKeFVYZHc5TzFWa21UZFkwYWU1U3FvcGtOamdoeEJ1U1VaU2JQMlh5TGF0UGYteENRaTA5VHVFdnJsOFE0UFdVZ2ZvMlVMVHoydUQtdElwQQ?oc=5",
+   "published": "2026-11-16T05:08:04Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bba4b93ac6bc6f1d",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder - Helus Pharma",
    "summary": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder Helus Pharma",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0JhQkZrRFJWeWdWYjhUcjN3YVVIYTR5elVLdGxUMFh1Zkh6WVNyclJrQk95SzNVRUI2djJrRW1yS1dCRzZmbWpFWlJVM2x2bEVHR2RMS2czbU5zMHZxYlduY095MmNaYi04TFEtS1FSVHZRR0hTWFdCR2F6TGJwTTlaTVBrdElLYlpBV0tCa3JIUXpfUk8wSnVNbWZRR3hBam9oUVp6b1ZIZktqYnlaWm9FRldhcHo2eWUw?oc=5",
-   "published": "2026-11-15T20:02:29Z",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBta0FxdHc0QXRzRFMzUEtjZ2xZTlRoNkRYNWN0MFpIb18xTld4SktzTUdLaHpvWTBYRzdXNEtUWklkOEhTUk1xd0dMWQ?oc=5",
+   "published": "2026-11-15T20:25:31Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "cb6c1d958f7c81e2",
+   "company": "MapLight Therapeutics",
+   "title": "Form 144 MapLight Therapeutics For: 15 November By Investing.com - Investing.com South Africa",
+   "summary": "Form 144 MapLight Therapeutics For: 15 November By Investing.com Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmRvYjBtcHVVWS1aY0pqZWZHMnBXOFJlSHFuQ2JsNDhCTGNPWC1Ua2tQTkJoNGVTdlBnbi1VSnRyR1ZtUF9TeE5abk1jUzdUcEtac3RIaHd4TVJnVUpsM2JSSF81WUpaX3kySXpQbDJYSGxBUXl5a3pOR1ZCWHJIVmc1OEl2TVlKNWFEODhTNFpkc1lYUy1hc0tFLWd6TmV6V1I3RVlMZ2xQbEU?oc=5",
+   "published": "2026-11-15T19:36:27Z",
+   "outlet": "Investing.com South Africa",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -2035,6 +2244,17 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1haEx6UU9DdlBHVHBJcDNlWlQ3ZEJqbDMzc0pNWWlQb3gyM3lMS2RVbm1rVjRMSHdDNVVkcml3V0JtU1R6SzdnaTNMd19UdU8yNU9qTVhwd2RWaHhwOXl0X284MUFtS2hRd04xcmZjNGFydw?oc=5",
    "published": "2026-11-14T12:12:21Z",
    "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8d160d7ab999a899",
+   "company": "Regeneron",
+   "title": "Note regarding Forward-Looking Statements This presentation includes forward-looking statements that involve risks and uncertain - Regeneron",
+   "summary": "Note regarding Forward-Looking Statements This presentation includes forward-looking statements that involve risks and uncertain Regeneron",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHBJZkY2Y0ttOG1XX2VGeWRlLThvOWJCVWxsVjhnQkdBUkg0MlEtZzRWN1NTcDhia3ZDNVltZURBNW5URzdON0JwNGRFRHRhOXlTMDNzYXU0OEx5dGNkTXEyUURkQ0FyR1d3WFp4WWE0ZUZxaFI5Z200R0tsS29YMGR4a25GdUU?oc=5",
+   "published": "2026-11-14T00:06:07Z",
+   "outlet": "Regeneron",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -2820,6 +3040,17 @@
    "first_seen": null
   },
   {
+   "id": "8abd4bfd943883c7",
+   "company": "Regeneron",
+   "title": "A Powerful Research and Development Engine - Regeneron",
+   "summary": "A Powerful Research and Development Engine Regeneron",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSQ2puUkx4djdhQUpvdkxpc2xaeFptZ1RLYldBbmJCZS1YdTNqVGpKU2o5bXRyODY5cmxpNVZ6REJOd1FGU0hIdnBKZURiSExqSnJyVEdETjBqaTJ6WHJ1QVhZZExoRDVmTlE?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "Regeneron",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "9b2f39b2b9e9cc51",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Report Third Quarter 2026 Financial Results on November 9, 2026",
@@ -2949,6 +3180,17 @@
    "published": "2026-10-28T07:00:00Z",
    "outlet": "Chicago Reader",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6b826157235ce700",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals to Participate in November Investor Conferences - Newron Pharmaceuticals",
+   "summary": "Newron Pharmaceuticals to Participate in November Investor Conferences Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGlLM0t4Y3B4NlowSGg4ZFJpWHlPWkUzZFRRMDY3OEpmeGprekt6dXFQcWplXzhwbElkclRaX1ZUTzFYQlF4RE1la2FkYUlWcEYweUY5STh5aGR6ZktHSVRkUHp2aEIyMnFzZ0wtcHBOci0xWTU5Z0ZoR0JKQXgwZExBNVJwUzA0RkpXX3pkM0VWY0tsWmFrNG45QkdYbGZtaWd6MFd2OXNleV9wM1lqZzFiaTZvVHl5WGc?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -3103,6 +3345,17 @@
    "published": "2026-10-27T07:00:00Z",
    "outlet": "Teva Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "00956dc1367333f6",
+   "company": "Teva",
+   "title": "Teva Acquires Worldwide Rights to BXCL501, Further Expanding Innovative Neuroscience Pipeline - GlobeNewswire",
+   "summary": "Teva Acquires Worldwide Rights to BXCL501, Further Expanding Innovative Neuroscience Pipeline GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNY2thVFRjSGNwVmlGOTdsOXZjLVNURHh4aUxONXpmcDN2ZUltRHVxX01FRXBZYzFzclRwTVVhamhiS0Jyb3Z0c0NtRHp4M0xzUDJvMHNrN0pmdHNzS2U2UUNPekdqYktuMTE1OFV2dWpidVQ3REw3dkFkYkdTUEwzdW5HbVQ5UmZadDJnZHVrVnpNZHZIZThWZ1F6RG1sRHVxUzNRQV90NFQtdmRpeFBDeElaaTd5SFJlWkJ4T1ZBcUxIdXNKY2xfQmpjcUNIMmNITmtWWkR4bW1zek1FeTgtUXZleXlfN0xfZk1kbFcxQ0lnVjB6dkhj?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -3634,6 +3887,17 @@
    "first_seen": null
   },
   {
+   "id": "73380826e5a469c9",
+   "company": "Teva",
+   "title": "FDA approves Teva’s monthly injection of olanzapine for schizophrenia - Pharmaceutical Technology",
+   "summary": "FDA approves Teva’s monthly injection of olanzapine for schizophrenia Pharmaceutical Technology",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnU0bGlKMS15N3ZQMWVvakFIdVI4M3o5d1E2emM2aUVVR1RCODRDVVBwN2RGWUNKZkxOQ2lwZWVVUG5WSUxBUVNmYVVqSnBMY0ZqWWlSYWhYV3JkNFFlekplc19BZUhyeTNkcExjdzZLTmpGcGw5WlcwZWliS25qczdGeXk4TkNOSDliNXNkSmxiaHZnUWc2V3BYSWRKeTBHdk82aGo5bjVBWGJDZXNlYnlNVHcxaUE?oc=5",
+   "published": "2026-10-12T07:00:00Z",
+   "outlet": "Pharmaceutical Technology",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b8c5853e90c4592a",
    "company": "Resilient Pharmaceuticals (ex-Lykos)",
    "title": "A living systematic review, meta-analysis, and open data resource of trials of MDMA-assisted therapy for PTSD - Nature",
@@ -3696,6 +3960,61 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1lTMTZESzdDTm9NLVV6aGZlSXRIVDZneWRrM1B4WVd1YlJ6OGwwRHN4V2RnRThZcDAyTTRwYnRRSHB0dzhEaEVrZkFRWFhGOXJocGZyQTZzeUllZDNwenBMWHViemdyUmpVOE1kX21vbnJXa3VLYkxDbFhTdmhBdkhUeWZIdWZlNlZaaGthVUpzT0tvcDNYb0pXRzU4S2ZxOWVpVGlIUUR2NWtl?oc=5",
    "published": "2026-10-09T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "758c0bc5eb41a675",
+   "company": "Teva",
+   "title": "Teva debuts Weltruza in schizophrenia as much-hyped FDA nod for long-acting olanzapine arrives - Fierce Pharma",
+   "summary": "Teva debuts Weltruza in schizophrenia as much-hyped FDA nod for long-acting olanzapine arrives Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ25IdlppUTZXZVBxNENmekpTWnNUXy1DWUFiVFhuYmlvVUpXcVM1NDVPcFFvaDF2YUhrZG1nV2NvdmNXc0ZBanBCVEZULTdGMi1FcXQtS2pPRDF3WkFYRnNhc3gxWEFPYXlucVpCMTNXYS1mRjVSX3FqUVk5MVcxUW10Zm9ULTl4MEY1REphcXhXOVhDNkFkR2hNM0VfaVNFcWhSdTVSS0J5RHJ2OFV4eEhQZks5cjBxV2JLXw?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "775e67f15e66b5f9",
+   "company": "Teva",
+   "title": "Teva wins FDA approval for monthly schizophrenia injection Weltruza - CNBC",
+   "summary": "Teva wins FDA approval for monthly schizophrenia injection Weltruza CNBC",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTJVdk8yOXBNTi11VDFGdG4tUlA0dG1CbXpuYlBURlhvSHAteFc2R0JvQkxhcUlSRzV5aU1GLWxnMnhFT3RnY29DUWNlaW5FV3FVRXM4WjVuUVFheEpyaWRsMU9pSzluQ3RlM25XaUQ4T1dDdEh5QXZDblhuU2EtVXNaVFRjYzIzdFZzb2RZWHotZFdqVHNwMTRaMUllbVVkWEJVamJ0SdIBrAFBVV95cUxNM0NEV3I4U0VnRURKVVpKSXhjaklMUjBUMThud3lYdm04bTRIOUQ4ckdpeGhldnJqMUMzenlyNzBsYlRDVHZSZVNiLVp6dG15b3RfYlVGUlZwVGxrcEk4SVlTNG9UOUVDcEN0bDlpNlo2anhGTHhXSlp3SjRESHh3RnhWNU1IbG1DVjRkZ1dCSFQyM0wyWmZza0lMMkZGMms3c2xiTWdsLVg0b3F5?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "CNBC",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3a3e46f18f3251f4",
+   "company": "Teva",
+   "title": "FDA Approves Once-Monthly Subcutaneous Olanzapine for Schizophrenia - The American Journal of Managed Care",
+   "summary": "FDA Approves Once-Monthly Subcutaneous Olanzapine for Schizophrenia The American Journal of Managed Care",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMnV6Q3NLTDhOdHJrbEF5c0k1U0NKUExKWGVramdFa1BsUmVJSEcycWd4UWdObE81cWJLT0ZhZzNfdzh2YmFLZURTd2h0TDk5Z2RyTkZLczRfb2pHSE5sTmdkenRUZ0lkUjJzTGpSNmZaTU1Kb3NQY0VTTE1JclM1bm9YTVdNcWdta2VYVzBmQ0tibkV1alZZLQ?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "The American Journal of Managed Care",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5557165b03dbfaf4",
+   "company": "Teva",
+   "title": "Teva wins FDA approval for monthly schizophrenia injection Weltruza - Reuters",
+   "summary": "Teva wins FDA approval for monthly schizophrenia injection Weltruza Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXNGN3pjSGNMdGluU1gwMzRlYkdqNW14dVFIRkhBLUFudWxKdk85SUxnaWk4SGVQUDFTbFZlS2FhQTVJeXJvMjFTR25XcmpKVEM1SHlUZlY0czJsMDJGS1N1aFdzTk5wZldTWFkyVVhqdE5KZjdjQkpBd0RScmRiajlDRGtZSmNVUEQwbFNXbGFqaXplNjRjMjhqTnFSOGtWeWsxVE42T3J0ZVkwaFZKX2QwVFI3MEk?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "Reuters",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1d38f2792fa6d014",
+   "company": "Teva",
+   "title": "Olanzapine LAI (Weltruza) Receives FDA Approval for Schizophrenia - Psychiatric Times",
+   "summary": "Olanzapine LAI (Weltruza) Receives FDA Approval for Schizophrenia Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGVFR0lYRkxsVE0yU3hRU09nTTNnNVRJUTl6cjVZSTFGaEl1RmZ4cEQyVHlGZi1YR0dSSDY0dHZTcUpEcXJPajhGV1BtQWFZU3NnTHdEQVpMXzY4cjhxNk9KdWJxNFNMaWhyQll0b3AtekRlMGx4VzBaNURYdE1PbTM5bUlYRWctZmhhV1dWcWV4VlZvX1BYSHJSbUR3MnVtMmow?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "Psychiatric Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -3774,6 +4093,17 @@
    "published": "2026-10-08T07:00:00Z",
    "outlet": "FirstWord Pharma",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3ec60911c7cb2388",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Provides Update on FDA Clinical Hold and Phase 3 ENIGMA-TRS Development Program - Newron Pharmaceuticals",
+   "summary": "Newron Provides Update on FDA Clinical Hold and Phase 3 ENIGMA-TRS Development Program Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3V1ODlISUc1VFBORWRwa1RkRTJBY2FGVFBpSlVxY0xqcUg3R1RxUm1kZUNyVDFsWW51ZFBSaUh4bS03VndNZ3BIRmM5VnZXSzVsTGZNcUFZUE5TQTRqcWpBMVk3OFFURFc3WUNVS1VTWURtQzhiN3VPeHMwdzdBNHJYMHRhOFVSNjdJRi0xVEhYanNjQlR2Mmt0TVVVZms5VTJQanN5YlQ1UXR5bzkwQVRRWnY3R2hQ?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -4074,6 +4404,17 @@
    "first_seen": null
   },
   {
+   "id": "d85d7e869f2bba2f",
+   "company": "Regeneron",
+   "title": "Our Mission in Neuroscience & Disease Research - Regeneron",
+   "summary": "Our Mission in Neuroscience & Disease Research Regeneron",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdmY2JNZXN1WmFKblFTNlJyNjNZT2lPRFJ0VTBtMkpiYjlnekJTREt1LWl0aGM5OVV2bFhxa0lKaDl4RGlxWGxEUVdKS3JNNmpveVgwUjdsLU0yY3p5UmtQZk1zY25LZVFYOEpMRFJETlZTZlRhZ2hxcktXLWJVUVlZZXZPS0lqNUd1bA?oc=5",
+   "published": "2026-09-25T20:11:22Z",
+   "outlet": "Regeneron",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "d5b0460c763c14e8",
    "company": "Incannex Healthcare",
    "title": "0001628280-26-063506 | 10-K | Incannex Healthcare - Incannex Healthcare",
@@ -4125,6 +4466,28 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXVEc2RENmVqUlN1Ymp0WmtaT2JmcmFqejVENGpKYm5wcW9HZld0RGFLczhuV1RYWlp6dTdYanEyRmRtdndzc0V1Tk9UMzFaNlROSUc4Uml3S25pdjVIQk5QNEZYTGtEZkwta08wa2Ntc2kyQk1mekVjOUIxRWp3MlI2akJvWFlYRlRXS0NvbjQ5NGZ5NjhrdnVYaVY5NmpiZXd4OXdUVlhUbXRPcDN5MFJmcTMySXNvbTNLY2hONDVrdw?oc=5",
    "published": "2026-09-25T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "59948ad402c9ad80",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Provides Update on Phase 3 ENIGMA-TRS 2 Study - Newron Pharmaceuticals",
+   "summary": "Newron Provides Update on Phase 3 ENIGMA-TRS 2 Study Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXVqRnplUXlKemJaeFlpSC1qOGJ1UVIyX1VsalU5Q2xrLTNTZU9Xa1U0a2h2MGJsUS1wVXZiYUxrdUxhcDQ4UWRqTjBrOFFOdEpmYlVRTXZ0blBRTEp4UlFfcTJXdFBVZ2ZzZ3R4TUFzc0VmWTJWNWRES3pMQVVEX3V3bHJtZTZIa3AtN2R3RkNCd0g3VkFNamxCT2gwVWxOck43eHZn?oc=5",
+   "published": "2026-09-25T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e51c162b1684797c",
+   "company": "Transcend Therapeutics",
+   "title": "Blake Mandell - BioSpace",
+   "summary": "Blake Mandell BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVN0ZoZEw4UGdHNThqdmNSMVE0X001QnJuSXNQMGZjNzVDWmdqNHl0aVcweUVvRi1hYTFDX2FOSUFRZTI2VDA3STVaNHZES00?oc=5",
+   "published": "2026-09-24T07:56:58Z",
+   "outlet": "BioSpace",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4250,6 +4613,17 @@
    "first_seen": null
   },
   {
+   "id": "4e7fce7fe4f66b61",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron presents H1 2026 results and provides corporate update - Newron Pharmaceuticals",
+   "summary": "Newron presents H1 2026 results and provides corporate update Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVNYNmhrRkZPcnlpNjBkZGlJbklvUVRRVHZmQVhpOFhidFZDM24yZ2t1UXg2M0xmeTBNd3RDaUdJYlpsWVpIRUhWSEs2U3VGckRZTHpFSGpXaWVJY09sa0FUS3ltUWQwTlhkYlhFWEJQMnV3enZZS2hBNHd4RnJFN0ctV0R1WjdBdWdRZW1qbW0wUW5MUGFQb0lvQm9SUnZnakhTcjZYdF84RFc0T2RXMHlkMGg0dw?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "6e3809d45e486a2b",
    "company": "Autobahn Therapeutics",
    "title": "Autobahn Therapeutics Reports AMPLIFY-BD Results for Elunetirom in Bipolar Depression, Highlighting Rapid, Robust, and Sustained Improvements in Depressive Symptoms and Functioning",
@@ -4312,6 +4686,28 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVkprdUtISHlfcVBvdEI1XzAtbDhxS2RtOTdaZTVVUVZNZC1iR1BKTDhEZUhqeVZCUktsbUN0UndwWWFHVUROUThUdUd5SDNjRzdVSm9rZXdfWk8xWDNmOXVqSmc3endlMEtxZEc5Zk5xdXRLMHBTWGFubmd4NXpibl92aGp6U1ZYcHR3SzdYT1RMNHROeXk0T0taeUp3UGJobFdDSkhITlB2TXduaEZpYmgxVUI?oc=5",
    "published": "2026-09-21T07:00:00Z",
    "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8a730b7964b0c5a9",
+   "company": "Teva",
+   "title": "Medincell's Partner Teva Presented New Data on Investigational Olanzapine LAI and UZEDY® at Psych Congress 2026 - Business Wire",
+   "summary": "Medincell's Partner Teva Presented New Data on Investigational Olanzapine LAI and UZEDY® at Psych Congress 2026 Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTENJTmxieDQtc2wzdDNTUnlteDNBWGdFRzdVeGpTdG81cDByeW5WRmF3ZnRiUmJ3SWMybFE2VHgyb21RT25FV3l1bTBjcDhwRW82WUNybFh5YktyUDVPODRTVUF3czNRVFlreWY3TW1BeU9FRERKOW1NVUstekREd0kyOU9odXJZdURTdEhvVVlWUzU5RFVpZ3Q0UVAwQzQ3a09YNDJlMDBHWUMwd1gtMWZQVDQ3aXBJSzhOOWJTelhod1NEWmlwcFRJT3llZV9NWTJ1OXlaSWNILW9zUzFTRFR6RVV6OWxsVDl2WklwbG5MSnFZUUNmaEV3?oc=5",
+   "published": "2026-09-20T07:00:00Z",
+   "outlet": "Business Wire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3166840c685cd05e",
+   "company": "Teva",
+   "title": "Teva’s TEV-749 olanzapine LAI shows 80% stabilization rate in schizophrenia trial - The Clinical Trial Vanguard",
+   "summary": "Teva’s TEV-749 olanzapine LAI shows 80% stabilization rate in schizophrenia trial The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaGRTb01JcWhYdUtCQXZjV3plMk5GSHhORm12NTdzN3BYS2RsSUFqVEtQcktOT3JyaFJkcFdBYmVybzBhY1ZUdTEwaUxuV21ZUVFWYk1QX2RMZjdwaEd0ancyTXlOaVNqQnZSREhYNWdnSGc1aGF2MkRPcEVUMG9IMnhoNl8xWEYxb3JUTWxkNFoxa3ZYNUFYUlk0SFhqd1VVNTRZZVljY3pyUzROUVJEcU9YMElMVXdDVXBqVUFYM2c?oc=5",
+   "published": "2026-09-19T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4389,6 +4785,28 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUFVITkxCdDNpZTQzNzVNWUlUZ004S1Q3eXN5LXVyZ09wa09aOFYyV0hOQkswUzlQOFRMZVVfbFBnYTdLM01FS0J4S0hpLTVQemIwU2xBRUtRSkF3MGhsdlRUc0VnT0xaWW5aX0pYaVNndE0xcTZNbjNpMW8xMll2bUxIUUVpbjNLei1yODlDM3l3bmR0ZXJQRnBwdWdRM19NaENDd3AwemF2YmRpZE1wX05LMThuRm5IVDdFeUhKbEV4Qk9WMXBIZjMtOTN2dw?oc=5",
    "published": "2026-09-18T07:00:00Z",
    "outlet": "Kalkine Media",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "44509ffe9841c516",
+   "company": "Teva",
+   "title": "Teva Highlights New Real-World Data Showing UZEDY® (risperidone) Outperforms Other Long-Acting Injectables in Keeping Schizophrenia Patients on Treatment, While Reducing Emergency Care and Healthcare Costs - GlobeNewswire",
+   "summary": "Teva Highlights New Real-World Data Showing UZEDY® (risperidone) Outperforms Other Long-Acting Injectables in Keeping Schizophrenia Patients on Treatment, While Reducing Emergency Care and Healthcare Costs GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNYkF1R09ucExLUWxtb1J5cWZSdUp5QWJjVUZqNENnWTk2YjIxV1M2UGhMN3BBYUpCY2dHUHNkeTFScmhnNmc1TTJLYTB5WWI4anQtaG9KZWowZGdscDgtUXJTQXM1eXl1SWtXeFAweVVJSXVQRXhSanJiS2JIMzdDemZEN2Fvb05LOWF5OVVuZ2FleHNPc1NtalNKM19XcnBOY2hsbUdseUczTTBwTERWbkY1V2ppUF8wRnEtSk1QMW1nb1EycWlIRXEySksyenFKNWNQdEZZWGJsbjdWenZ0UDZ1Q0s5S3BnUkdxQzFudmFDTzZpelVhaFMtRVlFVTVEV3hmMXZkektBMEliaUNuNU5TTGQxODBxX2ZQTG16NHRhczMwRW5KOFhjckxYTFNGQk9sWUxSYVNsVnRIQUlPdnkzZGFOdTYyNVlZMmRKdTVseWxwa1k2RDBYVXV3WTVBd1ZjU3BSMEwxZkhE?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "70222b14c93b4cc6",
+   "company": "Teva",
+   "title": "Teva olanzapine LAI TEV-749 faces FDA approval decision in Q4 2026 - VZ VermögensZentrum",
+   "summary": "Teva olanzapine LAI TEV-749 faces FDA approval decision in Q4 2026 VZ VermögensZentrum",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR21kenRuTWw3eFJPMUkyM3RlODF2dHQ2UkhRSFBndVVLRmFJaW4zZmxWRmM5dDNQUnNpR1didnhoWjJ4RGZCSEdxS3VFRzB2UHRVN1FzS3p1V3BRNnppdXhyMXp5d2tPZ05SZ0dlZnl3QnhZdXc3Zk5BRXA2SnhySUFjYlFRNHpwRWprdVNsSVFHUlZkUmNsUDFOX0NsTVZqSkJzM1YwRnZIODBieExSZ19TU2M4cEFvM2RadE5zWlFQc2pNZW1XSVJESQ?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "VZ VermögensZentrum",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4888,6 +5306,17 @@
    "first_seen": null
   },
   {
+   "id": "23b3fcd83fef31a2",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron reports subscription for EUR 5.5 million of shares by investor group as part of up to EUR 38 million total financing to advance Phase 3 evenamide program - Newron Pharmaceuticals",
+   "summary": "Newron reports subscription for EUR 5.5 million of shares by investor group as part of up to EUR 38 million total financing to advance Phase 3 evenamide program Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRURxazRsRFpxempnUEdYV2tGTjQwWnZMZFJpaUdRZGxXYXJFMzJNM1g0YjRHSmFvZFN1ZWhuem5WZkhPcDBYbWZKY1Q3dG81V0M0NFI5T3Rfd0gtR1piTHJtZjVkejVIWnVyckFhdk9UYlJ5cWx3TFRfWEkxU0plekxZZXRfVzBhV2thZmx3RGxoSnRoaFlsUFc1UnIzaG1QcGxacFZZc1dCLWhRMzVYMjZwbTBjQzdhbUE?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "d08ab66bdfae19bb",
    "company": "Newronika",
    "title": "AlphaDBS System - Newronika",
@@ -4965,6 +5394,17 @@
    "first_seen": null
   },
   {
+   "id": "79e011240217b568",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals to Participate in H.C. Wainwright 28th Annual Global Investment Conference - Newron Pharmaceuticals",
+   "summary": "Newron Pharmaceuticals to Participate in H.C. Wainwright 28th Annual Global Investment Conference Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc25vSTEteVN5TENyY3MtbDBreGNORm11NEx6Qmpyckk4bGdRTTl5b0czbTFJWnh5OGNQZHRjVWlJR21uX0taaVNDYWNSWG91d1JNYjV0ZlI0bElrWDI1UXRUTFJEbVg0dnFVVE5Hcjl5MFlqOFhSbHhzdXp6ZG9jVmE4VzhiRk84NWZsNkN2ZWhYcVgxOGtFMHQ5akxHSWp1dTFldWJ1RUt1R2hOWktjbFNwQ2lTXzVaVDU0cnNB?oc=5",
+   "published": "2026-09-03T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c2612860116f4109",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals to Participate in Cantor’s 2026 Global Healthcare Conference",
@@ -5006,6 +5446,17 @@
    "published": "2026-09-02T07:00:00Z",
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ad948944ce81a252",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron announces completion of screening for enrollment in pivotal Phase 3 ENIGMA-TRS 1 study with evenamide as add-on therapy in patients with treatment-resistant schizophrenia (TRS) - Newron Pharmaceuticals",
+   "summary": "Newron announces completion of screening for enrollment in pivotal Phase 3 ENIGMA-TRS 1 study with evenamide as add-on therapy in patients with treatment-resistant schizophrenia (TRS) Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWplTHNLQ2VPTXp2MVQtYk5kMXpueEhORHZDTThpSHFPZVlOcmNCQy04bkIwSkljRzdNRGZYWEJpQzFVOUYxUk9oSTRmaXFXQ3hsMjVxYmxLU1RaQS1QckdOVm9uYTktc2JJVmR4NVRrWEdoSDJFMi1rS3hjODRXYmZ2TFJjNndKU0VGMV9zQXd5M3lnbHFHWFJjZkpzNjZYcm11X3ZLXy0zMUM5dExtcTdjR1ViUktaSGc?oc=5",
+   "published": "2026-09-02T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -5427,6 +5878,39 @@
    "first_seen": null
   },
   {
+   "id": "2b6f1a07f820be0a",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight dims preclinical programs to make phase 3-ready schizophrenia drug shine brighter - Fierce Biotech",
+   "summary": "MapLight dims preclinical programs to make phase 3-ready schizophrenia drug shine brighter Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVnYzUG9DNEVhQ1pmV002ZFkzTHpRanFRQUZQTG52YnFCUDVJYXZnQlh1b0hBR19qS2sycnlMQUxEczZxREp0VG5mUnhXaW04b3IwZ1JVMmQ5U3VXSmdOQWtra3RfU3BNLWpTMjEyVkRpSE1UN25yTDhESFJ1alZxV0puZGZ4LVphejVqVHdiUkJZSkh2SlJDcTBOVTAxeE1xcGtPVHphclhhX1JvSTJyV2FHcDV2SGZHMFZB?oc=5",
+   "published": "2026-08-14T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "806fcc985edb9e74",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight presses the pause button; ADC Therapeutics considers what to do with Zynlonta - Endpoints News",
+   "summary": "MapLight presses the pause button; ADC Therapeutics considers what to do with Zynlonta Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSU1PRmtjb3djSGt0amp6WEt3cXZZNEMzcUZ2MjVBT29tcW50OFFHWXRoYmQyMjNUeGl2djhJU0NlXzBtek5yanJDNkRhZFMwM0R5NHpWQmhRcFE1ODJiZWtHa3BiYmFfRnpndnRnTFpWVmRyTURXdlVILXJrOThlczJ2UWQ4aW40dGxWWHlNdXBZM3VLVjQ3SnVjdXBISjRPbDBwTTV6Vl81Mi12Mmc?oc=5",
+   "published": "2026-08-14T07:00:00Z",
+   "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b239f327f75db30f",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics - The Pharma Letter",
+   "summary": "MapLight Therapeutics The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80OW0yTE9kY0hrRjBldUdGcEpUT3Vkc0YzMnJ3SVJuQ25RRlBkZ3QwYnZkSGpZVlFNWFp6TDRGLTBPeWFPSDVRckFEYS1ocFdKa0RQaDlBSkVuek10N0FUVVZ2MGgxQm1HSUJYbEctXzk0UFpmUUE?oc=5",
+   "published": "2026-08-13T16:27:11Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "691ad7a117c76ba5",
    "company": "Minerva Neurosciences",
    "title": "Minerva Neurosciences Announces European Commission Approval of Amendment of MIN-202 Agreement With Janssen - Minerva Neurosciences",
@@ -5478,6 +5962,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUwwem5pUkZFelhhTkRCbmM2WG91eXI1Q3dEcTR2TktDb2RnbGRGMWRkbmRGUHVwc01Edk5fdzl0c0hfWmg2blExbHdnOU5zbHozSWxibjgxa1I4Z2c4YkoyeXc5RnYtQko3Z2tJZkh6eVhFdXgyT2FHYndrOXozOUtJWnl0M21Xa3NUbXlUUFVKRnRyRFAydEI2OHB6QVpoWEFiRTJTSms?oc=5",
    "published": "2026-08-13T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b093f4a11839beca",
+   "company": "MapLight Therapeutics",
+   "title": "Latham Advises on MapLight Therapeutics’ US$150 Million Private Placement Financing - Latham & Watkins LLP",
+   "summary": "Latham Advises on MapLight Therapeutics’ US$150 Million Private Placement Financing Latham & Watkins LLP",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVGxIOFZKMEpsNFcyZFBpb01jTHVhV3hCcHdiTlJ3RHVTdkxIVl9fRHlJc1p3S1NHd3BCbU9GSDR4LWVsUUdmTURzSTh0R01UMVUzTzZxeE5zR2RjeVJjQ1RGc0FoXzByZzBDcTR5b2pRazJzMFpPWjNvTXBodTA2ZEpUbFFpYUotcElvQ1FCWGlBOElia2VpNUQ5MDM4U25KMmhJOA?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "Latham & Watkins LLP",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5632,6 +6127,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR2pORzV0c0VZOFVqTmpORjc1UUtFV3NERENqSXRWa2VLOWhJa0VvVGh2WS1CWUlrTFQ4SFN3a3RFSGZUajdyeGk3NDJtc0w1VUJoZUlmWlU5emc1YU9fUi1hWGFwd1JDMzNLM3FKeU9xUTZ2TEtRbHlMMkRXcGlyanoySndYcVJnOWxlRHNiSEtOSUFaNVhNWDF3bTB1UjhlUVhkZGlUcEtaY2NvUDdTZUU1bmdiZVBEc2NFQV9TejRYTVk?oc=5",
    "published": "2026-08-11T07:00:00Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5fc1cdcf58232b6e",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne(R) Achieves Major Milestone With ISO 13485 Certification - Yahoo Finance",
+   "summary": "NeuroOne(R) Achieves Major Milestone With ISO 13485 Certification Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbmFYel9jUm9RN2VtN1QwNHdzdjVncThmaS1RaVlXWDdDVU5vY3lLa3BaR3BEdmtYa0xnSWVfX0ZNRFFQeGtJbjNOMllVX2lDMm1KeS1OX3VlMWNsSzJ3ejlEaXVoWmJxZUh1YVJ4Qk5pN3JnQ0Zxby1rMURoRjNWcUktUWJKVHhtYXRjNV8zbWtWWnA1bWUtOS02bVg?oc=5",
+   "published": "2026-08-11T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6186,6 +6692,17 @@
    "first_seen": null
   },
   {
+   "id": "2f246d30b8aa5511",
+   "company": "Regeneron",
+   "title": "REGN Corporate Presentation - Regeneron",
+   "summary": "REGN Corporate Presentation Regeneron",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRUx3RWZrM0czWHQwOHFzY2VNLUE2MExING5pdkJ6dU1vcUNfRXRZQldYeUZoWWJYcjRwU05ZRTU2ajFiSUt0ZVIyQjczbHhqcFB4dGVjWV9wbFUwby16ZjJpM3huQmRjRW1HV3N6cVhReWlNaWdoLW53UlViRENoTjFVY201THM?oc=5",
+   "published": "2026-07-30T13:06:40Z",
+   "outlet": "Regeneron",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "296b867f50368442",
    "company": "Idorsia",
    "title": "QUVIVIQ sales increased 62% year-on-year as Idorsia advances key drivers of future growth - Idorsia",
@@ -6208,6 +6725,17 @@
    "first_seen": null
   },
   {
+   "id": "e5468a02ed85e107",
+   "company": "Teva",
+   "title": "Teva (TEVA) Lifts UZEDY Outlook After Record Sales And New FDA Progress - Yahoo Finance",
+   "summary": "Teva (TEVA) Lifts UZEDY Outlook After Record Sales And New FDA Progress Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJYaXZYc0xZeXU4c2pxenBWZEQtM0tBaWhGcUVZWVJsdVhXODMxVTRJZXlvVk5DVENoM2VlVFl2SEtkbjctNVpoaXdpM1o2Tm9wLXJTZG5oZVNlTXg1N1JDM1Z2V2lsN3RrdmZweW9aV2VkMDNTZzhULU9URGRlWTlBZHk1TjdPcUJwSlUzYUZObUtO?oc=5",
+   "published": "2026-07-30T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c6a19f21657c7409",
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
@@ -6227,6 +6755,17 @@
    "published": "2026-07-29T07:00:00Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "2f1677b4278cd277",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight CEO on what investors missed in the biotech’s schizophrenia data - BioPharma Dive",
+   "summary": "MapLight CEO on what investors missed in the biotech’s schizophrenia data BioPharma Dive",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNy0xdXVvTEV5aXpxS0JaUlJwTTFELWx0R2FfenlGcWtUMEtQWm5TXzZXVGFSMUl1TUxpM3FPY2N5d0ZQc2hwWDd1MzZ0NnRZVVpqUVo5c0JRWlFGV3NJWTZQOHdJMkpjNWI5TTQ2YTMyTXl5RzJZbzhQUWt2SzN2SjM4Vll6UWU5QjVZTjVBX0ZBOVpvOUxmc011Y2NHNEo0UkF6Y013?oc=5",
+   "published": "2026-07-29T07:00:00Z",
+   "outlet": "BioPharma Dive",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -6274,6 +6813,28 @@
    "first_seen": null
   },
   {
+   "id": "ecc0efabaff751d2",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics stock crashes on Phase II schizophrenia data - Clinical Trials Arena",
+   "summary": "MapLight Therapeutics stock crashes on Phase II schizophrenia data Clinical Trials Arena",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdHkxLTRyZzU4d0pSdUtGbGhXbVdGTlRhcmNHclJSWFNpQmdFNXZIYW0xRV9sdF9LTmhiSTlTakRWUGVlRkFyMTljU2lGanpjUUd4OUtzVU1ELW1rMDZDSjdyWW9tSGpfb0xMT0dxOVJCM0pRRlRwdFRkT2xYdzdJdHRwNFVjUjhOWDNjN25ha3hTdzhDTWNlT2xHWFRsVWVGbU9rc0tIYWdCUnNT?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Clinical Trials Arena",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6e901e3a6d5a980c",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics recovers a portion of Monday's 73% rout (MPLT:NASDAQ) - Seeking Alpha",
+   "summary": "MapLight Therapeutics recovers a portion of Monday's 73% rout (MPLT:NASDAQ) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSXpEUzQtOVNzQ0hRNThNaTJ6MHZabmM4OFhIYlIwUG9JREd3QlEwZHpEYU1BS3JITXY0WE1tQlJvNTEzeVlNQ1hJalh3X1ZNRVM2MjZKU0xaQ0hfX0tEblJ1MHY0d1ViUXRBRTZkMk0tOGs0anRqNEZnOC1zQ2g4Y0ZpTTFrd3h1Qk5YVS0wTi1uTmRuX1BLaWc3ZnAtUQ?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "24d2e1ccc34fa405",
    "company": "Neumora Therapeutics",
    "title": "Neumora Therapeutics Reports Favorable NMRA-215 Toxicology Results with Planned Clinical Advancement in 2026 - Neumora",
@@ -6296,6 +6857,61 @@
    "first_seen": null
   },
   {
+   "id": "3b2a62579ed487c8",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight shares sink on mixed ph. 2 schizophrenia readout - Fierce Biotech",
+   "summary": "MapLight shares sink on mixed ph. 2 schizophrenia readout Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGRCajhpNlhOdEFyNlFsdWN6T1Y0YzZaQUZseXE2c0dyVzdmR05sbVRSTHRKYjQ1WHdNYWtHaUpIMFJrX24yaVp2VTVhV3N5N1dwLVBqQUlYVFpQOEQ4UUFzSkt4dzhaWkx6bGN2a2xONmdaMmMxanQxRGpESWkwQ1lBZ0haWUxJT0lEMXFNWU1LM0ZXeVE?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e411edb3be436ab1",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight dives despite positive data for schizophrenia drug - BioPharma Dive",
+   "summary": "MapLight dives despite positive data for schizophrenia drug BioPharma Dive",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPejBoV244TnByVEc2SUpaRFF3MzlmZkU4elNYMUluTDh0OEJLc1RUWUhUTGg1SlBHVUdSYVJ1ZVFpbGxfUkljNkhkM3RFM1dRZFZMMlA0UWJVRTY2N0hHT29yVmpyNEhRcHdJWTRJVDUzaFpyaXpVcG15RFlBTHVJYUJMekRaaVBObGFoRXI0Q3ZkOTRuVk84YnBhaVdwZ28?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "BioPharma Dive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a888c396952aa440",
+   "company": "MapLight Therapeutics",
+   "title": "Maplight Therapeutics’ Schizophrenia Drug Hits Phase II Primary Endpoint - Yahoo Finance",
+   "summary": "Maplight Therapeutics’ Schizophrenia Drug Hits Phase II Primary Endpoint Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcUpDNWNBcVZpY2o4VFZNLWJrWEJKajBZdWdmTDZzZjdKOWM5ZVZZWXg3UVc5VUFCaWdrSHJ2Vllvbmh1OTdRVFV3RzBqQkgtcE1yX3RkYWNfQ2Z6MG51azlza0hSTC1LeXJLV2xLTWRUaUxLWXY0Mk1xcXVxNGZVcmE1VDdRbFNVczNheVFSTmFjQzdlcTFrQTBmSEwwUGJGQ3o4ZTIwT2ZoUQ?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a0c7a81b0f23af68",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics stock tumbles 50% on mixed phase 2 schizophrenia data (MPLT:NASDAQ) - Seeking Alpha",
+   "summary": "MapLight Therapeutics stock tumbles 50% on mixed phase 2 schizophrenia data (MPLT:NASDAQ) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUh1S1RtVHpjMDVicWVYaEJfbzNGaG9iNEJlZG1faG4tbm84bFJuWFRQOTNETjlpaHlkTkxRVjFDdkZHaHl2NTJ4M1VFSUZjOFZRZWQ5ZVZuU3Jmb3VuYmt0ZkR5OGtNS0psNUV3b21XeGMtSVFqcER4NklMUE4zUGM4OFFXM1hXSTdJNW5SdDBXTlhkMXJDWnl4MENhWEFWdUhXTnRfU3JOOEE0WWR4VjJ3?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "05daf7c84704e5f6",
+   "company": "MapLight Therapeutics",
+   "title": "MPLT Investors Have Opportunity to Join MapLight Therapeutics, Inc. Fraud Investigation with SBS Law - Business Wire",
+   "summary": "MPLT Investors Have Opportunity to Join MapLight Therapeutics, Inc. Fraud Investigation with SBS Law Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYnNkNWtuaGlIdEkyRnhoSFR1TFRMQXJFbkNJVmM1QVRFX2tGdjVDTUN2M0pJNWplTXo0SmxMeTloWXNvZERSMm1UU00tTzJOdWRPRFlmcXNIN3N0MDI3alZUbHprTjdaOTBJNTRfZjJlRy1ZTk0ycHR5YWpmQm5QbkJ4dWJTYkhJY2NpNVYzWnVrTGdZV2gzbVg3QWJUaWVSS2trU0pucnh6ay1wYUJCN0FsMk4yV3dlU0U5UlRYbzlSWTFKc0RNdVF4dEI4YlN5VEhLaGlBbmZFZFZPakRoeUlpQnUwVEF5UDVyTw?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Business Wire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "47a5fa5baa6aa7cd",
    "company": "Regeneron",
    "title": "WSJ Spotlights George Yancopoulos: ‘The Scientist With 1,000 Patents Fueling a Drug Powerhouse’ - The National Herald",
@@ -6303,6 +6919,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUtIY2hZMC1ORUFMOGNhdzRmVk5oNW1wcm05STdvQVZJbXNaaGF1NmFubHJPZFE1eVBFRkVUVFRaQUNYWTRYbjJXYmFEYTkwT2lod1J6Y1R0V1RSOVVOdno4N2otQVBlblVGdTFRTHR6eC0tVVV6eUZ4VDRIQ0thVlZrN0RBcFpJV2F3ZWlLbm1LcVRZSnA2REdWdHdqb2lSUGlQN1hjVE10WVV5QlI2X3BncEFMWGYzRXhuWjNnUTBYV3VU?oc=5",
    "published": "2026-07-26T12:47:13Z",
    "outlet": "The National Herald",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c3ed8db207829851",
+   "company": "MapLight Therapeutics",
+   "title": "Is MapLight Therapeutics (MPLT) Fully Valued As Its Shares Hold Near $36.56? - Yahoo Finance",
+   "summary": "Is MapLight Therapeutics (MPLT) Fully Valued As Its Shares Hold Near $36.56? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFpmczdJWmt2OHdZYmd4STdZd1pCbHBnbXVBSFA3OV82ZkpKZVItOE5OYjNWQWlmZGRVUTl3aHA2SzV5bDk5bU9YbG5Ed25rRzJyM2JjSGEzOUZsZ0lIS3ZMN1RiNUxvWi0tR1Zha0hzV19zN1l3dDIwZlJ4amJjRy1UTEtLbG9JSnJxMnhKa2h6ejc2YUJ4cll4R1BxTUc1QzNVZzZycw?oc=5",
+   "published": "2026-07-26T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6725,6 +7352,17 @@
    "first_seen": null
   },
   {
+   "id": "33bca6f4cc48aaf1",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron provides update following Type A meeting with the FDA - Newron Pharmaceuticals",
+   "summary": "Newron provides update following Type A meeting with the FDA Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmprM1Z5MHdhYXdlYVB5QkI2cVNEZHVPc2xJVmtaMDRWRDdBaHdIU3ZsNF9oa0Y4TThSZFdiOWRMVDlGY1NUc050Z1lyNDlqekNjUWIwbnEzMTYtX0ZLSlFqZlpWOXVpTE5ReWZOeXNoTW9tbGxyS1JoeFhrTWxISnE4RXF0NkkzVGdwbjJ3MHI0cVp5aXY2cndlUnJEU3lIYndYX0tn?oc=5",
+   "published": "2026-07-02T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "b21ea18531e49cd6",
    "company": "Annovis Bio",
    "title": "Annovis Appoints Cheng Fang, Ph.D., as Chief Scientific Officer - Annovis Bio",
@@ -6765,6 +7403,17 @@
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbFNreVRZb3ZSOWlaSUZ0dzRmaUFOamdKTnlwUzBUN2hzZWR1b096b2M5amk1bXhzVEVaRXdJQ3l6YWZSSnVZX3JuZl94cHlyZzdQUWJodHdpRE5BS2c2WkJydnFXN2tXODJ3MUhVNjBTRXJxUGhETEpIM3NuSUJOSlpGWWV0N2JjMUtXbUR4ZWNKSGVYY2t5QU1rSVN4ZUNGcHRIcGNCWnFoYnkwYVZHMVktRkswMWRuQzNTcUw1U0kzZklrUHAxYkw5VW5qNFZTUjlEaFJzRnRIYVgtVVFnSlc0ODdtNnhhbFRDMy1zVEhGT1dwOHhiMjFRTQ?oc=5",
    "published": "2026-06-30T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8c65a137072f47f9",
+   "company": "MapLight Therapeutics",
+   "title": "Is MapLight Therapeutics, Inc. (MPLT) Stock a Biotech Opportunity Ahead of the ZEPHYR Trial Readout? - Yahoo Finance",
+   "summary": "Is MapLight Therapeutics, Inc. (MPLT) Stock a Biotech Opportunity Ahead of the ZEPHYR Trial Readout? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSk1GalNCTXAyamJ3VDdubjhoSmNWOFgyUnJMcUhkZm9zWENiSmFPckgySUc3YnJUakprejFNRGNFV2R4eGE5MzdhYW1ZZV9HR0ppaWFEblJMNUhsbkN6bGdPSVk4b0h4WHF6UThSVWNlbWkyWXBLS0JsM2RRZExPM2NiLTVfb2hTVFpYNVVyZzNJc2s4a3ZyVElzbHFudw?oc=5",
+   "published": "2026-06-30T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6978,6 +7627,17 @@
    "first_seen": null
   },
   {
+   "id": "7cdf458510ddfcb4",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics: The Cobenfy Challenger Does Not Look Like A Bargain (NASDAQ:MPLT) - Seeking Alpha",
+   "summary": "MapLight Therapeutics: The Cobenfy Challenger Does Not Look Like A Bargain (NASDAQ:MPLT) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaU1iZDV3b2gyZEx3TDhzODRPMXl4cHZVdjFrcjYtbWc1NXV3VDlpbDZRLXpiVVJjODU0SnpGTHhlRGswb2Vzc0JyNlphcHRkU3RWYUxQNmJKUHVCOHd6YmhsTHZmTk1mTkRwMmxRYWNyV2M4WHMyOGVoemYtME9xWnNIdHNOMC0yV2FVSjVfSEM4REN0MTFhaWkyanpRbWU4MVBlSzJvYkY0bGNsdkVjNWZrYw?oc=5",
+   "published": "2026-06-25T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c7d04dc43c79ba02",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma™ Announces US$50 Million Underwritten Offering - Wed, 06/24/2026 - 06:01 - Helus Pharma",
@@ -7132,6 +7792,17 @@
    "first_seen": null
   },
   {
+   "id": "5ba5cc9864f571a1",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka closes $700M deal for psych drug maker Transcend - Crain's New York Business",
+   "summary": "Otsuka closes $700M deal for psych drug maker Transcend Crain's New York Business",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGFFb0lXRUktUlhoZl91QkVqbGlIdE04QWZ6QXk4S3Z3cjgtQXNyMjB4Rk9wbFJZaklPYkJBSElSQ0F2NFJuZWt0QmRiRkc2R0thaEs5VTRiNm1qSEg3WWoxX0VoWmdrMWxhQ3RWQjFsdUFiTTNaeUhSeW5fVWl3RVdfUDZiTTl1WldOZlM5aWcwLTRzQTdMbUJ3?oc=5",
+   "published": "2026-06-18T07:00:00Z",
+   "outlet": "Crain's New York Business",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "728d5fc1ce14f74d",
    "company": "Luye Pharma",
    "title": "Luye Pharma Announces First Subject Enrolled in China Phase Ⅱ Clinical Trial of LY03017 (5-HT2AR/5-HT2CR) for Alzheimer’s Disease-related Psychosis - Press Releases - Luye Pharma Group - 绿叶制药集团",
@@ -7264,6 +7935,17 @@
    "first_seen": null
   },
   {
+   "id": "f3f0f582fdfd98f9",
+   "company": "Regeneron",
+   "title": "REGN JP Morgan 2024 - Regeneron",
+   "summary": "REGN JP Morgan 2024 Regeneron",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbE9xVmpEUEtCWHh4dFdzZmN2R0R1XzV2QnlRMms4cG5meXpiT1VkWEJXZ0VIT1FNc3V4V3VQXzFQSkZacFhuS29QTVRpVDk5VEZKQmR2eWNHQW9vc1lpRXdfUUw4WkFBZ0dyQWphY1Bfa2g0UG5DSkxyeGM5ekJNbHZUcnJ5VmM?oc=5",
+   "published": "2026-06-12T17:07:00Z",
+   "outlet": "Regeneron",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "139cda751d652457",
    "company": "Transcend Therapeutics",
    "title": "Transcend Therapeutics Announces Completion of Acquisition by Otsuka Pharmaceutical",
@@ -7283,6 +7965,61 @@
    "published": "2026-06-12T07:00:00Z",
    "outlet": "Transcend Therapeutics",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "ecc324a4e1cd81b5",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka Completes $1.225B Transcend Therapeutics Acquisition - AllSci",
+   "summary": "Otsuka Completes $1.225B Transcend Therapeutics Acquisition AllSci",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcndpaHhtSmxPdlk5V1RYOU9PckhUdHhmRTdDTi1YVzJlUVVld3JYTko0MXAyczh1LXNqVWJ3ZVRhYmZlV2tYeXM2UlV0QUk5cnpzb1BteGd5OWNYZUJjTjN2RDJSbnZ2RWVJZThiS1dGVEp5M0duczluSUdwQXgyeWV4c1NuRWs0YlhSZmtwS1M4T2ZTWVlqRlotcFdfT2diay1HTVkxbExpVjNMendueU45VndpQQ?oc=5",
+   "published": "2026-06-12T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "70c636b70a091011",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka Completes Transcend Therapeutics Acquisition, Advancing Next-Gen Neuropsychiatric Treatments - Contract Pharma",
+   "summary": "Otsuka Completes Transcend Therapeutics Acquisition, Advancing Next-Gen Neuropsychiatric Treatments Contract Pharma",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQnNxV2NmNDlDclFTWC1HRVpvRWpwR1JxVHpSVzg3bGJ5bFEyT0NXQmVYY2FZRUdRQjRid01YWXFsS0RHUjhOZnFKTTNuYjdDa3RBRFFwanpYTW05bHJKenAxaDY2dzg2YW45OHNiSkozV243Qllsd3pzM1FJejA0WU1nbFpsbFZUZlE4VFRjdlFVcU1Idy1WUlprVUs3WWVBblpvbU5Lbk9ValVfU0VpVDA3VzRWbXFiaUtNbGhmQTBSWUFLMHBmd05Gd2J0UkVsOUFFREh2UjBrYVpE?oc=5",
+   "published": "2026-06-12T07:00:00Z",
+   "outlet": "Contract Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "af8508017341a1b6",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka Completes Acquisition of Transcend Therapeutics to Advance Next-Generation Neuropsychiatric Treatments - Business Wire",
+   "summary": "Otsuka Completes Acquisition of Transcend Therapeutics to Advance Next-Generation Neuropsychiatric Treatments Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQlR0MGxVWG9sd293WTl3Q3lvc1JFbnZhZmh6YmxqNVN4dV8tQUk3Y0MzQUFFVDMxelZJaXBMODY3MnZiUmpHYm5yNDhETTItR0JYSThraVgzZ1NLUl9WNV8yTk0tR1VQRHVMMXVaSzhDMks5bXFVQXNrU0Y2aUNINkVZUWNQdXdtYUMweG9hRHNOa0dTV2w4N21uM2x1LThveWJ3TFdEMXJxcUxubXItWURLcElWZ09YX2tYa1FVQjZjSDExRDUxb1FuZGFkX3VtOUV3VVd1WU5OSGZhYldvNjdtSmdGdEtvLXE0X2w1VGpaMUxGb0s5LTJB?oc=5",
+   "published": "2026-06-12T07:00:00Z",
+   "outlet": "Business Wire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "bdbfaf2049db9dee",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka Completes $700M Acquisition of Transcend Therapeutics to Expand PTSD Pipeline - citybiz",
+   "summary": "Otsuka Completes $700M Acquisition of Transcend Therapeutics to Expand PTSD Pipeline citybiz",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXhKUGV5ak1ZdG1LUUZmVFAwVUdBbmxkbEtZODM4Q0pubGNvTzNXQWhsTFVicC03ell6b0tpRm5uR28yUGp4OGJudGhjTW50c1BERko3alRDY3dETnFLcHllYWI1bnBFU2xkMWh6akNtVF8yY0FEV3dib0Z2ZDBQU0pzS05MWTZERVZodUdmRWxUSkhzQ1IwTjRrRTFMN3l4YnQ2aUxSdHctbHVnZ2g3ZGF5UU5QbTdkWXhLODY3SQ?oc=5",
+   "published": "2026-06-12T07:00:00Z",
+   "outlet": "citybiz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ef35a22bbc47127d",
+   "company": "Transcend Therapeutics",
+   "title": "Transcend Therapeutics Announces Completion of Acquisition by Otsuka Pharmaceutical - PR Newswire",
+   "summary": "Transcend Therapeutics Announces Completion of Acquisition by Otsuka Pharmaceutical PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeU9odVBTb1lTVF80SU96ZWQ2VDhpOUY0anR5azhnMkx4NjRnbXpEb1hocG9UcnlXMGREZjR0YmNGQ3FzTDNjZzV6bDhJQzd5VmtaaEV5eGQ2aEVjSklyQjVYcEE2a3UwUGtKdnkwcEFuMndwdmRybDg3a2RaRkpBSDhZWFp4d2Jwc2hpRHd6VEdPdmdiaHBwcGxUOUFIdGh6MUxxUTlPYUlvWWZQeWc1NlJTcVpNUnBHNFNfbUdIY1duWF8wWkExdHhFMTI4elpxUHR4UmdR?oc=5",
+   "published": "2026-06-12T07:00:00Z",
+   "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -7591,6 +8328,17 @@
    "published": "2026-05-28T07:00:00Z",
    "outlet": "Psychedelic Alpha",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0159e586db1a119c",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals to Participate in June Investor Conferences - Newron Pharmaceuticals",
+   "summary": "Newron Pharmaceuticals to Participate in June Investor Conferences Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2h3UjdjaUV1anpxYW1uWDdONFljN0oyQ0NNWGxnYWFSLTFnT3VqOVJnQW1ZdnBkZHVWSDFIZVJ6ZTJtYlB1TlEyM28wMUxCVzNabENQZW5aY29xNVpXU0ZUMWx4U3NYQW03RXdTLS1qbmxWTjNLaDI1NXdhdTdpZlJJSjBOX3BVTnJ3YVBPTmVnLVhaeTB5dnI4U09ZY01DUkJRdDJCaXNpNU9UdWhTRzRTUlY?oc=5",
+   "published": "2026-05-28T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -8320,6 +9068,17 @@
    "first_seen": null
   },
   {
+   "id": "72addee3be6651d8",
+   "company": "Regeneron",
+   "title": "REGENERON - Clinical Trials - Regeneron",
+   "summary": "REGENERON - Clinical Trials Regeneron",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOck1LLXFneFp3VWhXVU5XeVdzNEwtSFRaUXdvMWlkNTVkY2ltbk9YUFF6RjZCdld1c3lTNkhMN0lib2dnQWtJYmdOdkxCaVE0dEtMX2hXaUFDNFJyWVZac3pXWTM0dk1JSi1WYU9rUWdBR3VBV2RfTzNSY3FYNFJPSDhfbnpWQkRQaHh0RXVEZWk?oc=5",
+   "published": "2026-05-06T03:37:18Z",
+   "outlet": "Regeneron",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c23601667e78561e",
    "company": "Supernus",
    "title": "Supernus Announces First Quarter 2026 Financial Results - Supernus Pharmaceuticals",
@@ -8430,6 +9189,17 @@
    "first_seen": null
   },
   {
+   "id": "9d42758a4cf876c4",
+   "company": "Transcend Therapeutics",
+   "title": "‘Real momentum’ or ‘completely absurd’? How Trump’s support has shaken up psychedelics - Fierce Biotech",
+   "summary": "‘Real momentum’ or ‘completely absurd’? How Trump’s support has shaken up psychedelics Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUFM0ckNWTDB1VWQ5YVVQRWQ2aFIya1hzaEJvLTRocklvbFNWaktvQXFiemo5U3VqbFB1Y2t5azZQQndpVlo2S2xGWkxlWUlnWlNrV0E1VzNSUEpjeHJ4Ukp4QmRmZS16djFON1JFVkZiMmZzTk5raTRZNDhWWVdPdVhuZ3dxRXRCREtnYlhvcnZVLTF4bUdmczVyei15TzE1bmJpYlRqTU9rOWNwc0FJdFJuRGhHTWZyWm1vd1lkNA?oc=5",
+   "published": "2026-05-04T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "5738c2fd8a922cbb",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Announces US Commercial Availability of NEREUS™ (tradipitant), the First - Vanda Pharmaceuticals",
@@ -8470,6 +9240,17 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFZESlE4TG1zV0gtdVpOdGpHRjJXSFV6S2U0c2g0ZjdpMWgxamtRenFRWjhWSmJEMUFVaUhOblNYWjhmbEFuZWZVN195OWhCSWVyQnNxNk1sTy11LWw0alIwNEdTc0E5NEd0amtBMkRnNFF6NkRpSms5d0djamNOaFBnYkwwbWc2T1MxelI2d1RnQUF0cmhkYkJwdnlfbkhxa1J2dHNncUtwUGhJUzBERUpPYWRSdWp2ZzI3NWMyU1V6Y3dDbi1KSw?oc=5",
    "published": "2026-05-01T07:00:00Z",
    "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5e03e340caf7dba2",
+   "company": "Transcend Therapeutics",
+   "title": "FDA issues priority vouchers for psychedelics developers Compass Pathways, Usona Institute, and Transcend Therapeutics - The Microdose",
+   "summary": "FDA issues priority vouchers for psychedelics developers Compass Pathways, Usona Institute, and Transcend Therapeutics The Microdose",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIdDRhNTl2dTlyc2dpWms3Q1FyWEtjWmo1NEl3UjNicFpTZEQ2VVJPY1RaYjVwM2JJa09LTlZ0WDRlTWxXSkI3LWJGOWFCNnJ0bzRwZTNraWRraWY1RE1LQ3NvNkxGRTJ6TGVyNFI3S01XRFVsOURz?oc=5",
+   "published": "2026-05-01T07:00:00Z",
+   "outlet": "The Microdose",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8581,6 +9362,28 @@
    "published": "2026-04-29T07:00:00Z",
    "outlet": "Fierce Biotech",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "978c8750a8ad1431",
+   "company": "Regeneron",
+   "title": "EDITED TRANSCRIPT - Regeneron",
+   "summary": "EDITED TRANSCRIPT Regeneron",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3BSM3ZNbGhTNFBCSVZJd0dxZXF4X3ZXTFhvaGpyUkZDUVd4WjQwbF84NmJ3R2xTOHQ0S2pfWGd4Z1BoRGFXY2h1NDNxQU9FVmUtOXhPQ2NybThLa25TVldfSEx6RExNWkk5QmhRTTduUWpiR0Y4WV9Jc2hJRUhGX3dRbGppZDA?oc=5",
+   "published": "2026-04-29T07:00:00Z",
+   "outlet": "Regeneron",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "ad4f8d26576c0c20",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron reports a pause in enrollment of new study participants in US centers of ENIGMA-TRS 2 study - Newron Pharmaceuticals",
+   "summary": "Newron reports a pause in enrollment of new study participants in US centers of ENIGMA-TRS 2 study Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWpDT0tUdEVIcTdVTU8wWkZDdHNnN1Z3WnFHX1d2MW1qZy01OUJLRG8yNExTRDk0dG1IblBaaUw2WGs0MGRFU2RMeWZ0LUF2bTBqbG01NXZqdms3STg4YWg5bkFqMGptU1dlS3htY29KbE1uUTlwNndXVUJXRjJHdlhpRk1kSUxoNUpSSmpnckZmbDVlN0FOUU1aNG1NTzAzb1dTTUFveXZ3bURyeUsyQXpGT0sxZmRFRC1Z?oc=5",
+   "published": "2026-04-29T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -8738,6 +9541,39 @@
    "first_seen": null
   },
   {
+   "id": "02f4328bcbe88a60",
+   "company": "Transcend Therapeutics",
+   "title": "FDA awards priority vouchers to 3 undisclosed companies for investigational psychedelics - BioSpace",
+   "summary": "FDA awards priority vouchers to 3 undisclosed companies for investigational psychedelics BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSWlNbmVUWE9rTG9WNmpjbWppN0JLaUJMV2ZqeElURTZYRWx2blRiS19ydjh3SEROaktBbUdNMHRGNk5oWm5Zbm9jN2lzc3Z2aGh4b2hrY1JRQk54V2Nwcl9rUUl3cTJ4WFhUQ3lWZWdIYXVna1VrYTg3VnAxSHJHZ1JZX1NSb0dyZUthaUVQUDBFQjFNeHQ3dzJQbFJVQVlzVVYxS3NsV25JUDJBMWNfdGdKSnNkb1dV?oc=5",
+   "published": "2026-04-24T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "59ecf2bfc25e9b6b",
+   "company": "Transcend Therapeutics",
+   "title": "FDA to speed up review of three psychedelics as mental health treatments - STAT",
+   "summary": "FDA to speed up review of three psychedelics as mental health treatments STAT",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEl2R1NpZ0w4M2k4VjJERGp4bm9yaWpoa0ZGM2EtLXA2OElkVUVQZW5Ydy16SDBjVmFpZkdEdU0tUTZnMHpXejJrN0VSQlJ3Q3Q1ZS02aUJSS05jSWFKUkl2NEFKc19PMEwtZHZkUDdMTzRZUTZ2ZXRlNlg2aWZvU19tWUI4Qzg1SzVHdU93bmV6dWRtV0pJMF9zRWxoZlpZS09sTnZpcw?oc=5",
+   "published": "2026-04-24T07:00:00Z",
+   "outlet": "STAT",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "37ada7120a6c9798",
+   "company": "Transcend Therapeutics",
+   "title": "Compass, Usona and Transcend score FDA national priority vouchers amid Trump administration’s psychedelic push - Fierce Biotech",
+   "summary": "Compass, Usona and Transcend score FDA national priority vouchers amid Trump administration’s psychedelic push Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGZreG5ONno3a3pKVXRFR3lOYktjSTJhY25ETkQ3NjAtVGtOLXN5N2RodkcwbXhxRFhTb2p6bFVmYnJRR25VdG5sem1Nd3NTMkRvMDlFVjlQZlBLMWtXRy00cExIek5oZm9GQVZEd2tvVzBZaldjQzQwOHFLRi1aMjQ5SU9sMVk5Yk1Ma0NVLW5oclp0dkdRWnljMnFrSmFVMDlybllsRFh3QTJNbW1vZFNvb0N5WFZYaW9DMnZrdzQ4NVVCdmc?oc=5",
+   "published": "2026-04-24T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e212d250f0623af7",
    "company": "Reviva Pharmaceuticals",
    "title": "Reviva to Participate in a Fireside Chat Hosted by A.G.P. on Brilaroxazine’s Potential Across Multiple Neuropsychiatric Indications",
@@ -8768,6 +9604,17 @@
    "published": "2026-04-23T07:00:00Z",
    "outlet": "The Clinical Trial Vanguard",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3c074d4388b8ff72",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron announces AGM 2026 results - Newron Pharmaceuticals",
+   "summary": "Newron announces AGM 2026 results Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaEFXV0JRZWhic3kwdm9hSmJwRU1YNURVZVZESTNZdTZ4TEx3eVF1d1BveC1jTzRtQmxaTGd6RzQ0MF9JVlVFQzhkSW53dTc2VUNmRzdCb0hzbm9mQW95YkJrb04zU2g5SHRXd3JteDZZZnZ1SmpyMXl5N3hKR0ZJTVdXTmN5cDNJYjJrOWhyTkg?oc=5",
+   "published": "2026-04-23T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -9156,6 +10003,17 @@
    "first_seen": null
   },
   {
+   "id": "00766fa192d25db9",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Eric So | Board Member - Helus Pharma",
+   "summary": "Eric So | Board Member Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ld3VHZ2xCZEZ4Z3pQVVBWTGJSVmpuM2o5ejJVWW1DY1pEWmVUTDA0b09zTEZ4VnNyaGRNb3N2c2J5dUhpZTU2WElucktSR2FfTjdn?oc=5",
+   "published": "2026-04-11T09:11:01Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "649f8052ddcedecb",
    "company": "Stada",
    "title": "Understanding Parkinson's disease - STADA",
@@ -9197,6 +10055,17 @@
    "published": "2026-04-10T07:00:00Z",
    "outlet": "Annovis Bio",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "2defb65fe0dd0089",
+   "company": "Transcend Therapeutics",
+   "title": "Scientists engineered plants to produce five psychedelics at once; ‘Mega-analysis’ shows brain responses to five psychedelics share a “signature” - The Microdose",
+   "summary": "Scientists engineered plants to produce five psychedelics at once; ‘Mega-analysis’ shows brain responses to five psychedelics share a “signature” The Microdose",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVVidXJuNURWcUdxRnp1cDlFVXRzeXUtOWhlM3RicmNmazhCMW5yVTRRcDVBV3BWUWFFNlJSU21EUUhNTGowdVJnOGNyR3Z0akdQNzRrS0lXQ3J3Nzluem1mejE0LWxWanpjdGN0bnUwa09uSlRFUTBDU2xIcnpWYQ?oc=5",
+   "published": "2026-04-10T07:00:00Z",
+   "outlet": "The Microdose",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -9453,6 +10322,28 @@
    "first_seen": null
   },
   {
+   "id": "ddd8bcabe5b575b8",
+   "company": "Transcend Therapeutics",
+   "title": "Japan's Otsuka Pharma buys Transcend Therapeutics for $1.2 B - BioSpectrum Asia",
+   "summary": "Japan's Otsuka Pharma buys Transcend Therapeutics for $1.2 B BioSpectrum Asia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOam1fcXdLZzdiMm9zR2EyVm5vOG41dlU3V0JLZDNTdjhYUkQwQjF0dEdRRFJhV3diUEM0bUVxdFh2cDNacWZuNjRoTXh6SFNtRGpsb3FSOW1SU3J2SFh6RVk4dVdmM2RaOGhmcW1xdVVWNHkyUm1IVFBaRVpSTWt2S1Z6ckJ2dldZWFBLbGVZZUt6R2NMN0Y3d2pyaFNsTWNKaFFzMjQ4LXBtT1JJYlE?oc=5",
+   "published": "2026-03-31T07:00:00Z",
+   "outlet": "BioSpectrum Asia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "26df03befd875611",
+   "company": "Transcend Therapeutics",
+   "title": "Skadden advises Otsuka on potential USD1.2bn biotech buy - Law.asia",
+   "summary": "Skadden advises Otsuka on potential USD1.2bn biotech buy Law.asia",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sSExzRzZMSllNVEdtMzFmNUpXU3d2QUF2QjMwWnRBVzhGRkVjMVd5Z3BoSm8ydlY3LVhwazNUelJKZV9FZEpBMUR3dVVyMlJwdlFSZzk3TWtWSU0wSjVkQUJBeG9WTXRZTWFyUEQ0RGhVSXdidGc?oc=5",
+   "published": "2026-03-31T07:00:00Z",
+   "outlet": "Law.asia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "05232fc4f973325d",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Governance Documents - Helus Pharma",
@@ -9607,6 +10498,28 @@
    "first_seen": null
   },
   {
+   "id": "142365c237d6e404",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka agrees to acquire Transcend Therapeutics for $1.22bn - Pharmaceutical Technology",
+   "summary": "Otsuka agrees to acquire Transcend Therapeutics for $1.22bn Pharmaceutical Technology",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPczZWSjZtMUR1UTZZSXo3U0JWTGhFSFpEVE1LVFJ3ZDFweldzeTJVZ01UNnJjb0lkbzd5d19GcURFRHFJMjVRT3FMaU5uMUpvRHo5UXFkZmtEZnFNMWh2M2dSZExEVk51WldGbERZSnVFNlhMLXhuaEp3cy1RcXA1Z0tGQmdhUnR6d1RwcW9hVG5NQQ?oc=5",
+   "published": "2026-03-30T07:00:00Z",
+   "outlet": "Pharmaceutical Technology",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "32afadf0191d3ba7",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka grows in neuroplastogens with $1.225bn Transcend buy - pharmaphorum",
+   "summary": "Otsuka grows in neuroplastogens with $1.225bn Transcend buy pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXpraWFPT1ZjUjJrbUZ1QmtpUVgtY2N1clJTRUZOeHZiYll3ZDVITld2NFFPWjU2MHVCY05nMFNva3NfR2lCVVJyYTV3dlNGcjJiUW0yNGp5empZWXZhTGNwbVphZUM4QkFPVTlXc3dRQXNfbG55TXR2bHM3QXB3bWVoYjB5Zw?oc=5",
+   "published": "2026-03-29T07:00:00Z",
+   "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dcc41e9a28220e90",
    "company": "Bristol Myers Squibb (Karuna)",
    "title": "Open Label Outpatient Switch Study Demonstrates Symptom Stability During Transition from Oral Atypical Antipsychotics to Cobenfy™ (xanomeline and trospium chloride)",
@@ -9692,6 +10605,83 @@
    "published": "2026-03-27T07:00:00Z",
    "outlet": "Transcend Therapeutics",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "188282c8cb06bb50",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka buys Transcend in $1.2B deal, nabbing MDMA analog for psychiatric conditions - Fierce Biotech",
+   "summary": "Otsuka buys Transcend in $1.2B deal, nabbing MDMA analog for psychiatric conditions Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUDdlTDhyLWQ5TnozN19NUWtDN29YbmpERFJVOUw0ZDFHZF92WDJTOElQWVpHR0N0T3lHb0YwcWdzY3JWNmgzTEJyY1NQWnFlVmU1cDhuZXJoZVRWVkcyVmR6Mld3TUhHaEFMNkxUbS1rVnJNd25WT0JWS2dYR3ZZOWkzSjZsMDBIYlVMQ2xxUHpVTFcwTm9pQ2RvSjlJVk5ydF9udmtR?oc=5",
+   "published": "2026-03-27T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "94119d87ce9fa1a4",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka picks up PTSD drug with $700M Transcend buy - BioPharma Dive",
+   "summary": "Otsuka picks up PTSD drug with $700M Transcend buy BioPharma Dive",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3Q5XzlYUFNGcHBPZ3hSV2lyalI3c2ROU3hFX2V6X3ZVbWdYc1NmV3dtaVVuMXh2a3dmZmZZQU15RVBSdGtaWEpNLW53YXJGNVFwblZpaDdLNUJtenFoRWNjc0dpeVB4b3dVcEplUnFtX1ZTbDRXSzhqQ1FIV2xLcEY3bEMyb1VNVVAzQklCbmktNWdqcThpVG1NQVJtSDNUMmREY3BaRGJfR1lmWGow?oc=5",
+   "published": "2026-03-27T07:00:00Z",
+   "outlet": "BioPharma Dive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f70d10a92ba90bae",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka acquires private neuropsych biotech Transcend for $700M upfront - Endpoints News",
+   "summary": "Otsuka acquires private neuropsych biotech Transcend for $700M upfront Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT25XaFJ2a0xySGRrQktWVUJkb3Ryekgxano3Zk1GM28yZXhvM3QtakNiY19GQXd5a3F6cVNfVHhjclYxU3dtVnhUOS1UOFF2a2l4MDhQQTItSzZtSl9TUjFYNXR4Znlpc3NKbkhPQU85TFU1MXlONkwxN2FacnJNOA?oc=5",
+   "published": "2026-03-27T07:00:00Z",
+   "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "66b6d7624693fc74",
+   "company": "Transcend Therapeutics",
+   "title": "Pharma M&A Roundup: Novartis to Acquire Excellrgy Inc., Otsuka Pharmaceutical to Acquire Transcend Therapeutics - Pharmaceutical Executive",
+   "summary": "Pharma M&A Roundup: Novartis to Acquire Excellrgy Inc., Otsuka Pharmaceutical to Acquire Transcend Therapeutics Pharmaceutical Executive",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX3ZrVzZsQ2NMRkZHZHNuNWRvcDQ5UTNiS1pOc2FCYjdVWVpFYkt2a1VwOEpaQUM1UDNNT3JXMEtPV09VRUwxMExCN09kSVk1Y2V5STlBb0R4aEFoV285aURURkVyaEh4S3B2eUs5b0dnZWUzVENuVGg5cF9uMEdxUEpKODZkTkh3RURPQjFrYm5RVTl5TGFxX20yR3pyZVQ4SVJoMUVWeWhseGFKWUFmM2NYVG5hci1ULWNYdGV5MENsUQ?oc=5",
+   "published": "2026-03-27T07:00:00Z",
+   "outlet": "Pharmaceutical Executive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f519973cf07745ac",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka Pharmaceutical to Acquire Transcend Therapeutics - PR Newswire",
+   "summary": "Otsuka Pharmaceutical to Acquire Transcend Therapeutics PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVpieTFWWEFTWkc0UHdKaF9DY2NQemRqT09MSk1WZFdlU01xdFZNNzhDdkxwVHJfRzlwa3ppRm0xRno3bEFoRXdyRE8yMjMyYk9CeTN3bVFQallneHYtbHNGYXVGMTExRVRtQnU5dlpHUF9UYWtKMHprZE1wci1vWkxxSVNLTVBBVENncXpVMmg1ZTBvcUx6ekV0Yk1oSjJNN0lTUHJEX0Q4M3NVLXFVRQ?oc=5",
+   "published": "2026-03-27T07:00:00Z",
+   "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e85bca3dc46cf48b",
+   "company": "Transcend Therapeutics",
+   "title": "BREAKING: Otsuka to Acquire Methylone Drug Developer Transcend in $1.23B Deal - Psychedelic Alpha",
+   "summary": "BREAKING: Otsuka to Acquire Methylone Drug Developer Transcend in $1.23B Deal Psychedelic Alpha",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTdPZXdibXJFLWtIWUxVUXRDcVFrZWlwQW5nVFRPZEJMcU9KVS01YlJ5M05XOEpqTVlzTHFwbjlXQnBOeklrYlNFRWVfWmFnU0VKeEFzN192cG5FVWFyMGNKVWt0SlZjY0x4eUMxZ1lQZVZpc3Y3WS1LaHZCNmVhVU4taGhSMkxxNUdCeE1sN2kxVDl1cXdxM3NJWXhDTnBLamZfcDJrLWU0cFV5d2JN?oc=5",
+   "published": "2026-03-27T07:00:00Z",
+   "outlet": "Psychedelic Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "56a5e2a55ea0f2c5",
+   "company": "Transcend Therapeutics",
+   "title": "Biopharma bites: Otsuka's $1.2B outlay for neuro firm, plus Broad's CRISPR battle win - FirstWord Pharma",
+   "summary": "Biopharma bites: Otsuka's $1.2B outlay for neuro firm, plus Broad's CRISPR battle win FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhdm8yLXRVcU13UVF3Q0ltU2N4ZEFpSk4tUF9jQVFfVlVDbVY0alV3ak01aWp5SU8yLXlyZXQtMkNHQ0NWd18zV2RfS1AyazAzSW1v?oc=5",
+   "published": "2026-03-27T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -10076,6 +11066,17 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0Z3WnBVdDRqcEZKQkpRNXh0bkRwRGRvVEhlNHpHSDloOFNGMjlZdUxzS3J0NGRucnZpWHpkaG1xS2owOF9kT3hNeG4yWHlxaU51UnU4VXFLTHZ5RGtkTDFaaFhGSHhIcnk2R1RQRG9Hem56QmFFTjVNNGJTd1hnTy1OcTRieEEyaWlucDcwcnVEYWYzYmc?oc=5",
    "published": "2026-03-18T07:00:00Z",
    "outlet": "STADA",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "7f32f49ed0781e44",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron announces nominations to its Board of Directors at upcoming Annual General Meeting - Newron Pharmaceuticals",
+   "summary": "Newron announces nominations to its Board of Directors at upcoming Annual General Meeting Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGNwR2p0SlhFMElhMGE2YTJmYjM0R2tZLXc5czhVVXM1ZndmdTZwUkFYdVZsV3M5cGhJc1RPY3ZKQUIwS3BsRjczaTJFNXJ6cHFTOUdNNUg2elZGaXNNeUE4a3MzblgwbkZMOE1ZVUdRUFBMNUltWll6czdUaXMyTVpkSnlrRm1fTkYwX2hoTi1NRWsxdExfdmNmVnF1ZmhBNENibzVCSHNINXN4aWtCME9FcHB5U0VBSUE?oc=5",
+   "published": "2026-03-18T07:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -10531,6 +11532,17 @@
    "first_seen": null
   },
   {
+   "id": "bb603a9eca4add75",
+   "company": "Teva",
+   "title": "FDA Accepts NDA for Once-Monthly Olanzapine Injection for Schizophrenia - Neurology Advisor",
+   "summary": "FDA Accepts NDA for Once-Monthly Olanzapine Injection for Schizophrenia Neurology Advisor",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQl94bjRpbHJ0QmVScFV3aG8zUEwwR291NUF0SmdYZlg4R2pUdWMxdENwOTlaNUQ1LXdfOVNUX29reWxvckdDZExtNE9sT19oZWdIQTF6Ny02dHJVaVdSN0gwOUdUMnBBM1ZURHd6NEtIdTQ0UUhOVTBkaHZPMnktbDRoTW1VdHg0a1U0NEVfVnZYdzNVZUdXaVVOQ3d1ek50TlJOMVpwZFBsVmhrbjFV?oc=5",
+   "published": "2026-02-27T08:00:00Z",
+   "outlet": "Neurology Advisor",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b7f507713c44805f",
    "company": "Eli Lilly",
    "title": "The purpose of this study is to see if brenipatide, when compared to placebo, is safe and effective for participants with opioid use disorder, when used with buprenorphine with or without naloxone. (RENEW-Op-1) - Lilly Trials",
@@ -10718,6 +11730,28 @@
    "first_seen": null
   },
   {
+   "id": "96c6c6d92284183f",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics, Inc. Rings the Closing Bell - Nasdaq",
+   "summary": "MapLight Therapeutics, Inc. Rings the Closing Bell Nasdaq",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yTzJjb1E2UmhxUTVWcS1GRVJMZ3ZrUXllNDg4bXBkc0Z2RWU3NWlGNkhlZkJta0IwRzczWmpMQlRjcGo4Q0c5YTBtZEkzWFJwWTA0dHUzcVhJWTBWQWlfVXVGNzhIbmgybV9mRUFkR2R1NzRhSHR5Y3l0NU5HcTQ?oc=5",
+   "published": "2026-02-24T08:00:00Z",
+   "outlet": "Nasdaq",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "931d21738ccb4a45",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics, Inc. Rings the Nasdaq Stock Market Closing Bell - Nasdaq",
+   "summary": "MapLight Therapeutics, Inc. Rings the Nasdaq Stock Market Closing Bell Nasdaq",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV3cxNHh1cVl1N0J4ZlVMa04xR0tYQWltNFNHbF8zTWtpak0yNHMyUVZTV05ianp5OTBWUTFnMHRHSFByTURQM3A4dkNRejJ5blN0VHFZLURJbEhQbTl2MnByaW1XUlc5cmozQktJbFRUUk9PTmpSRHZ5WThuUUI4UjBqYzBVbFFqTHJQMXROMXl0YjdWRHdxdTdR?oc=5",
+   "published": "2026-02-24T08:00:00Z",
+   "outlet": "Nasdaq",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ea435278ac2f75c4",
    "company": "Reunion Neuroscience",
    "title": "U.S. FDA Grants Reunion Neuroscience’s Luvesilocin (RE104) Breakthrough Therapy Designation Status",
@@ -10883,6 +11917,17 @@
    "first_seen": null
   },
   {
+   "id": "8bb7c7aaeb23f3e0",
+   "company": "Teva",
+   "title": "NDA Accepted: Olanzapine Extended-Release Injectable Suspension for Treatment of Schizophrenia - Psychiatric Times",
+   "summary": "NDA Accepted: Olanzapine Extended-Release Injectable Suspension for Treatment of Schizophrenia Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMUNiWDktWTM1NWlldG4xbWN5eE5pNkVRVmRzWWJDMThQdnZoUFFGX0JyQXpxSDcyTjNKbTFiMi1KSjZBTmFsVEZhTjRVdVJTbms0M3daVUZBUmdSbFBsNFVJcUE2QUZ6MmRMWlotbndJXzNBd3VYTy1oSUFzLS1jTDlmNEY4VTI2eUZpdUx0YnRhMmtzMXhaVUNGMDBSNG5XWlNTNVZtYTk5VHVhXzVMbWtVaHN6VDRjWHNMOVR4T3o5QkVsMkpJMDVCUQ?oc=5",
+   "published": "2026-02-20T08:00:00Z",
+   "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a6eef2b45df947c2",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics to Present at Oppenheimer 36th Annual Healthcare Life Sciences Conference - Gain Therapeutics",
@@ -10938,6 +11983,17 @@
    "first_seen": null
   },
   {
+   "id": "34521dc572659dd8",
+   "company": "Transcend Therapeutics",
+   "title": "Novel Rapid-Acting Drug Proves Effective in Severe PTSD - MedPage Today",
+   "summary": "Novel Rapid-Acting Drug Proves Effective in Severe PTSD MedPage Today",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CcFBjSFRRdHlMc3VfUUNBWDVxX0lMTlZYai1jUkFwdlptck9OTmdfM0dpV1ExNy1kekhnMkxBVDZWUk5zUjlwOHNJbmhBTlFUaUJrcjZpRVdlSDJCa3pESWdrQ052MEZwWndzUQ?oc=5",
+   "published": "2026-02-18T08:00:00Z",
+   "outlet": "MedPage Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bded2ddac47822ee",
    "company": "Eli Lilly",
    "title": "A Study of Brenipatide in Adult Participants With Schizophrenia (RENEW-Scz-1) - Lilly Trials",
@@ -10967,6 +12023,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VcUIzclprXzkzWGVwR3Fyc2VlY2Q1WkxiSjNMY2MtWXp0Zm95Q2Z5MWdwbURKQ2s4bHNXb1Vlc2sxdndWUTFTQmdobnh4eUVu?oc=5",
    "published": "2026-02-16T08:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8f8ad8f8f9e76654",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Secures Up to EUR 38 Million to Advance Phase III Evenamide Program - Newron Pharmaceuticals",
+   "summary": "Newron Secures Up to EUR 38 Million to Advance Phase III Evenamide Program Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0daQUJwR3JUSXQyZEtPeVZsQVpwelVBZkt4eTMxdkFJSVFKMktpaVBheUstd05PTllsVFNVMVp6TjlyUXlPOHJPSm9ONVpxVXBJdFp5Sm1FYlpnUV81d0Q4UjFVTGNCb1hvVVNIa2RZd0lfVl91VlRaYlQybGNLUXZRRDVzQWYwVXVBbEk2aFFwaDB2bGcxd1B1dE96bjMtdkpfTWphYnR6eDJiNVhfeTdiUGVnb3RYWndj?oc=5",
+   "published": "2026-02-16T08:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -11178,6 +12245,28 @@
    "outlet": "Merz Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:02:35Z"
+  },
+  {
+   "id": "098a2151456dee50",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Notes Publication Highlighting Clinically Meaningful Benefits of Evenamide as an Adjunctive Treatment in Schizophrenia - Newron Pharmaceuticals",
+   "summary": "Newron Notes Publication Highlighting Clinically Meaningful Benefits of Evenamide as an Adjunctive Treatment in Schizophrenia Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXZ3eXdsVTd5eUJudzVHX0FtNXlIaW9vOTAzVl8xZGpKTzRJcldnazYxMUk1X2tFcU13UFQycWR2ZWQ2YldUakJrX1hyUWRyZ0c0T3Y1eERQV0JPdEVFSzY2dVZGeVowZjBXNzhubGlMbmJZYjk3R0ZNQXhsU2dxUUdmdmd2VWhNT0Fjb2Y3aUIydUlmX21iUGZBaWgxZnY5RG5DRERYMW55dUZQR0I3QVlhaGJEcEtKbWpUcnlfSQ?oc=5",
+   "published": "2026-02-03T08:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b5f6b546c77658a3",
+   "company": "Newron Pharmaceuticals",
+   "title": "NEW PUBLICATION - Newron Pharmaceuticals",
+   "summary": "NEW PUBLICATION Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lT0ZSM1IyUVlnZTFXT0xKWnExMFBETnN0Rm1HWHo0cTk3UEVGel9BdERnNWRfZ3pobDNvODlGRTBxV3RpN05LeWpVRmYwdnc?oc=5",
+   "published": "2026-02-03T06:18:20Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
   },
   {
    "id": "6d524eec1c8cc3b7",
@@ -11532,6 +12621,17 @@
    "first_seen": null
   },
   {
+   "id": "8e0886a3f823f21c",
+   "company": "Regeneron",
+   "title": "REGN Corporate Presentation - Feb 2025 - Regeneron",
+   "summary": "REGN Corporate Presentation - Feb 2025 Regeneron",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaWVzUERRaXpqUjNkc1NqUkc3QXFnRHh3aGtPS0V2LWVkN1gwOVZfY3hteHdLaFZidkRqVE9pV1NuRG1NR2Rra0RoMDQyb2g4SHpBZGxIaURNUG1BbWd0YzhWS0NMLTE0bk16Znh4SXJ2SDB5Z1RqTk8zQ1NJQXEzYWZIU3BVVHc?oc=5",
+   "published": "2026-01-12T08:00:00Z",
+   "outlet": "Regeneron",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "52403981680ece86",
    "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
    "title": "Eli Lilly and Company (LLY) to Acquire Ventyx Biosciences - Yahoo Finance",
@@ -11771,6 +12871,17 @@
    "published": "2026-01-06T08:00:00Z",
    "outlet": "Reuters",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "e54c62f7066f36ff",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Further Expands Intellectual Property Portfolio for Evenamide with New EU Composition of Matter Patent - Newron Pharmaceuticals",
+   "summary": "Newron Further Expands Intellectual Property Portfolio for Evenamide with New EU Composition of Matter Patent Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTN5NXVQa3BodnY1eEdQZmpVSUxzd1hzVm1wdjIydmlLV1NJSU1lSHJqTVZzRVRzdl9vb21DU3hWMFAwOUJTcEM4bHNmWnpoWVRSTUtQRXF0c0lRRkJmcUgzOVc4dHVUSTdvVlRWb0tzMWR0R0dGdnhpRUJNSHJxTzVTaHJKc3F3dktocnZJODBiSXpOUE5pLU5rbEZYV0hqdGVfd1o1Q25CamY2bkV6WWdfR0pxUDh6OVJpWjJQdw?oc=5",
+   "published": "2026-01-06T08:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -12181,6 +13292,17 @@
    "first_seen": null
   },
   {
+   "id": "71d09a671978a742",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight brightens SandboxAQ with new deal to discover new CNS candidates - Fierce Biotech",
+   "summary": "MapLight brightens SandboxAQ with new deal to discover new CNS candidates Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORTdoMldMQUUyeG5zaXYzbXZ6QnpibUtuVlZiN3RWOGJVbmp6Q1FJbmZScmtDVlF1SWRheUVtM1l2dXhJbzlXcXhlNDdST2FVbXhzTUxRRmcyWDBlRWFMUzdQVW91aDRadDk0Y1hHSlB4a1NVS3NRemxZeHktVy04eTIxSTNBVndRdEJwSWgyWlBOTG9jZ1V4QnNiZ2dSeFlNNzdpdThxcw?oc=5",
+   "published": "2025-12-16T08:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e10d89268c74e10e",
    "company": "Kenai Therapeutics",
    "title": "Kenai Therapeutics Announces First Patient Dosed in Phase 1 REPLACE™ Clinical Trial of Neuron Replacement Cell Therapy RNDP-001 for Idiopathic Parkinson’s Disease",
@@ -12189,6 +13311,17 @@
    "published": "2025-12-15T17:00:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "ac588e0340db2361",
+   "company": "Newron Pharmaceuticals",
+   "title": "Reports and Presentations 2026 - Newron Pharmaceuticals",
+   "summary": "Reports and Presentations 2026 Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JVExqaG8taWs4eEVHaFJMWkpGeU9JM2dzLXE0bjRzeF9zQV9kLVpfUDRUZ2RralA5Wk94Wk95djZoVkgwSDFjS3M1MjhyRDdPUGNsZjdFYmhERE5vZFBRSGZKcUZYZDZaYmNaLXpER29rajVhdFE?oc=5",
+   "published": "2025-12-15T12:58:10Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -12332,6 +13465,17 @@
    "published": "2025-12-08T08:00:00Z",
    "outlet": "Psychiatric Times",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "28607b588b4279dc",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron announces the US initiation of its ENIGMA-TRS 2 Phase III global clinical study with evenamide as an add-on therapy for patients with treatment-resistant schizophrenia (TRS) - Newron Pharmaceuticals",
+   "summary": "Newron announces the US initiation of its ENIGMA-TRS 2 Phase III global clinical study with evenamide as an add-on therapy for patients with treatment-resistant schizophrenia (TRS) Newron Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxPRWxMUm5qYVRxaGxGOEE2bFlhUnU5aGF6dGNaOFMxSVJReWFSakhWblFPOXFMV0N5T3ZqSk9vOWM3YTgzNnRqelJveE9jbFJRWDZLVXRBR2ZJOFlaWEF2MG8tTzZUaUZkandSUUZDbVI1Sm9vNnBJdURXRHFUb3V4eXZEWEVkd1dWanVYanc3eWdMZUVkckNBaTVuSnVrRWRiMHRDQWJIS0k5cnRCT3NVS0FXY3JXOWc?oc=5",
+   "published": "2025-12-08T08:00:00Z",
+   "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
