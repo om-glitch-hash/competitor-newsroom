@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:13:38Z",
+ "updated": "2026-11-19T17:16:02Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.mt-pharma.co.jp/e/news/",
@@ -2192,17 +2192,6 @@
    "first_seen": null
   },
   {
-   "id": "c9586dcd8455cb7c",
-   "company": "Johnson & Johnson (incl. Intra-Cellular)",
-   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
-   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWFvOUhrNXVuTkVzb0FJb3RjY3B0TXRON2hYb3E2ZGNsaFVuQTg5V0ZfZnlFZzBGZU5DQmF2anVBMXR1cmVGRXRCXzRQcW1GeE1FYXF0UC1hckJILWktT1F1RVlsSXlRSHA3WnJjckFZeWh4cE9UWWYxZklSRjRjQnJLTDFFMlVLZUVlUUNkVkpRRlVYWDBHZEU5TF9WRzd4SXpRX0U5RU90d1h1OVhSOWkycHFNdnMtYXh2aFBaRG5Zb2pCS3h2ckRVVnJvaG1uX2lKOFdkRFNnSlNmYnp1Skd3dVN5dlE3TFZJNGhwTS03Y1pmNWFCMHNWWU9xU2pGM3ppRS1LVk5xZk9rdlBIVk1SeGR6NVVNb2Z4Qi1TUlhackhBRkZGbXY4S0pqZm5aa2xBQg?oc=5",
-   "published": "2026-11-10T19:28:38Z",
-   "outlet": "Johnson & Johnson",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "38c0e02e355a8cfe",
    "company": "BioVie",
    "title": "BioVie Invited to Present Data on Bezisterim in Parkinson’s Disease at the AD/PD2027 International Conference on Alzheimer's & Parkinson’s Diseases - Yahoo Finance",
@@ -2211,6 +2200,17 @@
    "published": "2026-11-10T13:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c9586dcd8455cb7c",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
+   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTkhvOGlxN2tNRGpzTGFCZHJ4bmYxUGtHWUd6SGNMN01JV1Q4VGh5dGhtb3c3MkVrWENUc2NQaXhJSkJ0amNfaHBiWEstaXo3SGt5YXg2Q1pNUEVZM1QzYTJaZXBJOXpaOFFlSWI4YzVrbHRuLThPV2NxQUZsNEk0bmdndWFsNkhzcnBUNmQ1dVV3aHZMQ2ZLQzIzNHdEVE9JbGJuN0VoXzZNNlFodEFEM1hNWjRKOGpLanB3U3k1dXZtTTU1Y1dMazlzZ3RhYTFlS2ZvenBoZGVraWlPcXppQ3ktN0FEdElvalhxb2R4ZW9vRDFIQ19Mc2hnYTZpTDJyVDltUmRUUXo1TEs1UmMxSA?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -11414,7 +11414,7 @@
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting - Johnson & Johnson",
    "summary": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUjI2blNPVV9UbElmUmI4TGZUR1h0OG12V1NjOHNOUk5GSzJ6VWNUR2FfOVBiSW9MZ1E3blVBVFFOMGphalE5dlRIczJKYkVSNEtCX3VkZThiT2RIUlVoWno0ZFdYVHA3U2JDRzV3NXFyRjNiVE9tcTBBT0gzZWhZWGQwTTVRLUxObjBFNVczb0REdVFWOWk1WUktRmZDbG1Lbm4xN3VCSGo1X3EtZTNOX1ZrdDVGeUpSSjZfQ0lXdGlwelZEbmdZUFN5cUh3dFlyTldfc0lFbEV3TWRlVVFiN1dKTG5seExoMmdKOUhPOFFIMmdZdTlYM3h6aENVWEtEa0N5Rk5abGpsc3dnV3dfUkUzRDNZempSZ3hxLU9hbE9VVi1aNjBHaUYzVkljUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdFBDQnpnOWpNczB2Y0YzcUNtSnNpa1ZfdnpYVWFGbTZaSjhfR1dIQTM3UEZFRDJLcjRnY09KS3NzMmtJWlJVeW93T0NNc2dESXpLb2JKd09YZUxsRU9LcDJsQ0c0ZTBVSkZVb0FxdkxIcFRUbldXaDBadzNpRURVWkdRSk00aEZuX3RwQzRvTHFFRDZRVUE3d0c1Y1pDTHV6emY3Sk82V1FwcnozSU42TzNJdm5VcXl0Sm1qdUJBYmRSVFN3TVkwTHYxdUhzeUJnUUxjd3l1UlpmRlc1U0VSdHJBbUZubWdwSEx3aGVDc09pX0FoUGQwbGFmVEZxT3pOSFR1WE5VeFM1UQ?oc=5",
    "published": "2026-01-13T08:00:00Z",
    "outlet": "Johnson & Johnson",
    "method": "newsroom via Google News (site:)",
@@ -11571,6 +11571,17 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRm1SRGRtTTlDRi16THJXc1FnNURWQy1EMUM1dDNjX0paSExfM2FSZTUxNGhVQkstN243TkgzQXZXUmNXaW1sYVpzcXlYbjF6LVdyQ3VXOGZtQzJaNERPQjh2WTZCZjhwWURxNXdRTVA4TnZKMVBSLV9OODFkN1RnZnIzSHp5QlQ0aWJ4cU9nMGVZNnNUZWtCdmtfcTRhc3Q0QS1jOWwwZW1nTmNjUzF2ekxXTVo3c21oQkRwMmtNNEF4amVBSFR6S3Nn?oc=5",
    "published": "2026-01-08T08:00:00Z",
    "outlet": "European Pharmaceutical Review",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "8e7f4f1cfc8cba76",
+   "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
+   "title": "Lilly Snags Ventyx For $1.2 Billion; Who Else Benefits? - Investor's Business Daily",
+   "summary": "Lilly Snags Ventyx For $1.2 Billion; Who Else Benefits? Investor's Business Daily",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcE9BWmRRZDFpWXpKVWczUS1sM0thLUtZZ3Bndk5qZEJzekN4a2s3NDhNTml4VjJ4VmRQcGxnQzFnX0RlanFRVmpIUlBPWVEyNW1LX1EycnpyM1JVUHhncnZ3d1BKLWRCWnFLa3hZNl96dGZ5ZzFjRTdrVDJBQlZ2djBGUDNaT3ZPQUxYbA?oc=5",
+   "published": "2026-01-08T08:00:00Z",
+   "outlet": "Investor's Business Daily",
    "method": "news search (no newsroom found)",
    "first_seen": null
   },
