@@ -8,6 +8,7 @@ Each company gets a news source chosen in this order:
   3. Google News RSS limited to the company's own site (site:domain + keywords)
   4. A Google News search on `search` (or the company name), for small companies whose
      sites Google News doesn't index, or companies with no website listed
+Companies with a `scrape:` block skip all of this: their news page is read directly.
 
 Feed choices are cached in data/feeds.json and re-checked weekly or when a feed breaks.
 Feed health per company goes to data/status.json (shown on the dashboard's Sources tab).
@@ -193,8 +194,49 @@ def matches(keywords: list[str] | None, text: str) -> bool:
     return any(k.lower() in low for k in keywords)
 
 
+DATE_FORMATS = ["%B %d, %Y", "%b %d, %Y", "%Y-%m-%d", "%Y.%m.%d", "%Y/%m/%d",
+                "%d %B %Y", "%d %b %Y", "%d.%m.%Y", "%m/%d/%Y"]
+
+
+def parse_date(text: str) -> datetime | None:
+    text = re.sub(r"\s+", " ", (text or "").strip())
+    for fmt in DATE_FORMATS:
+        try:
+            return datetime.strptime(text, fmt).replace(hour=12, tzinfo=timezone.utc)
+        except ValueError:
+            continue
+    return None
+
+
+def scrape_page(url: str, cfg: dict) -> list[dict] | None:
+    """For newsrooms with no RSS: read items straight off the news page with CSS selectors.
+
+    cfg: {item: <selector for each news entry>, title: <selector inside item>,
+          date: <selector inside item>, link: <optional selector for the <a>>}
+    """
+    r = get(url)
+    if not r:
+        return None
+    soup = BeautifulSoup(r.text, "html.parser")
+    entries = []
+    for node in soup.select(cfg["item"])[:60]:
+        t = node.select_one(cfg["title"]) if cfg.get("title") else node
+        d = node.select_one(cfg["date"]) if cfg.get("date") else None
+        a = node if node.name == "a" else (node.select_one(cfg.get("link", "a")) or node.find("a"))
+        title = t.get_text(" ", strip=True) if t else ""
+        if not title or not a or not a.get("href"):
+            continue
+        pub = parse_date(d.get_text(" ", strip=True)) if d else None
+        entries.append({"title": title, "summary": "", "link": urljoin(r.url, a["href"]),
+                        "published_dt": pub})
+    return entries or None
+
+
 def process(company: dict, cache: dict) -> tuple[list[dict], dict]:
     name = company["name"]
+    if company.get("scrape"):
+        entries = scrape_page(company["site"], company["scrape"])
+        return build_items(company, entries, {"feed": company["site"], "method": "newsroom page (scraped)"})
     cached = cache.get(name)
     sig = json.dumps([company.get(k) for k in ("site", "rss", "search", "keywords")])
     fresh = (cached and cached.get("sig") == sig
@@ -211,38 +253,46 @@ def process(company: dict, cache: dict) -> tuple[list[dict], dict]:
     choice.update({"sig": sig, "checked": choice["checked"] if reused else iso(now)})
     cache[name] = choice
 
+    entries = None
+    if fp is not None:
+        entries = [{"title": e.get("title", ""), "summary": e.get("summary", "") or e.get("description", ""),
+                    "link": e.get("link", ""), "published_dt": entry_time(e),
+                    "outlet": e["source"].get("title", "") if isinstance(e.get("source"), dict) else ""}
+                   for e in fp.entries]
+    return build_items(company, entries, choice)
+
+
+def build_items(company: dict, entries: list[dict] | None, choice: dict) -> tuple[list[dict], dict]:
+    name = company["name"]
     status = {"company": name, "site": company.get("site"), "feed": choice["feed"],
-              "method": choice["method"], "ok": fp is not None, "items": 0,
+              "method": choice["method"], "ok": entries is not None, "items": 0,
               "latest": None, "verify": bool(company.get("verify")),
               "checked": iso(now)}
     items = []
-    if fp is None:
+    if entries is None:
         status["error"] = "feed unreachable or empty"
         return items, status
 
-    for e in fp.entries[:60]:
-        title = clean(e.get("title", ""), 300)
-        summary = clean(e.get("summary", "") or e.get("description", ""))
+    # Google News queries already include the keywords; filter only direct newsroom sources
+    direct = "rss" in choice["method"] or "scraped" in choice["method"]
+    for e in entries[:60]:
+        title = clean(e["title"], 300)
+        summary = clean(e.get("summary", ""))
         if not title:
             continue
-        # Google News queries already include the keywords; only filter direct RSS feeds
-        if "rss" in choice["method"] and not matches(company.get("keywords"), f"{title} {summary}"):
+        if direct and not matches(company.get("keywords"), f"{title} {summary}"):
             continue
-        link = e.get("link", "")
-        published = entry_time(e)
+        published = e.get("published_dt")
         if published and published < now - timedelta(days=KEEP_DAYS):
             continue
-        src = ""
-        if isinstance(e.get("source"), dict):
-            src = e["source"].get("title", "")
         items.append({
             "id": hashlib.sha1(f"{name}|{title.lower()}".encode()).hexdigest()[:16],
             "company": name,
             "title": title,
             "summary": summary if summary.lower() != title.lower() else "",
-            "link": link,
+            "link": e.get("link", ""),
             "published": iso(published) if published else None,
-            "outlet": src,
+            "outlet": e.get("outlet", ""),
             "method": choice["method"],
         })
     status["items"] = len(items)
