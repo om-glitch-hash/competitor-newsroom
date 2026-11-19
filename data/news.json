@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:19:05Z",
+ "updated": "2026-11-19T17:19:58Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1685,6 +1685,17 @@
    "outlet": "The Des Moines Register",
    "method": "news search (no newsroom found)",
    "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "d910f78684c06ac8",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "Tanabe Pharma Announces Wind-Down of Operations at Its Wholly Owned Subsidiary NeuroDerm Ltd.",
+   "summary": "",
+   "link": "https://www.tanabe-pharma.com/en/news/rel_261119/main/0/link/e_rel_261119.pdf",
+   "published": "2026-11-19T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
+   "first_seen": "2026-11-19T17:19:58Z"
   },
   {
    "id": "e2195e1544bb527e",
@@ -8471,6 +8482,17 @@
    "published": "2026-05-01T01:24:44Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "b9da5bf5ce10fb84",
+   "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
+   "title": "European Commission Grants Marketing Authorization for Onerji® for the Treatment of Parkinson’s Disease",
+   "summary": "",
+   "link": "https://www.tanabe-pharma.com/en/news/rel_260430/main/0/link/e_rel_260430.pdf",
+   "published": "2026-04-30T12:00:00Z",
+   "outlet": "",
+   "method": "newsroom page (scraped)",
    "first_seen": null
   },
   {
