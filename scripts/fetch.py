@@ -124,9 +124,9 @@ def discover(company: dict) -> dict:
     """Pick the best working news source for a company, in priority order."""
     site = company.get("site")
     if company.get("rss"):
-    fp = parse_feed(company["rss"])
-    if fp:
-        return {"feed": company["rss"], "method": "rss (configured)"}
+        fp = parse_feed(company["rss"])
+        if fp:
+            return {"feed": company["rss"], "method": "rss (configured)"}
         # configured feed unreachable (moved, or blocks GitHub's servers): try the rest
 
     if site:
@@ -167,9 +167,11 @@ def discover(company: dict) -> dict:
         if len(parts) > 2 and parts[0] in {"ir", "investor", "investors", "news", "media"}:
             domain = ".".join(parts[1:])
         gn = google_news_url(f"site:{domain}" + or_terms(company.get("keywords")))
-                fp = parse_feed(gn)
+        fp = parse_feed(gn)
         if fp and is_fresh(fp):              # nothing in 4 months = treat as not indexed
             return {"feed": gn, "method": "newsroom via Google News (site:)"}
+        # Small companies' own sites often aren't indexed by Google News: search the
+        # company name instead, which picks up their wire releases (GlobeNewswire etc.)
         return {"feed": google_news_url(name_query(company)), "method": "news search (newsroom not indexed)"}
 
     return {"feed": google_news_url(name_query(company)), "method": "news search (no newsroom found)"}
