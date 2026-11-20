@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:38:46Z",
+ "updated": "2026-11-20T21:19:10Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -7928,7 +7928,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Participate in the H.C. Wainwright 28th Annual Global Investment Conference - TG Therapeutics",
    "summary": "TG Therapeutics to Participate in the H.C. Wainwright 28th Annual Global Investment Conference TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9CQ3p4bHNGeFpBb0lwc0VOZC13ejNWcmlneU04WTdKbDlWd0hHMy1Eb1JJWnI3NjktaEUzVlp3czBGenhyU19ya3Jnbld6ZExhR1RwTVpPdDFUUFVWSU5iRGtIeTlBcTFzWXNqOHlrY1B5RENrT2ctY1JacnRUX3E2a0ppV1NCUmtkcEZHcldrUlRDTDg5NGt2R2w3OHZnLVNGQXBGTlVkZUxmQ2J4XzExbzVCLTJBM0JyN0VlR1BrT2s?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nYVJILUlDX2s0a2ZqVE1OUHBlUGNiX2NGSlI1dFNpU0RreWJzRm8wcGJWUEJuZWxkVmt0elN4VWU4azNRNVFCU3JaM0N2ejBiTTVwRXFrWQ?oc=5",
    "published": "2026-09-10T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -9153,6 +9153,17 @@
    "published": "2026-08-13T07:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f6503b0431acc7c0",
+   "company": "Remepy",
+   "title": "Remepy secures $36m funding for hybrid drug pipeline expansion - Remepy",
+   "summary": "Remepy secures $36m funding for hybrid drug pipeline expansion Remepy",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkJNd19LcU85WExkbkplT1ZPc2hVV2VCTkRQOHFVOTVSQUgyUDJfUGUzY3ZtZ0JLNnRuZ3M0TTlkNmF2WkRxNHlqbUVZaFVxcF9Xa0I3N1BwcjBIODN6U0pIWE1EaXNjN0Z4YVVTRXJDNk9MYlQ3aHdrc2hTd1dMblFRRzZHZVo4cmpnbmNadmhETTQ?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "Remepy",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -12874,6 +12885,17 @@
    "first_seen": null
   },
   {
+   "id": "8de03799d72a26e8",
+   "company": "Cerevance",
+   "title": "Cerevance - Cerevance",
+   "summary": "Cerevance Cerevance",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYWkybUV4b0I0NmxnX0w5VXNzODcteTdFUTRxYWJvcjNRQ3VUcnlYYTZNSUlNLXJHaVdNeFV1MWxuU0ZCenFlUkJjSHcyQlZWZ0RsejRpRW5GOWtrdS1WaG9rTms5UkNBZ2RHY3NmbThiVHNoWlc3SlJ5WHlHcW9HRTBnbk1EeXhmdkFKXzd1V3h0SVFnU2hNb1lOMW14SUZ6T05PUTB5bnp0TUp6ZkJEZ1RZNTFrRmVXb3FiVVhtYW83OWZrNmgyX0NjMXhSLXVrb3lpcEN5bmdLRWVBRmtOeUFTdWkyNVZrNGVoSUNaU1pqVE80M21sVW9BUWtwampCYXdwQlpNUHRXTzg?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "Cerevance",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "586be46e3d15697d",
    "company": "Reunion Neuroscience",
    "title": "Reunion Neuroscience to Present Full Data from RECONNECT Phase 2 Clinical Trial at Upcoming ASCP and APA Annual Meetings",
@@ -14355,6 +14377,17 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YUEVVcTVXN190aVBQVW55Y29RUldYeGtYTDA1Vl9LN3ptRmpXOXlsdGJMQ0ZCS2xvMllYYWRYaFk5ZUhoOTVSUGpiRTRmSEozODM1MTRraUtfVEhqWVdCX3c4U01MRDRKSlE?oc=5",
    "published": "2026-04-08T07:00:00Z",
    "outlet": "Vanda Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "4187e867bb791468",
+   "company": "Cerevance",
+   "title": "Cerevance: - Cerevance",
+   "summary": "Cerevance: Cerevance",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2FnU1h0LWVUbkJWZzdYZUczRTlhcHJXT2JtRmVMX2QwZTlieWxkRzU0YWI5S3JtZUNFZlVhWkQ1RkU2Z3NFRTdqdG5FVlJVQURyRkFadm5yZGJNS0wtV1B0eV9EZEVtSFNhQkdTemszQWRwUE92eC14aVlNN1ZNNEY2SHRvV1RlMXg0RXlrNlVJVTl3WlBKdlM2eFhNVmxRU2s2c3ptQVJuUXdrNEVMNTBZRQ?oc=5",
+   "published": "2026-04-08T07:00:00Z",
+   "outlet": "Cerevance",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -16215,17 +16248,6 @@
    "published": "2026-02-23T11:39:49Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "4187e867bb791468",
-   "company": "Cerevance",
-   "title": "Cerevance: - Cerevance",
-   "summary": "Cerevance: Cerevance",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalM5aS1GRnkyVkYzdnYzS0Mtc3BwVThrb196cEl3NUhwRUZxSVFhR1NmamNwVzJqdlY0Y1g5RmM1cUxrQ1NadHY3WS1RT3lhMzA5UXdLQ2UtN3IyblU2WWppcVN3Q0U1Z0xtVVBsYkEzRmxDV2VKOUh3bmEzcmpCdjBtbmhFWDR5OTVqTDJqUkNvMTZpVWVnaTdqa21LRkVJbFIwejBQSnJFY1E?oc=5",
-   "published": "2026-02-23T08:00:00Z",
-   "outlet": "Cerevance",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -18722,17 +18744,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUtYbnU2RzZZV0dhTTlaQjBtbEk1UU5Bd2d4QldxZ283VmF3WWpiRUpQbHk3TkFfVWt4VTlzNjJ4c3JCV2tWdzhlVk5nenJWQmtpMTNubE10eDBKUEF5S1laTjg3ekRDdURScEdhc2dnaUpMLW1BVURoRHJSbi1SclhuWV9wZWU3SWZRbmNmZXduWEl5QWM2TVFuSVdKRTBSNEI1b1J1bUlsVHNlWjMxN01fNFVMQXVLZ3RLRmpld1RWZnZ3QlR0SEtuOA?oc=5",
    "published": "2025-11-25T08:00:00Z",
    "outlet": "Xenon Pharmaceuticals Inc.",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "8de03799d72a26e8",
-   "company": "Cerevance",
-   "title": "Cerevance - Cerevance",
-   "summary": "Cerevance Cerevance",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS21BQmlzVTgtSXFpQVd3U1MzYlpLU29HM0Rub292dmlHQTluSWRYanREWDZLQmVaQkN1QmNBLVdteWNTNFc4Um92djduWHVmc1IyLW1LNF9IdmtQclNzQWtXaUwxTmdXTDJmVTI3aGNCWWUxZGFHZmE5elJVMGVvSDRadUoxSGU4eWEwa0pmSUR4eVdTdGpMa1lGTXRtUDNxb0p5UGVTbS1lazhhV19KRkw2UFcyRGhhakRMQi02VDdibWFFSjZFMEVpNUZ1TFVhR0s2UEdsR1MzRklnMGxHRHd3TEU?oc=5",
-   "published": "2025-11-24T08:00:00Z",
-   "outlet": "Cerevance",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
