@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:07:16Z",
+ "updated": "2026-11-20T12:04:08Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,39 @@
  },
  "items": [
   {
+   "id": "d650cfd1e5b7c2c7",
+   "company": "Alterity Therapeutics",
+   "title": "PwC resigns as auditor of Alterity Therapeutics (ATHE), which has a shareholder-approved successor. - Stock Titan",
+   "summary": "PwC resigns as auditor of Alterity Therapeutics (ATHE), which has a shareholder-approved successor. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXhfaGtDYzYyOS1sa05rZk5xZHVBR2xPWWJrMzZzQnRHak9IVUxDQ0N3ZG1qU2xscURuMFNJQXg2cldYbkdmZWNGYVFTVS1EZzJJQkdMdUtiOFdXdVlFOGFoLV9HaklnZ0pqX2RBMEVJelpZRU1CWUo2OFlMWHJTSWROd0lYU1U5MndEZ1BFT2p2a09SMU5ndEs4TzdEQ1k5QUZPNEg2aXBsLTlDZ1NLVUhxZERKV1JDaHY2bXl3?oc=5",
+   "published": "2026-11-20T11:05:03Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T12:04:08Z"
+  },
+  {
+   "id": "034622ff7fc1fe9a",
+   "company": "Alterity Therapeutics",
+   "title": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) - Stock Titan",
+   "summary": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObExhaHpLb3VlTzZGbGpWTHRzeEhmaDB3TVZaa1Z2NlQtZmVORzVzRzhLeFk2ZWdJczdmczB0dkhRR1V6WUFoeUZyYkVtbnBQWHRUeVl0LVVUYzlHckNxRUZXWDd6dEtnY0dpNG9VYUltaHRSVFFIcl9DU3RjaUtZZWhzREV2SHlCUHFSQWtQeUZMOHJRdkxNb2pYNkZfQmNvWnlhUTVYaEctd0twNU0wWkZLNld1RlNWbGhJXzJ3?oc=5",
+   "published": "2026-11-20T11:03:29Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T12:04:08Z"
+  },
+  {
+   "id": "bdc650abff8522f6",
+   "company": "Alterity Therapeutics",
+   "title": "A new U.S. patent extends ATH434 protection to 2045. Alterity (ATHE) is preparing for Phase 3. - Stock Titan",
+   "summary": "A new U.S. patent extends ATH434 protection to 2045. Alterity (ATHE) is preparing for Phase 3. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSFBNY19UbHdNbkJxLUN6VmZPemdZNHFtWG43VlczdjEwOV9OT3JCWXRGU0F6SkFiMTVvZmFpNlJFVGlhdTZ0aGF0WXhoSHNfa1o1MV9OTFo1V1E1R3lvcjFBS09UdmxDeDhGUUZvQTRJNTFRbF9xX0FITllDZUpRaGdORlBvRmkxc2tGeDRhMnljQ1Jvd0RhZmpWN3BtbXpNaDBvWkx0UHdGZzBwZ09kWjhZNjNDX01TZTRHajRR?oc=5",
+   "published": "2026-11-20T11:03:27Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T12:04:08Z"
+  },
+  {
    "id": "5610eb6b0384494e",
    "company": "Novartis",
    "title": "PS&PV Intern - Novartis",
@@ -1663,6 +1696,17 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-20T11:07:16Z"
+  },
+  {
+   "id": "c17435afc147177f",
+   "company": "Novartis",
+   "title": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) - Novartis",
+   "summary": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNUt4aWQzd3FSN25GLUhfTTVLZjhUNjBmMk1KS0UzVjRQNVROTHd2dGVsUTBFVzZvZ1NvQm4zWDU5dmt0X25OQmlIbWFsU3d1VmdyeVdYbkJ3eFkzZjd0ck51S2NVbWFkM3F2NmtFcE1Ob1NpNjZzYjByV0JUTGp1UXhxb1dDTm9KUDluaWl4dU9ZT0pGbXhpaXVadDRFa0RLUzZvOG9LckFaa3ZkYlNtbC1wTjdlOHZETlI2SHU3Tm1SNFNVa2F3VV9jOW1fdHlyejh1Rk91aGN4aXc?oc=5",
+   "published": "2026-11-20T05:13:46Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T12:04:08Z"
   },
   {
    "id": "9de54c46c4b9f139",
@@ -3029,6 +3073,17 @@
    "first_seen": null
   },
   {
+   "id": "50314e1266739c5d",
+   "company": "Supernus",
+   "title": "Supernus Pharmaceuticals Legacy Annuals and Proxies - Supernus Pharmaceuticals",
+   "summary": "Supernus Pharmaceuticals Legacy Annuals and Proxies Supernus Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd2wyd1JzNmtRNE9VNXJoU2p1RjhpVDczSXlIUmN0YUxUdFI3UVJ0YjRRc1BuWHZyRTY4TkNHYXREbmxKRUdvNjVwdmdWU2M3cTJTZjR5SUhqOWlyRktabEc5ajN3ZlZhVTRCa0NkN3Q5Y3ZTU0ozci1DSzA5NkxwVzg2U1pWcFE3dm5CWVFZQXVBV3VKMG9NTFNaMklhQQ?oc=5",
+   "published": "2026-11-11T08:33:38Z",
+   "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "17cbd88f6917ad07",
    "company": "Teva",
    "title": "Teva Shares Innovative Pipeline Updates and Unveils Path to Future Growth at R&D Day, Targeting $6–7 Billion in Innovative Medicines Revenue by 2030 - Teva Pharmaceuticals",
@@ -3355,6 +3410,17 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUFqWVNNNjBydDJfZUVsY1RwQmFaWTZoYUthZV9DaVVNcXRjd0o3eDhVVGVrMElPbzNVZlNoWDNheHFfbWV4QzBYUTRNbVdISGIzU3d2Y2pSYXFGbHBfUHJDZkRCTG5pYkVvWlJ6aDJsV3QzTFg2UXdHcVBxT0tUZ1RsdVppSllWX0hpS1RpcHhaTng0N1BPbXFpUUMzcFVFa2lEblJSYzFnaVY5Q19MYUN6Yzg5NW55TDZBRE5ObTA4bUdka2ZNbg?oc=5",
    "published": "2026-11-09T08:00:00Z",
    "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b334a4d69b06ecd4",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Report Q3 2026 Financial Results on November 9, 2026 - Xenon Pharmaceuticals",
+   "summary": "Xenon to Report Q3 2026 Financial Results on November 9, 2026 Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlh4QWlkckpkRU10bkJqWWhhTHB5OWtQQnQ4R2J3cVpRUG5IaFp5aGVwM3Q3NHdfQlVkOTNXYk02bktFbENFREhtYUFLLTBralFqdWJXRGFySlBVNzliYXNySzZJY0g5X01lamF4MWRQZlVJM0hmQVJNdFFlbG04UDFXS1lyOHM0OXF1VXNESnV1N09DNnViUjhCakdkZE9jc2dmWEVGRGlVaVpFdmg3NVpxSEFfWjhWOFdxWW9McmY?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3722,6 +3788,17 @@
    "first_seen": null
   },
   {
+   "id": "2cf35cbec44fb95a",
+   "company": "Idorsia",
+   "title": "Media Release - Idorsia",
+   "summary": "Media release Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmJYcXUyN0V2bG4xbWx0TFNPeDUwaE5LWTN1c1BtRURGZmNyTVk1amQyRWNweTNCNC1uWkZsWlNNdTdmclBCX0NPcnZ2S2FqQXRjanQ0U1I2aWd0QjZ1Y2tJeXRET1F2R3dMN24zbk80b3dsQUZrQmFoOXlIM0ZCaXdSX2tfblNTOWJpU0I5bVo3QUkxTkNkU1gycG1Gdw?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Idorsia",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "aa94d8a73b860333",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
@@ -3755,6 +3832,17 @@
    "first_seen": null
   },
   {
+   "id": "6600a28430b239ae",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Present at Upcoming Investor Conferences - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon to Present at Upcoming Investor Conferences Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTdSRGhuRzg4RmVqaDRxaGZYekNFd190bHRGUDI5Q216VFdsekRZSDRXR3doN25ZLVpNUGl4cFFBcWtEMVFzQkhlQlBhV2tVaExsTTYxaDczbmdoaGkyQU9KMEowUHNuaE4xY2JybThhQ0FCb1hTRE1lNlRObzhNYVp6RUdFUF8ycVF1WHpvX2lvOGJrR3pmby1lOWZ6ZWo4aWNzRHBSdFR6NkRqSW9fSEhNVWw?oc=5",
+   "published": "2026-11-03T21:01:38Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "cec5629737d7fed7",
    "company": "Alkermes",
    "title": "Alkermes to Present at Upcoming Investor Conferences - Alkermes",
@@ -3766,6 +3854,17 @@
    "first_seen": null
   },
   {
+   "id": "2964af61e0b69b9c",
+   "company": "Novartis",
+   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
+   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEtfRkQzN1dHWWlDRjJRMlNDQ3htOUs3SjlnYnRqbURsM09HMFctWnZCOGFnWTdlZjA0bno3NzJHaW9IdzlZX1Y3Wm1TRHl3SDlLb2F3OHpkTlVla2I5dFJSUTgwVWc4bFVTWklERHVHa2lzM3RGbUc0c2NLQTFGM09RQTF0OEF2S3oycy1YMnRGSTFPRDExMzJxSUE0TjhfeW9IQ3Q1emNoVGxCZlR6clA0Q0o4STFhWl90R0E3dG5MZzREcnUwMndpMnA?oc=5",
+   "published": "2026-11-03T18:44:07Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "17ce1787bed6665c",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Guggenheim 3rd Annual Healthcare Innovation Conference - Helus Pharma",
@@ -3773,17 +3872,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWktsMkk2YU9vdmNJNmFkMEs2YmVIbm9Kb1BoY2p3R0U2V051WndHajAtSVlsTzdzelR0ZHZkSEYybGdGenJnazh3a1N1NUZaOHRqb0VoMHB5UDdLdWpYSDlXSEp2V1lmdUxnVnY0TlhrdVd5bTNua082cUQ5UkREZW5tb3NsVjN2U0lEa29nWjk2cUV4VUtMTEdpWW8?oc=5",
    "published": "2026-11-03T16:01:40Z",
    "outlet": "Helus Pharma",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "2964af61e0b69b9c",
-   "company": "Novartis",
-   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
-   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNlJOSnBqeHdnUW85OHNEYkIxMEZtcU11YVR0N0JhTUwyd3lHZHNIZ0F1bWZuVUxLNE5MUzJWNHBvNHRyRFpxOHF2cEFmN0F2ZlN1cUhYLWN3emp3YmtoRWFQOTFSSm1WOE5RU2xFWmZjUHJDOFdZem95ZHJmTFlISTBYRHFkYldRQUVoUjVUaVlGM3lla3l3Yk5WaDJEX3FvTzZ4RGJubGIyMjVaQjFodnlOYVd1NDF1QzRLeWlsclN6cm9pdWJHcHIzV2Y?oc=5",
-   "published": "2026-11-03T15:54:58Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3862,17 +3950,6 @@
    "published": "2026-11-03T11:30:00Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "b2d81312b5f66a65",
-   "company": "Novartis",
-   "title": "Neuroscience Territory Account Specialist – New York City - Novartis",
-   "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjVuclN5dG5iVHpvSGxXZ1BIdzg0cGp5cFQ0VW1BSlRUb1dRQk5OaHdsbG5pQlpuODNJN2xQUWNudlFkeE9mdEpGSVppdEE5d3d6U2dmdXRBaVJIMW85cl9vV2JIQS1zaV93U1F6TUdpMUJSRFd5T1Z5M1dJVHV1R1l1TU9HdjJmRmhjSEMySWpqV19UNGZHOVJIU3lPV1M4OXhjSjU5RTNDeG1yemstZHNoTDdyNDlpVHpfVDloZmwwRU5FbWE0UFFYcWNZQQ?oc=5",
-   "published": "2026-11-03T10:29:10Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -4342,7 +4419,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -4899,17 +4976,6 @@
    "first_seen": null
   },
   {
-   "id": "2cf35cbec44fb95a",
-   "company": "Idorsia",
-   "title": "Media Release - Idorsia",
-   "summary": "Media release Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmt2TDZucDZsaGMxdkRjdGE1UGNzMGNBRHdiaG1mVjhUQWMzSHQ1ei1keTJ3a1d6TlgyaEkxZHVQaFNVckxaQ3YxX2ZJRGozNEdTdnNQaEtzLWRteVJoOGtud1lwbVhPOGxKNFBOX2gwa1BMMG9UVVV2bl96ZTZuZHdSVnBVRDY3N0ZYdGhuSmtGVGI5aDZhVG5nRWRYZw?oc=5",
-   "published": "2026-10-23T07:00:00Z",
-   "outlet": "Idorsia",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "9c54b69f8794f227",
    "company": "Resilient Pharmaceuticals (ex-Lykos)",
    "title": "Exclusive | MDMA-assisted therapy could get FDA approval as soon as January: advocate - New York Post",
@@ -5090,7 +5156,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGFUbVF4WlEtdno3dzZxUmxzOWdXMHIxM3c0c0FnLTJqN0VvaEpqTjNGTmNaOVpOUWlRSU9jS2tWX3hpeEV3Qm96R180UFVYVTcwZ0VZaEptd1BxT3dmLXlaS0dTT0REUjg2QkpFNnZBdzJMcXdvNkYyaXZHTHhrUUpna2lXNUVCRDRNSFExLUdwMzVERWtnbmJZQVJ3ajZEdWJtWGM3dTdpY0JEOTJXTUVkcTNUNEtIQTMwMHdjRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxZm0tN3FPTkVuazVGa2s3bXQtMHpIeTNoLVc0ckJ5d2YxdnZCNEkxZGx0WWFham9ldTVtbFV0aVRJRFF1a3czaFFMRVhPNUE?oc=5",
    "published": "2026-10-21T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -7825,17 +7891,6 @@
    "first_seen": null
   },
   {
-   "id": "bdd618755bc8368b",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics to Participate in Upcoming Investor Conferences - Rapport Therapeutics",
-   "summary": "Rapport Therapeutics to Participate in Upcoming Investor Conferences Rapport Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkRmJ3MXlQZFNyckZMRV9YWVZkdElYOW9vWkxnZm9Wa1dTeVdTZHBIcHdwdG5fZi1NUzA4YVRJaERacWVnSGZiYmFqZ2ZfZGlGelBHWFA2bGw?oc=5",
-   "published": "2026-09-02T07:00:00Z",
-   "outlet": "Rapport Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "855a2bd7183c8974",
    "company": "Luye Pharma",
    "title": "Luye Pharma Announces 2026 Interim Results - 绿叶制药集团",
@@ -9167,17 +9222,6 @@
    "first_seen": null
   },
   {
-   "id": "8fa99be7fd7c00ad",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update - Rapport Therapeutics",
-   "summary": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update Rapport Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1BQZkl2ZUY5TG5qcGNJTGJha2k1UnVNWUxTYmRKcmhwQkdIZjFsUzE5ekMzd0pPN2w0SmRwYkdJME5pYmR1OEhFN3ctdUN2TnN5aHRuUEduVGxBS2JhT2RkeGFrM1Uza2x6SHBRSTRfcXdxVXA4WGxhTkY4cDg0dXU1akk2bzF6UXZiLXEtTkhnc3RFYUF0Z2dzRDdjTGxpZG5OTGJaX3ptOXVfTTNsXzJxQVVMNFRlR3lFMTN2RkVjYWo0ZDdMX0FYTQ?oc=5",
-   "published": "2026-08-05T15:58:00Z",
-   "outlet": "Rapport Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "08baa1c3d8a5f303",
    "company": "Novartis",
    "title": "Sales Representative, Neuroscience- Central & South Area - Novartis",
@@ -9185,6 +9229,17 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFRsT1dSSGJsaks3MjlqOFh5SE5sN0FDZmxQbkdKNEZMTnUzX1RaSWFMbHBmdlFhQVdFSEJDWl9JX2xhX3F2SDBWalg1NmplbU1xMXYwSDlWUmszdmRORXMzX3Y0Q0RweFd2dHc1WkRNbWdoSE52bUxZaGFHTFZadnZmVkVGbkY2cENvVXQ3b3ZVY0N0eEUtYmgxSTc4Q3p3R2oyOVFrUTk5VDJjbUsxbXh5eGx0cWR5WEN3dnJXdkVqSURzTDJCN2Rn?oc=5",
    "published": "2026-08-05T12:17:13Z",
    "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8fa99be7fd7c00ad",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update - Rapport Therapeutics",
+   "summary": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update Rapport Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GSy1EYkVyVTRwSDMyQjBfdTB2eGV2VW9CZU95TmRjdUNpMjQ4LUstNnhlRjlvTzZ0b3c5a2lnQjRwc1ZlQ3pfcHBTUGpCYkN1RkJEeHZab28?oc=5",
+   "published": "2026-08-05T07:00:00Z",
+   "outlet": "Rapport Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -9966,6 +10021,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3BiYmhjMlI1OWNMZXMzTGpTOV9ybGhMSVVwVGZ4VGVWX0xuXzNPcjFmVUozNlFHaVZFWTJBek1LbGRkQzlYeVRucVRFRk5sMVpTaldkengwTjUzekY4S3k0UXBCWWZzR3JsbUh2ZUhFVTU4ZDlRWXk5emI4a0VYcFI0bkNvSWtoenFCUjJmNXp1aDZOZFVhTHlEN3YzOFJscm1rYXA1dkJ3UGFvbExQT3pOUlpjN29XcTNN?oc=5",
    "published": "2026-07-21T07:00:00Z",
    "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b2d81312b5f66a65",
+   "company": "Novartis",
+   "title": "Neuroscience Territory Account Specialist – New York City - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2VQWlhJem1hUjF6N1JuMzRYR1ZfNDhXazJMMmlZMTZZQWpsQUZiejBTRHZDbVE0dzRpR3NhYUt6V1RibkR1bHVZMUc0N1UwZXNvZFBla0lMd1ExcUNUMk1kQ21KOXR3al9GNEx6SE1aaGhwQV9yZkxpQmE2WXRyemQ5ZndXWEdqdU1TRlMzLXNpWW9hbFpQOTdPYVk0SXJrTTFwblIwUTJZelpFLTNtb3B0c3p0UGw1NUtKeFdZOENsVDhhUkE?oc=5",
+   "published": "2026-07-21T00:57:02Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13314,17 +13380,6 @@
    "first_seen": null
   },
   {
-   "id": "6600a28430b239ae",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon to Present at Upcoming Investor Conferences - Xenon Pharmaceuticals Inc.",
-   "summary": "Xenon to Present at Upcoming Investor Conferences Xenon Pharmaceuticals Inc.",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeEdqRkJ1SG11UERXNjBkTTI3UmRLcVQxenA2Y2hLbEtpSDNpQ29IX2lSdmhhZEl5U1pFcGVKRWdzZDVhdm1aSDhFbDkxbE9qSkFuc2g0WGY5NThiMkZZYlZyRzlDMU9jTVJrel9YaEhaaDdNM0JxSWIwYm1ZTVE0RktwNnhBT0RXaEd0VHp3LXE2SG80bGV4NjBCUlFEVFZxWGQ4VURFVm5Cb2pwTmFQM2hlT3Y?oc=5",
-   "published": "2026-04-15T07:00:00Z",
-   "outlet": "Xenon Pharmaceuticals Inc.",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "c10bc42063f5ab42",
    "company": "Neurocrine Biosciences",
    "title": "Form DEFA14A for Neurocrine Biosciences INC filed 04/15/2026 - neurocrine.gcs-web.com",
@@ -14414,17 +14469,6 @@
    "first_seen": null
   },
   {
-   "id": "ff5595468e382553",
-   "company": "Insightec",
-   "title": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor - Insightec",
-   "summary": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor Insightec",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS1BrUTdrNjgxQWRqMDNEZVNrbVFYUFVzSnZuR1BxUUxVcjlJTHZ5S29GTHUzZURXY0NpaHY4eVoxVjRRZF9ON1d1cG1NQ1Bqbjc0bzVEOU5lMjN3N25TaERMZlBrMG5wVGpYYm1VZzVKdnp3enhWSmN6MlhEMHE3OTh6R3lxR0NqMDVLUE1xLS12UlpONXZEYl81SUZNRWdkc1pzTkYxanRzVnZZU05qbDZQMGJwdXZZbzRYQjItWUZwSVU?oc=5",
-   "published": "2026-03-24T07:00:00Z",
-   "outlet": "Insightec",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "2d7196288f1d8baf",
    "company": "TG Therapeutics",
    "title": "Careers 181 PatientSupport-Mgr - TG Therapeutics",
@@ -15349,6 +15393,17 @@
    "first_seen": null
   },
   {
+   "id": "bdd618755bc8368b",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics to Participate in Upcoming Investor Conferences - Rapport Therapeutics",
+   "summary": "Rapport Therapeutics to Participate in Upcoming Investor Conferences Rapport Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHVqMkhBMnMwQnRPSmlCdXFkWWFqZlA0YWJ0SGJzLUxKbldGZk55ZW1sQmxyamtQV1VrRG8zbkJuT3NGNm1ZZS1fS1dkelA0SzBhdFpHSEEzaHlRZWNzekdXU2FxNU9LX29zTlBFc3VTRk0zQkU3bE9XSk9hV0VaeXo4dnozV19zY01scDUyNk9aS1huYllJWjFmWno1OXliMkpydHJmZkZES3BPakE3S0Q4b2tqVGUtbzJiLTZYc3RvNWJMTXY2ZW12c24?oc=5",
+   "published": "2026-02-24T08:00:00Z",
+   "outlet": "Rapport Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "fe7c4c5483634800",
    "company": "Supernus",
    "title": "Supernus Announces Record Fourth Quarter and Full Year 2025 Financial Results - Supernus Pharmaceuticals",
@@ -15884,6 +15939,17 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LWHFtb0l3MXo2QUp3eTNKUnlPaTBmZ1N5Rzh5Vnp4M0dWc1JiUzZpLUxoQl9aeWdNSlRBMzkxWmpjMzJ6QXJzTE1KNFZUNEVtaVRlMlNURE9GaGN3d0E?oc=5",
    "published": "2026-02-08T08:00:00Z",
    "outlet": "Transcend Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "ff5595468e382553",
+   "company": "Insightec",
+   "title": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor - Insightec",
+   "summary": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor Insightec",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDJJaV83cmlJT00yNWx1RmJtQkJLbzFQd1A1aURMenVCU1A0YUFaejJSZXpnc0pyUkRCSExrV3Y0YXUzUnh0SXU3dUFQMWRwV3ZsdTRQOTd1Ry1hLWxQeEJkbXVsdHJoU1pkdU5lSjZjR3dxZlF3MnNOdGVmakpFZHVZcjVhZTlSYnFScGVMclN0VXRJM2EtODVB?oc=5",
+   "published": "2026-02-05T08:00:00Z",
+   "outlet": "Insightec",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -16787,6 +16853,17 @@
    "published": "2026-01-07T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1c131d8b1a8453d6",
+   "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
+   "title": "Lilly to acquire California-based biopharma company in $1.2B deal - Indianapolis Business Journal",
+   "summary": "Lilly to acquire California-based biopharma company in $1.2B deal Indianapolis Business Journal",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUVORVhOd3VFeUVTM1NRb3liU3VuM00tektiaFh6NjI1cnBDU2xWcmFrcWNrU3RMV1pfYlpOY3l1X3htdEx0ZnVncUQ5Um1qVUJQUkEwZ0l2UHZ4a3JkQTFqYnBmUVdYcGNvLWsteGx4em9KYkRmbGl3OUd3WUtnTnZkY3dfZS1wMG00dnFXd2wzbG10TFdxdw?oc=5",
+   "published": "2026-01-07T08:00:00Z",
+   "outlet": "Indianapolis Business Journal",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
