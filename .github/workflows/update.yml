@@ -2,7 +2,7 @@ name: Update competitor news
 
 on:
   schedule:
-    - cron: "2-59/5 * * * *"
+    - cron: "2-59/15 * * * *"
   workflow_dispatch:           # "Run workflow" button for an immediate refresh
   push:
     branches: [main]
@@ -33,7 +33,8 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python scripts/fetch.py
 
-      # Keep the news history in the repo so "first seen" dates survive between runs
+      # Keep the news history in the repo so "first seen" dates survive between runs.
+      # If another run saved data in the meantime, keep this run's (newer) data and retry.
       - name: Commit data if it changed
         run: |
           git config user.name  "ci-news-bot"
@@ -41,11 +42,17 @@ jobs:
           git add data/
           if git diff --cached --quiet; then
             echo "No changes"
-          else
-            git commit -q -m "News update $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull -q --rebase --autostash
-            git push -q
+            exit 0
           fi
+          git commit -q -m "News update $(date -u +%Y-%m-%dT%H:%MZ)"
+          for attempt in 1 2 3 4 5; do
+            git pull -q --rebase --autostash -X theirs && git push -q && exit 0
+            echo "Push attempt $attempt failed, retrying..."
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+          echo "Could not save data after 5 attempts"
+          exit 1
 
       # Publish the site (index.html + data/) to GitHub Pages
       - name: Build site folder
