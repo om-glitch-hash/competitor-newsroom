@@ -57,7 +57,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Ajnj.com+%28%22lenrispodun%22+OR+%22ITI-1284%22+OR+%22Caplyta%22+OR+%22lumateperone%22+OR+%22seltorexant%22+OR+%22aticaprant%22+OR+%22Parkinson%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22bipolar%22+OR+%22anxiety%22+OR+%22Intra-Cellular%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.jnj.com/media-center/press-releases\", null, null, [\"lenrispodun\", \"ITI-1284\", \"Caplyta\", \"lumateperone\", \"seltorexant\", \"aticaprant\", \"Parkinson\", \"depression\", \"schizophrenia\", \"bipolar\", \"anxiety\", \"Intra-Cellular\", \"psychiatry\", \"neuroscience\"]]",
-  "checked": "2026-11-20T06:43:26Z"
+  "checked": "2026-11-20T11:07:16Z"
  },
  "Biogen": {
   "feed": "https://news.google.com/rss/search?q=site%3Abiogen.com+%28%22BIIB122%22+OR+%22DNL151%22+OR+%22LRRK2%22+OR+%22Parkinson%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -196,7 +196,7 @@
   "feed": "https://news.google.com/rss/search?q=iRegene+Therapeutics&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"iRegene Therapeutics\", null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T11:07:16Z"
  },
  "Kenai Therapeutics": {
   "feed": "https://www.kenaitx.com/feed/",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-20T10:05:20Z"
+  "checked": "2026-11-20T11:07:16Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -653,7 +653,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Amerztherapeutics.com+%28%22Inbrija%22+OR+%22Parkinson%22+OR+%22levodopa%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.merztherapeutics.com/news/\", null, null, [\"Inbrija\", \"Parkinson\", \"levodopa\"]]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T11:07:16Z"
  },
  "Ventyx Biosciences (acquired by Lilly, Mar 2026)": {
   "feed": "https://news.google.com/rss/search?q=%22VTX3232%22+OR+%22VTX-3232%22+OR+%22Ventyx%22&hl=en-US&gl=US&ceid=US:en",

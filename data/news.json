@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:05:20Z",
+ "updated": "2026-11-20T11:07:16Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "5610eb6b0384494e",
+   "company": "Novartis",
+   "title": "PS&PV Intern - Novartis",
+   "summary": "PS&PV Intern Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeTBuTWlrRkpmellfQWdKeW05eUxDekpzeVJDcHpvblo4UnJXSTV3MDBzM0lkRnktV29vanNnVDBhbkdLV2d0ZTJCX0hHWVJSUEJzTUxnZlg3R3Uya0ppWjhSclMwWlNhYUJkQV9GRV9UdWg4eGtWMmpwR01EV0d0VWZhRlVNaG1Ta3g0?oc=5",
+   "published": "2026-11-20T10:49:02Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T11:07:16Z"
+  },
+  {
    "id": "9de54c46c4b9f139",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics Reports 2026 Annual General Meeting Results - TipRanks",
@@ -2044,7 +2055,7 @@
    "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
    "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
-   "published": "2026-11-18T15:14:52Z",
+   "published": "2026-11-18T15:14:53Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
@@ -2285,8 +2296,8 @@
    "company": "Biogen",
    "title": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 - Biogen",
    "summary": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 Biogen",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZm1kZ0otbW1OVzlwMWdxQlR1VzVzajlxRWtlTUJEY0EtY3dfSEZQZlhSWEM1ZVVwTlZMTGxCYS1rNWdrMXRCZnYxUWRWcUpieU1Ec0VzUDQzYVRHY3lUTjZMcTFlSjFYcDh3ZnBLOUo4c1dQd0Y4cUdQeDNYNzYtdTJEMWxlQmJkWXpxM1k2SjVlTVpGNjRvcjFZVWRKcTZoeERoNEhJQXNrZmJYakFZb1k0QzRQZFVINGF3?oc=5",
-   "published": "2026-11-16T23:00:29Z",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoczRESnJac1FyV2M3ZlkzaVVCYXZ6T1RrM3liMGl0SnBUeWtpZjhyNklYd3JWWnVkS3ZCdFM2dHZFZVJqN1RUWXVZUGdRRU53clhzZHpB?oc=5",
+   "published": "2026-11-17T00:55:53Z",
    "outlet": "Biogen",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
@@ -3051,17 +3062,6 @@
    "first_seen": null
   },
   {
-   "id": "c9586dcd8455cb7c",
-   "company": "Johnson & Johnson (incl. Intra-Cellular)",
-   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
-   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWFvOUhrNXVuTkVzb0FJb3RjY3B0TXRON2hYb3E2ZGNsaFVuQTg5V0ZfZnlFZzBGZU5DQmF2anVBMXR1cmVGRXRCXzRQcW1GeE1FYXF0UC1hckJILWktT1F1RVlsSXlRSHA3WnJjckFZeWh4cE9UWWYxZklSRjRjQnJLTDFFMlVLZUVlUUNkVkpRRlVYWDBHZEU5TF9WRzd4SXpRX0U5RU90d1h1OVhSOWkycHFNdnMtYXh2aFBaRG5Zb2pCS3h2ckRVVnJvaG1uX2lKOFdkRFNnSlNmYnp1Skd3dVN5dlE3TFZJNGhwTS03Y1pmNWFCMHNWWU9xU2pGM3ppRS1LVk5xZk9rdlBIVk1SeGR6NVVNb2Z4Qi1TUlhackhBRkZGbXY4S0pqZm5aa2xBQg?oc=5",
-   "published": "2026-11-10T19:28:38Z",
-   "outlet": "Johnson & Johnson",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "3bec278c55fbbe92",
    "company": "BioVie",
    "title": "BioVie to present additional Parkinson’s drug data at international conference - Proactive financial news",
@@ -3081,6 +3081,17 @@
    "published": "2026-11-10T13:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c9586dcd8455cb7c",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
+   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTkhvOGlxN2tNRGpzTGFCZHJ4bmYxUGtHWUd6SGNMN01JV1Q4VGh5dGhtb3c3MkVrWENUc2NQaXhJSkJ0amNfaHBiWEstaXo3SGt5YXg2Q1pNUEVZM1QzYTJaZXBJOXpaOFFlSWI4YzVrbHRuLThPV2NxQUZsNEk0bmdndWFsNkhzcnBUNmQ1dVV3aHZMQ2ZLQzIzNHdEVE9JbGJuN0VoXzZNNlFodEFEM1hNWjRKOGpLanB3U3k1dXZtTTU1Y1dMazlzZ3RhYTFlS2ZvenBoZGVraWlPcXppQ3ktN0FEdElvalhxb2R4ZW9vRDFIQ19Mc2hnYTZpTDJyVDltUmRUUXo1TEs1UmMxSA?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -3733,6 +3744,17 @@
    "first_seen": null
   },
   {
+   "id": "7233144eb0f88b4b",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Present at Upcoming Investor Conferences - Xenon Pharmaceuticals",
+   "summary": "Xenon to Present at Upcoming Investor Conferences Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTdSRGhuRzg4RmVqaDRxaGZYekNFd190bHRGUDI5Q216VFdsekRZSDRXR3doN25ZLVpNUGl4cFFBcWtEMVFzQkhlQlBhV2tVaExsTTYxaDczbmdoaGkyQU9KMEowUHNuaE4xY2JybThhQ0FCb1hTRE1lNlRObzhNYVp6RUdFUF8ycVF1WHpvX2lvOGJrR3pmby1lOWZ6ZWo4aWNzRHBSdFR6NkRqSW9fSEhNVWw?oc=5",
+   "published": "2026-11-03T21:01:38Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "cec5629737d7fed7",
    "company": "Alkermes",
    "title": "Alkermes to Present at Upcoming Investor Conferences - Alkermes",
@@ -3744,17 +3766,6 @@
    "first_seen": null
   },
   {
-   "id": "2964af61e0b69b9c",
-   "company": "Novartis",
-   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
-   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEtfRkQzN1dHWWlDRjJRMlNDQ3htOUs3SjlnYnRqbURsM09HMFctWnZCOGFnWTdlZjA0bno3NzJHaW9IdzlZX1Y3Wm1TRHl3SDlLb2F3OHpkTlVla2I5dFJSUTgwVWc4bFVTWklERHVHa2lzM3RGbUc0c2NLQTFGM09RQTF0OEF2S3oycy1YMnRGSTFPRDExMzJxSUE0TjhfeW9IQ3Q1emNoVGxCZlR6clA0Q0o4STFhWl90R0E3dG5MZzREcnUwMndpMnA?oc=5",
-   "published": "2026-11-03T18:44:07Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "17ce1787bed6665c",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Guggenheim 3rd Annual Healthcare Innovation Conference - Helus Pharma",
@@ -3762,6 +3773,17 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWktsMkk2YU9vdmNJNmFkMEs2YmVIbm9Kb1BoY2p3R0U2V051WndHajAtSVlsTzdzelR0ZHZkSEYybGdGenJnazh3a1N1NUZaOHRqb0VoMHB5UDdLdWpYSDlXSEp2V1lmdUxnVnY0TlhrdVd5bTNua082cUQ5UkREZW5tb3NsVjN2U0lEa29nWjk2cUV4VUtMTEdpWW8?oc=5",
    "published": "2026-11-03T16:01:40Z",
    "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "2964af61e0b69b9c",
+   "company": "Novartis",
+   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
+   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNlJOSnBqeHdnUW85OHNEYkIxMEZtcU11YVR0N0JhTUwyd3lHZHNIZ0F1bWZuVUxLNE5MUzJWNHBvNHRyRFpxOHF2cEFmN0F2ZlN1cUhYLWN3emp3YmtoRWFQOTFSSm1WOE5RU2xFWmZjUHJDOFdZem95ZHJmTFlISTBYRHFkYldRQUVoUjVUaVlGM3lla3l3Yk5WaDJEX3FvTzZ4RGJubGIyMjVaQjFodnlOYVd1NDF1QzRLeWlsclN6cm9pdWJHcHIzV2Y?oc=5",
+   "published": "2026-11-03T15:54:58Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3840,6 +3862,17 @@
    "published": "2026-11-03T11:30:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "b2d81312b5f66a65",
+   "company": "Novartis",
+   "title": "Neuroscience Territory Account Specialist – New York City - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjVuclN5dG5iVHpvSGxXZ1BIdzg0cGp5cFQ0VW1BSlRUb1dRQk5OaHdsbG5pQlpuODNJN2xQUWNudlFkeE9mdEpGSVppdEE5d3d6U2dmdXRBaVJIMW85cl9vV2JIQS1zaV93U1F6TUdpMUJSRFd5T1Z5M1dJVHV1R1l1TU9HdjJmRmhjSEMySWpqV19UNGZHOVJIU3lPV1M4OXhjSjU5RTNDeG1yemstZHNoTDdyNDlpVHpfVDloZmwwRU5FbWE0UFFYcWNZQQ?oc=5",
+   "published": "2026-11-03T10:29:10Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -7792,6 +7825,17 @@
    "first_seen": null
   },
   {
+   "id": "bdd618755bc8368b",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics to Participate in Upcoming Investor Conferences - Rapport Therapeutics",
+   "summary": "Rapport Therapeutics to Participate in Upcoming Investor Conferences Rapport Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkRmJ3MXlQZFNyckZMRV9YWVZkdElYOW9vWkxnZm9Wa1dTeVdTZHBIcHdwdG5fZi1NUzA4YVRJaERacWVnSGZiYmFqZ2ZfZGlGelBHWFA2bGw?oc=5",
+   "published": "2026-09-02T07:00:00Z",
+   "outlet": "Rapport Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "855a2bd7183c8974",
    "company": "Luye Pharma",
    "title": "Luye Pharma Announces 2026 Interim Results - 绿叶制药集团",
@@ -9123,6 +9167,17 @@
    "first_seen": null
   },
   {
+   "id": "8fa99be7fd7c00ad",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update - Rapport Therapeutics",
+   "summary": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update Rapport Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1BQZkl2ZUY5TG5qcGNJTGJha2k1UnVNWUxTYmRKcmhwQkdIZjFsUzE5ekMzd0pPN2w0SmRwYkdJME5pYmR1OEhFN3ctdUN2TnN5aHRuUEduVGxBS2JhT2RkeGFrM1Uza2x6SHBRSTRfcXdxVXA4WGxhTkY4cDg0dXU1akk2bzF6UXZiLXEtTkhnc3RFYUF0Z2dzRDdjTGxpZG5OTGJaX3ptOXVfTTNsXzJxQVVMNFRlR3lFMTN2RkVjYWo0ZDdMX0FYTQ?oc=5",
+   "published": "2026-08-05T15:58:00Z",
+   "outlet": "Rapport Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "08baa1c3d8a5f303",
    "company": "Novartis",
    "title": "Sales Representative, Neuroscience- Central & South Area - Novartis",
@@ -9130,17 +9185,6 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFRsT1dSSGJsaks3MjlqOFh5SE5sN0FDZmxQbkdKNEZMTnUzX1RaSWFMbHBmdlFhQVdFSEJDWl9JX2xhX3F2SDBWalg1NmplbU1xMXYwSDlWUmszdmRORXMzX3Y0Q0RweFd2dHc1WkRNbWdoSE52bUxZaGFHTFZadnZmVkVGbkY2cENvVXQ3b3ZVY0N0eEUtYmgxSTc4Q3p3R2oyOVFrUTk5VDJjbUsxbXh5eGx0cWR5WEN3dnJXdkVqSURzTDJCN2Rn?oc=5",
    "published": "2026-08-05T12:17:13Z",
    "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "8fa99be7fd7c00ad",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update - Rapport Therapeutics",
-   "summary": "Rapport Therapeutics Reports Second Quarter 2026 Financials and Provides Business Update Rapport Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GSy1EYkVyVTRwSDMyQjBfdTB2eGV2VW9CZU95TmRjdUNpMjQ4LUstNnhlRjlvTzZ0b3c5a2lnQjRwc1ZlQ3pfcHBTUGpCYkN1RkJEeHZab28?oc=5",
-   "published": "2026-08-05T07:00:00Z",
-   "outlet": "Rapport Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -9922,17 +9966,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3BiYmhjMlI1OWNMZXMzTGpTOV9ybGhMSVVwVGZ4VGVWX0xuXzNPcjFmVUozNlFHaVZFWTJBek1LbGRkQzlYeVRucVRFRk5sMVpTaldkengwTjUzekY4S3k0UXBCWWZzR3JsbUh2ZUhFVTU4ZDlRWXk5emI4a0VYcFI0bkNvSWtoenFCUjJmNXp1aDZOZFVhTHlEN3YzOFJscm1rYXA1dkJ3UGFvbExQT3pOUlpjN29XcTNN?oc=5",
    "published": "2026-07-21T07:00:00Z",
    "outlet": "Helus Pharma",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "b2d81312b5f66a65",
-   "company": "Novartis",
-   "title": "Neuroscience Territory Account Specialist – New York City - Novartis",
-   "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2VQWlhJem1hUjF6N1JuMzRYR1ZfNDhXazJMMmlZMTZZQWpsQUZiejBTRHZDbVE0dzRpR3NhYUt6V1RibkR1bHVZMUc0N1UwZXNvZFBla0lMd1ExcUNUMk1kQ21KOXR3al9GNEx6SE1aaGhwQV9yZkxpQmE2WXRyemQ5ZndXWEdqdU1TRlMzLXNpWW9hbFpQOTdPYVk0SXJrTTFwblIwUTJZelpFLTNtb3B0c3p0UGw1NUtKeFdZOENsVDhhUkE?oc=5",
-   "published": "2026-07-21T00:57:02Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -14381,6 +14414,17 @@
    "first_seen": null
   },
   {
+   "id": "ff5595468e382553",
+   "company": "Insightec",
+   "title": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor - Insightec",
+   "summary": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor Insightec",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS1BrUTdrNjgxQWRqMDNEZVNrbVFYUFVzSnZuR1BxUUxVcjlJTHZ5S29GTHUzZURXY0NpaHY4eVoxVjRRZF9ON1d1cG1NQ1Bqbjc0bzVEOU5lMjN3N25TaERMZlBrMG5wVGpYYm1VZzVKdnp3enhWSmN6MlhEMHE3OTh6R3lxR0NqMDVLUE1xLS12UlpONXZEYl81SUZNRWdkc1pzTkYxanRzVnZZU05qbDZQMGJwdXZZbzRYQjItWUZwSVU?oc=5",
+   "published": "2026-03-24T07:00:00Z",
+   "outlet": "Insightec",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "2d7196288f1d8baf",
    "company": "TG Therapeutics",
    "title": "Careers 181 PatientSupport-Mgr - TG Therapeutics",
@@ -15305,17 +15349,6 @@
    "first_seen": null
   },
   {
-   "id": "bdd618755bc8368b",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics to Participate in Upcoming Investor Conferences - Rapport Therapeutics",
-   "summary": "Rapport Therapeutics to Participate in Upcoming Investor Conferences Rapport Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHVqMkhBMnMwQnRPSmlCdXFkWWFqZlA0YWJ0SGJzLUxKbldGZk55ZW1sQmxyamtQV1VrRG8zbkJuT3NGNm1ZZS1fS1dkelA0SzBhdFpHSEEzaHlRZWNzekdXU2FxNU9LX29zTlBFc3VTRk0zQkU3bE9XSk9hV0VaeXo4dnozV19zY01scDUyNk9aS1huYllJWjFmWno1OXliMkpydHJmZkZES3BPakE3S0Q4b2tqVGUtbzJiLTZYc3RvNWJMTXY2ZW12c24?oc=5",
-   "published": "2026-02-24T08:00:00Z",
-   "outlet": "Rapport Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "fe7c4c5483634800",
    "company": "Supernus",
    "title": "Supernus Announces Record Fourth Quarter and Full Year 2025 Financial Results - Supernus Pharmaceuticals",
@@ -15855,17 +15888,6 @@
    "first_seen": null
   },
   {
-   "id": "ff5595468e382553",
-   "company": "Insightec",
-   "title": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor - Insightec",
-   "summary": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor Insightec",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDJJaV83cmlJT00yNWx1RmJtQkJLbzFQd1A1aURMenVCU1A0YUFaejJSZXpnc0pyUkRCSExrV3Y0YXUzUnh0SXU3dUFQMWRwV3ZsdTRQOTd1Ry1hLWxQeEJkbXVsdHJoU1pkdU5lSjZjR3dxZlF3MnNOdGVmakpFZHVZcjVhZTlSYnFScGVMclN0VXRJM2EtODVB?oc=5",
-   "published": "2026-02-05T08:00:00Z",
-   "outlet": "Insightec",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "40d11825c3981520",
    "company": "Denali Therapeutics",
    "title": "Denali Therapeutics Presents Enzyme TransportVehicle™ Progress Across Three Clinical Programs for Treatment of Lysosomal Storage Disorders at 2026 WORLDSymposium - Denali Therapeutics",
@@ -16332,7 +16354,7 @@
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting - Johnson & Johnson",
    "summary": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUjI2blNPVV9UbElmUmI4TGZUR1h0OG12V1NjOHNOUk5GSzJ6VWNUR2FfOVBiSW9MZ1E3blVBVFFOMGphalE5dlRIczJKYkVSNEtCX3VkZThiT2RIUlVoWno0ZFdYVHA3U2JDRzV3NXFyRjNiVE9tcTBBT0gzZWhZWGQwTTVRLUxObjBFNVczb0REdVFWOWk1WUktRmZDbG1Lbm4xN3VCSGo1X3EtZTNOX1ZrdDVGeUpSSjZfQ0lXdGlwelZEbmdZUFN5cUh3dFlyTldfc0lFbEV3TWRlVVFiN1dKTG5seExoMmdKOUhPOFFIMmdZdTlYM3h6aENVWEtEa0N5Rk5abGpsc3dnV3dfUkUzRDNZempSZ3hxLU9hbE9VVi1aNjBHaUYzVkljUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdFBDQnpnOWpNczB2Y0YzcUNtSnNpa1ZfdnpYVWFGbTZaSjhfR1dIQTM3UEZFRDJLcjRnY09KS3NzMmtJWlJVeW93T0NNc2dESXpLb2JKd09YZUxsRU9LcDJsQ0c0ZTBVSkZVb0FxdkxIcFRUbldXaDBadzNpRURVWkdRSk00aEZuX3RwQzRvTHFFRDZRVUE3d0c1Y1pDTHV6emY3Sk82V1FwcnozSU42TzNJdm5VcXl0Sm1qdUJBYmRSVFN3TVkwTHYxdUhzeUJnUUxjd3l1UlpmRlc1U0VSdHJBbUZubWdwSEx3aGVDc09pX0FoUGQwbGFmVEZxT3pOSFR1WE5VeFM1UQ?oc=5",
    "published": "2026-01-13T08:00:00Z",
    "outlet": "Johnson & Johnson",
    "method": "newsroom via Google News (site:)",
@@ -17927,8 +17949,8 @@
    "company": "UCB",
    "title": "Thank you - UCB",
    "summary": "Thank you UCB",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaUR3Wkkza1hfSVZLZkRzbFRMVEVhZnJtc2JTel9qVWY1WXpJX3dSdW9fNkxPZWM0TkI0UjZZYUlJTjVSUV9zYUR1cnI3bnRXaDE0NGt6bVhDb09BUFZNb2Y1X3hEaVBsMjlMZDE5RnVsYXRIYnVlUTZubDNGTnlEZWRKeVcxY01QSUE?oc=5",
-   "published": "2025-11-21T01:06:55Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdlVUbkNKTlRzT1hMWXJXdDVQYTltc2J2eVJqTmh2TEtzM3JablI3TUJTbG9KWFo5YVVQZ2ZJaDNtci0yYnkwMWJFdlRLM0IwN1AzYTJBV2pJV2pjdi1pQzVYMHVZNUtDeGo4VDZoTnhwdmhLLXYxa0F3OTFqcGVkQmx4WW9mTUQx?oc=5",
+   "published": "2025-11-21T01:38:46Z",
    "outlet": "UCB",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
