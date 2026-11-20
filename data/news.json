@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T02:38:48Z",
+ "updated": "2026-11-20T03:33:24Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1907,6 +1907,17 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZzZV9wcG9yMkJkbTJidXVtdUkxV0lvZzZoNlZQUGduMkt4LVAzbmVvSm5kLWE5Z0lWajJiNmlCdm5FSzc5U2J4b0NMbURnTHNtWHdiVndINjdScnV3Y2JEcGVwUWpPYjFPYzd3dWNHWE1vc3JPMnNveGhvMjZVVlc1TU03eHp0cGxYaXNySG5MN2w1ZW1Gc2pFU2N2OVZkQkxXV3pZQ3l4UWVNRTBORHVzYw?oc=5",
+   "published": "2026-11-19T00:49:03Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
    "id": "1432df6517373c1e",
    "company": "BioVie",
    "title": "Form 4 Biovie Inc: V. do Cuong (Director, President & CEO) For: 18 November - Investing.com India",
@@ -1945,7 +1956,7 @@
    "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
    "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
-   "published": "2026-11-18T15:14:52Z",
+   "published": "2026-11-18T15:14:53Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
@@ -2114,17 +2125,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
-  },
-  {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXNEbDlMM0Y2cFpJWS1nYkRseld1MXJxdE53QTlMNUpDZzMyLTVtOUFIODdOTmVyc1R5ajNXeXpHX2tjVEs3aHdNa0U3ZHdjZWdfQU5uQlY1eDRYc1FNZ0RxTkFSNTNVUmx0TGx3dUszbzAtRHE1Q2lUUnVGd3pnVFVBM3dVYmFuTVNOckZ1ZFNkVWstYkxGazAxX2RZbVhTSjJ2b3pvdVFJSGRoUWxGUEtHUQ?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "0919cfc4c92dc050",
@@ -3238,6 +3238,17 @@
    "first_seen": null
   },
   {
+   "id": "02c9dd56b4db4966",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Presents Positive Phase 1b Open-Label Extension Data For Rexaceract Demonstrating Further Evidence of Disease-Modifying Activity Through 12 Months Administration - Gain Therapeutics",
+   "summary": "Gain Therapeutics Presents Positive Phase 1b Open-Label Extension Data For Rexaceract Demonstrating Further Evidence of Disease-Modifying Activity Through 12 Months Administration Gain Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOeE44Rndfd1FsbE5fVVk0YVNKNGlnZW1kb2JqcXNHM0pLc2F2bUI5RTBfVzFFc0VYNE11UjB6c05LNTdDa1o0ZE5MejNKMW1zQjhzRjhna21xaTFVUHBuZlFNMVZLeTBtUFExR0FneTJzeW5DQ3U2RG42N1Y2clBJQUNRZGhFSWFyc1lKV1ZkRzN0RWd1TXlFNU5MelBKVl91S2pteDNvQ2t0akYyT0V4LXlxNGRtZjQ3WWJWa3M3OGlGWEpvTWtWbV9wRk9aMjBaaVBxUnlsRGZTdEw2eWtRRkFTTmgta2lSVEFnOTFWTUE4UnhuNWV2MkJxY3E0dVB0U3RFdEpkY3FMdlNwMEZLeVl4Z3FHTUQwdXkzZEhOa2RIbXFsSm9SZ3g5alFiMlhnaHA4S1dJYTRCTW1NdHdnQUdFQzh6M3V2dnprbnZjaV85eUhQSXhZTW1Qa01fV2k4NEl1UXJEVjVJeVVfdlE?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "0289da27ae3ac4f4",
    "company": "Remepy",
    "title": "Parkinson's Program FAQs - Remepy",
@@ -3381,17 +3392,6 @@
    "first_seen": null
   },
   {
-   "id": "2cf35cbec44fb95a",
-   "company": "Idorsia",
-   "title": "Media Release - Idorsia",
-   "summary": "Media release Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmJYcXUyN0V2bG4xbWx0TFNPeDUwaE5LWTN1c1BtRURGZmNyTVk1amQyRWNweTNCNC1uWkZsWlNNdTdmclBCX0NPcnZ2S2FqQXRjanQ0U1I2aWd0QjZ1Y2tJeXRET1F2R3dMN24zbk80b3dsQUZrQmFoOXlIM0ZCaXdSX2tfblNTOWJpU0I5bVo3QUkxTkNkU1gycG1Gdw?oc=5",
-   "published": "2026-11-04T08:00:00Z",
-   "outlet": "Idorsia",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "aa94d8a73b860333",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
@@ -3414,17 +3414,6 @@
    "first_seen": null
   },
   {
-   "id": "6600a28430b239ae",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon to Present at Upcoming Investor Conferences - Xenon Pharmaceuticals Inc.",
-   "summary": "Xenon to Present at Upcoming Investor Conferences Xenon Pharmaceuticals Inc.",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTdSRGhuRzg4RmVqaDRxaGZYekNFd190bHRGUDI5Q216VFdsekRZSDRXR3doN25ZLVpNUGl4cFFBcWtEMVFzQkhlQlBhV2tVaExsTTYxaDczbmdoaGkyQU9KMEowUHNuaE4xY2JybThhQ0FCb1hTRE1lNlRObzhNYVp6RUdFUF8ycVF1WHpvX2lvOGJrR3pmby1lOWZ6ZWo4aWNzRHBSdFR6NkRqSW9fSEhNVWw?oc=5",
-   "published": "2026-11-03T21:01:38Z",
-   "outlet": "Xenon Pharmaceuticals Inc.",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "cec5629737d7fed7",
    "company": "Alkermes",
    "title": "Alkermes to Present at Upcoming Investor Conferences - Alkermes",
@@ -3436,6 +3425,17 @@
    "first_seen": null
   },
   {
+   "id": "2964af61e0b69b9c",
+   "company": "Novartis",
+   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
+   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEtfRkQzN1dHWWlDRjJRMlNDQ3htOUs3SjlnYnRqbURsM09HMFctWnZCOGFnWTdlZjA0bno3NzJHaW9IdzlZX1Y3Wm1TRHl3SDlLb2F3OHpkTlVla2I5dFJSUTgwVWc4bFVTWklERHVHa2lzM3RGbUc0c2NLQTFGM09RQTF0OEF2S3oycy1YMnRGSTFPRDExMzJxSUE0TjhfeW9IQ3Q1emNoVGxCZlR6clA0Q0o4STFhWl90R0E3dG5MZzREcnUwMndpMnA?oc=5",
+   "published": "2026-11-03T18:44:07Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "17ce1787bed6665c",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Guggenheim 3rd Annual Healthcare Innovation Conference - Helus Pharma",
@@ -3443,17 +3443,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWktsMkk2YU9vdmNJNmFkMEs2YmVIbm9Kb1BoY2p3R0U2V051WndHajAtSVlsTzdzelR0ZHZkSEYybGdGenJnazh3a1N1NUZaOHRqb0VoMHB5UDdLdWpYSDlXSEp2V1lmdUxnVnY0TlhrdVd5bTNua082cUQ5UkREZW5tb3NsVjN2U0lEa29nWjk2cUV4VUtMTEdpWW8?oc=5",
    "published": "2026-11-03T16:01:40Z",
    "outlet": "Helus Pharma",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "2964af61e0b69b9c",
-   "company": "Novartis",
-   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
-   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNlJOSnBqeHdnUW85OHNEYkIxMEZtcU11YVR0N0JhTUwyd3lHZHNIZ0F1bWZuVUxLNE5MUzJWNHBvNHRyRFpxOHF2cEFmN0F2ZlN1cUhYLWN3emp3YmtoRWFQOTFSSm1WOE5RU2xFWmZjUHJDOFdZem95ZHJmTFlISTBYRHFkYldRQUVoUjVUaVlGM3lla3l3Yk5WaDJEX3FvTzZ4RGJubGIyMjVaQjFodnlOYVd1NDF1QzRLeWlsclN6cm9pdWJHcHIzV2Y?oc=5",
-   "published": "2026-11-03T15:54:58Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -4371,6 +4360,17 @@
    "first_seen": null
   },
   {
+   "id": "2cf35cbec44fb95a",
+   "company": "Idorsia",
+   "title": "Media Release - Idorsia",
+   "summary": "Media release Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmt2TDZucDZsaGMxdkRjdGE1UGNzMGNBRHdiaG1mVjhUQWMzSHQ1ei1keTJ3a1d6TlgyaEkxZHVQaFNVckxaQ3YxX2ZJRGozNEdTdnNQaEtzLWRteVJoOGtud1lwbVhPOGxKNFBOX2gwa1BMMG9UVVV2bl96ZTZuZHdSVnBVRDY3N0ZYdGhuSmtGVGI5aDZhVG5nRWRYZw?oc=5",
+   "published": "2026-10-23T07:00:00Z",
+   "outlet": "Idorsia",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "9c54b69f8794f227",
    "company": "Resilient Pharmaceuticals (ex-Lykos)",
    "title": "Exclusive | MDMA-assisted therapy could get FDA approval as soon as January: advocate - New York Post",
@@ -5156,7 +5156,7 @@
    "company": "Arvinas",
    "title": "Phase 1 Study of ARV-102, a PROTAC LRRK2 Degrader, in Parkinson’s Disease: Oculomotor and Biomarker Data - Arvinas",
    "summary": "Phase 1 Study of ARV-102, a PROTAC LRRK2 Degrader, in Parkinson’s Disease: Oculomotor and Biomarker Data Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU0lCandlaFI4dERmSkJOa3JvR3U1cnVFbDMtM0dDWXM5QVdzZG5lZEdHV0FwNmJBNks2X0x1ZVdWRklHRXh0T0JEdGpESXhNMmltbGFMdVhiSkxNclNseDhnQjJFMk42azVCbnFKNDAzdXBLdmtyYk1pWk9SY0dVd0VYSEI0TXI5Q2s5NGE0RTBFZlFtZm5WXzJsQTZQMF9JaENVR1RhTmxXaVRoX3JnaE5NcUMxZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXBlSzZVWXEyQnZjTnFIYm9aSVRWeDM2bVA1eklvWTc0LVF3NWw1aWUxTWpaRVBsRG1zNmhlTW54YjdlRGEwQ0kzbWpKZEtWU1FIckRZUnBQdGZzQlZKdHF2QWZWVThIR1RtS2pQWmtUbHFUczNva2JoWjlhSnlLc1kxYTZMc3Z2Z1JCRFo2T2lGb1FoZ0xzNDhJWHZNOFNEQ21RZ21WRnkxU0J0eDNpOFJaX0tGa2hZ?oc=5",
    "published": "2026-10-08T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:)",
@@ -5293,17 +5293,6 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
-   "id": "02c9dd56b4db4966",
-   "company": "Gain Therapeutics",
-   "title": "Gain Therapeutics Presents Positive Phase 1b Open-Label Extension Data For Rexaceract Demonstrating Further Evidence of Disease-Modifying Activity Through 12 Months Administration - Gain Therapeutics",
-   "summary": "Gain Therapeutics Presents Positive Phase 1b Open-Label Extension Data For Rexaceract Demonstrating Further Evidence of Disease-Modifying Activity Through 12 Months Administration Gain Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOeE44Rndfd1FsbE5fVVk0YVNKNGlnZW1kb2JqcXNHM0pLc2F2bUI5RTBfVzFFc0VYNE11UjB6c05LNTdDa1o0ZE5MejNKMW1zQjhzRjhna21xaTFVUHBuZlFNMVZLeTBtUFExR0FneTJzeW5DQ3U2RG42N1Y2clBJQUNRZGhFSWFyc1lKV1ZkRzN0RWd1TXlFNU5MelBKVl91S2pteDNvQ2t0akYyT0V4LXlxNGRtZjQ3WWJWa3M3OGlGWEpvTWtWbV9wRk9aMjBaaVBxUnlsRGZTdEw2eWtRRkFTTmgta2lSVEFnOTFWTUE4UnhuNWV2MkJxY3E0dVB0U3RFdEpkY3FMdlNwMEZLeVl4Z3FHTUQwdXkzZEhOa2RIbXFsSm9SZ3g5alFiMlhnaHA4S1dJYTRCTW1NdHdnQUdFQzh6M3V2dnprbnZjaV85eUhQSXhZTW1Qa01fV2k4NEl1UXJEVjVJeVVfdlE?oc=5",
-   "published": "2026-10-01T14:28:28Z",
-   "outlet": "Gain Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
   },
   {
    "id": "eb9c2fd4b9a13cb7",
@@ -6505,6 +6494,17 @@
    "first_seen": null
   },
   {
+   "id": "4c29b8f138e7b917",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson data presentations at the 2026 Psych Congress Annual Meeting: - Johnson & Johnson",
+   "summary": "Johnson & Johnson data presentations at the 2026 Psych Congress Annual Meeting: Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkxLY0h5Z191SnEzdG91Y3dSYkpLcnNIN21mV0dYRm5ENC14a2t4dGQ5eUlzamQyUjItRk1TXzZUVGY1MU1IU0Q1VGVJVWxUQ1doTjFHYy1BRXpnSTlOMDVCLW9EMlMxUU05N2NROU9ibGlRVG4xcXhjWk40UGUxREx5Vks?oc=5",
+   "published": "2026-09-09T15:01:10Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "4fb29cd3ada43f85",
    "company": "Alto Neuroscience",
    "title": "Alto Neuroscience Announces Participation in Upcoming Investor Conferences",
@@ -6919,6 +6919,17 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3JILTBmb19DUjRHRFJnUGkxMXFUdkxJZVlYcGY3dHFSWTBxSmExNXcxbGR2b0pHUWNCU0JEbTBTaGlOTlFoWFBxdnpfQ0xHeWFEc1VaZHFPYXhmNGdXelJjUnFaSTl4bkRsUjFHUWU3OGNhQ3NnY2M0MDJyNS1xWURvR2ZkXzVzSGxtclVNY25LUTRXaDVWZnNxUUtWNDdaS0VIMUpMT3QzUk1paXZkNFJpamhuYzEtRHdGcVItcHZsMnBsYmc?oc=5",
    "published": "2026-08-26T07:00:00Z",
    "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e6ad2a0764f8fc6e",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "The IBD resource many patients say they can’t live without - Johnson & Johnson",
+   "summary": "The IBD resource many patients say they can’t live without Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVEtRWllqU0JZQWlVUm8tRFN6N0diT0RCU0xxcXlYckx5dmJRUzZBbXkzSmRHNTVKMHB1MWtkQ19uZXVsa1YzYXNFTHYyRDZUd3cwSWdKRTZnZ2R1THl2dFhvT290UXRmR1ZZQ0huTWdSODgzMGtWWVluQ2xnSDVvVEVPaw?oc=5",
+   "published": "2026-08-26T07:00:00Z",
+   "outlet": "Johnson & Johnson",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -8716,6 +8727,17 @@
    "first_seen": null
   },
   {
+   "id": "53df4fa4ea65cb6d",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics CEO Gene Mack Issues Letter to Shareholders and Provides Operational Update - Gain Therapeutics",
+   "summary": "Gain Therapeutics CEO Gene Mack Issues Letter to Shareholders and Provides Operational Update Gain Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQX1hGREIyd1ZOYW9vRm93TFB4b2p5OWptNEVXSG54a1dYTEJ3dHc0d0NGRmw4WTlmMGRVeTJEZXJNdWJ2azZ0Y2psQ0NRZmNKNGdyLS1VZnpueGtCMVVuVC1hN3lxOWlzZDVKWFRQVjQzODRUSnRVZGxya01iZS1TaUNFWnlnVDhUWnFzbU5PTGNkQU9faGVIVVhMMW55aVhZSWlaRzgyN2lncGF6RXlWcXhUUzdIdVNoOVhMZEJQUFFDUkdQMTlGOWxyVlhWTXZFYlUxTjZObmgzRUptbzdKTkkwMmF6bVItNFVnNDJ1bG1nSXNlQzljUkRsWnpPdw?oc=5",
+   "published": "2026-07-16T14:14:26Z",
+   "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "4455913a29a9f9cb",
    "company": "Newronika",
    "title": "Scientific Publications - Newronika",
@@ -9043,6 +9065,17 @@
    "published": "2026-06-30T07:00:00Z",
    "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "995263ea25dbcf15",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Receives FDA Clearance of IND to Advance GT-02287 into Phase 2 Clinical Development for Parkinson’s Disease - Gain Therapeutics",
+   "summary": "Gain Therapeutics Receives FDA Clearance of IND to Advance GT-02287 into Phase 2 Clinical Development for Parkinson’s Disease Gain Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQTzdkT09FT0dBSURoVVVlQVAxWllNX0pkM25aWC1NSllzVlI4Mm5aN0NCVHotd1ZfRnE5RmszSkR0NW51dmdrNTdJelhkTE1mNFRaYWlncXpUcURsRE5DMVFIN2t4a1NHdEdwWnJ3eGFZVTd0cTdYdHJIZ19lWGFtSUNIMXdMZnBhaHViM08tV1cyYTFzbFIwX3kyR09yRGozeE5kZlBuYUhYRFBLZmZWemtkOUdxZXBUdGkxVDA3VWdMSzFaUkpsdGhXZDZwNjZ0WGVlQlpVeldvQ2lRdlV5aWo3aHV1Y2RCNk9KSlRqMmMtN1FZMWFtdGQ0Ri1kRHJ5U3g2UTJxSGRkUTJ3WE9ud1hLSXFIQ0Q5OVpEOVZwdFRHSENT?oc=5",
+   "published": "2026-06-30T04:05:32Z",
+   "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -10201,6 +10234,17 @@
    "first_seen": null
   },
   {
+   "id": "c50276a5e423d43e",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "#NCT06229210 - J&J Clinical Trials",
+   "summary": "#NCT06229210 J&J Clinical Trials",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CUW85MzR0T2JWbmFiY1I0WW10dEZJZWFaZzVLclVlcHYybFE1Q0UzOXF6YTJ0UGh3djZpSWUxamw5TlA0enlzSkxTbDNiTG1SZGVNX21xR09aN0hSak5DOXdWZUVJWGVfZHc?oc=5",
+   "published": "2026-05-22T01:49:05Z",
+   "outlet": "J&J Clinical Trials",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "fc66f9402cd06a38",
    "company": "Merz Therapeutics (Inbrija, ex-Acorda)",
    "title": "Inbrija - Merz Therapeutics",
@@ -10674,17 +10718,6 @@
    "first_seen": null
   },
   {
-   "id": "8de03799d72a26e8",
-   "company": "Cerevance",
-   "title": "Cerevance - Cerevance",
-   "summary": "Cerevance Cerevance",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYWkybUV4b0I0NmxnX0w5VXNzODcteTdFUTRxYWJvcjNRQ3VUcnlYYTZNSUlNLXJHaVdNeFV1MWxuU0ZCenFlUkJjSHcyQlZWZ0RsejRpRW5GOWtrdS1WaG9rTms5UkNBZ2RHY3NmbThiVHNoWlc3SlJ5WHlHcW9HRTBnbk1EeXhmdkFKXzd1V3h0SVFnU2hNb1lOMW14SUZ6T05PUTB5bnp0TUp6ZkJEZ1RZNTFrRmVXb3FiVVhtYW83OWZrNmgyX0NjMXhSLXVrb3lpcEN5bmdLRWVBRmtOeUFTdWkyNVZrNGVoSUNaU1pqVE80M21sVW9BUWtwampCYXdwQlpNUHRXTzg?oc=5",
-   "published": "2026-05-12T07:00:00Z",
-   "outlet": "Cerevance",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "586be46e3d15697d",
    "company": "Reunion Neuroscience",
    "title": "Reunion Neuroscience to Present Full Data from RECONNECT Phase 2 Clinical Trial at Upcoming ASCP and APA Annual Meetings",
@@ -10868,6 +10901,17 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlpLUFZ4ajBla1ZORV9QYldia3FLWVk2bDJDb1JRXzA3WjF0VllzREszZjV3bWxrOVRuVElqRkVJdHZKdWs5ZlFoZlBpNlZjdi04bDQwU2k2Yk15UmhpQTNpeFJkZV81RzE4MnIwa0lHM05PM1JQd0VyMDBHTllIZkdhNzdtbHpRVVlVVEtqSm03TnhGUkdLRVhSdjlKT09GU01FR0FuS1dZeklUa3hQd1FhRlg4aG5rRlF6a014NA?oc=5",
    "published": "2026-05-07T07:00:00Z",
    "outlet": "NRx Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "09d1d54209650eab",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson launches Generation Fine, a New Movement Encouraging Patients to Expect More from Depression Treatment and Aim for Remission - Johnson & Johnson",
+   "summary": "Johnson & Johnson launches Generation Fine, a New Movement Encouraging Patients to Expect More from Depression Treatment and Aim for Remission Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMW5fUnNzTi1zWDdEeWR1LTY0SUVDVmNaTzNGdXprZ3VaRzZ4bEZuUEJ5RDlPSnlPVFFuSzUxMDZWMlp1bGJ3ZkFjVnU1Y2RZTG81cXZvWjNqc3ZrSml1ZFpkVy15dVpFVVpBSFpLdG80YzNvOXB6VE1Dd2pSdzFCcm0taG54Nm1GVTBRLXF4bWZIV0g1aTJ4YmZqWlFHLXY5cnFCMTY3NElxNy01WHcyY3E3Sm82aHZiUDRFRkRCalBqaXNaUElKOUl2Mk5zOGkxWUJsUk1ERUwtYzdzUzRoeThnekhORWx6T2NlM0VvRWotc1pVX2VwSkhXZThHVkZqdTl2M3A1NWVFc2ozQ0NoR0dtbC04UQ?oc=5",
+   "published": "2026-05-07T07:00:00Z",
+   "outlet": "Johnson & Johnson",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -11165,6 +11209,17 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PTGFGc3h6OVlNXzE0dWg4dDBQUjAtZ1YtOXBoVnFzalV1d3UxcndNY1dOVHJ4ZFJKSl9VNHJ1akJnTnNiOEItaW1PaDRjRTZwdmIwQmNmQWNZYWQtSG5iai1BZw?oc=5",
    "published": "2026-04-30T07:00:00Z",
    "outlet": "田辺ファーマ株式会社",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e19784d1b8f62608",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Report Q1 2026 Financial Results on May 7, 2026 - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon to Report Q1 2026 Financial Results on May 7, 2026 Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOFdLVVBuWnhqMmZ6QnI1Q0c3c09JcHRuR0VYRWV4YVpjTDh2aHBKbUVPMV9sZVY2UU5OVmxtR2Rkb0xMNXJUYzZPWklVU1VXT2FWUjMwcEwtVmdOV05KN0RIR1Y0eVhvdUdFODltOU8zbU5GVUJMb1VhdTZnQmhDQTFYNFpYUXJ5RGlUbHVVUVJkd3c5MkpBbW50cjlxOFNaaEJfVnQxSk92aExNanllbHpELW52WFFMQVE?oc=5",
+   "published": "2026-04-30T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -11785,6 +11840,17 @@
    "first_seen": null
   },
   {
+   "id": "6600a28430b239ae",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Present at Upcoming Investor Conferences - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon to Present at Upcoming Investor Conferences Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeEdqRkJ1SG11UERXNjBkTTI3UmRLcVQxenA2Y2hLbEtpSDNpQ29IX2lSdmhhZEl5U1pFcGVKRWdzZDVhdm1aSDhFbDkxbE9qSkFuc2g0WGY5NThiMkZZYlZyRzlDMU9jTVJrel9YaEhaaDdNM0JxSWIwYm1ZTVE0RktwNnhBT0RXaEd0VHp3LXE2SG80bGV4NjBCUlFEVFZxWGQ4VURFVm5Cb2pwTmFQM2hlT3Y?oc=5",
+   "published": "2026-04-15T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c10bc42063f5ab42",
    "company": "Neurocrine Biosciences",
    "title": "Form DEFA14A for Neurocrine Biosciences INC filed 04/15/2026 - neurocrine.gcs-web.com",
@@ -12001,17 +12067,6 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YUEVVcTVXN190aVBQVW55Y29RUldYeGtYTDA1Vl9LN3ptRmpXOXlsdGJMQ0ZCS2xvMllYYWRYaFk5ZUhoOTVSUGpiRTRmSEozODM1MTRraUtfVEhqWVdCX3c4U01MRDRKSlE?oc=5",
    "published": "2026-04-08T07:00:00Z",
    "outlet": "Vanda Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "4187e867bb791468",
-   "company": "Cerevance",
-   "title": "Cerevance: - Cerevance",
-   "summary": "Cerevance: Cerevance",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2FnU1h0LWVUbkJWZzdYZUczRTlhcHJXT2JtRmVMX2QwZTlieWxkRzU0YWI5S3JtZUNFZlVhWkQ1RkU2Z3NFRTdqdG5FVlJVQURyRkFadm5yZGJNS0wtV1B0eV9EZEVtSFNhQkdTemszQWRwUE92eC14aVlNN1ZNNEY2SHRvV1RlMXg0RXlrNlVJVTl3WlBKdlM2eFhNVmxRU2s2c3ptQVJuUXdrNEVMNTBZRQ?oc=5",
-   "published": "2026-04-08T07:00:00Z",
-   "outlet": "Cerevance",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -12397,6 +12452,17 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXRuOUlKWnZBUzZHRURlRHBNakpXakJ1c0wxV3FhbVRPalJzR0JxWldOdUlHUlUtYkJiUW1yQ3E0VUhCZ190VzRNLXkxd3VpcGJJaEZ3M0hiM3BZalp2SFd6Q3REZGVXcWlRTVpIYmhORXR6U05TNXhnUTl1dXAxWU5RUi1PWGFRVk1nQXViYjhTdlRs?oc=5",
    "published": "2026-03-30T12:13:12Z",
    "outlet": "Herantis Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "125cbe0e6dddf5a7",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "New SPRAVATO® (esketamine nasal spray) data support robust effectiveness and show durable effect for treatment resistant depression in a real-world setting - Johnson & Johnson",
+   "summary": "New SPRAVATO® (esketamine nasal spray) data support robust effectiveness and show durable effect for treatment resistant depression in a real-world setting Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOc2JicWhVaUpqT1NwV0NvNmRsVWRIUnN3aWhBU3VjQ0dtSm9qZG9BT1RlWGxqWW9IVHlJeTFDNzZ4ZzRDOS1sUGc1U2ZtanZWSzViVVZaOEJ2c2xhZWdOSXV4R0x2TzBaYVBEamFEODA2Y1NuTEpSbG5LbUo2NDhSc2lsZ0FSX2dSNm9XeGRTV1BKZ0RzajNZQ2ZTU3dsVDBJbzc3d0tBdUt5UnlXY0pPeEpmR2k4dGEtbFJWUkVIaVVKdmdmUGFScHJhc1lpbjdwZWhZVDYyaXhJM0pJXzFrQ1ZkTkE3X2lsd3YyS1NONzAwZU9yTkFDMGpFMWFKTjZOVEtYbDk0VHJDMTd0RlJkTDNRcWExT3RVd2JwRDRzbE9wRUw3cHZLbDdGNnN5RnB1YWJackRsX1JNRGZwUnQ1Yk5KNW50b1E?oc=5",
+   "published": "2026-03-30T11:18:52Z",
+   "outlet": "Johnson & Johnson",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13809,6 +13875,17 @@
    "first_seen": null
   },
   {
+   "id": "4187e867bb791468",
+   "company": "Cerevance",
+   "title": "Cerevance: - Cerevance",
+   "summary": "Cerevance: Cerevance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalM5aS1GRnkyVkYzdnYzS0Mtc3BwVThrb196cEl3NUhwRUZxSVFhR1NmamNwVzJqdlY0Y1g5RmM1cUxrQ1NadHY3WS1RT3lhMzA5UXdLQ2UtN3IyblU2WWppcVN3Q0U1Z0xtVVBsYkEzRmxDV2VKOUh3bmEzcmpCdjBtbmhFWDR5OTVqTDJqUkNvMTZpVWVnaTdqa21LRkVJbFIwejBQSnJFY1E?oc=5",
+   "published": "2026-02-23T08:00:00Z",
+   "outlet": "Cerevance",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "e53dfd92da864d62",
    "company": "iRegene Therapeutics",
    "title": "iRegene Hits Dual Global Firsts: U.S. Patient Dosed in Phase IIa for NouvNeu001 in Parkinson’s and First Enrollment in China’s Randomized MSA Trial for NouvNeu004 - Fierce Biotech",
@@ -15173,6 +15250,17 @@
    "first_seen": null
   },
   {
+   "id": "5acacd1f36851403",
+   "company": "Gain Therapeutics",
+   "title": "Neuroscience 2025: Key Themes, Trends, and Latest Findings - Gain Therapeutics",
+   "summary": "Neuroscience 2025: Key Themes, Trends, and Latest Findings Gain Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oUHo3MnVJb3N4Rkp1VEF4cFVlX2lYdE9jZVY3ZjFpd3NJTzlhTkVQSXc2c3pCMGpzQzNLTkJ2WlFlU25BanBzbF9CY0FwZ1lPOUFwcDNSejF2WXMwWUg3RlhDOURWUDl1RWNjNmZ2THdieGdPNWF3Yg?oc=5",
+   "published": "2026-01-06T08:00:00Z",
+   "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "afed705455733c92",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Privacy Policy - Helus Pharma",
@@ -16148,6 +16236,17 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUtYbnU2RzZZV0dhTTlaQjBtbEk1UU5Bd2d4QldxZ283VmF3WWpiRUpQbHk3TkFfVWt4VTlzNjJ4c3JCV2tWdzhlVk5nenJWQmtpMTNubE10eDBKUEF5S1laTjg3ekRDdURScEdhc2dnaUpMLW1BVURoRHJSbi1SclhuWV9wZWU3SWZRbmNmZXduWEl5QWM2TVFuSVdKRTBSNEI1b1J1bUlsVHNlWjMxN01fNFVMQXVLZ3RLRmpld1RWZnZ3QlR0SEtuOA?oc=5",
    "published": "2025-11-25T08:00:00Z",
    "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8de03799d72a26e8",
+   "company": "Cerevance",
+   "title": "Cerevance - Cerevance",
+   "summary": "Cerevance Cerevance",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS21BQmlzVTgtSXFpQVd3U1MzYlpLU29HM0Rub292dmlHQTluSWRYanREWDZLQmVaQkN1QmNBLVdteWNTNFc4Um92djduWHVmc1IyLW1LNF9IdmtQclNzQWtXaUwxTmdXTDJmVTI3aGNCWWUxZGFHZmE5elJVMGVvSDRadUoxSGU4eWEwa0pmSUR4eVdTdGpMa1lGTXRtUDNxb0p5UGVTbS1lazhhV19KRkw2UFcyRGhhakRMQi02VDdibWFFSjZFMEVpNUZ1TFVhR0s2UEdsR1MzRklnMGxHRHd3TEU?oc=5",
+   "published": "2025-11-24T08:00:00Z",
+   "outlet": "Cerevance",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
