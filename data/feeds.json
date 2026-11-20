@@ -42,10 +42,10 @@
   "checked": "2026-11-19T17:11:01Z"
  },
  "NeuroOne Medical Technologies": {
-  "feed": "https://news.google.com/rss/search?q=%22NeuroOne+Medical+Technologies%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Anmtc1.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://nmtc1.com/\", null, null, null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T13:15:54Z"
  },
  "Supernus": {
   "feed": "https://news.google.com/rss/search?q=site%3Asupernus.com&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-20T12:04:08Z"
+  "checked": "2026-11-20T13:15:54Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -539,7 +539,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Arapportrx.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://investors.rapportrx.com/news-releases\", null, null, null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T13:15:54Z"
  },
  "MapLight Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=%22MapLight+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
