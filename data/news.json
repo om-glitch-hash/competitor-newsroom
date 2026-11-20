@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:15:54Z",
+ "updated": "2026-11-20T14:26:56Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,28 @@
  },
  "items": [
   {
+   "id": "5b0a317eb0f69f99",
+   "company": "Usona Institute",
+   "title": "Will the first approved psychedelic become a blockbuster? - Pharma Voice",
+   "summary": "Will the first approved psychedelic become a blockbuster? Pharma Voice",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV3FJTEdjNEhuYURrbTJlZEhmLUNzRW1HREVrWTFzT3N1cWpJLU5IMlJhaG9Xc3pqVVlYbXJEelFKWGd1Mjc2YVotVGhEU0dIcG1fQ3phOWJROWJQT3d2SVg1OWIwVDV5dnJiRU1VQWNyT3Z6THNRV1NiMWNjQjNKQnBNU2FlRlk0dzBRV3pwX2JhUQ?oc=5",
+   "published": "2026-11-20T14:12:28Z",
+   "outlet": "Pharma Voice",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T14:26:56Z"
+  },
+  {
+   "id": "c17435afc147177f",
+   "company": "Novartis",
+   "title": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) - Novartis",
+   "summary": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclJ4SUcxWGJWejItTG52Q0NOMmwxM3NfUlk2UzVrMlVobHhheUR1MkJtNExGX0FRNEJYb1hLckhzTG9jUWxzdFJna3V4MkFsOXd3MXVWY2w3YUpla2dTZXJLTDRkZVo1MWZGUE13eEFxdVl5OXFUc180d0x3WDhSbTVKVTBibGJDVU5YNjFlRk5NYXFSVS1rcHMzLUJHMHRwLS1uYTlxTmxhLUZ2c1cwdkRvaEJacnpyVjJMWHpHVGJtaWdZQ3k3ODB2UllQRFhhOTkw?oc=5",
+   "published": "2026-11-20T13:23:24Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T12:04:08Z"
+  },
+  {
    "id": "b0fb614d5d56dc07",
    "company": "Novartis",
    "title": "Senior Specialty Sales Consultant - Immunology in Toronto - Novartis",
@@ -1707,17 +1729,6 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-20T11:07:16Z"
-  },
-  {
-   "id": "c17435afc147177f",
-   "company": "Novartis",
-   "title": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) - Novartis",
-   "summary": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) Novartis",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNUt4aWQzd3FSN25GLUhfTTVLZjhUNjBmMk1KS0UzVjRQNVROTHd2dGVsUTBFVzZvZ1NvQm4zWDU5dmt0X25OQmlIbWFsU3d1VmdyeVdYbkJ3eFkzZjd0ck51S2NVbWFkM3F2NmtFcE1Ob1NpNjZzYjByV0JUTGp1UXhxb1dDTm9KUDluaWl4dU9ZT0pGbXhpaXVadDRFa0RLUzZvOG9LckFaa3ZkYlNtbC1wTjdlOHZETlI2SHU3Tm1SNFNVa2F3VV9jOW1fdHlyejh1Rk91aGN4aXc?oc=5",
-   "published": "2026-11-20T05:13:46Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-20T12:04:08Z"
   },
   {
    "id": "9de54c46c4b9f139",
@@ -2105,6 +2116,17 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
+   "published": "2026-11-18T15:14:53Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
    "id": "ae43ecd6c96a7fd5",
    "company": "Novartis",
    "title": "Novartis ranks first place in 2026 Access to Medicine Index - Novartis",
@@ -2226,17 +2248,6 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb25DMVQyelJudmRhVjBWYTRLX1d3cnhKRlBwYzhxeWZ6RlR2dmtKSDBEc1hWTzZoT1RNOG9aRnhGMnI3NHRwdFRkMTM1cnFlTDJ2aFMtQjc5SkFYSjVYRkhXRngxdHByYURjWGs3bUxKMUhoRDRXZ0h1aEdCQ3B1VTJ4MDBfa2FxNko5MW1QOGVVOU1IN3FfUnN0ZWVoY0pKcDJMLVhsUkdpbTNIUjVsNG1fU2ktRnlIanMtM2dWT2xtb3dnVWotRTlXV2JwQQ?oc=5",
-   "published": "2026-11-18T04:43:43Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
    "id": "8976eff5273b73c4",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "PowerPoint Presentation - Helus Corporate Presenation November 17 2026 Website Version.pdf - Helus Pharma",
@@ -2268,17 +2279,6 @@
    "outlet": "AllSci",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
-  },
-  {
-   "id": "df6d46dad65f9e63",
-   "company": "Novartis",
-   "title": "Neuroscience - Novartis",
-   "summary": "Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPRUczc1hwU2tERHN0VTI0ZGYtaXJwdlpVYjNDY1RiS0NIbnlRSE1BQ0VrMTNDcmdVd0tiTGZNUWVwVk5uY3ZFQjU1dXBuTnhDdGg1cThaSEp1RVJTX29qSzY1ZEhHdWhOd1dUU1IyX1lGY1g3V1E?oc=5",
-   "published": "2026-11-17T18:50:28Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "34a6336482cef4ca",
@@ -2897,6 +2897,17 @@
    "first_seen": null
   },
   {
+   "id": "2b102621f3e1102d",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates - GlobeNewswire",
+   "summary": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeml3a0kxSWUtWV9YYzY5Y1Z6aDNhM1ozYWYwZ01BVkwza015UWgydWVzUnJ3cGtFNTNQZDBlYmxJQklfN0FvNDlDdXJacC1EMVQ5YUl2UkhPRGNKWFA4aXdzQnowVE9Tei14MkNxVHlOdUpTR0RWMUpKeUlmVUF1OGQ4SzgyX0xIS2dlaHNieEM2bUlBSWtMNEoyZ0FLdVdEVl9RMVpadnpGbFJCd0I1RzkyZmdsWUMwalE0b3YxMU9zaDdWNFc1RXRERC1QYzdHZU5PVmVWSHVvdmh3V2E4V2JQVlEtMmdqbDRHZkx0QnE1eDNPbGNHUnNR?oc=5",
+   "published": "2026-11-12T21:20:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "11492d0e4fef6186",
    "company": "Serina Therapeutics",
    "title": "Serina Therapeutics, Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
@@ -3150,17 +3161,6 @@
    "first_seen": null
   },
   {
-   "id": "c9586dcd8455cb7c",
-   "company": "Johnson & Johnson (incl. Intra-Cellular)",
-   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
-   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWFvOUhrNXVuTkVzb0FJb3RjY3B0TXRON2hYb3E2ZGNsaFVuQTg5V0ZfZnlFZzBGZU5DQmF2anVBMXR1cmVGRXRCXzRQcW1GeE1FYXF0UC1hckJILWktT1F1RVlsSXlRSHA3WnJjckFZeWh4cE9UWWYxZklSRjRjQnJLTDFFMlVLZUVlUUNkVkpRRlVYWDBHZEU5TF9WRzd4SXpRX0U5RU90d1h1OVhSOWkycHFNdnMtYXh2aFBaRG5Zb2pCS3h2ckRVVnJvaG1uX2lKOFdkRFNnSlNmYnp1Skd3dVN5dlE3TFZJNGhwTS03Y1pmNWFCMHNWWU9xU2pGM3ppRS1LVk5xZk9rdlBIVk1SeGR6NVVNb2Z4Qi1TUlhackhBRkZGbXY4S0pqZm5aa2xBQg?oc=5",
-   "published": "2026-11-10T19:28:38Z",
-   "outlet": "Johnson & Johnson",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "3bec278c55fbbe92",
    "company": "BioVie",
    "title": "BioVie to present additional Parkinson’s drug data at international conference - Proactive financial news",
@@ -3180,6 +3180,17 @@
    "published": "2026-11-10T13:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c9586dcd8455cb7c",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
+   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTkhvOGlxN2tNRGpzTGFCZHJ4bmYxUGtHWUd6SGNMN01JV1Q4VGh5dGhtb3c3MkVrWENUc2NQaXhJSkJ0amNfaHBiWEstaXo3SGt5YXg2Q1pNUEVZM1QzYTJaZXBJOXpaOFFlSWI4YzVrbHRuLThPV2NxQUZsNEk0bmdndWFsNkhzcnBUNmQ1dVV3aHZMQ2ZLQzIzNHdEVE9JbGJuN0VoXzZNNlFodEFEM1hNWjRKOGpLanB3U3k1dXZtTTU1Y1dMazlzZ3RhYTFlS2ZvenBoZGVraWlPcXppQ3ktN0FEdElvalhxb2R4ZW9vRDFIQ19Mc2hnYTZpTDJyVDltUmRUUXo1TEs1UmMxSA?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -3832,6 +3843,17 @@
    "first_seen": null
   },
   {
+   "id": "2cf35cbec44fb95a",
+   "company": "Idorsia",
+   "title": "Media Release - Idorsia",
+   "summary": "Media release Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmJYcXUyN0V2bG4xbWx0TFNPeDUwaE5LWTN1c1BtRURGZmNyTVk1amQyRWNweTNCNC1uWkZsWlNNdTdmclBCX0NPcnZ2S2FqQXRjanQ0U1I2aWd0QjZ1Y2tJeXRET1F2R3dMN24zbk80b3dsQUZrQmFoOXlIM0ZCaXdSX2tfblNTOWJpU0I5bVo3QUkxTkNkU1gycG1Gdw?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Idorsia",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "aa94d8a73b860333",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
@@ -3872,17 +3894,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSk0zcHd2X09aVUtqYy1kYWVtdXY3V3hjTGR1WWwxOEt1bmwzOVROeHRoaGxlcWpFRXJhUHVVbk1VcVVnSHNGcEtDWDRVUmVkVk9WbXVPdHpCWEJwcmJ6WGtabXlfNTA1TDlnRk5MMXRMWjY5bkJUTWNKTlFoTmVsSVZtX0tzVTNEQUZSbUU1RzRtSHVJNnZqbzNwWXI2UTA2UUtOaDlKT2szZXBHXzJ4MQ?oc=5",
    "published": "2026-11-03T21:00:21Z",
    "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "8644e23223844f87",
-   "company": "Novartis",
-   "title": "Neuroscience Territory Account Specialist – Jackson / Memphis - Novartis",
-   "summary": "Neuroscience Territory Account Specialist – Jackson / Memphis Novartis",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDhJeC1xRmxZeV9zSEluUGJFbWdIbGkwZHlieW1XWDhpS2RWSE9FMHE2c3pjSXVoTlpoazZhcHN3VGpSOGl1cThwckR6LV91eTVkbHNvNHlOTXZyM2FPUnh3OWVxckxqMlBPOGQ5dGxETFhLZklCZTdCQVVMbEpUX01xRlZzYWk2YVpXa3V4Y3dRalJxVEdFand2SU1hVjJEVVNqRHpsOUpuWDItVW5OM3RZbVFURkpLWnhUZW1fdG5HMHhQNTZsektaSGhWM0N4?oc=5",
-   "published": "2026-11-03T20:49:25Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3942,17 +3953,6 @@
    "first_seen": null
   },
   {
-   "id": "1edaf5ba7f41e3be",
-   "company": "Novartis",
-   "title": "Value & Access TA Head Immunology & Neuroscience, APMA - Novartis",
-   "summary": "Value & Access TA Head Immunology & Neuroscience, APMA Novartis",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjQwVFltcWdNNThzWEVEUm5OYmdfZGFSTGNySm14eVVRcUluWkNsTWZ3UmlTVTVPZEpjVXR5dngySk9URDFRN2dhVWxJZ2NLd0VGeFlKWnhFMk5TZF9vM3lIV1d0NnNURFJBX011YUhPTW1ELXlLcmJJZTltVlZsVEJTQWJ6U3piaDlGVlI0eFFXWjBVVnJkdG41b3ZQLTRQdHlfUlk2Wm1fQy0wSWo5dE82dUd2cDY5dGFnVF9vUGlqMnRJVlE?oc=5",
-   "published": "2026-11-03T14:45:53Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "9bad51da3c82bed4",
    "company": "Alkermes",
    "title": "Alkermes Q3 2026 Earnings Conference Call Prepared Remarks - Alkermes",
@@ -3997,12 +3997,12 @@
    "first_seen": null
   },
   {
-   "id": "b2d81312b5f66a65",
+   "id": "09dc9da2ee08778e",
    "company": "Novartis",
-   "title": "Neuroscience Territory Account Specialist – New York City - Novartis",
-   "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjVuclN5dG5iVHpvSGxXZ1BIdzg0cGp5cFQ0VW1BSlRUb1dRQk5OaHdsbG5pQlpuODNJN2xQUWNudlFkeE9mdEpGSVppdEE5d3d6U2dmdXRBaVJIMW85cl9vV2JIQS1zaV93U1F6TUdpMUJSRFd5T1Z5M1dJVHV1R1l1TU9HdjJmRmhjSEMySWpqV19UNGZHOVJIU3lPV1M4OXhjSjU5RTNDeG1yemstZHNoTDdyNDlpVHpfVDloZmwwRU5FbWE0UFFYcWNZQQ?oc=5",
-   "published": "2026-11-03T10:29:10Z",
+   "title": "Neuroscience Territory Account Specialist – Albany / White Plains - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – Albany / White Plains Novartis",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcmJnYkNCVjIxbThnMVI1VmZGdVFtSWRQUGVYTDMtR3YxVWd4U2lfaUdQaEV5aWMxWjZac2xyWnJRenUyRmE1OFJaNURLRkNlRmVrc1VKYlZ1eHRSVGZGa0c1Vkp0N1BzWXVfdllwT29lckFfMTNjcHlZck4zNFdka0tBVk1wYS1JZW84UlgxXzgxcEE0MUs3ckY1aFlzbGZ5MFk4Sk00VnZxYkVWZV9mWjlRQ0ZFMnU3X0xrN3llU2ZFVklQZm16RjN5dGhLWFVMcGVKZUFB?oc=5",
+   "published": "2026-11-03T09:02:27Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -4147,17 +4147,6 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xTjUwN2dsUnNPNTJHZ19YQmZnMzdwZjRpNWF2VWIxU0k0MmZWMzlBR0l3a3l1Qm9tRGdqVXdMOFNRNFZGWEhPRUtCNkkwa21JX0k2dUw5OVFNbGxCdXhqQ3YzNmJDczBKQ1p5U082RE1TS0xLbUp3WUFkVnJoQQ?oc=5",
    "published": "2026-11-02T18:34:29Z",
    "outlet": "Supernus Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "09dc9da2ee08778e",
-   "company": "Novartis",
-   "title": "Neuroscience Territory Account Specialist – Albany / White Plains - Novartis",
-   "summary": "Neuroscience Territory Account Specialist – Albany / White Plains Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNHZVVnJ1Z3duekZmaUp2Q0NRUFNsemNtbExRN0s1M29qc0FMdzd5YzZjU29RcUJaQ21wSEk3MzVRMmFUc2VHRENhTjBqVUVGWldnYnljX0JJcHNHUTNjdXBfSWJ6azViODVWMW51d3VfbDhNdXpkcEdZUFdPYS11U2N1ekllbG1iZGJwQjRsWTZxenowRm9nNk9VSTJEdnZHb2s5M1NIQUVTLV9vd0JjbEFzQ1gxZlQxMnp4YnRBWlF2Z2RreUJUb3lJbUNuQQ?oc=5",
-   "published": "2026-11-02T12:57:20Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -5031,17 +5020,6 @@
    "first_seen": null
   },
   {
-   "id": "2cf35cbec44fb95a",
-   "company": "Idorsia",
-   "title": "Media Release - Idorsia",
-   "summary": "Media release Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmt2TDZucDZsaGMxdkRjdGE1UGNzMGNBRHdiaG1mVjhUQWMzSHQ1ei1keTJ3a1d6TlgyaEkxZHVQaFNVckxaQ3YxX2ZJRGozNEdTdnNQaEtzLWRteVJoOGtud1lwbVhPOGxKNFBOX2gwa1BMMG9UVVV2bl96ZTZuZHdSVnBVRDY3N0ZYdGhuSmtGVGI5aDZhVG5nRWRYZw?oc=5",
-   "published": "2026-10-23T07:00:00Z",
-   "outlet": "Idorsia",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "9c54b69f8794f227",
    "company": "Resilient Pharmaceuticals (ex-Lykos)",
    "title": "Exclusive | MDMA-assisted therapy could get FDA approval as soon as January: advocate - New York Post",
@@ -5570,6 +5548,17 @@
    "first_seen": null
   },
   {
+   "id": "8644e23223844f87",
+   "company": "Novartis",
+   "title": "Neuroscience Territory Account Specialist – Jackson / Memphis - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – Jackson / Memphis Novartis",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMjdpMm95Ul9Tc214TktkZTdIMXNsSWx0Uk9wQnZMOUFSNU1YeVFfLXE4N3RkNlpkUlFhMmJrcFpuV1RSM0cwZjg5Q2ptTldoSGwwODBrdlBZZVE0NWx5ZWlFUHhCMUhMdzVhNm5JYjhQUS03eDdJc0xHRVJWMTVOTEk3MkRyNVRCVWJ4amhfWWp1TGUydmVHQW5UN3I0RnMxdDZBZTdnS2dCbFAwRmRReE1veGtHbnJqc0g0eVFONUY2T2dXR19wSXE1dzM5ZDhK?oc=5",
+   "published": "2026-10-14T20:21:48Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "d9e2745c582c66a3",
    "company": "Seaport Therapeutics",
    "title": "Development and Application of Physiologically Based Modeling of Lymphatic Absorption and Disposition of Allopregnanolone to Support of Model-Informed Drug Development of Lymphatic Glyph Prodrugs",
@@ -6076,6 +6065,17 @@
    "first_seen": null
   },
   {
+   "id": "1edaf5ba7f41e3be",
+   "company": "Novartis",
+   "title": "Value & Access TA Head Immunology & Neuroscience, APMA - Novartis",
+   "summary": "Value & Access TA Head Immunology & Neuroscience, APMA Novartis",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONlEwcE5oaHhuMkw2ZG41U1E3NjBwTDhKVHRxTXkxN0pXSE1wTVd6ekZDVDJQM3RNSVprZEp1akJXYnZuU3JxRFo5b1Q5MXRibldRZktiR0VZdFhZaTcybTdQeVRvQWllazJManVJbVdCRXVMOFJXSTJyZEhYQmJQUno2dlJTRDZwYXA3X1dhUTNsRkFvdXRDajZObEZvSDNqVnhQb2JjV0xJTUJEY2RXUTNKR0VQUlJVVWtqLVpMdDIzaHNjV1E?oc=5",
+   "published": "2026-10-08T01:10:01Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "0d3e8e2abb798513",
    "company": "Novartis",
    "title": "Neuroscience Territory Account Specialist – New Orleans - Novartis",
@@ -6184,6 +6184,17 @@
    "outlet": "Psychiatric Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
+  },
+  {
+   "id": "df6d46dad65f9e63",
+   "company": "Novartis",
+   "title": "Neuroscience - Novartis",
+   "summary": "Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53Z1hnUUJVX1JoR3VTRFpiODZUOWF4V0hGSUVQUVVuTlAxT0gxRU4xSXVoNWRzaHA0T3FnWHhlcFBTRlk3TjBBR3lpTWdadW9HUG1kOTFKVlY4OGVQeUpJYjZZeU5WMlhJYWtFM3AxZm01QXNzTEVB?oc=5",
+   "published": "2026-10-01T18:07:40Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "eb9c2fd4b9a13cb7",
@@ -8265,6 +8276,17 @@
    "first_seen": null
   },
   {
+   "id": "be592206d09506fd",
+   "company": "Novartis",
+   "title": "Neuroscience Brand Manager - Novartis",
+   "summary": "Neuroscience Brand Manager Novartis",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQl82bVBITXNXVEQtMS1fVTF3MGlYRERvRFBtSHhraldzc2NqUERsZktCalZ0QjBjU3Y5enFGeWZ6dEIyNHFzQ0tKSmpnV1FYb2VUbi1rZENoZ05UdkVVTjBfU0pjZzcyLWNjN0dlcHFNOVJibUFQeHdoMGhkRU11Q0NzaVRlZXRFZk14ZkpYakRieG95NnRramJlX01reG8xOHc0UGtUSDk5eERUcXZV?oc=5",
+   "published": "2026-08-22T03:45:06Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "ed66272d0081aac5",
    "company": "Resilient Pharmaceuticals (ex-Lykos)",
    "title": "Psychedelic Policy Briefing 8.21.26 - Lucid News",
@@ -9827,17 +9849,6 @@
    "first_seen": null
   },
   {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "cbddd078a7b989f3",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Announces Key Leadership Hiring, Promotions - neurocrine.gcs-web.com",
@@ -10054,6 +10065,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3BiYmhjMlI1OWNMZXMzTGpTOV9ybGhMSVVwVGZ4VGVWX0xuXzNPcjFmVUozNlFHaVZFWTJBek1LbGRkQzlYeVRucVRFRk5sMVpTaldkengwTjUzekY4S3k0UXBCWWZzR3JsbUh2ZUhFVTU4ZDlRWXk5emI4a0VYcFI0bkNvSWtoenFCUjJmNXp1aDZOZFVhTHlEN3YzOFJscm1rYXA1dkJ3UGFvbExQT3pOUlpjN29XcTNN?oc=5",
    "published": "2026-07-21T07:00:00Z",
    "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b2d81312b5f66a65",
+   "company": "Novartis",
+   "title": "Neuroscience Territory Account Specialist – New York City - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2VQWlhJem1hUjF6N1JuMzRYR1ZfNDhXazJMMmlZMTZZQWpsQUZiejBTRHZDbVE0dzRpR3NhYUt6V1RibkR1bHVZMUc0N1UwZXNvZFBla0lMd1ExcUNUMk1kQ21KOXR3al9GNEx6SE1aaGhwQV9yZkxpQmE2WXRyemQ5ZndXWEdqdU1TRlMzLXNpWW9hbFpQOTdPYVk0SXJrTTFwblIwUTJZelpFLTNtb3B0c3p0UGw1NUtKeFdZOENsVDhhUkE?oc=5",
+   "published": "2026-07-21T00:57:02Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -15426,6 +15448,17 @@
    "first_seen": null
   },
   {
+   "id": "a60fc63f02e4ccf0",
+   "company": "Boehringer Ingelheim",
+   "title": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies - Boehringer Ingelheim",
+   "summary": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies Boehringer Ingelheim",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzRxWTdZb25lcy01dWRtZ0dkQUM0d09NeFZNNXVVTG93Q0NNYjhMZ0RWN3dpY0FlOWJwMWJsUHQ0Mll4NDB4a29nZWxZalFueVB4TXlNWEs5Vk9qdC1jWDR3Yk0xQkRYcG1OV0E3WFlaYXUxMlktajlTODJqNVowMTVwa05WQU43Tjg1S1VB?oc=5",
+   "published": "2026-02-25T08:00:00Z",
+   "outlet": "Boehringer Ingelheim",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "e61a079ba9e6a5eb",
    "company": "Kenai Therapeutics",
    "title": "Kenai Therapeutics Appoints Blake Arnold, CFA, as Chief Business Officer",
@@ -15987,17 +16020,6 @@
    "first_seen": null
   },
   {
-   "id": "a60fc63f02e4ccf0",
-   "company": "Boehringer Ingelheim",
-   "title": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies - Boehringer Ingelheim",
-   "summary": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies Boehringer Ingelheim",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON3pqWUVGUGlySUw1SUZOcVBfblYwU3NJMnRnRkh2cnY4TU1sSGxmZko5OHNMdmF3ZzZZM2hxd25lZE13LUVYSHVhNm5nTnptYkthclZ2aEE0MnktTk1IY0t4ZUc4LUk5ZUdIRGt2UE41QTZvVHB1QThvbVhLRjE2alBZb0F0d2NUd1owWg?oc=5",
-   "published": "2026-02-08T05:45:50Z",
-   "outlet": "Boehringer Ingelheim",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "ff5595468e382553",
    "company": "Insightec",
    "title": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor - Insightec",
@@ -16137,6 +16159,17 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZy1SOGZRSjBCU0RZX3J6VVRSUmIwWUNDdmZQcVJDSnJBNmJHeUw4eFZSVk1Za3dVVThWMDEzSnIzcllfZmI5SnNLLUx2Tmx5MUtFOEs3eGVPVjdQRGUwQ1BLTXpsNWs4cUQyRGxCeGZZVUNPVkVlaVIydDhwbG5iVTFJZk4?oc=5",
    "published": "2026-01-31T21:24:31Z",
    "outlet": "Remepy",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -16475,7 +16508,7 @@
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting - Johnson & Johnson",
    "summary": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUjI2blNPVV9UbElmUmI4TGZUR1h0OG12V1NjOHNOUk5GSzJ6VWNUR2FfOVBiSW9MZ1E3blVBVFFOMGphalE5dlRIczJKYkVSNEtCX3VkZThiT2RIUlVoWno0ZFdYVHA3U2JDRzV3NXFyRjNiVE9tcTBBT0gzZWhZWGQwTTVRLUxObjBFNVczb0REdVFWOWk1WUktRmZDbG1Lbm4xN3VCSGo1X3EtZTNOX1ZrdDVGeUpSSjZfQ0lXdGlwelZEbmdZUFN5cUh3dFlyTldfc0lFbEV3TWRlVVFiN1dKTG5seExoMmdKOUhPOFFIMmdZdTlYM3h6aENVWEtEa0N5Rk5abGpsc3dnV3dfUkUzRDNZempSZ3hxLU9hbE9VVi1aNjBHaUYzVkljUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdFBDQnpnOWpNczB2Y0YzcUNtSnNpa1ZfdnpYVWFGbTZaSjhfR1dIQTM3UEZFRDJLcjRnY09KS3NzMmtJWlJVeW93T0NNc2dESXpLb2JKd09YZUxsRU9LcDJsQ0c0ZTBVSkZVb0FxdkxIcFRUbldXaDBadzNpRURVWkdRSk00aEZuX3RwQzRvTHFFRDZRVUE3d0c1Y1pDTHV6emY3Sk82V1FwcnozSU42TzNJdm5VcXl0Sm1qdUJBYmRSVFN3TVkwTHYxdUhzeUJnUUxjd3l1UlpmRlc1U0VSdHJBbUZubWdwSEx3aGVDc09pX0FoUGQwbGFmVEZxT3pOSFR1WE5VeFM1UQ?oc=5",
    "published": "2026-01-13T08:00:00Z",
    "outlet": "Johnson & Johnson",
    "method": "newsroom via Google News (site:)",
@@ -16816,7 +16849,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - Eli Lilly",
    "summary": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0MHZlRnFhQUVIclZpX19KdS00Rk1kX2R5SERTa3ZqT3FhMDNWc083ckYtRnZsaWt4eTM1ZDlHZWdjUi1GazVwTlJnZHdEdjNKMUk0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjdwYWFSNE1WN3JMRkFzUnk5NGk4cWo3N05TMGhrdHphaFJDajVYeUZDRnR3TG43Q0ZXUm1lZXN6QXM4LURmWldsX1NkaWgyY3R5VWpjd2Z4RmZOY1ZuZWZ3NjNYLUVYUm5NdHg0dFVURlpMbnY1dU5mUVJtV0lOLUVlNEk2U0RDMklxSXNrcEVIUW8yUWNYeE05TUZQOWhVMXhvaFZfaWdwbXJYUlVOUGZ4Z2h3UXA5?oc=5",
    "published": "2026-01-07T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
@@ -17820,6 +17853,17 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVDZkZVFScXVMVjJjT0lRbEZHcmdsc2VZOVZERGUyREM3ZVBiQlNib2FVemFDc0JiNG1PNGc2Zk85SnR1Snc4VXYxYmFiQ0NSNFZIa0xTYkJ3d05UbHlQdGYwc2xDcEc2MFJ2OEI4Uk9qanozMEFFZXdvWFZDbTF2d2RYUHJhZ1duVXBvQ0taRmo2UzA?oc=5",
    "published": "2025-12-03T08:00:00Z",
    "outlet": "STADA",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1b5d854093266fdb",
+   "company": "Annovis Bio",
+   "title": "Annovis To Present at the 2025 Annual Meeting of the Parkinson Study Group - Annovis Bio",
+   "summary": "Annovis To Present at the 2025 Annual Meeting of the Parkinson Study Group Annovis Bio",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZDJtb1JMN1hEb2VFQ1o0MDZHX3NMRkRRWWI3UWhVMWxnVDRYM1Jsek9yWGxZamtqaVhZdktQUVFseDRRdkdSODNQUnFFUGxfN2p6dzlSMTVTV0d5dnZzS1FZVE5JWEhtV2dVd2dybGliQkpJWUM4bTRTTVMwWFRsMmhXdllCWkRZOXJzNW10NUdyZU95ZlNOaEpyWk5kdUFSQWpRNUJTWnBGZ3NQTHJPSzlEVXAzZw?oc=5",
+   "published": "2025-12-03T08:00:00Z",
+   "outlet": "Annovis Bio",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
