@@ -146,7 +146,7 @@ companies:
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "P2B001"}
 - name: Annovis Bio
-  site: https://www.annovisbio.com/press-releases
+  site: https://www.annovisbio.com/press-release
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Buntanetap"}
 - name: Biogen
