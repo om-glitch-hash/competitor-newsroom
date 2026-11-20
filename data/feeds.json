@@ -123,7 +123,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Aarvinas.com+%28%22ARV-102%22+OR+%22LRRK2%22+OR+%22Parkinson%22+OR+%22neuroscience%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://ir.arvinas.com/news-releases\", null, null, [\"ARV-102\", \"LRRK2\", \"Parkinson\", \"neuroscience\"]]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T16:26:33Z"
  },
  "Brenig Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=%22Brenig+Therapeutics%22+OR+%22BT-267%22&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-20T15:26:15Z"
+  "checked": "2026-11-20T16:26:33Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -265,10 +265,10 @@
   "checked": "2026-11-19T17:11:01Z"
  },
  "International Stem Cell Corp (ISCO)": {
-  "feed": "https://news.google.com/rss/search?q=site%3Ainternationalstemcell.com&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:)",
+  "feed": "https://news.google.com/rss/search?q=%22International+Stem+Cell+Corp%22&hl=en-US&gl=US&ceid=US:en",
+  "method": "news search (newsroom not indexed)",
   "sig": "[\"https://internationalstemcell.com/\", null, null, null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T16:26:33Z"
  },
  "Herantis Pharma": {
   "feed": "https://news.google.com/rss/search?q=site%3Aherantis.com&hl=en-US&gl=US&ceid=US:en",
@@ -307,10 +307,10 @@
   "checked": "2026-11-19T17:11:01Z"
  },
  "Engrail Therapeutics": {
-  "feed": "https://news.google.com/rss/search?q=site%3Aengrail.com&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:)",
+  "feed": "https://news.google.com/rss/search?q=%22Engrail+Therapeutics%22+OR+%22ENX-102%22+OR+%22ENX-205%22&hl=en-US&gl=US&ceid=US:en",
+  "method": "news search (newsroom not indexed)",
   "sig": "[\"https://engrail.com/news/\", null, \"\\\"Engrail Therapeutics\\\" OR \\\"ENX-102\\\" OR \\\"ENX-205\\\"\", null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T16:26:33Z"
  },
  "Cynaptec Pharmaceuticals": {
   "feed": "https://news.google.com/rss/search?q=Cynaptec+L-130&hl=en-US&gl=US&ceid=US:en",

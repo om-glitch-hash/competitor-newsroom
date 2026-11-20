@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:26:15Z",
+ "updated": "2026-11-20T16:26:33Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1918,6 +1918,17 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
+   "id": "2ba295709c19d406",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com - Investing.com Nigeria",
+   "summary": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcG9BSHFqbzUxYnlVQmVIbUdMQ3JqTS1QUHh2NUROOFZwcUxGWm9tMWNtN040aW9KUFZxdm9BVDhCT2pYd3BmU25FaDVJZWkyN2JJeW1xNnVCTXJLQ2tjbDc4ZGllSzBRNEhfRlFBNlNUNW4yVExWcGpubkh6dFhWb2ZtdkJEYmItNmY3Ql9IWXJ0NTB2M2VNbGpvSXNWaEtrT2d0YmNwb0hRUnc3WFU3dUpFUUdwLVRzR3p5a3ZIdU9salA2cHZVbXF6SV9iZ0k?oc=5",
+   "published": "2026-11-19T14:19:10Z",
+   "outlet": "Investing.com Nigeria",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T16:26:33Z"
+  },
+  {
    "id": "59c41d55f94c5c27",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson Seeks U.S. FDA Approval for CAPLYTA in Bipolar Mania, Marking Fifth Potential Indication - Johnson & Johnson",
@@ -2908,6 +2919,28 @@
    "first_seen": null
   },
   {
+   "id": "aa1a60b0ef337c64",
+   "company": "International Stem Cell Corp (ISCO)",
+   "title": "International Stem Cell director sells $10,496 in company shares - Investing.com",
+   "summary": "International Stem Cell director sells $10,496 in company shares Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaUhyYnZkMHYyQTAwT25nTXBMTV9VM0VRSE9TOTJRNW1td24wcVhnLUpydkdZY2FoV1RHUlZVS0F1dWZneC1rX1NlZE1MVEUzTVJqZHh2ZE5odDdVMWZteVVEU3VvOXdnNEFOR1JMOE5ZMU12d0gyOVF2d29NeWtuemVZQ2dpZWhKd0lNeFVVVDRIOGk3NXZuRE5PR3BGcEU5c2ZFY1JON1lkSVlJa185cm5DcEV1U0MycVdidXVMNkZXS2drQXc?oc=5",
+   "published": "2026-11-16T01:44:29Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "478dd93c1497280e",
+   "company": "International Stem Cell Corp (ISCO)",
+   "title": "Form 4 International Stem Cell Corp: Paul V. Maier (Director) For: 11 September - Investing.com Canada",
+   "summary": "Form 4 International Stem Cell Corp: Paul V. Maier (Director) For: 11 September Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT1lFS0c0S21vYnI3OGc0dnE2bWdoYjNCZldRM2lDZzlCSE5idjV0MVl5dndNRURLdlpEcS12R2FCSkhTSWlvSzFlQ3VQUDJPWlc1Nklya0g0RDhiVU9oOE1aSDdqUlZTUG95X3VNSXg3Sk1nR0l0bGFCZDM1YXJMdkJsbUpEWHk4RmdacDg5bzRyemZoLUxMc0p2Z2RPX3dTTk8zUmFvTUNIUFpFYndKSWd4RXhZUkFfZVUyV2ZIX2ZfLUFydTQyWml0Q3JDdGdZ?oc=5",
+   "published": "2026-11-16T01:40:35Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6f74c74117334b1f",
    "company": "MapLight Therapeutics",
    "title": "Form 144 MapLight Therapeutics For: 15 November By Investing.com - Investing.com Australia",
@@ -3854,6 +3887,17 @@
    "first_seen": null
   },
   {
+   "id": "9aff136a92ffcdeb",
+   "company": "Annovis Bio",
+   "title": "Press Release - Annovis Bio",
+   "summary": "Press Release Annovis Bio",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRTlKcGpJYlUzOWx1eTNELVJTMi0xcmhkOFJtRjNGUWlhb1IwT0VlWjNweDd1SkVZbFdpdzdBUm4wSnNxdEQwMlVUNDVEeVpDLWUyaTd5SDcxLWExbVpQeTU3aGJzYTA?oc=5",
+   "published": "2026-11-06T06:10:28Z",
+   "outlet": "Annovis Bio",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "7480e82e2c8dde4e",
    "company": "Novartis",
    "title": "Account Manager, Neuroscience - Novartis",
@@ -4038,17 +4082,6 @@
    "published": "2026-11-04T10:14:14Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "9aff136a92ffcdeb",
-   "company": "Annovis Bio",
-   "title": "Press Release - Annovis Bio",
-   "summary": "Press Release Annovis Bio",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnVrOWtLV0J2enpSRUpZRWlkQzYtMlI4dWZFT2VoU3RoQjNhTHZtYVVFZjJXUXdqS1E0T1BEdUdDM0w2YjF5X0xZbC04ZFc3Vkt4bUJ2Zm5NeVo2THhkZUlzUVAwcW5iSWU3NC12YVBlb0pGeWZlQlpSODJnUkpsTXBKU05MMU53R1BGV1pOankySGsxdm9uX1g2aHNLdm11Y2RTRmFvSUtjUjRrdkE?oc=5",
-   "published": "2026-11-04T08:00:00Z",
-   "outlet": "Annovis Bio",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -8562,6 +8595,17 @@
    "first_seen": null
   },
   {
+   "id": "b24d1c322256bb5d",
+   "company": "Alterity Therapeutics",
+   "title": "Long Shortz: Alterity Therapeutics - NT News",
+   "summary": "Long Shortz: Alterity Therapeutics NT News",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPU2puNUViTXVrUlZYSTB6RmI2VDRqdERJaTdDV2F4VHFIQ0FfT2tNV2hUQVM4bk0yblNqNmpDYTNKWkwzaGNtOVNvOU1VSGcyREYwOUlaWV9oNFhVYWY3ZmJhN21KQ0dJS2FJSUxMa0VDWGREVU85VUNSVWlIMFF2Z1ZWRUFUWE41T1dmVkFvMHhBcTQwcHVVbFFiRVZlOVRZQkY3TmJTYTdwS1NKVEhOaGVmTVhRVDQzczZQeTF5R081TDRBWDJtWWFLYk45Z0M0UXR1R3dGU2k5NUJFWEdtWjFnekJZZFBxUlpSNUQ4LTRtbHEzVVVrOTRqSzRocFRxX1I3bVRB?oc=5",
+   "published": "2026-08-24T07:00:00Z",
+   "outlet": "NT News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "537eab7638108e6b",
    "company": "MapLight Therapeutics",
    "title": "Segal Trials Reinforces Leadership in Acute Schizophrenia Research Following Participation in MapLight Therapeutics’ Phase 2 ZEPHYR Study - BioSpace",
@@ -9062,6 +9106,17 @@
    "title": "MapLight Therapeutics Raises $150 Million in Private Placement of Stock and Pre-Funded Warrants - TradingView",
    "summary": "MapLight Therapeutics Raises $150 Million in Private Placement of Stock and Pre-Funded Warrants TradingView",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNS1qVWhvdzIzWURlUTZYa05fOVNOUWZMbGVnMmdsUmRQY1BzNDRBTXhWTldmckpPSWxZZmx0OER6UUYxYUNFTm1URzF1cXNHcVhCbHJZSGI1Y0dlTFY1N1FDVUo5c3EwUnlVTGliRGNBdC1PQ2JjWnEzOEtXTk9lRHlfZVMzVFA0RjRubkFnM1MwbTRzcDlBVG1QNlZ0YUZzSUtnUFgzTG1YRTNPR05aSzlVQTcxeHB3ankzbUFKNUEyVXdPeEVucmtvNi1HRHpkRGtNbHFkdlM2dWJhRkZPZzRhV3d0NHE2NDZRMQ?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e37bfe77b9616997",
+   "company": "International Stem Cell Corp (ISCO)",
+   "title": "International Stem Cell CORP Q2 2026: Revenue $2.68M, EPS $(0.01) — 10-Q Summary - TradingView",
+   "summary": "International Stem Cell CORP Q2 2026: Revenue $2.68M, EPS $(0.01) — 10-Q Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkpIcy1fdTJzbzdEb1NKQ3U3YmhrcWxUWXNFRVRaXzUxcE9GcWIxZk5Bb2ZTaWdtVTVjVFdpdlFKeFBUVjJmS0UwSXpKdjZCbVdGcWVxVEZVM3NteUVlNk5Qb29WbnJnd08tc1Z0V2VHSGg2MHhJOVIzZW15X09EUGJfcjRiRUc2ZDJnXy1YN0RoWmd3dGY4YTRVWFVwZ25YdXpSbi1NNFJfY3ZXYVUzWVFZOURDR2NaaVRvRFBINDNhdGROaHl5Rk5FbUJKbWc?oc=5",
    "published": "2026-08-13T07:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
@@ -15954,6 +16009,17 @@
    "first_seen": null
   },
   {
+   "id": "a60fc63f02e4ccf0",
+   "company": "Boehringer Ingelheim",
+   "title": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies - Boehringer Ingelheim",
+   "summary": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies Boehringer Ingelheim",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzRxWTdZb25lcy01dWRtZ0dkQUM0d09NeFZNNXVVTG93Q0NNYjhMZ0RWN3dpY0FlOWJwMWJsUHQ0Mll4NDB4a29nZWxZalFueVB4TXlNWEs5Vk9qdC1jWDR3Yk0xQkRYcG1OV0E3WFlaYXUxMlktajlTODJqNVowMTVwa05WQU43Tjg1S1VB?oc=5",
+   "published": "2026-02-25T08:00:00Z",
+   "outlet": "Boehringer Ingelheim",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "e61a079ba9e6a5eb",
    "company": "Kenai Therapeutics",
    "title": "Kenai Therapeutics Appoints Blake Arnold, CFA, as Chief Business Officer",
@@ -16511,17 +16577,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LWHFtb0l3MXo2QUp3eTNKUnlPaTBmZ1N5Rzh5Vnp4M0dWc1JiUzZpLUxoQl9aeWdNSlRBMzkxWmpjMzJ6QXJzTE1KNFZUNEVtaVRlMlNURE9GaGN3d0E?oc=5",
    "published": "2026-02-08T08:00:00Z",
    "outlet": "Transcend Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "a60fc63f02e4ccf0",
-   "company": "Boehringer Ingelheim",
-   "title": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies - Boehringer Ingelheim",
-   "summary": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies Boehringer Ingelheim",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON3pqWUVGUGlySUw1SUZOcVBfblYwU3NJMnRnRkh2cnY4TU1sSGxmZko5OHNMdmF3ZzZZM2hxd25lZE13LUVYSHVhNm5nTnptYkthclZ2aEE0MnktTk1IY0t4ZUc4LUk5ZUdIRGt2UE41QTZvVHB1QThvbVhLRjE2alBZb0F0d2NUd1owWg?oc=5",
-   "published": "2026-02-08T05:45:50Z",
-   "outlet": "Boehringer Ingelheim",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
