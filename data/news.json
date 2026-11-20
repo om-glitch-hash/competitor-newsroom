@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:28:46Z",
+ "updated": "2026-11-20T20:21:56Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2336,6 +2336,17 @@
    "first_seen": "2026-11-19T17:31:37Z"
   },
   {
+   "id": "df6d46dad65f9e63",
+   "company": "Novartis",
+   "title": "Neuroscience - Novartis",
+   "summary": "Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPRUczc1hwU2tERHN0VTI0ZGYtaXJwdlpVYjNDY1RiS0NIbnlRSE1BQ0VrMTNDcmdVd0tiTGZNUWVwVk5uY3ZFQjU1dXBuTnhDdGg1cThaSEp1RVJTX29qSzY1ZEhHdWhOd1dUU1IyX1lGY1g3V1E?oc=5",
+   "published": "2026-11-17T18:50:28Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
    "id": "746e9ad55356942e",
    "company": "MapLight Therapeutics",
    "title": "Maplight Therapeutics (NASDAQ:MPLT) Stock Rating Reaffirmed as Buy by Canaccord Genuity Group - MarketBeat",
@@ -3057,6 +3068,17 @@
    "summary": "0001104659-26-126356 | SCHEDULE 13G/A Helus Pharma",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmRwX0xnSnJuc0JDTDkyYUtic0VVRFkzWUlNLTZhZ3I2WHB1UG94SkFNU2F4VTd6R3Yya1NtNE9ycnFGN2g0ejBaRi0za0s2NGxydTUxVlVueU9hcDNxS3dTdkMxUWJHeHdWN1hnME9jQWhPYm52Z1VFVHFqdkx6Rm1nNC0?oc=5",
    "published": "2026-11-13T11:09:16Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "617e71676058a8bd",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "0000919574-26-007567 | SCHEDULE 13G/A - Helus Pharma",
+   "summary": "0000919574-26-007567 | SCHEDULE 13G/A Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSHZpMHk2SkIyWVdZcVhWRXBKR1hyS0h2cVBFdzRUN0NlY0NGNmlOeWlUZVh5cUI3Wjh6TWVQb05jRXBOc2Fxek9oX3hLakdSUE9IWHpNTzM1M3A0Zi1rLTg4dFEwM1AyaGsxN0oxcW9saDJkWDM4MnU0Y2ZSVjRnYmtabjQ?oc=5",
+   "published": "2026-11-13T09:54:15Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -5068,7 +5090,7 @@
    "company": "Arvinas",
    "title": "Arvinas to Report Third Quarter 2026 Financial Results on November 3, 2026 - Arvinas",
    "summary": "Arvinas to Report Third Quarter 2026 Financial Results on November 3, 2026 Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRTlhQcmFUNUt3b2t1elpaOXoxRVJESTg4N1hqY3k1bGljLTg2WUJIOTdwalZYMzVpRVUyUjN3T09hc3hYUDYyQnNUdTQwZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORm1PUVpxUzlZUDh4RTdxNEZZajlMZENhbjNLYVk5TWNBWUNSNHgwX016QW95cVdIb1lYejZVWWlSSlRBUEllSHNmcnAzZ29iOHBSempDY1NLOF9tYkwwellmQ0pFV2YxQm4xOEp0Z0ZTNWhGc2hTLVdtUUc2ODM5VnNNT3VlVXI4aVNxV2hsdk0yMTVBTHVIWlBPNnY1dU1jVC1XX1FaWDBpVzlxc1ZYcUw4X05ZNlRQNkVQLU5R?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:)",
@@ -5456,6 +5478,17 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGd0R1dReW5yZDFrOTZIWEdUWm9XeEFKQ3BSYUFtV0xYR05BY1ZuY3RkVWpvWnAyX05ZNEhKTG9sX2x6SmQ1OFJTSnduYjBESDZyM2FqVUVXZFhoT0NjZkZtd2NBeTJOYUo0dVNIVjdtSnAySzZtUXFBMXZjbTh1YU9Xaw?oc=5",
    "published": "2026-10-22T05:48:09Z",
    "outlet": "Neumora",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "5c3575702eba811c",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Highlights Clinical Program Advancements at Investor Presentation Held on October 21, 2026 - Helus Pharma",
+   "summary": "Helus Pharma Highlights Clinical Program Advancements at Investor Presentation Held on October 21, 2026 Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hU19Yd0ZGUWNMUDllQS0yQ3d1ZE5QbjFKcFI0VWhEUTlEdFdKY1hsRnJzdEVsdDJrRjV5OVBqdmhCaS1Nc1doQUVTbw?oc=5",
+   "published": "2026-10-21T20:31:19Z",
+   "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -6525,17 +6558,6 @@
    "outlet": "Psychiatric Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "df6d46dad65f9e63",
-   "company": "Novartis",
-   "title": "Neuroscience - Novartis",
-   "summary": "Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53Z1hnUUJVX1JoR3VTRFpiODZUOWF4V0hGSUVQUVVuTlAxT0gxRU4xSXVoNWRzaHA0T3FnWHhlcFBTRlk3TjBBR3lpTWdadW9HUG1kOTFKVlY4OGVQeUpJYjZZeU5WMlhJYWtFM3AxZm01QXNzTEVB?oc=5",
-   "published": "2026-10-01T18:07:40Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "02c9dd56b4db4966",
@@ -9453,6 +9475,17 @@
    "first_seen": null
   },
   {
+   "id": "093eddc092464f8f",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Establishes Scientific Advisory Board to Advance Development of Roluperidone and Future Pipeline Programs - Minerva Neurosciences",
+   "summary": "Minerva Neurosciences Establishes Scientific Advisory Board to Advance Development of Roluperidone and Future Pipeline Programs Minerva Neurosciences",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYXo2NzRSZVBDVDNGRE5keHdmZ2lmU2xhMW1rUFF5c3M2YmVFUjdzY0ZNY0J2V0tYa3JpMldIbEhjTE1RdUdTZlB6N2pNUkh5ZmdkUHpPeHpXbWJOekthZlJJT2lPMEczdEE5N0JHaVBncExmXzhaMEo5bkFrbGNsSmhYVW40VFd4RXFzRDNDaXlLQldZeHNuX0ZmdllvbnRGNkJrQkdHaTZWRFdZNjFBakhURE5fazBjWEZZMXMzYVRJMGVaT1VOcHpBLU5sYWpMTE5tQmN5YWlMQldpTE5JWE5FUzFESGhNNG5VWkxDakdZV09Zd3ZCalJYV0ZmWWtuX3FQVFAtMA?oc=5",
+   "published": "2026-08-10T13:06:13Z",
+   "outlet": "Minerva Neurosciences",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "956658b28d456baf",
    "company": "Minerva Neurosciences",
    "title": "Schizophrenia Clinical Trials - Minerva Neurosciences",
@@ -10916,6 +10949,17 @@
    "first_seen": null
   },
   {
+   "id": "accbc0d86f1e26f1",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Announces Initiation of Phase 2 Trial Evaluating BRIUMVI in Patients with Treatment-Resistant Schizophrenia - July 6, 2026 - TG Therapeutics",
+   "summary": "TG Therapeutics Announces Initiation of Phase 2 Trial Evaluating BRIUMVI in Patients with Treatment-Resistant Schizophrenia - July 6, 2026 TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CR2J1WkVNVWJkYW5XOFNIUmtsOW9lc3lJdS1rU3Vld2lvY0lUaDF0VU5laHNGbnFpTHFfM0kxWXJVWmxSSkVVRmRrZmlSNHZyZlprNDhwTQ?oc=5",
+   "published": "2026-07-06T07:00:00Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c775eefb600d47f8",
    "company": "Unixell",
    "title": "UniXell secures FDA clearance for iPSC-derived Parkinson’s cell therapy - BioSpectrum Asia",
@@ -11361,6 +11405,17 @@
    "title": "Helus Pharma Provides Update on APPROACH Phase 3 Trial Enrollment Progress - Wed, 06/24/2026 - 06:00 - Helus Pharma",
    "summary": "Helus Pharma Provides Update on APPROACH Phase 3 Trial Enrollment Progress - Wed, 06/24/2026 - 06:00 Helus Pharma",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTnQ0eVpHWTVqeW1ZOGRPU1BmRHBqQ01IaEpvZGE4RDFFR3FJcXBPclF0YzlRMkFZVDlPdm1pbkZsenpGLTRubUVjbVNQQmxRcmhpWjRpcHFFQk5Bdzd5dU5kWnpUMUxscVNWX1AxeW02Z2RJYjQ3YTZmYnFLMmdqMDFRYkNYT3FoV1M5aUtOTlYzZDVMeDZoNUxlMWUwdG5GVElsbDhtMDl0eXBpTTVjczlVOEprNkNMMFE?oc=5",
+   "published": "2026-06-24T07:00:00Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b940ff2c6b247a16",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Provides Update on APPROACH Phase 3 Trial Enrollment Progress - Helus Pharma",
+   "summary": "Helus Pharma Provides Update on APPROACH Phase 3 Trial Enrollment Progress Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UbG0tR2liRUZLc0kzVWt1ZmVISzhkMDhNYjZ2Mm9ydmpPanBFM09NWHBWQkRFYnNoNDN2MmFrcUc5VFhjaFlYU0Y3WQ?oc=5",
    "published": "2026-06-24T07:00:00Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
@@ -13413,6 +13468,17 @@
    "first_seen": null
   },
   {
+   "id": "6e7b0817fc6e4a7a",
+   "company": "Idorsia",
+   "title": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year - Idorsia",
+   "summary": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3A0aDFHMXQxY2lIZGwzcG1vU3lab2RkbTY2ZU96cGE5cmFuUGVFd0FFM0ZHTTljclBwM2lzY0U5eTRDODNEMmhFSjVtWUgzWW9laElTendJcDl0dXJKLVk0Zzh2N3RZMVcwSHE0Mll1T3JBX0V1ajZlWDF0dTIzMXpKdkViTjZrWmVpOHd5MS10SzMxOG80b0IwN0UtQQ?oc=5",
+   "published": "2026-04-28T08:33:11Z",
+   "outlet": "Idorsia",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "14634fec0d0799dd",
    "company": "Annovis Bio",
    "title": "Annovis Publishes Phase 2/3 Alzheimer's Trial Results in Nature Portfolio - Annovis Bio",
@@ -14498,17 +14564,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1seExubnNMYjFzSF9BaGQ2allISkt2a3IyMGNhU2ZjRjdpTkdyclVLR1FMMGxaaXZOd2xWaUlteG9YZllOM2dnbUk1amw2QVA4TWlBN0IzNFREZWM?oc=5",
    "published": "2026-03-31T09:46:36Z",
    "outlet": "Helus Pharma",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "6e7b0817fc6e4a7a",
-   "company": "Idorsia",
-   "title": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year - Idorsia",
-   "summary": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXRfNmItZ0E1WmxKRGhxc0p4UlNYWmJUSGxsLXZPUTRKWHA2SUlxdjFUX0g5NEpHQnJKb2pfVkdyN3ZiTTZFRnZxM0JRVmh1emE2SjN1OFpKV01jdXFFUVNxZU1LNWdUYlRWaVFuSDFjRnVoMHpuak55VkxtcUQzSkZ1U3pHbFJpN21mWDlNZmhIMGJfVEQ5MnRxWFBSaklRYW9KeS1Pa0d4N2JHVnVuYmFzNUw?oc=5",
-   "published": "2026-03-31T07:00:00Z",
-   "outlet": "Idorsia",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -17818,6 +17873,17 @@
    "title": "HELUS Pharma Propels Therapeutic Innovation in Mental Health and Commences Trading on Nasdaq - Helus Pharma",
    "summary": "HELUS Pharma Propels Therapeutic Innovation in Mental Health and Commences Trading on Nasdaq Helus Pharma",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yd2ItUlREUnd1b0NKM0FhdTAzTXJoV0N2MlFIdWZhbGVaQnNOczl3cGxNd1Y3Z1BjUkxRcWlWVWZEcGlIVUI2NmhnTQ?oc=5",
+   "published": "2026-01-05T08:00:00Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "a27ca6453553067a",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "NASDAQ: HELP | CBOE CA: HELP - Helus Pharma",
+   "summary": "NASDAQ: HELP | CBOE CA: HELP Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjlqT05GMVdncG5GVTM2Nmc5TWw4LXJRemRaQU1za21FZ0lKMHhNa2V3b0RKWmpsT3N2eTZUeDduakMtcmVkUmRlN1lQMlBsSmJTOWtqeHpBTkpaTUtyemIzUDhZM0hJQ2pzcklVcWZYRWxjMnpfbklzaXBET2kxam9qYXczTDJBWmtYQ21QNmx1SERNZVBRaVZEQTM1UXlnaURRVjJJSW1vRUpsRVVXX1NtZGd4ekEz?oc=5",
    "published": "2026-01-05T08:00:00Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
