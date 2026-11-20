@@ -117,7 +117,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Astada.com+%28%22Parkinson%22+OR+%22Bain%22+OR+%22NeuroDerm%22+OR+%22ND0612%22+OR+%22Britannia%22+OR+%22apomorphine%22+OR+%22APO-go%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.stada.com/media/press-releases\", null, null, [\"Parkinson\", \"Bain\", \"NeuroDerm\", \"ND0612\", \"Britannia\", \"apomorphine\", \"APO-go\"]]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T17:27:29Z"
  },
  "Arvinas": {
   "feed": "https://news.google.com/rss/search?q=site%3Aarvinas.com+%28%22ARV-102%22+OR+%22LRRK2%22+OR+%22Parkinson%22+OR+%22neuroscience%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-20T16:26:33Z"
+  "checked": "2026-11-20T17:27:29Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -250,7 +250,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Aucb.com+%28%22Parkinson%22+OR+%22Neupro%22+OR+%22rotigotine%22+OR+%22UCB0022%22+OR+%22minzasolmin%22+OR+%22glovadalen%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.ucb.com/newsroom\", null, null, [\"Parkinson\", \"Neupro\", \"rotigotine\", \"UCB0022\", \"minzasolmin\", \"glovadalen\"]]",
-  "checked": "2026-11-20T06:43:26Z"
+  "checked": "2026-11-20T17:27:29Z"
  },
  "Regeneron": {
   "feed": "https://news.google.com/rss/search?q=site%3Aregeneron.com+%28%22Parkinson%22+OR+%22synuclein%22+OR+%22LRRK2%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -286,7 +286,7 @@
   "feed": "https://news.google.com/rss/search?q=%22NeuroDerm%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://neuroderm.com/\", null, null, null]",
-  "checked": "2026-11-20T15:26:15Z"
+  "checked": "2026-11-20T17:27:29Z"
  },
  "Otsuka": {
   "feed": "https://www.otsuka.co.jp/en/company/newsreleases/release.xml",
@@ -316,7 +316,7 @@
   "feed": "https://news.google.com/rss/search?q=Cynaptec+L-130&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Cynaptec L-130\", null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T17:27:29Z"
  },
  "Atai Beckley": {
   "feed": "https://news.google.com/rss/search?q=site%3Aatai.com&hl=en-US&gl=US&ceid=US:en",
@@ -599,7 +599,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Asuven.com+%28%22ropanicant%22+OR+%22SUVN-911%22+OR+%22depression%22+OR+%22CNS%22+OR+%22psychiatry%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.suven.com/\", null, null, [\"ropanicant\", \"SUVN-911\", \"depression\", \"CNS\", \"psychiatr\"]]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T17:27:29Z"
  },
  "Roche": {
   "feed": "https://news.google.com/rss/search?q=site%3Aroche.com+%28%22prasinezumab%22+OR+%22Parkinson%22+OR+%22synuclein%22%29&hl=en-US&gl=US&ceid=US:en",
