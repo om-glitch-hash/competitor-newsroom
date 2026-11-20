@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T04:37:31Z",
+ "updated": "2026-11-20T05:41:48Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1896,6 +1896,17 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
+   "id": "03d69d6ba9d0ce14",
+   "company": "BioVie",
+   "title": "Biovie CEO Cuong V Do buys $2,492 in company stock By Investing.com - Investing.com India",
+   "summary": "Biovie CEO Cuong V Do buys $2,492 in company stock By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUk1MREtvNksxUHFlbHhYNTB6aVNSeUUyQVNEcDk1ZlIwNXdPdDR0cHlvM2hkcS15c3p2Um9iNEd6eVAxMUxleWVWalpHRUNCYUVOTk5yR2RYTTQwWHZpM2FoNHpJUTl5aTNRSV9Vb3hueE1pd1pFWXZuWl9TRmQyYUVuN09FUUU3ZndKNFFPWWtfWVM3VFpWWlFvLTR5ZzI1MF9JM2d5RkpYaUhqUnc?oc=5",
+   "published": "2026-11-19T00:54:20Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T05:41:48Z"
+  },
+  {
    "id": "795741f0acc80507",
    "company": "BioVie",
    "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,493 at $1.00 - Quantisnow",
@@ -1948,6 +1959,17 @@
    "published": "2026-11-19T00:00:00Z",
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
+   "published": "2026-11-18T15:14:53Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
@@ -2004,17 +2026,6 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
-  },
-  {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUXNvZHlmRHNJc3hIVXp4R25DdDMzZ0RBelhzdXJHRE11UEFtMTBybWJueHF2LTk1cXcxOXdYVjRjclhqVTc3ZFZRWjZiNHh5NnEyaGxQTHk0Qng0bGpEejkwZnFvR2dxS09WRjBaQTFHbExCR2c0Z3laeDVLMzlrSm1Xb29pNmF3Ynlmcm40WWhNc1F1eHpkRHl0dGF6WHI2cWdSdlpDS3R2OC1fVnFxVnJuMFNhbEwyYlJZRmVTdHdJdkFoYXNxSlN0RjRpUQ?oc=5",
-   "published": "2026-11-18T08:42:01Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "0db1e43907961bfd",
@@ -2083,17 +2094,6 @@
    "first_seen": "2026-11-19T17:31:37Z"
   },
   {
-   "id": "df6d46dad65f9e63",
-   "company": "Novartis",
-   "title": "Neuroscience - Novartis",
-   "summary": "Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPRUczc1hwU2tERHN0VTI0ZGYtaXJwdlpVYjNDY1RiS0NIbnlRSE1BQ0VrMTNDcmdVd0tiTGZNUWVwVk5uY3ZFQjU1dXBuTnhDdGg1cThaSEp1RVJTX29qSzY1ZEhHdWhOd1dUU1IyX1lGY1g3V1E?oc=5",
-   "published": "2026-11-17T18:50:28Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
    "id": "34a6336482cef4ca",
    "company": "Xenon Pharmaceuticals",
    "title": "0001193125-26-377309 | 4 | Xenon Pharmaceuticals Inc. - Xenon Pharmaceuticals Inc.",
@@ -2136,6 +2136,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
+  },
+  {
+   "id": "58344dfb89bf34db",
+   "company": "Teva",
+   "title": "FDA nod to first at-home treatment for agitation linked to schizophrenia & bipolar disorder - Indian Pharma Post",
+   "summary": "FDA nod to first at-home treatment for agitation linked to schizophrenia & bipolar disorder Indian Pharma Post",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbTRVT3hzMXFDTGlxSVN0SEVaRVNMWHBqenk1TXdxaHppN1dOa3NYd3JBZWRlZkNjd3B3aWNjNVZQLWEyVkNYYWNNZXRZYUdWQnZWVDJONDhFN3pLOU9Nd2ljMEtQSENKS21tUTNlOHZHWC03anZKOTJyRFNhSURxLWRHZy10TlhxR1JpaUVqLU5MVzVpRTNkV0RoVDFNbXhOc0JGUXlEMmZOejlqa0JIeXNwelcwQlJDX3ZQWTE0QWh1cTJVVUdxRWRjcTNOd9IB3AFBVV95cUxOOFpCX2R1YVRNdGR4U2l1WklDbndiT3VrTGU0QzBsNXBmMlQ3bzM0NGVLNGNSUThFZ09fNTZiTU04TW9MWC16REJ2Skd5c2hiVWhvRnIxeEUtbDlvNUhTOXoxTWN1RkI3cWZHYUV4Q0dGd2xJUl85OHlraVpHZGo3bC1kWGtVZkkxZWhuVlp6YkZXTVNIVkFfMjRBWTlVWGk3THZfWFpIMzlKdi14RGplUGF6NnRyTzhkbUgtWkNyOTcyaGF2NFI1MGw5LW5adGpJM0Jpb2lDWGZsaldx?oc=5",
+   "published": "2026-11-17T05:55:54Z",
+   "outlet": "Indian Pharma Post",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T05:41:48Z"
   },
   {
    "id": "0919cfc4c92dc050",
@@ -2435,6 +2446,17 @@
    "first_seen": null
   },
   {
+   "id": "2ad002a12c985325",
+   "company": "Insightec",
+   "title": "Job opportunity: GVP Specialist - Insightec",
+   "summary": "Job opportunity: GVP Specialist Insightec",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51N1RodjUxMVNuTGg4YjViSWNFVEdsdHZxQTFnc3JUY1JHdUhzSUgtU25YSS12TnEzd0NYeVljT0ZPRzFtVWdhZFF2UnNYclducDVkOW83N3NORUFPUlVPRGg1c2F4ZG84aGJidExYLXptWFRHTFcwZG1zNA?oc=5",
+   "published": "2026-11-16T10:13:28Z",
+   "outlet": "Insightec",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "eeae893fbe415329",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Investor Relations | Johnson & Johnson - Johnson & Johnson",
@@ -2677,6 +2699,17 @@
    "first_seen": null
   },
   {
+   "id": "3cefec39699fbe9d",
+   "company": "Teva",
+   "title": "Teva targets up to $7B in innovative drug sales by 2030 - FirstWord Pharma",
+   "summary": "Teva targets up to $7B in innovative drug sales by 2030 FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRY0tKUFAtVnViRzVtNnVpeTVOQjFNWmxTZzJzbHZRWW9sWVkzaU5iTnhEaVhHd3FPSG9GTklQQzRRekZtTkJLNk96NWhQcGtKak04?oc=5",
+   "published": "2026-11-12T19:59:32Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a5479ce50037baee",
    "company": "Boehringer Ingelheim",
    "title": "Search - Boehringer Ingelheim",
@@ -2798,12 +2831,23 @@
    "first_seen": null
   },
   {
+   "id": "c0bc29641ac50272",
+   "company": "Teva",
+   "title": "Teva targets $6-7 billion innovative medicines revenue by 2030 at first R&D Day - The Pharma Letter",
+   "summary": "Teva targets $6-7 billion innovative medicines revenue by 2030 at first R&D Day The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeE5HaHhRWUV5UkFSQTBjRk4tY1NVVlFTZjJHcFJDU0Q5c2FuUTZkR0hWbHF5WXNiVlJJNGx1Zll1N19JMnVRbUdzSUFmTlhaZ0Vva0FjYWlfSUg4TERQeVBEakItNFpYNm5fU2tyTnlPNGVlN2xiX05kNURaYW5WbmZ4cjFPdElxV0pLcE55TnBsMWItRlFvM2k0emszYVd0eXNFOUFfRDl6c1pKY0N5UVhIV3FmamNsbWlHVE5waw?oc=5",
+   "published": "2026-11-11T15:38:42Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b7279bdb02ae5d6c",
    "company": "AC Immune",
    "title": "AC Immune to Present at Jefferies Global Healthcare Conference 2026 - AC Immune SA",
    "summary": "AC Immune to Present at Jefferies Global Healthcare Conference 2026 AC Immune SA",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeUJmT3lRNnFEUXlGVHlWVEFydjdLdHY4S3h4c3ltTUNVSzBKcDJPa0c4UmpjVW5jdUt3SThJOWY2NEVQQU9zZHlYMmt5dEhRX2swbzYyZEZjYm10a1lUT1NsUlZOZjhYUlJhLVZhazNIUnQ5cmNOYjNFbE45RGhXY2RZR1lqblA3N3BzZUhUa0tDbEFUckJDUlVPUTBLLU9rVlh4b1FiRVM2Q0taa2hHcUw3SzdIa25CcDBYOQ?oc=5",
-   "published": "2026-11-11T12:00:52Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53Q0hTc1VoR3JSd0lqY0tiUFh3S1VtZVBKT3ZETTlyT1RmeXk3MDVxSXpNQ3ZHMF9HX3VMOVhaYjFwc29HS0hzOHdiTHQxb2xvNE5qMU5SV0NWUlFXalp4bE5CcmlTWXZrVm1HZnRKLWlhdmFYb2l3Z3E0Q1FSUQ?oc=5",
+   "published": "2026-11-11T15:03:53Z",
    "outlet": "AC Immune SA",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -3018,6 +3062,17 @@
    "first_seen": null
   },
   {
+   "id": "97759acf775e6948",
+   "company": "Teva",
+   "title": "FDA Decision Watch: Summit’s Lung Cancer Drug, Cytokinetics’ Heart Therapy And Teva’s Igalmi In Spotlight This Week - TradingView",
+   "summary": "FDA Decision Watch: Summit’s Lung Cancer Drug, Cytokinetics’ Heart Therapy And Teva’s Igalmi In Spotlight This Week TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRDdWN2pNX3ZBSjhqbGlvcjA4cjkzaG84VHFvVmZyUFRRaWExekppc1lVZUlRS3p5YTRsanlfR1dDOVBvYkJ5N3I5eUJxUldiQU53cUxLWDRYN1I4bXhUUnFWemZZRmVvZzRLcUtBUmdyZmdDbUlLdUxUcWFBYVE3N2s5OTRFdzZjOW5wVFJfRFdXN244ZFU0b1BfVEhfa2t0eWRqa3JvRWRwQ1B4Tk5OVGZhbXhrWTBvTng3V2paZXpfRjM4cDVrYmhzOU9kNnQ4RVFiZnRzeTRFcmlFbzVaQmp4QkVhXy01RUhuNU1iYlZ4SW5xWElQZ0pxclZudWNTT1E?oc=5",
+   "published": "2026-11-09T10:23:04Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "47d05180302a5bc7",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Why can bipolar disorder go undiagnosed for years? - Johnson & Johnson",
@@ -3117,6 +3172,17 @@
    "first_seen": null
   },
   {
+   "id": "a8cfebf9161e1894",
+   "company": "Teva",
+   "title": "Weekly Recap: Q3 results with raised guidance and BXCL501 acquisition - TradingView",
+   "summary": "Weekly Recap: Q3 results with raised guidance and BXCL501 acquisition TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGJFaGRhaE4wbk8xeWtxblFJcDVLY2g5em9vWGdHb1VROTRnWUZrV2hpRThKRU1wcVJ2RnpJNndWZzE4a005aFloQllNYmlWUlplZElRRjNGMXJiOEJ3Q0txNGpsdG12UUNHakNsS01JUXJtQjM5VjJHTDFjMEVTNVJnSlVUNVR4UXZIMWFLVG5ycGMyU095dzBwaXNMVEgxdEk0V1pnWkxSeHk3anNscUQtUHJuMy1tMU1sQ2FfcFBVRkhrdFRWNjZ3?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "55cd85fecf4a55ac",
    "company": "S.Biomedics",
    "title": "S-Biomedics, which is developing a Parkinson's disease cell therapy drug \"TED-A9\" derived from embry.. - 매일경제",
@@ -3125,6 +3191,17 @@
    "published": "2026-11-09T00:01:00Z",
    "outlet": "매일경제",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "536294b6ea873387",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne Medical Technologies Corporation (NMTC) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+   "summary": "NeuroOne Medical Technologies Corporation (NMTC) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sSTMzTDl0b2doY0MwZUdHTWFxZndsTkpZVVlmRVU2eG52S0kyMEZhdjNTcWFobW11dlo5RnFnbUp0S0w4QnQyQzFQcnhsdWhrc3pVY3VtQmVxY3ZoWjd3Rk9B?oc=5",
+   "published": "2026-11-08T21:36:24Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -3183,6 +3260,17 @@
    "first_seen": null
   },
   {
+   "id": "8fb7b8cd09637ede",
+   "company": "Teva",
+   "title": "FDA approves Weltruza, first once-monthly subcutaneous olanzapine injection for schizophrenia - Managed Healthcare Executive",
+   "summary": "FDA approves Weltruza, first once-monthly subcutaneous olanzapine injection for schizophrenia Managed Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSTNBZWMzREpKMFM0UFFNNHZvckc1VzBoNG9vWlY4TnNPdDFITU9NaGRTc0FLNUlwUjgxMTNvNTU0SlhKekMxY3ZCVGlZYmRwQTNpall1Tl9CeWlBMUtESkxYdWUtM3VIbDRxR3ZoZ0xXeHdHT3BaNjZZejVmV042am9SdFVWSVN5WlpaQ0hIY09KcC10ZjllQlpNZFdiX1dHenRvUUhGS2IzWWZGNFZxZkRIWnlucndUaUlEVGxSeTFydlRWamhtWmNwbENMMHNqbkFRLVZ2cw?oc=5",
+   "published": "2026-11-06T08:00:00Z",
+   "outlet": "Managed Healthcare Executive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "9aff136a92ffcdeb",
    "company": "Annovis Bio",
    "title": "Press Release - Annovis Bio",
@@ -3234,6 +3322,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFpZUklqNUREaTdxOFNqOTNTRnlOUDFkTGZibWUyb0ozdFRJRWx3T0R1ZmpESTVMRWJVSmZDWUFUZ0ZWdmpSZ2llYjMzMXFMUU1yNmM4cXViUnQ1NkVWU3BpSGdPVkxwcXdId25QVHVEMVdpWGtKSF8wS09TejVkVnJ2UUtDWkhaaGpNSUNVRllPN2s0ekxNVVlzZ1ZuSzJYR2lKMjRxUjdtd29HSG1LSmFXZXh5QndrenhTUzgzOFlpUQ?oc=5",
    "published": "2026-11-05T12:01:09Z",
    "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "986adaac5b77ddae",
+   "company": "Insightec",
+   "title": "Job opportunity: CAM Clinical Sales – Senior Manager of AGM - Insightec",
+   "summary": "Job opportunity: CAM Clinical Sales – Senior Manager of AGM Insightec",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV001SmhqZTQ2NlljOU1QTWJQSEJlaFhkVG16SlYwYmo5Z1NqTUNMTk9xTjd4ZEUwQ2VkQUJkcVNyeDRGTV90eVFOcW41OHNjdUFDWDVFYjNTYnhXMFpzUS1fb2tLZkpTYjNZNldTNTNoc3FMWXhmZmY1ZWlSQ3ZmZmRDQ3lDeFdwRzJSSGpSbkRIMUlybmc?oc=5",
+   "published": "2026-11-05T09:27:34Z",
+   "outlet": "Insightec",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3348,6 +3447,17 @@
    "first_seen": null
   },
   {
+   "id": "e2be1160c4d4b6c4",
+   "company": "Teva",
+   "title": "What Teva Pharmaceutical Industries (TEVA) Said on Its Q3 Earnings Call - TradingView",
+   "summary": "What Teva Pharmaceutical Industries (TEVA) Said on Its Q3 Earnings Call TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0hoM1pYR2MzdjhZOEhoNzd1dzN1ZmI2QkIzVHFnTnlWTGhMSElENS1XSGVLTHJfTmpsYUtsNGMzUmo2aG9TT0lXbnNISE9CMTdROGd1c3ctVFBFd2hfelRvSG92Y2VKaWlqMDkzSVVTV0M2d0hJcE1PcUlJUTljTzNRalVPOTRVeVRsX190bTRsQWRGSWEyLTllT2dING9tMDJjRm11QXZyRGk1QUN6aG93ODROc2xOckRMbU5WNGMxSlp1ckszbg?oc=5",
+   "published": "2026-11-04T10:14:14Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a5bd6497be902a13",
    "company": "AC Immune",
    "title": "AC Immune Third Quarter 2026 Financial and Corporate Update - AC Immune SA",
@@ -3403,17 +3513,6 @@
    "first_seen": null
   },
   {
-   "id": "2cf35cbec44fb95a",
-   "company": "Idorsia",
-   "title": "Media Release - Idorsia",
-   "summary": "Media release Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmJYcXUyN0V2bG4xbWx0TFNPeDUwaE5LWTN1c1BtRURGZmNyTVk1amQyRWNweTNCNC1uWkZsWlNNdTdmclBCX0NPcnZ2S2FqQXRjanQ0U1I2aWd0QjZ1Y2tJeXRET1F2R3dMN24zbk80b3dsQUZrQmFoOXlIM0ZCaXdSX2tfblNTOWJpU0I5bVo3QUkxTkNkU1gycG1Gdw?oc=5",
-   "published": "2026-11-04T08:00:00Z",
-   "outlet": "Idorsia",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "aa94d8a73b860333",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
@@ -3443,17 +3542,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSk0zcHd2X09aVUtqYy1kYWVtdXY3V3hjTGR1WWwxOEt1bmwzOVROeHRoaGxlcWpFRXJhUHVVbk1VcVVnSHNGcEtDWDRVUmVkVk9WbXVPdHpCWEJwcmJ6WGtabXlfNTA1TDlnRk5MMXRMWjY5bkJUTWNKTlFoTmVsSVZtX0tzVTNEQUZSbUU1RzRtSHVJNnZqbzNwWXI2UTA2UUtOaDlKT2szZXBHXzJ4MQ?oc=5",
    "published": "2026-11-03T21:00:21Z",
    "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "8644e23223844f87",
-   "company": "Novartis",
-   "title": "Neuroscience Territory Account Specialist – Jackson / Memphis - Novartis",
-   "summary": "Neuroscience Territory Account Specialist – Jackson / Memphis Novartis",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDhJeC1xRmxZeV9zSEluUGJFbWdIbGkwZHlieW1XWDhpS2RWSE9FMHE2c3pjSXVoTlpoazZhcHN3VGpSOGl1cThwckR6LV91eTVkbHNvNHlOTXZyM2FPUnh3OWVxckxqMlBPOGQ5dGxETFhLZklCZTdCQVVMbEpUX01xRlZzYWk2YVpXa3V4Y3dRalJxVEdFand2SU1hVjJEVVNqRHpsOUpuWDItVW5OM3RZbVFURkpLWnhUZW1fdG5HMHhQNTZsektaSGhWM0N4?oc=5",
-   "published": "2026-11-03T20:49:25Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3513,17 +3601,6 @@
    "first_seen": null
   },
   {
-   "id": "1edaf5ba7f41e3be",
-   "company": "Novartis",
-   "title": "Value & Access TA Head Immunology & Neuroscience, APMA - Novartis",
-   "summary": "Value & Access TA Head Immunology & Neuroscience, APMA Novartis",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjQwVFltcWdNNThzWEVEUm5OYmdfZGFSTGNySm14eVVRcUluWkNsTWZ3UmlTVTVPZEpjVXR5dngySk9URDFRN2dhVWxJZ2NLd0VGeFlKWnhFMk5TZF9vM3lIV1d0NnNURFJBX011YUhPTW1ELXlLcmJJZTltVlZsVEJTQWJ6U3piaDlGVlI0eFFXWjBVVnJkdG41b3ZQLTRQdHlfUlk2Wm1fQy0wSWo5dE82dUd2cDY5dGFnVF9vUGlqMnRJVlE?oc=5",
-   "published": "2026-11-03T14:45:53Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "9bad51da3c82bed4",
    "company": "Alkermes",
    "title": "Alkermes Q3 2026 Earnings Conference Call Prepared Remarks - Alkermes",
@@ -3574,6 +3651,17 @@
    "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjVuclN5dG5iVHpvSGxXZ1BIdzg0cGp5cFQ0VW1BSlRUb1dRQk5OaHdsbG5pQlpuODNJN2xQUWNudlFkeE9mdEpGSVppdEE5d3d6U2dmdXRBaVJIMW85cl9vV2JIQS1zaV93U1F6TUdpMUJSRFd5T1Z5M1dJVHV1R1l1TU9HdjJmRmhjSEMySWpqV19UNGZHOVJIU3lPV1M4OXhjSjU5RTNDeG1yemstZHNoTDdyNDlpVHpfVDloZmwwRU5FbWE0UFFYcWNZQQ?oc=5",
    "published": "2026-11-03T10:29:10Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "09dc9da2ee08778e",
+   "company": "Novartis",
+   "title": "Neuroscience Territory Account Specialist – Albany / White Plains - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – Albany / White Plains Novartis",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcmJnYkNCVjIxbThnMVI1VmZGdVFtSWRQUGVYTDMtR3YxVWd4U2lfaUdQaEV5aWMxWjZac2xyWnJRenUyRmE1OFJaNURLRkNlRmVrc1VKYlZ1eHRSVGZGa0c1Vkp0N1BzWXVfdllwT29lckFfMTNjcHlZck4zNFdka0tBVk1wYS1JZW84UlgxXzgxcEE0MUs3ckY1aFlzbGZ5MFk4Sk00VnZxYkVWZV9mWjlRQ0ZFMnU3X0xrN3llU2ZFVklQZm16RjN5dGhLWFVMcGVKZUFB?oc=5",
+   "published": "2026-11-03T09:02:27Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -3656,6 +3744,50 @@
    "first_seen": null
   },
   {
+   "id": "279e8453dd57d4df",
+   "company": "Teva",
+   "title": "Teva's innovative portfolio has nearly plugged its generic leak - FirstWord Pharma",
+   "summary": "Teva's innovative portfolio has nearly plugged its generic leak FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KWGhNY0VLUXZDM1RQakhJdXk0c0ZBR01WRFFZcnRNRkhsZTkybzUtcUs5LWVWTFRDVFhhX0I2S2FicloybTJZZzMwaThMTlRJWTVB?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "201b1b9517f63ee9",
+   "company": "Teva",
+   "title": "Teva raises 2026 revenue guidance as Austedo, Ajovy and Uzedy lift third-quarter profit - The Pharma Letter",
+   "summary": "Teva raises 2026 revenue guidance as Austedo, Ajovy and Uzedy lift third-quarter profit The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZEpQdnhyUFJFT2U0cVJzMmZqTEdFMmt5LTF3Mms5cWVwSm4yNmtNclpMUG5zX0oxTXY0OEJBRGVnYXhzUDRQa0tPUy11X1BVTkdDbm9NV2ttSzN2NEVoVWlBOVpsOF9ZbFNod1ZJQ1lxdlczSlFMN2lNQ2RRWHF3Z0F3Rk00YW5BdGZSaWdqT0tzV0VONzYyS0tvV0lrcTdQUi13UUh0ek9uR216b2pBVDVXY05RaDJtYzBUWUdCazRhOElDa182THZPcjU?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f9811190923ee5e2",
+   "company": "Teva",
+   "title": "Teva’s Pivot to Growth Strategy Delivers 33% Growth Across Key Innovative Brands; Raises 2026 Outlook for AUSTEDO®, AJOVY® and UZEDY®; Delivers Substantial Gross Margin Expansion - Morningstar",
+   "summary": "Teva’s Pivot to Growth Strategy Delivers 33% Growth Across Key Innovative Brands; Raises 2026 Outlook for AUSTEDO®, AJOVY® and UZEDY®; Delivers Substantial Gross Margin Expansion Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxORTg4WFJMNWxlVkxQQ0tPVkRqWW5YaEZScThLVjdQWDNJZU02VFpmNktyQjI0RVMxLTZPVlFmV0JEYVRLNVZBNExZZE04bGxaUU5tSWlsUEhlWDFhUXhGNzlPcldtWHA4dGFnU29abWh2SVNNekRHRDZNeEd1Wi1rV2x1ZDJOUi1meU1qQTlQWjZFbEtCYk0zcXJ2Xy05Q29DWUp3N19la1c0SktONnc4aklVTURWX01GSkxqTkRZS0ZmS1d1M0cwX0Z5dDBUVnVfN0t4TjJrMVlueUVJTUxaVFFGQ0U0QmxJdDU4V1JoUUxSZjJyZ0NUOGRrU1cyT1huOEpRTDFQdXpRM1ZrdGl3aC1yVHZtNUotWk1raEFhRVhYVjludi1IajgyUk1lLWhKM2dHb0pVRGVSYXlEMkZxTmt4OGtPcnR3cFluVGZR?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Morningstar",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6ff0406de7a051fe",
+   "company": "Teva",
+   "title": "Teva’s transformation gains momentum as innovative drug sales rise 33% - CTech",
+   "summary": "Teva’s transformation gains momentum as innovative drug sales rise 33% CTech",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50YnRlNEh0OEJxSXI4clhFMDRsNmdnZlFYcW1pYnVJTTBUWEtzSlhuU0RSOU5mYkxKenY2ZkJvZjZzRU5EV1pyS2w0dzdnMmtRR3NaTFp2S3RYUjhkbUMtZDdtcGJMSjA?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "CTech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dd359d86190e407a",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals Legacy SEC Filings - Supernus Pharmaceuticals",
@@ -3663,17 +3795,6 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHdvS2RtTDdkX0lYQ0o1eFlEM05vYkt2dkptUlV6SGJSTTliOGIwcGpDbFFmdkhaTjBpOUJIYThzcEYySEJNY2xjV01FcS1hNXNvSGhpbUtBcXQ1RUp5NC1qNk15dXpSR1VtOEpsb25za04yUnJ5TDVjWE9QclFjdkEtR0s1V1h4VVZLbDdXR2E1ZjQ?oc=5",
    "published": "2026-11-02T22:10:59Z",
    "outlet": "Supernus Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "09dc9da2ee08778e",
-   "company": "Novartis",
-   "title": "Neuroscience Territory Account Specialist – Albany / White Plains - Novartis",
-   "summary": "Neuroscience Territory Account Specialist – Albany / White Plains Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNHZVVnJ1Z3duekZmaUp2Q0NRUFNsemNtbExRN0s1M29qc0FMdzd5YzZjU29RcUJaQ21wSEk3MzVRMmFUc2VHRENhTjBqVUVGWldnYnljX0JJcHNHUTNjdXBfSWJ6azViODVWMW51d3VfbDhNdXpkcEdZUFdPYS11U2N1ekllbG1iZGJwQjRsWTZxenowRm9nNk9VSTJEdnZHb2s5M1NIQUVTLV9vd0JjbEFzQ1gxZlQxMnp4YnRBWlF2Z2RreUJUb3lJbUNuQQ?oc=5",
-   "published": "2026-11-02T12:57:20Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3719,6 +3840,17 @@
    "published": "2026-11-02T11:30:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "12ff15820406880e",
+   "company": "Teva",
+   "title": "Teva buys BioXcel neuroscience assets for $57.5M upfront in bankruptcy sale - Dealroom",
+   "summary": "Teva buys BioXcel neuroscience assets for $57.5M upfront in bankruptcy sale Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzhOZ2RweDVZUmRKczhFWVZfTVRhUjNUSUROOHdlMFNfRnBFREJZLTBGdkJhRHRQV25FZnZwTndKdzFEUUl0cWxjbXpsRENhd09NMzNYb0ZxVnJHNjRQcmdFazNRcGFQdHVsOTZfaHhPcktnU0dHUUt4T05TQmtXQWtuZ19pUE1SNS1oY2hrd1ZkY3p6SGxzbmRLaVdxbWZFZkFWdlFpejdUVFlZ?oc=5",
+   "published": "2026-11-02T10:48:30Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -4085,6 +4217,17 @@
    "first_seen": null
   },
   {
+   "id": "0550f02e8fbd3661",
+   "company": "Teva",
+   "title": "Teva picks up new neuro assets in BioXcel's bankruptcy sale - FirstWord Pharma",
+   "summary": "Teva picks up new neuro assets in BioXcel's bankruptcy sale FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZS1lOY2VVeU9KM0xHQkxlUjcxSElCOTRtUnNNQjJwaWtBd0NFeURkdDU1WGJPajFnS0ExdDdDR0traGdVdlRzT1h0ZElYcHItZ24w?oc=5",
+   "published": "2026-10-27T21:22:02Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "86543544d6e50441",
    "company": "Minerva Neurosciences",
    "title": "Minerva Neurosciences Reports Third Quarter 2016 Financial Results and Business Updates - Minerva Neurosciences",
@@ -4210,7 +4353,7 @@
    "company": "Arvinas",
    "title": "Arvinas to Report Third Quarter 2026 Financial Results on November 3, 2026 - Arvinas",
    "summary": "Arvinas to Report Third Quarter 2026 Financial Results on November 3, 2026 Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRTlhQcmFUNUt3b2t1elpaOXoxRVJESTg4N1hqY3k1bGljLTg2WUJIOTdwalZYMzVpRVUyUjN3T09hc3hYUDYyQnNUdTQwZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORm1PUVpxUzlZUDh4RTdxNEZZajlMZENhbjNLYVk5TWNBWUNSNHgwX016QW95cVdIb1lYejZVWWlSSlRBUEllSHNmcnAzZ29iOHBSempDY1NLOF9tYkwwellmQ0pFV2YxQm4xOEp0Z0ZTNWhGc2hTLVdtUUc2ODM5VnNNT3VlVXI4aVNxV2hsdk0yMTVBTHVIWlBPNnY1dU1jVC1XX1FaWDBpVzlxc1ZYcUw4X05ZNlRQNkVQLU5R?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:)",
@@ -4290,6 +4433,28 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdEFJS1BnVTVObHR3T0FpZUVMejJHZkJCUEgzMzJWdEQ3VzRMMzYzdlhEcEJHZE9iOThoNDB3S25lMXdVM1E2TjMwM2NveE5WaWxjUldFY3VlbDkzMEFSNjdRdm4wcm5oUWtNWmM5bk02d21rZjcwNkZ6NEtCQ0hTUnJzNjhHVDgxUUI0RWpPdFh0SU9QLUtUVTNuZVFQdw?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "69b75aa94fb74a59",
+   "company": "Teva",
+   "title": "Roundup: Teva Acquires BXCL501 for $57.5 Million Upfront, Rumi Therapeutics Enters Option Agreement for Fragile X PDE2 Inhibitor From Enthorin - Pharmaceutical Executive",
+   "summary": "Roundup: Teva Acquires BXCL501 for $57.5 Million Upfront, Rumi Therapeutics Enters Option Agreement for Fragile X PDE2 Inhibitor From Enthorin Pharmaceutical Executive",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZVVDRjZjNCQWdybUV1aFdMRGt2UUxFWEFzMG9BdlUybXhSelV1dFNGMXo4MDhwdXB2WTNjWVA5RHRGcXY2S0pUdHFKU1E3UkZ3d1lPRG1xQ1VHZ3N0Tnp2WXN6Y0lubUp6dEkwTDBEMl8zTzZkSW1CaG9CY2YyZXVVMWx6bTNiOGZnZWF0VlNoUUNEcGFlOFdQOFVuX1EyUEtISFJOYndremZnWEFCcDRIRWM0cGVyb3I0?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "Pharmaceutical Executive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d1978e341767f710",
+   "company": "Teva",
+   "title": "Teva swoops for BioXcel neuroscience assets in bankruptcy sale for up to USD 125m ahead of FDA decision - AllSci",
+   "summary": "Teva swoops for BioXcel neuroscience assets in bankruptcy sale for up to USD 125m ahead of FDA decision AllSci",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ0ZYY2JIWTRJZ3NsTHQ3cUhkV2p4eTdOYkd1T0R1TzhIN1ZyQjllYzFoaU9YV2RpeXRsd0xJa3dGWE9uU3ZZM3JGX2lRajY3NVZfRWZLX3dpMmc1VG9UMmpieGRzZHZmcE1FbjJPS3ZTVWx0djVaZTRlbDkta29GSHI2QVlhWnhneVE?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "AllSci",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4448,6 +4613,17 @@
    "first_seen": null
   },
   {
+   "id": "98754ceb7081c246",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne gets first pharma purchase order for drug delivery platform - StreetInsider",
+   "summary": "NeuroOne gets first pharma purchase order for drug delivery platform StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXZiREtkR0IydjdLa2lLX05pRlZxb0t6N0N3TzNkVWRiQUU3QW1kc1Z3dHI5WDJZZXNMRUFCLVM2cDVfWDQxYnM3RmdjOElPNDkyWURBb0ZOSlR2ZnRmZzB2M1p2RlNHY3ZWQzBUV3J0SFlKdHA0bHZkRktZc1RQaEY1ampuQzdrLTRzQ1R4WkJXU3Fxd2JKZnc4TkdGYTJkTEhKUWtPUFNzT3dwa1lRMnhITFZWWXczOHpmMHNKeF83LWFZY0E?oc=5",
+   "published": "2026-10-22T12:33:42Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "adfa2d6172a87db0",
    "company": "Denali Therapeutics",
    "title": "Denali Therapeutics to Report Third Quarter 2026 Financial Results and Business Highlights on November 3, 2026 - Denali Therapeutics",
@@ -4492,6 +4668,17 @@
    "first_seen": null
   },
   {
+   "id": "486658327aab6ae5",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne secures first pharma order for drug delivery platform By Investing.com - Investing.com India",
+   "summary": "NeuroOne secures first pharma order for drug delivery platform By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMzdsNFMtbzcwd3YxZHZpVHRkX2FXeDJIZkIzUUJkS3ZRQlNiZXNPWVZJY1F6MmxKd2ZUQVJVX2NPbDBkWUhtVVp1Z1M1M3RhVEl5cE1oSVBYRE5MWnRQb0dEYV93QXdLMkhCcFh3dUZNTHRvZXRTcW5MZzExT3hEZzRibFNQQnNESUdrWTVkWHJxR19FNW9LUGVaMmpkbGZJYU81djdEN1dYaG9uNUJkX0ZpcGgtVmlwNUlBWENRSU0?oc=5",
+   "published": "2026-10-22T07:00:00Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fc81163acd32289e",
    "company": "Neumora Therapeutics",
    "title": "0001193125-26-161489 - Neumora",
@@ -4510,6 +4697,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40VkN6Ql9mQ3RsM0FDQTVsQ0RFMXktRlpQOFlJQlRLZWlSVnpLblNIamc4UWxxckczNm1wck9yLTQ4SDA0akZ4VjFvR2JMVGRHaW1kMHgzY0x6SUlGa2RLMDdZV0RBV0ZrNXYzb0s3UQ?oc=5",
    "published": "2026-10-21T16:09:19Z",
    "outlet": "Remepy",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "7b1f7371c1555a13",
+   "company": "Insightec",
+   "title": "Job opportunity: Director, Medical Affairs – Emerging Therapies - Insightec",
+   "summary": "Job opportunity: Director, Medical Affairs – Emerging Therapies Insightec",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVNlajJhM1N0WDFiNDVTdUw5b0o3YW5vT05zSlZrZ0JydUJYX3FqZUE1eDB4OE5ZV05Kb19mMHNhWURMRWE2TEhCQnFsSDhWLS1QUXpYMUlfYTRoSGxlR0g5c3pIa3JpUnRQT1gyVnVvNGZCR2tJeEdlU3g3WTVGRWVIenN4MDl5Q1Y2Q3NWUk9ISHVMNzRXaGd5dm04N3M?oc=5",
+   "published": "2026-10-21T12:40:00Z",
+   "outlet": "Insightec",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -4778,6 +4976,17 @@
    "first_seen": null
   },
   {
+   "id": "447ff6f77c5c51df",
+   "company": "Teva",
+   "title": "Inside Teva's Weltruza launch and Novo's GLP-1 strategy - Fierce Pharma",
+   "summary": "Inside Teva's Weltruza launch and Novo's GLP-1 strategy Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ2Nrd1hON1k3bVlXMTcxZGxJdDBkVE44ZE5TejlfNEYtLVdDbGNfWXcxU0dOTXE4MkZYWWZjRk1SdnZfWm90RHVSV1duY1JBUXFDQlBpTDVrU3hyNm95ZlFvVDlEbVUyUVpTTC1CRnI0S281VU94LUhrUWtyZFZLVkdMRWNaM2gwRGtQb0lENlVEZ2c?oc=5",
+   "published": "2026-10-16T07:00:00Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "73adcca3dd8db313",
    "company": "NRG Therapeutics",
    "title": "Parkinson’s Disease Therapeutics Conference 2026",
@@ -4840,6 +5049,17 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSzRyN3VTV1dPcnhzZW9HVlN6MWRVbFFCUDNPOV9OU2RDRnZtcER0aHQ5eXhSS3pZOGl6Z2R4N050S3ktLUhFbDF5NkUxa21adlREd1dFVFNfZWdqcDM4LVdTMmRSVXIxcHRqdDNMdVRLVFk5a3h6aUJEdU4xbXpCTFF2NVcyODRNMW9hcnhLX1NlRWJKTDltcTVzV09xZm9RWTBxejQ4X1l5RlJVZldV?oc=5",
    "published": "2026-10-15T07:00:00Z",
    "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8644e23223844f87",
+   "company": "Novartis",
+   "title": "Neuroscience Territory Account Specialist – Jackson / Memphis - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – Jackson / Memphis Novartis",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMjdpMm95Ul9Tc214TktkZTdIMXNsSWx0Uk9wQnZMOUFSNU1YeVFfLXE4N3RkNlpkUlFhMmJrcFpuV1RSM0cwZjg5Q2ptTldoSGwwODBrdlBZZVE0NWx5ZWlFUHhCMUhMdzVhNm5JYjhQUS03eDdJc0xHRVJWMTVOTEk3MkRyNVRCVWJ4amhfWWp1TGUydmVHQW5UN3I0RnMxdDZBZTdnS2dCbFAwRmRReE1veGtHbnJqc0g0eVFONUY2T2dXR19wSXE1dzM5ZDhK?oc=5",
+   "published": "2026-10-14T20:21:48Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -4987,6 +5207,39 @@
    "first_seen": null
   },
   {
+   "id": "f2e8c4c72df49430",
+   "company": "Teva",
+   "title": "TEVA Gets FDA Nod for Weltruza as Once-Monthly LAI in Schizophrenia - Yahoo Finance",
+   "summary": "TEVA Gets FDA Nod for Weltruza as Once-Monthly LAI in Schizophrenia Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd3RyNFJVQnhSd1R6NndxOVhnWi1EV2Q4UDlVR2RfRkMzY1BERWRMS1FrNC1iSDdoVXgweWM1YlJ4MXgzRGFOVlQtSXhiUmtrU0FqMVV0MEs2bHNxTGxZOWdGV2JzeDZoWkNJUXdmc29fYjdZRVhNcmVobTdGaVBGRF8yNkJYUkhoWVF5cUVNVmU?oc=5",
+   "published": "2026-10-12T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5d400e9ffe1a0651",
+   "company": "Teva",
+   "title": "FDA approves Teva's Weltruza as first once-monthly subcutaneous LAI for schizophrenia - AllSci",
+   "summary": "FDA approves Teva's Weltruza as first once-monthly subcutaneous LAI for schizophrenia AllSci",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQlRVVVdkSDd1STVqT1B4YnF5aFJlaS14SWZ2aE85Q3A4dmNMX3hCQ0V5MmpuelIwTDQ3TThMRmg5bzhYRWFERjE5aFBpeUh6ZjRoYUdTLTJmNzF1U1BVWVh3NnhsWEhMNXRMSmxNUG1PLWFGNjFmaDZaQ1daaDMyRE5WLWNoOUtub0E?oc=5",
+   "published": "2026-10-12T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5561ad7a639517c5",
+   "company": "Teva",
+   "title": "Teva Wins FDA Approval For Schizophrenia Innovation - Healthcare Digital",
+   "summary": "Teva Wins FDA Approval For Schizophrenia Innovation Healthcare Digital",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0NnR1NSZVpjM0JYSF8yRERxU1Z3ZUVHYjJjak90RG15alppMWsyaDB2bWtTWWV2dEZWUEdkRUREQUs4YkVfcl84TktyUHdqdFEyTndhVGNXaUczQlc0RkFsWFpYR0tVNHZncy1POUFFRXRzNEZfdmlsUnZmb3BUcktuSTBNZC13Vjk1MWdCTnY?oc=5",
+   "published": "2026-10-12T07:00:00Z",
+   "outlet": "Healthcare Digital",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b8c5853e90c4592a",
    "company": "Resilient Pharmaceuticals (ex-Lykos)",
    "title": "A living systematic review, meta-analysis, and open data resource of trials of MDMA-assisted therapy for PTSD - Nature",
@@ -4995,6 +5248,17 @@
    "published": "2026-10-11T07:00:00Z",
    "outlet": "Nature",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "2736c821b567be15",
+   "company": "Teva",
+   "title": "Israeli Pharma Giant Teva Wins FDA Approval for Monthly Schizophrenia Injection Weltruza - Haaretz",
+   "summary": "Israeli Pharma Giant Teva Wins FDA Approval for Monthly Schizophrenia Injection Weltruza Haaretz",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONnY0andBVDJvbGNGeTRXVWFiWU0wRkd6dEFIdHh4ZkNEelRuLWtlX20xUzUycWFCVEQ2MHdHOVlNVFB6VlZiQldZOGxic3pId1hidUM2bnVOQjRsbm1UWFlzSlp5b3hBZTNXb1V2a3lnQ1pYR080dXJsRjVWZzZRUjBERDFvZ2xaLWQwNjdvMEtkUExCcjlwaDhvVnFfVjRjOTYyRGRtRDR6YmJ1MEJjeHkxUzRJX2c1Z3FuZTZ2YVBUalZ6cWZtdWJDUkZDVTZjMU1Dd2tLVmh0MFBjVXZmS21rQTYwUFB1NnphQUI4VC13R2V0VXlJUHEwSFQtMHpIRzNiZ282blE5SHl1dmc?oc=5",
+   "published": "2026-10-10T07:00:00Z",
+   "outlet": "Haaretz",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -5130,6 +5394,83 @@
    "first_seen": null
   },
   {
+   "id": "36e39d67d65dc792",
+   "company": "Teva",
+   "title": "FDA Approves Once-Monthly Subcutaneous Olanzapine for Schizophrenia - HCPLive",
+   "summary": "FDA Approves Once-Monthly Subcutaneous Olanzapine for Schizophrenia HCPLive",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWnZsaXZnOWlUR0I5WEYtcTVIS3NPWVNOYllPaU8xTWpXRmNfRG1QYzNrb2hrV01fM0dlNXNTMVFIWGhUZVpTbXVvSUZXVTJobHdjby15aGQta01KZ0p5eWdIMnNnSFNmSGJCRTdwLVlKbzktZlNWbktpcWdKWV91TG5jLW5jLWV4bGhQRVRmd0w?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "HCPLive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "61045171be604a5c",
+   "company": "Teva",
+   "title": "FDA Approves Once-Monthly Olanzapine Injection for Adults With Schizophrenia - Patient Care Online",
+   "summary": "FDA Approves Once-Monthly Olanzapine Injection for Adults With Schizophrenia Patient Care Online",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXpzd0tUdFRKdUFiT0Rnd2NnVWNOdlhIcWg1WWdWQ0pvdjBKQ2JyWHE3QlNSdGVESnZQTUFhTHZPeUQzVG1LUFp1eXM4ajdqaFhNeVFmQ2ZhWWRhREVJUU82dXVuc2VPbldQVHNYa09mam15V2h6aXM3Z3gwX05sVlB5MVE3T3phMXdKQ1RiV1d4clAwYUJmdDg1eERWR2d5UkNWbDFZbzlfMU1iLUY0NU1VSUV4QQ?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "Patient Care Online",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a49ca7152193ef80",
+   "company": "Teva",
+   "title": "Teva gets FDA nod for monthly schizophrenia shot without monitoring requirement - FirstWord Pharma",
+   "summary": "Teva gets FDA nod for monthly schizophrenia shot without monitoring requirement FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWTFuMUljOFZnczhDWTlGcWRsZWp1R25FdDNLSHdZcktzM1laVFRvRUtWUG5leldfN2JoWml0eEtlaWU1UVo2a0ktVDJFMTBxcXlB?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "867a41a4ecbe377a",
+   "company": "Teva",
+   "title": "TEVA Stock Hits Fresh 52-Week High As FDA Approves Monthly Schizophrenia Shot - Yahoo Finance",
+   "summary": "TEVA Stock Hits Fresh 52-Week High As FDA Approves Monthly Schizophrenia Shot Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUlTS0F1cFpmWXdiOE0tNUhORjlqY0dvU2o1OW9CWFMzU3FUdDVYaHd1VTVLWlNRNUZiSXA4Mm1IZFM1cXU5QmVIcmVHWXJEYTFWdnpOaVhaa1VKNDJPdHhxX0JHVFdUYWdFdDlQVV9CRzN6VkhtdXFrYy1rcXhZZVVMV0FnUmIybjRNbmdB?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "06734277e2609840",
+   "company": "Teva",
+   "title": "Teva Wins FDA Approval for Monthly Schizophrenia Injectable WELTRUZA - Yahoo Finance",
+   "summary": "Teva Wins FDA Approval for Monthly Schizophrenia Injectable WELTRUZA Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzZxcmgyX1JPSFJXbDNDV3Zta2NKcmVLQzViM3I4Q255TXJOb1RnNGswTThCRE02WmZiaFF0WGxxYUJ4OERka2FCMjhoa3k2X3lBc1E4RlFRdkdhYk1CbmJNV180TTZIVk5ZYXoteFVDem5VR3drdmZzT0VsWVF2dEhIYlkxVklpSGlhUndGTVZJaDlHdEE?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1023519357683492",
+   "company": "Teva",
+   "title": "Teva wins FDA approval for monthly schizophrenia injection Weltruza - KSL",
+   "summary": "Teva wins FDA approval for monthly schizophrenia injection Weltruza KSL",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakpURWZEOTFGVF83aWhrMTZPOURhUmduNnF4WW81NEZicEo0cHVObUJRX1djREM5clRHbHNicko1WS1BZUVxNWRZZjFabkh0a1pEZFZMVU1FZU5XRUJELURUZ2FsV1Q3eVU1cTdiTXpDR181WC11NmhRY3lmMGZwbVAyalZXcThsZXNQNDJrWHNLMmUxVzJuRUNfdU03b09zZV9nRkxRWQ?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "KSL",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b1101efd90700f94",
+   "company": "Teva",
+   "title": "Teva, Already Up 26% This Year, Surges Again On First-Of-Its-Kind Approval - Investor's Business Daily",
+   "summary": "Teva, Already Up 26% This Year, Surges Again On First-Of-Its-Kind Approval Investor's Business Daily",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUm5wRE9pbXhRYjl2cXFWNDdzUU0zcHpiRE8xeHdIN01WUWpuVU5mYTJxMmVybnlZMG1Gb1NHYzU1NmdNbDMtYmdIVmo0czVieGdDSnJkVTE1d2ZfbTNxcGJYc1NQMkpBZXZKT2s5dWdaTThRaE9qZ2tiVDJVbzZ3aDRzV3RXWjBGbmtkYTE2eExBZ0hXT0lSNmdoemdNN2NWY3Rz?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "Investor's Business Daily",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b1424414297aacd2",
    "company": "NRG Therapeutics",
    "title": "Annual NEALS Meeting 2026",
@@ -5148,6 +5489,17 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tWUV6aXNkYzdjUXk0ZFV5a0ljRUE4OW9WdlpPR3ctam1jcHRZbEhvcW5xSUZLbG5Qd0xPR3hZcnpJOXhpdmRzVTZfUlRNTFIzeHQ0dDg2RUpwRVJ4NXVmQ0JmWEdXZDBmWHA4QlFsWDBERGtZVnk3NE53?oc=5",
    "published": "2026-10-08T18:59:21Z",
    "outlet": "Merz Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "2cf35cbec44fb95a",
+   "company": "Idorsia",
+   "title": "Media Release - Idorsia",
+   "summary": "Media release Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcVpuUkp5OVI1Mzkwdm9ZX3JoWTJZTDJrUjBBdk81NTdYaUdTNGFNeUJ6UDJLY0lkRzk1dExfMDY2QUJQZFpxRGg0WVE2S24zcWhyNTJiTHVYek1pY1QtYlJxeHpqNTB2VXRXTmVFSUg0RjRzaVdaX1NnUDVkUEZZX2pmQnpnM3ozN3BuRnpYTWNmRFlYY1JXRDBobXYxdw?oc=5",
+   "published": "2026-10-08T17:59:20Z",
+   "outlet": "Idorsia",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -5218,6 +5570,28 @@
    "first_seen": null
   },
   {
+   "id": "4d8397247e26dfd0",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne receives $200,000 NIH subaward through April 2027 - Investing.com",
+   "summary": "NeuroOne receives $200,000 NIH subaward through April 2027 Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaEtDMXQzZm85MTQ1dHRJMThUcjRlci1oVmlFTUVnZEVUWXNhYVB3YnlLSk1iUmdUVzhkYktKRV9FbFQyekhvdW5GSXR5QXp6eFA0eXY3NWJoOHpTMmtjOUFIVm1BMVlvLVRRRHNzRVBwWkdzZlNSMlh1THpiMjctYlVLcVVKSTBZeUVNa1lBdHctOVF6cThqakl6a0NRZnRacl9SWjl0N3k2Skp5VTVXZ0ZKcw?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1edaf5ba7f41e3be",
+   "company": "Novartis",
+   "title": "Value & Access TA Head Immunology & Neuroscience, APMA - Novartis",
+   "summary": "Value & Access TA Head Immunology & Neuroscience, APMA Novartis",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONlEwcE5oaHhuMkw2ZG41U1E3NjBwTDhKVHRxTXkxN0pXSE1wTVd6ekZDVDJQM3RNSVprZEp1akJXYnZuU3JxRFo5b1Q5MXRibldRZktiR0VZdFhZaTcybTdQeVRvQWllazJManVJbVdCRXVMOFJXSTJyZEhYQmJQUno2dlJTRDZwYXA3X1dhUTNsRkFvdXRDajZObEZvSDNqVnhQb2JjV0xJTUJEY2RXUTNKR0VQUlJVVWtqLVpMdDIzaHNjV1E?oc=5",
+   "published": "2026-10-08T01:10:01Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "0d3e8e2abb798513",
    "company": "Novartis",
    "title": "Neuroscience Territory Account Specialist – New Orleans - Novartis",
@@ -5226,6 +5600,17 @@
    "published": "2026-10-07T14:53:01Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "d0c2a6bdd6c6ba6d",
+   "company": "Teva",
+   "title": "Schizophrenia Market to Gain Momentum During the Forecast Period (2026-2036), with Growing Pipeline of Novel and Long-Acting Therapies | DelveInsight - Yahoo Finance",
+   "summary": "Schizophrenia Market to Gain Momentum During the Forecast Period (2026-2036), with Growing Pipeline of Novel and Long-Acting Therapies | DelveInsight Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlZCYmU5c1paYU1qYjh0b2lHS3lmdGI3UWd0dll2dVo5VWotM2Y5cWNMaU0yaGdaMjZubWpjZ2JlbWJMV3FBc0dSME9ZZmV1UEFJNHNmWWREZkoyaWRDVjB4bFh1ek9pMklteFBXTFJoWGZVR2E1NEtfaDNneU1rUXlmWl9XN3R2T3FPcHFRb1VHNHk0dE9JVXJvQnNMOTZoNHptcg?oc=5",
+   "published": "2026-10-07T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -5293,6 +5678,39 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
+  },
+  {
+   "id": "2eafe2eb1fafcc9d",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne Reports Preliminary Fiscal Q4 and Full-Year 2026 Product Revenue Growth, Tops Guidance with Record $4.5 Million Order | NMTC Stock News - Quiver Quantitative",
+   "summary": "NeuroOne Reports Preliminary Fiscal Q4 and Full-Year 2026 Product Revenue Growth, Tops Guidance with Record $4.5 Million Order | NMTC Stock News Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYWFrX2QxVlp4LVN0NHJULWVORzZSME96RGZNYUhwYVpITDVpQlRHQzZ4SW1LQzVUc0ZrTkhfMThvWDZnWVc1clBaWGx5NFJTcjgyaUZxUDdocnBPMjZzYXkzb2tGRmlnankzV1JCTGhjRGhCNWFMazBjTW9mLTBWTHB4dmcya3A0dmVMQ2lkTnducUh0eWhZTGZZeWNxRkJ6YnE4MzZPam1tSFdzSlJCRVQ1bHNBNDZ0NHJ0R0Rxa2J4LS1TMVJFbk5ibHFpWUV0RUN0WDJWZHJCZTRfYVFYWm1qOWhFRWlhdzFUSUxYRWVsTGVWVUE?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "Quiver Quantitative",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "81559094b02a61f4",
+   "company": "Teva",
+   "title": "Post Hoc SOLARIS Data Support Stabilization and Remission With Subcutaneous Olanzapine - Psychiatric Times",
+   "summary": "Post Hoc SOLARIS Data Support Stabilization and Remission With Subcutaneous Olanzapine Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTGdXczQ0SXhrTGlGYXFEYl9TblZMUy1xMkhSWHh5QVFoSzlVYkt6ZlJKNHRueGg2NTdxZ1pZNk1lb1ZidG4tMm9yWWZHR2h2bjhqTkhmbE1Rb1pIVUY2dFIxb1oxVnVKbEhDOW9kT1NtWG9ldTMzaWRvbHhPSzdQTnRpQy1kakZFN1RLRVBLS1U5VEF4VWh0ejFUNzRuT2hTODFGM2dQdENUZ2RzUWlGaDVuakI0eVZhWW8tajJ4YzhQUQ?oc=5",
+   "published": "2026-10-02T07:00:00Z",
+   "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "df6d46dad65f9e63",
+   "company": "Novartis",
+   "title": "Neuroscience - Novartis",
+   "summary": "Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53Z1hnUUJVX1JoR3VTRFpiODZUOWF4V0hGSUVQUVVuTlAxT0gxRU4xSXVoNWRzaHA0T3FnWHhlcFBTRlk3TjBBR3lpTWdadW9HUG1kOTFKVlY4OGVQeUpJYjZZeU5WMlhJYWtFM3AxZm01QXNzTEVB?oc=5",
+   "published": "2026-10-01T18:07:40Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "eb9c2fd4b9a13cb7",
@@ -5592,6 +6010,17 @@
    "first_seen": null
   },
   {
+   "id": "b7a220bc4a25f882",
+   "company": "Teva",
+   "title": "New Teva Resource Aims to Move LAIs Earlier in Schizophrenia Care - Pharmacy Practice News",
+   "summary": "New Teva Resource Aims to Move LAIs Earlier in Schizophrenia Care Pharmacy Practice News",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGxzVUxMU2YxeUlGblVBZnU5T3paeWsyUjFtUkNEcWhHSW0wTEozT2oxc2czREVTVVVyZmxZNkhMZHJzanpRR1J1NVc3Q2N2NUx5bEdBS2dNSzhqR3ZiWUp4SlRCdVVjZGdFWHNZaVkta3pxMXlmQTdteHA5T2RBNUtuZHRyWF9uYjd4TWhON1NVOUJTUmV2RkpWc1lOc1FqSTIzQ0JHWjNNNkRlbDhZM3QyTmNCbXYxTm1RcGJFWVJzSkJwZTRPU1ZDV2FkZ3ozSXc?oc=5",
+   "published": "2026-09-25T07:00:00Z",
+   "outlet": "Pharmacy Practice News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e51c162b1684797c",
    "company": "Transcend Therapeutics",
    "title": "Blake Mandell - BioSpace",
@@ -5610,6 +6039,17 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmVLdGtvNGtRcm01YUNvSGc3VzBna2J0cnNKamZaSzNudEtmOUgyOEowc081WDQ5Z3haUEYxTVlFb3QyWHF2VGJlY05XUkFxV3RIZEZNbmpDQ2xFTy1hSTcyYUFRVUZLbUM4aXgzLTlUSWwwbG5pRDBoRzZFWTVvcFdwYTM?oc=5",
    "published": "2026-09-24T07:00:00Z",
    "outlet": "Paste Magazine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e03bc44293ffd505",
+   "company": "Transcend Therapeutics",
+   "title": "What Eli Lilly’s psychedelic investment could mean for the emerging field - Healthcare Brew",
+   "summary": "What Eli Lilly’s psychedelic investment could mean for the emerging field Healthcare Brew",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGcwSGFwRGNMUE9NNE5aWnBsSnhENXdIaHNqRDJvMVBYT3FnbmRhNGs1RmpERmxoQkNaV0R2eVZVRHpKZExmMnZxblNQN0t1ZnlvbF9mSXNHcTV1ZF9DaVo5djdaUGo2S1VNVGtseWVzbWpEemhsSWRRVHBSUElPdW9oeWdVNFp2S3dvVGd0YTBRZnF2eXFRSDhha3MtZXpTcVczMGRLdl96SlpYVGt2azRR?oc=5",
+   "published": "2026-09-24T07:00:00Z",
+   "outlet": "Healthcare Brew",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5856,6 +6296,17 @@
    "first_seen": null
   },
   {
+   "id": "5f9f5d85a69b9cae",
+   "company": "Teva",
+   "title": "Medincell's Partner Teva Presented New Data on Investigational Olanzapine LAI and UZEDY® at Psych Congress 2026 - Yahoo Finance",
+   "summary": "Medincell's Partner Teva Presented New Data on Investigational Olanzapine LAI and UZEDY® at Psych Congress 2026 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXFGQmVYZ25qdF9uSWJIaUtHRG1wVE1HWXJyM0lLTVBjYXNyaXpjb2xNc3dWTlR0b3ZDQlhnN3d1MjRZbExpdld4SFZPWWp6UXZfQVpFbFVpMWxNQk4xcVBEdDg0b2VxRTdZME9vY2tra2NwWTRJeUdBZS1HajVfMGNSeGhZVHd4cE5BTEY1TFY4al9IcmczdHUyT3ltU0hz?oc=5",
+   "published": "2026-09-20T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3166840c685cd05e",
    "company": "Teva",
    "title": "Teva’s TEV-749 olanzapine LAI shows 80% stabilization rate in schizophrenia trial - The Clinical Trial Vanguard",
@@ -6087,6 +6538,17 @@
    "first_seen": null
   },
   {
+   "id": "6d322b790bf4e02f",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne® Expands U.S. Commercialization of FDA-Cleared OneRF® Trigeminal Nerve Ablation System with New Southern California Distribution Agreement - The Manila Times",
+   "summary": "NeuroOne® Expands U.S. Commercialization of FDA-Cleared OneRF® Trigeminal Nerve Ablation System with New Southern California Distribution Agreement The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNcXVwOXhJY2JEX2gtdF9Bd2pUNVlrV0xpYURzNkxSaTgzVjIyajV5V3VRV3dZQndyMFRIOVowLW1wa1hVcFhsMG1XMWxfVGQ4dlU4dnRTVU11ZWp1bEVCbnNLMjk0WUxUNXBMOTVXOTYxVF9VWmgtdmMxWnMzUEJMWl9nakEyeHpWazhmR2R0WmMxWkJHREJ0NjlrdkJ4SFNOMFZhVkt5ODZHeVVzYndKVkx4djlZVXdzRWd1V1o1b1NHTjdzZkxoNlBQd2JvQl9KY1hiSXFjNmtRNFBxWVg3RzE1WExrRW40Ymp4VzZfTlRuZUV6Rkl3QzZWVktSMmY3OGY1MnVmMFdYaEJROWtfRzRjM0Y5UExibkJmVXVhQmZrejg5ek9yM185MzZvOF8xalM4cmJnS29BSFNxMGfSAcMCQVVfeXFMT0ZlMmI1UW9BY2lYNnI1VVEwVE5wMmN4eXBnYjVKZnpjMThLdjNhS3BuM0hMQm5IemROTmd5cHdSUjdFQUZ3dmZZU1B2WDBFX1RSa3lVcVphMDJiY1Fmemt4ejZPWFpPZGVCY3J4RVZETmZjSlBUY1dGOFhGRVdTejJXWkRYUm1VV3FBdVd4Zzk4UmFoSGpvV09xbTVxQ0NmOGZUdHB0dVlvNFZIcUxkLXpsRzE4eEhYTmFLTk93bEhsanFIMUU0ZEdPay1zU3BHWVR3eVRMOWl3NWpsOTRsZkp3T3hWZUlxTHZ1cTVmSXhSYjBIRTZvNlpmV293LUdDVTBOSkxWMTdraTdsclBua0h6eS1ma0pCZTRleFF6cngwM0FXYVRwQ0lQME5MbkFoZ1JkNzdhbnhlOTBXalFUZV9aVjQ?oc=5",
+   "published": "2026-09-17T07:00:00Z",
+   "outlet": "The Manila Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "386ba30adaa55c46",
    "company": "Aspen Neuroscience",
    "title": "Andrés Bratt-Leal, Ph.D.",
@@ -6150,6 +6612,17 @@
    "published": "2026-09-16T07:00:00Z",
    "outlet": "Teva Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "10e7bb89078ca9ec",
+   "company": "Teva",
+   "title": "Teva Launches LongActingImpact.com to Advance Understanding of Earlier, Effective and Uninterrupted Schizophrenia Care - Yahoo! Finance Canada",
+   "summary": "Teva Launches LongActingImpact.com to Advance Understanding of Earlier, Effective and Uninterrupted Schizophrenia Care Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbExGM1U2YVdzMDlxU3ZtZlZHTUU3dWRIT0Y2bXMydVV0dDFBQ2FjYk9uNzliekIzZ2tKS3V4T1BvVmVZS0wwUFBNSVhMS19EaWtTa2VWajM2V0dFWFpzY2IwQVVoNlBHTk90SmxmUlNudU9SR1FtYmtSZElsdWwwYkNGZm5kOW1iTmpPMUNRWkZ2Z2J3dUE?oc=5",
+   "published": "2026-09-16T07:00:00Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -6494,6 +6967,28 @@
    "first_seen": null
   },
   {
+   "id": "2c6ba1deaa4d9b62",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne at Moody Capital conference: thin-film platform aims for growth - Investing.com",
+   "summary": "NeuroOne at Moody Capital conference: thin-film platform aims for growth Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHlIS1NZT2JfVGIwTzBhNzBRSTgzV3Q4YlpYaEVKTGRCckRlUjhHeVNFLVhMT0VsYUthRmx4X2hXbVJXZm9laUt0TS1HeHlvMUJXc3JIZUdaczV3N0RHU3U4OHpPQU55aDVWWHV2T3pPMEl0M0pfeGk4TlNrRTFzNHB6SmRQMGM1MTVmcjFmc2U3b2NtVjJ3X1FBUzJPdlNxWktzZDAwVGRmUk4zZllkVFc2Zy1hVzNxZkE0dWFwU0RMVVFp?oc=5",
+   "published": "2026-09-10T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "30e35d935484a496",
+   "company": "Insightec",
+   "title": "Job opportunity: MRI Systems Protocols Implementation & Support - Insightec",
+   "summary": "Job opportunity: MRI Systems Protocols Implementation & Support Insightec",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkNoZDZaQVJJYkZEUGUtUFpESjJqbnc3VUE1eVZVMjBjenRPb2E4RTdfVmplVmY0ckFYSjJyaVBlRGg1ZG9kWVhBTW96eklWeU96eEdXelJITUtENEk0U2FaWkRBekZJdHlOSE5GMW1MQl9Obk81UkxRTlRoR0Q4LVdBUFVrLUJQSGRzWnVSVzc2UmtJdFROVTRiMzNxdlVCUFpBUk5BTnFHaWc?oc=5",
+   "published": "2026-09-09T20:09:03Z",
+   "outlet": "Insightec",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "4c29b8f138e7b917",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson data presentations at the 2026 Psych Congress Annual Meeting: - Johnson & Johnson",
@@ -6626,6 +7121,17 @@
    "first_seen": null
   },
   {
+   "id": "fc87dacfad91b36e",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne CBO David Wambeke buys $66,999 in company stock - Investing.com",
+   "summary": "NeuroOne CBO David Wambeke buys $66,999 in company stock Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVlyVjVkSE1HemZEZDNLc1o4WkktaWZnUGxVMG44VEJfSjlSendsalhuSlJ6TFh2ek53YlJCWHhsRzdVRGw3bTNrOHBDVG5sallNWmNLMFpoYVNBY0Z3UzM5WXBhZzJRZ2FCb21NWGVLUkJXcGFPRV9veXJYd2FTc3NTZTA1Ync5TGhEb3hYNWdycmNPOEg3eHpmOGpEZlo2bndtNDRVeGtZU0xmNnNLZjFxUzJpa0tteVZB?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d08ab66bdfae19bb",
    "company": "Newronika",
    "title": "AlphaDBS System - Newronika",
@@ -6655,6 +7161,17 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0NmFjTHhQMmhGNDRYMjdoMFR4cWZKZHVWY2x2QUJ2eXZJU1Y5S0RCN3lRVVA2Q2VMV0NuRFJCaFltTU1IMHVTREJfSUUwbUJVZlNQT3VDUGFidE9PM195aUpGVzFtVThPYzBQRFF0akdNMVRWckNVQ1Bra1FIUQ?oc=5",
    "published": "2026-09-06T20:37:08Z",
    "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "56a50c7412b9f554",
+   "company": "Insightec",
+   "title": "Job opportunity: Field Service Specialist - North California - Insightec",
+   "summary": "Job opportunity: Field Service Specialist - North California Insightec",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUhTRHRKbElNQkVhbExNeEQ4bWlPWTEtUDZaRjN1TWEwem1HeUp0Tm1pTmJoYUFiWmJCRy00SmNRelp3dHpUenN5SW1CTzRQZGY1eWRsd0ttUzBjTFliWmdvcmxkY3EzV1BpOGEzLXJnUFBJRmZwT2VyNkFtNkFnNnBQSzBoOUJQU1JJdlBSRzNfTDJ4elpGMHIwckw?oc=5",
+   "published": "2026-09-05T14:59:11Z",
+   "outlet": "Insightec",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -6835,6 +7352,17 @@
    "first_seen": null
   },
   {
+   "id": "65bbb93c2f698921",
+   "company": "Teva",
+   "title": "What Is Teva Pharmaceutical Industries (TEVA) Gaining From This Bankruptcy Drug Deal? - Yahoo Finance",
+   "summary": "What Is Teva Pharmaceutical Industries (TEVA) Gaining From This Bankruptcy Drug Deal? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHdxYWlDT0k1LUtOcWlqclVFcUNzcGJmRGl6Ui1Da1dFYzg3anhzcUctQXdxUUcxR2thYjl3S2hEZzQyZEg3b2FNbnVHQ1dsLWR4TXNDd1JOOFc2NGRDOC1BcHREdVgyX3lTWTdVMDk0ZEdRYkJ1TGx5MlhzNnRYcTJJamVSV3RqODFtdkJHWEVBVDhIZndKV1VGcXRwVmJoVUtHV0Jlbw?oc=5",
+   "published": "2026-08-30T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4a066d5e9241a270",
    "company": "Zambon",
    "title": "Zambon announces European Commission approval of Hopledo® for Adults with Parkinson's Disease and Moderate to Severe Motor Fluctuations | Zambon - Zambon",
@@ -6868,6 +7396,28 @@
    "first_seen": null
   },
   {
+   "id": "cb489c08c99fe0b2",
+   "company": "Teva",
+   "title": "Teva saddles up as stalking horse bidder for bankrupt BioXcel’s neuroscience portfolio - Fierce Biotech",
+   "summary": "Teva saddles up as stalking horse bidder for bankrupt BioXcel’s neuroscience portfolio Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRExVVkY1TlVSNnBpLUdCUTRTMmhQWmR4WUlMeW04TjMyVGFoekdEaTdDanhxUFA2NEFOcFFadlNUelR0U3FBNG1FczVGYW9KTEhVTFBZbTFPOGNWYk9wdDJRYnNpVWd2U2JrQm44a2p6Y2I3Zzk5ZDFLRzVobDdaMXM3b0laUmN0MWtTQzJ6d3ltVHJDNk5sbEt2WlE4X3RXTDEtN21BVDhTMmVKYkI1LWNfaw?oc=5",
+   "published": "2026-08-28T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b736fc808de700fd",
+   "company": "Teva",
+   "title": "BioXcel files for bankruptcy, plans to sell assets to Teva for up to $125M - BioSpace",
+   "summary": "BioXcel files for bankruptcy, plans to sell assets to Teva for up to $125M BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGFYV3N6S2U0dk91QzFVcDRiWDJrMk1RUEtuR1h4WW9ZcUowb3pTR05Bd2pJLWR5eDdrYWdhZU5NQXBFSG9ENzFRczBjTEt0bFBxNzI1UUowSVY2Ql9IZjVQVEdvc2dsTGpSaHBGeXR5TkNwQkM3dmJKWEZfbmc1U3IxV21LSExDbHd3c0tWT2N1YWozbS10aGhma3FaM2RiTl9zaVdkdkU5dw?oc=5",
+   "published": "2026-08-28T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "eed19914aff72e5f",
    "company": "Alto Neuroscience",
    "title": "Alto Neuroscience Promotes Nick Smith to President and Chief Financial Officer",
@@ -6876,6 +7426,28 @@
    "published": "2026-08-27T20:05:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "92f43fb3b076280f",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne reports successful large-animal StereoCED procedures, expects related revenue in Q4 2026 - TradingView",
+   "summary": "NeuroOne reports successful large-animal StereoCED procedures, expects related revenue in Q4 2026 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLUNJdWRDcExCRGEwMmJVcy13bU8tRnc3VnVFSENfMFVyR1QweFpmMkZfejVtTkZJMGtNd2hZSWdSeS0yMDc2d2JTMzB4RFlsZE5hZFhfZmRTYWczcUdVbWNnZ2hMS0R2UUwzdER5a3FnZnZNcXhvWjYtUlNZQWZLMnB5QWJiZDJNWTlxbGdaN093dmdqQm1pbFFUdUo0b3lUbWVFVE0zNFRadE1iMEhySEtyanpiMUJDZjZNSUwzMXFxOFNwZ1VKV2o0NU5uSlVkTGJuX0VOcjFrQW14aWtEd1RFQjFPU2RLWnZTYmsyRQ?oc=5",
+   "published": "2026-08-27T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "44062c362e30d7c3",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne Announces Successful Robotic-Assisted Drug Delivery Using Next-Generation StereoCED(TM) Platform - Yahoo Finance",
+   "summary": "NeuroOne Announces Successful Robotic-Assisted Drug Delivery Using Next-Generation StereoCED(TM) Platform Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekNTQXJlVnhqS2hXY2xSdWlmNENjdnFoTmJrc1pCNjBkQ2M3T1NYNHVlMWdmNk5yNkpteFc5ZV9IQ2FCS19XcXYxUnUwaTQ3M3JkLVc4a0d0bHNwM0N1dW1iMWt4NUhjcUhiZ2NQLS03M2diaGRiMDZ3dTNkQzJ0WGRaRUNpck9wYzNtbGthT2x4NmtNUGI2SWVVYkxGeHhaY0d3bVJvNzVpTkE?oc=5",
+   "published": "2026-08-27T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -7198,6 +7770,17 @@
    "first_seen": null
   },
   {
+   "id": "15a4a5c059ac86c9",
+   "company": "Merz Therapeutics (Inbrija, ex-Acorda)",
+   "title": "IMPACT REPORT 2025 - Merz Therapeutics",
+   "summary": "IMPACT REPORT 2025 Merz Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVNLZzIwZkNKdDJUeG5lRUJvTGRDME50dHdxN1dUVjdRX0poZ1FOWldrSWlUOVhXV29nTFAyTUJYWTFxNkhWYS1uSW5XOXh5NlpIXzJkR2ZwTjY3cW1hc0RHMVZsaDBhd0tpRk5ndTQzdXpEMTVWNEJQcUk5anZHOUxXWTcySWtJZ2M2d3F1bkNsOXNuLTBzR2JVV3NoR1UwUWIwM2o4RkZNUHJuTFE?oc=5",
+   "published": "2026-08-15T04:40:29Z",
+   "outlet": "Merz Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "b6f9da1da96b18a4",
    "company": "Minerva Neurosciences",
    "title": "Fouzia Laghrissi-Thode, MD - Minerva Neurosciences",
@@ -7412,6 +7995,39 @@
    "title": "SER: SER-252 Phase 1b Cohort 1 completed early; net loss rose, but cash position strengthened - TradingView",
    "summary": "SER: SER-252 Phase 1b Cohort 1 completed early; net loss rose, but cash position strengthened TradingView",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUXlVVzVlREdXTDd3MXg2NEhaOGFVLW5FeTBUTkdORTRuTy01Q3l4OVJUelZMc0t5bVItQ3V2RG1nam1ZanlYbFlXWnR6VUpZcE9WRlZnN3ZmQTNHX3pFN1pHWnR1VkJmdEs2TEFDUmFRVTg4WWtjYm5kSEtLUFJmcVhkQThxLXlJbzQ3bU5WQjkyejFHTU9TamNTUjNvV25sTXJndFRuLV9ueE14ZDNwSEttZW9sVExnQmhlS0hHZlFCT1Jpem1DWHE4bGV2Z1RULWdybTRQUkZidnJVMHFzLWpQbmlIVncyV2VoT2dFd3RwQ19xVGFvY1BjenJZai1CRHQ0?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "49ab27405a7e1180",
+   "company": "NeuroOne Medical Technologies",
+   "title": "Earnings call transcript: NeuroOne Medical posts Q3 2026 revenue growth as shares fall - Investing.com",
+   "summary": "Earnings call transcript: NeuroOne Medical posts Q3 2026 revenue growth as shares fall Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTnhKLUNtYWxPU2tmLTFmSHhYVm1Gc2VpSUc0VnRVUmVfRUlJcE94OHlTWFR2WFhEUkpJUXp2SXdOTURObldHTGsteGdFRzIwZnJ6MklQRVpvaUZ1ZTRHWklHUmZFeGE1N2tEMVBfQVlGUmtpeHJKWVU5TlpsTjVZM0dzdVNFVHQxckhYbzd6NGJlOVdWTUczUU9jNWNYZWxFejhsUEQwVklTb09iYjRpMWx6VXlOenZGcjY3THNsdm5uSld1RnZfZzhxckp3SzNLdzVYRUYxMUk?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3e43124b2f873096",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne(R) Reports Fiscal Q3 2026 Financial Results, Revenues Increase 16% YoY to $2.0 Million; Gross Margins Expand to 59.9% - Yahoo Finance",
+   "summary": "NeuroOne(R) Reports Fiscal Q3 2026 Financial Results, Revenues Increase 16% YoY to $2.0 Million; Gross Margins Expand to 59.9% Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNjdyektvY3F2WmxhUjBOT24xRnRSMENKV2RNUGhpWi1QeW1rTk1QYmowekNQZl9FdDhzaHRRZVNlTEJtcW5ZMUliMFBSa0pKcnhkZGN5Z2M3Y3dzSjR2T0toRXBJWkRTR0JCcFlzbVppSEdib0pRR0VtLThENzY3bjV5LW9TT3BDRTBIcWs5OXdMVHM?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0821587f98e6494a",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne posts Q3 FY2026 revenue up 16% to $2.0M; gross margin expands to 59.9% - TradingView",
+   "summary": "NeuroOne posts Q3 FY2026 revenue up 16% to $2.0M; gross margin expands to 59.9% TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeUxwbDkzaDdLVWhBekNPRjItYUY0WUhhUjFPVXRTOWNMZ25GaXd6SUhlLWFndHhZcUh0d2g0RVh2aURVQXI2cy1XTlNHb2FlM2RjYWgwekNHaFdFTjhUby1rQlg0b1h6Vm5ReFJyUml0a183Y01yQUJlMUVEV3RMU0x2eTh6Q2JIa1F5VVBxekRtTkNVc0lhdm9IZkZVanRqdGNIQm9aVHJFQ3FoRnkxVUxLOElvenJyeDBadEd2QnFRM0RGZ0hpTmdXc1liMzczc2I0?oc=5",
    "published": "2026-08-13T07:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
@@ -8188,6 +8804,17 @@
    "first_seen": null
   },
   {
+   "id": "8d26e42ce9f7794a",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne(R) to Report Third Quarter Fiscal Year 2026 Financial Results on Thursday, August 13, 2026, at 8:30 a.m. Eastern Time - Yahoo Finance",
+   "summary": "NeuroOne(R) to Report Third Quarter Fiscal Year 2026 Financial Results on Thursday, August 13, 2026, at 8:30 a.m. Eastern Time Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFRiOEJJTTZzLURDbEl5ME8zWjBiWDN1VnN2WUFxWk1yQXIwNjFqa2lzZHVBcXA4TG9fVXpjTVB2R2dIVWprdzRUZ1hLNTlfc3pWYVhON2lzUlpvMHlYVFZZVjdCSEE5UGZsU3NPYVVPRXo1QUxKekhuRFdRUF9aU05OZkNieEdRMkdQQWVzeHBLem5GYmFR?oc=5",
+   "published": "2026-08-03T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "abac99a54542e7c3",
    "company": "Serina Therapeutics",
    "title": "Serina raises up to $63.3M for Parkinson's candidate SER-252 - Dealroom",
@@ -8427,6 +9054,17 @@
    "published": "2026-07-28T07:00:00Z",
    "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "3d22e322add95721",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne(R) Highlights Potential Paradigm Shift for Patients Treated With the OneRF(R) Brain Ablation System Based on Reports by Physicians - Yahoo Finance",
+   "summary": "NeuroOne(R) Highlights Potential Paradigm Shift for Patients Treated With the OneRF(R) Brain Ablation System Based on Reports by Physicians Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1BaY1dwd1ZqSUFmbFphb1ZUT2tOUzFYaWtyM1dRR0NpTmhLM1BQLWF6YmlQVXNzMkRNNzNDQ1NfZFBUT21Wcmlobk5QcHhjTnhva2dtdXozN3ZHM2JpUlBaZU5BOU5Ed1o5SUtJVWNnYUJ6Qk94bHJwY0NSQl9RQU01bVBuTFVTOVVtVDBxUUJ0VWRFQ3FyTzJYLThFM0VJbjNn?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -8760,6 +9398,17 @@
    "first_seen": null
   },
   {
+   "id": "39f9876339e2afca",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne(R) Expands Drug Delivery Program Through Collaboration on Pediatric Brain Cancer Clinical Trial - Yahoo Finance",
+   "summary": "NeuroOne(R) Expands Drug Delivery Program Through Collaboration on Pediatric Brain Cancer Clinical Trial Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlp0ZmJlblI3V0h2SXlmdVR4ZGJQMjIyQ1FXTEdGWEpfYnF6cEcxZWExTDBNNnBiS0lZekdVaGRXSzJlRVhQaUo0NXhrRVpUc0tYUXZqM1ZwLTVyTWFLa1FHaE9IM2hFcENpS0h1RFhQeC16VlJqTUNQVURDUnk0UFhzbEpXS1NGN2tTOXN4aGNUYll5TldJVQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6aaca477a3374ca9",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics Announces FDA Acceptance of New Drug Application for AXS-12 for the Treatment of Cataplexy in Narcolepsy - July 15, 2026 - axsometherapeuticsinc.gcs-web.com",
@@ -9035,6 +9684,17 @@
    "first_seen": null
   },
   {
+   "id": "5cb7cbeb1357357a",
+   "company": "Insightec",
+   "title": "Data Sheet - Insightec",
+   "summary": "Data Sheet Insightec",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQejRCeHN6T3NzRWUwZlBlSnFoY2pYN0hpWVU2UmNmdklKcDhsMTZ5MGNNVXdnMXg1SUNHZzRtLXhWbzNwRGtIX0VNY0JQZXRzU2RtRTNuWm1JUzVHRDZVTVh5WDQxcmJlcjlmZWotb0xhdmpnbmdTZ0JmR1BxZF9zYnBBSXExRXdvaWF6dEotRFB0VTZ6RW8zcDRVSnN1d1hua2puRG1KdFE1TkVaTWc?oc=5",
+   "published": "2026-06-30T11:09:33Z",
+   "outlet": "Insightec",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "5a77bab2fb2eef41",
    "company": "Serina Therapeutics",
    "title": "Gannet BioChem and Serina Therapeutics Enter Development Partnership Supporting SER-252 Program - GlobeNewswire",
@@ -9145,6 +9805,17 @@
    "first_seen": null
   },
   {
+   "id": "5f9283be6cc6c4d0",
+   "company": "Insightec",
+   "title": "An incisionless treatment for essential tremor with instant, durable tremor improvement - Insightec",
+   "summary": "An incisionless treatment for essential tremor with instant, durable tremor improvement Insightec",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSUJpcmN0ZF9adGh6NnY3cjkyNUtYZjhXUl9RNlNHYnZuRU9iVDRGdU9yQ3lNYThaZjZXVGVocUVPOVlJd2JkTmY4X2hYaHRDc0lGMGdsVGFGYWdPNFlOSmhJRG1mZmJtc1lrZEtETE8tSGphVTNLRHZHMXFfMkNvM2FpTDlXZ281V3Fpdk1RdlpHNXZvWnBtYU5MMnk3bmMydERwNFhnX1Vxd1ZDS0RTZGE5X0FseW54SGNjMW9lSzJMSVozamc?oc=5",
+   "published": "2026-06-27T13:55:42Z",
+   "outlet": "Insightec",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c4bd8cddb71828df",
    "company": "Protagenic Therapeutics",
    "title": "Robert B. Stein, M.D., Ph.D. - Protagenic Therapeutics",
@@ -9219,6 +9890,17 @@
    "published": "2026-06-26T07:00:00Z",
    "outlet": "Merz Therapeutics",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "3bd42cabded9c8af",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NMTC Forecast — Price Target — Prediction for 2027 - TradingView",
+   "summary": "NMTC Forecast — Price Target — Prediction for 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82MkFmNkhXVkJ3NTJrSGVzNUZMRHVVR0ZBTDRKWUU1WlhjTlJydGEtTlQxanoyMFhUMjR5UnlyaldrLW9mdWExSldxWVFKMkQwdlJXRzlRYnRpY2pfWXhuT0Y4Mk1MZ1QtWGhaVU56eWE0eFZCN2Vrd05n?oc=5",
+   "published": "2026-06-25T16:03:30Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -9827,6 +10509,17 @@
    "first_seen": null
   },
   {
+   "id": "8e104f05d1b148ff",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne(R) to Present at the Planet MicroCap Las Vegas 2026 Conference Wednesday, June 17, 2026 at 12:00 p.m. Pacific Time - Yahoo Finance",
+   "summary": "NeuroOne(R) to Present at the Planet MicroCap Las Vegas 2026 Conference Wednesday, June 17, 2026 at 12:00 p.m. Pacific Time Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzlLaFg0SDlDYjZMNmlaUVBSUGJlU0dVNGhkWmd2dkdjNVhFSEl3TXBXTk52UEZfRkt1ZHRCYWFGaU9aN0FqVkV3NzJzMU5meUlnNUU0emFTa09QSUJvTTVlMHYwZHo2SDJTeVJ4RmxHV1ktZnl2ckREZExQZDN3ZVBUUnVnUVF6SUMwNk82YVhxRWh2Yk9OcGJqNWhJT1l6VnRVeEJn?oc=5",
+   "published": "2026-06-08T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "2d071da9bb1dfedc",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals (Nasdaq:NRXP) notes presentation by Osmind, Inc. of IV Ketamine Efficacy vs. Nasal esketamine Efficacy at American Society of Clinical Psychopharmacology. | Fri, 06/05/2026 - 08:51 - NRx Pharmaceuticals",
@@ -10234,6 +10927,17 @@
    "first_seen": null
   },
   {
+   "id": "87b5ccb084b659bc",
+   "company": "Teva",
+   "title": "TEVA's MAA for Olanzapine LAI in Schizophrenia Accepted in the EU - Yahoo Finance",
+   "summary": "TEVA's MAA for Olanzapine LAI in Schizophrenia Accepted in the EU Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFpHMmtsRV92aVQ3OU9hSmdVV0cwS3RabXBMVEREcXdncjQ0TktiaVF5VVlncC0ybzR4QVRqREp0MmpvRS15aXdKaW1jOHBDY2lVMXNybGZBNmg3Ym92cjZsQ0g0UFRzS3FfNVpUYjhHdEVzNTdjc19pWktVUUNPdk01T05PX0k1TmZQVGhyN0JEbmdEb0J6MVgtbFltTTRWVDQwQ3FwLXgyYjA?oc=5",
+   "published": "2026-05-22T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c50276a5e423d43e",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "#NCT06229210 - J&J Clinical Trials",
@@ -10307,6 +11011,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXVzSTJJeWRlRlhvb08wemdSdkNLd3dKaFBqRnBjbnEtdFpBdzVicndLRnZkcHQ4dkNXd2kzYXdlVnlYRDl0Z3JhdVZjSlNXT2hGM2ZoTjdoMTZaMTFSSC1hdFFwTWFPTHIwNkpldElqeHY4UVctXzljS3J1XzV1WTdBSUxQc19kRk9wcFlQVUw2QnJtMHVMNFY4d0JGUUR5TnMzdEhOZHRHakk?oc=5",
    "published": "2026-05-21T07:00:00Z",
    "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "61ebc4c0dd6525f3",
+   "company": "Teva",
+   "title": "The European Medicines Agency Accepts Teva’s Marketing Authorization Application for Olanzapine Long-Acting Injectable (TEV-‘749) for the Treatment of Schizophrenia in Adults - Yahoo Finance",
+   "summary": "The European Medicines Agency Accepts Teva’s Marketing Authorization Application for Olanzapine Long-Acting Injectable (TEV-‘749) for the Treatment of Schizophrenia in Adults Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjU4NG5odnAxZHByLWQxR0JxX045ajVPNERBZFNHTDRjSktRMXM1Y1lKbE5QR3N5Nlo5OF9ScHluekkxY0NsZUhHT1FOdDlUOTJKSW1USXgzUGVzWlBUeE12Q2FXcXA0elpwU1dZQ0tyeG9ZQnRiQlhGc1pEaXVHWnpvMWtWUnV1eHRtVGhneFdEeEY2NkJhSWZ1RWQ3elRmdUJsbFpSdjBJdlk?oc=5",
+   "published": "2026-05-21T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11224,6 +11939,17 @@
    "first_seen": null
   },
   {
+   "id": "b2ff6dd47ce9d116",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne(R) Announces Chief Financial Officer Succession Plan - Yahoo Finance",
+   "summary": "NeuroOne(R) Announces Chief Financial Officer Succession Plan Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUtpNFNKQTRPM1FrMWEySnZpcFJSMjRWaFlDak9hOEZxT3BGTDN2a1ZqRWM1LW01ZGFGYWNEeVFiNWVxZjM1ODV0R2pMSWd4ejBVWEVmXzh2MnkzSnNCY0J3bkcxc0Z0WFpBaDh5WEs2VkpGNXN6bHJhT196V3hmeU4ta29lMkFOeVNnbS11N3RleFpWODVnQkItcmhfeGlKYWZfak9iMk8?oc=5",
+   "published": "2026-04-30T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f378717e744418d7",
    "company": "Gain Therapeutics",
    "title": "Parkinson’s Disease KOL Event",
@@ -11297,6 +12023,17 @@
    "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE40R0k4bmxteEJPbXlyaEFxT2ZDUlk0V2wxaGdYMTg2Y0dQV29VX1V4Z3dlMTYzck5kT3ZpZnliN0c?oc=5",
    "published": "2026-04-28T12:35:23Z",
    "outlet": "Remepy",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "6e7b0817fc6e4a7a",
+   "company": "Idorsia",
+   "title": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year - Idorsia",
+   "summary": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3A0aDFHMXQxY2lIZGwzcG1vU3lab2RkbTY2ZU96cGE5cmFuUGVFd0FFM0ZHTTljclBwM2lzY0U5eTRDODNEMmhFSjVtWUgzWW9laElTendJcDl0dXJKLVk0Zzh2N3RZMVcwSHE0Mll1T3JBX0V1ajZlWDF0dTIzMXpKdkViTjZrWmVpOHd5MS10SzMxOG80b0IwN0UtQQ?oc=5",
+   "published": "2026-04-28T08:33:11Z",
+   "outlet": "Idorsia",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -11411,6 +12148,17 @@
    "first_seen": null
   },
   {
+   "id": "f1cb8b594e25cbd1",
+   "company": "Transcend Therapeutics",
+   "title": "Compass, Transcend and Usona Institute win FDA vouchers to expedite new psychedelics - Endpoints News",
+   "summary": "Compass, Transcend and Usona Institute win FDA vouchers to expedite new psychedelics Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmZ0T0VyYlVUMHdnUjVUSlpaZjN1X0dxVkNKbi1rcTloS1JnRUh4TVpIb1FEdm1STkY4dFJyckY5VDFSR0lFX1FQUE9NUFZIUm01WXR0QXI5Vm0wVXlPaDIwQVc1N3U1S0VPa3JSQlpJYUFvT1Rua2VEZlZfdEt0MWh5b25ZNWZMRHBV?oc=5",
+   "published": "2026-04-25T07:00:00Z",
+   "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "43fca624d5db9287",
    "company": "Usona Institute",
    "title": "Compass, Usona and Transcend score FDA national priority vouchers amid Trump administration’s psychedelic push - Fierce Biotech",
@@ -11474,6 +12222,17 @@
    "published": "2026-04-24T07:00:00Z",
    "outlet": "Psychedelic Alpha",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "f329700a879783ff",
+   "company": "Transcend Therapeutics",
+   "title": "FDA grants three priority vouchers to psychedelics - pharmaphorum",
+   "summary": "FDA grants three priority vouchers to psychedelics pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2JHdkJldHVOWjdublhWT0hDRmVvUlg1ZGYyTXhaQXRaYnBBZ3Zlck9fOXMtT0JuWWN3UnRuS0ZKUDByU0oyVlRqMUxrdlpEbjMyZFd5YVR1RFBWcktZWk44Y1BEVTV3M01pTnd5czdzbzd3XzhQMXdOSUpfaWF3THFUQQ?oc=5",
+   "published": "2026-04-24T07:00:00Z",
+   "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -11829,6 +12588,17 @@
    "first_seen": null
   },
   {
+   "id": "b6b8bdaaa1b988e0",
+   "company": "NeuroOne Medical Technologies",
+   "title": "Eden Prairie Company Expands Med Tech Use to Chronic Pain Disorder - Twin Cities Business",
+   "summary": "Eden Prairie Company Expands Med Tech Use to Chronic Pain Disorder Twin Cities Business",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVYzVkZDUE5pOEJxQVgzLWVVWlI1SnRqbFJIZkFYLURZcXNHRDNRemRLblFkYldPeHppaUtneGFQZHJjcXpFVGNyYl9RVW40U18tM3pBclpiVmdPVkZpUlZBYVBIQXpXRjZ2WHA0d0JxQ3NrRjNfbGtISUNKY3NubFp1QlZORjdFQjE1VVBIeGswdFZWZkhETVZGX1NZN1B5RnNlQ3cyWGtvUXlVNnozQTdoVk90ODdwZlE?oc=5",
+   "published": "2026-04-16T07:00:00Z",
+   "outlet": "Twin Cities Business",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "99671529c211cd38",
    "company": "Reviva Pharmaceuticals",
    "title": "Reviva Announces Letter to Shareholders",
@@ -11880,6 +12650,28 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlJZek1rT3R4V1lLYW5SQlNoZWxyLTFfblM5TFQ0cjdCNXJnenZPeHJzdjdHYXVpTG01WExUS0U5QW1fa2FScURYZVVla3ZtRERIVGNGQUZZWEo1RGxVUEJaWWp5NS0tQUFyTjV1QmxQc0lpYWlXajdBVjZoaXJVai1Vam85NXZ4TGJfbjl2M08zUHdieFp6TnZVdWp4QzFmZHYxeTNPem4zUEc3?oc=5",
    "published": "2026-04-15T07:00:00Z",
    "outlet": "citybiz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "26394177f16af258",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne(R) Advances Brain Drug Delivery Platform Through Collaboration With University of Minnesota - Yahoo Finance",
+   "summary": "NeuroOne(R) Advances Brain Drug Delivery Platform Through Collaboration With University of Minnesota Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTng4ZHVfeXhwVFFBakpMTThmRk5RemlKRG1QWGFDUDlYd2wzQzVJcVVydTIwVmVZcm9mZ3pJSHVHb0FoM0t5Mkh1SENRU2pHT2ZseFlVOWNfY2NuaUF2VTljUmRXMXJVVk9NWE1UaVh6TFVmUkJEa01ncHo2OTROcTZteDNTOGdOVjh1UTB6UEpiWmVBbTlfS2gwU3dYRWlu?oc=5",
+   "published": "2026-04-15T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e89c481bcec45f87",
+   "company": "Teva",
+   "title": "Teva launches new online schizophrenia community project - Fierce Pharma",
+   "summary": "Teva launches new online schizophrenia community project Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3pRUWtiZDJGT21GWUctc0Rld2p6RVZiV2dHSnZ3b21pRVFoQ2l5WVJVT3BkeE5PUE9GazJ4WXNSV0xPZFBaV2kyR0NMZ0ZxVWtjaGJMRURQSkRuWkZOVjU3U1NLVUl3NHJldVdmcUs5VFFWTDBKSjBZaWFHWmtkbldoZHJ4bDNHX0tkZlQzYmhiSmpwNnB4S0F4OA?oc=5",
+   "published": "2026-04-15T07:00:00Z",
+   "outlet": "Fierce Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12291,17 +13083,6 @@
    "first_seen": null
   },
   {
-   "id": "6e7b0817fc6e4a7a",
-   "company": "Idorsia",
-   "title": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year - Idorsia",
-   "summary": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXRfNmItZ0E1WmxKRGhxc0p4UlNYWmJUSGxsLXZPUTRKWHA2SUlxdjFUX0g5NEpHQnJKb2pfVkdyN3ZiTTZFRnZxM0JRVmh1emE2SjN1OFpKV01jdXFFUVNxZU1LNWdUYlRWaVFuSDFjRnVoMHpuak55VkxtcUQzSkZ1U3pHbFJpN21mWDlNZmhIMGJfVEQ5MnRxWFBSaklRYW9KeS1Pa0d4N2JHVnVuYmFzNUw?oc=5",
-   "published": "2026-03-31T07:00:00Z",
-   "outlet": "Idorsia",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "3df336146895f7d6",
    "company": "Annovis Bio",
    "title": "Annovis Publishes Historical Review of Buntanetap in The Scientist - Annovis Bio",
@@ -12353,6 +13134,17 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sSExzRzZMSllNVEdtMzFmNUpXU3d2QUF2QjMwWnRBVzhGRkVjMVd5Z3BoSm8ydlY3LVhwazNUelJKZV9FZEpBMUR3dVVyMlJwdlFSZzk3TWtWSU0wSjVkQUJBeG9WTXRZTWFyUEQ0RGhVSXdidGc?oc=5",
    "published": "2026-03-31T07:00:00Z",
    "outlet": "Law.asia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5fbdd7a8aa9b44be",
+   "company": "Transcend Therapeutics",
+   "title": "Eyes on Asia: Otsuka, Biogen, AstraZeneca - BioXconomy",
+   "summary": "Eyes on Asia: Otsuka, Biogen, AstraZeneca BioXconomy",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSl9QaFhlaE5Vc19BNkxfMDdzaEtYVXZza3BhVFJIX29DNl9yNFMwTFlyX0luRGFTN05EelUtMHRoQ2pjOXZidThzZ3A4VFJlSjJ5MGlwOEFRMGV5Uzd5Q3NWYjRLeEVpcElkb2R0b0xCdHpnakdmMWtNdEJhdXpMWlFB?oc=5",
+   "published": "2026-03-31T07:00:00Z",
+   "outlet": "BioXconomy",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12551,6 +13343,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFVEeHNBbkxHRU45YnFQVU9mbDE4S2hOSndFNlRscExzOEZCVFZvbGVBd2k3Z2ZoZFNyOUVnQUZtelhFTDJqMkdDd3dkTUY0T3FFS0dDLUpWTGlibHAtUy00RFZKN2tvU0lmQy1pcnhOVEVXQkVKanowOS1SVkRxX0xRT2NNZGxGc21vNTIxNVV4RUFfUnNob0RwRVB1OVQ1U1lRSnQ5SmRBZGhBU1hOcTdGWDA5X25yTzFF?oc=5",
    "published": "2026-03-30T07:00:00Z",
    "outlet": "NRx Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "58be31123f599a4d",
+   "company": "Idorsia",
+   "title": "Idorsia’s daridorexant delivers outstanding results in a Phase 2 study in children with insomnia disorder - Idorsia",
+   "summary": "Idorsia’s daridorexant delivers outstanding results in a Phase 2 study in children with insomnia disorder Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMVQzMDdobVlQajdlQzU3MnFkZEV4bWJQcUhWTHc1dlZITzVuYldpclNQUXk5cnZrRmwzNk5mckRfd2NTTDNsRzBOWmJncTJfbUVqYlhrLXNiVndQcDJhNnJSZFRuRXBiVG85dEQzeGJWSk9aYzJXNGN6N25zTGcyQm5Wbkl0WlV1VjlLMkxGTDdKZnlWS0lZZmttdk82djh3d2Q1WGRXaS1PN05rQ09DWlpmZmFFZktpY0hJM2VJbHFVSjNWNmNtYQ?oc=5",
+   "published": "2026-03-30T07:00:00Z",
+   "outlet": "Idorsia",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -12882,6 +13685,17 @@
    "published": "2026-03-24T07:00:00Z",
    "outlet": "BioPharma Dive",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ff5595468e382553",
+   "company": "Insightec",
+   "title": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor - Insightec",
+   "summary": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor Insightec",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS1BrUTdrNjgxQWRqMDNEZVNrbVFYUFVzSnZuR1BxUUxVcjlJTHZ5S29GTHUzZURXY0NpaHY4eVoxVjRRZF9ON1d1cG1NQ1Bqbjc0bzVEOU5lMjN3N25TaERMZlBrMG5wVGpYYm1VZzVKdnp3enhWSmN6MlhEMHE3OTh6R3lxR0NqMDVLUE1xLS12UlpONXZEYl81SUZNRWdkc1pzTkYxanRzVnZZU05qbDZQMGJwdXZZbzRYQjItWUZwSVU?oc=5",
+   "published": "2026-03-24T07:00:00Z",
+   "outlet": "Insightec",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -14326,17 +15140,6 @@
    "first_seen": null
   },
   {
-   "id": "ff5595468e382553",
-   "company": "Insightec",
-   "title": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor - Insightec",
-   "summary": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor Insightec",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDJJaV83cmlJT00yNWx1RmJtQkJLbzFQd1A1aURMenVCU1A0YUFaejJSZXpnc0pyUkRCSExrV3Y0YXUzUnh0SXU3dUFQMWRwV3ZsdTRQOTd1Ry1hLWxQeEJkbXVsdHJoU1pkdU5lSjZjR3dxZlF3MnNOdGVmakpFZHVZcjVhZTlSYnFScGVMclN0VXRJM2EtODVB?oc=5",
-   "published": "2026-02-05T08:00:00Z",
-   "outlet": "Insightec",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "40d11825c3981520",
    "company": "Denali Therapeutics",
    "title": "Denali Therapeutics Presents Enzyme TransportVehicle™ Progress Across Three Clinical Programs for Treatment of Lysosomal Storage Disorders at 2026 WORLDSymposium - Denali Therapeutics",
@@ -15283,6 +16086,17 @@
    "first_seen": null
   },
   {
+   "id": "f30440dcfa7fe994",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne Medical Technologies Corporation (NMTC) - Zacks Investment Research",
+   "summary": "NeuroOne Medical Technologies Corporation (NMTC) Zacks Investment Research",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OQ0NhMnJ2Q1pSZC1ZaG1HalIzd00wNjQ2Y1paQjRvbUVpVmNCMU9ZN0xnV0U4LW5HdDUwYl9aaHBsVWVPVzFXUURVOTNUNG9HSFBWdDJSdW1fa3U1d19PWndhM2hUbHhNUG9J?oc=5",
+   "published": "2026-01-06T08:00:00Z",
+   "outlet": "Zacks Investment Research",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "afed705455733c92",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Privacy Policy - Helus Pharma",
@@ -15632,6 +16446,17 @@
    "published": "2025-12-22T08:00:00Z",
    "outlet": "neurocrine.gcs-web.com",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "967a1bf4a80f5c3c",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne(R) Appoints Jason Mills to the Board of Directors - Yahoo Finance",
+   "summary": "NeuroOne(R) Appoints Jason Mills to the Board of Directors Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMDNDSnNpX1JNUDVVbl9tczF3SHlTaVRhSktGZWd1cGU0TkppVnZ6WWItbzhqZjU3Y0tLanlMWmdUWlhIQXJaSENMRkp3UFoxS2FneVpoUEh4Q3Rta0w5V3VCdDc4Y3BvT25ka1BsMkNnODdHcU80eFQ0WmN4b29JX052QQ?oc=5",
+   "published": "2025-12-22T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
