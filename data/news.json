@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:27:40Z",
+ "updated": "2026-11-20T19:28:46Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "c17435afc147177f",
+   "company": "Novartis",
+   "title": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) - Novartis",
+   "summary": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMW5hN25TV3ByYUtjdU10elBCbkROb2t0WU1NWUU2b1BoV0d6blVsSnRXS2hOVmlmUE83UlVCU0Y4QWlOWl9UV2tPWWVuT0xrS2cyRnJuTXhTNzdZOXRRN1R6aU9TaTJuTndyYlYyU3pySkhTaVpScmRpZ3FTVEtOSGJwUlF0NFJQc2txZmVORnVYYmV3bFpfbGo0aXllTUkxTEtlVGlCQ3JtTnZJQk9fTHhpZzhadFhvbWZLNUtVTDZ6ZXJzam1kNXdpSGhWdGs3dGEzR0pWVWs3Nlk?oc=5",
+   "published": "2026-11-20T18:52:34Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T12:04:08Z"
+  },
+  {
    "id": "9354da7e88682c43",
    "company": "NeuroDerm",
    "title": "Tanabe Pharma to wind-down of operations at its subsidiary NeuroDerm - The Pharma Letter",
@@ -1674,17 +1685,6 @@
    "outlet": "Pharma Voice",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T14:26:56Z"
-  },
-  {
-   "id": "c17435afc147177f",
-   "company": "Novartis",
-   "title": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) - Novartis",
-   "summary": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) Novartis",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclJ4SUcxWGJWejItTG52Q0NOMmwxM3NfUlk2UzVrMlVobHhheUR1MkJtNExGX0FRNEJYb1hLckhzTG9jUWxzdFJna3V4MkFsOXd3MXVWY2w3YUpla2dTZXJLTDRkZVo1MWZGUE13eEFxdVl5OXFUc180d0x3WDhSbTVKVTBibGJDVU5YNjFlRk5NYXFSVS1rcHMzLUJHMHRwLS1uYTlxTmxhLUZ2c1cwdkRvaEJacnpyVjJMWHpHVGJtaWdZQ3k3ODB2UllQRFhhOTkw?oc=5",
-   "published": "2026-11-20T13:23:24Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-20T12:04:08Z"
   },
   {
    "id": "b0fb614d5d56dc07",
@@ -3964,17 +3964,6 @@
    "first_seen": null
   },
   {
-   "id": "02c9dd56b4db4966",
-   "company": "Gain Therapeutics",
-   "title": "Gain Therapeutics Presents Positive Phase 1b Open-Label Extension Data For Rexaceract Demonstrating Further Evidence of Disease-Modifying Activity Through 12 Months Administration - Gain Therapeutics",
-   "summary": "Gain Therapeutics Presents Positive Phase 1b Open-Label Extension Data For Rexaceract Demonstrating Further Evidence of Disease-Modifying Activity Through 12 Months Administration Gain Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOeE44Rndfd1FsbE5fVVk0YVNKNGlnZW1kb2JqcXNHM0pLc2F2bUI5RTBfVzFFc0VYNE11UjB6c05LNTdDa1o0ZE5MejNKMW1zQjhzRjhna21xaTFVUHBuZlFNMVZLeTBtUFExR0FneTJzeW5DQ3U2RG42N1Y2clBJQUNRZGhFSWFyc1lKV1ZkRzN0RWd1TXlFNU5MelBKVl91S2pteDNvQ2t0akYyT0V4LXlxNGRtZjQ3WWJWa3M3OGlGWEpvTWtWbV9wRk9aMjBaaVBxUnlsRGZTdEw2eWtRRkFTTmgta2lSVEFnOTFWTUE4UnhuNWV2MkJxY3E0dVB0U3RFdEpkY3FMdlNwMEZLeVl4Z3FHTUQwdXkzZEhOa2RIbXFsSm9SZ3g5alFiMlhnaHA4S1dJYTRCTW1NdHdnQUdFQzh6M3V2dnprbnZjaV85eUhQSXhZTW1Qa01fV2k4NEl1UXJEVjVJeVVfdlE?oc=5",
-   "published": "2026-11-05T08:00:00Z",
-   "outlet": "Gain Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "0289da27ae3ac4f4",
    "company": "Remepy",
    "title": "Parkinson's Program FAQs - Remepy",
@@ -4965,17 +4954,6 @@
    "first_seen": null
   },
   {
-   "id": "9d20025ef29df802",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma Announces Co-Founders’ Transition from Executive Leadership as Company Advances Toward Next Stage of Development - Helus Pharma",
-   "summary": "Helus Pharma Announces Co-Founders’ Transition from Executive Leadership as Company Advances Toward Next Stage of Development Helus Pharma",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIQ21aYmFvMXYyLTlUX0VIbUtUY0pLdzVxUDFtVnd1Vy1DLWZKRVBnU3dISTVvU0lRM2VpV1VzMGpramVoNlMyaFNFMA?oc=5",
-   "published": "2026-10-27T14:53:42Z",
-   "outlet": "Helus Pharma",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "a9d5f55148cac6e6",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals Presented an Analysis of Phase 3 Data Demonstrating TONMYA® Improved Physical Symptoms and Functional Ability of Patients with Fibromyalgia at the IASP 2026 World Congress on Pain",
@@ -4995,6 +4973,17 @@
    "published": "2026-10-27T10:30:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "9d20025ef29df802",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Announces Co-Founders’ Transition from Executive Leadership as Company Advances Toward Next Stage of Development - Helus Pharma",
+   "summary": "Helus Pharma Announces Co-Founders’ Transition from Executive Leadership as Company Advances Toward Next Stage of Development Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIQ21aYmFvMXYyLTlUX0VIbUtUY0pLdzVxUDFtVnd1Vy1DLWZKRVBnU3dISTVvU0lRM2VpV1VzMGpramVoNlMyaFNFMA?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -5079,7 +5068,7 @@
    "company": "Arvinas",
    "title": "Arvinas to Report Third Quarter 2026 Financial Results on November 3, 2026 - Arvinas",
    "summary": "Arvinas to Report Third Quarter 2026 Financial Results on November 3, 2026 Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORm1PUVpxUzlZUDh4RTdxNEZZajlMZENhbjNLYVk5TWNBWUNSNHgwX016QW95cVdIb1lYejZVWWlSSlRBUEllSHNmcnAzZ29iOHBSempDY1NLOF9tYkwwellmQ0pFV2YxQm4xOEp0Z0ZTNWhGc2hTLVdtUUc2ODM5VnNNT3VlVXI4aVNxV2hsdk0yMTVBTHVIWlBPNnY1dU1jVC1XX1FaWDBpVzlxc1ZYcUw4X05ZNlRQNkVQLU5R?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRTlhQcmFUNUt3b2t1elpaOXoxRVJESTg4N1hqY3k1bGljLTg2WUJIOTdwalZYMzVpRVUyUjN3T09hc3hYUDYyQnNUdTQwZw?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:)",
@@ -6547,6 +6536,17 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "02c9dd56b4db4966",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Presents Positive Phase 1b Open-Label Extension Data For Rexaceract Demonstrating Further Evidence of Disease-Modifying Activity Through 12 Months Administration - Gain Therapeutics",
+   "summary": "Gain Therapeutics Presents Positive Phase 1b Open-Label Extension Data For Rexaceract Demonstrating Further Evidence of Disease-Modifying Activity Through 12 Months Administration Gain Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOeE44Rndfd1FsbE5fVVk0YVNKNGlnZW1kb2JqcXNHM0pLc2F2bUI5RTBfVzFFc0VYNE11UjB6c05LNTdDa1o0ZE5MejNKMW1zQjhzRjhna21xaTFVUHBuZlFNMVZLeTBtUFExR0FneTJzeW5DQ3U2RG42N1Y2clBJQUNRZGhFSWFyc1lKV1ZkRzN0RWd1TXlFNU5MelBKVl91S2pteDNvQ2t0akYyT0V4LXlxNGRtZjQ3WWJWa3M3OGlGWEpvTWtWbV9wRk9aMjBaaVBxUnlsRGZTdEw2eWtRRkFTTmgta2lSVEFnOTFWTUE4UnhuNWV2MkJxY3E0dVB0U3RFdEpkY3FMdlNwMEZLeVl4Z3FHTUQwdXkzZEhOa2RIbXFsSm9SZ3g5alFiMlhnaHA4S1dJYTRCTW1NdHdnQUdFQzh6M3V2dnprbnZjaV85eUhQSXhZTW1Qa01fV2k4NEl1UXJEVjVJeVVfdlE?oc=5",
+   "published": "2026-10-01T14:28:28Z",
+   "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
   },
   {
    "id": "eb9c2fd4b9a13cb7",
@@ -10385,6 +10385,17 @@
    "published": "2026-07-26T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
+   "published": "2026-07-23T09:38:46Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -16731,17 +16742,6 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZy1SOGZRSjBCU0RZX3J6VVRSUmIwWUNDdmZQcVJDSnJBNmJHeUw4eFZSVk1Za3dVVThWMDEzSnIzcllfZmI5SnNLLUx2Tmx5MUtFOEs3eGVPVjdQRGUwQ1BLTXpsNWs4cUQyRGxCeGZZVUNPVkVlaVIydDhwbG5iVTFJZk4?oc=5",
    "published": "2026-01-31T21:24:31Z",
    "outlet": "Remepy",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
-   "published": "2026-01-29T10:15:29Z",
-   "outlet": "Roche",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
