@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:02:35Z",
+ "updated": "2026-11-20T10:05:20Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2044,7 +2044,7 @@
    "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
    "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
-   "published": "2026-11-18T15:14:53Z",
+   "published": "2026-11-18T15:14:52Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
@@ -3711,17 +3711,6 @@
    "first_seen": null
   },
   {
-   "id": "2cf35cbec44fb95a",
-   "company": "Idorsia",
-   "title": "Media Release - Idorsia",
-   "summary": "Media release Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmJYcXUyN0V2bG4xbWx0TFNPeDUwaE5LWTN1c1BtRURGZmNyTVk1amQyRWNweTNCNC1uWkZsWlNNdTdmclBCX0NPcnZ2S2FqQXRjanQ0U1I2aWd0QjZ1Y2tJeXRET1F2R3dMN24zbk80b3dsQUZrQmFoOXlIM0ZCaXdSX2tfblNTOWJpU0I5bVo3QUkxTkNkU1gycG1Gdw?oc=5",
-   "published": "2026-11-04T08:00:00Z",
-   "outlet": "Idorsia",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "aa94d8a73b860333",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
@@ -3755,6 +3744,17 @@
    "first_seen": null
   },
   {
+   "id": "2964af61e0b69b9c",
+   "company": "Novartis",
+   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
+   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEtfRkQzN1dHWWlDRjJRMlNDQ3htOUs3SjlnYnRqbURsM09HMFctWnZCOGFnWTdlZjA0bno3NzJHaW9IdzlZX1Y3Wm1TRHl3SDlLb2F3OHpkTlVla2I5dFJSUTgwVWc4bFVTWklERHVHa2lzM3RGbUc0c2NLQTFGM09RQTF0OEF2S3oycy1YMnRGSTFPRDExMzJxSUE0TjhfeW9IQ3Q1emNoVGxCZlR6clA0Q0o4STFhWl90R0E3dG5MZzREcnUwMndpMnA?oc=5",
+   "published": "2026-11-03T18:44:07Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "17ce1787bed6665c",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Guggenheim 3rd Annual Healthcare Innovation Conference - Helus Pharma",
@@ -3762,17 +3762,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWktsMkk2YU9vdmNJNmFkMEs2YmVIbm9Kb1BoY2p3R0U2V051WndHajAtSVlsTzdzelR0ZHZkSEYybGdGenJnazh3a1N1NUZaOHRqb0VoMHB5UDdLdWpYSDlXSEp2V1lmdUxnVnY0TlhrdVd5bTNua082cUQ5UkREZW5tb3NsVjN2U0lEa29nWjk2cUV4VUtMTEdpWW8?oc=5",
    "published": "2026-11-03T16:01:40Z",
    "outlet": "Helus Pharma",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "2964af61e0b69b9c",
-   "company": "Novartis",
-   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
-   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNlJOSnBqeHdnUW85OHNEYkIxMEZtcU11YVR0N0JhTUwyd3lHZHNIZ0F1bWZuVUxLNE5MUzJWNHBvNHRyRFpxOHF2cEFmN0F2ZlN1cUhYLWN3emp3YmtoRWFQOTFSSm1WOE5RU2xFWmZjUHJDOFdZem95ZHJmTFlISTBYRHFkYldRQUVoUjVUaVlGM3lla3l3Yk5WaDJEX3FvTzZ4RGJubGIyMjVaQjFodnlOYVd1NDF1QzRLeWlsclN6cm9pdWJHcHIzV2Y?oc=5",
-   "published": "2026-11-03T15:54:58Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3851,17 +3840,6 @@
    "published": "2026-11-03T11:30:00Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "b2d81312b5f66a65",
-   "company": "Novartis",
-   "title": "Neuroscience Territory Account Specialist – New York City - Novartis",
-   "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjVuclN5dG5iVHpvSGxXZ1BIdzg0cGp5cFQ0VW1BSlRUb1dRQk5OaHdsbG5pQlpuODNJN2xQUWNudlFkeE9mdEpGSVppdEE5d3d6U2dmdXRBaVJIMW85cl9vV2JIQS1zaV93U1F6TUdpMUJSRFd5T1Z5M1dJVHV1R1l1TU9HdjJmRmhjSEMySWpqV19UNGZHOVJIU3lPV1M4OXhjSjU5RTNDeG1yemstZHNoTDdyNDlpVHpfVDloZmwwRU5FbWE0UFFYcWNZQQ?oc=5",
-   "published": "2026-11-03T10:29:10Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -4888,6 +4866,17 @@
    "first_seen": null
   },
   {
+   "id": "2cf35cbec44fb95a",
+   "company": "Idorsia",
+   "title": "Media Release - Idorsia",
+   "summary": "Media release Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmt2TDZucDZsaGMxdkRjdGE1UGNzMGNBRHdiaG1mVjhUQWMzSHQ1ei1keTJ3a1d6TlgyaEkxZHVQaFNVckxaQ3YxX2ZJRGozNEdTdnNQaEtzLWRteVJoOGtud1lwbVhPOGxKNFBOX2gwa1BMMG9UVVV2bl96ZTZuZHdSVnBVRDY3N0ZYdGhuSmtGVGI5aDZhVG5nRWRYZw?oc=5",
+   "published": "2026-10-23T07:00:00Z",
+   "outlet": "Idorsia",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "9c54b69f8794f227",
    "company": "Resilient Pharmaceuticals (ex-Lykos)",
    "title": "Exclusive | MDMA-assisted therapy could get FDA approval as soon as January: advocate - New York Post",
@@ -5303,6 +5292,17 @@
    "published": "2026-10-19T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7b07d2664bfd0b50",
+   "company": "Palisades Therapeutics",
+   "title": "Palisades Therapeutics Highlights a Shared Inflammatory Mechanism Across Chronic Diseases in Frontiers in Pharmacology - Florida Today",
+   "summary": "Palisades Therapeutics Highlights a Shared Inflammatory Mechanism Across Chronic Diseases in Frontiers in Pharmacology Florida Today",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeTFfRXVfMWlTMDkyWUFzR0FZQ3gwWHVrelhDQ01TYktYZHotRGttdTV1MlFjTEpEZEsxT1pHa1padGM5a2xWdDVDMmVIeGNWX3UwcUZzWk1fekRwbTVZczRERkxHMjRvVk4yTU5BT252U1d6cldlRDUzdkcxNU5TSTlfd000WVVNWFNEQk9iOUQ2UDdISVdETHY0ekhQUktsaFN1ell5Nk9pZlEwZmw4TVdxbTVSWGZaVEFvcWtmTEQtTkZ0WjJYWjJma2l6UHNoUENrbzltV2FXbS1XQWtYMk5WNWVKR3N0QlN0bndDd2hrNVV5WTdmVm1scE1sVXlFcFcwWGFB?oc=5",
+   "published": "2026-10-19T07:00:00Z",
+   "outlet": "Florida Today",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
@@ -9926,6 +9926,17 @@
    "first_seen": null
   },
   {
+   "id": "b2d81312b5f66a65",
+   "company": "Novartis",
+   "title": "Neuroscience Territory Account Specialist – New York City - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2VQWlhJem1hUjF6N1JuMzRYR1ZfNDhXazJMMmlZMTZZQWpsQUZiejBTRHZDbVE0dzRpR3NhYUt6V1RibkR1bHVZMUc0N1UwZXNvZFBla0lMd1ExcUNUMk1kQ21KOXR3al9GNEx6SE1aaGhwQV9yZkxpQmE2WXRyemQ5ZndXWEdqdU1TRlMzLXNpWW9hbFpQOTdPYVk0SXJrTTFwblIwUTJZelpFLTNtb3B0c3p0UGw1NUtKeFdZOENsVDhhUkE?oc=5",
+   "published": "2026-07-21T00:57:02Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "fbad692909861c63",
    "company": "Newronika",
    "title": "Newronika, the report on TG1 Medicina - Newronika",
@@ -10351,6 +10362,17 @@
    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQTzdkT09FT0dBSURoVVVlQVAxWllNX0pkM25aWC1NSllzVlI4Mm5aN0NCVHotd1ZfRnE5RmszSkR0NW51dmdrNTdJelhkTE1mNFRaYWlncXpUcURsRE5DMVFIN2t4a1NHdEdwWnJ3eGFZVTd0cTdYdHJIZ19lWGFtSUNIMXdMZnBhaHViM08tV1cyYTFzbFIwX3kyR09yRGozeE5kZlBuYUhYRFBLZmZWemtkOUdxZXBUdGkxVDA3VWdMSzFaUkpsdGhXZDZwNjZ0WGVlQlpVeldvQ2lRdlV5aWo3aHV1Y2RCNk9KSlRqMmMtN1FZMWFtdGQ0Ri1kRHJ5U3g2UTJxSGRkUTJ3WE9ud1hLSXFIQ0Q5OVpEOVZwdFRHSENT?oc=5",
    "published": "2026-06-30T04:05:32Z",
    "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "6ced3ae7aea27585",
+   "company": "Eli Lilly",
+   "title": "Protecting Your Brain Health Matters | Act Early | Lilly UK - Eli Lilly",
+   "summary": "Protecting Your Brain Health Matters | Act Early | Lilly UK Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02bWdwMkVBa2czbm1fcXhEZVJncGtERkltcDRRMmtCTWtzUndIeXZjRFV4VC1JOVgzV3lUa0xNV3Z5QTVUZGtDekRjNEdqR3BoVTVfTlZDZUlUZ3NZYVA2aUxmaDhUcVFaTEJF?oc=5",
+   "published": "2026-06-29T23:49:12Z",
+   "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
