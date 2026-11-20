@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:33:24Z",
+ "updated": "2026-11-20T04:37:31Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1951,17 +1951,6 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
-   "published": "2026-11-18T15:14:53Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
    "id": "07f9936e0673cb9e",
    "company": "Eli Lilly",
    "title": "What information is available regarding alcohol use with Zepbound® (tirzepatide)? - Eli Lilly and Company",
@@ -2015,6 +2004,17 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUXNvZHlmRHNJc3hIVXp4R25DdDMzZ0RBelhzdXJHRE11UEFtMTBybWJueHF2LTk1cXcxOXdYVjRjclhqVTc3ZFZRWjZiNHh5NnEyaGxQTHk0Qng0bGpEejkwZnFvR2dxS09WRjBaQTFHbExCR2c0Z3laeDVLMzlrSm1Xb29pNmF3Ynlmcm40WWhNc1F1eHpkRHl0dGF6WHI2cWdSdlpDS3R2OC1fVnFxVnJuMFNhbEwyYlJZRmVTdHdJdkFoYXNxSlN0RjRpUQ?oc=5",
+   "published": "2026-11-18T08:42:01Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "0db1e43907961bfd",
@@ -2081,6 +2081,17 @@
    "outlet": "AllSci",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
+   "id": "df6d46dad65f9e63",
+   "company": "Novartis",
+   "title": "Neuroscience - Novartis",
+   "summary": "Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPRUczc1hwU2tERHN0VTI0ZGYtaXJwdlpVYjNDY1RiS0NIbnlRSE1BQ0VrMTNDcmdVd0tiTGZNUWVwVk5uY3ZFQjU1dXBuTnhDdGg1cThaSEp1RVJTX29qSzY1ZEhHdWhOd1dUU1IyX1lGY1g3V1E?oc=5",
+   "published": "2026-11-17T18:50:28Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "34a6336482cef4ca",
@@ -2472,8 +2483,8 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder - Helus Pharma",
    "summary": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder Helus Pharma",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBta0FxdHc0QXRzRFMzUEtjZ2xZTlRoNkRYNWN0MFpIb18xTld4SktzTUdLaHpvWTBYRzdXNEtUWklkOEhTUk1xd0dMWQ?oc=5",
-   "published": "2026-11-15T20:25:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0JhQkZrRFJWeWdWYjhUcjN3YVVIYTR5elVLdGxUMFh1Zkh6WVNyclJrQk95SzNVRUI2djJrRW1yS1dCRzZmbWpFWlJVM2x2bEVHR2RMS2czbU5zMHZxYlduY095MmNaYi04TFEtS1FSVHZRR0hTWFdCR2F6TGJwTTlaTVBrdElLYlpBV0tCa3JIUXpfUk8wSnVNbWZRR3hBam9oUVp6b1ZIZktqYnlaWm9FRldhcHo2eWUw?oc=5",
+   "published": "2026-11-15T20:02:29Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -3392,6 +3403,17 @@
    "first_seen": null
   },
   {
+   "id": "2cf35cbec44fb95a",
+   "company": "Idorsia",
+   "title": "Media Release - Idorsia",
+   "summary": "Media release Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmJYcXUyN0V2bG4xbWx0TFNPeDUwaE5LWTN1c1BtRURGZmNyTVk1amQyRWNweTNCNC1uWkZsWlNNdTdmclBCX0NPcnZ2S2FqQXRjanQ0U1I2aWd0QjZ1Y2tJeXRET1F2R3dMN24zbk80b3dsQUZrQmFoOXlIM0ZCaXdSX2tfblNTOWJpU0I5bVo3QUkxTkNkU1gycG1Gdw?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Idorsia",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "aa94d8a73b860333",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
@@ -3425,12 +3447,12 @@
    "first_seen": null
   },
   {
-   "id": "2964af61e0b69b9c",
+   "id": "8644e23223844f87",
    "company": "Novartis",
-   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
-   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEtfRkQzN1dHWWlDRjJRMlNDQ3htOUs3SjlnYnRqbURsM09HMFctWnZCOGFnWTdlZjA0bno3NzJHaW9IdzlZX1Y3Wm1TRHl3SDlLb2F3OHpkTlVla2I5dFJSUTgwVWc4bFVTWklERHVHa2lzM3RGbUc0c2NLQTFGM09RQTF0OEF2S3oycy1YMnRGSTFPRDExMzJxSUE0TjhfeW9IQ3Q1emNoVGxCZlR6clA0Q0o4STFhWl90R0E3dG5MZzREcnUwMndpMnA?oc=5",
-   "published": "2026-11-03T18:44:07Z",
+   "title": "Neuroscience Territory Account Specialist – Jackson / Memphis - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – Jackson / Memphis Novartis",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDhJeC1xRmxZeV9zSEluUGJFbWdIbGkwZHlieW1XWDhpS2RWSE9FMHE2c3pjSXVoTlpoazZhcHN3VGpSOGl1cThwckR6LV91eTVkbHNvNHlOTXZyM2FPUnh3OWVxckxqMlBPOGQ5dGxETFhLZklCZTdCQVVMbEpUX01xRlZzYWk2YVpXa3V4Y3dRalJxVEdFand2SU1hVjJEVVNqRHpsOUpuWDItVW5OM3RZbVFURkpLWnhUZW1fdG5HMHhQNTZsektaSGhWM0N4?oc=5",
+   "published": "2026-11-03T20:49:25Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -3443,6 +3465,17 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWktsMkk2YU9vdmNJNmFkMEs2YmVIbm9Kb1BoY2p3R0U2V051WndHajAtSVlsTzdzelR0ZHZkSEYybGdGenJnazh3a1N1NUZaOHRqb0VoMHB5UDdLdWpYSDlXSEp2V1lmdUxnVnY0TlhrdVd5bTNua082cUQ5UkREZW5tb3NsVjN2U0lEa29nWjk2cUV4VUtMTEdpWW8?oc=5",
    "published": "2026-11-03T16:01:40Z",
    "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "2964af61e0b69b9c",
+   "company": "Novartis",
+   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
+   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNlJOSnBqeHdnUW85OHNEYkIxMEZtcU11YVR0N0JhTUwyd3lHZHNIZ0F1bWZuVUxLNE5MUzJWNHBvNHRyRFpxOHF2cEFmN0F2ZlN1cUhYLWN3emp3YmtoRWFQOTFSSm1WOE5RU2xFWmZjUHJDOFdZem95ZHJmTFlISTBYRHFkYldRQUVoUjVUaVlGM3lla3l3Yk5WaDJEX3FvTzZ4RGJubGIyMjVaQjFodnlOYVd1NDF1QzRLeWlsclN6cm9pdWJHcHIzV2Y?oc=5",
+   "published": "2026-11-03T15:54:58Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3476,6 +3509,17 @@
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16b1F1dndBNHVwU2Y0M0RCbDNkZjZaX18tbS1ReC1VTU1VcUVBOVNidHVnRjdGQ0kxMUE1c3ltamp6Zw?oc=5",
    "published": "2026-11-03T14:54:33Z",
    "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1edaf5ba7f41e3be",
+   "company": "Novartis",
+   "title": "Value & Access TA Head Immunology & Neuroscience, APMA - Novartis",
+   "summary": "Value & Access TA Head Immunology & Neuroscience, APMA Novartis",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjQwVFltcWdNNThzWEVEUm5OYmdfZGFSTGNySm14eVVRcUluWkNsTWZ3UmlTVTVPZEpjVXR5dngySk9URDFRN2dhVWxJZ2NLd0VGeFlKWnhFMk5TZF9vM3lIV1d0NnNURFJBX011YUhPTW1ELXlLcmJJZTltVlZsVEJTQWJ6U3piaDlGVlI0eFFXWjBVVnJkdG41b3ZQLTRQdHlfUlk2Wm1fQy0wSWo5dE82dUd2cDY5dGFnVF9vUGlqMnRJVlE?oc=5",
+   "published": "2026-11-03T14:45:53Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3530,17 +3574,6 @@
    "summary": "Neuroscience Territory Account Specialist – New York City Novartis",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjVuclN5dG5iVHpvSGxXZ1BIdzg0cGp5cFQ0VW1BSlRUb1dRQk5OaHdsbG5pQlpuODNJN2xQUWNudlFkeE9mdEpGSVppdEE5d3d6U2dmdXRBaVJIMW85cl9vV2JIQS1zaV93U1F6TUdpMUJSRFd5T1Z5M1dJVHV1R1l1TU9HdjJmRmhjSEMySWpqV19UNGZHOVJIU3lPV1M4OXhjSjU5RTNDeG1yemstZHNoTDdyNDlpVHpfVDloZmwwRU5FbWE0UFFYcWNZQQ?oc=5",
    "published": "2026-11-03T10:29:10Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "09dc9da2ee08778e",
-   "company": "Novartis",
-   "title": "Neuroscience Territory Account Specialist – Albany / White Plains - Novartis",
-   "summary": "Neuroscience Territory Account Specialist – Albany / White Plains Novartis",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcmJnYkNCVjIxbThnMVI1VmZGdVFtSWRQUGVYTDMtR3YxVWd4U2lfaUdQaEV5aWMxWjZac2xyWnJRenUyRmE1OFJaNURLRkNlRmVrc1VKYlZ1eHRSVGZGa0c1Vkp0N1BzWXVfdllwT29lckFfMTNjcHlZck4zNFdka0tBVk1wYS1JZW84UlgxXzgxcEE0MUs3ckY1aFlzbGZ5MFk4Sk00VnZxYkVWZV9mWjlRQ0ZFMnU3X0xrN3llU2ZFVklQZm16RjN5dGhLWFVMcGVKZUFB?oc=5",
-   "published": "2026-11-03T09:02:27Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -3630,6 +3663,17 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHdvS2RtTDdkX0lYQ0o1eFlEM05vYkt2dkptUlV6SGJSTTliOGIwcGpDbFFmdkhaTjBpOUJIYThzcEYySEJNY2xjV01FcS1hNXNvSGhpbUtBcXQ1RUp5NC1qNk15dXpSR1VtOEpsb25za04yUnJ5TDVjWE9QclFjdkEtR0s1V1h4VVZLbDdXR2E1ZjQ?oc=5",
    "published": "2026-11-02T22:10:59Z",
    "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "09dc9da2ee08778e",
+   "company": "Novartis",
+   "title": "Neuroscience Territory Account Specialist – Albany / White Plains - Novartis",
+   "summary": "Neuroscience Territory Account Specialist – Albany / White Plains Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNHZVVnJ1Z3duekZmaUp2Q0NRUFNsemNtbExRN0s1M29qc0FMdzd5YzZjU29RcUJaQ21wSEk3MzVRMmFUc2VHRENhTjBqVUVGWldnYnljX0JJcHNHUTNjdXBfSWJ6azViODVWMW51d3VfbDhNdXpkcEdZUFdPYS11U2N1ekllbG1iZGJwQjRsWTZxenowRm9nNk9VSTJEdnZHb2s5M1NIQUVTLV9vd0JjbEFzQ1gxZlQxMnp4YnRBWlF2Z2RreUJUb3lJbUNuQQ?oc=5",
+   "published": "2026-11-02T12:57:20Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -4166,7 +4210,7 @@
    "company": "Arvinas",
    "title": "Arvinas to Report Third Quarter 2026 Financial Results on November 3, 2026 - Arvinas",
    "summary": "Arvinas to Report Third Quarter 2026 Financial Results on November 3, 2026 Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORm1PUVpxUzlZUDh4RTdxNEZZajlMZENhbjNLYVk5TWNBWUNSNHgwX016QW95cVdIb1lYejZVWWlSSlRBUEllSHNmcnAzZ29iOHBSempDY1NLOF9tYkwwellmQ0pFV2YxQm4xOEp0Z0ZTNWhGc2hTLVdtUUc2ODM5VnNNT3VlVXI4aVNxV2hsdk0yMTVBTHVIWlBPNnY1dU1jVC1XX1FaWDBpVzlxc1ZYcUw4X05ZNlRQNkVQLU5R?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRTlhQcmFUNUt3b2t1elpaOXoxRVJESTg4N1hqY3k1bGljLTg2WUJIOTdwalZYMzVpRVUyUjN3T09hc3hYUDYyQnNUdTQwZw?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:)",
@@ -4357,17 +4401,6 @@
    "published": "2026-10-23T15:58:40Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "2cf35cbec44fb95a",
-   "company": "Idorsia",
-   "title": "Media Release - Idorsia",
-   "summary": "Media release Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmt2TDZucDZsaGMxdkRjdGE1UGNzMGNBRHdiaG1mVjhUQWMzSHQ1ei1keTJ3a1d6TlgyaEkxZHVQaFNVckxaQ3YxX2ZJRGozNEdTdnNQaEtzLWRteVJoOGtud1lwbVhPOGxKNFBOX2gwa1BMMG9UVVV2bl96ZTZuZHdSVnBVRDY3N0ZYdGhuSmtGVGI5aDZhVG5nRWRYZw?oc=5",
-   "published": "2026-10-23T07:00:00Z",
-   "outlet": "Idorsia",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -4811,17 +4844,6 @@
    "first_seen": null
   },
   {
-   "id": "8644e23223844f87",
-   "company": "Novartis",
-   "title": "Neuroscience Territory Account Specialist – Jackson / Memphis - Novartis",
-   "summary": "Neuroscience Territory Account Specialist – Jackson / Memphis Novartis",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMjdpMm95Ul9Tc214TktkZTdIMXNsSWx0Uk9wQnZMOUFSNU1YeVFfLXE4N3RkNlpkUlFhMmJrcFpuV1RSM0cwZjg5Q2ptTldoSGwwODBrdlBZZVE0NWx5ZWlFUHhCMUhMdzVhNm5JYjhQUS03eDdJc0xHRVJWMTVOTEk3MkRyNVRCVWJ4amhfWWp1TGUydmVHQW5UN3I0RnMxdDZBZTdnS2dCbFAwRmRReE1veGtHbnJqc0g0eVFONUY2T2dXR19wSXE1dzM5ZDhK?oc=5",
-   "published": "2026-10-14T20:21:48Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "d9e2745c582c66a3",
    "company": "Seaport Therapeutics",
    "title": "Development and Application of Physiologically Based Modeling of Lymphatic Absorption and Disposition of Allopregnanolone to Support of Model-Informed Drug Development of Lymphatic Glyph Prodrugs",
@@ -5196,17 +5218,6 @@
    "first_seen": null
   },
   {
-   "id": "1edaf5ba7f41e3be",
-   "company": "Novartis",
-   "title": "Value & Access TA Head Immunology & Neuroscience, APMA - Novartis",
-   "summary": "Value & Access TA Head Immunology & Neuroscience, APMA Novartis",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONlEwcE5oaHhuMkw2ZG41U1E3NjBwTDhKVHRxTXkxN0pXSE1wTVd6ekZDVDJQM3RNSVprZEp1akJXYnZuU3JxRFo5b1Q5MXRibldRZktiR0VZdFhZaTcybTdQeVRvQWllazJManVJbVdCRXVMOFJXSTJyZEhYQmJQUno2dlJTRDZwYXA3X1dhUTNsRkFvdXRDajZObEZvSDNqVnhQb2JjV0xJTUJEY2RXUTNKR0VQUlJVVWtqLVpMdDIzaHNjV1E?oc=5",
-   "published": "2026-10-08T01:10:01Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "0d3e8e2abb798513",
    "company": "Novartis",
    "title": "Neuroscience Territory Account Specialist – New Orleans - Novartis",
@@ -5282,17 +5293,6 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "df6d46dad65f9e63",
-   "company": "Novartis",
-   "title": "Neuroscience - Novartis",
-   "summary": "Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53Z1hnUUJVX1JoR3VTRFpiODZUOWF4V0hGSUVQUVVuTlAxT0gxRU4xSXVoNWRzaHA0T3FnWHhlcFBTRlk3TjBBR3lpTWdadW9HUG1kOTFKVlY4OGVQeUpJYjZZeU5WMlhJYWtFM3AxZm01QXNzTEVB?oc=5",
-   "published": "2026-10-01T18:07:40Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "eb9c2fd4b9a13cb7",
@@ -6744,17 +6744,6 @@
    "published": "2026-09-02T11:00:00Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "bdd618755bc8368b",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics to Participate in Upcoming Investor Conferences - Rapport Therapeutics",
-   "summary": "Rapport Therapeutics to Participate in Upcoming Investor Conferences Rapport Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkRmJ3MXlQZFNyckZMRV9YWVZkdElYOW9vWkxnZm9Wa1dTeVdTZHBIcHdwdG5fZi1NUzA4YVRJaERacWVnSGZiYmFqZ2ZfZGlGelBHWFA2bGw?oc=5",
-   "published": "2026-09-02T07:00:00Z",
-   "outlet": "Rapport Therapeutics",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -8339,6 +8328,17 @@
    "published": "2026-07-29T01:21:59Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "4ab64fb4f2e3a7c4",
+   "company": "Eli Lilly",
+   "title": "Postdoc/Scientist - Psychiatry and Neuronal Health in Indianapolis, Indiana, United States of America | Research & Development at Lilly - Lilly Careers",
+   "summary": "Postdoc/Scientist - Psychiatry and Neuronal Health in Indianapolis, Indiana, United States of America | Research & Development at Lilly Lilly Careers",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGxLWnZkVHNTSFRZOWc5SmhPNWlrUklqQWNYeVVSa3BlcVZWYXRPT3loS0g1Q3Y4TEt0V0xGcEpEaTV2Ul9ZTF85a0laT185eU9fcmtRTXdGR0ZRMjhhdTNadjM1dkhCZEpQSXVCajRXSGczTFNESWdQbWhENWR6WkZwbHdSSHlheGJrNkxnSWZiVlpHNzA4dw?oc=5",
+   "published": "2026-07-29T01:11:46Z",
+   "outlet": "Lilly Careers",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -11873,6 +11873,17 @@
    "first_seen": null
   },
   {
+   "id": "25bbb5d64c56c425",
+   "company": "Oryon Cell Therapies",
+   "title": "Oryon Cell Therapies Appoints Burkhard Blank as Chief Medical Officer - citybiz",
+   "summary": "Oryon Cell Therapies Appoints Burkhard Blank as Chief Medical Officer citybiz",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlJZek1rT3R4V1lLYW5SQlNoZWxyLTFfblM5TFQ0cjdCNXJnenZPeHJzdjdHYXVpTG01WExUS0U5QW1fa2FScURYZVVla3ZtRERIVGNGQUZZWEo1RGxVUEJaWWp5NS0tQUFyTjV1QmxQc0lpYWlXajdBVjZoaXJVai1Vam85NXZ4TGJfbjl2M08zUHdieFp6TnZVdWp4QzFmZHYxeTNPem4zUEc3?oc=5",
+   "published": "2026-04-15T07:00:00Z",
+   "outlet": "citybiz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "9f4ad40c36173d79",
    "company": "IRLAB Therapeutics",
    "title": "Kristina Torfgård, CEO, presents at Redeye Healthcare Day 2026",
@@ -13787,6 +13798,17 @@
    "first_seen": null
   },
   {
+   "id": "bdd618755bc8368b",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics to Participate in Upcoming Investor Conferences - Rapport Therapeutics",
+   "summary": "Rapport Therapeutics to Participate in Upcoming Investor Conferences Rapport Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHVqMkhBMnMwQnRPSmlCdXFkWWFqZlA0YWJ0SGJzLUxKbldGZk55ZW1sQmxyamtQV1VrRG8zbkJuT3NGNm1ZZS1fS1dkelA0SzBhdFpHSEEzaHlRZWNzekdXU2FxNU9LX29zTlBFc3VTRk0zQkU3bE9XSk9hV0VaeXo4dnozV19zY01scDUyNk9aS1huYllJWjFmWno1OXliMkpydHJmZkZES3BPakE3S0Q4b2tqVGUtbzJiLTZYc3RvNWJMTXY2ZW12c24?oc=5",
+   "published": "2026-02-24T08:00:00Z",
+   "outlet": "Rapport Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "fe7c4c5483634800",
    "company": "Supernus",
    "title": "Supernus Announces Record Fourth Quarter and Full Year 2025 Financial Results - Supernus Pharmaceuticals",
@@ -15408,6 +15430,17 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Investor Relations - Helus Pharma",
    "summary": "Investor Relations Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE1pQ0Y4T2xYYzY2Z2VrMnllbHNoSzNOUnYyQzhlQTdzUEdLZVRoVzZJaElvMFhoNmdS?oc=5",
+   "published": "2026-01-05T09:49:11Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "d10f507e26d749c0",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Investor Relations - Helus Pharma - Helus Pharma",
+   "summary": "Investor Relations - Helus Pharma Helus Pharma",
    "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE1pQ0Y4T2xYYzY2Z2VrMnllbHNoSzNOUnYyQzhlQTdzUEdLZVRoVzZJaElvMFhoNmdS?oc=5",
    "published": "2026-01-05T09:49:11Z",
    "outlet": "Helus Pharma",
