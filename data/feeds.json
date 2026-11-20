@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-20T14:26:56Z"
+  "checked": "2026-11-20T15:26:15Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -283,10 +283,10 @@
   "checked": "2026-11-19T17:11:01Z"
  },
  "NeuroDerm": {
-  "feed": "https://news.google.com/rss/search?q=site%3Aneuroderm.com&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:)",
+  "feed": "https://news.google.com/rss/search?q=%22NeuroDerm%22&hl=en-US&gl=US&ceid=US:en",
+  "method": "news search (newsroom not indexed)",
   "sig": "[\"https://neuroderm.com/\", null, null, null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T15:26:15Z"
  },
  "Otsuka": {
   "feed": "https://www.otsuka.co.jp/en/company/newsreleases/release.xml",
@@ -404,10 +404,10 @@
   "checked": "2026-11-19T17:11:01Z"
  },
  "Ananda Scientific": {
-  "feed": "https://news.google.com/rss/search?q=site%3Aanandascientific.com&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:)",
+  "feed": "https://news.google.com/rss/search?q=%22Ananda+Scientific%22&hl=en-US&gl=US&ceid=US:en",
+  "method": "news search (newsroom not indexed)",
   "sig": "[\"https://anandascientific.com/\", null, \"\\\"Ananda Scientific\\\"\", null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T15:26:15Z"
  },
  "Neurala Biosciences": {
   "feed": "https://news.google.com/rss/search?q=%22Neurala+Biosciences%22+OR+%22NBX-100%22&hl=en-US&gl=US&ceid=US:en",

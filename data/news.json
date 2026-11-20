@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:26:56Z",
+ "updated": "2026-11-20T15:26:15Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "9354da7e88682c43",
+   "company": "NeuroDerm",
+   "title": "Tanabe Pharma to wind-down of operations at its subsidiary NeuroDerm - The Pharma Letter",
+   "summary": "Tanabe Pharma to wind-down of operations at its subsidiary NeuroDerm The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWlNTZU5jOXFQdUZFZlNRYVFHVlB3NUUwMFEtc015U3h4TUF0VnNfbWFkOXRUOS1ZZkxLZGNSRWQybm9vWUtJMkVvWjRLbmZpdVBlS0hYUXNJbVR2dzdkbS1NYnBjNG9BOFo2NWtMTk5xRWEyZlN4OUpSbG83QndXRkFwU3Fnc0V2dEs2UGFPTUNCRGg4LWpWdER4c01TdDFnRklJV21ocU1sVlFZM1Vua2lB?oc=5",
+   "published": "2026-11-20T14:36:57Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T15:26:15Z"
+  },
+  {
    "id": "5b0a317eb0f69f99",
    "company": "Usona Institute",
    "title": "Will the first approved psychedelic become a blockbuster? - Pharma Voice",
@@ -1729,6 +1740,17 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-20T11:07:16Z"
+  },
+  {
+   "id": "b3ffd1c25f688be7",
+   "company": "Novartis",
+   "title": "Communication Specialist - Novartis",
+   "summary": "Communication Specialist Novartis",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQko2TlZzVk95SXViS1RFS3ZiRThaWjAtbmxPVDQzTjBmS2ZfdldZOHBWc0RNYmJkMGppcGN0akFaSTVSRlRzbkYtQ2ZmSjIzOV90d3R2VWpDQTdXNDY1bnhiTE51LTJwSmx4TnQyckdqcmRvbEl0NUJ3eTQzOGZiVlg5MDVfLWtDQzhhVDhpcE4yam1zRUI0TWctM1A?oc=5",
+   "published": "2026-11-20T03:15:46Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T15:26:15Z"
   },
   {
    "id": "9de54c46c4b9f139",
@@ -2204,6 +2226,17 @@
    "first_seen": "2026-11-19T17:31:37Z"
   },
   {
+   "id": "390298eaeed5a8d3",
+   "company": "MapLight Therapeutics",
+   "title": "StreetInsider.com - StreetInsider",
+   "summary": "StreetInsider.com StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16bW1KMURZb2VjcWtFV2owaFBRVGpUemtKS2xlM01TNVRMWG54R1hQa1I4M2ptQjhJZVp6YjMzNnJJMmNGeU80cnBDUGIxQ3d0cy14MlRmREM3OU04aXJDWEVTTjl2WXQ2?oc=5",
+   "published": "2026-11-18T08:34:55Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T15:26:15Z"
+  },
+  {
    "id": "fcc24813001b8822",
    "company": "Novartis",
    "title": "Clinical Biospecimen Senior Scientist - Novartis",
@@ -2224,6 +2257,17 @@
    "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:13:38Z"
+  },
+  {
+   "id": "5bb7e4af82fadeb9",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics, Inc. Stock 12‑Month Price Target Raised to $26.5, Implies 303% Upside - TradingView",
+   "summary": "MapLight Therapeutics, Inc. Stock 12‑Month Price Target Raised to $26.5, Implies 303% Upside TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY3JxYktUTGZpRE5vcTRCdzN0RkJiOXBhMHg1YUdlYkVQeFFxNUEwQ00xcVBWQlgwTDY4MlQ0NFZSQ1dLeFkxa3Z6V3V0M3NnWjhuLU1jQ2k2d09PTUtsU3Y1bi1qTkkxeDRYbWdyaWc0UVBTTm0xUklRSGZuVUFlVFBwQVJiWHR4Vnh2N3pHMGNzNldXZ0FFWUNmRy14Y19ERWpJQTVYVHc0ZmxPbFBSRnJsbmhha3RqTXlma1dxQjN4N3gycWtSR2U5VXdHM3JnMzF1bnR2UUo0ZC1pLWp2UUp0NA?oc=5",
+   "published": "2026-11-18T07:20:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T15:26:15Z"
   },
   {
    "id": "ebbe1cb3a86c04a2",
@@ -2281,6 +2325,28 @@
    "first_seen": "2026-11-19T17:31:37Z"
   },
   {
+   "id": "746e9ad55356942e",
+   "company": "MapLight Therapeutics",
+   "title": "Maplight Therapeutics (NASDAQ:MPLT) Stock Rating Reaffirmed as Buy by Canaccord Genuity Group - MarketBeat",
+   "summary": "Maplight Therapeutics (NASDAQ:MPLT) Stock Rating Reaffirmed as Buy by Canaccord Genuity Group MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdDBaVjByekM5c2hlVUZkcUZ5WkxUZ3hRR2lkY0VyWDA3X3d3bWhha09kb3pnTmRuTndfdTVHRl9naWc0bjNYdHA3SDZxSlJNaEJLMFhUM0VvTHAxcS05Vlp2dl9Pem5HNFpoZEZEVUJueWdhN1pXX1dVNW1kaVRSMjg2NjZrcFFZb2xmbXJ1NXYxc1JvbHNCNDZwY2xuUDdJdjl2dmpOTnFNVEtkaXk0WFhIbkVaZ0ZCMU9jNHlCMDUtc1dwMGtldXM3aWFGdmRORkN1TmZIUkhVb2hobll0MTZQXzVaMXVT?oc=5",
+   "published": "2026-11-17T15:54:27Z",
+   "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T15:26:15Z"
+  },
+  {
+   "id": "f8296af97a3f2f93",
+   "company": "MapLight Therapeutics",
+   "title": "Canaccord Genuity maintains MapLight Therapeutics at Buy, keeps price target at $21 - TradingView",
+   "summary": "Canaccord Genuity maintains MapLight Therapeutics at Buy, keeps price target at $21 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcFd6ekQ5NmtTMGRRNnR0ekdUWVdhRk44N3FSWFRZT19ybFVxU3pBMGZ5dWx2SG1iMUZLTHZHdEdnTVd0a2lXTzFtZ1c5R2xSMzM5UTRkcklhS0lHMnVFaFpjc3NLTjR4aHhLajN5TjJKLWw4Q3ViQ3g0dl9BbU9sVGNuVW5fV005VkZXMFhUaDNFWElOZDgwbVlpd21TS2hHcm1uNllrVVI3MklVeWkzN2N1amtKZDItbkt3dGlFdlJsSHJxLXQ2UFZWVjAxQm1HSUFFZjJYZWhocGc?oc=5",
+   "published": "2026-11-17T15:26:42Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T15:26:15Z"
+  },
+  {
    "id": "34a6336482cef4ca",
    "company": "Xenon Pharmaceuticals",
    "title": "0001193125-26-377309 | 4 | Xenon Pharmaceuticals Inc. - Xenon Pharmaceuticals Inc.",
@@ -2325,6 +2391,17 @@
    "first_seen": "2026-11-20T00:26:37Z"
   },
   {
+   "id": "4b79fbcfafa85ab0",
+   "company": "MapLight Therapeutics",
+   "title": "T. Rowe Price Reveals 1.7% Ownership Stake in MapLight Therapeutics - Kalkine Media",
+   "summary": "T. Rowe Price Reveals 1.7% Ownership Stake in MapLight Therapeutics Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3ZOa0J6dW1nU05rX1luLUlKalQ4T2EtYVh5T0l4b3VDaHZzMl8wdl8zcWVqWk85MmkyVWtSOWgwM0xlQzFpX2w0bFYxRGUtY0NmbUxOYUpYNVlldVRaekJRSmtwWGdNbE1fVXJ6NUJMdHV3X3RvUE1UTVBRcjNGQmdJTVpUSmQ4ZE1nazg1akNxTWhWc052N1BNcXhhR1BUNjV3Y0lZMVo4RXFkWlFfWg?oc=5",
+   "published": "2026-11-17T06:58:48Z",
+   "outlet": "Kalkine Media",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "58344dfb89bf34db",
    "company": "Teva",
    "title": "FDA nod to first at-home treatment for agitation linked to schizophrenia & bipolar disorder - Indian Pharma Post",
@@ -2356,6 +2433,17 @@
    "outlet": "GuruFocus",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "f5d8b6a4e4de37eb",
+   "company": "MapLight Therapeutics",
+   "title": "Form S-3 MapLight Therapeutics Inc For: 16 November By Investing.com - Investing.com Nigeria",
+   "summary": "Form S-3 MapLight Therapeutics Inc For: 16 November By Investing.com Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTBkN0JFUnA1YlpLSmZVRUZ2ZjdTYWc1X2ItLVZCTkVBR211T1o3d05fWXRqeUpWZWFWenFiMjg3T2xsemxrVHN3bmpQbEROZl9hWkZCU094c1hOYTYyT2xOa0dTX3NxQnpwYmliMEFsbTEtXzBFVS1lVFFWUXJLcXZ0TWY1NTBEa2ZCdTVjUkYzU05CRlNFcTRJWXhzYjdjSEwtYXgwaXMzeDNHTDBn?oc=5",
+   "published": "2026-11-17T01:12:11Z",
+   "outlet": "Investing.com Nigeria",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "c26a907920197d34",
@@ -2398,6 +2486,17 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU29pWWpjMVN2YURTSUptaTRDRnlKTnpvek56VXh2TXhyUXRRTVpXcUtTS3hCX3FKSmhyM0d2bWw2by1wMEpNLXEtS2x6a0RYUl9CekFrcjItUXBEVW0wNEhnb3YtaWQweEI2YVJ2c0F6X0tCaGlGODhveW0zeFdlcS1HMzZEanF2enFUTlpoc1QxUEZYbkpiXzNyc1hRbmdPczRPMDRqOA?oc=5",
    "published": "2026-11-16T21:38:41Z",
    "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "148991b0aef8aaa9",
+   "company": "MapLight Therapeutics",
+   "title": "MAPLIGHT THERAPEUTICS ($MPLT) Releases Q3 2026 Earnings - Quiver Quantitative",
+   "summary": "MAPLIGHT THERAPEUTICS ($MPLT) Releases Q3 2026 Earnings Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVFacmxPZUtsX2E0cXhwN0pHRVd6Wk01QzdCZzdMSU9ieGJEZktKNmhQcEVwVmRYRTBOa0xJb1YtUGd3QnVNNXZrMnM4RlpDMy1UTzZIOHlFV2pPRlM0cG5rcEVkS0hFemxzdlNrTFFpaGVjVlJOS0JUb1NjZDJyd0Jld2daRk5DN3dsZW9jZ2JBQTMxenh2Mm9n?oc=5",
+   "published": "2026-11-16T20:35:00Z",
+   "outlet": "Quiver Quantitative",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -2468,6 +2567,17 @@
    "first_seen": null
   },
   {
+   "id": "556a818788a55037",
+   "company": "MapLight Therapeutics",
+   "title": "T. Rowe Price reports 945,216 shares in MapLight Therapeutics (MPLT). - Stock Titan",
+   "summary": "T. Rowe Price reports 945,216 shares in MapLight Therapeutics (MPLT). Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcW40OUY5eWRqNE9BZTZlWVpXQ2k2YmF6LWRqVTNWelhnYVlTMjdjOHFNb004SVdlWDhPLW1KSUd4dHprUlFESnBXMjUyZHpSYkIyMXllNDhTYjFwa05JUmRycFBvemR3X18zMzJ5SGRzMzF0cVo5VVhlYk1BMVd4dE1vSEQ5NzRKcHktbGRzRFRadjhDbW1fS29XdE14Nlhod1lrcU52Q0FuQnpTRjEtUDNjeEhfdlIwc0p0cUJtM0F5OGhfc3hrSnFJSQ?oc=5",
+   "published": "2026-11-16T15:10:57Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d3562dab017e7d39",
    "company": "BioVie",
    "title": "BioVie says bezisterim shows distinct responses in two Long COVID patient groups - Proactive financial news",
@@ -2519,6 +2629,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHNfNnNzalplQTg1Ymx5Vzg2S1AtUDRYN1lmVVNNRzJYUVlXSktlTmlzWnlHWjRaUEk5X2R2R3VzaVdnN1RyT1ZtVGl1ZHJkUFByd2I3ZUVld0ZLbnJKcG91c1VseWh1blFncmNYdDhWdkhUWE55Rm90WUtvcFRqX2huZFcxWWxpclFtUUx2dUpfSUgwaS1MVzVINGwxM292UWxfNVZZNHZybEFKcFduQkY4YUNleG9oa1p5ZkJjc19HaGFq?oc=5",
    "published": "2026-11-16T14:42:46Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f04b02a8fdc3b422",
+   "company": "MapLight Therapeutics",
+   "title": "Form 8K MapLight Therapeutics Inc For: 16 November By Investing.com - Investing.com UK",
+   "summary": "Form 8K MapLight Therapeutics Inc For: 16 November By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2huZlhrSENNd1l3LXdzNFp2amQ4MXZONkJmYTZRRU9qb252YlFJbDFtbk5BYmtQdVB2Vmt0eVhWbkd0TXZRWC1Zb204em5pdVdpelg5SVJaMWFjSlVkaDdxNzYxREt2LVJ1SC02djJnMXFHMWRyMnNVMXZWVXQ0T25vYW45dEtFU01uajNEcF9yeWpDYk9pNzVVU1NqQVFhaEt0eEtnc19xQUdJWk1Z?oc=5",
+   "published": "2026-11-16T14:32:00Z",
+   "outlet": "Investing.com UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -2589,6 +2710,17 @@
    "first_seen": null
   },
   {
+   "id": "f97f448e218032b1",
+   "company": "MapLight Therapeutics",
+   "title": "One fund directly owns 4.43 million MapLight Therapeutics (MPLT) voting shares. - Stock Titan",
+   "summary": "One fund directly owns 4.43 million MapLight Therapeutics (MPLT) voting shares. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTzNHbjFxWjE4dnFOQkRsT0Z5NDNtUnZwdG51LUN3OGRyWjBKRmVodHFCUE9FbGloM3lxU3NaLWhwTWxHcHYwX1hLTGtUZ3VPbzZwUjVRTVdjUGdnSnZGVEMzT0NOT0tTNFdzYjBpMmZzSEZXaFRiblFwRm9uV29fX2ctM1Zybk9UVjdNYTFCVEtnUVVXbldOUmVpTUtaUklTOG5ZQlEwVjl0YlJSVjBtQ2VJdy1XXy1lOUVlOUhwWDgxTjNZYzA1SV9TMA?oc=5",
+   "published": "2026-11-16T13:00:58Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1155d2f34254a95f",
    "company": "Teva",
    "title": "U.S. FDA Approves IGALMI® as First At-Home Acute Treatment - GlobeNewswire",
@@ -2596,6 +2728,83 @@
    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPM3R5bi1TaFgxZEtTQ25Jc1JKb2wzaGltMm5yRWpMaVZLUGp0OTI5NmIzdEVOMHNiTHlCMzBzbHdZSEpOMlUwT2poRzhzeDFXTFc4U2gyT1ptemVLajloa2JmNVdCS0kwSm1zZmRDc29LcndLbEV1ZjlCUDBwV3h3RTlRZkc4RWJNZGgzcDZJYXYwT3IxRGx3ZHR5aURwOC1SOVNIVjdzdEpDdzJOS0wxdGdaNkVxS2pyMGMtclVDbERoQ0lnZEtKRk5aakVPUXpoYnpTTUw3b3FPbHMzRVpyczBNQWwtTVpoUXVsZ2U0dTVyMVBzN2hwWDNHU05ham45UHNMYm5PYXhUQ3RxZS1pdVlJM29KLTM5bEtWRm5YNVoxVldLUzN1NEI1VkFLZFdZeHZvYmE3NnB5UjdtU1Jxd0tDX280dkQxaDVtaEhWd2JxbFRIS0E?oc=5",
    "published": "2026-11-16T13:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8283d2404207fa4c",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics Q3 Results: EPS loss narrows to $0.97, beats estimate - scanx.trade",
+   "summary": "MapLight Therapeutics Q3 Results: EPS loss narrows to $0.97, beats estimate scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDF6aHNkbDJldkI3NWxsTE1ORGtqNk5jQk5rQm1IN3hCcUVfNlhPNDAtNUpZX0hSbXM2Qm1lemFIWTFNUjRUYWdmN3IwYzBNTlJlel96aXlMcGFpUEFsZTZLNkJhYmFXVHZidWQ0aS1iNE5SNFlkUTdQLVZHeHR0MmxKdjNkLVNfa3F0VWo4SDNmczZaTlVxR0YtWUlHMFpza3Z2U25ET3ZPemFEeDdvMlVHNFA0ZGhFZFNvN1E0UDBUSklT?oc=5",
+   "published": "2026-11-16T12:55:20Z",
+   "outlet": "scanx.trade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4a8beaf9f4675720",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics 3Q 2026: EPS ($0.97) — 10-Q Summary - TradingView",
+   "summary": "MapLight Therapeutics 3Q 2026: EPS ($0.97) — 10-Q Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXhzelpqbHNmSFNqOFNvRHRRQkNfbWlIek5Oa0tYMTN6T29PNF9iTnZrUkVwTldOUFp0MklPLXcxdk5Ea2UxeE1WWVBSNDEtNFhFSGlVQXVHaTVJUFFxdXgtS0JCMkZCeUZsTWJscUhUUndEOVVUMzhtTWFtcDJicWFqOG0wOFozQlFidWd5MzY3NTE5bkxfUTU4UTNMZ0VZUmltQjBIcUlMRldCVUdUcTViOA?oc=5",
+   "published": "2026-11-16T12:41:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f2d078bc8cac4b6a",
+   "company": "MapLight Therapeutics",
+   "title": "With no revenue to date, MapLight Therapeutics (MPLT) posts a wider nine-month loss. - Stock Titan",
+   "summary": "With no revenue to date, MapLight Therapeutics (MPLT) posts a wider nine-month loss. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnptZk9OUm4xd2Y1VU1iUXRONzA1MGhtemtxejhJVlNlMVAxa2ZqV1F3ekVJRTJrb2pvdTRpUmU4eGJhYWszUmpnRS0zOFg4V1hrNU92Tzc1a1R0dnRpeTZBMFRxSVVQUDBHbERXSlVuWmRGOC1xQW01cVFwN1MySzVpUV9pdFRqaW1CWERzSU1sT2l1Nmc5LVoySWMxN2NQUTYydkhWa29ncGtPRU9RWjRWOVo4OXMzdmMw?oc=5",
+   "published": "2026-11-16T12:31:26Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9ffc6a095c665b10",
+   "company": "MapLight Therapeutics",
+   "title": "MPLT: MapLight Therapeutics Inc. filed SEC Form 8-K: Results of... - Quantisnow",
+   "summary": "MPLT: MapLight Therapeutics Inc. filed SEC Form 8-K: Results of... Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmtiSHNSMDNJUlBvWnRnckNISFd4S3lHZ3FiT3Z3aGIzXzZDbVBqNmFORm1TY19wN3JDRG9Ycmc1bU4zU0lZZEczVVpGaDloR2VybXl1em9vVmU3NElFWlRob3h3NmYtdTZSVnZ5TWNyZnVtbnlid1FndlpEc1BUV2JlSF9VaUgwajVIci1LcWdKdFItVHNKT21ucHpiamdHR3Z5NmlwY1FNUU56bXc?oc=5",
+   "published": "2026-11-16T12:26:51Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b60e089d2bc02b10",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics Reports Third Quarter 2026 Results and Updates Progress on ML-007C-MA Clinical Programs - Quiver Quantitative",
+   "summary": "MapLight Therapeutics Reports Third Quarter 2026 Results and Updates Progress on ML-007C-MA Clinical Programs Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdUFfSGJEZ3NEeDB4MW5zYmFNYVZaMkEtWnNRcW1sM3NnVTY5X2s1VTBqUW5XMVdEeTdvZHZZZ01BbmpJNTBURS1ZcGRlSGs4Q3NtRlJkN3Y3N25FeFZHX1VIZjRWNmdjeGxSeFEwR1lmeHNTX09qZGd4RVRUTEtqZ0Ryd19pcDlEMWE2UmFMZnNqM090QXM3UHE1VWlsNXpudjFBd3drVF95YzlKbHAyTkFtTDBYdE5WY3lOZ2lZaFRkMGxRTkktU09wbmhqRnNDX3dLbkRUdHFmQQ?oc=5",
+   "published": "2026-11-16T12:21:00Z",
+   "outlet": "Quiver Quantitative",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f2647692602346ea",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update - lincolnjournal.com",
+   "summary": "MapLight Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update lincolnjournal.com",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNekxNTUdZMElVR3BOSmhac0lnNzk2NU5KY3UydUhaU1NNRGpDcFl1aWdJejJpeWhMM2VWUU8zR1ZXbU1CM0N3STRic3hZYTZLbldVMklfQ1U3dkVoV3NxQk9oTUJEYy1SSFVFZjZPLU9leVFpNldjeXZ0eFJOU2pwM05RTEZKcldnRXVFLTFwMENUUHZFRFhGLWM0bF9CMXZHNFZSZTgzRnhOSEwtSWNUSHVTTmhwb3RBekJ1WmY2UHVwd2pGeE1wOU1LNTFtcTEyNlZDNDFHTmFEZWdaVHdUNlJxdUVMQTEzd0padEJib1dLZFhKNTMzR09XRDBMZ0FJQjVqVHFYb0dralhLZ2JxUGFiOEw2dHVFanhEREo5Q2RCR29CRDU4UWY1dU5UMlVm?oc=5",
+   "published": "2026-11-16T12:15:00Z",
+   "outlet": "lincolnjournal.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a15b9bac2b71397b",
+   "company": "MapLight Therapeutics",
+   "title": "A $463 million cash position is expected to back MapLight’s planned and ongoing drug trials through 2028. - Stock Titan",
+   "summary": "A $463 million cash position is expected to back MapLight’s planned and ongoing drug trials through 2028. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNkloX0h5Z0V2VDFTYUVXdkphYjNHMnZKYmJPNDMyODNYbXRFRTNWdTJRYlFWNXE4MlNodXhwZV9zRERLVlZwNUQxOWgzV2F2NTdfN0NESWhnWm0zYVhLTU1SS0x4Q1ZEbkttRDFqWTliSWNXVUJzMlpQVk5aaWlla3AwV3ozNE9NWGZSMEF3T0ptSXg3ZkFrZUJoMXlrS2tjdGpiTW5YM3dXdmwybVZaWnpZd1B5Q3l2ekMyTE1SUQ?oc=5",
+   "published": "2026-11-16T12:15:00Z",
+   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -2666,6 +2875,17 @@
    "first_seen": null
   },
   {
+   "id": "67fa833cb4a41bc5",
+   "company": "MapLight Therapeutics",
+   "title": "Maplight Therapeutics (MPLT) Earnings Date and Reports 2026 - MarketBeat",
+   "summary": "Maplight Therapeutics (MPLT) Earnings Date and Reports 2026 MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95dzBBblZieFFYWjB1cW9WZlVOekJzcjllY0RYRTA1dTM4T2FfVFUzZzdmek50UjNoV3l4LVR2X3l4bHBaZGJxb25uUGRxRHhUcVJCZkM0aDlFUjl4cW5Pc1lhZ0V0dw?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "2e3f0d77ac3291a2",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics (ASX:ATH) Shares in Focus: Why Is the Small-Molecule Iron Redistribution Drawing Attention? - Kalkine Media",
@@ -2684,6 +2904,17 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYjVXRlBCVUlQNnBSRU9hVzA5bGl3NW5VdVZ5VVhwVzM4ajVhVEpFVWx1VVRrN3ZnWUFmaVNXMUQ2a3RHOXZlejdfLUZFV1ptSUlfSTNlS0dZZUhQTk41eXl1WDVYZWFKeFVYZHc5TzFWa21UZFkwYWU1U3FvcGtOamdoeEJ1U1VaU2JQMlh5TGF0UGYteENRaTA5VHVFdnJsOFE0UFdVZ2ZvMlVMVHoydUQtdElwQQ?oc=5",
    "published": "2026-11-16T05:08:04Z",
    "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6f74c74117334b1f",
+   "company": "MapLight Therapeutics",
+   "title": "Form 144 MapLight Therapeutics For: 15 November By Investing.com - Investing.com Australia",
+   "summary": "Form 144 MapLight Therapeutics For: 15 November By Investing.com Investing.com Australia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVXdQWU9wdm02OVBuLUk4QnoxNVVwZDIyQmdfckJGVFlYdDhNSTJVTS1tZ0RHRHpyTU1qZGhpOER3ZjBWZkkxd3M2eUNBSXB3VTVKMFNFb0xFdVoyb0tuUk5lS0I0WmsybHJhQzR6aFp4Q3BKN1NlbnpsNThMYldza0FzNXhBVUw5WUd5MVRtazNHeFE4UnNza3J0bmRCVU52dWJGRzdRWlk1UjA?oc=5",
+   "published": "2026-11-15T21:20:31Z",
+   "outlet": "Investing.com Australia",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -2762,6 +2993,17 @@
    "published": "2026-11-13T18:30:00Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "0d6891943f0fcd71",
+   "company": "MapLight Therapeutics",
+   "title": "What Lies Ahead for MapLight Therapeutics, Inc. (NASDAQ:MPLT) as Its Q3 2026 Report Arrives on November 16, 2026? - Kalkine",
+   "summary": "What Lies Ahead for MapLight Therapeutics, Inc. (NASDAQ:MPLT) as Its Q3 2026 Report Arrives on November 16, 2026? Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQajZsbkxranlXM2QyT3oyaVQ0R0MwajJIQ1ViejlsZU9wNjBjZlZfY0tIQjNvQVVPOVhkTnJzS2hzOEU2WDluOEQ5blNpVl9tMUh6d04wTlAwSEt5aUpWd3BpWnh3N0lLbXRQZ2RINlpwVXk1YWNzWGxrVEZUMjRxaFEtZGlaT291WlRiOW43QmFJbkVvTmxRTVptcFJnOHYzZ3BlaEpCSHJnZTlNMlNoNExicE1BTWszNFFEOHdTQmNVcWZJWmFNc0xWWlVtVjhHV1FnLWQwNHgwcmdsYWc?oc=5",
+   "published": "2026-11-13T17:55:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -3161,6 +3403,17 @@
    "first_seen": null
   },
   {
+   "id": "4f65926d99c176c6",
+   "company": "MapLight Therapeutics",
+   "title": "MPLT - MapLight Therapeutics Inc Forecast, Target Price - Finviz",
+   "summary": "MPLT - MapLight Therapeutics Inc Forecast, Target Price Finviz",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZGtCUmh6eG92cW82V09Na1F2WlhuemM0MERBUkdVTm1rVE9kSkpvdHBtRlpSYzlQeWhpc0lBSVFlcTYtWFF3cjJHOHBKcFFrN21UMmRxN3NQdw?oc=5",
+   "published": "2026-11-10T16:20:50Z",
+   "outlet": "Finviz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3bec278c55fbbe92",
    "company": "BioVie",
    "title": "BioVie to present additional Parkinson’s drug data at international conference - Proactive financial news",
@@ -3246,6 +3499,17 @@
    "published": "2026-11-10T02:08:00Z",
    "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "6f9005d5b167cd6d",
+   "company": "MapLight Therapeutics",
+   "title": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. - Stock Titan",
+   "summary": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWZ3bWd4c3hxQXp0N2RLQ29SS3o2eGt0UkNBaGxhckdrSmpjVU1oQzExVmczYTY3dWRDbnJPalBER3ptdThxZXBYNWNKaExyWS1BV0p0MlpudkY2V29xQ0g5ODF5ZmdrQUNnNXpvSUhEUkE2UXZ3VGU4SzRFRTJLMXp5ejVSQVNzZzR0N1dadmdvV3hCODI5SW5yRVVMN3ZEOV9EYlVWdl9ueDNMaFFDcjh1bw?oc=5",
+   "published": "2026-11-09T21:05:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -3480,6 +3744,17 @@
    "first_seen": null
   },
   {
+   "id": "60436c85f2cb229d",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Reports Q3 2026 Financial Results and Provides Business Update - Xenon Pharmaceuticals",
+   "summary": "Xenon Reports Q3 2026 Financial Results and Provides Business Update Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYi1uMlNXclVoZmdqUFJCbXpLWVE1YUk5MzdmeDFjOFQzNFM2aVN3aXJybEhhU1pwa3ROSl9nbTM5aGI0bGVxdmtoaDFhUU1Da2ZITV9RNXdiMkJLZ0VqR29XZHFJbk5ZVmVqT2xtOVR4TVZDRVZjYllZbnEyc2J1alNTaVMtZ3VfQlBrNVZEckt0cmU2VElsVnJLUjVWX05EN2cxbG9KMWtTbUU2VnZrMlMyd1JScWd5Y3cySlZnYlBJNWhtUlE4N1BR?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "55cd85fecf4a55ac",
    "company": "S.Biomedics",
    "title": "S-Biomedics, which is developing a Parkinson's disease cell therapy drug \"TED-A9\" derived from embry.. - 매일경제",
@@ -3576,17 +3851,6 @@
    "published": "2026-11-06T08:00:00Z",
    "outlet": "The Microdose",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "9aff136a92ffcdeb",
-   "company": "Annovis Bio",
-   "title": "Press Release - Annovis Bio",
-   "summary": "Press Release Annovis Bio",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRTlKcGpJYlUzOWx1eTNELVJTMi0xcmhkOFJtRjNGUWlhb1IwT0VlWjNweDd1SkVZbFdpdzdBUm4wSnNxdEQwMlVUNDVEeVpDLWUyaTd5SDcxLWExbVpQeTU3aGJzYTA?oc=5",
-   "published": "2026-11-06T06:10:28Z",
-   "outlet": "Annovis Bio",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -3777,6 +4041,17 @@
    "first_seen": null
   },
   {
+   "id": "9aff136a92ffcdeb",
+   "company": "Annovis Bio",
+   "title": "Press Release - Annovis Bio",
+   "summary": "Press Release Annovis Bio",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnVrOWtLV0J2enpSRUpZRWlkQzYtMlI4dWZFT2VoU3RoQjNhTHZtYVVFZjJXUXdqS1E0T1BEdUdDM0w2YjF5X0xZbC04ZFc3Vkt4bUJ2Zm5NeVo2THhkZUlzUVAwcW5iSWU3NC12YVBlb0pGeWZlQlpSODJnUkpsTXBKU05MMU53R1BGV1pOankySGsxdm9uX1g2aHNLdm11Y2RTRmFvSUtjUjRrdkE?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Annovis Bio",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "a5bd6497be902a13",
    "company": "AC Immune",
    "title": "AC Immune Third Quarter 2026 Financial and Corporate Update - AC Immune SA",
@@ -3839,17 +4114,6 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16bWh4MjVRT3pndjRNTlRXNmRlYTJLVWRheTlFYm5kSzR4OWVVaTNOdTN6bHJkTVEyaUhRdTJDX2RRUGVDUmlybkNOWmlpRnJyRmp6Ymcyc3pmNURDMm0tZ01nOGx1T09DTnIwQ3VtV2d3Q0RLMElJNUJaSzFRZw?oc=5",
    "published": "2026-11-04T08:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "2cf35cbec44fb95a",
-   "company": "Idorsia",
-   "title": "Media Release - Idorsia",
-   "summary": "Media release Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmJYcXUyN0V2bG4xbWx0TFNPeDUwaE5LWTN1c1BtRURGZmNyTVk1amQyRWNweTNCNC1uWkZsWlNNdTdmclBCX0NPcnZ2S2FqQXRjanQ0U1I2aWd0QjZ1Y2tJeXRET1F2R3dMN24zbk80b3dsQUZrQmFoOXlIM0ZCaXdSX2tfblNTOWJpU0I5bVo3QUkxTkNkU1gycG1Gdw?oc=5",
-   "published": "2026-11-04T08:00:00Z",
-   "outlet": "Idorsia",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -4463,7 +4727,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -5020,6 +5284,17 @@
    "first_seen": null
   },
   {
+   "id": "2cf35cbec44fb95a",
+   "company": "Idorsia",
+   "title": "Media Release - Idorsia",
+   "summary": "Media release Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmt2TDZucDZsaGMxdkRjdGE1UGNzMGNBRHdiaG1mVjhUQWMzSHQ1ei1keTJ3a1d6TlgyaEkxZHVQaFNVckxaQ3YxX2ZJRGozNEdTdnNQaEtzLWRteVJoOGtud1lwbVhPOGxKNFBOX2gwa1BMMG9UVVV2bl96ZTZuZHdSVnBVRDY3N0ZYdGhuSmtGVGI5aDZhVG5nRWRYZw?oc=5",
+   "published": "2026-10-23T07:00:00Z",
+   "outlet": "Idorsia",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "9c54b69f8794f227",
    "company": "Resilient Pharmaceuticals (ex-Lykos)",
    "title": "Exclusive | MDMA-assisted therapy could get FDA approval as soon as January: advocate - New York Post",
@@ -5200,7 +5475,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGFUbVF4WlEtdno3dzZxUmxzOWdXMHIxM3c0c0FnLTJqN0VvaEpqTjNGTmNaOVpOUWlRSU9jS2tWX3hpeEV3Qm96R180UFVYVTcwZ0VZaEptd1BxT3dmLXlaS0dTT0REUjg2QkpFNnZBdzJMcXdvNkYyaXZHTHhrUUpna2lXNUVCRDRNSFExLUdwMzVERWtnbmJZQVJ3ajZEdWJtWGM3dTdpY0JEOTJXTUVkcTNUNEtIQTMwMHdjRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxZm0tN3FPTkVuazVGa2s3bXQtMHpIeTNoLVc0ckJ5d2YxdnZCNEkxZGx0WWFham9ldTVtbFV0aVRJRFF1a3czaFFMRVhPNUE?oc=5",
    "published": "2026-10-21T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -5482,6 +5757,17 @@
    "first_seen": null
   },
   {
+   "id": "e504f3d16d0c9582",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics general counsel reports $72,881 stock sale - Investing.com",
+   "summary": "MapLight Therapeutics general counsel reports $72,881 stock sale Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY19OQ01XcVhNLVJYTHZhaERKYnRHZ2ZsbTdrdWtpQ3dzTmhiTzNYNnYxajZKUEttVGpNTUJHN3ZuQU5mSUN5YUhfSnBFRUd4Y0Rsajdldm5kYVpXRHVpaG5UaHE3SFVuMXduYWdWSlVMQkpVaEZwaDBST2kySGNocW93OVZSYmgwajVIYkxta0o2d3JfN0ZlRGo4TG5maVpCbUh3MzJHQnpMVGNseXdNdmp3cVRVTEgtTVpNMVYwNlpkbDd6U1E?oc=5",
+   "published": "2026-10-16T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "73adcca3dd8db313",
    "company": "NRG Therapeutics",
    "title": "Parkinson’s Disease Therapeutics Conference 2026",
@@ -5610,6 +5896,17 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3VhMXhuLWUwWTRkbGFsdkhPNmhIRFFWN0RJMTRTcWNUODdaUUFxZVozRFczR3diWXg1MDk2ak9JY25qaWp1SnB3Sk1Oa0tNbDlKaVR6M0w3Nm9BUUphZS1NRFZDdzJMcW53M0hCd0drcmtyN2lvdklPc09KUmp0cDRNS3h2eWJ6YktRcUhnUndac0kyUmdkcmQ4bEtWVGhrYkZaOVEyd1czZ3RkeXMxdC11R2FzUQ?oc=5",
    "published": "2026-10-14T07:00:00Z",
    "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3140395a2ff870c8",
+   "company": "MapLight Therapeutics",
+   "title": "Should I buy MapLight Therapeutics, Inc. (MPLT) - Zacks Investment Research",
+   "summary": "Should I buy MapLight Therapeutics, Inc. (MPLT) Zacks Investment Research",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40ekh2Z3hOMFdxV01EaWRoMnNCMUZzcUV3aE1jN2Y0LWZlTk1YRUViNGFLVjhNOUl6Y2NDakZUUDlaUGgtcF9aeHRYWEh0UTRDaTFrQm5fSnd2MHpzTlI2cFprTUZnREkwbzdzZg?oc=5",
+   "published": "2026-10-14T07:00:00Z",
+   "outlet": "Zacks Investment Research",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5962,6 +6259,17 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUm5wRE9pbXhRYjl2cXFWNDdzUU0zcHpiRE8xeHdIN01WUWpuVU5mYTJxMmVybnlZMG1Gb1NHYzU1NmdNbDMtYmdIVmo0czVieGdDSnJkVTE1d2ZfbTNxcGJYc1NQMkpBZXZKT2s5dWdaTThRaE9qZ2tiVDJVbzZ3aDRzV3RXWjBGbmtkYTE2eExBZ0hXT0lSNmdoemdNN2NWY3Rz?oc=5",
    "published": "2026-10-09T07:00:00Z",
    "outlet": "Investor's Business Daily",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "062fb78d38bcbda4",
+   "company": "MapLight Therapeutics",
+   "title": "‘We’re making a lot of progress’: How Nobel-winning optogenetics is being harnessed by biotechs - Fierce Biotech",
+   "summary": "‘We’re making a lot of progress’: How Nobel-winning optogenetics is being harnessed by biotechs Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjF1QmVKd3pfQXplMTlMQU5QdVBNdlFqblo2RWNQRTNTdmpkSkEyNXNoTjJ4SnQ0WTQyLVFaaHNYeEtvbWE0MTF0SjZaN3dkdk9vQk5IOUt1QVV3RTFuc191SFl2MS1qZlVvaW5sR1ZZSnc5Q2FQUVJvZG5tVkUzUlJldTBOR3pVbGR4Y3RYWHFCRmhjRmtEUzg1bEYzV1FnZ2U0aVZlQjhLc1I4MGR1akRuSDF0MTBDbDI3UTNndTlKTmI4RG9xeg?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "Fierce Biotech",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6439,6 +6747,17 @@
    "first_seen": null
   },
   {
+   "id": "4cb8bf69197b6d99",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight stock falls 46% as InvestingPro Fair Value flagged overvaluation By Investing.com - Investing.com",
+   "summary": "MapLight stock falls 46% as InvestingPro Fair Value flagged overvaluation By Investing.com Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUE1fNjlYYXVYMG9aQ19NN0lMa2tLSndmSVl6UHpyTmk0ankyOF9SWE1KREloZlR3a2p5TVJnLUFzVUVtR2puSGEtX0V0RmxfTkdtSU5UdE1RU1BEQ3F3amRYREhwMVYzSC0zNE1HQlp1Szd4SWRMREhDTmdsc0ppSkVBVW9QWW1icFpNMWVvVVRUNHcycVdFSE96U3NvZ0pWNEpvQTR3TVE5dEgtcUpHTi1kMU9ZbUhqY3F0N3oyNF9LcW01ZVhXT1hWODYwQQ?oc=5",
+   "published": "2026-09-26T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d85d7e869f2bba2f",
    "company": "Regeneron",
    "title": "Our Mission in Neuroscience & Disease Research - Regeneron",
@@ -6700,6 +7019,17 @@
    "published": "2026-09-23T07:00:00Z",
    "outlet": "Morningstar",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "de1bb71f529608c4",
+   "company": "Xenon Pharmaceuticals",
+   "title": "TD Cowen Novel Mechanisms in Neuropsychiatry & Epilepsy Summit - Xenon Pharmaceuticals Inc.",
+   "summary": "TD Cowen Novel Mechanisms in Neuropsychiatry & Epilepsy Summit Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLU9vcUpmQ2VSM2ZPQnh1VVBrVkk4UlI0SG9paDdJWGNUMTVZVExzNGZxeWIxSFlUUkZzLTBiclNsTFlvNGhYbnZYTWxpdmVhSm5rOUhuOFZtQ1hyTEFsUnQ3YVBZSDRTcDJRMXdKSG5lWXBobVFkUDBFX1BjYlBLZFBKUk9ER1VhYjhhR003ZURTNThNRjVqdTBvNWJNQnNsUEh5d1phaUR6aUlzTGExaGh3?oc=5",
+   "published": "2026-09-23T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -8232,6 +8562,17 @@
    "first_seen": null
   },
   {
+   "id": "537eab7638108e6b",
+   "company": "MapLight Therapeutics",
+   "title": "Segal Trials Reinforces Leadership in Acute Schizophrenia Research Following Participation in MapLight Therapeutics’ Phase 2 ZEPHYR Study - BioSpace",
+   "summary": "Segal Trials Reinforces Leadership in Acute Schizophrenia Research Following Participation in MapLight Therapeutics’ Phase 2 ZEPHYR Study BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYUM4dGdZd0gzTHpLSlpkbzZJQ016c2VxS3huTEFIc29tTnNKVExvN21sYV9BYXZ1SHNXVWRQN2lEb2hXd080bm45clVTQ0J4TU1SNTJDLXRQMUxCNW15elhMd2l3YUlKaGd4cFhaMWtkd2NPU1Q5ODlLTmljYW81ZG9LREJ4LXRIZVdfazV5U3ZSbTBuVDNmbG1aenJFZDZiX0hzb1pZSkpUYWREYUYySnNUVlhIeUxqOFE0QldaU25yU2lORGFZalpQcjlGODh2YTV4LVJ4Q0JicjI1TTlqdXRWZ0NfSVRVRm9EbG12WkRLbmdyMkJpSkJjOXExYUg1QXNkWFVBOA?oc=5",
+   "published": "2026-08-23T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "93c83b12d44bd746",
    "company": "Protagenic Therapeutics",
    "title": "Jennifer Buell, Ph.D. - Protagenic Therapeutics",
@@ -8540,6 +8881,17 @@
    "first_seen": null
   },
   {
+   "id": "9a283823d1b99079",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics, Inc. Stock 12‑Month Price Target Cut to $28.77, Implies 148% Upside - TradingView",
+   "summary": "MapLight Therapeutics, Inc. Stock 12‑Month Price Target Cut to $28.77, Implies 148% Upside TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVEhiT2UtcDQ2ZUE4U1hVY19sT1piZ3BwX21JQmpsekxIVnYwZjY4VWR6ZXYxMXBDWlQ5bS14UnJRenVKWTNBeGxWbXFmaWxUQldXbWhhbzNqMVl5U2tidExXVnJaRkVDRkRKT1UwYWx2Zkx3OW40VEFycDFRajAtSEhxUFVfMzgtZGVnRzNnY041RlNwRGJuTTdsMi1DSU1pYzdTaVJBNFdEQmJRS3VMMGU4elR6cEJSbnRjZnQ2WVZEYnZ0WVQxQVVtQnlmcE9abTBFS2h2RW9udkMtLWxocw?oc=5",
+   "published": "2026-08-14T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b239f327f75db30f",
    "company": "MapLight Therapeutics",
    "title": "MapLight Therapeutics - The Pharma Letter",
@@ -8688,6 +9040,28 @@
    "title": "NeuroOne posts Q3 FY2026 revenue up 16% to $2.0M; gross margin expands to 59.9% - TradingView",
    "summary": "NeuroOne posts Q3 FY2026 revenue up 16% to $2.0M; gross margin expands to 59.9% TradingView",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeUxwbDkzaDdLVWhBekNPRjItYUY0WUhhUjFPVXRTOWNMZ25GaXd6SUhlLWFndHhZcUh0d2g0RVh2aURVQXI2cy1XTlNHb2FlM2RjYWgwekNHaFdFTjhUby1rQlg0b1h6Vm5ReFJyUml0a183Y01yQUJlMUVEV3RMU0x2eTh6Q2JIa1F5VVBxekRtTkNVc0lhdm9IZkZVanRqdGNIQm9aVHJFQ3FoRnkxVUxLOElvenJyeDBadEd2QnFRM0RGZ0hpTmdXc1liMzczc2I0?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9a587c3c61d6e5c5",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics secures $150 million financing - The Pharma Letter",
+   "summary": "MapLight Therapeutics secures $150 million financing The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQUlKTXlkaFBxT2h5dkJfTk1CQUlPRmQwWU5GZUkxcHp5bmpuV1NNWE1melkxWGkzbi1xdzlVdkJ1MEFITDNwWFEzcDE5MnVsaENfRnNDbHBjWGZLVjZHakwyd3Q1U3pSV1h0bXF0NnIyUDI3RW1qNmdIRUtFei01b0gyQnExVV9XMnlwLU51TGs1dHNkSEN6Ny1WaHY?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b3435ff5f2a24cde",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics Raises $150 Million in Private Placement of Stock and Pre-Funded Warrants - TradingView",
+   "summary": "MapLight Therapeutics Raises $150 Million in Private Placement of Stock and Pre-Funded Warrants TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNS1qVWhvdzIzWURlUTZYa05fOVNOUWZMbGVnMmdsUmRQY1BzNDRBTXhWTldmckpPSWxZZmx0OER6UUYxYUNFTm1URzF1cXNHcVhCbHJZSGI1Y0dlTFY1N1FDVUo5c3EwUnlVTGliRGNBdC1PQ2JjWnEzOEtXTk9lRHlfZVMzVFA0RjRubkFnM1MwbTRzcDlBVG1QNlZ0YUZzSUtnUFgzTG1YRTNPR05aSzlVQTcxeHB3ankzbUFKNUEyVXdPeEVucmtvNi1HRHpkRGtNbHFkdlM2dWJhRkZPZzRhV3d0NHE2NDZRMQ?oc=5",
    "published": "2026-08-13T07:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
@@ -9109,6 +9483,17 @@
    "published": "2026-08-10T07:00:00Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c26a3d27c955f865",
+   "company": "MapLight Therapeutics",
+   "title": "As BMS’ Cobenfy struggles to gain traction, MapLight knocks on the door - BioSpace",
+   "summary": "As BMS’ Cobenfy struggles to gain traction, MapLight knocks on the door BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLXprdG1EUmxEVTJ5RW8yd1BrUDNOZXN5SzJZeFZTRXF3V1dndTNwUlUyNGNGc1FlNDVWMF9kNE80UzMtS05HZmN3dmMtY3dVZXdUdmY2R1ZRNFRMcGpqaXF5Tl9tc0wzZ0RycWVnOFNRTjZHTklpWnNxTW5FT3JiYnloSmJoS21FQi1nWS1Ha2xPem5OUmhRVnhXSzRNOHFrb2V1N3V6enhyd1EzNVVJcQ?oc=5",
+   "published": "2026-08-10T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -9750,6 +10135,17 @@
    "first_seen": null
   },
   {
+   "id": "325d47418ce307e9",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight’s ML-007C-MA Meets Primary Endpoint in Phase 2 Schizophrenia Trial - The Clinical Trial Vanguard",
+   "summary": "MapLight’s ML-007C-MA Meets Primary Endpoint in Phase 2 Schizophrenia Trial The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFB6WE56Wk1IbXdzZnRfN1lzbVJrY2JxcFlQR195WEJnbW5VNnRKUXYtNkE1ZXZjXzBzencyWEp4RWlKOUNTX3MtTXJiNjBQTFhUVFR4TFA3TUVwS2Z5d21RYVpUcUdybTBLSlhic29leENaUzRwYmh0MG9SaXU1WFdZdjF5N3lWUHhkM3lDZjBjRXBMRWpnUnZBSWs3eEhab01wdDQ2VElEUUJ0UEd0MHJuOEhpd3RjQmc?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "24d2e1ccc34fa405",
    "company": "Neumora Therapeutics",
    "title": "Neumora Therapeutics Reports Favorable NMRA-215 Toxicology Results with Planned Clinical Advancement in 2026 - Neumora",
@@ -9827,6 +10223,72 @@
    "first_seen": null
   },
   {
+   "id": "5324b4b892cbec50",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight’s schizophrenia pill remains in Cobenfy’s shadow after mixed Phase 2 readout - BioSpace",
+   "summary": "MapLight’s schizophrenia pill remains in Cobenfy’s shadow after mixed Phase 2 readout BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWmdzbnlOX3ZJQU05Nm5xWHBZS0RHVklxU1Jid1FyM3JQVlBZR2ZNR0FhRFVXbFRJenBWMnRXOFRZdl90bDJOd1RXNzFzNnZhV1VZUG9ReTJKSUxya285NDhOQ3VEUGN1S1AwZXR5S1dFbm9fWUdSQ0c5TnlROGt1MEVIMk9Uc25ON1E5ZmlaeDJLOHYyZV9iNEtPNGs0c29KUXB0WFNnc2ZhVXlBZk5nZVBEaThYTmtfMlEzRWJFTmZoWmM?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c84f807a0706613e",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight’s Schizophrenia Candidate Has Mixed Results at Phase II - Inside Precision Medicine",
+   "summary": "MapLight’s Schizophrenia Candidate Has Mixed Results at Phase II Inside Precision Medicine",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDF3bnJ1UFE5d3NXaDBXb3N0MFRscXRIVTVyMjhkWnA2eEIyUkpQY0ZqU2tFclkyejgtTENWUkV5dTE1dy1XM2dpUjV1UldtR1FfaEd5ek8zSmU1VHBRcTVRTXVhcklHXzc0dnNLRXFza3FiQ1RIUkl0cFgtbHdJdG5WcG1wUVdmMnhTWGcyaVBEOUFuV0pGaEhZQ0oxTEVFUWpCOFl0MjRRMFNTYkNWVzlvMGZxYlVOZ1RmUnRLVUtWUQ?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Inside Precision Medicine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6810129347516fa5",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight sinks as Cobenfy challenger falls short on once-daily goal - FirstWord Pharma",
+   "summary": "MapLight sinks as Cobenfy challenger falls short on once-daily goal FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95YVJLeVg3TG1GcGdNQkVrenNFR05OSVkwb3J4UVhvaUJsVXZYdV9HVGRvaGZtSmZ0TlA4NXR6UFZzamwxRVJfbVU4UFhieWlaeTVF?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "732ccaaa064aef31",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics' Lead Candidate Falls Meaningfully Short In Schizophrenia (MPLT) - Seeking Alpha",
+   "summary": "MapLight Therapeutics' Lead Candidate Falls Meaningfully Short In Schizophrenia (MPLT) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUU5VzZQX2I5aGEtN1l4LXhzd3lUeTFMRkRQWi04djBQY2g2NFd5a0d6UlBNcFZHQzU3b1hnMXNWM0Z5NjVON0Y1Qm4tclBQZEdZVlNBMEpRd0p5VnF3OGdkRHJnN1JLYk5SbEVEX3FaWjhlbnF0RGFZbXBtWHBuTXR1azlRNEtqQ1dIcXlEeWU3M0tXeHh5R0VMeEZia29EY3RsSHVvV0dOZllOUHlrcDdJMDBTb1pkTDN3?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d41ca164d0cedb95",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics stock tumbles 40% on trial results - Investing.com",
+   "summary": "MapLight Therapeutics stock tumbles 40% on trial results Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2sybU9ONG5WN28yRnJ0d3BfX3ktZFFmOVZkZHJreXNjc3N2aHRCdVZscUR4LW9kZGJ3Q05NWERaR05aaVN1S3oxU1BhZnlNYkNJTkFqa2NzWlRtWUZTWklPNGdqTVhmLWtrYXZ2TXg4S05LLWVYOWJ6cHpncDVIU25LcWtjdVZ4bkZ1M3RWeWs1RHZpamFRcEdwVktKVjRzOGt1U2h2MmVqdDQxRTFzRkVhZ0F0NC14?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "52b53ea9d5e0e5fc",
+   "company": "MapLight Therapeutics",
+   "title": "Raymond James cuts MapLight Therapeutics stock price target on efficacy data - Investing.com",
+   "summary": "Raymond James cuts MapLight Therapeutics stock price target on efficacy data Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmV6WXBHLXJZWUpRUFZ1bnA0S0ZuUHV4YVNKbzdMSzVnRGtQSTl3Q19SR2xfS0lZOXZiSUFuUTdyZHBPYlUyOC1RZU0tU01HUG10cFpiLU9nUm5KNWJsVVgyNjRxeUM0NUZHZ2FhTUowTXlBSkxRV0NNdmNXZ3lURzZPNGZLYk51dFJBZnYySXNrWl9mZ3hlLUFyQ29PbWZLSFpUc3k0MllWcWViM1I2eUFNTTlUSXRQYTFJc0ZCc09hVnZLMzFCZzNYbEw2aHpzSkE?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "47a5fa5baa6aa7cd",
    "company": "Regeneron",
    "title": "WSJ Spotlights George Yancopoulos: ‘The Scientist With 1,000 Patents Fueling a Drug Powerhouse’ - The National Herald",
@@ -9846,6 +10308,17 @@
    "published": "2026-07-26T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
+   "published": "2026-07-23T09:38:46Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -10440,6 +10913,17 @@
    "published": "2026-07-01T07:00:00Z",
    "outlet": "Remepy",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "049d3bb7ab69ea1a",
+   "company": "NeuroDerm",
+   "title": "EAN 2026: NeuroDerm spotlights Onerji fall reduction in advanced Parkinson’s disease - Clinical Trials Arena",
+   "summary": "EAN 2026: NeuroDerm spotlights Onerji fall reduction in advanced Parkinson’s disease Clinical Trials Arena",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZmdLakZpQi1yVUl5aTRhdTRjci10amJ5UnZKNE11SFFnSGdacnIyU0RGNGdrOVVuOXNOQklkemJ0TWp0aUl1MlA5aGJtQlpCWkd6YzBkR2RGN0FmdzZwMUsyX1RNckl2SlVUU1ZGelB1bW9ZOTN6ZElKZkJLdEJhb05kaTYyV2V4eWZIcVUxVnU4YTFncDZXYVpoOVBkb2thUEZYd3U4ckdvMHFjZVhuYkMwYVFTdGJpWkx5ZkZpd3djTjFIbUxpRjA4TE11QURn?oc=5",
+   "published": "2026-07-01T07:00:00Z",
+   "outlet": "Clinical Trials Arena",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -11595,6 +12079,17 @@
    "published": "2026-05-28T07:00:00Z",
    "outlet": "Newron Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "ee6632ef9a7d2b93",
+   "company": "MapLight Therapeutics",
+   "title": "MPLT - MapLight Therapeutics Inc Stock Price and Quote - Finviz",
+   "summary": "MPLT - MapLight Therapeutics Inc Stock Price and Quote Finviz",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8xRFdoTTJtNm1oTkRDbXZvTll0SnB1ZWgyUHc0OENpUkk0UzJlNTBTYi1fT3BnQVJUTXdOcExhaXd4el9NUlE?oc=5",
+   "published": "2026-05-27T13:39:14Z",
+   "outlet": "Finviz",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -13333,6 +13828,17 @@
    "published": "2026-04-20T07:00:00Z",
    "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "144ed52dff6bf15d",
+   "company": "MapLight Therapeutics",
+   "title": "TD Cowen Initiates on MapLight (MPLT); Says It’s Undervalued on Schizophrenia Alone - Yahoo Finance",
+   "summary": "TD Cowen Initiates on MapLight (MPLT); Says It’s Undervalued on Schizophrenia Alone Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNllUVEdoWU1TdmpIczV3YlVBSERaR0lUNnNtMEVRZGkxMTdMNlNuLUhZcEtjRGJEbVRieDdRa2hZQkE0aDZtTV9mRW50anBxcjBDOGgtdHptMFJROEYzdG5nNWFGZ0FvbUhrQXNlR09YWDc4Sy13eWZPY09ETEwxX2E1UW9STlkyZURtQ0IyVFpBQXVDTER0VTUtcGt4ZXVOa1lV?oc=5",
+   "published": "2026-04-20T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -15448,17 +15954,6 @@
    "first_seen": null
   },
   {
-   "id": "a60fc63f02e4ccf0",
-   "company": "Boehringer Ingelheim",
-   "title": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies - Boehringer Ingelheim",
-   "summary": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies Boehringer Ingelheim",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzRxWTdZb25lcy01dWRtZ0dkQUM0d09NeFZNNXVVTG93Q0NNYjhMZ0RWN3dpY0FlOWJwMWJsUHQ0Mll4NDB4a29nZWxZalFueVB4TXlNWEs5Vk9qdC1jWDR3Yk0xQkRYcG1OV0E3WFlaYXUxMlktajlTODJqNVowMTVwa05WQU43Tjg1S1VB?oc=5",
-   "published": "2026-02-25T08:00:00Z",
-   "outlet": "Boehringer Ingelheim",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "e61a079ba9e6a5eb",
    "company": "Kenai Therapeutics",
    "title": "Kenai Therapeutics Appoints Blake Arnold, CFA, as Chief Business Officer",
@@ -16020,6 +16515,17 @@
    "first_seen": null
   },
   {
+   "id": "a60fc63f02e4ccf0",
+   "company": "Boehringer Ingelheim",
+   "title": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies - Boehringer Ingelheim",
+   "summary": "Medical & Clinical Trials | Clinical Research | BI Clinical Studies Boehringer Ingelheim",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON3pqWUVGUGlySUw1SUZOcVBfblYwU3NJMnRnRkh2cnY4TU1sSGxmZko5OHNMdmF3ZzZZM2hxd25lZE13LUVYSHVhNm5nTnptYkthclZ2aEE0MnktTk1IY0t4ZUc4LUk5ZUdIRGt2UE41QTZvVHB1QThvbVhLRjE2alBZb0F0d2NUd1owWg?oc=5",
+   "published": "2026-02-08T05:45:50Z",
+   "outlet": "Boehringer Ingelheim",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "ff5595468e382553",
    "company": "Insightec",
    "title": "NHS England approves funding for MR-guided Focused Ultrasound to treat Essential Tremor - Insightec",
@@ -16159,17 +16665,6 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZy1SOGZRSjBCU0RZX3J6VVRSUmIwWUNDdmZQcVJDSnJBNmJHeUw4eFZSVk1Za3dVVThWMDEzSnIzcllfZmI5SnNLLUx2Tmx5MUtFOEs3eGVPVjdQRGUwQ1BLTXpsNWs4cUQyRGxCeGZZVUNPVkVlaVIydDhwbG5iVTFJZk4?oc=5",
    "published": "2026-01-31T21:24:31Z",
    "outlet": "Remepy",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
-   "published": "2026-01-29T10:15:29Z",
-   "outlet": "Roche",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
