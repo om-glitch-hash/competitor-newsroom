@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:45:31Z",
+ "updated": "2026-11-20T02:38:48Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "9de54c46c4b9f139",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Reports 2026 Annual General Meeting Results - TipRanks",
+   "summary": "Alterity Therapeutics Reports 2026 Annual General Meeting Results TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1hLYzJqaHFJdGZjdC1PVVVDbDB4STZ0cDN0LS1XQlNCRVlmQnBfV2ZnRzhWbEZZTGZJSFdZWVd2V2xNZkVkS3NRd2kxeHhFRmhsbkh4QW1zVHNQV3JuNURLdW5QR3hmcmtEeHlucXBfcDhfaktTTlk0XzlvdE16a1ZZanpJemY4ejJkUlVrcEdvOGU4ZDVFNzJRSzdTdHJTWU41U1lXcWpCbHBHV3RMWWlRMzVSWTJZ?oc=5",
+   "published": "2026-11-20T02:03:55Z",
+   "outlet": "TipRanks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-20T02:38:48Z"
+  },
+  {
    "id": "349308612aa4ba56",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics Shareholders Pass All 11 Resolutions at 20 November 2026 AGM - Kalkine",
@@ -1720,6 +1731,17 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
+   "id": "8876bb4257e41890",
+   "company": "Palisades Therapeutics",
+   "title": "Palisades Therapeutics Reports Promising Preclinical Results in Prostate Cancer Across Two Distinct Drug Programs - Kitsap Sun",
+   "summary": "Palisades Therapeutics Reports Promising Preclinical Results in Prostate Cancer Across Two Distinct Drug Programs Kitsap Sun",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeUFMN2FHdzFRaTluNE5FTk5yTzhZckN5NkZqQUMzYUNhOGdzLWJacTFjcS16c0pCTUIycmxZOGF1dDcyQzNwTTBoZnRWLXZUMFI3aDI0Q253elZUQWQ0ME5JemJQUXJJc290em5tbkZ3RGtLaUM0TmdsbThxeWtwLTc0VWNxMjFaenpvSnhTRnYwNVdvTGxWZDQxeUFGYWJTUTNtUTlfNjROcG5RWFEyaE9UYTh2eGp2d2l2N2k4dmhwQ19udVU2aTdRVEt3VTlxazVBWUZ4NW1yVDBtY3ltNm10VXVuc0V1SGZET0VvYS1qR2hYelllWExfYw?oc=5",
+   "published": "2026-11-19T15:05:43Z",
+   "outlet": "Kitsap Sun",
+   "method": "news search (no newsroom found)",
+   "first_seen": "2026-11-20T02:38:48Z"
+  },
+  {
    "id": "e0e2fa8de21302bc",
    "company": "Palisades Therapeutics",
    "title": "Palisades Therapeutics Reports Promising Preclinical Results in Prostate Cancer Across Two Distinct Drug Programs - The Courier-Journal",
@@ -1740,6 +1762,17 @@
    "outlet": "The Des Moines Register",
    "method": "news search (no newsroom found)",
    "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "59c41d55f94c5c27",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Seeks U.S. FDA Approval for CAPLYTA in Bipolar Mania, Marking Fifth Potential Indication - Johnson & Johnson",
+   "summary": "Johnson & Johnson Seeks U.S. FDA Approval for CAPLYTA in Bipolar Mania, Marking Fifth Potential Indication Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOVhDX2tRQU1RcXhlOEFaMl85cUQ4ckdoVVRlN09XeTVBWXBoUUMxTGk5dG95d256eGczSGZ4a2dsZGU0SkJMa213SEZHOVltWElheXptN0JfMG9iWjA4cy16XzR0T0xMYmxaSUZFX3Z2cWwwZGg0djE2d09NNUF3UlZaaHFEc2l5WUNkZUdsRjhGVDU0c2pheDRCd1pDN19xTHhOOEVueWdHQTVQSkxqOVM1VTBNNDVfNXRkbi1yakN4d011ck1Nd2FEbkd5b0NtaHBlc3loZ0V0REk5Z3Q5RDl0ckg?oc=5",
+   "published": "2026-11-19T13:04:41Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T02:38:48Z"
   },
   {
    "id": "d910f78684c06ac8",
@@ -1773,6 +1806,17 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
+  },
+  {
+   "id": "ee4e9b11497c196b",
+   "company": "Novartis",
+   "title": "Director, International Data Enablement - Novartis",
+   "summary": "Director, International Data Enablement Novartis",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcERLWmhibV9fU3A4M2l5cGRhM0JzaG40Q002MzJmM19aSTUyMG9CRHd1b0lYYW5ScFI5dXM5LTYxd0ItN05xNUhzVWVfMm1yR21RbXZpY3NPVHYxMVRPSUdSNlZhNklDc3FlYmZWd1VLQlk5ODdNQzh1djhidFlDbldyRVliUnpHdFZiNU5FWjJxTDhhMlViZHI4NlR3cF9NRFJwTWNNSjcxaUZBVWVj?oc=5",
+   "published": "2026-11-19T06:05:52Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T02:38:48Z"
   },
   {
    "id": "9c368412ae6678c8",
@@ -2688,6 +2732,17 @@
    "first_seen": null
   },
   {
+   "id": "caea5aaf54830bfe",
+   "company": "Alkermes",
+   "title": "Form 8-K for Alkermes PLC filed 11/12/2026 - Alkermes",
+   "summary": "Form 8-K for Alkermes PLC filed 11/12/2026 Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHlzeDZfZzJmdFhXektkM1VJRk1iendiTzBkN25wV1ktMG9acmdyZmV0RmdEUjRhMzM1cDJIT19ieUc2OVZfVUROdzA3LWZ1OFdXLURueGR5LXFmenZlcm5MRVg4Y2lUbFZoX1I2Q3hzbjFJR1lyRzlXSFctdGZiNDdBdkhPUQ?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "3b843ef869cb5844",
    "company": "Novartis",
    "title": "Therapy Area Head - Immunology & Neuroscience - Novartis",
@@ -3161,6 +3216,17 @@
    "first_seen": null
   },
   {
+   "id": "583ca0bdcaab79f9",
+   "company": "Alkermes",
+   "title": "Alkermes Showcases Research From Psychiatry and Sleep Portfolios at the Neuroscience Education Institute Fall Congress - Alkermes",
+   "summary": "Alkermes Showcases Research From Psychiatry and Sleep Portfolios at the Neuroscience Education Institute Fall Congress Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFpZUklqNUREaTdxOFNqOTNTRnlOUDFkTGZibWUyb0ozdFRJRWx3T0R1ZmpESTVMRWJVSmZDWUFUZ0ZWdmpSZ2llYjMzMXFMUU1yNmM4cXViUnQ1NkVWU3BpSGdPVkxwcXdId25QVHVEMVdpWGtKSF8wS09TejVkVnJ2UUtDWkhaaGpNSUNVRllPN2s0ekxNVVlzZ1ZuSzJYR2lKMjRxUjdtd29HSG1LSmFXZXh5QndrenhTUzgzOFlpUQ?oc=5",
+   "published": "2026-11-05T12:01:09Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "dd137e7924f89b95",
    "company": "BioVie",
    "title": "BioVie prices USD 4.74m offering after dual Phase II readouts for bezisterim - AllSci",
@@ -3315,6 +3381,17 @@
    "first_seen": null
   },
   {
+   "id": "2cf35cbec44fb95a",
+   "company": "Idorsia",
+   "title": "Media Release - Idorsia",
+   "summary": "Media release Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmJYcXUyN0V2bG4xbWx0TFNPeDUwaE5LWTN1c1BtRURGZmNyTVk1amQyRWNweTNCNC1uWkZsWlNNdTdmclBCX0NPcnZ2S2FqQXRjanQ0U1I2aWd0QjZ1Y2tJeXRET1F2R3dMN24zbk80b3dsQUZrQmFoOXlIM0ZCaXdSX2tfblNTOWJpU0I5bVo3QUkxTkNkU1gycG1Gdw?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Idorsia",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "aa94d8a73b860333",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
@@ -3348,6 +3425,17 @@
    "first_seen": null
   },
   {
+   "id": "cec5629737d7fed7",
+   "company": "Alkermes",
+   "title": "Alkermes to Present at Upcoming Investor Conferences - Alkermes",
+   "summary": "Alkermes to Present at Upcoming Investor Conferences Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSk0zcHd2X09aVUtqYy1kYWVtdXY3V3hjTGR1WWwxOEt1bmwzOVROeHRoaGxlcWpFRXJhUHVVbk1VcVVnSHNGcEtDWDRVUmVkVk9WbXVPdHpCWEJwcmJ6WGtabXlfNTA1TDlnRk5MMXRMWjY5bkJUTWNKTlFoTmVsSVZtX0tzVTNEQUZSbUU1RzRtSHVJNnZqbzNwWXI2UTA2UUtOaDlKT2szZXBHXzJ4MQ?oc=5",
+   "published": "2026-11-03T21:00:21Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "17ce1787bed6665c",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Guggenheim 3rd Annual Healthcare Innovation Conference - Helus Pharma",
@@ -3370,6 +3458,17 @@
    "first_seen": null
   },
   {
+   "id": "249a19d2c0547d55",
+   "company": "Alkermes",
+   "title": "0001193125-26-444507 | 10-Q - Alkermes",
+   "summary": "0001193125-26-444507 | 10-Q Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDVkMi1pcnFJazdPVkY0ckxoemZHSlVMeVROMkpmb1pwXzVUaXI5WnZoU2xReFZ0dnFkRS1vY28xSzFNUUVVOXdISzdVVGtIYWZYdUN5cDhoSXdNR1BfSDU5Tnd3dTE4YTdaVFQ4YzVmeHZHNGVWNm5YOXVHMUVNc1cxbFQ?oc=5",
+   "published": "2026-11-03T15:11:36Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "bc003426ac2c52aa",
    "company": "Novartis",
    "title": "Neuroscience Territory Account Specialist – St Louis - Novartis",
@@ -3388,6 +3487,28 @@
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16b1F1dndBNHVwU2Y0M0RCbDNkZjZaX18tbS1ReC1VTU1VcUVBOVNidHVnRjdGQ0kxMUE1c3ltamp6Zw?oc=5",
    "published": "2026-11-03T14:54:33Z",
    "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "9bad51da3c82bed4",
+   "company": "Alkermes",
+   "title": "Alkermes Q3 2026 Earnings Conference Call Prepared Remarks - Alkermes",
+   "summary": "Alkermes Q3 2026 Earnings Conference Call Prepared Remarks Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalFydEJpZzBvQ3I4OFFmSjZGemVZLWoyVEpaajVhS1hCOWNwNTZfRWZhQ0dlS0FNSlY3cFJYSzF3RzAycDVOc1phYTlCNmc2WTZzVWd4UC0tUi0zb05wUXU3ZjRpU1dlcjdRMkVvcHJxRE1qVnZMNkxPc1pCcHFsVGFiX2pyQQ?oc=5",
+   "published": "2026-11-03T14:11:36Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
+   "published": "2026-11-03T12:12:08Z",
+   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -3499,6 +3620,17 @@
    "published": "2026-11-03T08:00:00Z",
    "outlet": "https://www.siam.in/",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b36301cc1ef519ff",
+   "company": "Alkermes",
+   "title": "Q3 2026 Alkermes plc Earnings Conference Call - Alkermes",
+   "summary": "Q3 2026 Alkermes plc Earnings Conference Call Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXJwWmRUTEZzRGdCRmpnSVp6X2phZnZkZUhMTDFtMk9iOUN5ZlIwaFdlU2o4cC12aWVWdFRDTjk1aHNQbjVKRFdmSHExMVdxeXlYV2Q0bURyemlfR3VsRlRZQXFPenFEb3dFbFNIaVVNdno4ellDZHVIZFpFZkEyb3lQZEdKMF9TY20tSVRKc3kyNTJsZ2JvekVuQUo?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -3968,8 +4100,8 @@
    "company": "Idorsia",
    "title": "Idorsia seeks US label update for QUVIVIQ daytime functioning benefits – first patients enrolled in Dari-Dream - Idorsia",
    "summary": "Idorsia seeks US label update for QUVIVIQ daytime functioning benefits – first patients enrolled in Dari-Dream Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnBmTWViSVNBd0RlRXU0aVBQdXBjNjlBeGJSTjZIUlM0TmxHbm5YQjNncm14RUktSXV1QTA3TjJzYUZqMi0xSUpTY1RZRnA0WHo3U3dZaklaQ2dHaXlPeDBoZlhCZU83dkVOOXA1NnBFOGtqTXVZMzU0VDR5eGc4eXRhZUdGRFE?oc=5",
-   "published": "2026-10-27T07:50:26Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkVvTEFLdkZ4V0htVlhreGREcXVTczZ1YzBCY0dSRjJnaWpNLXVkYjk0UGM5TUFzM0Y2eDhxMVFaRVNmRU5KaDU4SXoxcS0wNW01enZKbmRiX3hwV0ZJMEF6b3JRSzNicS1zd1lCd25ySTZyb3pmNlFXVzJDWmR4akpON3pFMml2SktkM1lwQ1R1b3M4b3hGZzVEWFU4UQ?oc=5",
+   "published": "2026-10-27T07:00:00Z",
    "outlet": "Idorsia",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -4045,7 +4177,7 @@
    "company": "Arvinas",
    "title": "Arvinas to Report Third Quarter 2026 Financial Results on November 3, 2026 - Arvinas",
    "summary": "Arvinas to Report Third Quarter 2026 Financial Results on November 3, 2026 Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRTlhQcmFUNUt3b2t1elpaOXoxRVJESTg4N1hqY3k1bGljLTg2WUJIOTdwalZYMzVpRVUyUjN3T09hc3hYUDYyQnNUdTQwZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORm1PUVpxUzlZUDh4RTdxNEZZajlMZENhbjNLYVk5TWNBWUNSNHgwX016QW95cVdIb1lYejZVWWlSSlRBUEllSHNmcnAzZ29iOHBSempDY1NLOF9tYkwwellmQ0pFV2YxQm4xOEp0Z0ZTNWhGc2hTLVdtUUc2ODM5VnNNT3VlVXI4aVNxV2hsdk0yMTVBTHVIWlBPNnY1dU1jVC1XX1FaWDBpVzlxc1ZYcUw4X05ZNlRQNkVQLU5R?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:)",
@@ -4189,6 +4321,17 @@
    "title": "Market movers: SpaceX, Tesla, Verizon, BioVie... - Proactive financial news",
    "summary": "Market movers: SpaceX, Tesla, Verizon, BioVie... Proactive financial news",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYURUbloxVlAtMlU5WkJIRGw5c3FKUDl5d2hncVhzYVRhWnZHcGRwMG9scDBVcGFRMzgzd3VkVjRfUzVud1lfdC1pd3RMek1sczI3YTBJU3JINWdtMmJLRkJSQk5TMEozZGdsWkRocjBta2Frc2dWYUZyRW1nc1dQRW0wc1hXeUpDa0ZLTzhqUkxMa2xjMXZMdEE4YjlqVG94MElBT0p6QWNNVlNsTDlpZzBB?oc=5",
+   "published": "2026-10-26T07:00:00Z",
+   "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "648cb6f153110a62",
+   "company": "BioVie",
+   "title": "BioVie to present Long COVID trial data at NIH-backed workshop - Proactive financial news",
+   "summary": "BioVie to present Long COVID trial data at NIH-backed workshop Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazdXRjFaRy11NEN4NWVMU2RJb0V0aVJvM1MwcFFJMHNsbXRqcFhDT2RWcjFiX1hDZmZwS3cySGtlVk41R0JGUmYteGZuX05kRW9VSFVBb2JOdlRWejVDTHRQRVpKVGZianJjalVZSzVaRm11c0hMeEdPTHlCZVZKRDJlNk4waTVCVTh4dDE3dGRaYzhTdVY3eVVTSnpiWDRYMl9iOEJLV0tzTndBYW1xTTliUE9qNURvdDBLclFsUktoYXJISGs5MndRRWh3Zw?oc=5",
    "published": "2026-10-26T07:00:00Z",
    "outlet": "Proactive financial news",
    "method": "news search (newsroom not indexed)",
@@ -4565,6 +4708,17 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmZ6alZWUExTeTAtaGRUSnVYSHNJSjV1YkhLYnYyd2l6bzBhMk5MampiVVNVLTRqSDlYdHZUckxrdnFtWUtEWE1hdXpXZGxqajJqN0xSN1AwZDdfOFdQbTkzYXkxcVdqb0lMUkVzQWVrNVY5dU5fTFVWdktMMVdkbU5PYkp5aFFseFBSTlNNeVJvdWZ0cUpHdWJERQ?oc=5",
    "published": "2026-10-19T07:00:00Z",
    "outlet": "Yahoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1b93a70c530d613e",
+   "company": "BioVie",
+   "title": "BioVie showcases Long COVID and Parkinson’s data at ANA2026, with findings in Annals of Neurology - Yahoo Finance",
+   "summary": "BioVie showcases Long COVID and Parkinson’s data at ANA2026, with findings in Annals of Neurology Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFVnbXNvV0FvUGFOQ1I1ekxYVWh3TW1VaUJSdmlyU2YxR25zZ0JfWXFDaDJtVWFEVTB1eFhiSkZQdW8wZnlWcENxSzZiYW5ySkp4WFZ1ZHJ2aVgxencxSW5HaDVqRjJ5LU4yczFoZWhuLWVmMm8tM0Y5Y2xGQnVsOUNxMDJ1U2Y3Wmd3Ug?oc=5",
+   "published": "2026-10-19T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4976,17 +5130,6 @@
    "first_seen": null
   },
   {
-   "id": "2cf35cbec44fb95a",
-   "company": "Idorsia",
-   "title": "Media Release - Idorsia",
-   "summary": "Media release Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcVpuUkp5OVI1Mzkwdm9ZX3JoWTJZTDJrUjBBdk81NTdYaUdTNGFNeUJ6UDJLY0lkRzk1dExfMDY2QUJQZFpxRGg0WVE2S24zcWhyNTJiTHVYek1pY1QtYlJxeHpqNTB2VXRXTmVFSUg0RjRzaVdaX1NnUDVkUEZZX2pmQnpnM3ozN3BuRnpYTWNmRFlYY1JXRDBobXYxdw?oc=5",
-   "published": "2026-10-08T17:59:20Z",
-   "outlet": "Idorsia",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "235068fbd96c1c36",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Investor Presentation - Helus Pharma - Helus Pharma",
@@ -5013,7 +5156,7 @@
    "company": "Arvinas",
    "title": "Phase 1 Study of ARV-102, a PROTAC LRRK2 Degrader, in Parkinson’s Disease: Oculomotor and Biomarker Data - Arvinas",
    "summary": "Phase 1 Study of ARV-102, a PROTAC LRRK2 Degrader, in Parkinson’s Disease: Oculomotor and Biomarker Data Arvinas",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXBlSzZVWXEyQnZjTnFIYm9aSVRWeDM2bVA1eklvWTc0LVF3NWw1aWUxTWpaRVBsRG1zNmhlTW54YjdlRGEwQ0kzbWpKZEtWU1FIckRZUnBQdGZzQlZKdHF2QWZWVThIR1RtS2pQWmtUbHFUczNva2JoWjlhSnlLc1kxYTZMc3Z2Z1JCRFo2T2lGb1FoZ0xzNDhJWHZNOFNEQ21RZ21WRnkxU0J0eDNpOFJaX0tGa2hZ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU0lCandlaFI4dERmSkJOa3JvR3U1cnVFbDMtM0dDWXM5QVdzZG5lZEdHV0FwNmJBNks2X0x1ZVdWRklHRXh0T0JEdGpESXhNMmltbGFMdVhiSkxNclNseDhnQjJFMk42azVCbnFKNDAzdXBLdmtyYk1pWk9SY0dVd0VYSEI0TXI5Q2s5NGE0RTBFZlFtZm5WXzJsQTZQMF9JaENVR1RhTmxXaVRoX3JnaE5NcUMxZw?oc=5",
    "published": "2026-10-08T07:00:00Z",
    "outlet": "Arvinas",
    "method": "newsroom via Google News (site:)",
@@ -5779,6 +5922,17 @@
    "first_seen": null
   },
   {
+   "id": "08a3b0dd5f96480f",
+   "company": "Alkermes",
+   "title": "Anne Whitaker - Alkermes",
+   "summary": "Anne Whitaker Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3FubUlrelhTeEJqdzc3SU9iYzhfYjRrcmxORFR3dnJ4X3RyUFVyWWtOczY3bWxsM05tUlljX282c3R2aDBjUkp3Q1FZQk0zWFlLa1FCZ3B0YlV4cWM2V3VBYzdFcEo2ZEFhYjNzR3BwVTZEM2xRR28zeURNSHFzMURjUQ?oc=5",
+   "published": "2026-09-18T18:44:12Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "5ef5c1f9ffade3bb",
    "company": "Neuphoria Therapeutics",
    "title": "0001193125-26-395536 | 10-K - Neuphoria Therapeutics",
@@ -6377,7 +6531,7 @@
    "company": "Incannex Healthcare",
    "title": "Incannex Healthcare Provides Corporate Update on Clinical Progress, Intellectual Property and Capital Position - Incannex Healthcare",
    "summary": "Incannex Healthcare Provides Corporate Update on Clinical Progress, Intellectual Property and Capital Position Incannex Healthcare",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUF9PbUoyalctV0xFRjQ4SGpHSjBOcUlEVFVtSnN3dGR0UGctYlNoeWJmM1JSTE9JZ1g2bktFVWlyWW4tc3VLTTd5c0x1V3VSdm1kbVRiYlMtRUNabXhIQVV3alNxTWFwSXZ0emxxZUJhdkhMdll4by1yVGZnVTVuNlRrTm93M0h2S1NoeFN1cnVtb2JjVUc3eGtUQzZIbFJ0cmJwNlFTU2g2Vktxc2tvRXVZRWs4czI1WDZOSEFNWlM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DMlBhd0dRbVVTdWxMbUVPczd5RUhnUEJ1cDlyOG4zenFqTzlFVEFIRWhueXdmRWxQQ3Ewa3R3c24wMERHejRUVXAzNF9JQQ?oc=5",
    "published": "2026-09-09T07:00:00Z",
    "outlet": "Incannex Healthcare",
    "method": "newsroom via Google News (site:)",
@@ -8232,6 +8386,39 @@
    "first_seen": null
   },
   {
+   "id": "6f711534d5059cfc",
+   "company": "Alkermes",
+   "title": "Second Quarter 2026 Financial Results & Business Update - Alkermes",
+   "summary": "Second Quarter 2026 Financial Results & Business Update Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkdlcGJJVUcyaENlTTZ2Vk1QZkhMZk1TRDBTVzdDQk5EYkhjVVpyTHRZOW5Uai10RVBOMzJTZkROUE5hWS1zTThNZGNsdFpFTTZUSTB3T0w3eWJ5Q3FDZERjSGRuNDNtWFlDV1Q3dng4cWF6d3dOZ0J1Z1hXcWdtblhDTHFHQQ?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "a2f6b0e27ce4367d",
+   "company": "Alkermes",
+   "title": "Form 10-Q for Alkermes PLC filed 07/28/2026 - Alkermes",
+   "summary": "Form 10-Q for Alkermes PLC filed 07/28/2026 Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN2pqcWswZ1hWOU14MU5QcHV0MVBJTTdJTUhmTFUzRmlZSVJaVWUzek4zengxUVJJTFhZSEwzM1B1bkEtc0paRWdZZGNVaEZvdkxwVTlVZHlTNTB1Y040R1VlcG9OTndqVmcwbmVtQzNRSU5mN1BQWjUxZTlPWVJwVzRZZlhJQQ?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "f565e49312407e01",
+   "company": "Alkermes",
+   "title": "Alkermes to Report Second Quarter Financial Results on July 28, 2026 - Alkermes",
+   "summary": "Alkermes to Report Second Quarter Financial Results on July 28, 2026 Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlJCbEF6cUN2NkFhckdTc3ZETzdjT00yREFLbkcwRnRHa0lFdC12R0Y0MDRyX3lGSjBHUWxkYVFtVW9NRFBSbEE5QjdMZ2ZJR3cwYzlFd1huVDlwaHNVeTM0ekFncmo4M2N4ZS1vdlZicDFILVg1a2E2X00wcGJHUFdHT0pPbzFicXZSV19zUld4Vjl6REhrMEsyMDdPbGF5d1B6a1ZOZGlUblYwcUZnX0Eyb0drTVNTSWVqWGN2ZGJxbzZl?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "24d2e1ccc34fa405",
    "company": "Neumora Therapeutics",
    "title": "Neumora Therapeutics Reports Favorable NMRA-215 Toxicology Results with Planned Clinical Advancement in 2026 - Neumora",
@@ -9959,6 +10146,17 @@
    "first_seen": "2026-11-19T17:02:35Z"
   },
   {
+   "id": "5da6a9dac1265ffa",
+   "company": "Alkermes",
+   "title": "Alkermes to Showcase Leadership in Psychiatry and Orexin Biology With New Data at the American Society of Clinical Psychopharmacology Annual Meeting - Alkermes",
+   "summary": "Alkermes to Showcase Leadership in Psychiatry and Orexin Biology With New Data at the American Society of Clinical Psychopharmacology Annual Meeting Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkwtS3pQUlBCb0tRUVUxS29qVkVnRHFkMFdqYmpGOGR5QU51c2h3dE9DQ3hPLVo1ZkYwaURiVVUzSkJ1S1BCd3JJdDgxSTYtUko1UXd3TlhxcjZkd2tTSEZob0JoR0pwQnB6NWVBa19hbFJoeEdvbEZDUzlKVnYxUmx5ZTNwbjNBVGhCQngxc1l6Zm5hcHJXNlBheW5LbVY5SzVfejJTZjl2dmlkbmszT3ZVRmlOeUQ5ZTdSeVZTSlVud1lWVkE?oc=5",
+   "published": "2026-05-26T07:00:00Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "44559718203e2f65",
    "company": "Autobahn Therapeutics",
    "title": "Autobahn Therapeutics Announces U.S. FDA Fast Track Designation for Elunetirom, a CNS-Directed Thyroid Hormone Receptor Agonist, for the Adjunctive Treatment of Bipolar Depression",
@@ -10473,6 +10671,17 @@
    "published": "2026-05-12T07:00:00Z",
    "outlet": "The Australian",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8de03799d72a26e8",
+   "company": "Cerevance",
+   "title": "Cerevance - Cerevance",
+   "summary": "Cerevance Cerevance",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYWkybUV4b0I0NmxnX0w5VXNzODcteTdFUTRxYWJvcjNRQ3VUcnlYYTZNSUlNLXJHaVdNeFV1MWxuU0ZCenFlUkJjSHcyQlZWZ0RsejRpRW5GOWtrdS1WaG9rTms5UkNBZ2RHY3NmbThiVHNoWlc3SlJ5WHlHcW9HRTBnbk1EeXhmdkFKXzd1V3h0SVFnU2hNb1lOMW14SUZ6T05PUTB5bnp0TUp6ZkJEZ1RZNTFrRmVXb3FiVVhtYW83OWZrNmgyX0NjMXhSLXVrb3lpcEN5bmdLRWVBRmtOeUFTdWkyNVZrNGVoSUNaU1pqVE80M21sVW9BUWtwampCYXdwQlpNUHRXTzg?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "Cerevance",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -11037,17 +11246,6 @@
    "first_seen": null
   },
   {
-   "id": "6e7b0817fc6e4a7a",
-   "company": "Idorsia",
-   "title": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year - Idorsia",
-   "summary": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year Idorsia",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGJLc04zRVBscE1vN3dqNjZSSm1nNENReGJqd2dWRmRIZVZoVUNZU250NDlqSVJRcVI1bXZiM2FIRHAtZjh3cUExR0FLWm5SVktwVG5EeXFxbmFGc2k5YXpFYlI4WHdCWnhIcURvZDhZS19zeW0xWHoyYmV0b3ctQmhHbjBfZnM?oc=5",
-   "published": "2026-04-28T10:47:57Z",
-   "outlet": "Idorsia",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "14634fec0d0799dd",
    "company": "Annovis Bio",
    "title": "Annovis Publishes Phase 2/3 Alzheimer's Trial Results in Nature Portfolio - Annovis Bio",
@@ -11488,6 +11686,17 @@
    "first_seen": null
   },
   {
+   "id": "95a531d75f29bb94",
+   "company": "Alkermes",
+   "title": "Alkermes to Present Additional Data From Vibrance-1 Phase 2 Study of Alixorexton in Patients with Narcolepsy Type 1 at the American Academy of Neurology (AAN) 2026 Annual Meeting - Alkermes",
+   "summary": "Alkermes to Present Additional Data From Vibrance-1 Phase 2 Study of Alixorexton in Patients with Narcolepsy Type 1 at the American Academy of Neurology (AAN) 2026 Annual Meeting Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWhDM1ZhN2o2aGRXeXhpOGhTcDktdGF4azltZ0t6R2doNWh3LXppUVpZZFp2cmpmZWZmRk03RXROUkd0QWdWel83WlZyOF9Vb3NEb3cyZUlXQWMtVGk1X3FkQWgzM0ZRT2JQdzdQRk5iS05jYnVLdkVsUVhELXRuckRnZGl6REV6NElodkF6ZnZuc2VNOGVxZ1Z1N3ZtbEFQVFY1d1F4d3M3X3ZGT3BRX3Y0dWtySDd4RG1XUlhwWQ?oc=5",
+   "published": "2026-04-20T07:00:00Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "7f3bdc519b262117",
    "company": "Unixell",
    "title": "Chinese drug makers take on Western dominance in US$16 billion Parkinson’s race - South China Morning Post",
@@ -11796,6 +12005,17 @@
    "first_seen": null
   },
   {
+   "id": "4187e867bb791468",
+   "company": "Cerevance",
+   "title": "Cerevance: - Cerevance",
+   "summary": "Cerevance: Cerevance",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2FnU1h0LWVUbkJWZzdYZUczRTlhcHJXT2JtRmVMX2QwZTlieWxkRzU0YWI5S3JtZUNFZlVhWkQ1RkU2Z3NFRTdqdG5FVlJVQURyRkFadm5yZGJNS0wtV1B0eV9EZEVtSFNhQkdTemszQWRwUE92eC14aVlNN1ZNNEY2SHRvV1RlMXg0RXlrNlVJVTl3WlBKdlM2eFhNVmxRU2s2c3ptQVJuUXdrNEVMNTBZRQ?oc=5",
+   "published": "2026-04-08T07:00:00Z",
+   "outlet": "Cerevance",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "e866896eea24ed9f",
    "company": "Alzamend Neuro",
    "title": "Alzamend Neuro Reports Encouraging Pharmacodynamic Data from Phase II Clinical Trial of AL001 \"Lithium in Brain\" Study in a Trial Conducted at Massachusetts General Hospital",
@@ -12001,6 +12221,17 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1seExubnNMYjFzSF9BaGQ2allISkt2a3IyMGNhU2ZjRjdpTkdyclVLR1FMMGxaaXZOd2xWaUlteG9YZllOM2dnbUk1amw2QVA4TWlBN0IzNFREZWM?oc=5",
    "published": "2026-03-31T09:46:36Z",
    "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "6e7b0817fc6e4a7a",
+   "company": "Idorsia",
+   "title": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year - Idorsia",
+   "summary": "Idorsia reports strong Q1 2026 performance with 74% QUVIVIQ sales growth year-on-year Idorsia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXRfNmItZ0E1WmxKRGhxc0p4UlNYWmJUSGxsLXZPUTRKWHA2SUlxdjFUX0g5NEpHQnJKb2pfVkdyN3ZiTTZFRnZxM0JRVmh1emE2SjN1OFpKV01jdXFFUVNxZU1LNWdUYlRWaVFuSDFjRnVoMHpuak55VkxtcUQzSkZ1U3pHbFJpN21mWDlNZmhIMGJfVEQ5MnRxWFBSaklRYW9KeS1Pa0d4N2JHVnVuYmFzNUw?oc=5",
+   "published": "2026-03-31T07:00:00Z",
+   "outlet": "Idorsia",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13578,17 +13809,6 @@
    "first_seen": null
   },
   {
-   "id": "4187e867bb791468",
-   "company": "Cerevance",
-   "title": "Cerevance: - Cerevance",
-   "summary": "Cerevance: Cerevance",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalM5aS1GRnkyVkYzdnYzS0Mtc3BwVThrb196cEl3NUhwRUZxSVFhR1NmamNwVzJqdlY0Y1g5RmM1cUxrQ1NadHY3WS1RT3lhMzA5UXdLQ2UtN3IyblU2WWppcVN3Q0U1Z0xtVVBsYkEzRmxDV2VKOUh3bmEzcmpCdjBtbmhFWDR5OTVqTDJqUkNvMTZpVWVnaTdqa21LRkVJbFIwejBQSnJFY1E?oc=5",
-   "published": "2026-02-23T08:00:00Z",
-   "outlet": "Cerevance",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "e53dfd92da864d62",
    "company": "iRegene Therapeutics",
    "title": "iRegene Hits Dual Global Firsts: U.S. Patient Dosed in Phase IIa for NouvNeu001 in Parkinson’s and First Enrollment in China’s Randomized MSA Trial for NouvNeu004 - Fierce Biotech",
@@ -14047,6 +14267,17 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdGV2OHFVcmVqbXNNQXMtS0x6MkdtUWMtRTlzTmEzSGZEWFJkU0lPUVBBelRZR2NEVzM5dlhIU2VRZDNaczZjbkU2c0RTZWp3THdhcm1CSHB4RTdBRUdtU0RoYUR0YklLX2c2MElNLXJ1cm8zVW41ZVV4M285d0hWbjZSblVrckVqczJqVF94NnV4U1EwQjlzX1dqcDRaNVNlZTByZGxya3F1N2V6MVRRcWZRUE5kV2cyWWVlZ2d3?oc=5",
    "published": "2026-02-04T08:00:00Z",
    "outlet": "Neumora",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "d992cc0b9b0f84c6",
+   "company": "Lundbeck",
+   "title": "Record 2025 performance with revenue up 13% CER and adjusted EBITDA up 24% CER positions Lundbeck for continued growth in 2026 - Lundbeck",
+   "summary": "Record 2025 performance with revenue up 13% CER and adjusted EBITDA up 24% CER positions Lundbeck for continued growth in 2026 Lundbeck",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ3Z1TEdnbTVmWlpUMHVfMEItNGtVVGstckN2LWVmMXlYejRaYkZEWjFfZ1JmTHphZ2I3MUZmb2tFRkxNX0UtRTZQTHZIM0g5UkhyZG1Jd1RSaHEwZHVPaEF4cXhPTDJDUEV6eXZjc09RS3NDYlgzNm14MVFLZnNvS2lxTzU3bEo3SW1mR01tSGFSOG9RV0ctYUloOHJYUDFkdTllTGREUTE2Qm8wYnppb0gxOVk5Qm94SkYtcWZmNFUxcHlvNzFhem9pRjl1THNPNk1rUE0wOA?oc=5",
+   "published": "2026-02-04T08:00:00Z",
+   "outlet": "Lundbeck",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -15917,17 +16148,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUtYbnU2RzZZV0dhTTlaQjBtbEk1UU5Bd2d4QldxZ283VmF3WWpiRUpQbHk3TkFfVWt4VTlzNjJ4c3JCV2tWdzhlVk5nenJWQmtpMTNubE10eDBKUEF5S1laTjg3ekRDdURScEdhc2dnaUpMLW1BVURoRHJSbi1SclhuWV9wZWU3SWZRbmNmZXduWEl5QWM2TVFuSVdKRTBSNEI1b1J1bUlsVHNlWjMxN01fNFVMQXVLZ3RLRmpld1RWZnZ3QlR0SEtuOA?oc=5",
    "published": "2025-11-25T08:00:00Z",
    "outlet": "Xenon Pharmaceuticals Inc.",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "8de03799d72a26e8",
-   "company": "Cerevance",
-   "title": "Cerevance - Cerevance",
-   "summary": "Cerevance Cerevance",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS21BQmlzVTgtSXFpQVd3U1MzYlpLU29HM0Rub292dmlHQTluSWRYanREWDZLQmVaQkN1QmNBLVdteWNTNFc4Um92djduWHVmc1IyLW1LNF9IdmtQclNzQWtXaUwxTmdXTDJmVTI3aGNCWWUxZGFHZmE5elJVMGVvSDRadUoxSGU4eWEwa0pmSUR4eVdTdGpMa1lGTXRtUDNxb0p5UGVTbS1lazhhV19KRkw2UFcyRGhhakRMQi02VDdibWFFSjZFMEVpNUZ1TFVhR0s2UEdsR1MzRklnMGxHRHd3TEU?oc=5",
-   "published": "2025-11-24T08:00:00Z",
-   "outlet": "Cerevance",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
