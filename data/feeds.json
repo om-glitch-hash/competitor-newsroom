@@ -57,7 +57,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Ajnj.com+%28%22lenrispodun%22+OR+%22ITI-1284%22+OR+%22Caplyta%22+OR+%22lumateperone%22+OR+%22seltorexant%22+OR+%22aticaprant%22+OR+%22Parkinson%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22bipolar%22+OR+%22anxiety%22+OR+%22Intra-Cellular%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.jnj.com/media-center/press-releases\", null, null, [\"lenrispodun\", \"ITI-1284\", \"Caplyta\", \"lumateperone\", \"seltorexant\", \"aticaprant\", \"Parkinson\", \"depression\", \"schizophrenia\", \"bipolar\", \"anxiety\", \"Intra-Cellular\", \"psychiatry\", \"neuroscience\"]]",
-  "checked": "2026-11-19T17:31:37Z"
+  "checked": "2026-11-20T06:43:26Z"
  },
  "Biogen": {
   "feed": "https://news.google.com/rss/search?q=site%3Abiogen.com+%28%22BIIB122%22+OR+%22DNL151%22+OR+%22LRRK2%22+OR+%22Parkinson%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-20T05:41:48Z"
+  "checked": "2026-11-20T06:43:26Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -250,7 +250,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Aucb.com+%28%22Parkinson%22+OR+%22Neupro%22+OR+%22rotigotine%22+OR+%22UCB0022%22+OR+%22minzasolmin%22+OR+%22glovadalen%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.ucb.com/newsroom\", null, null, [\"Parkinson\", \"Neupro\", \"rotigotine\", \"UCB0022\", \"minzasolmin\", \"glovadalen\"]]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T06:43:26Z"
  },
  "Regeneron": {
   "feed": "https://news.google.com/rss/search?q=site%3Aregeneron.com+%28%22Parkinson%22+OR+%22synuclein%22+OR+%22LRRK2%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -461,7 +461,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Aneumoratx.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://ir.neumoratx.com/news-releases\", null, null, null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T06:43:26Z"
  },
  "Reunion Neuroscience": {
   "feed": "https://news.google.com/rss/search?q=site%3Areunionneuro.com&hl=en-US&gl=US&ceid=US:en",
@@ -479,7 +479,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Alterity+Therapeutics%22+OR+%22ATH434%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://alteritytherapeutics.com/\", null, \"\\\"Alterity Therapeutics\\\" OR \\\"ATH434\\\"\", null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T06:43:26Z"
  },
  "Neurocrine Biosciences": {
   "feed": "https://news.google.com/rss/search?q=site%3Aneurocrine.gcs-web.com&hl=en-US&gl=US&ceid=US:en",
@@ -497,7 +497,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Axenon-pharma.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://investor.xenon-pharma.com/news-releases\", null, null, null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T06:43:26Z"
  },
  "Vanda Pharmaceuticals": {
   "feed": "https://news.google.com/rss/search?q=site%3Avandapharmaceuticalsinc.gcs-web.com&hl=en-US&gl=US&ceid=US:en",
@@ -647,7 +647,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Aincannex.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.incannex.com/news/\", null, null, null]",
-  "checked": "2026-11-19T17:11:01Z"
+  "checked": "2026-11-20T06:43:26Z"
  },
  "Merz Therapeutics (Inbrija, ex-Acorda)": {
   "feed": "https://news.google.com/rss/search?q=site%3Amerztherapeutics.com+%28%22Inbrija%22+OR+%22Parkinson%22+OR+%22levodopa%22%29&hl=en-US&gl=US&ceid=US:en",
