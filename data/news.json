@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:58:34Z",
+ "updated": "2026-11-21T12:50:15Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2226,17 +2226,6 @@
    "first_seen": "2026-11-21T07:43:31Z"
   },
   {
-   "id": "c890dcbbf594177f",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma Inc (HELP) stock price, news, quote and history - Yahoo Finance UK",
-   "summary": "Helus Pharma Inc (HELP) stock price, news, quote and history Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XakJnSUZOaWFzVHJZNXhLakhFeWRHRF9CYm9YRHpKRHBFNFBkbk5NaTJQd0JPQkJMaGJOUWQ5RVlYNGdqR3pZcXhvVVBjbzJyMXc?oc=5",
-   "published": "2026-11-19T23:13:19Z",
-   "outlet": "Yahoo Finance UK",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "75af984ac2cec9c8",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences director Gary Lyons sells $2.47M in shares By Investing.com - Investing.com Canada",
@@ -2948,17 +2937,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWU9tWUVGQkQyUkJVVGF1S2JYcmFaVDhHNEM5R0U0WjZKVGFSQ1daRzZCRnpXQjVCSnNVdkpyTnlqdXN6Y2t1bjJ4TmprdmUwZTlkRjFFTkw5RTBZMXVLUlE1S3UxYjdEOXU5M2VGRUR2ZkZmQnRiWXNlMHN4TFgya0ZKUlpMdUZ4ckNtQ1JheHVXOXhSMllHakgweUZQai1FbTlV?oc=5",
    "published": "2026-11-19T05:14:00Z",
    "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
-   "id": "c5b5b705aa2f71cd",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
-   "published": "2026-11-19T04:26:45Z",
-   "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
   },
@@ -6054,6 +6032,17 @@
    "first_seen": null
   },
   {
+   "id": "1d3eeac31f0bbb07",
+   "company": "Protagenic Therapeutics",
+   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
+   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
+   "published": "2026-11-11T13:30:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fa7d12de4cdd1032",
    "company": "LB Pharmaceuticals",
    "title": "HC Wainwright Issues Pessimistic Forecast for LBRX Earnings - MarketBeat",
@@ -6172,17 +6161,6 @@
    "published": "2026-11-11T08:33:38Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "1d3eeac31f0bbb07",
-   "company": "Protagenic Therapeutics",
-   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
-   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
-   "published": "2026-11-11T08:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -6950,6 +6928,17 @@
    "title": "Cybin Expects Key Phase III Depression Trial Results This Quarter - Yahoo Finance",
    "summary": "Cybin Expects Key Phase III Depression Trial Results This Quarter Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTdkU2prZC1ESEc4ZWN2VGNyTTM3TW10cW9DM2NOTmNxQnVDeU92c0luZk9SNUY3b3dqcXd5Z0FkZ1Fta2k4LUJXRFJhUTl0VE56T3R3bld1dklRbXZLSzd5UktLazBNWlRRYUtwYjlnN0dBQVFaeTdKY0gtd3RxRjlQd1pyTVpMWjFmSjZUUWh0Zw?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "947aa6d413dd531c",
+   "company": "Filament Health",
+   "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Ships PEX010 to King's College London - Yahoo Finance",
+   "summary": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Ships PEX010 to King's College London Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNFllZHlsRGp2cm5MQ0ZfcVNFSFRtejlnblQ0bllmS3RxZHpoS0FJUDFMMnVENE81TXZLUTh1WklLWGpYUzQ1bElXX2ZuQ05PUUFmWXhLcWN5bmFmTkNwclBrVTRVTC1pcFl1Um9kVWgzYUVQLXNuN3NWaE95bUhyOWVoN05INFdlU2RNQ3VvT1dGXzhqNWhIYVFKYw?oc=5",
    "published": "2026-11-09T08:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -9625,6 +9614,17 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORzNoSFhJX1BQOUNDQ21DN0EtNWpUeDNZNVV1Zks4dWhIOHNQYm54YTVwUy1BYWdhaHZDNHlQYzh5WVh0akNDUEs2QV9DWnd2NzB1OGpSR1hqaHBkYlltcWQ3ZDNyWVBFazRHamVON0ZwY0QwTVFJRFJjSmQxOGdlSnZJMTFrcjF2YVZfN0NoWFhPVWNXdzJWR2NycUU2VzVUVkE?oc=5",
    "published": "2026-10-28T07:00:00Z",
    "outlet": "Pluang",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "090fa16ca5ddc231",
+   "company": "Filament Health",
+   "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Signs Agreement to Supply PEX010 to Linkoping University for PsiloSAD Trial in Social Anxiety Disorder - Yahoo Finance",
+   "summary": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Signs Agreement to Supply PEX010 to Linkoping University for PsiloSAD Trial in Social Anxiety Disorder Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZU5odFZENFVrcXVMSVQ3SDhkSVRkQ3dwcFlTSmJlUmVPSVZzSXVrNS10WHp3RGZpbVF2a0ZybVc0a1ZxSVhKd0haVkNUdGlVWG9laHhyQTdmcnU0ZHZiMnpIcXZadjBvNVY4UHhQNFNZNmRFMGE0T2dWczFJa1ZSOGRRNkduaG1jX2Nfb3ZFSjdGZkhhaS1xNFRrRQ?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -28494,6 +28494,17 @@
    "first_seen": null
   },
   {
+   "id": "49125f1ce90e1d5c",
+   "company": "AC Immune",
+   "title": "AC Immune Stock FY 2025 Results: Eyeing ACI-7104 Catalysts (NASDAQ:ACIU) - Seeking Alpha",
+   "summary": "AC Immune Stock FY 2025 Results: Eyeing ACI-7104 Catalysts (NASDAQ:ACIU) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1BUVVB6akZiMnV3UHRZSGF0UUlhT21nWFpqdFdlaVNyMHR4SFk4N0pua2s1eHljVG1Lc2pWMjdFd2U5enFFMUdXbFZJc0VNbTRZYUNXa09jOUdTUEpPZGI0MzcxZ0tUV0tzTWMwQlBJQmw5VFV4aDh0TWxxOVdVNkdFLXVlLWhpTW1OODM2bE0tY2M?oc=5",
+   "published": "2026-03-21T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bf80cef7e99eae3a",
    "company": "Biogen",
    "title": "Results from Real-World, Long-Term Treatment Persistence with LEQEMBI® (lecanemab-irmb) in the United States Presented at AD/PD™ 2026 - Biogen",
@@ -31750,6 +31761,17 @@
    "first_seen": null
   },
   {
+   "id": "c5b5b705aa2f71cd",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
+   "published": "2026-01-07T01:18:54Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "cd2b898a3d707409",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "symbol__ Stock Quote Price and Forecast - CNN",
@@ -32155,6 +32177,17 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": null
+  },
+  {
+   "id": "c890dcbbf594177f",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (HELP) stock price, news, quote and history - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (HELP) stock price, news, quote and history Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XakJnSUZOaWFzVHJZNXhLakhFeWRHRF9CYm9YRHpKRHBFNFBkbk5NaTJQd0JPQkJMaGJOUWQ5RVlYNGdqR3pZcXhvVVBjbzJyMXc?oc=5",
+   "published": "2026-01-05T00:41:52Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "339ed6c531e1bdf1",
