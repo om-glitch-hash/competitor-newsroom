@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:17:25Z",
+ "updated": "2026-11-21T17:14:31Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "d7876f94df3fc17d",
+   "company": "Annovis Bio",
+   "title": "Annovis Secures Buntanetap Patent Ahead of Alzheimer’s Trial Data - MyChesCo",
+   "summary": "Annovis Secures Buntanetap Patent Ahead of Alzheimer’s Trial Data MyChesCo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXpycnRpR25qZmZKa0JGb0dzQWdvOHZtMDVYZkdJU2FWWDd5bUlVblBSV1p6TktfNS1RQWJVUjVaQkFBdEZoUVBfVVRSU1A0eW5WVjVYOW9SbVBJdU41RDFzb1hhUTljYlVNVU10T2lZYnRRZnhsUUNnRzgtamljYVRFQTJPUFdCU3djbW1tV3locm9aNkI5ejlaQkZOV3NWR0xiTUwwQlBUUQ?oc=5",
+   "published": "2026-11-21T16:30:55Z",
+   "outlet": "MyChesCo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "2f5bc5943fa712fe",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson stock: Ollin deal and CAPLYTA filing shape week - ad-hoc-news.de",
@@ -1786,6 +1797,28 @@
    "first_seen": "2026-11-21T02:27:19Z"
   },
   {
+   "id": "57e459a87198cfde",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics, Inc. (19X.DE) cash flow - Yahoo Finance Australia",
+   "summary": "Axsome Therapeutics, Inc. (19X.DE) cash flow Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SZTZVQ0xtdHRjMF9Pa1VjVllCandTMGl1azJXUHhHeTgzN1pTRnAyNFM0Zk5FMzd5YWhpc1dDeExsNlpnV2V4SnhxMFJ0ZktjOEFLMVRncEJnd2dEQlQtNG1B?oc=5",
+   "published": "2026-11-20T20:03:41Z",
+   "outlet": "Yahoo Finance Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T17:14:31Z"
+  },
+  {
+   "id": "960164c9d5234107",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics, Inc. (19X.DE) cash flow - Yahoo Finance UK",
+   "summary": "Axsome Therapeutics, Inc. (19X.DE) cash flow Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52UjczWmJkc3ZKeGFxay1nWGR5c2pZQ1l4alFZdHc2dFlYSGJicjJZZFZXSnhjbHRKeTdDbm5yejR5aFVNQ1lVT0VTbEZMMnZBcDhiZmlrRGtiVjlqM3c5ZDV3?oc=5",
+   "published": "2026-11-20T19:25:58Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T17:14:31Z"
+  },
+  {
    "id": "ca3e33074f65c11c",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
@@ -1828,6 +1861,17 @@
    "outlet": "Yahoo Finance Singapore",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "d06c67aacb179915",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics, Inc. (19X.DE) stock price, news, quote and history - Yahoo Finance - Yahoo Finance Singapore",
+   "summary": "Axsome Therapeutics, Inc. (19X.DE) stock price, news, quote and history - Yahoo Finance Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4RWVzcXJvRWJYSHFFZ1RrYzdIUkhMbEROZ01hN2h5ZHZOcTgxZ3A0Q2VKMFEyR2thNDdWVVpEaE9tQW9EN2xLQTFqaEJuX19iRHFHeUZqWmxETXJ3alJPV1dVcw?oc=5",
+   "published": "2026-11-20T17:43:41Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T17:14:31Z"
   },
   {
    "id": "673b60d4fa3c8064",
@@ -2182,17 +2226,6 @@
    "first_seen": "2026-11-21T11:58:34Z"
   },
   {
-   "id": "d7876f94df3fc17d",
-   "company": "Annovis Bio",
-   "title": "Annovis Secures Buntanetap Patent Ahead of Alzheimer’s Trial Data - MyChesCo",
-   "summary": "Annovis Secures Buntanetap Patent Ahead of Alzheimer’s Trial Data MyChesCo",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXpycnRpR25qZmZKa0JGb0dzQWdvOHZtMDVYZkdJU2FWWDd5bUlVblBSV1p6TktfNS1RQWJVUjVaQkFBdEZoUVBfVVRSU1A0eW5WVjVYOW9SbVBJdU41RDFzb1hhUTljYlVNVU10T2lZYnRRZnhsUUNnRzgtamljYVRFQTJPUFdCU3djbW1tV3locm9aNkI5ejlaQkZOV3NWR0xiTUwwQlBUUQ?oc=5",
-   "published": "2026-11-20T05:02:36Z",
-   "outlet": "MyChesCo",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "b3ffd1c25f688be7",
    "company": "Novartis",
    "title": "Communication Specialist - Novartis",
@@ -2330,7 +2363,7 @@
    "title": "NRx Launches Ketamine Sales, Targets January Shipments - MyChesCo",
    "summary": "NRx Launches Ketamine Sales, Targets January Shipments MyChesCo",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd092RW1INVF0RTN3NE5QTklINWwzZXJkazBEbV9PWkNUMXhwbWxpd203NGNKNDk0ejJSUy1kc2R5eFBqQTRWOWF0elJGSUVFZ25EREJUOUxreHFoVFBsc1BHWHpxanFPTmlOeGJVcldqLUZkQmVET0FEeGY4a09DT1hXTUFiU2ZqTkgwZzBMekJTNjRiRmRwMWl2OA?oc=5",
-   "published": "2026-11-19T20:17:27Z",
+   "published": "2026-11-19T20:00:00Z",
    "outlet": "MyChesCo",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T07:43:31Z"
@@ -4525,6 +4558,17 @@
    "first_seen": null
   },
   {
+   "id": "9ea0f599f6883d53",
+   "company": "Zambon",
+   "title": "Parkinson's Disease Therapeutics Market Forecast to Reach - openPR.com",
+   "summary": "Parkinson's Disease Therapeutics Market Forecast to Reach openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOakFrbVhGenZlZUM3VFY4TzcwclNNUk91bHFCb0pkTUVBNm9RVGduT2hCbm5LSl8zX1paX3dIb3BjSU12MmF6V1V2RjBwMVUxQVhyZTNzYTZBTldqRExlaWtJRVpZVW5VYjUweEN6MnVELWRWN3BkMGIyMU56QUhGTDRLaVZVTjZGMFFnV3JiNFpYLVg0TWZSUQ?oc=5",
+   "published": "2026-11-16T16:51:34Z",
+   "outlet": "openPR.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e5908de0d510cb1c",
    "company": "Newronika",
    "title": "Adaptive DBS for Parkinson's | Clinical Evidence - Newronika",
@@ -4620,6 +4664,17 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemVmMHZmTEN0WmpoZDJyN2huS2lvWFp4cWpnWmJUM1pjM0ljb0gwUC1hdndQREZqbmE2M1g3a0dWVVRuOE9xbFpJUjZMQzIzZ1JpbG81VkdiVmNaby1JV0Mwc3V0NW5Ba3ZCaVFHX3RSS0xlZGM1OXRtbDlIa21RS2t6ak54cjRhUndwU1lheFQtMUlCbG03eDc0clF4NDRyZ2Fka0JCdmFCS3JtbmZ6SFRsdw?oc=5",
    "published": "2026-11-16T15:34:21Z",
    "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "171a04d856dea8bc",
+   "company": "MapLight Therapeutics",
+   "title": "T. Rowe Price Reports 1.7% Stake in MapLight Therapeutics - kalkine.com",
+   "summary": "T. Rowe Price Reports 1.7% Stake in MapLight Therapeutics kalkine.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFhJYWF1VzQ1RXIyQWczXzFxYWtDTVlNT0ZROHJaaGx3Xy1Od3NYMjZEZnlLTzd0MktfcmVTcThYNlNvSjRsMGdReTd0MWtBdVIzdElJb0x1bjVudm1lTllGbHFFNERMd3B4X3R6MnBGdFFRb19NU1ZEcjUwUHFoNVF0STZWa1dwT2FfZVQybndkM0NjWXVRMg?oc=5",
+   "published": "2026-11-16T15:27:38Z",
+   "outlet": "kalkine.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5658,6 +5713,17 @@
    "first_seen": null
   },
   {
+   "id": "454f3eabc798f0f0",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics vs. Moderna: Which Biotech Innovator Stock Is a Better Buy for 2027? - The Motley Fool",
+   "summary": "Axsome Therapeutics vs. Moderna: Which Biotech Innovator Stock Is a Better Buy for 2027? The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdV9WU1Q5ZDVpNXdZdVBRMUMzMU5FNGhrT2Y4b3JsT01UMWlubUQxY05kcnE5S1ZtNDdXNXVxT01ITVAyY1d1UkIyWFk0bEJUZzdDZi1GMld6SlJwd3g0QW9WT0VNd0psc0Zsbzc4MVpTYi1SMkI4a294UE15cWM4cjdGRGZqWTlRREhINnpQQWh1YjdtUFVMdy1LWmcyQ2ZLN1RDLWVrTWtTUVJNRHQ3OUVud2xQalRnWERMdlRGdW9lM25jZ2dxTDJEU0h3N0lteXM2Vg?oc=5",
+   "published": "2026-11-14T16:12:02Z",
+   "outlet": "The Motley Fool",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d62d5236545b54e2",
    "company": "Eli Lilly",
    "title": "Alcohol Use Disorder Education for HCPs | Lilly - Eli Lilly",
@@ -6395,17 +6461,6 @@
    "first_seen": null
   },
   {
-   "id": "1d3eeac31f0bbb07",
-   "company": "Protagenic Therapeutics",
-   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
-   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
-   "published": "2026-11-11T13:30:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "fa7d12de4cdd1032",
    "company": "LB Pharmaceuticals",
    "title": "HC Wainwright Issues Pessimistic Forecast for LBRX Earnings - MarketBeat",
@@ -6535,6 +6590,17 @@
    "published": "2026-11-11T08:33:38Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1d3eeac31f0bbb07",
+   "company": "Protagenic Therapeutics",
+   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
+   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -7352,6 +7418,17 @@
    "first_seen": null
   },
   {
+   "id": "9185c7445f04a59e",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Tops $1 Billion Revenue Run Rate as AUVELITY Sales Surge - TradingView",
+   "summary": "Axsome Therapeutics Tops $1 Billion Revenue Run Rate as AUVELITY Sales Surge TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVV83MzZVSUQ2czh1cjcyOXpuVlhTeDJsczR4TGhyZGl1NmhCU3BaZ1NieFNacG5fMzFlVFVKN0lIY2ZSMmFZMHhOc1N2c2FFemRwcEduY21NclVNQklCOVBQRzN1UlNYNUh0dmZZdzk3MUlOa1FnMl80N2NCdkNiLUFwcDdnX0FqWXVlRHNuWFptUTNlay1NYVR5QkZwZHVsQmdQenppVFhvOTVUUjVjaHl6aGp0bkN0WDVRQjRQZEhWRkNwRUtHYWlPLWpBazk3aHc?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "55cd85fecf4a55ac",
    "company": "S.Biomedics",
    "title": "S-Biomedics, which is developing a Parkinson's disease cell therapy drug \"TED-A9\" derived from embry.. - 매일경제",
@@ -7957,6 +8034,17 @@
    "first_seen": null
   },
   {
+   "id": "278aa29a749d8f8a",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics vs. BioNTech: Which Healthcare Stock Is a Better Buy for 2027? - Yahoo Finance",
+   "summary": "Axsome Therapeutics vs. BioNTech: Which Healthcare Stock Is a Better Buy for 2027? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDhfOHV6QldXMnpla3lnRVE3Qy1rWi1LY2tzdXh3OWFwTDgzU0h3aWl2ckNqZEpfNWsyVzl2TlBqWU16bmZhY0F5MUtzTVNONjNFOHdBbUFYSUZ6TzFCQ2tzb0YzWWRkVEQxZlB5dUwxUlNzOVBla29vdk8zR3A1SjFJSU9PTEVWV0RsZVk0US04elZKVU03aXFnbHptaEh3ano5RHNn?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d0792618de97c372",
    "company": "AC Immune",
    "title": "How Did AC Immune(NASDAQ:ACIU) Progress Its Parkinson's Disease Pipeline in Q3 2026? - Kalkine",
@@ -8371,6 +8459,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVRDTm8zOU10UE9KNnFkd3h0Ym92QWZ4cTdRZS1PaVFNTERmeWRTSG56MzBhUlhudUN0RWhHTXpjN3UxTHllZEpSU0dudXZwVi1OWVNUUG5IMFhJdmZYWU1VYVpYRDhiRDRZSV9uLUZEMjdaaHREYVBsT0t1MVJqdlpudHdDWW8tV3UtX0RwdGJtcEFtdUZsVDBYYklfWk5MbHg5ZFFheXdlcEJLbGJ3b1VHZ1lhckdBaDdYTEhWMjhEeGpq?oc=5",
    "published": "2026-11-03T17:51:00Z",
    "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9c165403a67a3a4c",
+   "company": "Arvinas",
+   "title": "Arvinas Q3FY26 Results: Cash at $558.9M, non-GAAP expenses down 25% - scanx.trade",
+   "summary": "Arvinas Q3FY26 Results: Cash at $558.9M, non-GAAP expenses down 25% scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ204eWRoODdOUURPYTljZ05EQ3hLQkVCX3NBemQ0N05wOFJOdVMteFdScFcwTGo2dW14d0R2VnBsS1VYZE9TVS1lbkVram5UcVZLaWlQc2lFVHJGc0dSZW9KSVowamR0elR6dHFET29xTW96NHdHS1E5cUNXdWx3Q0ZWVGJDdmMtam4wYnM0dnJfQ0lvMFpTNmU1dnBxbi02YTYxX3p0VFpPWTB6RHdxN3ZtY0J5QnJ0?oc=5",
+   "published": "2026-11-03T17:13:30Z",
+   "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11829,6 +11928,17 @@
    "first_seen": null
   },
   {
+   "id": "469f892fa9d1473e",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda says anxiety drug failed main goal of late-stage study, puts program on hold - Reuters",
+   "summary": "Vanda says anxiety drug failed main goal of late-stage study, puts program on hold Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNmpaeTk5S3ljV01MRnFjX1pyX241RXJ6NmNSYnl0eTJ0ZVFXUEFIdXJfNDZaLVhBcUNKejR3azNGSEdEX1dkQXNPNW5YdWJmb0JOX2ZWX2RfbHoycmRGMlhoa1FuZVhxZnRhVlQxMkJpa2E3WkdPQkwtaGpwZTFQVXh4WVVwZ2tjWnNzTnJKNmdyUGlJQ1hhM2xvZ2FFOG9ZRHdLcDduUklkNEhYQ2VteWJpOG81bWo3MnJzbXo1YzA5V09XT0tHTDc1VGVjVFowZk4zM2FaNUdwTnNwYVpZcQ?oc=5",
+   "published": "2026-10-14T07:00:00Z",
+   "outlet": "Reuters",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7bb3beedf9d876a7",
    "company": "Seaport Therapeutics",
    "title": "Population Pharmacokinetic Modeling of Oral GlyphAllo in Healthy Volunteers Strengthens Evidence for Lymphatic Absorption of Glyph Prodrugs",
@@ -12962,6 +13072,17 @@
    "first_seen": null
   },
   {
+   "id": "f521d8765ac8ca39",
+   "company": "Zambon",
+   "title": "Parkinson's Disease Market Poised for Expansion During the Forecast Period (2026-2036) Amid JUVMO Approval and Emerging Therapeutic Innovations | DelveInsight - Yahoo Finance",
+   "summary": "Parkinson's Disease Market Poised for Expansion During the Forecast Period (2026-2036) Amid JUVMO Approval and Emerging Therapeutic Innovations | DelveInsight Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT3NER0NtRUxtaVZKWXdaX0xxbVVmWEMtbURIR0JEUWx6dlc4Mm8zQ1ExRDYzanpobzhsY3dfcU1OYUxlV2k5LW9RTjdSQmZleFdBc3hVazdCWXRmMkZzdGhWMlNoQTU4MEpabHowTlM1dkRoWGlJb1VvUDBzZlhNNzZ0UzY3N2R0aUlkNTVsTWFiNFpTemhyZ1ZCNjZBakxkUnhla2Nn?oc=5",
+   "published": "2026-10-06T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "434f08b20ee7ea8a",
    "company": "iRegene Therapeutics",
    "title": "iRegene Therapeutics’s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa - Endpoints News",
@@ -14069,6 +14190,17 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGcwSGFwRGNMUE9NNE5aWnBsSnhENXdIaHNqRDJvMVBYT3FnbmRhNGs1RmpERmxoQkNaV0R2eVZVRHpKZExmMnZxblNQN0t1ZnlvbF9mSXNHcTV1ZF9DaVo5djdaUGo2S1VNVGtseWVzbWpEemhsSWRRVHBSUElPdW9oeWdVNFp2S3dvVGd0YTBRZnF2eXFRSDhha3MtZXpTcVczMGRLdl96SlpYVGt2azRR?oc=5",
    "published": "2026-09-24T07:00:00Z",
    "outlet": "Healthcare Brew",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "108797ea420455dc",
+   "company": "Supernus",
+   "title": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN - Business Wire",
+   "summary": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcW9ac3pKOXNTVWk0WW1aRTJTTzdRY1V2MmI3c2tRMjN3MzlCRHpUUXhxR3BYZU1WRnNscW5wTHEycUJZbU1mVVhfMXBBR3ZCREczYlBHUXJVZXV4MFBUOXNxVkhYSm1BOWtJMXZoTTlQbGpVXzUyWXQ3dkpOeTFjNVZKXzItbFZsQk1rNmdOTnVNUm5oRTE4YVZpdEF1MFBpQ2NhbmZMZFJOVnpqUFVFRUZuRi0yYUlibDFmazhXc2xDRjVNUTBjUEh5OVJUbXk3dDhpdVNrVUlYaHE5UlBKRk1qSndxOFpCWTl1cDVycXY0cWh3c1FvSVg5Q2FKSkNWemlvR2pyWUxKX21wbXRaQmY5Zlpfdm1pcmR1SXpYbEhXQVZXX1kzMXpxVGdqZmdoVkV6TlB5dGRZWmZ0?oc=5",
+   "published": "2026-09-24T07:00:00Z",
+   "outlet": "Business Wire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16328,6 +16460,17 @@
    "first_seen": null
   },
   {
+   "id": "7b7802be58c8cdf8",
+   "company": "Zambon",
+   "title": "New Parkinson’s treatment approved in EU - NR Times",
+   "summary": "New Parkinson’s treatment approved in EU NR Times",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VX2lqajZhMnRKT3Z6NnBSNDJzZ1BlN2VDdVlMeWVOLWlXN081RVp6cjVobmRJM3o0am9rcWQxM0dlRkNqTUVIVkRxU3dTOFY4X0trTTJqd0lMbFUzeUMwWnNkYk94SU5IX2c4UnQ1U1MwS2tDcHNkNQ?oc=5",
+   "published": "2026-09-04T07:00:00Z",
+   "outlet": "NR Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b94950369888bf35",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "2026 Cantor Global Healthcare Conference - Helus Pharma",
@@ -16581,6 +16724,17 @@
    "first_seen": null
   },
   {
+   "id": "305ad0e07287600a",
+   "company": "Zambon",
+   "title": "EU Approves Modified-Release Carbidopa/Levodopa Capsules for Parkinson Disease Motor Fluctuations - NeurologyLive",
+   "summary": "EU Approves Modified-Release Carbidopa/Levodopa Capsules for Parkinson Disease Motor Fluctuations NeurologyLive",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWYzNmEyZHdOR2ZqdkxJNGNwdFhSUGxPWmJVSDJKcG1mTTVXUlZGdC0wVlVQNllXWnVYX0ZoZTBHYS1sNDBvTE1MdXdRQlRfVGRRTnU2RXNsQm1lM0ljWjRRWUM0V2huWFlrYVBkVHkwVGYzc0haNHJHSXR2amlESTZUOE81LVlpNTZURk9GeU43ZkdnOUVfRWtxZTJFU2JnVjJOb1pwTnNjVnBEb2NtN3JsMkozVE1GbXM0Mjh3?oc=5",
+   "published": "2026-09-02T07:00:00Z",
+   "outlet": "NeurologyLive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "855a2bd7183c8974",
    "company": "Luye Pharma",
    "title": "Luye Pharma Announces 2026 Interim Results - 绿叶制药集团",
@@ -16599,6 +16753,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnhJSzI1aGRfbGNWM2tNWm9IVHlIOWpGaWlTTm9waTV5ZmkxN1E0REprTGlwVDJkT0ZfSmEyelBiSmFBX0Q3SXJ6ZkNPNHo1NEt2VTgzYTF5WW9HVTBXMUVmdXh0OUIzQlN6MmhlMHFmYVJDVEdGTmViZW9kd1Rsc21icVo0SUZIV3pQRE91UTBmdTVOcGh6Z1VWU2oxcFMwa3M2LUVoOHQwQQ?oc=5",
    "published": "2026-09-01T07:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b00d7c1d2c2a709f",
+   "company": "Zambon",
+   "title": "Approved Parkinson’s treatment wins OK in EU, to be sold as Hopledo - Parkinson's News Today",
+   "summary": "Approved Parkinson’s treatment wins OK in EU, to be sold as Hopledo Parkinson's News Today",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWV9DTERuampGejhmMHN3OXp6YXFQNU1kUU9makI3bFBNRUJVelZEZnQ2NDJndWtlTl9GNEI5bjVtZm9xV1BQVHozaVVFVmtLQnZDSF9VRXItRDNSVUJZN2djQkpseVJ5aTFHdEpyVnNpZVhxTU5SQUJCMjR4VXRhdVNmYVdBdzY3cTdkczROSEhGS3AtX0tlLVF3?oc=5",
+   "published": "2026-09-01T07:00:00Z",
+   "outlet": "Parkinson's News Today",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -18814,6 +18979,17 @@
    "first_seen": null
   },
   {
+   "id": "61db3548ad587bc5",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics shares gain 2% as strong sales growth offsets Q2 miss - Yahoo Finance",
+   "summary": "Axsome Therapeutics shares gain 2% as strong sales growth offsets Q2 miss Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcDZucnAxdVc3RnVfWUx2MVpWSlVUdGFhRkZRa1dKX2lyN21nTWRCSWgtOGcwZGQtb1dZeDdCTWF4WllSQ0xMcW4xVi1fVW9DaWVsZXhxYURXNTFhY2lrNlV4OTdLaklHb0pra2ZJYk5pY3I3Q0xJMlBwa2RaOUR2TXZTaF9LN3BhMVA0Z182Rkppa0ZJR3JOeHBB?oc=5",
+   "published": "2026-08-10T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "66cb3c9f051ab9dc",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics to Participate at Cantor Fitzgerald Global Healthcare Conference 2023 - Gain Therapeutics",
@@ -18832,17 +19008,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84ZUxvNGVtZy1uWjVPbkVwRi1GMDlRc21pRm1kOFlTSEdFbmRZM1JsbUZILTJ0c0FuUi1TS194Y182c2tacjR6QXVTTFVLR3YzU3BVTmxVdEw5MWpy?oc=5",
    "published": "2026-08-08T07:00:00Z",
    "outlet": "YouTube",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "108797ea420455dc",
-   "company": "Supernus",
-   "title": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN - Business Wire",
-   "summary": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSTNlQjVteHFrYnVOSU9NelRBRVpxazVvZjNPYTllVlItZnI2YmVJZVI4ZUhZX3ZzWVk5NzktNGlzQU00d21ZaUlFXzlDcWlINzJmQUpXQll1TzZ2d0tUcnRGdzhNajZJb0lnR2RwRTQ2WkhuZ05CWGdqV0o4eFV1VlA0eHJad2NLOHN6RzZIeGxzLTg0TXVES0RGc3dNZTkzcENHc0M0SmFDOUlGS1J5SWxaV0p0a1NKN2JRbDM4Y29NYVZIYV93Y1R6aEk1S041Z3gwR3hVbHc2eXpFc1E4d3hTTl9tMHFTMzFCUzNDcjl1TGY2VXVNSC14NmdVVFdMcm4zLWZJRXc1WHNGS0Y2QzBXM2NIeVVVcFRQVEhEd3VKcS0yOW0tZVV4YTVIUExuVU1jM2tvSi1heGtO?oc=5",
-   "published": "2026-08-07T07:00:00Z",
-   "outlet": "Business Wire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20482,6 +20647,17 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHhIei1Mb09STld2RlRiQUo5eWRnOXhPS05jM1BrVVV6ekp0RlAyRGpvc2xxcXJaME51S3FhdTdWblJCUE5BRGNmcFJNdVNpdWVaRXlGX2s3bnE0bXFZSTN3SU5VX05ja2hPT3plUnZJQXdYdDlDN3l0Nk5mNlNEN2NteVVjMjRHRHdJdGtXMA?oc=5",
    "published": "2026-07-24T07:00:00Z",
    "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b94a69d1a4cc7b79",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics (AXSM) Stock is Attractive on the Back of its Key Drug - Yahoo Finance",
+   "summary": "Axsome Therapeutics (AXSM) Stock is Attractive on the Back of its Key Drug Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjFNaTdqUTMwbk5nZzlrMHBKbkRNU3kyQWlTUk9FbVAwcGlUYy05QlFvbWFPUmMyeHBaRkowMVZMLTlib3N5WFQ1QVVwZnhqcXRfS1JHWFdraEVqNHVWd1BBZFo3VjczUGNuYUlPWkRCaGJ0ZVNENFlyWTF4OFlhTE1VTWZzcWpQUjNsOUR2bFY5NzAwdFM5cUtwcXNTRmpnbjRFYw?oc=5",
+   "published": "2026-07-24T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22598,6 +22774,17 @@
    "first_seen": null
   },
   {
+   "id": "769e59300d5dbd67",
+   "company": "Zambon",
+   "title": "Approval of Parkinson’s therapy urged in Europe under brand name Hopledo - Parkinson's News Today",
+   "summary": "Approval of Parkinson’s therapy urged in Europe under brand name Hopledo Parkinson's News Today",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWV2a0dUbFExWjZlbTY3VnpSZWJ6NFEwTndUU0dwX3VCbFpKSWYyOVlRZm5uUGc2QmdQOFhqYndlMjlrZkFlcVViM19lQ3FLckFUV00tZm12SWM5bHpmQk9HWEtCV3BiTkU3OXVIRlJMVGNwVkwyMzR4Vk1tMGtzYkFXQ2ljV01odkdCOWI3eER3R3QzaVpMNXdrbVV5cktzaXAxRzJ5cjE?oc=5",
+   "published": "2026-07-01T07:00:00Z",
+   "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a8eabcdb0ec84646",
    "company": "Insightec",
    "title": "Lancet Neurology study confirms staged bilateral focused ultrasound delivers substantial, durable relief for Parkinson’s disease - Insightec",
@@ -22840,6 +23027,17 @@
    "first_seen": null
   },
   {
+   "id": "a970b60167f22b14",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Overview - WTA Tennis",
+   "summary": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Overview WTA Tennis",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RenlJa0pNc3VOZkRGY1Y5RjJmemZhOGpGTzQ4WHdiM0xpeHhyMG9yc1NLcWZ5ZlBqdFBjaHdkMkxrNDNicGx3YnMzb3dlRm5ucVJ5RjJPZ2tzVi16akgxbkpmeXJqeXBzUmhQVQ?oc=5",
+   "published": "2026-06-28T08:32:02Z",
+   "outlet": "WTA Tennis",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "58ec0b705353c492",
    "company": "Newronika",
    "title": "Senior Clinical Scientist, Adaptive Deep Brain Stimulation (aDBS) - Newronika",
@@ -23001,6 +23199,17 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSE1wVTc1bXNPTTlZdFZLbURXdWJTMDYyTVlRNG5ydXpnR0htX0trRDJMLWRJVFpmSEw5X2tEVlEwNGNjRS1TcER2QWgyZ1ZwVEFnTTJ1TVQtODB1T1ZFNXFQcjRFUG5IZTNFRWlLUGd1Q2M5c2IzX2Z6RTR6YUVxRzNUc1RMa0s3QVplRzdxeVpEdUZfZlMteDhHVGFPTm5remc?oc=5",
    "published": "2026-06-26T07:00:00Z",
    "outlet": "Share Talk",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "af5a1852317c54aa",
+   "company": "Zambon",
+   "title": "EU regulators recommend revoking the marketing authorization for Amgen’s Tavneos - Endpoints News",
+   "summary": "EU regulators recommend revoking the marketing authorization for Amgen’s Tavneos Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWW11a3phWTJJT2NoQlVqRTh0b1hXd1N6eFI2WHYtSmdSLXpZSUc2TTU1UDdXbmdYR2NHa01acDB5WXBMd2FYWU50cTI1OXhxUUw3d2RfamVCMzVieWVXLWNZV2lxQ182WGp5VldXSkJkQWRHbldVeE9ycDR5Zy00SHNaZlF2b1kyYkVOaGtfWFRIQlp6YWxLeVpBVlRDaVJ2RTdaT2ln?oc=5",
+   "published": "2026-06-26T07:00:00Z",
+   "outlet": "Endpoints News",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -24745,6 +24954,17 @@
   {
    "id": "8b508e24198433e7",
    "company": "Newron Pharmaceuticals",
+   "title": "Regional Court Munich issues ex parte PIs on SPC for parkinson drug Xadago - JUVE Patent",
+   "summary": "Regional Court Munich issues ex parte PIs on SPC for parkinson drug Xadago JUVE Patent",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd081OWZuN0U5aEx0LUNvbzJrN1FVcHQwdURBazVkTHpjRTVOaWVkeS04OUtJejZrbm10LXlFdmJLaWloM1FVSmFwVjJTMjVIcUxLRXZDT2EwWmlYREpwUDNJb25jZGY3MHRkOTBqRXl2QWd0bTc3OS1RMTMyQy1GX2drbDNUT3dhdGdUekNvb0lUZkRlT3o4X2FXWThmeEhsSUp0eGRGdmlqMDlOR2c?oc=5",
+   "published": "2026-05-29T07:00:00Z",
+   "outlet": "JUVE Patent",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "064c65f288b737e1",
+   "company": "Zambon",
    "title": "Regional Court Munich issues ex parte PIs on SPC for parkinson drug Xadago - JUVE Patent",
    "summary": "Regional Court Munich issues ex parte PIs on SPC for parkinson drug Xadago JUVE Patent",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd081OWZuN0U5aEx0LUNvbzJrN1FVcHQwdURBazVkTHpjRTVOaWVkeS04OUtJejZrbm10LXlFdmJLaWloM1FVSmFwVjJTMjVIcUxLRXZDT2EwWmlYREpwUDNJb25jZGY3MHRkOTBqRXl2QWd0bTc3OS1RMTMyQy1GX2drbDNUT3dhdGdUekNvb0lUZkRlT3o4X2FXWThmeEhsSUp0eGRGdmlqMDlOR2c?oc=5",
@@ -28120,6 +28340,17 @@
    "first_seen": null
   },
   {
+   "id": "aa3b476fb624d1d1",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics (MPLT): The Best Healthcare Stock Insiders Are Buying - Yahoo Finance",
+   "summary": "MapLight Therapeutics (MPLT): The Best Healthcare Stock Insiders Are Buying Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzVsdGFwX0k5djI3M1I2ZmF2OGVWdkU1MzNRNlM3LW9kUnh6Q004eDFONk1NQzFSVEgyM2kzYThqLWxxcDJSZ1JCcENuWlc0dk03WHFlbWR2V1AxZ1FPVnV5M3NBYU9GTDBPcVB2NzlHeW40UkxYUE5tUVMya3pMM1drZW4wRS1sSlZjNU9qY1VsaWR4MThRU002ZjV4X3djMG9wcnB1dUhFVk1BOWpWcw?oc=5",
+   "published": "2026-04-12T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3407003707688914",
    "company": "Stada",
    "title": "World Parkinson's Day 2026 - STADA",
@@ -29596,6 +29827,17 @@
   {
    "id": "2c2a336608b8aecc",
    "company": "UCB",
+   "title": "Exercise: A Disease-Modifying Therapy for Parkinson’s Disease - Medscape",
+   "summary": "Exercise: A Disease-Modifying Therapy for Parkinson’s Disease Medscape",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWJFZkdrX2FnZlBvTEJuLUY3aWoxMWFKeHF2U1E1NlRYNGdFZkVqZGVHSW9RYXpIZUZBZlhtbGNoRTdlWjU1b1NXMi1yQVZiRFgzS3dFc0N3Wk1UMFVkb0pKeDlEalkxNTU1X3ozcEVOVUo5SGc4VzJpUS14Yy01ODgyUExxaEdIeHNWOWVxWHAwRkZkQTdmdmVybXhKOXBmTkowbXN3?oc=5",
+   "published": "2026-03-23T07:00:00Z",
+   "outlet": "Medscape",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d2c87d4ff73aa79c",
+   "company": "Zambon",
    "title": "Exercise: A Disease-Modifying Therapy for Parkinson’s Disease - Medscape",
    "summary": "Exercise: A Disease-Modifying Therapy for Parkinson’s Disease Medscape",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWJFZkdrX2FnZlBvTEJuLUY3aWoxMWFKeHF2U1E1NlRYNGdFZkVqZGVHSW9RYXpIZUZBZlhtbGNoRTdlWjU1b1NXMi1yQVZiRFgzS3dFc0N3Wk1UMFVkb0pKeDlEalkxNTU1X3ozcEVOVUo5SGc4VzJpUS14Yy01ODgyUExxaEdIeHNWOWVxWHAwRkZkQTdmdmVybXhKOXBmTkowbXN3?oc=5",
@@ -31200,6 +31442,17 @@
    "first_seen": null
   },
   {
+   "id": "e6ae48c2d027b06c",
+   "company": "Zambon",
+   "title": "Approach Parkinson’s Like An Olympic Athlete - Medscape",
+   "summary": "Approach Parkinson’s Like An Olympic Athlete Medscape",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGNaNW0tX1pNS2xSZVhoZlo2NnlueURmeTZSQjBha2RJMjR2X3VmTC1VbDZjdWxwSG1UeEl2OTVtaE5fZHZmRTBOU2F4WG5hcDBuSEV6SzMzU0xuWEUwaGd6SExKMVplVnRFdXc0RE5ncjUyZzZwRUJHZWdid1F4UmFaX0hlSm85LWtsOE1R?oc=5",
+   "published": "2026-02-18T08:00:00Z",
+   "outlet": "Medscape",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bded2ddac47822ee",
    "company": "Eli Lilly",
    "title": "A Study of Brenipatide in Adult Participants With Schizophrenia (RENEW-Scz-1) - Lilly Trials",
@@ -31651,17 +31904,6 @@
    "first_seen": null
   },
   {
-   "id": "8acffb6926006ce2",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia - Yahoo Finance",
-   "summary": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQktVWlV3Q0NLWTBOaFF6Y3JNT3VvbDlXbFFKckFfaE4yS2Z6ZzloRUVNNF9Fa3NYNmo0eUtvenJ2TGtSY19LUGtvT3B6VE1aRWgzWlpMOVB0cWdyYUxDTGtZTzlPbUlMYzMtUVg5cTVyM0dmWXZBR21tRHFqNDF6eDZLTTNqMXVEMk5hWEltZ2dicTJFbERXZW5jQzU?oc=5",
-   "published": "2026-02-04T08:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "b07b63ba769b5dc4",
    "company": "AC Immune",
    "title": "AC IMMUNE SA (ACIU) Stock Price: Nov 18 Close $2.10 - Gotrade",
@@ -31669,6 +31911,17 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uSmpFN1p5M294SXduSkhKbzZ5VnpqWThxbkdhWWNHT1dPNVpfZE9DcWotVlh2dVBpVDdDNW83OXJxQ0hsdlRxVTFtaGNDUWRSa1FIbE1paw?oc=5",
    "published": "2026-02-03T18:17:06Z",
    "outlet": "Gotrade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8acffb6926006ce2",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia - Yahoo Finance",
+   "summary": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQktVWlV3Q0NLWTBOaFF6Y3JNT3VvbDlXbFFKckFfaE4yS2Z6ZzloRUVNNF9Fa3NYNmo0eUtvenJ2TGtSY19LUGtvT3B6VE1aRWgzWlpMOVB0cWdyYUxDTGtZTzlPbUlMYzMtUVg5cTVyM0dmWXZBR21tRHFqNDF6eDZLTTNqMXVEMk5hWEltZ2dicTJFbERXZW5jQzU?oc=5",
+   "published": "2026-02-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
