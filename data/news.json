@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:56:47Z",
+ "updated": "2026-11-21T18:39:00Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2611,17 +2611,6 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
-   "id": "c5b5b705aa2f71cd",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
-   "published": "2026-11-19T15:16:48Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "8876bb4257e41890",
    "company": "Palisades Therapeutics",
    "title": "Palisades Therapeutics Reports Promising Preclinical Results in Prostate Cancer Across Two Distinct Drug Programs - Kitsap Sun",
@@ -3293,6 +3282,17 @@
    "first_seen": "2026-11-21T03:17:37Z"
   },
   {
+   "id": "23ff1e67be4dfbd6",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WVnZ6cF81TFpzd0NFcXBSSDUzNDVCNklQMGpsYjZrcnBrSzQySEFxT1VOYVo0bjB1U3N1VnV5MXIyWVNWcDFYUjVIZzIxWEh2RlE?oc=5",
+   "published": "2026-11-18T15:21:35Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "253ab459c5560286",
    "company": "Novartis",
    "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
@@ -3643,17 +3643,6 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "23ff1e67be4dfbd6",
-   "company": "Gain Therapeutics",
-   "title": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WVnZ6cF81TFpzd0NFcXBSSDUzNDVCNklQMGpsYjZrcnBrSzQySEFxT1VOYVo0bjB1U3N1VnV5MXIyWVNWcDFYUjVIZzIxWEh2RlE?oc=5",
-   "published": "2026-11-18T01:05:22Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "3597fbb82c354a30",
@@ -6615,17 +6604,6 @@
    "first_seen": null
   },
   {
-   "id": "1d3eeac31f0bbb07",
-   "company": "Protagenic Therapeutics",
-   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
-   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
-   "published": "2026-11-11T13:30:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "fa7d12de4cdd1032",
    "company": "LB Pharmaceuticals",
    "title": "HC Wainwright Issues Pessimistic Forecast for LBRX Earnings - MarketBeat",
@@ -6755,6 +6733,17 @@
    "published": "2026-11-11T08:33:38Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1d3eeac31f0bbb07",
+   "company": "Protagenic Therapeutics",
+   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
+   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -9519,6 +9508,17 @@
    "first_seen": null
   },
   {
+   "id": "2f830bde09169def",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences Q3 Earnings Call Highlights - Yahoo Finance",
+   "summary": "Neurocrine Biosciences Q3 Earnings Call Highlights Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3pPdTBtOEpDNkZzdmFJRTl5U2JuaW1TS2stQ0kyM2s3RXZKSGdRSGlEWDB5R3BROUM4N0NuenR6d0M3RTZ3YUNRRzA0S1JaOUhSVVMyRGFLMTQyOWpTMGxjT2Z3YVpvQ1hieWgtVHQwNUFHZDdTQnpjNG05T3JrS0F4eTBqSEZheDN2cHlzbTFxaFlhWm12NHNpZkpNMWpsVGc?oc=5",
+   "published": "2026-11-02T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d4632c3529f4fd71",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals (VNDA) Stock Forum and Discussion - Moomoo",
@@ -9537,6 +9537,17 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbG4xYmQ2MnlORjFJaVRScTIzbmhORk9ZNExLa2VCLTlIbVBrRVF6ZExjZlpzSnFyQzVVZTZBNG8yN243RkVBMm1kTk1LN0N1cnE5VmlFT0E4ZHY1c2tZWFU5SFNmNHJfZ3FmTHpxR1ZBR1BCT1J5MDNxQ2Z3Z2lTVlZoYlc3REpwQ25IVFR5ekVjQWxmaEtvamtaMk9HYzFYdXJWdFFKM09WVFlveGRMOU0ydnRUTWlOTkE?oc=5",
    "published": "2026-11-01T07:00:00Z",
    "outlet": "BusinessDesk",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4ec40957f0da7b10",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Learn Why The Bull Case For Xenon Pharmaceuticals Stock Could Change Following Pain Trial Progress - Simply Wall St",
+   "summary": "Learn Why The Bull Case For Xenon Pharmaceuticals Stock Could Change Following Pain Trial Progress Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY1ZIWElIa015eG5vYTB2UVFib01IdGpSeGRxaV9lNVR5YXZxUXpmQkp0em9KTEpObFBKeUhxVWJoX0xncmJCRXhiV09rNWlEbDY4OU1jcWxYTDY0QllVOHpuVEhDX202MHZyMll2M2lWdEZqTVEybmI3QTB4SVBrdURIRndHMnRZbGhPcVFjaldMOFdTQmdKQkwtUVo0a2xvVG54SWg3M2g2YURKSzI0X0d3VHJTaVVSdG04cURqVHdDX3I5Q1ZvN3BLalFjY0xnNUdnaDl0WmhJX3RqN3pHTmt3c0JNYUVXZGJF0gHwAUFVX3lxTFBPQldKeVBDU1EwNUx0cTl1ZUZpY0R1SjU0Y3VCd2U1Y1A4OWpXVGRPczc0eGJLWVN5MUtwSnp1b1dEMFNUMkJlZ3VrWlAwUXJwR2J2QmFVNEJ5Nnk2TWlwYzloVjJVVGFUQzc0WE1IU2tPRDZGMUFnWGJiNHFJdTJ2Qk1pM3g1Y3hNa2RuWjF0Z2VBNTFlTTh2bi1QQjlUTEQ4SDFPZF9qRTliZ3ZkSy1GbHBQQzI2RThyLV8ydDVuQ2RxNlZNWkliempxNDI4ZlRtSVRnbnF0emZsb2VRaExyYmZnUmkxcm9KdmFZUmRheQ?oc=5",
+   "published": "2026-11-01T07:00:00Z",
+   "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13960,6 +13971,17 @@
    "published": "2026-09-29T23:21:23Z",
    "outlet": "Psychiatrist.com",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1fd1a42a1c7b6f49",
+   "company": "iRegene Therapeutics",
+   "title": "iRegene Advances Off-the-Shelf Retinal Cell Therapy Into Clinical Trials in US and China - BioPharma APAC",
+   "summary": "iRegene Advances Off-the-Shelf Retinal Cell Therapy Into Clinical Trials in US and China BioPharma APAC",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcy0zd19mNjVEUnI1SDRUbGJwUnBsd3NiblNQcng2ZFJrbldza1VxSXFWaDBsY185NmRvcmwyR1JiZ09GR0VocG9PWC1wcDBxU0k0LU5EOHQ4ZU0zWGVGTHFReVdyc1J6NVI2cHEwNzJYbzh5bTFhY1RQc3AyRWtJT0xZdHdGb0lWOW1iU2swOGZha1RxdVp3Q09ZT3VJVkk5RFdQMG5jaHNnY3liN3V2TjdYUkM0SUpnRFVXbjNGMmxVd3ViTkpManFnQmk?oc=5",
+   "published": "2026-09-29T18:32:29Z",
+   "outlet": "BioPharma APAC",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
@@ -30188,6 +30210,17 @@
    "first_seen": null
   },
   {
+   "id": "412a4e578d363aba",
+   "company": "Regeneron",
+   "title": "How former Acorda CEO Ron Cohen landed at a Parkinson’s cell therapy startup - BioPharma Dive",
+   "summary": "How former Acorda CEO Ron Cohen landed at a Parkinson’s cell therapy startup BioPharma Dive",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMTRKZ1g1TzA2MlBYSmZGYzBoSTEtZ2l4WjF0U0pPR3NaaXpJUkFvVVRBNzFWWEcyVTRaaElWQnZCOThzWGduZDh4czdvOWx3YTJpM25OS0gwdWM4cVRFeENJR2FvV0VfZW1vVXJUWkhxS3NoYnBoWkV1MlhoZTZncFc4dEVkM1R0YXBRNDRMelRQN0stWEp4d2FEbFhSdw?oc=5",
+   "published": "2026-03-24T07:00:00Z",
+   "outlet": "BioPharma Dive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "2d7196288f1d8baf",
    "company": "TG Therapeutics",
    "title": "Careers 181 PatientSupport-Mgr - TG Therapeutics",
@@ -33673,6 +33706,17 @@
    "outlet": "Pharmafile",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
+  },
+  {
+   "id": "c5b5b705aa2f71cd",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
+   "published": "2026-01-07T01:18:54Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "cd2b898a3d707409",
