@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T15:29:13Z",
+ "updated": "2026-11-21T16:17:25Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1653,6 +1653,17 @@
   }
  },
  "items": [
+  {
+   "id": "2f5bc5943fa712fe",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson stock: Ollin deal and CAPLYTA filing shape week - ad-hoc-news.de",
+   "summary": "Johnson & Johnson stock: Ollin deal and CAPLYTA filing shape week ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVHRGLWtVMTVOV19yXy1TUnNTX0YxY2Q5SWNqZVhNSUNJQ0xJQmhVNHFVNFc5QVgxX2NVamVOWEVudkxlMWJhWUZpV3RUMVNqWFptV1NVR1prU3R6WmsxenBITllQZ1pIdzRKUjVEY1d0Z2FXdlpSN2pnNU1GUkZmS0dWR0NicElXT2R0cy1GdG1OZms4cDlsbUV6Z3ZiQWFxeHhYaGQ2VTZ1ako5MWZqbjVNN2NiVFpvclpxQTBxTWp3N2M?oc=5",
+   "published": "2026-11-21T10:10:32Z",
+   "outlet": "ad-hoc-news.de",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T16:17:25Z"
+  },
   {
    "id": "d5bcf0176549a5bc",
    "company": "Axsome Therapeutics",
@@ -5768,6 +5779,17 @@
    "first_seen": null
   },
   {
+   "id": "fc68d4ef785582ca",
+   "company": "Teva",
+   "title": "Teva CEO 'proud' of pipeline buzz as innovative-generics hybrid rolls out 1st R&D day - Fierce Pharma",
+   "summary": "Teva CEO 'proud' of pipeline buzz as innovative-generics hybrid rolls out 1st R&D day Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1ZfQzNTMlRLVkJEUDQ0YjZWQ2Y5bGFOWXRvNzhNcjJaNEJnaEM0NW01endvQ0ctWkF2alRJQzFnVTlyWTdmdkNlNU1najZhNC1mUFVQV21MdzYwdDRTMlNWV1BvcWRoYmR3aUlOYmYzTVlVTmpDdHEzZ1U0S0dtamRDSktnbUd0QVRMZnVKZnc1QV9GRWZ2ZThReWc2eFRyMWJLNFU5QV9iNzh6c28zY2pn?oc=5",
+   "published": "2026-11-13T16:16:14Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f823ebb69ff5b0c8",
    "company": "Serina Therapeutics",
    "title": "What Are the Next Steps for Serina Therapeutics' (NYSEAM:SER) SER-252 Parkinson's Study? - Kalkine",
@@ -5929,17 +5951,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkplMW9QV0owcTBSVUJmeU1HOWt0aUtoYVdqTEQ4YURDeUswWGktRW9nWGFEcmIxX2o5NHBpWHlSMDhNSTl2a2FpWVNOcjdGTFVjS0xqVzkxY3hIeDRzVTdFYlAxRnNXdjcwUV9ha2pxWlJINVVsSDkyYTFLWkhWUTEtOEVSLWp3R2tQQW5DVFlGeWtfYUNIQTZIemJTT3ljY0Z4dlZZYkY2TDViUC1seXJib1pJejJ5YnpvdA?oc=5",
    "published": "2026-11-12T21:21:54Z",
    "outlet": "Quantisnow",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "e730631ae318ec38",
-   "company": "Serina Therapeutics",
-   "title": "SER: Serina Therapeutics Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
-   "summary": "SER: Serina Therapeutics Inc. Latest Stock Price, Analysis, News and Trading Ideas Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OX0lpWmNnREV0eTRDeTh6SWFrRU5GdDRNanp2OUhtSE9GcHJFbHpNeTVFQk0tR214Q0c0VzZUUE1JdTJLWWl4dA?oc=5",
-   "published": "2026-11-12T21:21:45Z",
-   "outlet": "Stocktwits",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6127,6 +6138,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e730631ae318ec38",
+   "company": "Serina Therapeutics",
+   "title": "SER: Serina Therapeutics Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+   "summary": "SER: Serina Therapeutics Inc. Latest Stock Price, Analysis, News and Trading Ideas Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OX0lpWmNnREV0eTRDeTh6SWFrRU5GdDRNanp2OUhtSE9GcHJFbHpNeTVFQk0tR214Q0c0VzZUUE1JdTJLWWl4dA?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "Stocktwits",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6373,6 +6395,17 @@
    "first_seen": null
   },
   {
+   "id": "1d3eeac31f0bbb07",
+   "company": "Protagenic Therapeutics",
+   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
+   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
+   "published": "2026-11-11T13:30:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fa7d12de4cdd1032",
    "company": "LB Pharmaceuticals",
    "title": "HC Wainwright Issues Pessimistic Forecast for LBRX Earnings - MarketBeat",
@@ -6502,17 +6535,6 @@
    "published": "2026-11-11T08:33:38Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "1d3eeac31f0bbb07",
-   "company": "Protagenic Therapeutics",
-   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
-   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
-   "published": "2026-11-11T08:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -12929,6 +12951,17 @@
    "first_seen": null
   },
   {
+   "id": "cbdbf65de99e5086",
+   "company": "Kyowa Kirin",
+   "title": "Parkinson's Disease Market Poised for Expansion During the Forecast Period (2026-2036) Amid JUVMO Approval and Emerging Therapeutic Innovations | DelveInsight - PR Newswire UK",
+   "summary": "Parkinson's Disease Market Poised for Expansion During the Forecast Period (2026-2036) Amid JUVMO Approval and Emerging Therapeutic Innovations | DelveInsight PR Newswire UK",
+   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQWERzRG9OVG9NNzY2bm40N0lYNG9PcmJlTHFnaHM1WnJYQ0JPYl9jb3JVZnRfRTdObjF6cHhZdFFTeW5QeDI4RkVWbWctRnB3dm9INTU3TVducHNCZ3NpRUphMHVfakxaR3pWTHVOcmo0UFB6eGROZ3B5RHZxR1RERzY4aVZsbm1Bc1NOUU9sSVR5Sm9zc1hJbTRsX0Zocl95enRRNWcwMHZfZVFlaGR3dng3UGpDanY3YUFkSGoyV1djY2ExZTJXVXNfN2UyU1dZRDFZcnFzSHZGM0pMS3J4ZzU5WVlXRmRSSG8xVmlQNkNqSmNYeW9IZ1Nycll2YnJlTkx3QkdrdGxpbllod3pmdjhvVGJ3ZmNhYmlSR3FtWTNjUVBnbl96LTlLSUUzWFh1V3N6OWxn?oc=5",
+   "published": "2026-10-06T07:00:00Z",
+   "outlet": "PR Newswire UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "434f08b20ee7ea8a",
    "company": "iRegene Therapeutics",
    "title": "iRegene Therapeutics’s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa - Endpoints News",
@@ -13981,17 +14014,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uWW1hbU5ELU9VdFFvN0ZlYXAtNlF5U0dOaEd1TGp3RU1ETXFpdE9kWVdudDZmU1E1dnRicXY3RTJzeHZuZXo2RHA0SnNDZVcwODlPRDZXeUFsbnZmUDFTR2VUdjBidFhZMTdzeHhDMEhrTjVq?oc=5",
    "published": "2026-09-24T07:00:00Z",
    "outlet": "Far Out Magazine",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "108797ea420455dc",
-   "company": "Supernus",
-   "title": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN - Business Wire",
-   "summary": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcW9ac3pKOXNTVWk0WW1aRTJTTzdRY1V2MmI3c2tRMjN3MzlCRHpUUXhxR3BYZU1WRnNscW5wTHEycUJZbU1mVVhfMXBBR3ZCREczYlBHUXJVZXV4MFBUOXNxVkhYSm1BOWtJMXZoTTlQbGpVXzUyWXQ3dkpOeTFjNVZKXzItbFZsQk1rNmdOTnVNUm5oRTE4YVZpdEF1MFBpQ2NhbmZMZFJOVnpqUFVFRUZuRi0yYUlibDFmazhXc2xDRjVNUTBjUEh5OVJUbXk3dDhpdVNrVUlYaHE5UlBKRk1qSndxOFpCWTl1cDVycXY0cWh3c1FvSVg5Q2FKSkNWemlvR2pyWUxKX21wbXRaQmY5Zlpfdm1pcmR1SXpYbEhXQVZXX1kzMXpxVGdqZmdoVkV6TlB5dGRZWmZ0?oc=5",
-   "published": "2026-09-24T07:00:00Z",
-   "outlet": "Business Wire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16009,6 +16031,17 @@
    "first_seen": null
   },
   {
+   "id": "49520371c92f3f76",
+   "company": "Kyowa Kirin",
+   "title": "FAQ: Inside the Latest MFN Deals Signed by Nine Drugmakers - Pharmaceutical Commerce",
+   "summary": "FAQ: Inside the Latest MFN Deals Signed by Nine Drugmakers Pharmaceutical Commerce",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSy1WYURKeUs2alNRR2dQb1FzSHB3Yng2NjdfOEttbzFBTmJGMWVFaTNhZUJmaFZzaV91cHpkNE1hd0U1RmNqM3NzQU9KeUJwcktiUnV5dG1HQ1lxZ3pSYmM4V2gyUVVBaXBEeU4wQ2dUT0dCV21HOVJxUGJYaUY3dzdERms5WG55ZGRfS1lFTUFQX3pjTXJDYnh6VGZfVTdxU1JN?oc=5",
+   "published": "2026-09-09T07:00:00Z",
+   "outlet": "Pharmaceutical Commerce",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7187bb10238938bc",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals Promotes Thomas Englese, MBA, to Chief Commercial Officer",
@@ -16614,6 +16647,17 @@
    "first_seen": null
   },
   {
+   "id": "486f38371299baa4",
+   "company": "Kyowa Kirin",
+   "title": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers - Fierce Pharma",
+   "summary": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
+   "published": "2026-08-31T07:00:00Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "65bbb93c2f698921",
    "company": "Teva",
    "title": "What Is Teva Pharmaceutical Industries (TEVA) Gaining From This Bankruptcy Drug Deal? - Yahoo Finance",
@@ -16742,6 +16786,17 @@
    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNa0N3RFpPZzE2ckZhakFZT1c5dElBMmdJdnU5bFNHc2hScC1QMFRmS3l5azNsVEhycE1FLWxUWldpV1EyM25LRUJUVzFNb2RTNHQtdUcxLUxfNXl3ajZiRk1jV2RXYnREUEpOWnE1Xy1Tck5VckV2RlVRelA3VWpfQ1VjMHp6TUdLdG9kWmoyek5jZ1JRc0RMWWVpSHY0Nk92UEdLeC1ZY1haNWgzWkc2cDR5Y01zaWpQR254d1hMLVF3c2xzZlZSX1dJeVE1SUFmR3dleHF3STZsWk81QU9WX3U1X1dZOWZlR2NWV1dWMnQ5RVRkOENGNDdzbURqSjZuX1hUUjNYSGJQUU1UVVdadkVQSDVfLXFNQTMw?oc=5",
    "published": "2026-08-28T07:00:00Z",
    "outlet": "Morningstar",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a18f283acbfda0fb",
+   "company": "Teva",
+   "title": "Bioxcel files for chapter 11, Teva bids on Igalmi for up to $125M - BioWorld News",
+   "summary": "Bioxcel files for chapter 11, Teva bids on Igalmi for up to $125M BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHl3dmxsYlBsMjZkTGIwcnlDSDExUzJZZVFGVFZKWVBXdkpHZ3U5dWh5SnAydjZiajF0cWcxUzJXY1pFQTFWbjJFdF9mdm9zS0RCek5Fdy1nNU9VYVBIVUtrVkdfNjhzMDFtMUNhOFBCWnFSQXNmbG1xWDlveXp4c0tXYlcwUkVsZkVVbWEtZlVBLXBueEpaeWVES2NCUnB0czlRWmtwNA?oc=5",
+   "published": "2026-08-28T07:00:00Z",
+   "outlet": "BioWorld News",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -18209,6 +18264,17 @@
    "first_seen": null
   },
   {
+   "id": "2a4757d23083f06c",
+   "company": "Kyowa Kirin",
+   "title": "The Pharma Company That Followed the Smallest Clues - yespress.io",
+   "summary": "The Pharma Company That Followed the Smallest Clues yespress.io",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nVVVhbFZDYjZOZi10aU5hZ0UwZzNxZHFqLWFnVlRKa3dvbjNtQVlUdkJNcE56bzI2aXBfRjA0SDV5TS1yd0lYbnBKVGU3NE9P?oc=5",
+   "published": "2026-08-12T07:00:00Z",
+   "outlet": "yespress.io",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ae9f26f0205bcbec",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics Reports Financial Results for Second Quarter 2026 and Provides Corporate Update - Gain Therapeutics",
@@ -18225,7 +18291,7 @@
    "title": "ACIU Stock Heads For Best Day In Over 10 Months On FDA Fast Track Nod For Parkinson’s Disease Therapy – Retail Sees ‘Breakout Soon’ - Stocktwits",
    "summary": "ACIU Stock Heads For Best Day In Over 10 Months On FDA Fast Track Nod For Parkinson’s Disease Therapy – Retail Sees ‘Breakout Soon’ Stocktwits",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzVvZU5pd2E1R1B1U2hONGpUV05jdmF2eGUxdmVLMldhV0lOek9lZE5ZS1FmWnpBcHZ0UDJkWjlEZlhqQzNWWGFDdTdjZnVzWVJCLWdnSGpvcktIbV9sT29xTDhCZV80OHM2T05aQmZfa1pzc2VCQjZHaFRaNVMwZUotNGlJaEFOOFpBTWIwaHhzbzlmN29XREdBdw?oc=5",
-   "published": "2026-08-11T16:22:57Z",
+   "published": "2026-08-11T07:00:00Z",
    "outlet": "Stocktwits",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -18766,6 +18832,17 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84ZUxvNGVtZy1uWjVPbkVwRi1GMDlRc21pRm1kOFlTSEdFbmRZM1JsbUZILTJ0c0FuUi1TS194Y182c2tacjR6QXVTTFVLR3YzU3BVTmxVdEw5MWpy?oc=5",
    "published": "2026-08-08T07:00:00Z",
    "outlet": "YouTube",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "108797ea420455dc",
+   "company": "Supernus",
+   "title": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN - Business Wire",
+   "summary": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSTNlQjVteHFrYnVOSU9NelRBRVpxazVvZjNPYTllVlItZnI2YmVJZVI4ZUhZX3ZzWVk5NzktNGlzQU00d21ZaUlFXzlDcWlINzJmQUpXQll1TzZ2d0tUcnRGdzhNajZJb0lnR2RwRTQ2WkhuZ05CWGdqV0o4eFV1VlA0eHJad2NLOHN6RzZIeGxzLTg0TXVES0RGc3dNZTkzcENHc0M0SmFDOUlGS1J5SWxaV0p0a1NKN2JRbDM4Y29NYVZIYV93Y1R6aEk1S041Z3gwR3hVbHc2eXpFc1E4d3hTTl9tMHFTMzFCUzNDcjl1TGY2VXVNSC14NmdVVFdMcm4zLWZJRXc1WHNGS0Y2QzBXM2NIeVVVcFRQVEhEd3VKcS0yOW0tZVV4YTVIUExuVU1jM2tvSi1heGtO?oc=5",
+   "published": "2026-08-07T07:00:00Z",
+   "outlet": "Business Wire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22235,6 +22312,17 @@
    "first_seen": null
   },
   {
+   "id": "609bfb9c6cfbf1d3",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Receives FDA End-of-Phase 2 Meeting Minutes Confirming Registrational Pathway for ATH434 in Multiple System Atrophy - Yahoo Finance",
+   "summary": "Alterity Therapeutics Receives FDA End-of-Phase 2 Meeting Minutes Confirming Registrational Pathway for ATH434 in Multiple System Atrophy Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlFSQU41S2FYS1RLN2tNSGNBbXVlb1VtdTljZ190cmI4YkNUbHdWdjZHSUdXQzloMUdVaXhqNDk0SjFVSkhNNWotLUNTVFJHeGdPLWRhOW1ldURpbk5rNEphVVdmaW4xdEhOTEs1X1RuUWtjcGlGczc4QjIxVlN1czY1amxGeGRIMUZsZ0YyWk9EYmt2MnR5cDB1b3h5cGZW?oc=5",
+   "published": "2026-07-07T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fa932859bbbeaa29",
    "company": "TG Therapeutics",
    "title": "TG Therapeutics Announces Initiation of Phase 2 Trial Evaluating BRIUMVI in Patients with Treatment-Resistant Schizophrenia - TG Therapeutics",
@@ -22284,6 +22372,17 @@
    "title": "What AtaiBeckley (ATAI)'s Elumina Last-Patient Dosed Milestone Means For Shareholders - Yahoo Finance",
    "summary": "What AtaiBeckley (ATAI)'s Elumina Last-Patient Dosed Milestone Means For Shareholders Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLVczc3hsb05CcERkd2tKRHcyVmR3VmtTbElVSFlLOFNlZG9WTkNCNUpCRC16OFd6dmw4c2o2TDBsLS10alc0V2REQTMxZTNEYy1TaXgySGV3TXhFcjUyZ3BRME5FamR3bHlKUFBKV3NWRHlka0NRSjhRLUhPbXk2Sy15RFVxcGtDLTVTWWthZTZmazJqZnBLY0M4MnBHY2M?oc=5",
+   "published": "2026-07-06T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "60b3df3a7be394bb",
+   "company": "Neumora Therapeutics",
+   "title": "Why Neumora Therapeutics, Inc. (NMRA) Is One of the Best Get Rich Quick Stocks to Buy - Yahoo Finance",
+   "summary": "Why Neumora Therapeutics, Inc. (NMRA) Is One of the Best Get Rich Quick Stocks to Buy Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdk9LZjBpTFZ0Sl8wZEZFRF9rclFROHBfUkEyOWxXMG1JcGVoQTVxd2NUdGxpbzRBME9NTG9yNU0zZnNNanI0Z3FzVmIzbzhPeUVkVjk5UTZrTmxvVTZGZm1LUnpOM200YTRQZzZZT08zMDZ4THRhLXdCZEhUZjJHSWdmUkJPYlFjNklzSENVVG5idnVaaXZCTnhR?oc=5",
    "published": "2026-07-06T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -32198,6 +32297,17 @@
    "published": "2026-01-13T08:00:00Z",
    "outlet": "Pharmaceutical Technology",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9d36b4d77e4d6cc6",
+   "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
+   "title": "Eli Lilly Stock Rallies as Ventyx Deal Calms Wegovy Concerns - The Globe and Mail",
+   "summary": "Eli Lilly Stock Rallies as Ventyx Deal Calms Wegovy Concerns The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZGd6Mlp4YmJOUHpaYm5pY1Y5cnBpN1huNGFQRWZRWHdxdk5PNGFBdGJ2U3kxSC1zUUVWQlZnSDNVbWZ2ZzBRVFVPWHZjbUpDZTNXWUpCUllhYUlHSEUtMXlQMGtnejFlM3VTV2pJMVF0Q3oyZTY1bnM2UFFVbUdFR19MNkRZWWNFS1B6T2JHa19EWmtwaG91WEoyNHZaRWpHaE1iUUJZekp4ZVU3Yjk2aTl1YWhQZTk2cnhPVk5hVjNLYmhyb3pvaXpYUlBPUWNIc0s4SmZUYVhBZ3JNOXc?oc=5",
+   "published": "2026-01-13T08:00:00Z",
+   "outlet": "The Globe and Mail",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
