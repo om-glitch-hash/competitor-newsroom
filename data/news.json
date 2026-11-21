@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:17:37Z",
+ "updated": "2026-11-21T04:25:52Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2092,6 +2092,17 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-20T15:26:15Z"
+  },
+  {
+   "id": "3d1cd40487bb0229",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics, Inc. (AXSM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Axsome Therapeutics, Inc. (AXSM) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hemhGek1JOFJvX05hZk5MQjhWRjdhR1JfZEFkVHpxWEZ3ODRVR3B4OTc0aksxUGFZYm4wTHhudjU1QWM4ODRNb181c3ptMEdPY1E?oc=5",
+   "published": "2026-11-20T02:59:37Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T04:25:52Z"
   },
   {
    "id": "9de54c46c4b9f139",
@@ -5086,17 +5097,6 @@
    "first_seen": null
   },
   {
-   "id": "8f49ba2f59392990",
-   "company": "Annovis Bio",
-   "title": "Malvern’s Annovis Bio Prices $21 Million Public Offering to Advance Buntanetap - BioBuzz",
-   "summary": "Malvern’s Annovis Bio Prices $21 Million Public Offering to Advance Buntanetap BioBuzz",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fSmQ4VGN2LTFYSmZ5U0RnMHdjZjBLNWk5TVVfckVOQjdQbDdGdHVqT1ROLTFOVHkwRUZYZm5GLUtNOHlBa2UtZXBzXzNZVVp5aWc?oc=5",
-   "published": "2026-11-11T19:46:15Z",
-   "outlet": "BioBuzz",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "16f381ebb39951ae",
    "company": "Vanda Pharmaceuticals",
    "title": "NEREUS™ - The Goat of Biscayne Bay Arrives for Miami Art Week - Vanda Pharmaceuticals",
@@ -5237,6 +5237,17 @@
    "published": "2026-11-11T08:33:38Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8f49ba2f59392990",
+   "company": "Annovis Bio",
+   "title": "Malvern’s Annovis Bio Prices $21 Million Public Offering to Advance Buntanetap - BioBuzz",
+   "summary": "Malvern’s Annovis Bio Prices $21 Million Public Offering to Advance Buntanetap BioBuzz",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fSmQ4VGN2LTFYSmZ5U0RnMHdjZjBLNWk5TVVfckVOQjdQbDdGdHVqT1ROLTFOVHkwRUZYZm5GLUtNOHlBa2UtZXBzXzNZVVp5aWc?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "BioBuzz",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -8481,6 +8492,17 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUE5QQ0hGelZNYnhFNzhXR2h1dC0tTktsa3VEc2lZV196WXRkT2tyQUViRzdaVXhRWnJUTlYzYnp1VVZvT2swTy1MM05qeG44czd4SUt6U0F4VkJkYkx6cXFWZnZIWmZzMnI4YVVYNjRqdlpjTXhGX0lwcmJsT29pUjRScTV5aWpyTUtBVXltVjhtMlBTbkU3di1Zcw?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1d8ea0776e71fb57",
+   "company": "Eli Lilly",
+   "title": "Why pharma firms are betting billions on psychedelic drugs despite setbacks - Nature",
+   "summary": "Why pharma firms are betting billions on psychedelic drugs despite setbacks Nature",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RUFZKYXV5RXpLcTA4WWJTOXhLSHBKNnZMQVJ3emJyVU1Saks0MFVqTzRodkhDSWdtU25JRDhjVXVDYkUxM2NmZU5sakxlN3BQQzNWeW1TWTM0Ui1IMDdj?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "Nature",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12335,6 +12357,28 @@
    "first_seen": null
   },
   {
+   "id": "b2239350774b5935",
+   "company": "Eli Lilly",
+   "title": "Brenipatide for Alcohol Use Disorder: Emerging Findings - Psychiatric Times",
+   "summary": "Brenipatide for Alcohol Use Disorder: Emerging Findings Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVTZ1azBiZ3lFZFZtYVBMYVlSdVF2Sjk5YUREUHBMTVJ2Y3JNQmZVM0hfeUNEY2dRcmJWVEJaeV95NTF1dGpIT2hlYzBSSWVVVE03cUU3UERnMVVDNzNoazRHQXp6cUtYaWpmMVplV1hrYWsyRkhSbG9sdnotaHR2cDVyYTN1UjNwOG1ObEtLOE1xSFotY0p3?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1b5a557a76db04d6",
+   "company": "Eli Lilly",
+   "title": "Early Brenipatide Data Shows Substance Use Treatment Potential - Psychiatric Times",
+   "summary": "Early Brenipatide Data Shows Substance Use Treatment Potential Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVJ3dmo2eVZNQnlEV3RRUThPbHIxSDFmR25jWUJDNEVfQkFRTTZjdEpXZXdkZ0JJODdBeXA0WG1zU3gyNHB2TmF6OGsxUGxvYkswZUlqUFFCdzFLTmh5cURDamdaNGUyQjMxWGpEdWMxd2Y3V2lLcVJyUFNNU0Z3VWhOblY5c3JZWWtNb1JjY2ZTT1NlbXB4RXdJR0lVbTZWZXc?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "175772e2e85dcdcf",
    "company": "Aspen Neuroscience",
    "title": "Peter Thompson, M.D.",
@@ -13343,6 +13387,28 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSU84VW5pN0paN29jUXdoYVRMX1FyMlJsakZaak1VZENEZ2JJbjdRbE9DaHZKQjRxVGl1N1BWdmlUYkF6QVVjcDZYVFpVUnljVjNHVDJMS21raFh0NlNja3dWZ3E5Y3RIZEhxaW5BM0VXMTFnVjdpdFc4TVh3Q3lmNS05N0Q0eDhVR2tiQkYyNXBqV2lRV3BBYmJtVmxDb2RhdWVHbXZ2U0htRi00LXhj?oc=5",
    "published": "2026-09-08T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0f1cb9354089d8fb",
+   "company": "Eli Lilly",
+   "title": "Brenipatide: All About the New GLP-1 Drug and Its Launch - Healthline",
+   "summary": "Brenipatide: All About the New GLP-1 Drug and Its Launch Healthline",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZVkl5bkowREJvNWdrUHlFWVFGTXplRHBJX0lvblduUW1jTF9LRm1jc3BKNFZPcW5ya3pDTC1XOFNoMDV4MjJSLV96OTNWY1EyckloQUFWLUdXRGcwSzBaMQ?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "Healthline",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "51d267fb3f209e94",
+   "company": "Eli Lilly",
+   "title": "ATAI: Merger agreement with Eli Lilly and Company received shareholder approval - TradingView",
+   "summary": "ATAI: Merger agreement with Eli Lilly and Company received shareholder approval TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdlNMckREdUFxWjgxMlkyX3NOeGRYeVh0OFg5MF9KSjFid1ZxVHNaVlAtUEowdFVBYjFOZkUxWFJndjlaS2Z0OS01WXBpbUt0cGpvVDc0SmxDdnE1TFlTRFEtXzJGbG1rTXZtbzJMTzctdHdMTGFRRW5nSHREb3dqaHE0Z0kzc0xpYUhoZC03dzRXMXdMWEUyazRPUWRFWU52TUZoempCSkdWcUZMZFprMUJRd3c5Y0NJaWhQbzlFa2ZrdWJ6Snp1blF0NDBKSWJLZVhGTnQ2dnNrOWNmdndlbWlqdlpwd0o5ZVJvOW1QeHBRM3BWdXZtOQ?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15272,6 +15338,17 @@
    "first_seen": null
   },
   {
+   "id": "8eaaf9965eaedde8",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly Just Made a Huge Bet on Psychedelics for Mental Health - Flow Space",
+   "summary": "Eli Lilly Just Made a Huge Bet on Psychedelics for Mental Health Flow Space",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaHhmQVlYcEN5bVZud2lJUTktR2ZyLXJHblpIWmF1RHNXSmxZRlhCRXRwUWJYVFVnRGVsdmZNQzAxUVVpTEE2bE03ZmJhcnh3cC1NOXAzbl9mLTB6cDktRExPUTNhN1R2dXA3bi1DR1JWSzJ0ZmZ6QnFoY3Q3cE45TzUzNUMwT21GM0hwVW8yT2o3Z2tBUjd3TFh2SUdGTGFONXBTRVEySWc4MlFBb1NBQ2V6RlFuMXJwX1E?oc=5",
+   "published": "2026-08-11T07:00:00Z",
+   "outlet": "Flow Space",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e4e338ee2fbe2fb7",
    "company": "Minerva Neurosciences",
    "title": "Remy Luthringer, PhD - Minerva Neurosciences",
@@ -16482,6 +16559,17 @@
    "first_seen": null
   },
   {
+   "id": "895fbf7602087d0f",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly Is Acquiring AtaiBeckley for $2.8 Billion. Cathie Wood Thinks Another Psychedelic Drug Stock Is an Even Better Bet. - The Motley Fool",
+   "summary": "Eli Lilly Is Acquiring AtaiBeckley for $2.8 Billion. Cathie Wood Thinks Another Psychedelic Drug Stock Is an Even Better Bet. The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYndSUFBNOWV6U0F0SUJScGhqVkdORE1xOGJJWUpjeWUzaXdRa2JwYTVfYlpwcjhLeE5WS1ZnckhhbHduWWJhdUlnTVpKcURCMV9BZVgtWUJlTjY1VFZkS0NpRXljQWZtOTNoTUlQZk9ZYUZHcTk1TzlTaGxoak02cEhvak5nT3dSZWQ0NV9FSWxwYjE1V3N3?oc=5",
+   "published": "2026-07-29T07:00:00Z",
+   "outlet": "The Motley Fool",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b6c54cb6b89509b7",
    "company": "Eli Lilly",
    "title": "Postdoc/Scientist - Psychiatry and Neuronal Health - Lilly Careers",
@@ -16889,6 +16977,17 @@
    "first_seen": null
   },
   {
+   "id": "42e145b343b295a8",
+   "company": "Eli Lilly",
+   "title": "Lilly’s $3.8B psychedelics bet won’t open the M&A floodgates - BioSpace",
+   "summary": "Lilly’s $3.8B psychedelics bet won’t open the M&A floodgates BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSU5LQnBYanRHODZzSDU1RzR3RkJVOVBLbG1BQVpPUm1McGhjbkUyQXFMYlJWRWdiQlZoRlpNeUZZWkNyT2ktaE9Qd0NEYmNqdHNQN3d4OHZfWC1sWXdXdTdfeG9MSUhSMjdjLVE0NWZHaFpQdmRVTDY5WHhNYzNCcjZIbGhPa0pIRHBONTAta2pOZw?oc=5",
+   "published": "2026-07-24T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "24842ab76f03bac2",
    "company": "Roche",
    "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
@@ -16984,6 +17083,17 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMW4zSWxHNWczVEhRZ2VEZmJFNGd5andaa1kxVm10S19jQU5fRkNxYXpyVUhyaEJocURjQzYyYnN6TlB3ODdtNzRCQ3h0VW1WX0xkSEFIblRaWGhPenZYYlhGVXJETDBmSFA0bGFnZW45WnpIbVRTS2Nmb1Nta3Rqc0pOWUVPVkp1M1hVT0U3OGxQNnRsSWNQUmxpdDdWT255c2ZQSHJQQVgyR1FWaHc?oc=5",
    "published": "2026-07-23T07:00:00Z",
    "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "49a8d18bac290511",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly Is Acquiring a Psychedelic Medicine Biotech. Here's What You Need to Know. - The Motley Fool",
+   "summary": "Eli Lilly Is Acquiring a Psychedelic Medicine Biotech. Here's What You Need to Know. The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmZ3TUtWMXRUcmdSNjJ6SkJMMm5jN0VLWl9XWGxobDVUOTk5QTlDNlZZTnQ2YmgwYWI2clpGaVJkN1VvYmhSOVpOYnl6QzhfVFpxNFBPYnpoZ2hrTzcxVVNCZXNlOWI2VWVLV1haV2VPZmxOc3Voay00Q0tIVGZrTm8tVkdLNThSZUFGS1VrYjV6RGFMYW9JLQ?oc=5",
+   "published": "2026-07-23T07:00:00Z",
+   "outlet": "The Motley Fool",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17175,6 +17285,17 @@
    "first_seen": null
   },
   {
+   "id": "fee0def91549514f",
+   "company": "Eli Lilly",
+   "title": "Lilly’s $2.8 Billion Bet on Psychedelics Buys Science That Conventional Trial Infrastructure May Not Be Able to Run - The Clinical Trial Vanguard",
+   "summary": "Lilly’s $2.8 Billion Bet on Psychedelics Buys Science That Conventional Trial Infrastructure May Not Be Able to Run The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQc2xJZHp2MnRoQ2VheU1lS2RGakZ0OVJkT3VSWGg1UEgtS3VSaUpHajFhZ3dOTTRDdHhqMlE1TUZ5VmROT205VmxRUE40OWJVS21tVDhjUTVDY2dZOUFEYXB2WDNOYWhDWTZRTWZDaExiWkxmNlpSdlJDOG5Rc0JZT2hqNlZvVUthWHdUUU1ueWZ1RVJGMENEVXY2eUhnQ2NiWVRIdzBUUU42MkJvdXhBa2s1MThJQWVpU2wtcWJNNE1tcUZGdy0wU1dHQ0JaOXh5RzZ0dUNkbFJtbFByQmlZbUZYV0lrc203NTVOeEtWS2R3TERURVRfMGl6c21mYkozSkE?oc=5",
+   "published": "2026-07-21T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b2d81312b5f66a65",
    "company": "Novartis",
    "title": "Neuroscience Territory Account Specialist – New York City - Novartis",
@@ -17219,6 +17340,50 @@
    "first_seen": null
   },
   {
+   "id": "8a695feae5b0ed47",
+   "company": "Eli Lilly",
+   "title": "Lilly’s AtaiBeckley buy validates space as Big Pharma takes note of psychedelics - BioSpace",
+   "summary": "Lilly’s AtaiBeckley buy validates space as Big Pharma takes note of psychedelics BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWVyc196Wlc1UEl3X1NxamlCaU1TRGlSQUVhM09oN2ZfRTR4Y3QyTkZhTmY2ZjhzWjlXbmVqZ1JoVUpaZkh1UEt2WGZSU05NUk1rS3dWU0xCeVRCX2duOFctcFlHM19jQllkcnpqakE4R0cwVEtObEhpVC1fc1ZDVVRUT2NYY0E0QWZGdm00ZTF2ZWtYYnpjbzZPOWZkOVdIdERGenJ5TEEzbXQ5YjJkT3ptVQ?oc=5",
+   "published": "2026-07-20T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "187ab3eb0d16d2df",
+   "company": "Eli Lilly",
+   "title": "Weekly Recap: Eli Lilly acquisition of AtaiBeckley and BPL-003 Phase 3 - TradingView",
+   "summary": "Weekly Recap: Eli Lilly acquisition of AtaiBeckley and BPL-003 Phase 3 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTEJuc1hWX0dYalZYQXlwSVdrMTh5WXN4X0oyOWZNSzNVV2NWbTF1ZXhVQlZ1ejNlT3NGcktRZTM4N3hRSlhNc0tXMkNmbHZoX05IbW5fZVdQSXNwVllCeTdDQjlFcGw1ZXYyckM5aldTS1pLNjBZd3gxVzBHcjBOWUJuckJ2ZGhnaWV2aGpQdk4xbGlPZTZENDFEeS1PNi1kSlJ5LWFiY2VQWHBYMC1jV04tdEdKMF9Eb25kWS1yRTQwMDBYWEdVWmpEaw?oc=5",
+   "published": "2026-07-20T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b4ebd1d937d84245",
+   "company": "Eli Lilly",
+   "title": "Big Pharma And Psychedelic Medicine—Eli Lilly’s $3.8 Billion Bet - Forbes",
+   "summary": "Big Pharma And Psychedelic Medicine—Eli Lilly’s $3.8 Billion Bet Forbes",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHZoNFZFZGZfd2pQOE56MmRPR25FVTduN1h6djFuakpiaFJycWxPWWc4SlRnY1YzU0tUWXRCLXRfelVzZ3RzT2l1N0VIcHlPdXF4eWJJaUpCX1dadVJJTjNqbFFaNG5mZC1aOUFOMUktR3NJVDhMbEpnSGZrbFBLMmdRUGNaXzBRT2JrM1l5R3VTU0htZ3o0LWN5ZEJHamJYbDRiRmJPNUEwMVJkUEpyWEY5eHFpb00?oc=5",
+   "published": "2026-07-20T07:00:00Z",
+   "outlet": "Forbes",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0349ccba041495be",
+   "company": "Eli Lilly",
+   "title": "‘A rising tide scenario’: Why other Big Pharmas could follow Lilly into psychedelics - Fierce Biotech",
+   "summary": "‘A rising tide scenario’: Why other Big Pharmas could follow Lilly into psychedelics Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3dQdXhDRnFCM1BnNGlDTUJuTks3Vm9LZXY3TGV4U25TRml5emhHQ1B2ckxHczhua2lhNmxfX3I5N1RYTUtieTFPYzdGTWJFTW8tdF8tclBVZzBSMjVFRnpXODlzbnpWdHNfdTVVcUFoZ3o4UGVsRDJONENvcUhsQUM4Zlc2UWxMSHM3cDBoWlNJcTRIa3Nsc3VKQ0dKQnBvdVpDOGt5aXJrVDl4SEtDQTl3?oc=5",
+   "published": "2026-07-20T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fbad692909861c63",
    "company": "Newronika",
    "title": "Newronika, the report on TG1 Medicina - Newronika",
@@ -17259,6 +17424,17 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LcVI2T2tZZk1ZOXJrMV9Ed19SeXNaMkhBbWRkaVVzR1gtVGk5dHpmSFBISzNrc3Z0QUNuZ09WYWZZSklkdnhaWFVoZWVELWUtWlkxU1pieEdVcTR0UjlsVE55dm1QVWYzRUZhcFVOSFk4bGszS2lZ0gF8QVVfeXFMTlBqd3lvQXVjbl9Ta2lMaFNkUmZ5ek96bjY3QlB6bzZDa2hLMlAwNUkwOGM4Z0hpeUtjd0NEZkwzNHZ5eDNGaGd5c29ZM2F3S0RxUHgyTG9pRWpTMWxaOFdidjYwSURJbGxOMTVwWmxzUWYwSEozMVJZZkZMbg?oc=5",
    "published": "2026-07-19T07:00:00Z",
    "outlet": "CNBC",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2087d78094e4af72",
+   "company": "Eli Lilly",
+   "title": "StockWatch: Lilly’s Up-to-$3.8B Deal for AtaiBeckley a Good Trip for Psychedelic Drugs, Analysts and Investors Agree - Genetic Engineering and Biotechnology News",
+   "summary": "StockWatch: Lilly’s Up-to-$3.8B Deal for AtaiBeckley a Good Trip for Psychedelic Drugs, Analysts and Investors Agree Genetic Engineering and Biotechnology News",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQjZJZUM1dFpWb3ZTdFFhS2ZqdnMtREVYUUozOEUyVmNRSWhzVVVhSUhyNlg0TVUtQnNGek5KX29GZ2VYcmxHaDRnM0NDT2xoMnlmRzVuQ1hzMy1NLUZaLXpRMTBwY2czU2pIaVk4WHV0VXA1OGRVNG5PUFlZSkhhMXN6cXk3TTlJYmVkRkxzamJud1RIRjBiMXVZdVVIOEs5UmhUZUtHUTNJRTlpWGZmVW9VRXFXbkx4dkJINHhPTEE1Zk9QSWloVU5lVHFiR1BCYThNUm9XQURvRlZ0QlY1Z1dpWUVpVTVSbFNfZVd3Q2V6bVhZTW1sMFBfbjdiSXM?oc=5",
+   "published": "2026-07-19T07:00:00Z",
+   "outlet": "Genetic Engineering and Biotechnology News",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17681,6 +17857,226 @@
    "first_seen": null
   },
   {
+   "id": "96a746bc9e5196b6",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly to buy psychedelics maker AtaiBeckley for $2.8 billion - CNBC",
+   "summary": "Eli Lilly to buy psychedelics maker AtaiBeckley for $2.8 billion CNBC",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb21PcUVvUmRwWEhWZHdJTFR5RHF3NUpoWWhIcUZrdjVQQXVKQmZUTEZmN0NWOGEwVXNBYlh3S20tWUpFUUMwMkxVXzlOZEpQRURHeHY5UUE5bURzQ0dpcjVtLVBDaHlPbGVGNHdJWXQ3c0lHb1hLSGk5WHNMMk4tNVJ3WDVFX295aU5Db0VFcnpSdU5HaS1kbnVDOVdmT1hTRE5zbThLOXFBV0lWODhaLW5B?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "CNBC",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "316dc12b1aaf61ba",
+   "company": "Eli Lilly",
+   "title": "Latham & Watkins Represents AtaiBeckley in Sale to Lilly - Latham & Watkins LLP",
+   "summary": "Latham & Watkins Represents AtaiBeckley in Sale to Lilly Latham & Watkins LLP",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1BoM3l0QkZPSGNfbFVWSzdHNnZKLWtta1RfQlBGdGhpQTlvUkVLcW1pSUE4V2w1b1NwZXJwb2Y1Wmw5eVJXWE54YVd5TFVPUU01MVdwbkxobHpEM0RrZm05ZW50S3plYkV2RDZPZkxvUFlzUDltbTdiMWI2aFd4S18ybmsyWEJB?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Latham & Watkins LLP",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2fdf2e54d3700334",
+   "company": "Eli Lilly",
+   "title": "Rapid Reactions: Eli Lilly Acquisition Highlights Momentum in Psychedelics for Mental Health - HMP Global Learning Network",
+   "summary": "Rapid Reactions: Eli Lilly Acquisition Highlights Momentum in Psychedelics for Mental Health HMP Global Learning Network",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUFJNS3NPNlRPaHhrTEw1RTRuaG5mYXdyYm1NV0ctQTFqXzB4NkFhZEUyaVB0WGQ1cFAwVUhjWHN0WmdPTlpmLWp0T1ZOVEppRXpiVDNVVEJsZnQzTzVZYUJ6QUFZMndwQThMdXNFSlBqWjVXejlPRmg3YkJPRzBIVEUybmo1cUl6R2JDNllMSWpnNTlqTmc5bUtGSUJLR3VvTHR3T1phbS1YYmRLSDZ4d1NJYXhsOEMwX1RuZS1kM2tXcmV6TlBTOVBYaEdLTDI0d05nMXNn?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "HMP Global Learning Network",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "23705337fa038a33",
+   "company": "Eli Lilly",
+   "title": "Lilly to enter psychedelics field with $3.8B AtaiBeckley buy - FirstWord Pharma",
+   "summary": "Lilly to enter psychedelics field with $3.8B AtaiBeckley buy FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wVHRxZ21KNDdZN0dOY1hGcmRBZldTVXVCZHpyOWRxMTVfb0lueFBEeVUxNmFVZFdwOHViMndJTkNycHJla25RWW41QWpRVnBLTWNn?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "381a64d0b4e4567a",
+   "company": "Eli Lilly",
+   "title": "AtaiBeckley (ATAI) Soars to 4-Year High on $3.8B Merger with Eli Lilly - Yahoo Finance",
+   "summary": "AtaiBeckley (ATAI) Soars to 4-Year High on $3.8B Merger with Eli Lilly Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEhZSy03em1xbGp2UGhqRmR3cnJfRVcxWUJBS1h4X01SR294NDNQZnNrb1RYLUhJTkFnRldiUG1hRVJkaVVhZmRQZ05SSDllcU9OdlpFSlNtWC1GS3FLdXhWekdObXI0aEN5ZGo1TnF3RUdxSXpXMzJFMGN6ODhtS0IyVEhyWjRLdGVoRU5WOG9HakdsSmV6a2Jn?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "283f6b1cb0ef7176",
+   "company": "Eli Lilly",
+   "title": "Lilly makes up to $3.8B psychedelics play in AtaiBeckley takeover - BioSpace",
+   "summary": "Lilly makes up to $3.8B psychedelics play in AtaiBeckley takeover BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnVaTFVZRVAzbW1mRVU2TFdZbWo2SndlRURvZ0JmWDJnUGhfU1Jub2ZlTVNDdTdaTVRnODNEZHRGcEVZRE5ZeDRXam1hUXhjTk9vWmN1ajYtMjdFVmdjSE1KQWpHZkZ6aEk0YjlLa0pfYlluR3owS1RONE1YWVdkQUlBT2IyaXp2QjRFZ0U1SEpGUzd1bXBUX1FEOA?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e9db3fe71d5a8deb",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly to Acquire AtaiBeckley for $2.8 Billion - Pharmaceutical Executive",
+   "summary": "Eli Lilly to Acquire AtaiBeckley for $2.8 Billion Pharmaceutical Executive",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUzBDVGV6MTBNY0tkXzBHZWFNenNCRUhYSzVQSkVSWXhiTl82UU5mdGFtWDN5MnRmWFN6ZmRrMGkxVzdHWXY3S1JqdlRJOHhTM1pLY0U3QnROb3NKY2JDSWd6T01Qb3ZURmFIX2l4YXZmc3FT?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Pharmaceutical Executive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c9432bac982c1e60",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
+   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "faa35f3611933c9c",
+   "company": "Eli Lilly",
+   "title": "Lilly offers up to $3.8 billion for AtaiBeckley in bet on ‘God molecule’ found in toad venom - Drug Discovery & Development",
+   "summary": "Lilly offers up to $3.8 billion for AtaiBeckley in bet on ‘God molecule’ found in toad venom Drug Discovery & Development",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMEhqbzB1YmhKajlZN1p5UGhSVXJILWprWEtQcVozb1hCcC1BTktmcGtGa3I3MkUzUWoxSlFSRUM2ZElnMHVzYnFYOXM0bWNoNFBaM2lvR3dWZ1RSVmNhQ0dlZE9zSkxZX2xEOXBCYU5ULXFFZ3o3Uk5tZlRvMGJwX2hVMXY0LS1HUDhScHFWOU1oZWprU1dCZ3JfUHJ2aVhhUHptSjRRSTkxS1E1V2NPc1JLQ21rN1Z0NHhN?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Drug Discovery & Development",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "10ecf242dc4ca580",
+   "company": "Eli Lilly",
+   "title": "ATAI Stock Soars on Reports of Potential Acquisition by Eli Lilly - Zacks Investment Research",
+   "summary": "ATAI Stock Soars on Reports of Potential Acquisition by Eli Lilly Zacks Investment Research",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcjdySnV1M1paQlVxcWFJYmg2RGdNbElKLWxsT3d6QUZsTnBZMXJIcWcxTTl3T0FZQVlud2owcGZQUUoteDVPSVVPXzZWVjdURU9CdHFYcnJKYkVadmFpZ0NkcVc3aEMtb2M0VTVXSkUwbGh4bjNOVzI5TnJmcUNKQnhCOWY1cGpIcURhVklueW4tMVJPYzhqY0dFLUxKTjFJNU9vYWJpN1dDQQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Zacks Investment Research",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e238fb9f1df717ca",
+   "company": "Eli Lilly",
+   "title": "Lilly buys into psychedelics with $3.8bn AtaiBeckley deal - pharmaphorum",
+   "summary": "Lilly buys into psychedelics with $3.8bn AtaiBeckley deal pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdjVsMXFWOU91YVNhWG0yR2xCcUJSZ09JUnI0S0hnc2pVNGd5aVVMU3R4RVBrSGZYcVFBNXhOQlU3YjI0M1lKSlFvQnVVT0wyWVE5N2RDZVh5eVlqOEl3S01PQkdxcVZFbS1ubTRWSTk5QjIyeEVBTzBDN0g0TG42eA?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "34d53d78b6f41d79",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly is acquiring psychedelic drug developer AtaiBeckley for $3.8 billion - Yahoo Finance",
+   "summary": "Eli Lilly is acquiring psychedelic drug developer AtaiBeckley for $3.8 billion Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYUtEUHNGQkZDelh0V0V1Ty1OS3BWb3pxeGMzejdzNHV3LXl6dGtDX3dVQ3ZqME5sU3VOYS1aQmNXU25BYWNQVUJmc0N4SVBYVUIySHJ1ZnhXS2NtVDM3R0VyTXZMSzBhNTdIMmY3TlJPcHFabzhuTDVCSkNYbDZvei1uTlRLYTlLelpZ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5f056ea436d7c92d",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly takes a leap into toad venom science - EMJ",
+   "summary": "Eli Lilly takes a leap into toad venom science EMJ",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZEpSSFVId2ZSeGxpTENDUW5XOXVaUmg2aEVXcGI4UWdFVmNWMFJtYVQ4OFlvbUdzcHl4NE9BN3JoZy1TV2I3VU1TSVUtUktjNko4bklJdjE4UHpyRHhBSWhIczdxbnlnQlVkbF91VmtTc0xBQXVqa0RqemhUSEE1NmpNQkRrYWVVMWpGZ2pvZWFwdw?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "EMJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "bccc75881e27a389",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly Acquires Psychedelics Specialist AtaiBeckley - What Investors Should Know (LLY) - Seeking Alpha",
+   "summary": "Eli Lilly Acquires Psychedelics Specialist AtaiBeckley - What Investors Should Know (LLY) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRHUxUUdHNC1JQ2xVUmU1UnNTTWtxeWVIWUs2eHZ3WEtTSVJVbHVZMWxlWjhsUU5XTHl5b1NZbjF2c0diRmR5eGtBM3BCT3RvbEJGWXNRYVQ4b0wwNDFmX1U4aVlteEoyekI5Y2hrMDRBQm5CVjhvQnFpalg2Vl82ekkyYTk0Nms4c2FCTVZHa3UxWjJPVkRMdVVYaEdyQVZJeTlpUl81Znp4MWprNFJramNDMzZ6SGhtSURLWEo4UQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "03083ebeb9ac5537",
+   "company": "Eli Lilly",
+   "title": "Breaking: World’s Largest Pharmaceutical Company, Eli Lilly, Acquires 5-MeO-DMT Developer AtaiBeckley for Up to $3.8 billion - Psychedelic Alpha",
+   "summary": "Breaking: World’s Largest Pharmaceutical Company, Eli Lilly, Acquires 5-MeO-DMT Developer AtaiBeckley for Up to $3.8 billion Psychedelic Alpha",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYkRrMm8ybVdETmRwOVFnbktWVTJnOW5JN1BDdWtRUXNUbXdPdm1waDlPT1dmNWFzc2c0RTBaTFRNYmJyeXdZZk81VEZ3RTBFZlg4MmM4Q2c1czlHV1JNbURLNXpZUmdRaVVvd2V1dXk1UjBZWFVETzVXbnpmWjR0NW5YVk14WVh4b2FQQkNURnNaajJwdk1QYjd0THpuejVEaldBV0RGMTFpUjlPUzRtbzhXUTJuZzN6UjhPQXFlUkdUbWJncHRJWkZHZWhPYXhGdlZpUXhNRER0eWpwUTRONnJQOUJaSFhsSmc?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Psychedelic Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "448da373cff757c5",
+   "company": "Eli Lilly",
+   "title": "Lilly Strikes $3.8 Billion Deal for Psychedelic Drugmaker - Bloomberg",
+   "summary": "Lilly Strikes $3.8 Billion Deal for Psychedelic Drugmaker Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdldiRTNWVWdoTkJ5dW5RZldrV3JPZHo4Wm04OGVha0tWQktLcVd6NUVNanViOXp2TVN6ZkV1NWJlNmZHNEpSSGl0QmpORW10VkZxTjV0Z1VvdDZkQVhwLXNCMU40c2hIa2hOZFlRcmV4bGdNVFBBQ2lGa1BsT2g1MUpBb2EzaTh5TmVCT1IwYVF4X3hWSWZ2WkF0NlBUUlZGd3N2QWxSajhWRTZCelRpbU10Smo?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Bloomberg",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b1f4b6f8d3e2efb1",
+   "company": "Eli Lilly",
+   "title": "Lilly Expands Its Mind to Psychedelics With $2.8B AtaiBeckley Acquisition - MedCity News",
+   "summary": "Lilly Expands Its Mind to Psychedelics With $2.8B AtaiBeckley Acquisition MedCity News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDczUnVQMmI5LUN1aTVOaGE3djBhRUd3d0s4QjI2ZFFlYnZTdGR6WHZGLVZhZk9GNXYxM1h2UUNrc0Q0aDN0Wkxrd2VYNGRnTlM1OWpUTVVnYjJTWnZmLU8wT2F4ZzZVVlF3cUVwdzNVajJYMjdDZ1IzSThEVzA3anV6c2dnblI0czBseFBTWk9iN0VPRTM3UVNLTGM0Z1FrZUtQYTdKUEtvQlJhb28xUE9B?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "MedCity News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b186ef94a2dc0d42",
+   "company": "Eli Lilly",
+   "title": "AtaiBeckley surges after report Lilly poised to buy psychedelic drug developer - Reuters",
+   "summary": "AtaiBeckley surges after report Lilly poised to buy psychedelic drug developer Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ0JvM2t0NFhicTZyRjV6TnpRN1RaQ2ZMUjdRbm1hbG1QQk1CY0U3dmd1RVBoOENLTTh4T2tYSWNqOTdpeDFpeFhtVjJITnRtaTRYQ0FaU0k4bWNDVFBwSmk4b2RpS0ZxU1BqbTBCZFk3ZHJGZG84NHlSRTF6Mi02R1Mxa21vcGdGZGxIdDMtSjNtX0VSWkF2TnVpMFVsb0E5dXNBdHNodk01cVhlY2FDUm81X2VkRTRENnZKUFZBRVFwLVpfdkxv?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Reuters",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9bfa00f11488ce76",
+   "company": "Eli Lilly",
+   "title": "AtaiBeckley: 'Hold'; Eli Lilly Acquisition For $2.8 Billion Adds To Its Neuroscience Pipeline - Seeking Alpha",
+   "summary": "AtaiBeckley: 'Hold'; Eli Lilly Acquisition For $2.8 Billion Adds To Its Neuroscience Pipeline Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRzhoZ1BtRUpkNEtnbWJVdEtKWEg4U18wWXU2d0d3d3haeTVoX2xCT0RaMkVGTU5HU01oeC04TkxiSmZ4Z05qR25jZUtGdEtGWEU1VGRlc0pBSENWYU9xSXpZUUYteEt2Wno4Z3ZCVXBZTUp2MHVWN28zUllNYVM0RDhVTDcxVGZMTFNRRUhVbkNmUVk5bUpkMEZWcE1HdG1aWFFjbGU2OWdJd0d1TnhCSEJsSURwTG14RTVDUXBWbHV0QQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a27baac2660a504e",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly Buys Psychedelics Maker Atai Beckley for $2.8 Billion to Develop DMT-Like Depression Drug - 24/7 Wall St.",
+   "summary": "Eli Lilly Buys Psychedelics Maker Atai Beckley for $2.8 Billion to Develop DMT-Like Depression Drug 24/7 Wall St.",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRmo2Q1B0QWxXdkJQVjZ2ZUctQkZfREQ2TXpmSExxa2U5MzhhTDZ6ZmE0WWhYNlVsY3c0bnEzQk10NmZUMHhhSy01OVV3dXRGOHNjb2k2WTlwd1lCZU96TlJ2X1QxX25LcG1ad00xVjlOYV9LUGI1SUNMSFBvMjIydzJWZEZXNTlVVjVtMmd0Zm1yRzNwOHcyTTEwZzdhUW5sWjFzU1ZoQ1ptaS1SSzZmYkJwYXg4RDB0NTFLcWhTOUh3YWhGNDBzQmxTZko1YVBCUW9LNExJZmZ5QQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "24/7 Wall St.",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6aaca477a3374ca9",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics Announces FDA Acceptance of New Drug Application for AXS-12 for the Treatment of Cataplexy in Narcolepsy - July 15, 2026 - axsometherapeuticsinc.gcs-web.com",
@@ -17743,6 +18139,17 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3pKSXpXcmd1V0dra3BMZ3VyRFFiZllUakxmNWNQZWNLZm1xakZUaUdyYWFVUEJZYTZiMEZqaG1BZDJIdS1yZmpLZm5hdkRBcElkdFVmOXdCM09FWFlQS3RUZzNzQUFUUzlUTXVCU0dpdFd3dEtrSllVaEVwdDRKUVJmTVZqZEJnZEE?oc=5",
    "published": "2026-07-15T07:00:00Z",
    "outlet": "RACER - Racing News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f13eb4b387ad66a2",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly nears deal to buy psychedelic drugmaker AtaiBeckley, Bloomberg News reports - Reuters",
+   "summary": "Eli Lilly nears deal to buy psychedelic drugmaker AtaiBeckley, Bloomberg News reports Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUkdBem1IX3AtekZzbllhUEZyTU9HQU1RY1AxRF9ZSnNoNlAybXNmcnFnTDZ3X3RJWDQ4bXNlNERLeWlUNy02dFNfQl9BbXBKZmRHVXRpdi1oMXltUF9qNVB2NEQ0WDJJbmdXSDJ6WGJDUzR2c0t6MDVycnhKOWRCckwySkc1SjN6d1FZNWpzZW5nSnRHRWl4M3dtaXNMeGN1d0RuMVJsTjR1R25EYWhsbmR5Rk9ndzdhTzJuVzN4QUg2SFR5cDZPbUxDVHhjVmhWaDlaTGI0Z1NwTUhGTlE?oc=5",
+   "published": "2026-07-15T07:00:00Z",
+   "outlet": "Reuters",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22081,6 +22488,17 @@
    "first_seen": null
   },
   {
+   "id": "055cb0e923ef7d33",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Reports First Quarter 2026 Financial Results and Provides Business Update - GlobeNewswire",
+   "summary": "Axsome Therapeutics Reports First Quarter 2026 Financial Results and Provides Business Update GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOGI1VXI5bmRBLUJPLWtZX3lCOWRWYmlOUURBLW8tZ0tmeU1oWlVDQnFlQlNqVkZMS1h1c3Q2V3BjNF96OW42UDA5dUc1WjBndWJoLXZvakozYnB1Q2ZyWml1aW9WdGU5b0xtOXBHeF91VDBva21LeVQ0N01MZG91eHY0eG9BazdOdDhDbFBKektDRFNweURzeDlmZDVOeHpOUzJIR3ZBMkdkcjVKRGZUaDRaTlRPR3JBekttOHF3SURwVzdMektiUHhWM3hkQmQtWllMXzNQX2FfNXlKUlBLN0loUHd2MFotXy15cEFiVXFhQ2RQc0hISWcwTQ?oc=5",
+   "published": "2026-05-04T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ea1f1ead53c98f20",
    "company": "Arvinas",
    "title": "How The Arvinas (ARVN) Story Is Shifting With Vepdeg And ARV-102 Milestones - Yahoo Finance",
@@ -23269,6 +23687,17 @@
    "first_seen": null
   },
   {
+   "id": "8c09649670c5a1f8",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly tests GLP-1 candidate to treat addiction in four clinical trials - medwatch.com",
+   "summary": "Eli Lilly tests GLP-1 candidate to treat addiction in four clinical trials medwatch.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82ak5yZ010OTJYUEduVDBWSXdJQ2I2OVhWWFVpRW8zbGcxSmt4dmYyeW5WZ2l4VEhVbTZlcDltcURsVnN6X1hrdHJ5SHlqbHd4cEJZUFlCckdqeUk5WVktazRCNWo0TmlmRkhKYUhPVQ?oc=5",
+   "published": "2026-04-14T07:00:00Z",
+   "outlet": "medwatch.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "291b19234db30848",
    "company": "NeuroOne Medical Technologies",
    "title": "Press Release Details - NeuroOne",
@@ -24429,6 +24858,17 @@
    "title": "NRx Pharmaceuticals, Inc. Q4 2025 Earnings Call Summary - Yahoo Finance",
    "summary": "NRx Pharmaceuticals, Inc. Q4 2025 Earnings Call Summary Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3Brd3BZS2U5cnAwR0xrWWtFakk1bmdLaHFOWDI1VXh2SGN0V21mVmQ1UUQ2MW5BWVE0dDZCdTB0d29Mc0xXTFh4czgwUnJSTG9SUXdOMng2Z0ppQmdBYkFqbUFaNGMtOERFVzJkZktNa2dXYXhwQWRyclZ1bDRBNUhRa1FFd1ZQMC03dEcxcjZ6QkVvREpwN2NGUEhib3VMVmc?oc=5",
+   "published": "2026-03-25T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e77a01d8324f4f2a",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Is AtaiBeckley Inc (ATAI) Looking to Sell Its Flagship Psychedelic Drug Candidate BPL-003? - Yahoo Finance",
+   "summary": "Is AtaiBeckley Inc (ATAI) Looking to Sell Its Flagship Psychedelic Drug Candidate BPL-003? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQkJHMmpvemhxTjF3M0xNLUdrRjBxLUpqR3d5eUdXWVB6NW1OOHVoa2NoT0tsSU9jY1lab1Ryem9HOHZRdWRvWVg1dnJ1MUZFcXpoVUpQM2Z5SkJ3NkFqSEQwbDMzc3VZVUppUjgwNlRoNWsteVMtcHBCRmx2TFRpSjBHdGp0MFRmUHV1MGhCRUZyZTd1WkhIS0lsYkxqYnNibnNnUw?oc=5",
    "published": "2026-03-25T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
