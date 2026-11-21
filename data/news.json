@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:27:19Z",
+ "updated": "2026-11-21T03:17:37Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "26fa6401096bf709",
+   "company": "Annovis Bio",
+   "title": "Alzheimer's Pill Buntanetap: Annovis Says FDA Accepted Pooled Safety Plan; Efficacy Unproven - Tech Times",
+   "summary": "Alzheimer's Pill Buntanetap: Annovis Says FDA Accepted Pooled Safety Plan; Efficacy Unproven Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVkVZRmJLMTcxWGlmSkNWRlA0UXh0M3hmQ2hWT0lYY3dGNHM4R3k4VXBKcmNqSkphdHAwVDBiMzF6VURXeVhQVnhxeWF1b1Fta19QeWNKbW51Z3U0a2pOdkZHM2xVYl9GOXA0bzctWnN1eVk0WFpSMi1yWmR0UFplbDllbHVQc2lwUHV3UDQ3bFQ5T1B3amVFdHp1MG9Yb2dCY0tncGhYNHdpNVVuN2FsWUhxM1JmUnp2OFZUd3lyV2VCM1lsZnl4bUtPUW5lMHNmOVpjZzNGams2MjUx?oc=5",
+   "published": "2026-11-21T03:01:39Z",
+   "outlet": "Tech Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T03:17:37Z"
+  },
+  {
    "id": "75e9de6237b0fac1",
    "company": "Teva",
    "title": "Should At Home IGALMI Approval Require Action From Teva Stock Investors? - Simply Wall St",
@@ -1687,6 +1698,17 @@
    "first_seen": "2026-11-21T02:27:19Z"
   },
   {
+   "id": "7e6bdf058635be55",
+   "company": "Annovis Bio",
+   "title": "Annovis Raises $21M to Fund Pivotal Alzheimer’s Trial Readout - MyChesCo",
+   "summary": "Annovis Raises $21M to Fund Pivotal Alzheimer’s Trial Readout MyChesCo",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbzFVWjY3Y0xOYW9KSDdIX3o5RXdIRDdkNndkNFBIa0M3d1dxVXNJVTJDQ1dwQmxlMkNSM3RSYjBmWFQtQ2xXMkkxamp2cUVJbGwtYXNxMl9KRlBPV3BFTEcxbzR2TlJLWGNEOGxFcjBQZ1QtRWNqUDdMYll4Mk9wM3hqZlJ5bTIzMUZTUldPOWs0T0xTRkFKNVZCR1FKM1VEd2hRR3NCV1ZrUnp1MUE?oc=5",
+   "published": "2026-11-21T00:02:38Z",
+   "outlet": "MyChesCo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "e95e3fd188a1ecfb",
    "company": "International Stem Cell Corp (ISCO)",
    "title": "International Stem Cell 3Q 2026: Revenue $147K, EPS $1.4 — 10-Q Summary - TradingView",
@@ -1696,6 +1718,17 @@
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T23:15:33Z"
+  },
+  {
+   "id": "593491affc6a3db1",
+   "company": "International Stem Cell Corp (ISCO)",
+   "title": "Management says a unit sale lifted substantial doubt about International Stem Cell (ISCO) staying in business. - Stock Titan",
+   "summary": "Management says a unit sale lifted substantial doubt about International Stem Cell (ISCO) staying in business. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2xRSWNKNGpWS3A1dmJKcXNEaW9Rc2JBWHdvcTZVZS1ybDc5N0FENUMxQkJhV2JRZzM0QnNTX3hXOUkyOE92aDdWVHdpWFVQTjdxMlo5UTB0ZTYwc0MtLXotZ1Vpcm80N0VrV21FQktSUUxuUU9EVThOckZBbFA0Y05aMGM1ZmJKRktnSmF0WThGRWkzU2FpVHpWTjVXcEtOVHJlRFQyY0FTV3p1MVViR2tBOElUeDg1dHo3WFpR?oc=5",
+   "published": "2026-11-20T22:16:51Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T03:17:37Z"
   },
   {
    "id": "de75a3c9b5d20a52",
@@ -1786,17 +1819,6 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
-   "id": "7e6bdf058635be55",
-   "company": "Annovis Bio",
-   "title": "Annovis Raises $21M to Fund Pivotal Alzheimer’s Trial Readout - MyChesCo",
-   "summary": "Annovis Raises $21M to Fund Pivotal Alzheimer’s Trial Readout MyChesCo",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbzFVWjY3Y0xOYW9KSDdIX3o5RXdIRDdkNndkNFBIa0M3d1dxVXNJVTJDQ1dwQmxlMkNSM3RSYjBmWFQtQ2xXMkkxamp2cUVJbGwtYXNxMl9KRlBPV3BFTEcxbzR2TlJLWGNEOGxFcjBQZ1QtRWNqUDdMYll4Mk9wM3hqZlJ5bTIzMUZTUldPOWs0T0xTRkFKNVZCR1FKM1VEd2hRR3NCV1ZrUnp1MUE?oc=5",
-   "published": "2026-11-20T15:14:53Z",
-   "outlet": "MyChesCo",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "9354da7e88682c43",
    "company": "NeuroDerm",
    "title": "Tanabe Pharma to wind-down of operations at its subsidiary NeuroDerm - The Pharma Letter",
@@ -1839,6 +1861,17 @@
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "d8d10a289a205816",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio, Inc. (ANVS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Annovis Bio, Inc. (ANVS) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyUDlUaGxyRk9yNGtacEc1Q2pRaTdLb2xrczVoczd5UGR4OEw5dmdFQTVFekpNdEJGZUJjc1ZvVXlOX05NVmh1dUJ3eWtvVF83cGc?oc=5",
+   "published": "2026-11-20T13:35:23Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T03:17:37Z"
   },
   {
    "id": "9729ad31f5b50e12",
@@ -2094,6 +2127,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "89f19c2d07fb6533",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences director Gary Lyons sells $2.47M in shares - Investing.com",
+   "summary": "Neurocrine Biosciences director Gary Lyons sells $2.47M in shares Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQmN5dU5hV0QtckU1V0lOS3VyWTFuQ01XSV9CN2pkUXJVRWxEZWJScHpIRF9MTXR1ZFlvRzlCR0pjaXJkWENPeDNqd3I2b3l6Y2xmSXlvbHBGXzh5UEdTdk9tMFpTUndsejdZWEI1ZkU2WFUtTDNOQkNTVTh1Y2o1dWxhaUFiaXJWSGNWVUZONnhoOUNMN3VRZHdnUGQ0WEVXRUlBbm5pTC1DZmZQdDZLeUxMMGpRSm1XUkdlYjl0bldBamx5RGdV?oc=5",
+   "published": "2026-11-20T00:15:40Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T03:17:37Z"
+  },
+  {
    "id": "922c49889f2e27fb",
    "company": "Neurocrine Biosciences",
    "title": "Is Neurocrine Biosciences Inc (NBIX) a Bargain After 3.9% Drop? GF Value Says Undervalued - GuruFocus",
@@ -2312,6 +2356,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "46b43d05ff1b6aed",
+   "company": "Teva",
+   "title": "TEVA Stock Quote Price and Forecast - CNN",
+   "summary": "TEVA Stock Quote Price and Forecast CNN",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zNjdfS1cyZm15U3ZnWlgzc1pUd1dLNnNncmlkWmVBNXN2Q1lwZ0FGQUk1MWs5dmpQUWRmZmdFTUprTGc1NHZrSGx6Sml2RXBa?oc=5",
+   "published": "2026-11-19T15:45:53Z",
+   "outlet": "CNN",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T03:17:37Z"
   },
   {
    "id": "525bbe136dea6119",
@@ -2818,6 +2873,17 @@
    "outlet": "Investing.com Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "811eef22ca1d7499",
+   "company": "Alkermes",
+   "title": "Alkermes at Jefferies Global Healthcare Conference: orexin push widens By Investing.com - Investing.com UK",
+   "summary": "Alkermes at Jefferies Global Healthcare Conference: orexin push widens By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2J2WkpYelVyTGJnc2hHZThSTThrX3NYd2c1YTVsa0pianZCU3kyTzZrZlVCV2NvOU1ETFpyeXd3R0p3dmZzUzBhUEdscm9ISHJBVkFuMGN5TWVUMmhaamxSeEVVN1hLR0p1QlhOclRwVjVPeFZWZi1yUkJvTFNGeTR4aG91R2U1bThfSmVac1BCWWU3SVFQWExDNzRpVXAyMVBzek9DeXh2X2RHT2ZhQnJUNXFCZjYxcWktOFNfaUQ3c1I1dXYyblVB?oc=5",
+   "published": "2026-11-18T17:48:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T03:17:37Z"
   },
   {
    "id": "253ab459c5560286",
@@ -3601,6 +3667,17 @@
    "first_seen": null
   },
   {
+   "id": "b1cd14a74fa1814d",
+   "company": "Teva",
+   "title": "FDA Approval for IGALMI issued to TEVA - Quantisnow",
+   "summary": "FDA Approval for IGALMI issued to TEVA Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2xwZXptV2I2X3l1cmlQQ19wb252NVhPdXBKSTBsU29CSW5DMzRaZHBvSmRvMk11TzlENDM5b3AwcWxhTmZkZ3dnWUZxTUxWWVp5UWxLRjE3ZzJLdlRxWWE0V2JxTzc2VkdOcXg2aFFERlRpelpiRnV4dy1nc2tnLVd6d3BfLWd1?oc=5",
+   "published": "2026-11-16T20:06:54Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a1c12c10072a6f19",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma's stock slides despite successful Phase 3 depression data - Endpoints News",
@@ -4008,6 +4085,17 @@
    "first_seen": null
   },
   {
+   "id": "4be7f3f709eae37d",
+   "company": "Neumora Therapeutics",
+   "title": "Neumora Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update - Yahoo Finance",
+   "summary": "Neumora Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGctMVRaUldYVGRNQVl4Tmx5WTA3bEd2cF9Sb2tuRVhOZzBURE9PV1o2NzBrUWtCdUV6aHMyM2xCOVZhMDJKY0hhZ1Nqa3RHUFJsQlpSUU53QUVNRXVaenBYOE1hcXEzZENHdTVHcERoYkxIYkpMa2ZJNzFHckxfOExldFV1OFdzMjk2Zk1VWXZvNWY3YlAzdGVoUEFtZHRfbjdVS1hR?oc=5",
+   "published": "2026-11-16T13:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8283d2404207fa4c",
    "company": "MapLight Therapeutics",
    "title": "MapLight Therapeutics Q3 Results: EPS loss narrows to $0.97, beats estimate - scanx.trade",
@@ -4312,6 +4400,17 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaUhyYnZkMHYyQTAwT25nTXBMTV9VM0VRSE9TOTJRNW1td24wcVhnLUpydkdZY2FoV1RHUlZVS0F1dWZneC1rX1NlZE1MVEUzTVJqZHh2ZE5odDdVMWZteVVEU3VvOXdnNEFOR1JMOE5ZMU12d0gyOVF2d29NeWtuemVZQ2dpZWhKd0lNeFVVVDRIOGk3NXZuRE5PR3BGcEU5c2ZFY1JON1lkSVlJa185cm5DcEV1U0MycVdidXVMNkZXS2drQXc?oc=5",
    "published": "2026-11-16T01:44:29Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "08a3386834d4e67a",
+   "company": "International Stem Cell Corp (ISCO)",
+   "title": "Form 4 International Stem Cell Corp: Paul V. Maier (Director) For: 11 September - Investing.com Nigeria",
+   "summary": "Form 4 International Stem Cell Corp: Paul V. Maier (Director) For: 11 September Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkxXOTJNTUVkM3pSU2tjZ3ZUVTRJSHRWYkhFcFNSeGNvN0dVRzlTVmlpbkxUd3lWbi1SWXlWSU5yN0RhT1FkeEpyTWR4Yy1ncHpITFV3ZnE5dnVjaWQ4cjd1a1RWTHZPY2JVYXVrUEJHbFpXWWg2eXJPTWZsWWFtWXJuVDRGaTBHUm5Pa3pPYnRvMXdzaldQaUpaa3lZSGFoaUF0YWhWNHo3LVBQd1BuTjNYM2N1ZHRGajhPc0t4ZHlUVTdZd1diU01ydlE0OFNE?oc=5",
+   "published": "2026-11-16T01:40:37Z",
+   "outlet": "Investing.com Nigeria",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5031,6 +5130,17 @@
    "first_seen": null
   },
   {
+   "id": "1d3eeac31f0bbb07",
+   "company": "Protagenic Therapeutics",
+   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
+   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
+   "published": "2026-11-11T13:30:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a5e4f9c8f9303e08",
    "company": "Herantis Pharma",
    "title": "Horizon Europe-funded HERMOD project launches to support Phase 2 development of HER-096 in Parkinson’s disease - markets.businessinsider.com",
@@ -5170,17 +5280,6 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSHRHVnVnaEZlMFdoUEpncjhnbUpSci1vRlk3WWxBSjRzYXpsa1dmRzNyWDk0MTZFLU9SZVJtVWU2YlVkUm1OZldXWkNzRVkyNkZNWHBvU3JKNGJwN1AwaEVNUVdVZ2hrU3ZDUjVjbkN4YVBpcm1NcXM2b2puWTB6QlU1TFJsVlJVSmNfT2UyVHI?oc=5",
    "published": "2026-11-11T08:00:00Z",
    "outlet": "Mugglehead Investment Magazine",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "1d3eeac31f0bbb07",
-   "company": "Protagenic Therapeutics",
-   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
-   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
-   "published": "2026-11-11T08:00:00Z",
-   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6450,6 +6549,17 @@
    "first_seen": null
   },
   {
+   "id": "86795bd68dd1b11e",
+   "company": "Neumora Therapeutics",
+   "title": "Is Neumora Therapeutics (NASDAQ:NMRA) Penny Stock Spiking 15.07% a Smart Rebound Despite Its Bid-Price Notice? - Kalkine",
+   "summary": "Is Neumora Therapeutics (NASDAQ:NMRA) Penny Stock Spiking 15.07% a Smart Rebound Despite Its Bid-Price Notice? Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU2pWQzZHdGpPNFo4S1JmWU5Jby1obUxIc1NlRHBtODNWR0duV3ozLUoxdy01dTZMbWtZa0lmbC1MdVRnM2NEUHhPRUpWSUYtd2dOWC1PR2VmR0I4SW92RFJRbW1wWGV3RHd2Uk94U3BLaDVNRmlnRWNaQ3dGMmpEVmUtOUJ2b3gySkxzR0hOeVV2ZFBUdmllT2xyZmRkYUV5NXRLcnV3VTlHel85a1ZSRFVhQjN4ZUZmRzBRalVLbFgxTjV6NURPMTllLTI1d25CeHdYYV9VMk5hd0N5WlE?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "aa94d8a73b860333",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
@@ -7249,6 +7359,17 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORTZxSlVnaWdhYjVOUWdXTlA2MW1RS05NUXI4YXg0UVFhbHFqZElTcW8wVS0yZjM5SkFqenZKYUlucUFYN291VEhuZDhtWmVQdXdZR1Y0c1JWVVBDM0UwLXZsR2hPbHU4Q3dqVzFDODNUeWgtYUdFOVJIYWhWMm5lTnZmOVE5Smx2dUlwWjlXSjJDS1E5enNIY2ZIckJ5Nzk1UndyQnFFUXctR1ljclVoYU12T1JkRmEyRFJsWlFnamhmbGNmUkJ5NjVCNHpZdnRPS3pNWUdGM0RpYU5YaTNz?oc=5",
    "published": "2026-10-31T07:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c2fa3e4da167ca9e",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Addresses NYSE Non-Compliance Listing Notice - The Globe and Mail",
+   "summary": "Annovis Bio Addresses NYSE Non-Compliance Listing Notice The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdm1JdG5zT2JxcFhUUnFVQnM3M2hQQVQ5VjNYSTdoWVB4dEt0Vi15a3pqRVhYT002OVVUc1hFTl9IRkFsX2tLZDZUNlNYYXNGeVAwMHNsYW9IMVN1RkdFZFpLTF9Gc0tqa29oLVYzNWVOTElPNnRhdHpiaGVCS0ozNVVHcDA4Z1BUOUtpNThQX2NzSk5qOG14a1JKWWVTOGxNQURSbzNuNXJBVUU2V0RDU3hyNGRyLVlSaS1MTE5KMUdTRVlJQW5MM1F5WFJIeDJWaDJ3?oc=5",
+   "published": "2026-10-31T07:00:00Z",
+   "outlet": "The Globe and Mail",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10168,6 +10289,17 @@
    "first_seen": null
   },
   {
+   "id": "0c9ffe9c2e574608",
+   "company": "Idorsia",
+   "title": "New results across pediatric, adult and real-world insomnia - GlobeNewswire",
+   "summary": "New results across pediatric, adult and real-world insomnia GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPbVA2NlBhbmx2V3ZFQlFzWW5LVU9ZTDFMVWVhN2hKWVhBMkpQei1OWFNHYlhWWUxXbVNSUW1qYm1mZUZ3ZE91SzVQUnN6QVRPQUlJOEZWTmlmb21ranNESjhDQWpYbmkxZlFmVjFsMWhPVVNreUFTR2VWcUZMcEhfUzk3UG1HRlRVRVlHa3lCNnVDRVpLbmpUaGNKNklSZWJVR2xxZUNYZTNBT0hWbU0wS3hVRFNzTTlfbjQ4eVpscTRZQnhTMWl5a2xfX2dMdFpiTVAyZDJuSXpobG9XYUxyYXY1eXU3U3ZkZU1UZjFTcVZxSWJyZXVOY2tmcFNGc1BkbVMyR0ladFBIbkFpdGJ1eWRxbVdwQUZpTUczUGRoWkJEbzZCSmZLVFJDSVVRcFl5NEFEc0h6OTFYNzlwdFZ0Sg?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1edaf5ba7f41e3be",
    "company": "Novartis",
    "title": "Value & Access TA Head Immunology & Neuroscience, APMA - Novartis",
@@ -10725,6 +10857,17 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazk2R0VocHdOaU10M1QzVHFzZnRmQWNsQnVUNS1XWGVvNDNfSDVaS2JaTkZWWEdyYjRNV1pnWmpTdGJ4VG52U3R3NXc0RTZ2LWpCaC00Yk1KcmdKQzQ5RFhnaHFoSFZKYVVzZ2lFcWU3SXhOOFlPR2M3bG9xMGZqZDZyM1AzLVBKSmItNWtqQjRkOHFsc1ZhUWUtb1MtbFVHWGpXWmZpQk9CWWQ3a09qSw?oc=5",
    "published": "2026-10-01T07:00:00Z",
    "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4c87198735ed0044",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Presents Positive Phase 1b Open-Label - GlobeNewswire",
+   "summary": "Gain Therapeutics Presents Positive Phase 1b Open-Label GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOdzRQOE1DUkwtQUh5TFNZTUpTd3NoaWdVTmlHOGdBbGE3bkJLajZRaG5uVjBuaXkxaDdPVEJ1VFlBMnhWUk14V0xLZlBWSFM2MjQyY29USXFKT0hmeWY1MzVwSVJTOHR1dGNDT1lNbjZoZ0tGT2hHQzdTSVlDOTNLN0FFVGxWX1ItbWxRMHZnZjhyZ0tXejliNG5YcVVuN2pPbWNEZ3hlUmJOZDUtMXBLMjA5bENUTFI0VkViRW1BMk1YcnhTbHlMTDgwLUJON2tqN01nNWxYeEhmbVp2QUFUQ28wV0U5R3FDYTFhbkpfWkNLWlZpRVVPUUljZVMxTTVQQVdlcmRKYkVGdUV4QW5rU1JLNUpsVUpSaXZYT2duZVNlRzRURU54czF4YmZGVEhMYlplTDBaMTNvTXVDUktROFhmdWhyYTlINkloRjhXRG4yd1BGbUVYNklOS25TNUhXRXN2TktPbkFCRWs?oc=5",
+   "published": "2026-10-01T07:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12181,6 +12324,17 @@
    "first_seen": null
   },
   {
+   "id": "a734640f855f16f7",
+   "company": "Teva",
+   "title": "Teva Announces New Olanzapine LAI (TEV-'749) Post Hoc Data Highlighting High Rates of Stabilization and Long-Term Efficacy as Once-Monthly Subcutaneous Injectable for the Treatment of Schizophrenia in Adults - Yahoo Finance",
+   "summary": "Teva Announces New Olanzapine LAI (TEV-'749) Post Hoc Data Highlighting High Rates of Stabilization and Long-Term Efficacy as Once-Monthly Subcutaneous Injectable for the Treatment of Schizophrenia in Adults Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTJETUl2SWh6U3ZWWnBrWEd1dVluLTNZTWtDSVduWUFEeTF1V0w2Tng4VUQybVFGY3ktQWZLQ25nNVlYQkhQZVBxYWZTLThFX3hxRUFNRDFmal83WVVxajFwZTZ1azUyaERDXzB6V0JpMVNPMk54VnVXcEFGTjBwTEpBVnY3M0RQTHRQbXVtZEI0Z3hYZEozZUhB?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "175772e2e85dcdcf",
    "company": "Aspen Neuroscience",
    "title": "Peter Thompson, M.D.",
@@ -13530,6 +13684,17 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTURJOXJWcGgxMkRaMndoUUd3MlpLTlJXeTlrLW1jS2hLU2puVzJ6YWFPUXlZN2JoQjVHSUxHOGVZTVlnRTZBakRvaEtRRDZiNFl3ZExVWWViQ0ZpTGhVRHN3c1JxTkNORVRKcXR1MlZOOUUtSkh2WnFJai1saTlRajR4bWg5RDFTeC1vcExWZmJjNFJyT2ZqUXpKTlpnbXJDd0ZVT2duaUstSnhXTGdaM19rdl9iZHZwWU5SMkc3WkdVbHBhb0pFNU1jX3BxNjVl?oc=5",
    "published": "2026-08-31T07:00:00Z",
    "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "439a2365754333b7",
+   "company": "Teva",
+   "title": "Teva to Acquire BioXcel Neuroscience Assets - Pharmaceutical Technology",
+   "summary": "Teva to Acquire BioXcel Neuroscience Assets Pharmaceutical Technology",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdE1aMnhuVkd0SXVKQmhIUGxUaXp1bFFDOEZpVWg3amxwaG95ZEdRQ1JJb29KTHJiRkJIal81UHJiT3ZIVTdQTzZYNk5YaWdZN0VEcUJ4WW5DM3hqVnFReURmSmZUTjdfLTRtOXg5SzFvWFg5Yk9aUVhnOGxRQjgxNkFNR2M?oc=5",
+   "published": "2026-08-31T07:00:00Z",
+   "outlet": "Pharmaceutical Technology",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16207,6 +16372,17 @@
    "first_seen": null
   },
   {
+   "id": "3cb5cd2d9d3acd95",
+   "company": "Idorsia",
+   "title": "QUVIVIQ sales increased 62% year-on-year as Idorsia advances key drivers of future growth - GlobeNewswire",
+   "summary": "QUVIVIQ sales increased 62% year-on-year as Idorsia advances key drivers of future growth GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXZ2TGdwOUJocy1nTDViak9xUW44MzI4MUxsZkhjNFBMbzBRMElqTnctczYzclJDX3pxNG1kNjd1a3JhNDZKWEtQa0YwNUthaEg5WHp0YW5lRFVTckswX0h0dGZ1TU5vM0tXMHpjYUNuYlBFWlI5RkQxUlo1ZEx2VkhnODBpdFFTNHRlUnVZdW9ONjVyX2ZvQ2w1X0djcjZjMW1aQnh6SWlOeWJENWZHeEg4YnJzR0FOUEM4WUVGa21rSGhnNktuTmg2UDYyV2R2XzVMakFtSnJIQlFOVGRGYXJwTGZRWHBmTlgzLXlCVEtodw?oc=5",
+   "published": "2026-07-30T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c6a19f21657c7409",
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
@@ -18286,6 +18462,17 @@
    "first_seen": null
   },
   {
+   "id": "f9afa0e015f22c2e",
+   "company": "Zambon",
+   "title": "Zambon Announces Positive CHMP Opinion for Hopledo® (IPX203) for Adults with Parkinson’s Disease and Moderate to Severe Motor Fluctuations - Business Wire",
+   "summary": "Zambon Announces Positive CHMP Opinion for Hopledo® (IPX203) for Adults with Parkinson’s Disease and Moderate to Severe Motor Fluctuations Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZVJha0o2bHFsbWwwNUVMX0hyazZVRkk2d0RmaUFyVlZUNi1PcmNIVHdycm5fSmlTTVh3RGRLMFo4TGFNYUVDQlBPLUlVWkNYSmpfV0RWNkZ0RXRLZ0o1MVFraW12YlJEaXZsaGEtTUY1QmhiSUFkM1BqOW9GWldHVTlvZU1jX28yakdZVGNucmNOWmx3cXBxMWcxeTF1S1ZTT1ZCWnhnVU8zSDRRR3JXSGpYV2hJY21ERGpfLXJ3dXJ6YkpHMWJJQUxVLTFoYTItT0g4UG5XZXZGcVpTNmtvWXBMakdqRFNGeHFaekdaekRORzJfVzl2NG4xdnEwcS1PRHQ0TUwza1pUekU3cjVJSWNvUldxRzdlV0xz?oc=5",
+   "published": "2026-06-29T07:00:00Z",
+   "outlet": "Business Wire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "113a41e71d68bd0e",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Draws | WTA Official - WTA Tennis",
@@ -19174,6 +19361,17 @@
    "published": "2026-06-12T14:03:01Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "759fc11f977d9977",
+   "company": "Sensorium Therapeutics",
+   "title": "Evan Gibson - Chief Business Officer, Sensorium Therapeutics - yespress.io",
+   "summary": "Evan Gibson - Chief Business Officer, Sensorium Therapeutics yespress.io",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Kc2dvMlBwTGNPcjQtZlh0NHh6Sk92blpYRVl4bFY0WkZHbXJ3Z3N2RmNoak5DUUhwU1RHYUtHeHRQVzB1eXc?oc=5",
+   "published": "2026-06-12T12:46:13Z",
+   "outlet": "yespress.io",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -20856,6 +21054,17 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUDZDQ3VwRUpTTGxyeEJVVTc2NG5kUk01TzkxV0J6ZnZXejFUY1prSnZmTnQ1MEE5aF9VbkFaVmhCUG9ZdV8xaE5mU19CekVhOHpEcnNIeGFWS3VudWVuTVRRN2tiaVVGOVZFQ1BLV2Q5WWVrYVA5TTk4Z3dZRVNacXFvcWp2NWdnU1NYVTNSdWg1b28zWmxua2VmOUI5LS1PdGszeC0tcURUWTUwXzVvcWVqeVgwaEtZM3VwMlVldl8za0VYaWxaaC0yb0VtQ1U?oc=5",
    "published": "2026-05-20T07:00:00Z",
    "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0e6be52d172a8b12",
+   "company": "Minerva Neurosciences",
+   "title": "Should I buy Minerva Neurosciences (NERV) - Zacks Investment Research",
+   "summary": "Should I buy Minerva Neurosciences (NERV) Zacks Investment Research",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Fbjd4bEREQlkzMWtqNlEtLUwxZGFhM2VJQTQ3TmtHS0psVWRZUmRGcWpNSDJETHRXWjhMY3pjUGlUREFCSFo5LU1MVTNvRml3MmM3SlhhRWdWeDZxNHZrTkphU19hT0o0a21ZbA?oc=5",
+   "published": "2026-05-20T07:00:00Z",
+   "outlet": "Zacks Investment Research",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
