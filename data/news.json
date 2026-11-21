@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:39:00Z",
+ "updated": "2026-11-21T19:31:43Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1808,6 +1808,17 @@
    "first_seen": "2026-11-21T17:14:31Z"
   },
   {
+   "id": "763bad41bf1be6d4",
+   "company": "International Stem Cell Corp (ISCO)",
+   "title": "International Stem Cell CORP Releases 2023 10-K Report Highlighting Financial and Operational Performance - TradingView",
+   "summary": "International Stem Cell CORP Releases 2023 10-K Report Highlighting Financial and Operational Performance TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR2RHR3l3VklPYmRmLTdJNUQ5NUdLVU1kZFZ5LVBacEVFc0hYalROMmY5SmtLaG1vajNETUhfTm9WYVl5TDNlcFpmenVZZ1BfRENiSy0ySjlWV0c5RUd1cDhZby1fV042b2FlM3pYNDRjWFZJd09fa1hta0RMS2tGZjg4bUNlUW9vY2pZMFJPdjNPRXFkSFF3UEo4di1xXzdYdXBLdF9OQWpYSkhGN2R6SE5yUXRERlRnQ2R6LVBPc2tUb3B0T3psMklLMnBJLURvT3Nvc1JRajJpemhtMDRGOC1LaW1YWHpsT2FqYm5sVVcycDRNd3daRDV3?oc=5",
+   "published": "2026-11-20T19:29:08Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:31:43Z"
+  },
+  {
    "id": "960164c9d5234107",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics, Inc. (19X.DE) cash flow - Yahoo Finance UK",
@@ -2224,6 +2235,17 @@
    "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "16f5f0fdcbbdca7f",
+   "company": "Neumora Therapeutics",
+   "title": "Neumora Therapeutics, Inc. (NMRA) Receives a Buy from RBC Capital - The Globe and Mail",
+   "summary": "Neumora Therapeutics, Inc. (NMRA) Receives a Buy from RBC Capital The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOWR0SnBnb2RjRWNfaVIyMTR5d2xNT3diYmhCYV9RWEh3SURVM05Oc0t4aENaa2lCX0hMLTlUaDlDaFdxSHBKSk45eElXRkZiSG5oSGJlYVlHVnBoV2xheUo1eS01VzJDZnVWZDNQQ2FNQ1VQVTdzb3owUGZEUFZRUUctS1RFb3Zpbl8tbXpWUjFabkZlSjRoRWU0RUg5RWs0RXh2ZlI5Z2o1M3ZjTVBjWFlhX0d2T1pwWlhaUzBTTmt6V3ZhLXJfaUN6V0dGejFNcXRmektYbXRVNFp0eGR2SV9n?oc=5",
+   "published": "2026-11-20T08:00:00Z",
+   "outlet": "The Globe and Mail",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T19:31:43Z"
   },
   {
    "id": "6a20cea0e3a191e0",
@@ -3258,6 +3280,17 @@
    "outlet": "BNN Bloomberg",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "d6652835c4ed1be0",
+   "company": "Alkermes",
+   "title": "Alkermes at Jefferies Global Healthcare Conference: orexin push widens - Investing.com",
+   "summary": "Alkermes at Jefferies Global Healthcare Conference: orexin push widens Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVlV5Ym9WeWpVUDNfME9FM2tlbnQyVTNZR2dGZ29LT0pkOGZ4b21POFVfOENhbjh2dFhrR0xCZEE2ek94Vm01czByTFNHak1ndlZ5U2ZreksxUW1UWnZjUFFadEdnNXk5SmJYNHFsTWRPNU50Q0NZbkNNeGxKQWtsVjFlQnpuWHh6SnhUR3BBZjBvNjFucjZiQThMUjJXMU5Pb2NKVWVMbjNMWGw0SFcwVXJSakNnVlRDUm5Tcnd5TEJKVDQ?oc=5",
+   "published": "2026-11-18T18:08:28Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "1bc54073936667c1",
@@ -4591,6 +4624,17 @@
    "first_seen": null
   },
   {
+   "id": "4e043edc03d77f51",
+   "company": "Alkermes",
+   "title": "Alkermes PLC (8AK.SG) Seasonal returns chart - Yahoo Finance Australia",
+   "summary": "Alkermes PLC (8AK.SG) Seasonal returns chart Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3QWU4M1VNdW9DMlM5VnNNSTFsOEZOWGl6ZHZlSWphRXNsZ1AwVVZDSzNFOWJ3STM5a0dzWXJuN1dNNlo3S0lzRGNGMEh0RHoyXzJVWFg3MUhFbkgyd1ZMbWtmVjM?oc=5",
+   "published": "2026-11-16T18:01:34Z",
+   "outlet": "Yahoo Finance Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7b8c29c1a0d87a29",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics at jefferies global healthcare conference: pipeline gains - Investing.com",
@@ -5405,6 +5449,17 @@
    "first_seen": null
   },
   {
+   "id": "334407514cb338f5",
+   "company": "Alkermes",
+   "title": "Weekly Recap: LYBALVI patent settlement and litigation dismissal - TradingView",
+   "summary": "Weekly Recap: LYBALVI patent settlement and litigation dismissal TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdG5qbHhDOE1YRWxjNXRDV0xzWDhNWjZJMWR0bjM5S1NnS1JuWnZEZzJYNGxtWG5tYXBoLXZ6bEtSVWtWVnI1bldaX0I2WGdjbzJrSGx0ajg5cmRwZVVadUtIaVZEVmMzR0VXYUhTbHotLWpyNF9TRTZGWkJBemlrZ2FjVVlDamNtQ2k0cVVMVkUxVnVxYmNub0xRcWYtWDMza2U1dUdkODJyZ3NjeXgtWncwbVRzY3U4aTVVQ0wza0ZjN00?oc=5",
+   "published": "2026-11-16T11:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "2ad002a12c985325",
    "company": "Insightec",
    "title": "Job opportunity: GVP Specialist - Insightec",
@@ -5434,6 +5489,17 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmxLMmg5Mk1YNERzY0NkZjZyblRfbUFpX2RZeFJNT0tPVFNNc1BCSlV6QTlFaE1QVVVhYnZybnpYM2FIUnpiTGxWR1huRXAzQWJTOXhEbHgyN1pKRl9xVmpZdUZvUGtZUWFzR19lR2FsdEdwb05oa3ljSTVSUXE3R1Boakc0amtnX1FvS3lHaDJxb3Q1MDM3aG1fbXVSWk9ad2N1Uks3VENDOG5vcjQzNF8waFA1VFNNZ25SUGI2cF9FRlR1T1k3VUJIVzZwNlU?oc=5",
    "published": "2026-11-16T09:12:12Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4368c216203e4fb6",
+   "company": "Alkermes",
+   "title": "Alkermes CEO Flags Six Clinical Readouts in 12 Months, LUMRYZ Filing Ahead - Yahoo Finance",
+   "summary": "Alkermes CEO Flags Six Clinical Readouts in 12 Months, LUMRYZ Filing Ahead Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWTFwOUJvWHBmYk8tTm5aZ1U1WGxLYW5nRzJTcUdwLVIyaGpFRWY4SDZpX09Mb2F2VTRwX2NYblZrRExmd3JzTnV0MnFLRC1pUFdXN2JCMkRGRTc2NzBLY3NJNEp2MW1OeXpmRXRHZlhuTW5nZURlZXYyV2RKNkFuSm5TLXhVT3ZlMVRCX3BWTTNPNS1EaVpR?oc=5",
+   "published": "2026-11-16T09:12:12Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5614,6 +5680,17 @@
    "first_seen": null
   },
   {
+   "id": "f857a26436e35fb3",
+   "company": "Alkermes",
+   "title": "Alkermes Announces Appointment of Anne C. Whitaker to Board of Directors - The National Law Review",
+   "summary": "Alkermes Announces Appointment of Anne C. Whitaker to Board of Directors The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFo4NVB0b2JUOEczVFY2NDhjaWhPYnlUam1IQXpIdU1ISkl6bUNuanNtUEJPSGV5X25UUnBGdHJtekJqQm0xb3REMXJrRDBEc0t4LVhZTFlGOHFJZmNJcWZ5X2wySkJqVUY4MU4wUXkyTndzcG1SX3hDZGd5eWFwRDgyYXgyb1k4ZW9CTmlZWVVYM0ZSb0thQzdpMndYRTJFME84WQ?oc=5",
+   "published": "2026-11-15T21:16:05Z",
+   "outlet": "The National Law Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bba4b93ac6bc6f1d",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder - Helus Pharma",
@@ -5764,6 +5841,17 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3pHS0lCMElxYy1BR3NFUWJFSmlBUHlDSVpNR01jYi1tVjhNei1XZ1JfRzVlM3hTTkJxUlZLcjVCcGtUVGNVaEdFVTZ3VnVpT1NYNUZYc3JoOHR0dkMzQVo3TkJWRDlGNFNMUzNMaXEtR2RQUm9OUlp4NUlHamFQdkNNb0RHYWQ0SHJNWlFnQkpOdlljcHBFaWxiSjZiaXBJeXF3cktPdnJqOWxWRGJFVWtaNUw?oc=5",
    "published": "2026-11-15T01:20:11Z",
    "outlet": "TipRanks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2fe82d59a40d8ff7",
+   "company": "Neuphoria Therapeutics",
+   "title": "Neuphoria Therapeutics Inc. (NEUP) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+   "summary": "Neuphoria Therapeutics Inc. (NEUP) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCbzUwd05JR0psOUNlcFpNa2dCYWctTDJpUC1iMXJNcXphQ25UYUxQNkdqdjhEMFN3MVYtWi1OQmllYUJIZURIZktfS294ZzFBSWxyM0N2bFJIOGJ5UHFobFR3?oc=5",
+   "published": "2026-11-14T21:54:31Z",
+   "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5940,6 +6028,17 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1ZfQzNTMlRLVkJEUDQ0YjZWQ2Y5bGFOWXRvNzhNcjJaNEJnaEM0NW01endvQ0ctWkF2alRJQzFnVTlyWTdmdkNlNU1najZhNC1mUFVQV21MdzYwdDRTMlNWV1BvcWRoYmR3aUlOYmYzTVlVTmpDdHEzZ1U0S0dtamRDSktnbUd0QVRMZnVKZnc1QV9GRWZ2ZThReWc2eFRyMWJLNFU5QV9iNzh6c28zY2pn?oc=5",
    "published": "2026-11-13T16:16:14Z",
    "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c2479cf2cdb9791e",
+   "company": "Alkermes",
+   "title": "Alkermes Exclusivity Extension for Lybalvi Offsets Alixorexton Pricing Adjustment, RBC Says - marketscreener.com",
+   "summary": "Alkermes Exclusivity Extension for Lybalvi Offsets Alixorexton Pricing Adjustment, RBC Says marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRHhDMlJ2NEh5eVlEaGtvY1VTYWpCOXRETjBpU3p5UXNQQjRTUFl1WUQ3cFBRT29UcVRraF9FY21xT0Y1YjBMTy00T1dESzl2bUs1Ml93Y1dQMnlReUdSVkNVNWI2anV0V29XRWVxRG9vS1lSUFNVckZ3cF9zYm5SZEdMSHpDcDJRV1VYWHRsNUFJanlPRllVYkRLSlFFRno1blB6ZkZFNFJDeDExcDRvWjdKN1VTVTNYZ19KUDhHZUJiOGVwWlktekFGeWs0ZFhnSXhkbU02VEJOVFk?oc=5",
+   "published": "2026-11-13T16:05:17Z",
+   "outlet": "marketscreener.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6285,6 +6384,17 @@
    "first_seen": null
   },
   {
+   "id": "8d21cf4363143ff3",
+   "company": "Alkermes",
+   "title": "Alkermes and Teva reach settlement on LYBALVI patent litigation - Investing.com",
+   "summary": "Alkermes and Teva reach settlement on LYBALVI patent litigation Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1BCVHBCVjRrMl9GQWJGM3ZXYzlfQXV4b1dlRkNxcEpGbHhtbmdDWUJESUttdkFQNk0wVF9aWTlqZ0I4a1BRdTY1d0lGQnR5R2pfV3g3bERBRVBCOWV5amhRQTJ0SDJ4SGtscXV2WU1vRFR6QmtjTjE3YUF2VWxvWER0UTk4c1I5dE1rbTRhWE5OcEtZMlFFNFBLVG52ZmdNY2UtZWRUNWVibFZCMUJDQ1gwd2VpbXRmMGFR?oc=5",
+   "published": "2026-11-12T12:27:25Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e54787d817acc404",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics to present at Bell Potter... - Pluang",
@@ -6604,6 +6714,17 @@
    "first_seen": null
   },
   {
+   "id": "1d3eeac31f0bbb07",
+   "company": "Protagenic Therapeutics",
+   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
+   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
+   "published": "2026-11-11T13:30:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fa7d12de4cdd1032",
    "company": "LB Pharmaceuticals",
    "title": "HC Wainwright Issues Pessimistic Forecast for LBRX Earnings - MarketBeat",
@@ -6736,17 +6857,6 @@
    "first_seen": null
   },
   {
-   "id": "1d3eeac31f0bbb07",
-   "company": "Protagenic Therapeutics",
-   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
-   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
-   "published": "2026-11-11T08:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "8f49ba2f59392990",
    "company": "Annovis Bio",
    "title": "Malvern’s Annovis Bio Prices $21 Million Public Offering to Advance Buntanetap - BioBuzz",
@@ -6853,6 +6963,17 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcm54d1dvZEx1QVI1VWRYdlhlRWx4RDUydmpicnNxdW1HajVfVVFYMEpmdlJOZXg3MnliRG9Pc2ppNGZEeXlSQWZiZk8ydGt5dFJvUnZLeE5MbWZBcVFBMWJEN0pIMzltUDZEalBYNFU3QnhFMXJvMnBSQ1J4N0pJN1p5SDZVXzMxQTdMWDhxQ3FCRFF3dkROVXpjUGZhS0tfaWZ4bEFyaWhDNkdyNy1J?oc=5",
    "published": "2026-11-10T15:01:50Z",
    "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "44c24a2f27b0445b",
+   "company": "Alkermes",
+   "title": "Alkermes PLC (8AK.DU) stock major holders - Yahoo Finance - Yahoo Finance Singapore",
+   "summary": "Alkermes PLC (8AK.DU) stock major holders - Yahoo Finance Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xUENVaHM2aW1ja3RURlpabGpES053MjVoaHdRbjhjUkFkcUM5NjVlbXJHak5BOWpBOGRkNGZad1M4TFN5RUJmMWZUQzhZbUk1QjVtMnFnMFRONDJaSEVz?oc=5",
+   "published": "2026-11-10T14:45:31Z",
+   "outlet": "Yahoo Finance Singapore",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7007,6 +7128,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcU55OVY1SFNQSmtsSElTZ3BpcWFnNkg4eEFuajlHcnFaSzJBZTdJYW05XzZmckdLc0tCbW9LMUt3WmV2cV9uVUxDeFZGaUMzelY2NXlpWDVVNmFLLVZsUU9Hc0YwYkppNlJOZWlXM01lcWNyaXdJYkZLVEtoX2VNTUlzcFNEd2VOX0E4NFZ4cGxWZmJidG9jQkdISWdBYUJ0U1dsOU5JZ1h5Zw?oc=5",
    "published": "2026-11-10T08:00:00Z",
    "outlet": "Drug Discovery & Development",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "023c12927706e4ef",
+   "company": "Alkermes",
+   "title": "Alkermes at stifel 2026 healthcare conference: pipeline widens - Investing.com",
+   "summary": "Alkermes at stifel 2026 healthcare conference: pipeline widens Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFM0VkNtd0Q5WjJGc2t2bjJaNnBIdDcwSjJ1Ujd3NkE2ZHFlMElnOXlZdmxKRXp6bGxrOFVibEhUam9LWldSeDVFNHl2Tm9RSmM2SDhVSkhRa2h0eElxQ2Mtako2bFRmRlZ5TTY0VWZMTmN5RGt2MGhqaEN1U201M3VpYWROUVhQOEtscGlxOXJiQk5KWGwyX0tsSklHMFpveG53WnF1Q080dTR6U3p2SVYwWW1KQzcw?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8276,6 +8408,28 @@
    "first_seen": null
   },
   {
+   "id": "273036ad9636148b",
+   "company": "Alkermes",
+   "title": "Alkermes Showcases Research From Psychiatry and Sleep Portfolios at the Neuroscience Education Institute Fall Congress - BioSpace",
+   "summary": "Alkermes Showcases Research From Psychiatry and Sleep Portfolios at the Neuroscience Education Institute Fall Congress BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT0hIb29FRGt2WEw3ODhzOGVhNkJuc3NJakc4XzlEdEd1dEExb2VKemRBNE93S1hZZ0dxc2xPUlFyd19RY3M2bm1lQ1BwSDg5ajlma28wNXlmM1JHbVhma2ZmT1N1QVFjSERPX2FJbnZnbnNWYkRqb3N1MmlwMjRjVnNjTU9qTkR2VWhia3QyM2JxMFJNMzhRZ0o0VjJFQ3JxVDJsc1FNMXRGbTljYkpSeUNWOE9rODB5YVNfUWJaOGFyNXdLbHcyWkJZYmgyNnh6cUR2U3BCVm9Qb0xpTzBLUUV5TU5wLUVFajU1TEx0NA?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "28ee21c355aa4053",
+   "company": "Alkermes",
+   "title": "Alkermes plc 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:ALKS) 2026-11-05 - Seeking Alpha",
+   "summary": "Alkermes plc 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:ALKS) 2026-11-05 Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGRCOVFfZVdNQ1RJR2NuZW1KQi04QXBlcGJPZzUzaU9OckZrUjc0YVVrYXNBaUdWTmpZLVBtRGZXWEV5M2lKZTNPV3VVOTVpc3B2cVlDb25TYlkzTF9HYndnODhsdnlWN1RnU1hnXy1VWGItb1ZPdHM1SklvQlpqR3VkbTNkVlpBVW9fYUpYSzNHeWotbnI3UFJ3LXQ?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d0792618de97c372",
    "company": "AC Immune",
    "title": "How Did AC Immune(NASDAQ:ACIU) Progress Its Parkinson's Disease Pipeline in Q3 2026? - Kalkine",
@@ -8408,6 +8562,17 @@
    "first_seen": null
   },
   {
+   "id": "27f19cda455d543e",
+   "company": "Idorsia",
+   "title": "FDA Breakthrough status for Idorsia’s daridorexant - The Pharma Letter",
+   "summary": "FDA Breakthrough status for Idorsia’s daridorexant The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdhUUVJOXlsdVJVQWVwZHJiNy0tQWRNRDJ6Ml9iTWlyN083eS1hZzhDeC1ZMHQ5RXo5X3VPYnZOTWVfMTRtY0xOOFhZNlZlSC1FSXBfbkpKQTJnTFhPQ3dlR0JEbEhpYnI4eW5xTGNocUVJS0h2S2V2ZzF3OXhXWnVPaVNrRm40YWRfZ1JncnhKUUplWnRYRi1ldw?oc=5",
+   "published": "2026-11-04T11:29:16Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "32a2e52529545c4c",
    "company": "Usona Institute",
    "title": "Stifel on Compass Pathways (CMPS): 'the Usona situation is an extremely atypical one' - StreetInsider",
@@ -8426,17 +8591,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0hoM1pYR2MzdjhZOEhoNzd1dzN1ZmI2QkIzVHFnTnlWTGhMSElENS1XSGVLTHJfTmpsYUtsNGMzUmo2aG9TT0lXbnNISE9CMTdROGd1c3ctVFBFd2hfelRvSG92Y2VKaWlqMDkzSVVTV0M2d0hJcE1PcUlJUTljTzNRalVPOTRVeVRsX190bTRsQWRGSWEyLTllT2dING9tMDJjRm11QXZyRGk1QUN6aG93ODROc2xOckRMbU5WNGMxSlp1ckszbg?oc=5",
    "published": "2026-11-04T10:14:14Z",
    "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "27f19cda455d543e",
-   "company": "Idorsia",
-   "title": "FDA Breakthrough status for Idorsia’s daridorexant - The Pharma Letter",
-   "summary": "FDA Breakthrough status for Idorsia’s daridorexant The Pharma Letter",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdhUUVJOXlsdVJVQWVwZHJiNy0tQWRNRDJ6Ml9iTWlyN083eS1hZzhDeC1ZMHQ5RXo5X3VPYnZOTWVfMTRtY0xOOFhZNlZlSC1FSXBfbkpKQTJnTFhPQ3dlR0JEbEhpYnI4eW5xTGNocUVJS0h2S2V2ZzF3OXhXWnVPaVNrRm40YWRfZ1JncnhKUUplWnRYRi1ldw?oc=5",
-   "published": "2026-11-04T08:00:00Z",
-   "outlet": "The Pharma Letter",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8666,6 +8820,28 @@
    "title": "Annovis shares tank as it launched public offering of shares - TradingView",
    "summary": "Annovis shares tank as it launched public offering of shares TradingView",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaVVKNHFJbWhqSDlJdWkzdkd5R0ZMaFNJMzBSWDBjeFYxN3c0M3Z2QjRWTnFxdE5KbUk5U3AwRW9lLUJoWnBtRUJxRlFGVC1fQU1pamRveUM1SjYzSXFvWF9kT2RnN2JvTkc0UV9sUldJWU9neldUN2M1WGZ2TmRVbUJyb0ZNTTN3MWJBRkFFMkk2cmpYaEtUOTZ0MWxadDJsX1BZTzl4b1VmOGZfY1B3RVYyX0JsOVdDakFEbjRhdlg?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0cdd8a6ae4d755fd",
+   "company": "Alkermes",
+   "title": "H.C. Wainwright raises Alkermes stock price target to $50 on pipeline progress - Investing.com",
+   "summary": "H.C. Wainwright raises Alkermes stock price target to $50 on pipeline progress Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUWg1SmVTd2dzVkxjdHlMbE1BNmFRamYtRWdlbTAtRHpOMVoxUjY5N0M1Z1kxRHBkSFpEQjdZY3kxV2R5dG5yS25mTS1obkFMaFBmbE15WWhPMUgyS2p0N0VWcThFRDV1Yy1qck9NcXZsRXdpeG9RdXVfa2p0T1YzeHZPTXlxdi1BSGFPVzJuaFRZbTBFNmFLRzIzYjRyWnAzRHB1Znh5M3dQRmR2bHBKanRHQ0FlV2t4V0tyM1U5RVVjT3FoQ1hhRmR6SU5oWmZU?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "419ac5df6f40291c",
+   "company": "Alkermes",
+   "title": "RBC Capital maintains Alkermes at Outperform, raises price target to $57 from $56 - TradingView",
+   "summary": "RBC Capital maintains Alkermes at Outperform, raises price target to $57 from $56 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb2hpS2pQSklUTndhTURiWmp6bkZSUGpyR2tSSWhrLTVJUE9yWEQ1dTgzM1FsZDBYYk1FWk5ubVJyQW5IenFZODFjNlhyUUh6dE4xSnpacGR2ZEJlallEbWdrcWNIUXIzemtxWjRpMThGUmhQd1pJTTBaVDdrbHJMVHAybFZrWGtTdEFqbkV5WHJjRkZjME13a3p0akxIbHZpUHdqX25EaTVmU0VDU1VmbEJ6bnJmT2pva3UycEtJSWFhZVhUa3BiYzF6eERrY2prbE9lalh2bw?oc=5",
    "published": "2026-11-04T08:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
@@ -9123,6 +9299,72 @@
    "first_seen": null
   },
   {
+   "id": "66000382d3cad610",
+   "company": "Alkermes",
+   "title": "Alkermes (ALKS) Surpasses Q3 Earnings and Revenue Estimates - Yahoo Finance",
+   "summary": "Alkermes (ALKS) Surpasses Q3 Earnings and Revenue Estimates Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmhKQTJtb2NkQWRPS0ZyMFRNN0dYUE9hQy15SFp5YnNKcWIySFo4OTQtT0psek5rWWFRUDhQek5IWHNuTkgzVmE4RkcyV1BoZWh1eHdtLXFTRXR6ckM2MDd0MEluVFFNQlJjS1hxV0lscUc4ekZGZWFJZTlCY28zUGtFZHpnWEJhTVFkakpkQkR4SFdmQ0N2bFdjcmY4b01oVkE?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0528a3d4d46bee46",
+   "company": "Alkermes",
+   "title": "Alkermes plc Q3 2026 Earnings Call Summary - Yahoo Finance",
+   "summary": "Alkermes plc Q3 2026 Earnings Call Summary Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQV9xSjZEYXVIWi1QZ0taT0hZRk1IQ3ZkcGkwa3ZaVTh5VWhNdnBQSXRsMU1jNTZNbnJIcmtRZ29FVUhiOXVLOXBmT2QxeVl6MGFDSEFyVkpEb05iaHlWbGdOZGEzRWZ2OTJUVzl6ZHpSbjNRRFdTR2lfZUEwRXM3c3BfLU5La0VneVFxLVgycGN3b3dE?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8bee3f441af6b0d6",
+   "company": "Alkermes",
+   "title": "Alkermes Q3 2026 Earnings Call Transcript - Benzinga",
+   "summary": "Alkermes Q3 2026 Earnings Call Transcript Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3JfeXAxRWF0ak1HaWR3ZVJ1UldRMW9qMU9Makd3MlZRQkhDUFhKbnNuVTdlalViaEdIWUJHUTRCei1fZkJLOVZELVJTbjdtUG9WcG9iS0hYWmpJZW5Ea204S0t1N1EyeFZFLUhEUFhsU3FDYll3c3J2dVI3V2FMcVJOaUZLb3B5RkJ6REFwWQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a79cfa017c4741d6",
+   "company": "Alkermes",
+   "title": "Alkermes plc (ALKS) Q3 FY2026 earnings call transcript - Yahoo Finance",
+   "summary": "Alkermes plc (ALKS) Q3 FY2026 earnings call transcript Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ3BLWDRrVGNVbHctd2JmQmpjZGp1dFNNUldOM2tHbWIybVNKQ3ZjejgzSi00ajMwTndKREEyOG83MmxDMTdOM0FNRjNoRW5WbjNfWkZacXlMRy1TZ1lNckY1aTVWdHJEbXNjU1ZsVnVnUzJGVXZmaXQwT0lzR1pmOWE2Q1V5T1gydHdlQg?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "106b61168e891354",
+   "company": "Alkermes",
+   "title": "Alkermes Q3 2026 Earnings Call Is Live - TradingView",
+   "summary": "Alkermes Q3 2026 Earnings Call Is Live TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmVwZlV1alg0VUlUaXFzTVdBdzgxZ19RcEpfMHNraHgwbHRIVko1bTNlZ0xORGw0YzhaTjBVOEt3SnIxb0tHU05PSWdzN1Y1LVkxX2I5RVRfZXhSUzJZU0RBUngwbjBCTkVOelI2Y1U4V1R0bXNwdFhjYTNoaWVXNW0zM1hKNmFrN0RMZzBqZTRwTVRtb0tySG5LVTMyX3pTQ3l0UGJaZE43WHM?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f8c3c0aabe3deee1",
+   "company": "Alkermes",
+   "title": "Ireland's Alkermes Q3 revenue beats on LUMRYZ growth - TradingView",
+   "summary": "Ireland's Alkermes Q3 revenue beats on LUMRYZ growth TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWDJ0engtWUVOWWtDR0VES2dlNzdIWmNFbDN5WU9QY19xY2hIY0RGZU9IX0NDQVF2OXpiN0o3N0ZWdWVwdHJpelhNblJQQ1RHbWYtVmZuMjYwU3JuSGZpZXpIeXdvSE9XT0F0YS1vR0FPRlh6VGo4bDlhNThyMUk4czQtRHpFVHMtb0R1N2cxd0FSdmxGaXE3YzJSZ2RQLVFlcmtZQ3FtYkdPWGdzazNNbnFHOWtBelhvcGxvbi10VQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dd359d86190e407a",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals Legacy SEC Filings - Supernus Pharmaceuticals",
@@ -9519,6 +9761,17 @@
    "first_seen": null
   },
   {
+   "id": "d7d54b4b912ae298",
+   "company": "Alkermes",
+   "title": "Alkermes starts Phase 2 trial of ALKS 7290 in major depressive disorder - Dealroom",
+   "summary": "Alkermes starts Phase 2 trial of ALKS 7290 in major depressive disorder Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWi1WZU9Nb3FSZm9NSTVRQkxaNkE3anN5cUhoZlhZZnRTLUpqN2JINWZPYnY3TUxKYzFSVk1aRkxFenpEdVFZWVRDYVBPaTl1dklKejNXNWVOODNpSXhfdnN1ZGFXYy1VVG54WGNfbTNOYm9VVDZMWndhbUFzaGFmX0pTZlBBZFBpOWJpVHVHY2QxMVEzZVBOSjE4Z2tKenNQNm5HUlRLcWw?oc=5",
+   "published": "2026-11-01T22:15:07Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d4632c3529f4fd71",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals (VNDA) Stock Forum and Discussion - Moomoo",
@@ -9849,6 +10102,17 @@
    "first_seen": null
   },
   {
+   "id": "ca17164858e0e596",
+   "company": "Alkermes",
+   "title": "Alkermes Expands ALKS 7290 Development Program With Initiation of Phase 2 Study for the Adjunctive Treatment of Major Depressive Disorder (MDD) - BioSpace",
+   "summary": "Alkermes Expands ALKS 7290 Development Program With Initiation of Phase 2 Study for the Adjunctive Treatment of Major Depressive Disorder (MDD) BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdHkzN2N5WTI4eU1Qb1YxMFZQT2Y1YU5hbzFaZnZWM2c1cDlZVEI3VGpYZGwyall3cUQ1Z0xxd211bDJTdU9hMFNpSTZqanFYMUpFVjBFYVg1YzlFVGlNV3pwNktTZHJSellsaHBlQmpRS0VTOFBUT3R0bjJjY3YzVlVhOTBfVER2T1RVdjBTQkVFRGQzd1JkNjRwZkRFekV0LS1ydkYydWozRkpfTzV0dVVWOUlrV1NGOVFBVjN4TlNveVFXWTctdnRfdjl2OU9ZRUdacVp5NGMzVEhIbmFPV1ZVMXdrNHBZREktU25SSXdYNWd4RUZBb2xYQmVrN1VNYkl0UWxMRVo4VXl3M0E?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dacf5d1be1dbbfba",
    "company": "Supernus",
    "title": "0001356576-26-000051 - 10-Q - Supernus Pharmaceuticals",
@@ -10131,6 +10395,17 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0hpVkNhSnY2eG9rbENsVzhzalFRN0lJc05PVVRMMHA5TDUxN0Y3QW9WQWRRMENGN0RVRG5BMlJEUlE1S2JOLWN0RVBfUDZqRnc0VjNwbVNzMmVuM0VkQ01jVW5VN1VFbzlMdldFZTNQSGZMdEF3ZWFzNXN4YUxkd3pYa25TVDJmZExXcTB3SFAwZVloUFl0SXJR?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "92afe3955bac39d4",
+   "company": "Alkermes",
+   "title": "Alkermes Q3 Preview: The Pipeline Looks Strong, But Earnings Tell Another Story - Seeking Alpha",
+   "summary": "Alkermes Q3 Preview: The Pipeline Looks Strong, But Earnings Tell Another Story Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQemROMDZYYlQ2dzVfaVV0WHZKUWRnT0hMdFltWFNKQjhfX0JqVlFPVGE4cXAxOEUxSWg1XzQzV3g3anlCWFAwOFpEOTZrQXE0bG9VcmIwTkpQU3hNcVBkUkw1ZkpJeHpQYXFfaXRtbERqUFgwblVDaFZVZlZwb1RNT2R6NndkTFk5bVlYNlRUWXYycF91c3l0MXdpcW5WZGZUYWVxeFVpU3NRYWV5U0ZHYTliNW5uUVFHOGc?oc=5",
+   "published": "2026-10-29T07:00:00Z",
+   "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11246,6 +11521,17 @@
    "first_seen": null
   },
   {
+   "id": "f8e39737db6b6623",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Completes Enrollment of Pivotal Phase 3 ENIGMA-TRS 1 Study - TMCnet",
+   "summary": "Newron Completes Enrollment of Pivotal Phase 3 ENIGMA-TRS 1 Study TMCnet",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZkU3gtc1V3cWJYNzJVeGpHWWtrRzdqYmRIODVhbzQ5eHFQNnlrcVZqOS1aYjdudkw0TVc4ejJEdDJoMDU0dUNiMmtna2ZHdUEybnBKYVZHYkJ5QkpKNm1HeExFUkpUaUFSSF9CQlkzUjRqakxERXNUOW9tNWY5UTVrb2ljUjlEWDA4ZDNReTROU3VJYktNZkdMenl6OFJpWERYX2I3OWNmY2g3XzlGRA?oc=5",
+   "published": "2026-10-22T16:25:46Z",
+   "outlet": "TMCnet",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "163d4a6b308122bf",
    "company": "NRG Therapeutics",
    "title": "NRG Therapeutics Begins Human PET Study to Measure Brain Exposure of Experimental ALS and Parkinson’s Drug",
@@ -11781,6 +12067,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ2lub3lyYjNTczZiNVFQQXpQZjlVZUhKQ3U2cGowRjFLUVZHcGFNQnJpSlYydXhDXzJ4QjdTaUlVZUtRR3huaE05dFZENGxPRDk3dER2cklCQ2NXNGJ2T0lCaU53Qy0tSWU4QkhfaWFVcFpUU1NkM1FWSDNQTFNtaTZlVmZ2clVDaUlvQkhybTZBYmxmakNNV3lWdlh3Zml5LVNEeURCZHZ3R19EVTlPSVRMZjFZenYyWjlwQ2gyRGxkbjQ?oc=5",
    "published": "2026-10-20T07:00:00Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fd469f50610c40a9",
+   "company": "Alkermes",
+   "title": "Earnings Preview: Alkermes (ALKS) Q3 Earnings Expected to Decline - Yahoo Finance",
+   "summary": "Earnings Preview: Alkermes (ALKS) Q3 Earnings Expected to Decline Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0lQNGROcm1mU1BsVHRPUjlQdzRzTzRyZVVoakk2c2k4d3ktUkVuYjRBMjdXRDdjTFAxTjl5N2Y5UXhIRXdoZ0YwdU1xTk1RMjZNTHFFTkZRTVJkWEtmZEdoUDZ3MXJtTldXaEVwMTgtV3lBcThkUVF6ekNEb2tnUkJ5VnFhSUhWcmtDbV91TGY3Z0ZRdGt4MTI3cjBjVVk?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12375,6 +12672,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0tHWlRIaUZoT3dRTkRPdnF1eEpzVVpacGduMFVkeGE5ZGlxVDh1RXNTa2duM2lxd1QwZWZ0MmJ5NG0zeWpwdWE4ZDJrQTRVc05JS0FPTV8wRGZSaVcxRDdoUlNRWUQ5WXItaHlvT1JpSnBIU2h1My1kc1MwbEd2bWx3SnFYTkkxY0VjUTlJS2tyX3BGTnRDLWVzRloyMVNtSEhkRVhIcHhUMEhiYTY2NzBzTzlMdU5pdjN3TVpuUFdHaWM?oc=5",
    "published": "2026-10-13T07:00:00Z",
    "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "491f86fc1010179c",
+   "company": "Alkermes",
+   "title": "Alkermes to Present New Data on Alixorexton and LUMRYZ® (sodium oxybate) at Sleep Europe 2026, Underscoring Leadership in Sleep Medicine Research - Yahoo Finance",
+   "summary": "Alkermes to Present New Data on Alixorexton and LUMRYZ® (sodium oxybate) at Sleep Europe 2026, Underscoring Leadership in Sleep Medicine Research Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWGJGVlY2TkpnRkF2UXNWcElSRDl6Mm9MeFRSdzJFZUY3Y1NKbW5GUEUwcjg1ZGxSSGxpMHEzaEdHdjlXdGVjam0xcmVud0x1VXJOMnV3LW0tajJtMElOVDJIeUZjSHFMaDBmNWFkUVpPTHlybG5JcFhIRUlPbDFRR08wc25BR2g5elVsLWlma2pHN2ZzY1hYR3lKSE5CWUZRV3lR?oc=5",
+   "published": "2026-10-13T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13633,6 +13941,17 @@
    "first_seen": null
   },
   {
+   "id": "bb6e73d2f5b0d118",
+   "company": "Alkermes",
+   "title": "Why Baird Sees Promising Growth Potential in Alkermes plc (ALKS) - Yahoo Finance",
+   "summary": "Why Baird Sees Promising Growth Potential in Alkermes plc (ALKS) Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzd4ZU1EbzZLalRGeXdraDBoNU1Pc2VIQmxJNWtYZ01RbDk3R1dhR3YxbnJvR0FWQ21rTTJxRmZnOGsxYzdnMEZqVXpoTGZjX0xWU0lkSlJXaGRSc1Z5ekVPQS1Zel9HWDFwNm1nTFItME9xemhUaGRHVGc5QVhfdlFHekpEdV9wQ1B1UnVnZ01ZdHZ4WkhqenJzLXo?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "60ac05e9ee393c77",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (Nasdaq:HELP) - Stock Analysis - Simply Wall St",
@@ -14249,6 +14568,17 @@
    "first_seen": null
   },
   {
+   "id": "529ef3b1699f2089",
+   "company": "Alkermes",
+   "title": "Alkermes: Idiopathic Hypersomnia Could Expand Lumryz Into A Larger Growth And Margin Driver - Seeking Alpha",
+   "summary": "Alkermes: Idiopathic Hypersomnia Could Expand Lumryz Into A Larger Growth And Margin Driver Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHljVGZWUElHLWRqd2lNNUJ3U045YmJNQUhtaEhfcFBHWjJRalo5c2tmWklLRmtiQjBmRE5yMFh3Vm1oajBYbFFqbGxPQWlsa0NqRFZ0Tnp6VS1pcy1XbFdJX3JYWTc5YW5HbDFiRG5lSjVVa2prbEdPdEUtWTlNcWtWRnBzZmNqX0d1WTVKWFVUNGhjYjdZeWM0S0E3ZUNoTTBCTE5QZVI5SzBoakd6eF9SWDlDUnRYWG85VllVcVdBYnEtWk9ENTd2NA?oc=5",
+   "published": "2026-09-26T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d85d7e869f2bba2f",
    "company": "Regeneron",
    "title": "Our Mission in Neuroscience & Disease Research - Regeneron",
@@ -14810,6 +15140,28 @@
    "first_seen": null
   },
   {
+   "id": "f89e2c01f2674dad",
+   "company": "Alkermes",
+   "title": "Why Alkermes (ALKS) Is Down 6.0% After First ADHD Data For Orexin Agonist ALKS 7290 - Yahoo Finance",
+   "summary": "Why Alkermes (ALKS) Is Down 6.0% After First ADHD Data For Orexin Agonist ALKS 7290 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ3I2SDd0ajRUMmRVOXZ2ZnYwUm9rX1JKUEw1SFJOR0Rsbi1kZGQxYVBZNEIyOS13ekI2SVA0WVg3M1pSdndHOEpzYzhVOERmRTFVNVVlNDZKY1dVMmlKdkdmRmxMbERoQjhmSUJhRU9wWXg5dGhSRU1zWGZCcGFIRmM2Y0ZfQ0lzcVRWcVJn?oc=5",
+   "published": "2026-09-23T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d16430d83ae6e6d4",
+   "company": "Alkermes",
+   "title": "Alkermes: The Orexin Upside Is Real, But Takeda And Lilly Stand In The Way (Downgrade) - Seeking Alpha",
+   "summary": "Alkermes: The Orexin Upside Is Real, But Takeda And Lilly Stand In The Way (Downgrade) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS2J5VTNOTG9ibmFpN05FOXVJV2YxQlJMbVVUV1cxalQ1THZWT2V6MVVJUTBJSjdOdGFpZmVZaV82ZnJuUFlacE9US25qUzRkWTdFUTZ0dHFnQmZfdzNzbDUwcTRURlZxeURCTlU1RklMcjBVMXp5ZVFKSFFtNlRPY1ptbFpZOTdueUFGVS1XaWVhZjRfVGxYVmZBY0hkcE11VVkyXzU1eGd1VnFDTVlGWTdocW9GTlh4QzBPZXJIOUo?oc=5",
+   "published": "2026-09-23T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "37ca1df71bb785a9",
    "company": "Reviva Pharmaceuticals",
    "title": "Reviva to Participate in the Lytham Partners Fall 2026 Investor Conference",
@@ -14986,6 +15338,17 @@
    "first_seen": null
   },
   {
+   "id": "e187df161ec96696",
+   "company": "Alkermes",
+   "title": "Alkermes reports positive top-line Phase Ib trial data for ALKS 7290 - Clinical Trials Arena",
+   "summary": "Alkermes reports positive top-line Phase Ib trial data for ALKS 7290 Clinical Trials Arena",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenU3Ry1CSEEtU2d3RmUxemZyRG40MGxMbS1CNF9oOFBETnNZZUQyZ3lXcEt4akZpLTZiVThfQ2lUeDRvNDJNanRhT19KSUNPTGNNVGJkQTJrV0tHTnhyYVdITGxCTHpveUl5c2paUE1QbmZaYTFHWkNXWUduQ05BMVR2VWlDdXF6TGpVNFVaYmlEUQ?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "Clinical Trials Arena",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4f8f09394db92992",
    "company": "LB Pharmaceuticals",
    "title": "LBRX: LB Pharmaceuticals Inc Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
@@ -15147,6 +15510,39 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQkROYzFheDBXbURSM3ZCcUd3d3ctcS1ZOHhLa1hmMFFhQjkxR3BYakREWWlxTUhodTd4a0Q2YXh3eV91eXJBWWhELXcwTHgwRjgwdkVHNFU3ZFJaOTVrdExnU3NKdHpySWR5NzdvTThlYWNBLW5lbkUybGZ4aHA4czF0R3A1WjZoQjVIWk9wUmNRRVdMbVppazAwX2FldmNrd1BCNDMxMV9aSk5qMGo5YmQyQXZySGV4QlNZNlBkdEU?oc=5",
    "published": "2026-09-21T07:00:00Z",
    "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "41daab756c2737c9",
+   "company": "Alkermes",
+   "title": "Alkermes makes argument for orexin expansion into ADHD - FirstWord Pharma",
+   "summary": "Alkermes makes argument for orexin expansion into ADHD FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uVGtXNWpVT0tXMVlZbzJZbDljVTRNMjhwZlFQTUVkQl95RG9ULS1RUnpiMUFNc05zRWM1OHFlVTNnS3R6bVEwNFZLak5kbG5aRzZn?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "254bbeb0098bb91a",
+   "company": "Alkermes",
+   "title": "Alkermes’ orexin agonist shows dose-dependent ADHD symptom reductions in Phase Ib study - AllSci",
+   "summary": "Alkermes’ orexin agonist shows dose-dependent ADHD symptom reductions in Phase Ib study AllSci",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWk55UXEzamlwbS1wWENOTzkxZ3hPaFFXY2FoN0JxX0lSbW9SR0xMclp6MFY4Z2dnNWRzUlJOWTlIM25sN0FNTmxYSk5idUlhc19ZUk8wUFZjaUItQVowdFE0M3BMdnZoV25yZTU2bk8xaHV6d2pkVWI2TXFXM2xLeklzZ1Y2ZHA0ck9yZ1RKdWFPNlNP?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "17b28a377dbc6854",
+   "company": "Alkermes",
+   "title": "Alkermes Shares Rise 6.5% After Positive Phase 1b Results for ADHD Drug ALKS 7290 - Yahoo Finance",
+   "summary": "Alkermes Shares Rise 6.5% After Positive Phase 1b Results for ADHD Drug ALKS 7290 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQm9RMHkxR1RTdHBTUGlsbHQ5Qy00a1luX1J4MjFibGJwb1ZYRmNOVkNtcW1VaW5BdzNXYjh1Um95MW5hMW1aNEx3eW84bEpDOGNRbVd4dUpUdFJwazRjTHduc0E3c0VvTEliZGZnM2VRTm50cGtIX2tIN08wak9BaFdsMEx3TWV2d1BHTzdn?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15554,6 +15950,17 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnFwN3BPTnk5bVNjM1Q4ekEtRUNOWTUzYlBSeENOZnU1djhwX18wZFBVN3JIX2pGM1JNRjNTWV9HbEdNN3JORXpPeWM4SUpXUkJSaXVjWXlBOUp0ZWhNdy1SMmZIWTdUNUxvMVVVNVQ3SHdWTzVxR3dKQkJNOXphekNycWY5TVF2RTc0YXM0TGNNV3N6emxjdlQzUVltQQ?oc=5",
    "published": "2026-09-18T07:00:00Z",
    "outlet": "Schaeffer's Investment Research",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7a70716996edb7af",
+   "company": "Alkermes",
+   "title": "Alkermes slides 7%, reaching multi-month low (ALKS:NASDAQ) - Seeking Alpha",
+   "summary": "Alkermes slides 7%, reaching multi-month low (ALKS:NASDAQ) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWXNSZjVUXzRidVNEdnNxcnBzQ3h5ZFVVNUs1UW9xaVFCbHVmaWdrYTJiVW9oeUNoVlNMYjNtSWVhUFdNeVZILXR1WTlwSUJDZk1GTEYtUFVpQXJTSndXdE9TRWFRMWstQ0h5RnhrcEhBM2xqem9rQ3NOWEpYeUxNcW42T3dxMEU?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16258,6 +16665,17 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORDMwMnU2cy0wWnkwV2ZaVFRFZ2tSV1JFa0RtZkJyUW5BcU1wUVN0T0piMlVPbXRaTWx2MThFZjFDVmFyMVl0ZGJNN0NWY0QzLWtOcUJEc2duRV9WSXdPeHJweG85RDdVZXYzMEh0VkRtd1FTaHQ4R2ktMzVFYWctS3pUVzBYYy1ILWI2Y1JmVkV5MGZSbjVJVFF2WkdDbGo5ZEJBUkFKdlczWW5VRDFPQw?oc=5",
    "published": "2026-09-11T07:00:00Z",
    "outlet": "citybiz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "291f9b4c4329031e",
+   "company": "Alkermes",
+   "title": "Alkermes: A Slow-Burning Buy Prospect On Orexin-Agonist Promise (NASDAQ:ALKS) - Seeking Alpha",
+   "summary": "Alkermes: A Slow-Burning Buy Prospect On Orexin-Agonist Promise (NASDAQ:ALKS) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGtLZzRnVXZKcGtwSWtwck5JTktmUTVvSE15TUVUUFZFN1FUQkgzT3I0OHpYdW5pWmltRGRxNE9Db0ExakJsZXV4Z0VwclNra25wa0dVMXVhZFpfMGk5ZHgxbmZuSkZXMFRKd2lfNnJ4SmtMaUpwYmRZbzFZT3doUGJ1bTdjaFNJM25oSGFWa2N5MjkwTlRQcVA1MnU5TDhDVzlNZFZ3?oc=5",
+   "published": "2026-09-11T07:00:00Z",
+   "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17010,6 +17428,17 @@
    "first_seen": null
   },
   {
+   "id": "b7e18ec83c45b6f7",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals to Participate in H.C. Wainwright 28th Annual Global Investment Conference - Yahoo Finance",
+   "summary": "Newron Pharmaceuticals to Participate in H.C. Wainwright 28th Annual Global Investment Conference Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0o0SVZuMlRhRnBoQjRGRmU5eEQwWWNMdnRzRkh5Slk4ZGxLeHM0Tnc4eHhMc1RySVVCN1FReHRteXlLbXI5M0RFTGswVGtUOEVmeWdRM1FFUFo1VFFNbXFLd3lMY3dPZDBYcC1WVUNHVm91Qkx4aHFNMGFfbXdlOG9faDlhaHZtcmhtN2hhdUtpUG5tM3hRTWpOU2FfaWhN?oc=5",
+   "published": "2026-09-03T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c2612860116f4109",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals to Participate in Cantor’s 2026 Global Healthcare Conference",
@@ -17274,6 +17703,17 @@
    "first_seen": null
   },
   {
+   "id": "bae2bc487650f28f",
+   "company": "Alkermes",
+   "title": "Alkermes Chief Commercial Officer Sells 7,576 Shares for $373,000 - Yahoo Finance",
+   "summary": "Alkermes Chief Commercial Officer Sells 7,576 Shares for $373,000 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9vVWlCbDRib3A4Z3JnM3FqMkkySW9sV2liNmFFN0ZreFVhMTVyX0UxaG1peENraDNjVENObWVMcVFfbkVMMndVVV9RdmhRRXlNb3luUHFCTDU3TncyZDlWamhVYlBnZS1XTTh0VkJ0OW1DZzlKTjN3VmtHMEZpbWJURjZjaXAtODhNbFBhbTdDUlhGMVFYbVlTaXAtczJBUk5fZS1oUQ?oc=5",
+   "published": "2026-08-29T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4a066d5e9241a270",
    "company": "Zambon",
    "title": "Zambon announces European Commission approval of Hopledo® for Adults with Parkinson's Disease and Moderate to Severe Motor Fluctuations | Zambon - Zambon",
@@ -17439,6 +17879,17 @@
    "first_seen": null
   },
   {
+   "id": "11a77efb8732a79a",
+   "company": "Alkermes",
+   "title": "Why Is Alkermes (ALKS) Up 1.7% Since Last Earnings Report? - Yahoo Finance",
+   "summary": "Why Is Alkermes (ALKS) Up 1.7% Since Last Earnings Report? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUVhIRFdmaG9qMnM4TW5Yd2d6QU43Um9rNGdwSm5OZUhfNUNHVUdRTFZ3aWJXNHBsYlFwblhfVXRhelcxMS1DdXRlbS0teGtfZUZHSnJ4ZWdfTFlXU1h5Z0d4Vjk1TEV5b0xQRHRFRF9vUW1WSFpQZGZqcEhWM0Y5b01qemNjMF9qYkNYejM0Yw?oc=5",
+   "published": "2026-08-27T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3e98463debeeb731",
    "company": "Roche",
    "title": "Clinical trial for Parkinson's Disease (PD)-ForPatients b... - ForPatients",
@@ -17501,6 +17952,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1p5R0VaQWQ5dkQyTTBYSldGbElHM0owZDFpUWVPbEtBeHNzZ3BzaUNBZWVYSWVKM0duUnlUR2drcFJWXzZ1R1UzYjA0R3pQWDk3R1V1d3pJY2lFXzNEWklNeEJjbExVaVRyTTBCSlhRUlFleUt0Qm1oSTkyWkYwUlRaaGs2ajZRbERabHRXUGhNS0x3ai1UTWVtbjRxVFVacmFvdjBMeUNsZTg?oc=5",
    "published": "2026-08-26T07:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a63c2e6de763763c",
+   "company": "Alkermes",
+   "title": "Alkermes Hires Monument Advocacy for Medicare/Medicaid Lobbying - Legis1",
+   "summary": "Alkermes Hires Monument Advocacy for Medicare/Medicaid Lobbying Legis1",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13VnZQLXEzVElxU1VhbVE5aEZ0dDlVWEdpci12Z2hfX2o2SnZ4SHd0MFM4eXVVTWxSQXktRFU2Y2lFRkJGTFktaXFia0gwZHVIcmJ3SnZaLVEwRV9zeTF5TzlRcnNzR2VCQjBVTWYyTG9Jakk?oc=5",
+   "published": "2026-08-26T07:00:00Z",
+   "outlet": "Legis1",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17653,6 +18115,17 @@
    "title": "Rapport Therapeutics to Host Virtual KOL Event on the Unmet Need in Bipolar Mania and the RAP-219 Clinical Program - Yahoo Finance",
    "summary": "Rapport Therapeutics to Host Virtual KOL Event on the Unmet Need in Bipolar Mania and the RAP-219 Clinical Program Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdF9tM3ZGS0wtYlNLcUxOZ0FBQXM5OUZzT0hTdVV0YkhkUmExYklEWExJSjhUdjYtS20zTlhTSmxfd0Jla00tdlV0MmhIM1VyNjVFUnAydzczcGZkTHd6bmlJWElWWEloeUFNeFdKRXZVOWhmVkhjSkhuZ2JvTUlETkEtRnVIWHFNQmFNWS0zQ1FMWHI3ZmFVbng3aEZQNVk?oc=5",
+   "published": "2026-08-24T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d16551140e24feb7",
+   "company": "Alkermes",
+   "title": "The Lancet Neurology Publishes Data From Alkermes’ Positive Vibrance-1 Phase 2 Study of Alixorexton in Adults With Narcolepsy Type 1 - Yahoo Finance",
+   "summary": "The Lancet Neurology Publishes Data From Alkermes’ Positive Vibrance-1 Phase 2 Study of Alixorexton in Adults With Narcolepsy Type 1 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObzVOR3JtbzlVaUt3cnNRRDdaSFJLNFczdWZYWm5lbVUyN1lBLVlUQWNfbDZ2dEZ5X3ZnZ2tBYmlOMnlnVFE2cTg1SkV2Sll2d19Qck04VnhJN0luTVY0VFh6S3ZJT19aN0V2MHZKVDBPMkRHcFhoQkpqR0c5b2R5aXpnbGQ1dnc2NUEtUm80ZWU5c3dNckg0enZ6aXN2NW5yRnpn?oc=5",
    "published": "2026-08-24T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -19144,6 +19617,17 @@
    "first_seen": null
   },
   {
+   "id": "9e07e6d719f90173",
+   "company": "Alkermes",
+   "title": "Could Alkermes plc (ALKS) Stock Rebound After Investors Look Beyond Near-Term Profit Pressure? - Yahoo Finance",
+   "summary": "Could Alkermes plc (ALKS) Stock Rebound After Investors Look Beyond Near-Term Profit Pressure? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDEzUU1wUm1pS3FLS3dzLTZQcUk1LUQwX3I1SW4weFBrNEFwamhhcVctZmtaRWZqZWdZNmUzV0FUTU4yeFA2Q1NnZDZ2dXlQN1VmUExobWtHYVJ1NHVybThLc3NsV2sxc29LS0lCWlVUbEhpQ0ktUFdmdHpJYmVLUzg1WXhqeGw5c1c5cXl3OWtEa2Z6LUN5UUNn?oc=5",
+   "published": "2026-08-11T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e4e338ee2fbe2fb7",
    "company": "Minerva Neurosciences",
    "title": "Remy Luthringer, PhD - Minerva Neurosciences",
@@ -19811,6 +20295,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWNjQXNMaTY3OUZzTDA0bWlMc3NiRTNCaExseC03WmlTRXFYYXZfdnJIWG9paDJSSmRUNjREdVYyQl9aWFY4bGY5NGZiaFlNSWQtZDZoTzRLRzZOcVBKNkVsZGdhdGJaTVRVZWphZlhoUkR1dmdFdWVaUlEySDNXZUZ3NHFuN3JqRERETkFPTEVxYmRsNkJaaFU1UjZhTmxiY2hXd3h3ajVESVl4emkwR3o0S3Q2SmZfc2djckxfX2Y?oc=5",
    "published": "2026-08-05T07:00:00Z",
    "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6c600aa89e9bdba4",
+   "company": "Alkermes",
+   "title": "4 potential biotech M&A targets, plus a pretty sure bet from J&J - BioSpace",
+   "summary": "4 potential biotech M&A targets, plus a pretty sure bet from J&J BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGo2MEZqV2RmZDh4LU9hc25iMnBGUG1ORkdweGdkMXU0dkhHZE5lbzliVHJmMFBxaFhTMXVHbzJyalhkS2M1bjRLSGJxX1R3UXZTcmw2b0REOFNQdGY2ejczLUs0dnJuMVphV2lfZ1puRE5hdEFKbGlfQmhjRV9UazJwczB3NC03cEowaUpObGxZYXdfZ29fUGI3MzJPUQ?oc=5",
+   "published": "2026-08-05T07:00:00Z",
+   "outlet": "BioSpace",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20640,6 +21135,17 @@
    "first_seen": null
   },
   {
+   "id": "cd4e736c53cb51ca",
+   "company": "Alkermes",
+   "title": "Alkermes plc Q2 2026 Earnings Call Summary - Yahoo Finance",
+   "summary": "Alkermes plc Q2 2026 Earnings Call Summary Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObWw0Q3N1OUtRamZROThPZjlxcnluMldjbnhNdW1XSnYwVXM4bzZhNTViaHZZUTlVcGVUcVZCVWRPYXJLM2RONjVqMWw4eU0xN2dtYXFJNkRZTV9tY2pGSWtyemNDQ1NyeDBKU2MxVndNSTVZVVJmWGl1OHdpM0U2TGd6VllxQmtja0pFSEJoZ3duUW9t?oc=5",
+   "published": "2026-07-29T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b6c54cb6b89509b7",
    "company": "Eli Lilly",
    "title": "Postdoc/Scientist - Psychiatry and Neuronal Health - Lilly Careers",
@@ -20823,6 +21329,39 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeG51SXd3Z0Nqb1JOV3BZN0g3NGthRmJKUTZ1WHNZTWtteHJ6OGQ1T0V2aFNNYXVQV2hIWk9NSzA5bmc2VXRlOVc3TXEwc2RtRU5uWXc0UjZtQ2hTREM1LWltci13dTFtR29QM3dCNzBfVGRoRGdBYkE2Njk5eUlteExLRF8xdlBDVUVvMy1TVEJsUzg5UGs2ZEF5Q253QTU5OWxYcVg5NzZFNEJXZGREc1ZibXVaOXJ2SEJ5dQ?oc=5",
    "published": "2026-07-28T07:00:00Z",
    "outlet": "Mintz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "12774e9ffe2df2bf",
+   "company": "Alkermes",
+   "title": "Alkermes Q2 Earnings Call Highlights - Yahoo Finance",
+   "summary": "Alkermes Q2 Earnings Call Highlights Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVlRaOUhJT2FpeExyOFhCOEhCdms4RXh0SlZMWVpiQ0xJV0t0Unp2R1RHTnVJOGlIVFhKMk9tZGxnRTVlQ2lDLXhLZVdMUmJ6dS1teV9MeFdEc1l3S1J1cGhwQmwzaEwzV1lvcjZWaGVsSmRVSWM0eEc4SEpXRThqTXRGNmxRaXpUa3dFS1M5T194QU1ZU3p4MU1mNk9YQQ?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "cdbd3cb1fcf3deb3",
+   "company": "Alkermes",
+   "title": "Alkermes Q2 Earnings Break Even, Revenues Beat Estimates, Stock Down - TradingView",
+   "summary": "Alkermes Q2 Earnings Break Even, Revenues Beat Estimates, Stock Down TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajh2aTVGYWpwb0gtY0tGcnZvZ2YyX0NpM291NUZrMTRiTWlxVy12WXM1cTBlU1RBMVd6djFWUF9NOFpFNmpEOFhOX0ZHbXN3aFdQWGt2M05GYzZtSDdkNHloYTh0MDBkZlRTaVZZeEJ2Yy02OGtUWFR6X3liU3g1M0lFTkRzWWEzWWlQT1FQQ2xxS3cwZGtsMW45aU1yZDF2Z2JXNGpTSDVna1BFTE9qMWZoRUpITEtzTDJybDNUdw?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "58a8208fd02e2808",
+   "company": "Alkermes",
+   "title": "Compared to Estimates, Alkermes (ALKS) Q2 Earnings: A Look at Key Metrics - Yahoo Finance",
+   "summary": "Compared to Estimates, Alkermes (ALKS) Q2 Earnings: A Look at Key Metrics Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWFd1bUZXcC1vOWZZMjJoYXRVcG5WQmpQbV8zc2dNMV93UzVnNENZVHhDWkNMS1hxdW5DdFNkemRpZlkzRzFROFVIay10a1p6Y0NZUXF4NXFmSk91MjBpc1lWUVVTa3N3TDhHQ0VnT3lIbUV5dTRaM2x5eDc5WFhveGxWc2UtT09uX1VETWhHOElHZjhITjg0SjJrRTJkSElZV3c?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22719,6 +23258,28 @@
    "first_seen": null
   },
   {
+   "id": "2732203eaf140844",
+   "company": "Alkermes",
+   "title": "Alkermes releases nine-month data as OX2R race heats up - Clinical Trials Arena",
+   "summary": "Alkermes releases nine-month data as OX2R race heats up Clinical Trials Arena",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHlaM0JyOUxUbVRtZFRQZ3VUUGw4LWlqTlhScDJlTEhVeXRiMC0ydm9IQ1RkNmRVal81U09UVTY3Q1hxWW81Q2lVVE9YMUtPb0VaUUdybFdScXhrZVFpbVpVUkJCQjNNenFmNFd0Mm9sVGZRRlFFRGFXaXR0TW16SXZvWExHbUsyY1N6VXlvZDA5dHJuamtZNUk5dHNFUQ?oc=5",
+   "published": "2026-07-13T07:00:00Z",
+   "outlet": "Clinical Trials Arena",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7e1bfcd8f6da6ad7",
+   "company": "Alkermes",
+   "title": "Alkermes’ Alixorexton Demonstrated Sustained Improvement in Wakefulness in Adults With Narcolepsy Type 1 and Type 2 in Long-Term Extension Study Interim Analysis - BioSpace",
+   "summary": "Alkermes’ Alixorexton Demonstrated Sustained Improvement in Wakefulness in Adults With Narcolepsy Type 1 and Type 2 in Long-Term Extension Study Interim Analysis BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYm9IMThYeFZ2eHFQbjE2OGJWRG1yVkZBMlBCTVJBNjFlX0Rmcm5xdW1nS3E3QVlPTzU0Q3RlVG1VaFI2b1NCU19tVDg5TXRGeVdmUFlPR0Z4REpZbWFwQW0tQXg2eVRSaEVLRktKTmMybjV1OFpkRDE0T1lQOFpSaEJsN1c2a1FTMWUyU0xJV1RzNGoyY2t5WEgxUTh3eWMwQS1CYkhTcDdSM29tQnR6cW0xb0ZkSmtmU2RnQzN0WTZIaFVmNy1aamVsOWVhSFg2UW9WdUpXN2ZGRklFV2hjaDhrSDRSUFU4aElHcloxVzVUOWMtSlF4YWp4TnVaM0t5eFFQdi00YUY2YTYxRjhxN01NdzlLWmQ1djljWlBjbjljWEIwQUtR?oc=5",
+   "published": "2026-07-13T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6b73bd62c0ae7795",
    "company": "Neumora Therapeutics",
    "title": "Neumora Therapeutics (NMRA) Stock Sees Fair Value Falls After Navacaprant Discontinuation - Yahoo Finance",
@@ -23698,6 +24259,17 @@
    "first_seen": null
   },
   {
+   "id": "542a482cdacbedb6",
+   "company": "Alkermes",
+   "title": "Alkermes Stock Surges 20%, With A 6-Day Winning Spree - Trefis",
+   "summary": "Alkermes Stock Surges 20%, With A 6-Day Winning Spree Trefis",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON3lGTUhiMU9DdjNESDByNnNpNG9Da3QySE90UmM5ODU0YUlHaGVhSjIwU0ZFdzMzTlBJVVQ2TThVZV8xUXB6eTcwZjdFdUQ2Z1RLXzdnbnVveElCX0szZFdZTjN5dmtCYzhDQjVjNnBHeDkxenV4MEh5ZDY0QUNHRGU5S1o4VjBpNEI4Ul9qOVpfdXJQMlRzazNSSTJ1bXdDQVlBamRXVklJakxHYkNHNjNn?oc=5",
+   "published": "2026-06-26T07:00:00Z",
+   "outlet": "Trefis",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "136babf0f4cd6b8b",
    "company": "LB Pharmaceuticals",
    "title": "LBRX Forecast — Price Target — Prediction for 2027 - TradingView",
@@ -24050,6 +24622,17 @@
    "first_seen": null
   },
   {
+   "id": "e283ff7126722371",
+   "company": "Alkermes",
+   "title": "Alkermes: \"Buy\" On Avadel Acquisition And Positive NT2 Data With Alixorexton (NASDAQ:ALKS) - Seeking Alpha",
+   "summary": "Alkermes: \"Buy\" On Avadel Acquisition And Positive NT2 Data With Alixorexton (NASDAQ:ALKS) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPemk4RkpKS0VJbUxaVmdWYnluN09KM0FEZk9fUkFVdXFTazBIVkRlV2c4WlZTOG5rQ290Qm9neWUzYVhiaHczM1h4ck9fSG9GLU9hekNyeWcwWjFiUEpjeDU4Xy1UYm1OTGY1aGpzQWh3Z19rbjBMUTJUaGtYSHA3MEdpUHpaczA2NUt3cnB1STVPUlJkZmViRUI2YXhRdU9HaVh6WERhTDlONVpzMnQyS3k5aFE?oc=5",
+   "published": "2026-06-19T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e8984a37c6a10b82",
    "company": "TG Therapeutics",
    "title": "Careers 194 InvestorRelations-CorpCommsMgr - TG Therapeutics",
@@ -24204,6 +24787,17 @@
    "first_seen": null
   },
   {
+   "id": "480dca5f2004b1ee",
+   "company": "Alkermes",
+   "title": "Alkermes Presents Detailed Positive Results From Vibrance-2 Phase 2 Study of Alixorexton in Adults With Narcolepsy Type 2 at SLEEP 2026 - BioSpace",
+   "summary": "Alkermes Presents Detailed Positive Results From Vibrance-2 Phase 2 Study of Alixorexton in Adults With Narcolepsy Type 2 at SLEEP 2026 BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMHAtN1c3Nm9aaVg0bXpjRE5BQWVVcXBtMjlQMGJXUF9YbS1tTllNTHpXTTkwYWNkdjNEUlFRSU5yRk5PNV9oNkNfdWdnU0dUUVNfSnAtaE1qYWtzU3oyWEp2UzA0N2otejlXWnhUeVpOLVctYTQ5c0tINGlUWS1EV2FfTVNER01oNzdhYmFvOWdieDZRN1BKaGdoSk13SGVHemdhMFhMajMzVWdQNlgwRzBtM0tUbEpRQV9yRmcyOXEwV0lYU0oxUS1UUWtvcWIxZ0x5Z1ZZZVc5cTNTbGU2Um82cVJ0X09feTVCYzdIT21qQ2NUdzJKMmp1SkhTSnJMR3FXX2ZB?oc=5",
+   "published": "2026-06-18T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "728d5fc1ce14f74d",
    "company": "Luye Pharma",
    "title": "Luye Pharma Announces First Subject Enrolled in China Phase Ⅱ Clinical Trial of LY03017 (5-HT2AR/5-HT2CR) for Alzheimer’s Disease-related Psychosis - Press Releases - Luye Pharma Group - 绿叶制药集团",
@@ -24288,6 +24882,17 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3VkZLTktGdC12UkgyOThaS1g0Z1lDWDFMN01GZklyU2Jpb3FCVUdUdEpnNnhqMmU3YzZ1YnNocVVyWnlVUEVtVzdmeTUzLXVIdTk4S19hT1lnMHE2cmZPV0pIY2QwQTJZM0U0RQ?oc=5",
    "published": "2026-06-17T07:00:00Z",
    "outlet": "Univest",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "79c56e4d643a3311",
+   "company": "Alkermes",
+   "title": "Sleep Disorder Drugs That Target Brain Circuitry Show Promise - Bloomberg.com",
+   "summary": "Sleep Disorder Drugs That Target Brain Circuitry Show Promise Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelB3bmtrOER0ejRRLVI5eTZjeGZPT3JkZWZTaFl4X1FvbXlUUHZRU09VR09mcUdrRklPTFFmT1ZSR0lQY1Z3SG5HYVFfQW9LenFyRkxaZThjMGJFdXV4d2N5dUdmczNudmlkMmZNRzRCQ285SlJBNi1raHRsNlJIMGpOSU4xaUlUZWRtdEdwbGtHTHdyN29qQ2lIUkNTWDRCR1lPZmtDZm9JRHpYS1JlS1ZB?oc=5",
+   "published": "2026-06-17T07:00:00Z",
+   "outlet": "Bloomberg.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -24387,6 +24992,17 @@
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeVI4SXJIVGg0Z1AwRHRZaHVIYml1SGVqV053ZzdweUVfdUNUS09LWUs5eUxyRFc2Y0c4R0diRmJqcjh5MFlYbDh3WlUwd3dRMEF2MWQ5cG56SGNobTM4V09XS0dxZmtGQWlNUF8zNlk2amZjYlN4WUtKbDBXWmRjNjlrWVhJZXk5NWJQVkZFcmQzUFRzWVBmd21OYlJPSmFfYnJOX2wwb2ZJYm43SEdaMmJCbDRNMnUtbFlIUmZfLU0weENjUzlFRU1iTUQ4NlFHRW12SHp1OU9nWExHMzFyWtIB5gFBVV95cUxOdHROczQ4TlhwVjlONUJzdEdUM0Rqd0NOTDkzVjNZX3VUeGZwXzY3VlhVRk1IbnR4RVo4R1hkblhVNjVqU1ROdWY2b05JV0ZlY1pBVXhLd0s1ZjVqTEk2LXBOMWROZGg5UW9zWGdoT3hfXzl3THRISXExZkdTbGk2eW9ETUNjaGZXN2V0bjUtN01JOXpZVGstYmlwYm9FTjdVOTkzLWhhN2k1dWt3dmZzYmhoODhFUG51QjE4U2JJNjBFNXVzTzM5cmlLajBjMnRlVHEyMlcySWlpZUx4dnc3T2tBYXFFQQ?oc=5",
    "published": "2026-06-16T07:00:00Z",
    "outlet": "pharma.economictimes.indiatimes.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f2e79f17bbe8185a",
+   "company": "Alkermes",
+   "title": "Alkermes’ alixorexton secures FDA and EC orphan designations - Pharmaceutical Technology",
+   "summary": "Alkermes’ alixorexton secures FDA and EC orphan designations Pharmaceutical Technology",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXJfY1VNY3RKbjZlQ2J5UTNLQmxlT3pwVWpmcG03MnA3MlVCWThucUwwRlk0QjRhU0hCcEJWSDROeE9rNUNJeTI2TUJWaE14ZU5OU01ESFFCZjRTeGt3eTZDb0NKSEFobGhrbHFGM2YtSWFESXptSGotZXRLOWpodDRBVWNuZ0N3V3ZuNEQ3ZWdvcWVXVzFfUXZBQQ?oc=5",
+   "published": "2026-06-16T07:00:00Z",
+   "outlet": "Pharmaceutical Technology",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -24886,6 +25502,17 @@
    "first_seen": null
   },
   {
+   "id": "1e621b55eb1438e4",
+   "company": "Alkermes",
+   "title": "Alkermes Touts Orexin Ambitions as Alixorexton Enters Phase 3 and CEO Transition Nears - Yahoo Finance",
+   "summary": "Alkermes Touts Orexin Ambitions as Alixorexton Enters Phase 3 and CEO Transition Nears Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGFuRWFvT3dqdkl0QzByUjNLWFRmdkJsb1EwanM4Y1RhNzQ3bUdDNUowR1RHWHNBaDIxdS12RWVxdDRaMnA3V2dZMDhSbC0tU1lPeGNFNEdpSkVtN2I4U2JhVjF3RGV3SW0wM09ObEhxb3RsUy0yaTJBaGZwY29CaXlqOGE4RUFfaVgxUnMzMHlFQWRVSm5BZmxqcHI3OFlJazNVQTU4X3ZCR2JxYzZJUGJB?oc=5",
+   "published": "2026-06-10T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c60125cd799a2930",
    "company": "IRLAB Therapeutics",
    "title": "Kristina Torfgård, CEO and Gustaf Albèrt, CFO present at Aktiesdagarna",
@@ -25146,6 +25773,17 @@
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR2otQ3RKTkt6VDJpOWZLTE9ZUTNjb2NOMXFCRjlkamRUWFM3Q1RHVk56VGUyQXY0Y2RPdUVfSzFTZ2R2d1FFLTVoY0RwWnppb0hjaVlSMGkzV3BoaGtRTXZGcmlRM1FwVzJWT1I0NjZFazFHZ0hyZWpuOW5NVkhiMnR4blRaX29lTm1uMVlHYktTN05pQUdRdHY0ME80N0hpejJSaHdCWEpIV1dteUhLRXdXRmR2blgtMVhyQUxQbjY0Y2xIWWNzcDNFeTNqQ09JSFVQdHBURTROalpWNmZhVG5PQk8xT1dWQXJXONIB8gFBVV95cUxPVzUwWGZwVV93UVlEY1JFN1ZyeV90WERLQ1BMZVBtUjhzVjY4MEMwak1ZcU1GWDB5SmY3YmY4SVMtTkEyc29DVFdiM2Y2NXV6bnZERWo5OThoeEtYRGo3NkdtV0ROc0RQbUpqaHZmNEo3OGNUdmQ2VGxKTGFfZEhsUlNsdkw5SWlWZ3lQSzhUUG4wel9SYmhPbmRoelIwQ3lsSWZXcmRyTUdGblBZVWduYmw5ZkVSYVBCS1pScnVTVDZNSFUzZHA4bWo5Z2t6RGFQaGpocEtkeEp5WUV4bFFmYXBCd25YcmZKWG0xdUFqNnBvdw?oc=5",
    "published": "2026-06-04T07:00:00Z",
    "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fef17af9c3592792",
+   "company": "Alkermes",
+   "title": "Alkermes (ALKS) Up 21.1% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+   "summary": "Alkermes (ALKS) Up 21.1% Since Last Earnings Report: Can It Continue? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUJVb20xa3piSzJsLVhEcEFNaW9XdEN3YjluQnpTRmgyaWJPWS13dklvTXJGVS15YVhJMTFiZGdoa0h3QXlEMWVjTGsyc09PUlQ2bjdtSTVxS0VidXN2U1JqU1NaUEFlUXNlSG5PSkhCWXNhY1ktZjBqTW9CMDJ3Skt2MWdKVXJrNW5lV2NXdXVPYUk?oc=5",
+   "published": "2026-06-04T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -25750,6 +26388,17 @@
    "summary": "ANVS - Annovis Bio Inc Stock Price and Quote Finviz",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJYUpBYUlJd0FEazFsSnluUWJvd0ZrUGtEQkw3bFozbFFzdVZXUDVMUG5KNDc5aXRfZWQtNE5iMWJxRENBOGc?oc=5",
    "published": "2026-05-26T12:32:54Z",
+   "outlet": "Finviz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1281ecf20e37508a",
+   "company": "Alkermes",
+   "title": "ALKS - Alkermes plc Stock Price and Quote - Finviz",
+   "summary": "ALKS - Alkermes plc Stock Price and Quote Finviz",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ydU9rSkFkOTdvUm11MHpwMFR2T1dCMDdHWjJSRFFfYUNrRHgzZ2FXSnpjamEzTTRzbDdaaVJEb1ZUYjJNQlE?oc=5",
+   "published": "2026-05-26T11:56:17Z",
    "outlet": "Finviz",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -26679,6 +27328,17 @@
    "first_seen": null
   },
   {
+   "id": "cf4239051c8f3993",
+   "company": "Alkermes",
+   "title": "Alkermes reports encouraging data from Phase III study of Lumryz - Clinical Trials Arena",
+   "summary": "Alkermes reports encouraging data from Phase III study of Lumryz Clinical Trials Arena",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlFWcmF1ck1TcFpOenRWMy1PZ0JoY045R00zbUFYWkhWVDRBNnJWSWlWQ3NwYTFfZnBNTjA3OVNqazBCVEY5MU5xZjFRQlZQOWxyUmNTazBLTWFQREdlVXNWR1ZLLW1aSXFRZEtBMFE2YjdHbTNNWjdaMUpoMW9ydlFnVDhfb2M?oc=5",
+   "published": "2026-05-13T07:00:00Z",
+   "outlet": "Clinical Trials Arena",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "36ee5b3efb4657e5",
    "company": "Novartis",
    "title": "Medical Advisor - Neuroscience - Novartis",
@@ -26873,6 +27533,28 @@
    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPRWJPNmlPc0dDa3hySlRkMzRBajhSX3ptOGI0SUQtWUt3Q3JxV3loanc0T0hJRHQzelhzZGhHSmRZaV8wbWE0TXo1Y2tNTHlUMUZFeGIzaFN4Mmp0NnE5OTNaZFYyQkhHeFRkLXp3TGNTa1otT1gwNXdoZVZGNDNpUDBmOVhiZVQtYUgtZW4wWWdtQnBLTldQOWVGSnllbFpQQ052VFQxMTk0MExZNjBRTFNiOEFPbmtqUm1ZcTZ2dE1MR2s3Vll5YjdCcWx6YWFRUTVLTHZUeEplMmhFVTlnN2J0MUFtbnJ2UVJBdEdXMnpLTmxnTzlhTDNjRk5NYmdOT0xZczBnWjlPaTVrdEZNeVAzQ2lmSHlVTlpBMG5LMFlja1NfbDBfQ3Z3Q1VjVlNpLVB3T1NnVVFROUFLMXltQXZn?oc=5",
    "published": "2026-05-12T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c375c1b4fca3dfe6",
+   "company": "Alkermes",
+   "title": "Alkermes’ Lumryz hits phase 3 mark in another sleep disorder, fueling momentum from $2.4B Avadel acquisition - Fierce Pharma",
+   "summary": "Alkermes’ Lumryz hits phase 3 mark in another sleep disorder, fueling momentum from $2.4B Avadel acquisition Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1VRSEQyckN3ekt2dDM3NHFydmlmUlJZTjd0ZDl3aGEzV0hVRjBNWENPc1VZcTduaEhSdjdKdFpydlRKRjBFZ05CaWpuM2FkN2VFRnJYVHNrUjVNMkg2WGlGZXhodTk1STUtbFRrdzRuYlNnQ3NoUEd5aUE5TjN0MDdHbTM4ZVM5eWJjNTBiaXNBZlpxVktodDJXTl9sSWM3S3BicnR4ckpPUG9xd09mSU1FZVZUc0hjbTlPUg?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4bc85bd9d2bcd45a",
+   "company": "Alkermes",
+   "title": "Alkermes plans label expansion for Avadel-acquired narcolepsy drug - FirstWord Pharma",
+   "summary": "Alkermes plans label expansion for Avadel-acquired narcolepsy drug FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRZGJMdWd2Sm1LVmY4S1hlZi12U08xUld6R0tqaDZKRWV3bk5vZzRTTmVMOWIzLWx3UjhNYjZqUm55cjJlTUl4ZG1fcmZZODl3ZUVJ?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "FirstWord Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -30144,6 +30826,17 @@
    "first_seen": null
   },
   {
+   "id": "b20e1128d33c064f",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (NRXP) Looks to Score Double With ANDA and NDA Filings For NRX-101 - Yahoo Finance",
+   "summary": "NRx Pharmaceuticals (NRXP) Looks to Score Double With ANDA and NDA Filings For NRX-101 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ3dBSk14YURvcWRnaUNtWmREN2s2MFhjNHJKRmtkcDZLTjA5QW0zTU92WWJaS3h4X1NyMlA1R1VmMjNzM2FIMUFFYjdjNlBncmpjYlYtalQwNFdXX0FtU080MzdpRV9FMDNtOTZGLXNXbW5HZVlOVXRvVFBHUWk3ZW9MSllNOUE5VG5uSTQ2Y0l2YUhESS1yRFJqWG9kelUxN2lHYk13aXk?oc=5",
+   "published": "2026-03-25T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "567176bb53bbe68e",
    "company": "Kyowa Kirin",
    "title": "North American Pharmaceutical Pipeline - Kyowa Kirin North America",
@@ -32421,17 +33114,6 @@
    "first_seen": null
   },
   {
-   "id": "8acffb6926006ce2",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia - Yahoo Finance",
-   "summary": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQktVWlV3Q0NLWTBOaFF6Y3JNT3VvbDlXbFFKckFfaE4yS2Z6ZzloRUVNNF9Fa3NYNmo0eUtvenJ2TGtSY19LUGtvT3B6VE1aRWgzWlpMOVB0cWdyYUxDTGtZTzlPbUlMYzMtUVg5cTVyM0dmWXZBR21tRHFqNDF6eDZLTTNqMXVEMk5hWEltZ2dicTJFbERXZW5jQzU?oc=5",
-   "published": "2026-02-04T08:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "b07b63ba769b5dc4",
    "company": "AC Immune",
    "title": "AC IMMUNE SA (ACIU) Stock Price: Nov 18 Close $2.10 - Gotrade",
@@ -32439,6 +33121,17 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uSmpFN1p5M294SXduSkhKbzZ5VnpqWThxbkdhWWNHT1dPNVpfZE9DcWotVlh2dVBpVDdDNW83OXJxQ0hsdlRxVTFtaGNDUWRSa1FIbE1paw?oc=5",
    "published": "2026-02-03T18:17:06Z",
    "outlet": "Gotrade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8acffb6926006ce2",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia - Yahoo Finance",
+   "summary": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQktVWlV3Q0NLWTBOaFF6Y3JNT3VvbDlXbFFKckFfaE4yS2Z6ZzloRUVNNF9Fa3NYNmo0eUtvenJ2TGtSY19LUGtvT3B6VE1aRWgzWlpMOVB0cWdyYUxDTGtZTzlPbUlMYzMtUVg5cTVyM0dmWXZBR21tRHFqNDF6eDZLTTNqMXVEMk5hWEltZ2dicTJFbERXZW5jQzU?oc=5",
+   "published": "2026-02-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
