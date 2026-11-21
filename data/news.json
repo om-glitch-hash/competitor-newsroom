@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:30:47Z",
+ "updated": "2026-11-21T10:23:20Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1819,6 +1819,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "31b5fd9d6f3f814c",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics, Inc. (AXSM) Stock Price, News, Quote & History - Yahoo Finance",
+   "summary": "Axsome Therapeutics, Inc. (AXSM) Stock Price, News, Quote & History Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsV0NHamJ1WHB4NnJkaUtvd0VacUh3bWFJR3A3RHNqVldhbldOUzA3Q0h3MUg1WmhPU1h2LU0tQXZPZ3pGOE1oLU1QdVVTUQ?oc=5",
+   "published": "2026-11-20T16:02:15Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T10:23:20Z"
+  },
+  {
    "id": "eb0b4102b7d46b79",
    "company": "Supernus",
    "title": "SUPN Initiates Coverage On Wells Fargo -- Rating Set to Overweig - GuruFocus",
@@ -3139,6 +3150,17 @@
    "first_seen": "2026-11-20T13:15:54Z"
   },
   {
+   "id": "b7905d22546f84f1",
+   "company": "Idorsia",
+   "title": "Idorsia Ltd (IDIA.SW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Idorsia Ltd (IDIA.SW) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lLWo0VHRGcml3OUFyOEprU0JBXzFTRHpPS1B4aUs4clFOTW9NSUZ0cWpfb21JbEwzLXNfVnhlZmZPdzhkMExwMlBjQnlicHRNbnpBNHZ3?oc=5",
+   "published": "2026-11-18T12:01:48Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T10:23:20Z"
+  },
+  {
    "id": "3ed1892a3c3871e7",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics Ltd (PBN.DU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
@@ -3982,6 +4004,28 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU29pWWpjMVN2YURTSUptaTRDRnlKTnpvek56VXh2TXhyUXRRTVpXcUtTS3hCX3FKSmhyM0d2bWw2by1wMEpNLXEtS2x6a0RYUl9CekFrcjItUXBEVW0wNEhnb3YtaWQweEI2YVJ2c0F6X0tCaGlGODhveW0zeFdlcS1HMzZEanF2enFUTlpoc1QxUEZYbkpiXzNyc1hRbmdPczRPMDRqOA?oc=5",
    "published": "2026-11-16T21:38:41Z",
    "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6582afda27fbdfe3",
+   "company": "Neuphoria Therapeutics",
+   "title": "NEUP: Costs fell with R&D paused, while the Scancell merger remains conditional on financing and cash thresholds - TradingView",
+   "summary": "NEUP: Costs fell with R&D paused, while the Scancell merger remains conditional on financing and cash thresholds TradingView",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdVY0MmpnZENOSDh3TUdPbF9JS0pHdkVrSDlxSk1vWlRzVkFWUHlaS3pKVGV6SlVmSlNCWXhObTRYSUhqeWtfdlRLQko4QkY2SmdkckxTTFBOcTJYQ1FqZWI3LW0zekM2U2RYd2NhbklPNWpFR3FRUlg5SXkzakFuUUpKLVZmRDNNNVpqQ2NtS0sxcW1GY0ZCamR2dTJpWVBOZXc1ektLdzY0Vmw2UzR5a2g3TWJ0RFVFQWRBVnlrdGFSbTBNQkQ1WElFNDRkMm0yNExSbUNEVjhYY1k0SGppX210cnVvczBvSzJzRThXazJ4S2xBZldHLUpycXlzQUtKTXhrM3k3Q0x6RDJ4aHc0MFowYkNUbFRtaW81UGhn?oc=5",
+   "published": "2026-11-16T21:34:10Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "922b85cddb41ab6e",
+   "company": "Neuphoria Therapeutics",
+   "title": "Neuphoria 3Q 2026: EPS ($0.26) — 10-Q Summary - TradingView",
+   "summary": "Neuphoria 3Q 2026: EPS ($0.26) — 10-Q Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMXJ6aUxKdTdxZm1haHpnZjYybHU1Ul83SEZjRzM2aWQ4UV9jSkV1Y0R2MUhub1RMMG42N3l6TW5zT3IwbzBraVRtZnlFNXg2eFZadEFZWlFBR0pRNlh1bWgxbjdObjFTQmZCMkw3MG5jZV84aDAwN2p2SHFoVHRHTkMyS3oyb25UZjMwYzF5VzRZTWZBQzl6bS11UXdPSV91czNF?oc=5",
+   "published": "2026-11-16T21:31:04Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6725,17 +6769,6 @@
    "first_seen": null
   },
   {
-   "id": "29c60342e83ea415",
-   "company": "Rapport Therapeutics",
-   "title": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 - TradingView",
-   "summary": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXZTeEE1N0FtRm9xM1lIYm9aamhqQXo1c3ZETUs0UmNHWXpJQzlqVlk3eUR6djY0b1JyaXBBQUF1M2UwZHVsNU1lX1FhTklxUFB4eXV4bkJGVGNlQktFMUh1WVlfVjJadHhZUm9wLTZ3OFZRbWg5andNRXNFMWZnUnNNMHVwWXRLOEVOdHJHblQyaG8tVENUVEMzdGlpMHMtNFlna2NPWjJPY2xVZ3YwbWUxVUNTOEtjZ0xWZkNhem1JVndQaW05anFULUtRRGFHcU44?oc=5",
-   "published": "2026-11-06T08:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "2d1e8aa57d9cb4f7",
    "company": "Rapport Therapeutics",
    "title": "Wells Fargo Maintains Rapport Therapeutics(RAPP.US) With Buy Rating, Maintains Target Price $47 - 富途牛牛",
@@ -6875,6 +6908,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVFYNGRteUJDR214ZmFFNGlmalozbFdVZFRianFyc1dGZHpBd1haVXF0MXZLSTVET2dDTTNfVXV0bnl6Z2VfN2xKZ1ZiRmdtTTVjQnVEZkN2N0FlMGZMWkJfOGtnczhmQ2tpX3pkdEQ4UFVnd1JwaDB2eXJhWlBUUkZ3X2trMmRh?oc=5",
    "published": "2026-11-05T08:40:07Z",
    "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "29c60342e83ea415",
+   "company": "Rapport Therapeutics",
+   "title": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 - TradingView",
+   "summary": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXZTeEE1N0FtRm9xM1lIYm9aamhqQXo1c3ZETUs0UmNHWXpJQzlqVlk3eUR6djY0b1JyaXBBQUF1M2UwZHVsNU1lX1FhTklxUFB4eXV4bkJGVGNlQktFMUh1WVlfVjJadHhZUm9wLTZ3OFZRbWg5andNRXNFMWZnUnNNMHVwWXRLOEVOdHJHblQyaG8tVENUVEMzdGlpMHMtNFlna2NPWjJPY2xVZ3YwbWUxVUNTOEtjZ0xWZkNhem1JVndQaW05anFULUtRRGFHcU44?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7099,17 +7143,6 @@
    "first_seen": null
   },
   {
-   "id": "27f19cda455d543e",
-   "company": "Idorsia",
-   "title": "FDA Breakthrough status for Idorsia’s daridorexant - The Pharma Letter",
-   "summary": "FDA Breakthrough status for Idorsia’s daridorexant The Pharma Letter",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdhUUVJOXlsdVJVQWVwZHJiNy0tQWRNRDJ6Ml9iTWlyN083eS1hZzhDeC1ZMHQ5RXo5X3VPYnZOTWVfMTRtY0xOOFhZNlZlSC1FSXBfbkpKQTJnTFhPQ3dlR0JEbEhpYnI4eW5xTGNocUVJS0h2S2V2ZzF3OXhXWnVPaVNrRm40YWRfZ1JncnhKUUplWnRYRi1ldw?oc=5",
-   "published": "2026-11-04T11:29:16Z",
-   "outlet": "The Pharma Letter",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "32a2e52529545c4c",
    "company": "Usona Institute",
    "title": "Stifel on Compass Pathways (CMPS): 'the Usona situation is an extremely atypical one' - StreetInsider",
@@ -7128,6 +7161,17 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0hoM1pYR2MzdjhZOEhoNzd1dzN1ZmI2QkIzVHFnTnlWTGhMSElENS1XSGVLTHJfTmpsYUtsNGMzUmo2aG9TT0lXbnNISE9CMTdROGd1c3ctVFBFd2hfelRvSG92Y2VKaWlqMDkzSVVTV0M2d0hJcE1PcUlJUTljTzNRalVPOTRVeVRsX190bTRsQWRGSWEyLTllT2dING9tMDJjRm11QXZyRGk1QUN6aG93ODROc2xOckRMbU5WNGMxSlp1ckszbg?oc=5",
    "published": "2026-11-04T10:14:14Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "27f19cda455d543e",
+   "company": "Idorsia",
+   "title": "FDA Breakthrough status for Idorsia’s daridorexant - The Pharma Letter",
+   "summary": "FDA Breakthrough status for Idorsia’s daridorexant The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdhUUVJOXlsdVJVQWVwZHJiNy0tQWRNRDJ6Ml9iTWlyN083eS1hZzhDeC1ZMHQ5RXo5X3VPYnZOTWVfMTRtY0xOOFhZNlZlSC1FSXBfbkpKQTJnTFhPQ3dlR0JEbEhpYnI4eW5xTGNocUVJS0h2S2V2ZzF3OXhXWnVPaVNrRm40YWRfZ1JncnhKUUplWnRYRi1ldw?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "The Pharma Letter",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7304,6 +7348,17 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMXJ2dFV0SGxFSHlseGlYZWpkQnhaYklsYjRZMWhMM19FTlNxVjBHQ3lWZklvd3ZNV093RGY1QTNhRkJIWHA2SkRzNXRLejZmdDcxMnlpMkR2TktGQnhiR195R0swalluT0xJeGlFa0VHdDlzaG5hbGZxTHNCX2c2dURBNi1wdGNzczBra05zY0o5ODJPYk9ONFNUc3QwNm9yRXRWbktFVTBsbkdyYmllR3pETDBBT0FWdVowNUtmSXZhYVBrZGpjNVI1TQ?oc=5",
    "published": "2026-11-04T08:00:00Z",
    "outlet": "Investing.com South Africa",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6126e1636d8abd5a",
+   "company": "Idorsia",
+   "title": "Breakthrough Therapy Designation granted by the FDA for daridorexant in pediatric insomnia disorder - The Manila Times",
+   "summary": "Breakthrough Therapy Designation granted by the FDA for daridorexant in pediatric insomnia disorder The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYmtBcjh6N0hTNG5FYkdTWGI1emk4NmVNWGw3Uk81S2dnamtYT3h4NGh5T1FEM09NbXI1NUN1dlNIMmJYQ3BiNmNicFJ0dE5ldktpWWxwTnVqYWZSY1JweG5TTU5mNDduVDVZNktTaVNucVI1cnp6VFo1Ym5QdnJBOWdSZTd2b3VlWEF0QmM0Z0l3OUlnaHlyc3I0SmphNzRsVUV4TF9PUTZFbzBHUFVwOTN0Z09iVThxYm1RUDdaSG1RaFhFdHY5ay1HU2xMUWhXd0pjWUp0QVJZc2Q1dlp1bnZVRDJDQXNmZnZtTHV1RkhLaXVCc292V0kxZGhHM3I3T0Z30gGIAkFVX3lxTFBiSFN2YUE2ZFplWWJxSllPekNKZ1FERGh6cE1UM3VNR0ZPX0VNaHRhNUJnWjJyUjUyc3duTno5b04ycTJ0N180ME92SVQydnNJc18tNDZQbG5hekR2R3BBOE51NTBvSU9zbDE4bFI0Z18tU2RYVnNsa29BUmt0NjJrTWZCU3JsQnBOMlhjSjY0ZWZINTlWSkZoaGtuOUthZTJxdnhyRmZVS2s5ZjBSNlBxVjFYQXpUUGdqZkkwcjl2ZDRFRU9OSW5VRWRuVnM5LUpfWHFtNFdoMGtfYWgzeDlQUGNsVExoYlRSMUpqeDJUTnFhN09DVVBua2xFVTVnYlpKM0lnUUdDbA?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "The Manila Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8661,6 +8716,17 @@
    "first_seen": null
   },
   {
+   "id": "d0f3cc3d61b628d5",
+   "company": "Idorsia",
+   "title": "Idorsia reports accelerating QUVIVIQ growth, advances key value drivers, and reaffirms full-year financial guidance - GlobeNewswire",
+   "summary": "Idorsia reports accelerating QUVIVIQ growth, advances key value drivers, and reaffirms full-year financial guidance GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMzFLQ0FCSkl4QVpXck9sV0RSM2NHcFI5Z3k1aXVCU1UwXzEtbzYwX0dLZTBZZFZJaEQtYVoxVlBVc1pvNy1OamZ3TldHVUFDWTJvT2kxVFJSdzd1ak1OYV96X0tlTHI0TlBaTXlaT3k5c3BhQjFXNFNaZVdLQTJTbnNuUUxaXzV4MHplU0VBWllUQzVzcXZ2MGh3TkNualFJbUlQU0h3WHBJN3BQVWVfbUFzS1lpZ0c1bVMwcmFhQk5UQzYyOTlmb3loX2ZFOGxIcllOcHo3cVNRYl9kZVBha0RLQkNYaE5wbGdteExlSk5QY0lwcTc2TGxxOXBkSjRHR1A4cnlWQ3d6OWtseXdmYVNaYw?oc=5",
+   "published": "2026-10-29T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "394fd635d6fbdf41",
    "company": "Idorsia",
    "title": "Daridorexant for pediatric Insomnia - Idorsia",
@@ -9009,6 +9075,28 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHZPd25fSFFmam5QaEZRTmE3S2V4UUZmcWNzazRaV19LN3JkaU1SdWFweXVjNWtzUmE1SXp1RlNsTzZqaVRObUJmS2IyZThIR09TX2R2SnRWb1BHblZKREVMN1ROTzRKblhFV2U3eEV0UWEyNzBzNzhwQW1kSm1tNnk5R2JfWGhDbnlwQks1NGFKQ0JLTjNGYTAwS2ZjWEJCZUxrN2lnWkVGUWpwWnRXaUpSdw?oc=5",
    "published": "2026-10-28T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ff0643059a58204e",
+   "company": "Idorsia",
+   "title": "Switzerland's Idorsia 9M revenue flat, QUVIVIQ sales up 54% - TradingView",
+   "summary": "Switzerland's Idorsia 9M revenue flat, QUVIVIQ sales up 54% TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeUpuMlFzTkhWa3MtVXBuTXFoYlhFVlN4UzlWb3lhY3FsSWE5QjNaZVlzNzhkRlBOWTRCV0R0cGN3Zkt1c3dBb1k2Z1pSUTRWaDR0VnB4Z3p4UUtFaGpoV3pGUG52cXNDY091Q1NtSG5iS0g2aXRuSVBDY3BlT2hkR3V4eUlCWE12TVNtTWxQVTUxNjNQY2VpM0c4NDVyX3o4TTJBS2MzYnBlZlV0cTYyTDlNa0ZCWGRPdklnempCQW9taW9Sbmc?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fabb5fe1d9a56051",
+   "company": "Rapport Therapeutics",
+   "title": "RAPP Stock Price and Chart — NASDAQ:RAPP - TradingView",
+   "summary": "RAPP Stock Price and Chart — NASDAQ:RAPP TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MOHVnWlRPMUdBTDQ2UUdPdXVJeXFLdTRuYi0wcWgtVkE2Qk44OU1fVE5rOFQ2SU9PdldJNEJQUmcycWxCV3JiN2VKaGJ3M3BmcWVmcDN1ay1lS3VB?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9365,6 +9453,28 @@
    "first_seen": null
   },
   {
+   "id": "44529aa77ad45601",
+   "company": "Idorsia",
+   "title": "Idorsia seeks US label update for QUVIVIQ daytime functioning benefits – first patients enrolled in Dari-Dream - Swiss-Press.com",
+   "summary": "Idorsia seeks US label update for QUVIVIQ daytime functioning benefits – first patients enrolled in Dari-Dream Swiss-Press.com",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcm5ENWI0cWJIcjdmRkZDa19aLWxrQU1aV2xKWmlwbnk5MVY0Q2xUTzNjYmxfLVk3Wk9NMnpFdEpuV0RobU9vSTJXOGd2WnpxVi1IV2VlbkF2a1VDX1M3bG92aUlVcUF0RmlsTUtmUE9vd3VWTnE2WFdsMGJQb1VYb3BySUE4Zw?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "Swiss-Press.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "12c81115f3860bab",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Announces Proposed Public Offerings of Common Stock - GlobeNewswire",
+   "summary": "Rapport Announces Proposed Public Offerings of Common Stock GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWklXTHJpS1NJSTlzcTZLSVZwX2JRckhaaldhWUQ2MzRsaXZlUG5HSFY5cmd6NlI1VEV4d1ZmR0tVYnJfZlNfYmU2b1htLVh0VDJhRkdzVTgyMEtmRUZ5ZzFuWm1yUW1DOHBUSDZwQTRWTHhPdUFYTnV0ZU0xdFo1NERjZ2dYeXBTY0hNR2tsb2Z0T2xGY1pULU04X21RVGNHVHdfZ1hSeUdFdVlKVDZTQzRoaGpJc0FiTU5rMzhSYU5qZ3RRZm9aR0g4aWE5b0YtM1NuNDdNRzlzQlFrY1dCVVI5c0hVdERjbHltcnRpOC1mbjN2Qm5kbUJ0VDZ5eTExVUNqRkFrc3VqSThVSUJOdnJMM3J4aEZPbVY5MDZR?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7f878831bd4bb9de",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals to Report Third Quarter 2026 Financial Results on November 9, 2026",
@@ -9486,6 +9596,17 @@
    "first_seen": null
   },
   {
+   "id": "4434d2c2adc53f93",
+   "company": "Idorsia",
+   "title": "Idorsia to advance daridorexant development in autism spectrum disorder - The Pharma Letter",
+   "summary": "Idorsia to advance daridorexant development in autism spectrum disorder The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeS14S2VIenJfZjNOeUJVUks3Wi1jYW5ZZEpFNWJIU2ZrMnFKQXRlRHJzY3J4bWg5Q3VlSzhQemlUVXFyTFZUNWJCZmFTWjVnR2ZTWFB0Qmt2a19CUy0wc1BJRExJeGNLSy15N1VNdFpYaTFpVUd3S0pLVlA3Smg3LUxxT2hFeV92S1ZvbC1DZVV4ZUc2VU1yYkFiTmNCWFFXX3JGRjhQM1c3RXFMWUVxOVpMb1AtZW8?oc=5",
+   "published": "2026-10-26T07:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8c704db2ff5cbe83",
    "company": "Serina Therapeutics",
    "title": "Serina Therapeutics, Inc. Estimates – AMEX:SER - TradingView",
@@ -9548,6 +9669,17 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUUUdYdWZJR1liTTN3Q1ZKa1dGLU5rbDc2M2hwMjUzWF9mdWQyWFJlUFhpY3R1X0JvYkJQQVc1dHNLYXUycVNlaUcySEFVQUwtUkI5a3ZHcFdBbjBadjFzMVl0TF9HcUczRk1tNmxYZ0phVkl4Y3NUWA?oc=5",
    "published": "2026-10-23T17:16:58Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "44661546efa78c0e",
+   "company": "Neuphoria Therapeutics",
+   "title": "Neuphoria (NEUP) Stock: Falls -0.83% — Where's the Floor? 2026-10-23 - Double Top - dars.gov.et",
+   "summary": "Neuphoria (NEUP) Stock: Falls -0.83% — Where's the Floor? 2026-10-23 - Double Top dars.gov.et",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMWE3eHBsbmhUdFltNDVLektJQ3I2TUV5czRLc21UdmloWjNiRTRSNUp3SWFsNnVNUk0wbE5uMkZiTGdIVm1DMDlDRW9ibzVWOVFvanZ0U2VDdGI5cFhaNkdBTmVVc1p1dkNSamt1UlU5M0UzWlJQYlFpWWQ0bzg2b3Q5LTlhQ0Q3MEFrTHZKNENsSW5VMk9zSjhPVjhBNU9GalE?oc=5",
+   "published": "2026-10-23T16:35:01Z",
+   "outlet": "dars.gov.et",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9636,6 +9768,28 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTd0WU10SXM0c0V2bmFPVXNJb3F2NGw4MV9zeTFLZlAwdW01blJ6bmRNRUxkVVN5N1EwR1k4YTZkejdCbFYydG1EaWdPNHhiZi1EMXBHT1hKdHR4V0o1b1lZVFNDX2RqZVdRbEk0cm8xRFlidXU0QzJRdXBJWHVVbXV6a1owNXF6cE5iSlJxRG1lR1J4TjBLSF9fV2VqcVdoU01ZdXhsdkE5MWNwZlFaLTF6Vkszd3pZQndN?oc=5",
    "published": "2026-10-23T07:00:00Z",
    "outlet": "Quiver Quantitative",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1ac4329eb68886b8",
+   "company": "Neuphoria Therapeutics",
+   "title": "Neuphoria Therapeutics extends expiration of rights agreement to October 2027 - Investing.com",
+   "summary": "Neuphoria Therapeutics extends expiration of rights agreement to October 2027 Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVVJpMGg1NXlCVjE0M0VQX0UycFFhNURkU3o2WHdMOUt6U0RVRG5Qdmt4aENEWG5oRzVyQmRpd25RMkwxRDl4c2lfNV9tdEFtMHMtYllRU3BpSHVwWW9aTGotRXdZYVZQTnpXSGtVZTFJRWRVTW41UC1OVUplRVcyWS1ZU050VTBVcTdsXzI0dDNpdktiSUV1WC1DVEFCQmZGVGJPbEpoamhxMlpzd1U0amtfaWJGLVhrdUJSRjZsbDRTcng0ZzViMGpNdjIyUQ?oc=5",
+   "published": "2026-10-23T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "52600bb3885fc76a",
+   "company": "Neuphoria Therapeutics",
+   "title": "Form 8K Neuphoria Therapeutics Inc ADR For: 23 October By Investing.com - Investing.com UK",
+   "summary": "Form 8K Neuphoria Therapeutics Inc ADR For: 23 October By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNldnZUhHX3JXRWRMRjJWcXpaQ1dtZ195VEhzb0V3WW93dVhhb0QtemF0aGFzQ1BfYWIzcmhPV1h1WXlEVDlrY2NlektDdlhLRWdtalJMOE03XzJGQk1WZ1ZxTmlMeGYyU1BzbDJQUG1ldWN4Wk1BVEd4ZG82X2VVTmZxbV9iZ196RkZfbmdDcnZ0M1hnNWFaQ1ZwV18xWENuMkNvMXZ2Zk1VMi1mTEdVLUdGYXY?oc=5",
+   "published": "2026-10-23T07:00:00Z",
+   "outlet": "Investing.com UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10131,6 +10285,28 @@
    "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPTDE0aENyanQ1aFlNQy1uSkdCbVBGZ1U4VWs1cUVFYkxfNWw1Mzl4aFlZRHIxdlNXY2JNdkFxQXBtcEx4QkNXLWdfakE2aVpfb2VpX2tfUkF1QWpsb1Q0eTlRbDVOR2dhazNmZ254ekJtRU42VXBlWVBERUV5N3VRU3o0eDdpUTh5UXk2ZWx4UWN6bHl3NVhxUnIwQURXdkxPSUZDdGpIOUIwcVB2RmZlYUZ5RjZCWTZDRWdVOEZyWTVUcVBQTU1kYXY3Z3RCbi1IY0xnNUZhaDVXdm5iSm1uZjk4eVRyZm1LRk5xdWZHcmJKZFlobGlURlFKMkc0Wm13R0RXRGt2am84c3hHS255OVlldmdnMjdKaUt1ZnVvemtpY29ycGdhVHNjTFFJYmJDSk02MWNhZDBYaUFRNUx6aWZaZ0FKb2xJTG9CeEk5NTZvMEtfM3VPR1c1eEMzeWFfS2FvbjVwNWRrOEI1T2hrVUZYUjE0eVpaRnozcVFwRXNOdVFtVS1ON1ZhaTVHWVY2eFE?oc=5",
    "published": "2026-10-20T07:00:00Z",
    "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "79eaa753b2908a19",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial - BioPharma Dive",
+   "summary": "Rapport’s epilepsy drug finds surprising success in bipolar trial BioPharma Dive",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXVGaHh1bXlldVhlR1ZuRVZRanJmckprTTRLV0xsSldMYXJnWEVaWXNnUXJvME9BYk50cDRrdXB1NnV2YXhOMTVRVHNlNDJHNU5LeTF6U0hiWTd3SGtZX3BLYUppVFkyb1AyWEtyYXN4ME9Md0FkSjdXT3l6WWxRVjl0YmVnNml5TGNidUE1bHUwOEpNamc4ZHlLNA?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "BioPharma Dive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "dc1f5319ff7c4e80",
+   "company": "Rapport Therapeutics",
+   "title": "Truist reiterates Rapport Therapeutics stock rating on trial data - Investing.com",
+   "summary": "Truist reiterates Rapport Therapeutics stock rating on trial data Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ2lub3lyYjNTczZiNVFQQXpQZjlVZUhKQ3U2cGowRjFLUVZHcGFNQnJpSlYydXhDXzJ4QjdTaUlVZUtRR3huaE05dFZENGxPRDk3dER2cklCQ2NXNGJ2T0lCaU53Qy0tSWU4QkhfaWFVcFpUU1NkM1FWSDNQTFNtaTZlVmZ2clVDaUlvQkhybTZBYmxmakNNV3lWdlh3Zml5LVNEeURCZHZ3R19EVTlPSVRMZjFZenYyWjlwQ2gyRGxkbjQ?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13303,6 +13479,17 @@
    "first_seen": null
   },
   {
+   "id": "37137d25556bec5f",
+   "company": "Neuphoria Therapeutics",
+   "title": "Accenture, Abivax and 3 Stocks to Watch Heading Into Monday - Benzinga",
+   "summary": "Accenture, Abivax and 3 Stocks to Watch Heading Into Monday Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQkROYzFheDBXbURSM3ZCcUd3d3ctcS1ZOHhLa1hmMFFhQjkxR3BYakREWWlxTUhodTd4a0Q2YXh3eV91eXJBWWhELXcwTHgwRjgwdkVHNFU3ZFJaOTVrdExnU3NKdHpySWR5NzdvTThlYWNBLW5lbkUybGZ4aHA4czF0R3A1WjZoQjVIWk9wUmNRRVdMbVppazAwX2FldmNrd1BCNDMxMV9aSk5qMGo5YmQyQXZySGV4QlNZNlBkdEU?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8a730b7964b0c5a9",
    "company": "Teva",
    "title": "Medincell's Partner Teva Presented New Data on Investigational Olanzapine LAI and UZEDY® at Psych Congress 2026 - Business Wire",
@@ -15173,6 +15360,17 @@
    "first_seen": null
   },
   {
+   "id": "4e02a08e819bfed2",
+   "company": "Neuphoria Therapeutics",
+   "title": "NEUP Q4'26 Earnings: EPS estimate is (0.56) USD - TradingView",
+   "summary": "NEUP Q4'26 Earnings: EPS estimate is (0.56) USD TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnhJSzI1aGRfbGNWM2tNWm9IVHlIOWpGaWlTTm9waTV5ZmkxN1E0REprTGlwVDJkT0ZfSmEyelBiSmFBX0Q3SXJ6ZkNPNHo1NEt2VTgzYTF5WW9HVTBXMUVmdXh0OUIzQlN6MmhlMHFmYVJDVEdGTmViZW9kd1Rsc21icVo0SUZIV3pQRE91UTBmdTVOcGh6Z1VWU2oxcFMwa3M2LUVoOHQwQQ?oc=5",
+   "published": "2026-09-01T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c0bf4740a57bc12e",
    "company": "BioVie",
    "title": "Phase 2 Trial of Bezisterim for Neurological Symptoms of Long COVID: Treatment Phase Completed - Psychiatric Times",
@@ -15437,6 +15635,17 @@
    "first_seen": null
   },
   {
+   "id": "dcec48e8e22e8469",
+   "company": "Neuphoria Therapeutics",
+   "title": "NEUP Q4'26 Earnings: revenue estimate is 0 USD - TradingView",
+   "summary": "NEUP Q4'26 Earnings: revenue estimate is 0 USD TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1p5R0VaQWQ5dkQyTTBYSldGbElHM0owZDFpUWVPbEtBeHNzZ3BzaUNBZWVYSWVKM0duUnlUR2drcFJWXzZ1R1UzYjA0R3pQWDk3R1V1d3pJY2lFXzNEWklNeEJjbExVaVRyTTBCSlhRUlFleUt0Qm1oSTkyWkYwUlRaaGs2ajZRbERabHRXUGhNS0x3ai1UTWVtbjRxVFVacmFvdjBMeUNsZTg?oc=5",
+   "published": "2026-08-26T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "874bc47f5f90ab5a",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics to Participate at H.C. Wainwright 28th Annual Global Investment Conference - Gain Therapeutics",
@@ -15576,6 +15785,17 @@
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYUM4dGdZd0gzTHpLSlpkbzZJQ016c2VxS3huTEFIc29tTnNKVExvN21sYV9BYXZ1SHNXVWRQN2lEb2hXd080bm45clVTQ0J4TU1SNTJDLXRQMUxCNW15elhMd2l3YUlKaGd4cFhaMWtkd2NPU1Q5ODlLTmljYW81ZG9LREJ4LXRIZVdfazV5U3ZSbTBuVDNmbG1aenJFZDZiX0hzb1pZSkpUYWREYUYySnNUVlhIeUxqOFE0QldaU25yU2lORGFZalpQcjlGODh2YTV4LVJ4Q0JicjI1TTlqdXRWZ0NfSVRVRm9EbG12WkRLbmdyMkJpSkJjOXExYUg1QXNkWFVBOA?oc=5",
    "published": "2026-08-23T07:00:00Z",
    "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f88665fcf12fce84",
+   "company": "Neuphoria Therapeutics",
+   "title": "Neuphoria (NEUP) EPS and Revenue: Reported EPS Tops Expectations for the Current Session; Share Move: Shares Move Lower 1.01% in the Available Record - EPS Surprise History - DARS Website",
+   "summary": "Neuphoria (NEUP) EPS and Revenue: Reported EPS Tops Expectations for the Current Session; Share Move: Shares Move Lower 1.01% in the Available Record - EPS Surprise History DARS Website",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdlR4ZjZXNjFBa0ZUWFBXQVRSTDlDUXF0RDZfR3dYUFUwR0d0RjhrMXk3a3JVdjZ2ZnJiSDVDbjM4TE9ub0hRQnMyUTN2b3RvLTA2azVCU1VvMThYdzJ3cDJ6WUh0UENLYVl2UW1pbWFHcGNxSjNLbkp5Q04wQXlQLTB6ckU0cWFXdnU4WGJfemV0Uk4waGIzRFVsMXNOZG1IcDVBMmxhMy1lNEkwYU9Zc0s4MjQtRnk0UnV5RG11RVZmTmVEYms5NVFuQU5DTFBVV1ZkTGNDVTBkM21kLTBkWWZzVUl5ZUF3dnV5UE1ZNlZscGZaZHdRbzZKMkd2WDU0NGp4VTBaREtydzZpUXhpeF9Daw?oc=5",
+   "published": "2026-08-23T07:00:00Z",
+   "outlet": "DARS Website",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16394,6 +16614,17 @@
    "first_seen": null
   },
   {
+   "id": "6b65f55263435745",
+   "company": "Idorsia",
+   "title": "DEA Proposes Rescheduling DORAs - Sleep Review",
+   "summary": "DEA Proposes Rescheduling DORAs Sleep Review",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTkloY01WcnZlYVNiNkFCbzVRTGNvczBFTzY1TGllT0NYNGRYTlAwTmJMVGk5TE1ramtPY2p6TmExWmhwcGVLV212eXRtRFZpNTVOR3pUdEdtOFdGVjJqZVU4bTRfTUFlM1JTWTI2VEw0RXNTai1vbWNoUTVKQUhZcEpoSl9qXzh2RGlYRy1qLUZjMTR5ZU4waUdJLXU?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "Sleep Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "12881245dab143be",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "Brian Korb | Board Member | NRx Pharmaceuticals, Inc. - NRx Pharmaceuticals",
@@ -16852,6 +17083,17 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTmhUa3pTbXdjbDJJNWdYSzRqYVhjQlRlendqQXFPSV9sY20tYlg1TC1KMzYwMTZHQ3lnQVRvNkZhSjhIbE9YNjV1RlZCY2p0VGZNVmw4Wm9ubTc4NW5seDR0dTRnWlU5NmVlSVF3WHJaR2RYLWtFeldicE1mYm5MM2k3R2JsR3MycUdELTNybnY1bW9pbEIyaVBvTkdMMEhlM3ZUNW9EbVo0VFkySTFIWkh2bzluV1hYS2JFTXpBeXNPakdnWVBqdFhnWUd1WTRDdllmR0VR?oc=5",
    "published": "2026-08-11T07:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4da7704461e34e8a",
+   "company": "Idorsia",
+   "title": "Idorsia acknowledges the DEA proposal to reclassify dual orexin receptor antagonists to the lowest schedule - Schedule V - The Manila Times",
+   "summary": "Idorsia acknowledges the DEA proposal to reclassify dual orexin receptor antagonists to the lowest schedule - Schedule V The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQUzNpMjlSZXV1Y0pzcmI1Um95X1hzd3FINm1KZWNWTGlMMHRfbFRtcFVRVUszMWppM1dERFN5Tm1ZeFo0YlpLNkZhYmRQZ19mTjRuUjlGaU9FVmctdDBZZE54aWpYU0Juc2ZMYXhKTXhrZjc4LTJxVG9YZ0xGWGRXOVdhei16dmtHWVdScklSVDUzVUVVVlo2RWM0aG9mRXVraUVxal9ld1FvSjBsdkpmbWs1Zld0bTk3MnVMVVBEdjhwYThySnJ2aVNrUmhEb1RXQ2FudVg3SmxkQ2NqOGdqUTJCYmktelVhVXFwaVllZTFNN25tSEFRYlJzdEd5aEpmQjJCOXlrblhyRklqWXZmNU16Z3JJMndwTkpiT9IBogJBVV95cUxOR0pSWjVEUjNQYy1OZm1tcWFaSDBkbkZxQVFhMUFtMGs0SEpDQl9hTE85VElzQnczTTYxX3VUX3EyX0dxdVNmRmp4V3hldkYxNlNRRndHOXVFRWo4cW95dHpuandWMHN2RmczR0JQSFh3S2FlekI4ZGtlT1pwb2oxMXB2WjdGMTJWZjJqQUZ5SFhBcVFBT1NIcEVRQ2czZTJwdkxtcDU3aUxCcEM3b3NmX0d2VERKOEhvcmJ1Qlp1WVY3UHBoOUFIREJrRHZsd1lmdWttSFBiZHQyWWlCam43NTNxNU5lWnpkdzFKcWprZ0F2WldsTko1VzdKeGpOMVpOendJdDN4bDZRVEFXMnlfSEw4em1wRWFUbm50WVRTZWtfdw?oc=5",
+   "published": "2026-08-11T07:00:00Z",
+   "outlet": "The Manila Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17582,6 +17824,17 @@
    "first_seen": null
   },
   {
+   "id": "873bdef66687ae48",
+   "company": "Neuphoria Therapeutics",
+   "title": "BRODSKY & SMITH SHAREHOLDER UPDATE: Notifying Investors of the Following Investigations: Bowhead Specialty Holdings Inc. (NYSE – BOW), Lantheus Holdings Inc. (Nasdaq – LNTH), Safety Insurance Group Inc. (Nasdaq – SAFT), Neuphoria Therape - The Daily Tribune News",
+   "summary": "BRODSKY & SMITH SHAREHOLDER UPDATE: Notifying Investors of the Following Investigations: Bowhead Specialty Holdings Inc. (NYSE – BOW), Lantheus Holdings Inc. (Nasdaq – LNTH), Safety Insurance Group Inc. (Nasdaq – SAFT), Neuphoria Therape The Daily Tribune News",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQQm5MbDJuLWZoQmdBSTJQN3B3bGpYb1RWZXhIQkp5OGQxNGM1eGloUEZPNmdZMmhyU1Q5U3owZU5DbnBITk4xOXZMaDRpdlQ0UFVtMzBkeHJwN19qanluVWJoLWhtaS1NNlRLVm9FUFVzZjVMdjhjZmdQNnc3cVh2Z0c0WHdfRS1VNTUwRGJ0SFpQajg2Q1lvSzM0eDF1MDlwN3JmZjk1X3ZkVGRMb1NXQnl5SHc2SFRuaE9TRTJac1pNejBCRVBLS281ZkVIV0xqVm1NaTZDczhCSk9ZUFdDbEhJQnJWVzdQMDZwQWRqdDBtT3AxYkNHRVllNzJBdUdaaC1oSmpIYXkzcUl5YlEwUlRta2FQeFRXSmQzLVJRZWU5WmtYQ3pYXzhPcTAwc3RZaDNHMEllOGhCcURPM0Y2MWl3MnpsSWpGM0t2N3owb0k?oc=5",
+   "published": "2026-08-04T07:00:00Z",
+   "outlet": "The Daily Tribune News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fdd6bcaccfb9f24b",
    "company": "Supernus",
    "title": "Supernus Announces Second Quarter 2026 Financial Results - Supernus Pharmaceuticals",
@@ -17890,6 +18143,17 @@
    "first_seen": null
   },
   {
+   "id": "6f86aba185fc07e8",
+   "company": "Idorsia",
+   "title": "QUVIVIQ Sales Surge 62% in First Half of 2026 - Sleep Review",
+   "summary": "QUVIVIQ Sales Surge 62% in First Half of 2026 Sleep Review",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaW9tMThaUW9TSHhnV2l6NlJoNjBSdHpSX2FnbERPenhGbDlCT3I3NjJNUXpnek5fZV9kSzg0WDU3OWZPakR6UEdONURGVVNNa3FqR1hEOEhYcE5UR3BBSUtNZGJCeG5PbEQ0TWdHTkFtWTRXX0FNcVkxMVBqOWdOWS00UGVXRVp4RGRz?oc=5",
+   "published": "2026-08-03T07:00:00Z",
+   "outlet": "Sleep Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "abac99a54542e7c3",
    "company": "Serina Therapeutics",
    "title": "Serina raises up to $63.3M for Parkinson's candidate SER-252 - Dealroom",
@@ -17941,6 +18205,17 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXVuWmREa2gzc05MSnlKaklDdDhxR2VmMlRhTHZISTljb3RlaU0tRUJYYm5XRTJFSmJtXzBaekdDQ3J4VmNwak9RaExicm9haHR0U3VNU3JBRG1oYVp4amZNT0pwWHV2YUNERkIzbE5vaWZhR3VJN2JuSGdWVl9VVzBLM19ralM4N3hmZGdpNW5ka3RPRnJhdWFjbm1OU1ZfTmVYUUlB?oc=5",
    "published": "2026-07-31T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7e0e0da62965cae3",
+   "company": "Neuphoria Therapeutics",
+   "title": "Scancell merges with Nasdaq shell Neuphoria to fund USD 89m Phase III melanoma trial - AllSci",
+   "summary": "Scancell merges with Nasdaq shell Neuphoria to fund USD 89m Phase III melanoma trial AllSci",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmt1Zm0zNWE5QjNTMkUzSzJLd21ySEdCbFdkVk5HMzlyYXYxYUFaajBMSUdqNFFSVXZ4TjlfRVR2Q29JbTd6b3hmc2I5VlhBY1AtSHpSMzFZb1RPMTZGTnZON3p5azAwQ1hRM1d4c3VoNlZfcndNV3oxUUFEcy1felpFN3h2QVhQVEprZUt3?oc=5",
+   "published": "2026-07-31T07:00:00Z",
+   "outlet": "AllSci",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -18040,6 +18315,28 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXBoZGhnblNqVmU1cHdzUWloOU02Rk5rVXh2U0ZEZ3E1TTlLaEZkWk10dm9TaUtEN1BlcVRIUTdVSDh0dFJ0RWp6NVpTMWFQZkg3UVZhRjFwQXhGel9IQS1YMWZwSHludlhkVWhwZnN3S3N6MFh4M3JrV3JTckRITWhLdFFDcS1xc3lIYi1ZZ3llOUNGcFpfQ0dBM2pfX0hZbVpCUVRn?oc=5",
    "published": "2026-07-30T07:00:00Z",
    "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f06b5847839a6f73",
+   "company": "Idorsia",
+   "title": "Idorsia H1 2026 slides: QUVIVIQ sales surge 62% amid losses - Investing.com",
+   "summary": "Idorsia H1 2026 slides: QUVIVIQ sales surge 62% amid losses Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnNkZjB4eUIxNTU1TEw2RDZMbVpxYlo3bTFxdjRfRFJOUEJLUU1QUGdNdDRzbUZTQTUxR2pIMjJtbzQtUHRBQUZrWmx6ZGVvalBmc09iX21EaGZDTXlIU2tld2tpaDlYeTkyLTkzcjFpSldUaHNTb0xJcjVmbUtYTmdhbXNyWTVzSDBNNXNVT0ZOSThjclhNVUd0d2wyUllsNTRWTXlvbzRVQ3ZBU0w4YVg4aW4?oc=5",
+   "published": "2026-07-30T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c6dcd62c35366948",
+   "company": "Idorsia",
+   "title": "Idorsia H1 2026 slides: QUVIVIQ sales surge 62% amid turnaround - Investing.com",
+   "summary": "Idorsia H1 2026 slides: QUVIVIQ sales surge 62% amid turnaround Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalBCV0MzYXZSNGlNTmNORF8tcjNjLUI0ZXRFVkxBM2JFQ1FBVE9yR0l0cm5OS2l3MmIwbHFRUXFwak8xMWtaYmRoZDM4bTFPSUd1QUpoNEFhSlowZWYwS0w4MUdHQXJGNk5BVFYyeU04NF9Gd2dhSGFMdHIxaWNkNld0amh2d0RMblNlaGR5Z21Fa3lMWkQ1Y1pwc2FpZFJjOUVoeHAtTzgxWVFUT2UtMDRTdUNtRjlrd1E?oc=5",
+   "published": "2026-07-30T07:00:00Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -18172,6 +18469,28 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFJVZzB4MHAxNjdBb2hLNEM2LVlwRF90aVY1Z21oYko3TVphOFRvbHJZT2hVd3dSUlJyR0FPQURoMFBmaDd5QmNaRmdyR1U5RkJISHByWUZ0TVBNLW52N2FPcXpnWFFoelBldGJQc3FJWUhlUkM1NmVMdzU3VTBIUndzdjN5RF9NRWxaVG9hN18yYnBxWGhGYzlmd242RGRIXzJn?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ea0a52bf77a52d3d",
+   "company": "Neuphoria Therapeutics",
+   "title": "Melanoma Biotech Secures Nasdaq Listing via All-Share Merger - Streetwise Reports",
+   "summary": "Melanoma Biotech Secures Nasdaq Listing via All-Share Merger Streetwise Reports",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHZ1eXI5NTU1cGUtbXozTC1OUlBmR2xBcThIU2RLZkN5WnFjSEczcUZzcXZqbV9TU1QzZjlqUEJuMUdoTXZ4LUctLWlwMmFlY1hTOERoajdsTHdLeTROZnZMQ1dKQ1N4elJCQl9iNzBGWWtvTEFBa3dMbFlxLUc2UjJvbzFnN2lZTl9Hb0NNU2VkcE1SN01LZXhHWnVZVy1idHMtdGpaWGE5cXYzME9fQTVKM1hoalQwbGc?oc=5",
+   "published": "2026-07-29T07:00:00Z",
+   "outlet": "Streetwise Reports",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "792e22a98ebdc19b",
+   "company": "Idorsia",
+   "title": "Idorsia signs Saudi partner for insomnia drug - Startupticker.ch",
+   "summary": "Idorsia signs Saudi partner for insomnia drug Startupticker.ch",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXllSXEwNTVxUlk1Q2Q5bEZxMUcxWTVybjNuUlBDMmUxZ0o0ZGhScGZaOVFsQWRDLXRMVUxuQTlpbHBxQnV6b2FfYmh1bnFDTU1QaEY3Rmw4RGpfc2xQQWRnbmxyVm1kYm9OTDhYZjNmTHM4V1lWdXpCYU1aelNBOU0weGlYWFUyQ2c?oc=5",
+   "published": "2026-07-29T07:00:00Z",
+   "outlet": "Startupticker.ch",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -18517,6 +18836,39 @@
    "first_seen": null
   },
   {
+   "id": "5162095d7be53801",
+   "company": "Idorsia",
+   "title": "Idorsia partners with Jamjoom Pharma to bring QUVIVIQ to Saudi Arabia and the Levant - Dealroom",
+   "summary": "Idorsia partners with Jamjoom Pharma to bring QUVIVIQ to Saudi Arabia and the Levant Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3Q2RXNBUTQ5NUhlY09oM3ZjNlRVRl9CNjVGZ2FIandTSTg2bW4wOTRsRGM1S0FDeXhKZFFGNXlmX29mbTZheWZhZmdzdExhalZ1dDJxanNQLWdtUkpGY0R2X1cxT3Y1RVgyX2FJcFJLdUNKcUxLNjdnZEpBdTg1Sm1DTkxVVUdodkx6UndCcEh5cTBOSnVjSlZNQW1WMTFsRmJseGZHM0N6Q0NDelpFMXhsdEJNc3lEc2c?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f2783a078add931a",
+   "company": "Idorsia",
+   "title": "Jamjoom pharma announces strategic partnership with Idorsia - Zawya",
+   "summary": "Jamjoom pharma announces strategic partnership with Idorsia Zawya",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDRCdlY0NjBZTm9PZG9LUWVwNjVhNkRaaGNoUVp2d0F4OGFVWngyUzlFWVA4RzhaWnIzdnctU1JaekloQU9vV0JjMjVKajdiX3JCblI2NGs4UWFQSWFOa3QwU2o0TnAteWJVRERNZi1qaGl6dGxzWVNqRE1EbjNZMHBSVEFRbkF6VlJOVWJDUnQ4SEd1V1hJaUhFeVoya0ZyMVZqTy1BUm5PTFBMcGhFbUxtWXN4MGtlc3pNSA?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Zawya",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "63427c12be7e237d",
+   "company": "Idorsia",
+   "title": "Idorsia signs exclusive deal with Jamjoom Pharma for QUVIVIQ in Saudi Arabia - scanx.trade",
+   "summary": "Idorsia signs exclusive deal with Jamjoom Pharma for QUVIVIQ in Saudi Arabia scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUktiRW14eVcyQ0VNbFFiSktxTDhDeFcyakdSTWx5OFlKOHFOd05JZHBzMS1zZzVYd25GUWN0M2FWRUlGUTRTbHhLNmJjSFZfeWEtMG40cGlNOWRrbnFSdUs2WUc2YjNsVm5oeHBCWWhscHd5QU5PZjVrbWtpNHAxTUFhcmx0SGRqdXlnSGFRYnBJc0J4Vk9kZ0RSOTFFc0U4WU9WR2dtODZ1SlpFZDdWbjluTDFLMGhQYVNXOXdyaDAzM3dLa2RuRXY5ay1RUQ?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "scanx.trade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "47a5fa5baa6aa7cd",
    "company": "Regeneron",
    "title": "WSJ Spotlights George Yancopoulos: ‘The Scientist With 1,000 Patents Fueling a Drug Powerhouse’ - The National Herald",
@@ -18601,6 +18953,17 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWmVKa0RMbTduMzBfS0dKSEZ4MUtRUWd6QmpNUzVNTTlXMU5kTnl3MksyN25UVmVjQWY5TnRlaGVXUlVVeTVNUi11Vnprbm1nZDZfd0JEbDBqSmVtSDd4VXBJbWl1aUVoUGpJY25SRVIyVUdvTHROM2t0OXhQZjV3QmREQlJnS0tNLVJIY2NFUWFmOGtfbFI5SVNhTUJhbEEtM3FVVjkwb0owOUt0NW1sN0NnX2M5Y0lHVjU1MkhuQzZZc2ZkQ2tLaA?oc=5",
    "published": "2026-07-24T07:00:00Z",
    "outlet": "Investor's Business Daily",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0196c0968b105585",
+   "company": "Neuphoria Therapeutics",
+   "title": "Scancell and Neuphoria agree all-share merger supported by up to US$89 million financing - Yahoo Finance UK",
+   "summary": "Scancell and Neuphoria agree all-share merger supported by up to US$89 million financing Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHhIei1Mb09STld2RlRiQUo5eWRnOXhPS05jM1BrVVV6ekp0RlAyRGpvc2xxcXJaME51S3FhdTdWblJCUE5BRGNmcFJNdVNpdWVaRXlGX2s3bnE0bXFZSTN3SU5VX05ja2hPT3plUnZJQXdYdDlDN3l0Nk5mNlNEN2NteVVjMjRHRHdJdGtXMA?oc=5",
+   "published": "2026-07-24T07:00:00Z",
+   "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -18711,6 +19074,28 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmZ3TUtWMXRUcmdSNjJ6SkJMMm5jN0VLWl9XWGxobDVUOTk5QTlDNlZZTnQ2YmgwYWI2clpGaVJkN1VvYmhSOVpOYnl6QzhfVFpxNFBPYnpoZ2hrTzcxVVNCZXNlOWI2VWVLV1haV2VPZmxOc3Voay00Q0tIVGZrTm8tVkdLNThSZUFGS1VrYjV6RGFMYW9JLQ?oc=5",
    "published": "2026-07-23T07:00:00Z",
    "outlet": "The Motley Fool",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "dfc6091b0c998285",
+   "company": "Neuphoria Therapeutics",
+   "title": "Scancell to join Nasdaq through Neuphoria merger and $89 million funding package - Proactive financial news",
+   "summary": "Scancell to join Nasdaq through Neuphoria merger and $89 million funding package Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYjgxTHpST0FaeTlxLXVsejhuRWw5SnFQSDdwOWU1a290LTVUN2lkVnJjVmJyd3luZUdRYnRFX3ZFVFAtTE12MTFwWDJ3dWZmVmwzZUE1NXRzaHZLU0NnYWNBN0ZFMzh1TmsxQm9qOUY5bGZnWFU5N0kxeUJnbG54NmZkM3VoeWNxOFdwdGszRjRhY3dvMzFQa25rT2huMTFsaUdyY1pkcEY2bVZDMWZqM3FPSjlQNDMyTEFuZGJxZ2Q0UWxYcGp5Z1FjMlFrRnVhQURSbmhvN2NnY3BOenNMQmNYZzg?oc=5",
+   "published": "2026-07-23T07:00:00Z",
+   "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1d703e8eb49af859",
+   "company": "Neuphoria Therapeutics",
+   "title": "Scancell merges with Neuphoria after Merck axes trial; AstraZeneca breast cancer drug approved in EU - Endpoints News",
+   "summary": "Scancell merges with Neuphoria after Merck axes trial; AstraZeneca breast cancer drug approved in EU Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnM5dFd1MXJEdmdJRlhic0dfS3l5MnduOGozLUlYRVNES1EzT2NjRTZmWHNGeUVIbWswTzB4WVNWR19uNzNSLWVDeEs1Um1kVXBIS1lLa3dxWUdaUXNmalE3ancyVGtjZUNlNnVDakV1TUxTakZVWDJIb1NabWZoSnJVYTZRSTJTVVJqMzBBMTRybUZkOEgtUlQ5bw?oc=5",
+   "published": "2026-07-23T07:00:00Z",
+   "outlet": "Endpoints News",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20299,6 +20684,17 @@
    "first_seen": null
   },
   {
+   "id": "64b655a17ce74390",
+   "company": "Neuphoria Therapeutics",
+   "title": "Merck axes Alzheimer’s study, adding to partner Neuphoria’s mounting woes - BioSpace",
+   "summary": "Merck axes Alzheimer’s study, adding to partner Neuphoria’s mounting woes BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3MyUEVjUnVOVGFHM1A5UVEyeUkxd2xqSkFHdGxlZXE4RHI1UjViYWE1YnhsNDVvemlwQTZWVkx4LUNVd1FKWlJHN0FqTFE2ampWandnWk9RQ1hvVzJyZDZXa21FSGw4bGp5cjdldllaN3MwMl8ybmVTYWhablpleFJkbjRIYjc1N2tYbmw3YzlORER6OUpfX3lPbUY1MjhLdno4aGI1dUQwcUQzUHlWdmt3?oc=5",
+   "published": "2026-07-02T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b21ea18531e49cd6",
    "company": "Annovis Bio",
    "title": "Annovis Appoints Cheng Fang, Ph.D., as Chief Scientific Officer - Annovis Bio",
@@ -20365,6 +20761,28 @@
    "first_seen": null
   },
   {
+   "id": "3ec4de8aa65f213b",
+   "company": "Neuphoria Therapeutics",
+   "title": "Biopharma bites: Casgevy wins paediatric FDA approval, and more from Merck & Co., Angitia, Idorsia - FirstWord Pharma",
+   "summary": "Biopharma bites: Casgevy wins paediatric FDA approval, and more from Merck & Co., Angitia, Idorsia FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zUVhCMklJaVU1LWZXdXNiNDBBWGNWNlNkMmV0aTRFY2xmUWlWa1JPSktJUTlRZWZnWElDSXFNaTB6cTdyMHZ4RUg3TnZZRzRsTy13?oc=5",
+   "published": "2026-07-01T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "650478dad494576d",
+   "company": "Neuphoria Therapeutics",
+   "title": "MRK, NEUP Stocks Drop As Merck Scraps Another Alzheimer’s Drug Trial Under Neuphoria Partnership - Yahoo Finance",
+   "summary": "MRK, NEUP Stocks Drop As Merck Scraps Another Alzheimer’s Drug Trial Under Neuphoria Partnership Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXZXejNjZ2paa0k2SC1TSTdDdnZHaDlmaUJjRzlaeTBYd0MxakdubFNmSlJQMnNod2pfRE9yeXhHVFJDT3Mwa3hzelByY1NmX0VqV1hRQVJNdjlMeE53NXp1S2xiWWVQdlkyM2t1N3ZhMjljNFcyT2ZyNkhvNTdvRlFScVlPS3VMblhNb0FyczA?oc=5",
+   "published": "2026-07-01T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a8eabcdb0ec84646",
    "company": "Insightec",
    "title": "Lancet Neurology study confirms staged bilateral focused ultrasound delivers substantial, durable relief for Parkinson’s disease - Insightec",
@@ -20427,6 +20845,17 @@
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ3NiU1pCT1l3alFIUHRLX2wzdjNmVEpqUjlxcERxbExydFRNTXgyRlhCRm9KaWRYMjRORy1BRFZLZHFqNTY5NjJKWDZ5QkF5RHFnajR2cGRkY3VKWnU4UnFjY0pLZ1Bha0RFN2ZpMGxLYnlzWEJORDc0bnZaMkxCRWhJdHBtQXhaSV9yNGI0MGJSYVNCZ0xGVXhoMWMyMUdZRHR6ZDVHYk1aRjhGYldwWURFV1ZRQ0xVcEFWOVlVcTR0OVhkU083WWFaZFdyMFhFVjdmbUp4eW12VzltOTQ5bVZnOHgtUU56RHZJdnFuYnE2eW5vUFNmNA?oc=5",
    "published": "2026-06-30T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "634c5d02c66b3c52",
+   "company": "Neuphoria Therapeutics",
+   "title": "Scancell plots reverse-merger path to Nasdaq - European Biotechnology Magazine",
+   "summary": "Scancell plots reverse-merger path to Nasdaq European Biotechnology Magazine",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2tKZzdjRklhdVVZUUN4VFJubUxhekJrWkNIS2pZcEhpNXBfVVV1a2dtODVRa0Z2ZnR5eGEzeERfOWphbHVqbDRYc3dhM0ZyQWdfSGhXQ0pudWFhRnA1Z3RnQjFCVmNSYkpMZndWWnRoR1pDeHg5NXVJVkpZMkIwOTFFaGpEalNlYnltQzJlZWNLS2xYMkNr?oc=5",
+   "published": "2026-06-30T07:00:00Z",
+   "outlet": "European Biotechnology Magazine",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20559,6 +20988,17 @@
    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZVJha0o2bHFsbWwwNUVMX0hyazZVRkk2d0RmaUFyVlZUNi1PcmNIVHdycm5fSmlTTVh3RGRLMFo4TGFNYUVDQlBPLUlVWkNYSmpfV0RWNkZ0RXRLZ0o1MVFraW12YlJEaXZsaGEtTUY1QmhiSUFkM1BqOW9GWldHVTlvZU1jX28yakdZVGNucmNOWmx3cXBxMWcxeTF1S1ZTT1ZCWnhnVU8zSDRRR3JXSGpYV2hJY21ERGpfLXJ3dXJ6YkpHMWJJQUxVLTFoYTItT0g4UG5XZXZGcVpTNmtvWXBMakdqRFNGeHFaekdaekRORzJfVzl2NG4xdnEwcS1PRHQ0TUwza1pUekU3cjVJSWNvUldxRzdlV0xz?oc=5",
    "published": "2026-06-29T07:00:00Z",
    "outlet": "Business Wire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c66fecab2dd6d2e1",
+   "company": "Neuphoria Therapeutics",
+   "title": "Biotech SPAC deal gets it to Nasdaq; AstraZeneca Phase 3 win in children's bone disease - Endpoints News",
+   "summary": "Biotech SPAC deal gets it to Nasdaq; AstraZeneca Phase 3 win in children's bone disease Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2F6WE1oNy1fMEt0Z3F6VEVDUndaeFNmdGtUVjNyUmV4V040RHczM3ZvaE1NSFgtQTFZVTZHdjQ3aDJEbFVhNXl0RmNBcEFkdnhXSGtvODhKd1lLLTNBNXFqTkh3bHRoSm9HYnZsZG5MSElUbzViRXY4MDJHRW13UHpQaWVvVnRXYUxEdlZUN2pKeDEzU0VYLUhWbHJQZHV1?oc=5",
+   "published": "2026-06-29T07:00:00Z",
+   "outlet": "Endpoints News",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20724,6 +21164,28 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0lrWGpQOEhlRjRXMkZZSGI1QkJQMUpwMXY0dkFaREg2WkpCZlVqWTN6N3RraW4tQlo2eWVGa0FFX2pFbndkYVVSaXhvODY0VUUxVDJoLVBjNDhqRnoxOVdMVGE1TnpMMU4wa3hqeVoyRzFwNUpUV0VzNDdfMldhRWQ5bnh2R0JyT0tZWWVwUUhPdkwtZHNpQ1RscTlQdWY5a1pqdnBn?oc=5",
    "published": "2026-06-26T07:00:00Z",
    "outlet": "BioPharma Dive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "af8580406a1c5b2b",
+   "company": "Neuphoria Therapeutics",
+   "title": "Scancell confirms advanced talks over reverse merger with Neuphoria - Yahoo Finance",
+   "summary": "Scancell confirms advanced talks over reverse merger with Neuphoria Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWm9MLVRIRm1vT3hONHNwbzdzZEpuUnhienQ2SzdVYkdDTFZOa1ZfcmRXUHNwRllYQi0wZ0FCOXljTV84M19BT0I3VEhKN0JWSUhpMlRCbEFHUXMtN1Rpa21kSnd5QWlnTjA1OFZnZ1RnZkliYmtrb2QzMDVmQTZ0YmtsbmZMU3RSb3piMG51dVUwWXpIdW1LdWJOaHhBaW8?oc=5",
+   "published": "2026-06-26T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e6987d0ba9b0075b",
+   "company": "Neuphoria Therapeutics",
+   "title": "Scancell confirms advanced reverse merger talks with US-listed Neuphoria - Share Talk",
+   "summary": "Scancell confirms advanced reverse merger talks with US-listed Neuphoria Share Talk",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSE1wVTc1bXNPTTlZdFZLbURXdWJTMDYyTVlRNG5ydXpnR0htX0trRDJMLWRJVFpmSEw5X2tEVlEwNGNjRS1TcER2QWgyZ1ZwVEFnTTJ1TVQtODB1T1ZFNXFQcjRFUG5IZTNFRWlLUGd1Q2M5c2IzX2Z6RTR6YUVxRzNUc1RMa0s3QVplRzdxeVpEdUZfZlMteDhHVGFPTm5remc?oc=5",
+   "published": "2026-06-26T07:00:00Z",
+   "outlet": "Share Talk",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -29473,6 +29935,17 @@
    "first_seen": null
   },
   {
+   "id": "dbc0e865c1902712",
+   "company": "Idorsia",
+   "title": "Nxera Pharma wide awake to opportunity for insomnia treatment - Business Weekly",
+   "summary": "Nxera Pharma wide awake to opportunity for insomnia treatment Business Weekly",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzJnYlBvSWI1MXV2TVpfUkpEWEh5SWpUaEFva3F1Snd5ZmlhZEs0NlJGejJkNE5vZXlIbjdaVjA2c1FYOF9WZEg5dVZPTVpMSHd2QVh5S21SdmRfVjJOalBYZk5iTkJ3WmxjS0U4TnBoWURCWlF3QVc1b0ZBaVJtd08xUzFOek84OGl5QXZta3l5aWViNnFTYkpBU0QzUzdteGc?oc=5",
+   "published": "2026-01-19T08:00:00Z",
+   "outlet": "Business Weekly",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8938cf9db5ffbc3e",
    "company": "NeuroOne Medical Technologies",
    "title": "What is Trigeminal Neuralgia?​ - NeuroOne",
@@ -31365,6 +31838,17 @@
    "first_seen": null
   },
   {
+   "id": "c2caf8077b79cb3e",
+   "company": "Idorsia",
+   "title": "Idorsia Insomnia Treatment Wins Prix Galien Bridges Award - Sleep Review",
+   "summary": "Idorsia Insomnia Treatment Wins Prix Galien Bridges Award Sleep Review",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDVpNEhrWlAyYnJoN1pEdEN4T1l3VXk0SFZncDAzZXRhMGpBMno4bVdtZnNEMjJYT2hJYThOQ0YyZ290OVNBSUNJUm1pdVF6SHEwS29ydlNwWW55aXB6eUJnS0FUaXU5bWZYNl9ycFQwU3FXVG54Y3dBVlJFT0ptejY3VUtfcmJpbElvVUlkMXZtSlBMZ19laC1SLXRKWDUwajVZMHpKcnJEWDBVUjVseVY1MlowUjhBY09uN2kwMUZMVFFJVlY0aFpfcThuWTdOZUw0?oc=5",
+   "published": "2025-12-10T08:00:00Z",
+   "outlet": "Sleep Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "70475f4f08386150",
    "company": "Denali Therapeutics",
    "title": "Denali Therapeutics Announces Pricing of Public Offering of Common Stock and Pre-Funded Warrants - Denali Therapeutics",
@@ -31714,6 +32198,17 @@
    "published": "2025-12-02T08:00:00Z",
    "outlet": "neurocrine.gcs-web.com",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "15eaf08155f6ce38",
+   "company": "Neuphoria Therapeutics",
+   "title": "Lynx1 Sends Open Letter to Fellow Neuphoria Shareholders - Yahoo Finance",
+   "summary": "Lynx1 Sends Open Letter to Fellow Neuphoria Shareholders Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTENHbDZ5d0w3M2ttV3ZxR0xrdjZoa002VG5WbnhlQXNYNWM2dkxjaEJxQnViMzlqd0lUeW1LQ29XaFlXZHRUd3YxRXZ6Nmg4OUotakNwQlBfOUlVVURqUjVHSERWMS1MV05UMVN3RXY1eW1ST2JpNFpWYUo5alU4R0NR?oc=5",
+   "published": "2025-12-02T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
