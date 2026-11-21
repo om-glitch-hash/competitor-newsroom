@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:17:55Z",
+ "updated": "2026-11-21T21:13:37Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1676,6 +1676,17 @@
    "first_seen": "2026-11-21T16:17:25Z"
   },
   {
+   "id": "4f812ab99beec64b",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3czZUcmlKMzBIbGxGUXMwVjk1MndlSGpObHZSYmFzS2pBbXZuNW5pd0NYLVdYRy1kbVNoamwxbkQwVlNsOWNhWGdCT3MyaW5GVWc?oc=5",
+   "published": "2026-11-21T09:21:14Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T21:13:37Z"
+  },
+  {
    "id": "d5bcf0176549a5bc",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics, Inc. (NASDAQ:AXSM) Stock Has Average Price Target of $266.21 - MarketBeat",
@@ -1839,6 +1850,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T15:29:13Z"
+  },
+  {
+   "id": "ea9025d2085d0098",
+   "company": "Rapport Therapeutics",
+   "title": "META_TITLE_QUOTE - Yahoo Finance",
+   "summary": "META_TITLE_QUOTE Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
+   "published": "2026-11-20T19:16:25Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T21:13:37Z"
   },
   {
    "id": "c17435afc147177f",
@@ -5794,7 +5816,7 @@
    "company": "Alkermes",
    "title": "Alkermes Announces Appointment of Anne C. Whitaker to Board of Directors - The National Law Review",
    "summary": "Alkermes Announces Appointment of Anne C. Whitaker to Board of Directors The National Law Review",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFo4NVB0b2JUOEczVFY2NDhjaWhPYnlUam1IQXpIdU1ISkl6bUNuanNtUEJPSGV5X25UUnBGdHJtekJqQm0xb3REMXJrRDBEc0t4LVhZTFlGOHFJZmNJcWZ5X2wySkJqVUY4MU4wUXkyTndzcG1SX3hDZGd5eWFwRDgyYXgyb1k4ZW9CTmlZWVVYM0ZSb0thQzdpMndYRTJFME84WQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlhtSUJsNEdGakM4UVgtT2hrNFM0M0F6RFFEeVZYSE9QMEl1NlJBLVVvVVN4a0ZsWDA4X3BhZmI5a3h4ZXJteTJtRk5HVHRBWWtuOHRhYTZkWWhvTmNSMDlnQkVwdHlGT29NQ1dHMU13dzNacUJudzZsVFU3bzBSZGNiWlF1LTc5NVN5ZGlPS0ZQTkdWNjFReUNSNnA1MV9lQ3ZyS2xTYjRDUQ?oc=5",
    "published": "2026-11-15T21:16:05Z",
    "outlet": "The National Law Review",
    "method": "news search (newsroom not indexed)",
@@ -7957,6 +7979,17 @@
    "first_seen": null
   },
   {
+   "id": "ddd42e382a564930",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals at Guggenheim conference: a broad antipsychotic push - Investing.com",
+   "summary": "LB Pharmaceuticals at Guggenheim conference: a broad antipsychotic push Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeF9BZ1BKOEViUmdvVGNuelJoVkRzMjc3SWlmMXlZZTVVajdSUExIQXZuc1o1X1R2amJuTUxMNElYLVNrZUNLZzl2YWNfZFQzVDBTUlA5bVB2MEVlR0dzU1RpdWw5VUNjMkk2dUQxS1B1WWZabjcycXZQbnpoVHVHakhtSFFoN1IxYWpEaDFxeWx2TndQZTVHLTJTa0lpMTBlalJXVmxGTTRDQnp5b1lkdGM2akl4WTlXdGFOQlJZWmVxdnBL?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "55cd85fecf4a55ac",
    "company": "S.Biomedics",
    "title": "S-Biomedics, which is developing a Parkinson's disease cell therapy drug \"TED-A9\" derived from embry.. - 매일경제",
@@ -8837,6 +8870,17 @@
    "first_seen": null
   },
   {
+   "id": "27f19cda455d543e",
+   "company": "Idorsia",
+   "title": "FDA Breakthrough status for Idorsia’s daridorexant - The Pharma Letter",
+   "summary": "FDA Breakthrough status for Idorsia’s daridorexant The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdhUUVJOXlsdVJVQWVwZHJiNy0tQWRNRDJ6Ml9iTWlyN083eS1hZzhDeC1ZMHQ5RXo5X3VPYnZOTWVfMTRtY0xOOFhZNlZlSC1FSXBfbkpKQTJnTFhPQ3dlR0JEbEhpYnI4eW5xTGNocUVJS0h2S2V2ZzF3OXhXWnVPaVNrRm40YWRfZ1JncnhKUUplWnRYRi1ldw?oc=5",
+   "published": "2026-11-04T11:29:16Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "32a2e52529545c4c",
    "company": "Usona Institute",
    "title": "Stifel on Compass Pathways (CMPS): 'the Usona situation is an extremely atypical one' - StreetInsider",
@@ -8855,17 +8899,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0hoM1pYR2MzdjhZOEhoNzd1dzN1ZmI2QkIzVHFnTnlWTGhMSElENS1XSGVLTHJfTmpsYUtsNGMzUmo2aG9TT0lXbnNISE9CMTdROGd1c3ctVFBFd2hfelRvSG92Y2VKaWlqMDkzSVVTV0M2d0hJcE1PcUlJUTljTzNRalVPOTRVeVRsX190bTRsQWRGSWEyLTllT2dING9tMDJjRm11QXZyRGk1QUN6aG93ODROc2xOckRMbU5WNGMxSlp1ckszbg?oc=5",
    "published": "2026-11-04T10:14:14Z",
    "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "27f19cda455d543e",
-   "company": "Idorsia",
-   "title": "FDA Breakthrough status for Idorsia’s daridorexant - The Pharma Letter",
-   "summary": "FDA Breakthrough status for Idorsia’s daridorexant The Pharma Letter",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdhUUVJOXlsdVJVQWVwZHJiNy0tQWRNRDJ6Ml9iTWlyN083eS1hZzhDeC1ZMHQ5RXo5X3VPYnZOTWVfMTRtY0xOOFhZNlZlSC1FSXBfbkpKQTJnTFhPQ3dlR0JEbEhpYnI4eW5xTGNocUVJS0h2S2V2ZzF3OXhXWnVPaVNrRm40YWRfZ1JncnhKUUplWnRYRi1ldw?oc=5",
-   "published": "2026-11-04T08:00:00Z",
-   "outlet": "The Pharma Letter",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9152,6 +9185,17 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaU5LYXh3LWtuLW5HR245Nm00anB2eU9pd1UxeTZ0eHFhLV9jUm5vSWpkZjVmcFZuTGd5Nlc4b3VqOVYyTGpua3NYZmJtd2JyYlhzYVBEUU1nMzA2QzVUOUdPMFNGc29KOXhlMDkzS1RJOVVKYVlzTENkYXRwR0xGa1dqUkptMDZseE9VcDhyb1BMakcyRVNvTU5JeC1zamhqY0tSbmktQms5ZWFaR013?oc=5",
    "published": "2026-11-04T08:00:00Z",
    "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f26653bcd35b9c06",
+   "company": "Alkermes",
+   "title": "Wells Fargo maintains Alkermes at Overweight, raises price target to $68 from $65 - TradingView",
+   "summary": "Wells Fargo maintains Alkermes at Overweight, raises price target to $68 from $65 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVkJLcmRYVmRIb2tuNWFrV2hpWEFaVjRld2xkbEh1SEFFWkVsdklNREpkVm9iWjR2eEwwTFhkZkY4M3IzQVlXRTQ0b182eTlIcFMyc1FPek54M2plRnZ6THIwQlp5TW5jT2xDV0pTNUFZUXM1VUtQaW0yNUFCRnNiX2wtYWZYWFdyT1hWVkNXLV8xazFNUlZJSExRUWQ5YUFUaW13clRKUkUyd0tiVDRtMzVPS2tKT2VBaTZ2Tk5OaWRveDlPUVJ2bFQxNmdCQ21rRVVhOE9LUQ?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9779,6 +9823,17 @@
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRjZmZndodzdQRlN5VEFXM3lURU9lMjJlVC1LVkhUSUtXYW9XZWVYcUxKdVZ0eE9MYWJwdlVTaU03eGZwcF9mZVpCVFdseUY5NzhiamJZamp0TmJZZTh1Umw3Mk1xc0lhd0lvNEVmR0R1VnQtWFF1ODBuVWExanFKVG90R3VEb3lFeXpMSE5XSl8xRXZZTHJoMnVfTGVlUTV0X0c0MklRc05YTlN5cDN6UVhWT2lqY29ycDctbE9UVDJyREdwTkJsb1VhWGtTS295ZU5wNkpVcWxLQU1yOVlIbWR2c0Z3cURtQ3E2Rmphd0JGdUU?oc=5",
    "published": "2026-11-03T08:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ce3764986a108fde",
+   "company": "Alkermes",
+   "title": "Alkermes to Present at Upcoming Investor Conferences - Yahoo Finance",
+   "summary": "Alkermes to Present at Upcoming Investor Conferences Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmpNQVhXMnZCRlo4NkIxcENoY1h3OUVhLUxUMVA2emxsbVVNeExLdmR1UllFS1lHUHEwZ2c3emJHQVotYWJXd1Exbm1wdzluOVNJX1oyZUFNdnVvLVI5czdaa1dDZ2QxVlBaMFM3WTNKUzdSZWc3ejBrdjlQNC1DbDRQQ1VVWnNQRGdaQnYwT2QxRnRLRzlMWXhpejVNNE1iZW41TjdQb2VrRHc?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10604,6 +10659,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYzZIR1FEZElRaWJoS0FVYVZYTmFtam5MT3Zsd1lUMW9CQlBRZnlxTHhnc1B4SDdQdWpyb2JUc0F3VXdrQ1kwMjkxdFhfTHJUSFhRZGFkODNRelcwc2FROUtTbWY2b2djS0VaV2VkWUNUZ0U4QjFFam9VU0txT0tTYUc4OUxHblJJdktoQlJQUFFBS05aSk94OWhXajM5NjNtZmMzeTRUUlNpMXhQMmhHcEtoWTh3ZnY1TFFF?oc=5",
    "published": "2026-10-30T07:00:00Z",
    "outlet": "富途牛牛",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "21c46fb130d20c16",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Yahoo Finance",
+   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblBTam5jVG1XX1ZIS3ZFNnhqNC1IYl8xMTc5UjdOT0xwdzFCU2c0MGVNb3ZORjlqTjJybTdKY09SeE5ZTkNKQWlLMENEdktNSkZ1eGcxWkRpTWpQczRLckN4MkZ3NjhfZmxfT2FzN0oyY29DOUpZazYwd3huOTdqcGt4a1dWSWtFVEFRcF9Tay1YcWlUVWYtb0ZmTDlRblVvblhOb0U4eVhjSTky?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12936,6 +13002,17 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWFCVDBxZnk3Nmc5eWlKWmFTbnNBQWpRTGE3YUhhR3l3a1YzeVhCWHlYZ18xYl9IQXNVS3otT0FIUGxiUE51ak9iQUI5X09uRFFUaFlLMWM5NmJBWEpUZFotd2pEVmdEOWpuME5oRV9Mb3BKNnYyNS1ydXhyaURQaWk2VGluU3VwMjNDYnhzemtOZUwwWkkzc2Jmd1JFV3VPNlpLY3hRcXpBSkIxOVRoTl94UjN5MWlzQS1Gb1lpZGpabi1UcmFBcGctRVhNQQ?oc=5",
    "published": "2026-10-15T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e93a8c6ce92020ca",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals to Participate in Upcoming Investor Events - Yahoo Finance",
+   "summary": "LB Pharmaceuticals to Participate in Upcoming Investor Events Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzlraElwVGZGWThEbWtMU083cU5PbVVTSHppMFdGeWtrMy1tM0F1R29Hc0MzeDF6S2N2dGZGV0RPTlc1WFFfUDRMcGF4X0tQLUtXWWtTLUJQS2JibkJnVXNnMTVXUEFncHpOTXRTRmdZbFNsQnF6MUxGSDZ3ZnFxd2EzX2wtZjZha21IblhfX0lJYTc2bENIUEFRaUZ2SHBMcHF2MjJLUnlmUkxXeGc?oc=5",
+   "published": "2026-10-15T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15488,17 +15565,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGcwSGFwRGNMUE9NNE5aWnBsSnhENXdIaHNqRDJvMVBYT3FnbmRhNGs1RmpERmxoQkNaV0R2eVZVRHpKZExmMnZxblNQN0t1ZnlvbF9mSXNHcTV1ZF9DaVo5djdaUGo2S1VNVGtseWVzbWpEemhsSWRRVHBSUElPdW9oeWdVNFp2S3dvVGd0YTBRZnF2eXFRSDhha3MtZXpTcVczMGRLdl96SlpYVGt2azRR?oc=5",
    "published": "2026-09-24T07:00:00Z",
    "outlet": "Healthcare Brew",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "108797ea420455dc",
-   "company": "Supernus",
-   "title": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN - Business Wire",
-   "summary": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcW9ac3pKOXNTVWk0WW1aRTJTTzdRY1V2MmI3c2tRMjN3MzlCRHpUUXhxR3BYZU1WRnNscW5wTHEycUJZbU1mVVhfMXBBR3ZCREczYlBHUXJVZXV4MFBUOXNxVkhYSm1BOWtJMXZoTTlQbGpVXzUyWXQ3dkpOeTFjNVZKXzItbFZsQk1rNmdOTnVNUm5oRTE4YVZpdEF1MFBpQ2NhbmZMZFJOVnpqUFVFRUZuRi0yYUlibDFmazhXc2xDRjVNUTBjUEh5OVJUbXk3dDhpdVNrVUlYaHE5UlBKRk1qSndxOFpCWTl1cDVycXY0cWh3c1FvSVg5Q2FKSkNWemlvR2pyWUxKX21wbXRaQmY5Zlpfdm1pcmR1SXpYbEhXQVZXX1kzMXpxVGdqZmdoVkV6TlB5dGRZWmZ0?oc=5",
-   "published": "2026-09-24T07:00:00Z",
-   "outlet": "Business Wire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -19133,6 +19199,17 @@
    "first_seen": null
   },
   {
+   "id": "3a9f131f4193f474",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+   "summary": "LB Pharmaceuticals Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TeV9mV3lDMjB0Z05nVXdlRzVETXNXTVQxUDRld2FnLWRydHVMWlZpTmZhTS13Q1hoZ3RoM3RGQ0tKWEpTMjFHUVNCcHgwN3c4M0VreGVBOS13R1JJVXV1aGo5VzVtVVZrTUQtbm55SlJuUC1F?oc=5",
+   "published": "2026-08-20T14:33:39Z",
+   "outlet": "Revelio Labs",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d2db5fa3ab498ee2",
    "company": "Insightec",
    "title": "Reimbursement support for MRgFUS providers - Insightec",
@@ -20827,6 +20904,17 @@
    "first_seen": null
   },
   {
+   "id": "108797ea420455dc",
+   "company": "Supernus",
+   "title": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN - Business Wire",
+   "summary": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSTNlQjVteHFrYnVOSU9NelRBRVpxazVvZjNPYTllVlItZnI2YmVJZVI4ZUhZX3ZzWVk5NzktNGlzQU00d21ZaUlFXzlDcWlINzJmQUpXQll1TzZ2d0tUcnRGdzhNajZJb0lnR2RwRTQ2WkhuZ05CWGdqV0o4eFV1VlA0eHJad2NLOHN6RzZIeGxzLTg0TXVES0RGc3dNZTkzcENHc0M0SmFDOUlGS1J5SWxaV0p0a1NKN2JRbDM4Y29NYVZIYV93Y1R6aEk1S041Z3gwR3hVbHc2eXpFc1E4d3hTTl9tMHFTMzFCUzNDcjl1TGY2VXVNSC14NmdVVFdMcm4zLWZJRXc1WHNGS0Y2QzBXM2NIeVVVcFRQVEhEd3VKcS0yOW0tZVV4YTVIUExuVU1jM2tvSi1heGtO?oc=5",
+   "published": "2026-08-07T07:00:00Z",
+   "outlet": "Business Wire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "84d4da6a2da10ccf",
    "company": "Abli Therapeutics",
    "title": "Parkinson’s therapy reduces disease biomarkers in 12-week trial - Parkinson's News Today",
@@ -22048,6 +22136,17 @@
    "first_seen": null
   },
   {
+   "id": "32348a85de78c607",
+   "company": "LB Pharmaceuticals",
+   "title": "Atea’s hep C pill equal to Gilead’s; AbCellera inks second deal in two months - Endpoints News",
+   "summary": "Atea’s hep C pill equal to Gilead’s; AbCellera inks second deal in two months Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMDJQRmVFWXhyTWVVTTc0UWtIOEF3NVM5ZklTOHpId3VmSDlmbUh5c0RTSmxETTRNdWozNnlHX0t4VS11V2lOMG9mNHF1enlsSDlrOUIxc21RdjJfU2tzb0g4QXp3d3VTSEczelA2NzJuSkIyQVlRQXUtZENHTkpqNDZOSHVmNVdYUkJuQTRlLTBXbkVYSUZOMC1KYWNwbDA?oc=5",
+   "published": "2026-07-29T07:00:00Z",
+   "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b6c54cb6b89509b7",
    "company": "Eli Lilly",
    "title": "Postdoc/Scientist - Psychiatry and Neuronal Health - Lilly Careers",
@@ -23023,6 +23122,17 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcTl0UDljWmVsNEU1SmpCRGZVbXdfWDFZOGpxSHZ4Q1k1Zm1VUjBRWkZldlotNGpJdGxGdkxhM1VMQW85Y0tVWW1LNkUxbTlvbVZadkZXYnVVa1BUc2hhMFRYV0ptU0xPWUg2VGczSjEtaTZxa1AwV2V1VjhnU0hNSGFIT1FvMF9xU3J4VUozWkpZdG51NjVrR09CaGZSVWRqNzNOZ3FMVE5rYlpVTjg4Sk1fZUUtRnhiNGxnaUtFM21DSTV0WTB2Ny1lVUU3Zw?oc=5",
    "published": "2026-07-20T07:00:00Z",
    "outlet": "European Pharmaceutical Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "394c854f6ad3a047",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Lilly to acquire AtaiBeckley in deal worth $2.8bn - PMLiVE",
+   "summary": "Lilly to acquire AtaiBeckley in deal worth $2.8bn PMLiVE",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbzFBdWsyeXlzdDJMcXAtRjFTVzl5amptZWpSbVJ0SlY0UHJ1RXlUUUJXd3RvT29WTGRVQ2Rkck1PN1lTc05yeXNYa1dsV2lCaUZTUFBDTjFjMEJka0NDUmRvZS0zSVBNMkJXZ0FFZTl4bXhqUUZOUmo0YUNMLWV3QldTZXM0Y1U?oc=5",
+   "published": "2026-07-20T07:00:00Z",
+   "outlet": "PMLiVE",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -28065,6 +28175,17 @@
    "first_seen": null
   },
   {
+   "id": "68aef5a74b3f70e5",
+   "company": "Supernus",
+   "title": "Indivior's History - Indivior",
+   "summary": "Indivior's History Indivior",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiVHItMVlYTHlEZHBTcFFwS2NfSHEzTlRJOE9CazAwakhqY2s3bk8xQ3k5LWJLdXk4ajhFaGVLWHZYbWJQWlVPdjFTdHB1VkV5ZzViNktjN0xiRkhEcXJYSkk2RQ?oc=5",
+   "published": "2026-05-19T20:01:25Z",
+   "outlet": "Indivior",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c7efd73cce8dc3ed",
    "company": "Annovis Bio",
    "title": "Annovis Announces Launch of Proposed Public Offering of Common Stock and Accompanying Warrants - Annovis Bio",
@@ -29215,17 +29336,6 @@
    "summary": "How The Arvinas (ARVN) Story Is Shifting With Vepdeg And ARV-102 Milestones Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXlFMXRUWGRiWXNfRmdfdk9LRXRhZ08yZkhaNnRkTFVsak8wbG9NUE40WUhfZ0Z1MnZQZzFIdFZFcmhsUDBXU2RMdm1jT1ZNN2plV21lenhoNFRYOVdKclRLRzFJa2p5MHljUUhwekU1WHQyN0FmNnFhVGRlQ1hhd3hEa3Rpakw4TmVtREhja1hWcFhnb2lGeF9KVnFGcFNw?oc=5",
    "published": "2026-05-03T07:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "21c46fb130d20c16",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Yahoo Finance",
-   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGhaUDluV2JpbkxWZTZHT3JiWDFTMU51V25WLTBiWnhTUGRydHhsVk9QODloRUw1Xzl0ajVjNHhGQUtXUF9nNXFwejl3clZsLVFaSTVSdDc5VHdQYU9xZEJJcWtuMHpaS3g2NlVLcGhRMVR3dVJQTTc3YjFXQ2NNeWZwYVJKcnBIcXRCQm5LNVdybERCam9xTFkwcWFLMXRibXZfS0JESXBvLWZuZFFzUk5MUTZJU0k?oc=5",
-   "published": "2026-05-01T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
