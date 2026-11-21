@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:25:52Z",
+ "updated": "2026-11-21T05:26:18Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2534,6 +2534,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "06319f138c47e9eb",
+   "company": "Filament Health",
+   "title": "Rhelion Life Sciences Corp.: Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New United States Patent, Extending the Broadest Natural Psilocybin Patent Estate - FinanzNachrichten.de",
+   "summary": "Rhelion Life Sciences Corp.: Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New United States Patent, Extending the Broadest Natural Psilocybin Patent Estate FinanzNachrichten.de",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQYThCdXM4RDR1WVZzd1IxVGdqUGVxVk1tRnZkbjZaSWFmYXA0OXA0VmtjbnNOWXBFQUVoekMta0tkaFNQemNTRm9FU3FTMm5wSHFLcWlyMmJNczhYemNQdDh0UnMzRGVNN3VfaXNOVlVha0VicXNwZlc0X1dINlJjek0taWFYdjJ5QXlpQXdzWGVKaVF6NDJQMUs3a2hQOXg2WW4zcVdFRzVBeGhxeHNRREczVnN4MVlOUnhQSFFfM3pTRXhDeFJlRmxNS01YeTRka2JkZWdlSEpOY0J1TGo5a284VHZsa2xJTVhDNWF3T09PUnZUdUlKRnRtTUhpUjlkd0xzSVliNFJGQ3FaeFRJTnhDcVNuVFpuWFRiVUo1RVVyMWUyUTZKbGhmc1IyQThTY1lRMTBwT2hoNW5J?oc=5",
+   "published": "2026-11-19T13:14:00Z",
+   "outlet": "FinanzNachrichten.de",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T05:26:18Z"
+  },
+  {
    "id": "b3affab0a16f7615",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson Seeks U.S. FDA Approval for CAPLYTA in Bipolar Mania, Marking Fifth Potential Indication - Quantisnow",
@@ -2554,6 +2565,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "6488aef13035bbf4",
+   "company": "Filament Health",
+   "title": "A natural psychedelic drug candidate supports more than 80 studies. Its maker gained a new U.S. patent. - Stock Titan",
+   "summary": "A natural psychedelic drug candidate supports more than 80 studies. Its maker gained a new U.S. patent. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEM3enlZemZQdDBBZUhvWGtZTmJFeTVtRVVZSEM0UmYtUG9mRkVSdEhwNW5tRlpnTU5seEJiWHpYeS1pcjhrV0hHS2YxUnhhRlJfdTBJVjZPUTIwNWZuZXVMcWs1eGo5a2JhbG53WjByYnpPNjh1YUp4a1huS2pibjVmNXhxN3RKVmRjcjlCdzJOWi1ScDJHQkdvdDF0c0RGSUVEMnNfb2FreW84MHk2SjN6eHZ0U0xkWGcyUFBjdldKUQ?oc=5",
+   "published": "2026-11-19T13:09:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T05:26:18Z"
   },
   {
    "id": "59c41d55f94c5c27",
@@ -2765,17 +2787,6 @@
    "first_seen": "2026-11-20T05:41:48Z"
   },
   {
-   "id": "795741f0acc80507",
-   "company": "BioVie",
-   "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,493 at $1.00 - Quantisnow",
-   "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,493 at $1.00 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUZpcEhhTU84Mi1fY1NWcFNETzA1YkxEQzFjN2htVjFuRTRsVEphaVRfamNhc3pqVjE0bWxHTkM2M2tYUmplRy1jRHNEQXFabU9hTUZaLUxSZS15VGJEZFJ4QXVGRWJtZmpzRkUtZUlXUmpTaWttYUZtMGNjUU1VZ05HZTM0M2hrQ2hsV0x2VnBCZ1N2MkpGbFRCQQ?oc=5",
-   "published": "2026-11-19T00:50:08Z",
-   "outlet": "Quantisnow",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
    "id": "6e858dea1b2a6086",
    "company": "Novartis",
    "title": "Brand Manager – Oncology & Neuroscience - Novartis",
@@ -2818,6 +2829,28 @@
    "outlet": "Investing.com UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:13:38Z"
+  },
+  {
+   "id": "4019319fd70a31c2",
+   "company": "BioVie",
+   "title": "BioVie CEO Cuong V Do Buys 2,500 Shares at $0.9971 - kalkine.com",
+   "summary": "BioVie CEO Cuong V Do Buys 2,500 Shares at $0.9971 kalkine.com",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMVg5eC1YaXhKbEFVRC1QSkp2UEZWUVo0Mzh4TzcyT1R4b3l2RHRfMjBLSzdrQmJfZFVCdFBaT29TTS1FdWVJUmZsWWRJaUVqanJoVG8xR2Vnd2xoRHFVdGduR2pES3lxTVR4RHFxMS1PWE9XWUJGSjJtNVFqRzB0eG1NZ1pVeldjSXRwVjkyaw?oc=5",
+   "published": "2026-11-19T00:22:18Z",
+   "outlet": "kalkine.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T05:26:18Z"
+  },
+  {
+   "id": "795741f0acc80507",
+   "company": "BioVie",
+   "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,493 at $1.00 - Quantisnow",
+   "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,493 at $1.00 Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemhuSUIxZTRNejVTcGRyVm1vOEc5YWF3alhSQmpWMXhaRzNzLWVsM3JYZEkzcVlsZGR6VmNNbWdLb0pBWHV5a196R2pSQXd4LWJIay1fR2xvLXMxRzk2dWdzYXJ1TlI2WGFyS29zWnpRV0ZDdFpRbjFmZmJreUVsajNMVFhQam5yY3I2QmJsT0UzMDJGTGc?oc=5",
+   "published": "2026-11-19T00:10:24Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "2e1d35b3c5fc3971",
@@ -3104,6 +3137,17 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-20T08:00:26Z"
+  },
+  {
+   "id": "2b786e29867268f7",
+   "company": "BioVie",
+   "title": "Biovie Stock Price Forecast. Should You Buy BIVI? - StockInvest.us",
+   "summary": "Biovie Stock Price Forecast. Should You Buy BIVI? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4NDl2SS1jYTlSX1VSUVlSOFlTVTREZ1N0RW14bC1pNXlTcEFuclNpNzdJWVNiT0xEVngxWGo0NUFvTktWOWNmbw?oc=5",
+   "published": "2026-11-18T08:00:00Z",
+   "outlet": "StockInvest.us",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T05:26:18Z"
   },
   {
    "id": "d0eddbbe7770540d",
@@ -3876,6 +3920,17 @@
    "first_seen": null
   },
   {
+   "id": "758045818c8f4600",
+   "company": "BioVie",
+   "title": "BioVie says bezisterim shows distinct responses in two Long COVID patient groups - Yahoo Finance",
+   "summary": "BioVie says bezisterim shows distinct responses in two Long COVID patient groups Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXZmSXF1dDJUQUk1OHVoeFp6UVZlZmVkY0dpQnFZV3ZCWHB5cWlCUzJVTlp0OURvcUtTSEMyNDRNS1BuNDJEaXZyWHNCNnRXRUl3eWlqMngtUlJBRTRWaHFSbkNsX25yenJmN0ZvV3p5Z0ZxVzV4SDE3YVpCOWU3dDF5RFI3WWFoRmJQNWtBYVJtc0Y1bUI3VWg4c3QwQXc?oc=5",
+   "published": "2026-11-16T14:57:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4bd708763d6bd03d",
    "company": "Teva",
    "title": "US FDA approves at-home use of BioXcel's agitation drug - Reuters",
@@ -4004,6 +4059,17 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMDFNanZJQV95dG1uaEh4UDQ5TmpqNlN3UUhTWUZmSW1idXYtcFhsOTVLOWVJSGNoLTh3aWZaZjVtVEsyenVacUR5ZVZiMlhkOWM4WE9UdDFGU2k5MXVmY254RUhmVkx2bDgtRDNBTWRzcHpkU3p2MWh0RU8xQ0pHN2JMY2pkeG5aSk1iMzAxVnRoLTE0UHRUYnZuVDRvRXM1Vm1LT1NaUFR0MnlwaUdlWEoyazBUcG1zQldRSHc2UzN1UW5QSlBMQXhjSQ?oc=5",
    "published": "2026-11-16T14:12:00Z",
    "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "be126872251da9a7",
+   "company": "BioVie",
+   "title": "BioVie shares new biomarker data from Phase 2 Long COVID drug trial - StreetInsider",
+   "summary": "BioVie shares new biomarker data from Phase 2 Long COVID drug trial StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYVN5LTJ5S1hzbHlPQ0tnNkFrdUpFVjB2OHBwdkMycjNhempJOUx5NXBhaFRHN3RPOUU3NjhiOUVYNlNEazRETHNOZXNkakJPUG1tTGR0NlppTzB3UEFCb2pXMGRVZ2RTajNmQ0pkbVQ4Z1g1a0tqOEV3X3hCOTB3c001SHBXb3pZY0Fvbm9kc3hKdWR2V0J2SnE2a1EwWkVLbFhuRG4wR0FndGtCX0VZSDVrOURfRTNEbllEQXhJc3JuV1Bo?oc=5",
+   "published": "2026-11-16T14:01:02Z",
+   "outlet": "StreetInsider",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5801,6 +5867,17 @@
    "first_seen": null
   },
   {
+   "id": "ae9dfb588b720854",
+   "company": "BioVie",
+   "title": "BioVie identifies two Long COVID patient groups with distinct responses to bezisterim - Proactive financial news",
+   "summary": "BioVie identifies two Long COVID patient groups with distinct responses to bezisterim Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNUxhdm5TN1YyVmg0UzQ5WUJiWHFxdU9vd1BWdjRFM2ZyZXpWYTJvUWtWbmpTVTc3Rzl1VFdtR3JWUDV2b3NfbUxWOElYNklNQ3VWUXlQN244aVRaN2phMURJQnVZaDI2UlRWSkN4cmRaZG5WQ2hfVHQzQlZ0SXRrbGJOeUVMT3NINGJwOXBRMDNoSXBlY05qNFh4cXRhQXA4RVo0LXo4dW5wbzVpLWF0SW45M21VbjRIQzFkTndnMWJ5dm04ejJTY3NIeWJISGdxZ25GY01wVVpyUU5HN1EyeGI1cjlnSmxocUViTA?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "55cd85fecf4a55ac",
    "company": "S.Biomedics",
    "title": "S-Biomedics, which is developing a Parkinson's disease cell therapy drug \"TED-A9\" derived from embry.. - 매일경제",
@@ -6961,6 +7038,28 @@
    "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
    "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkVBd1kyN2w1aVY3LXp4VTBhZ1l6QTNPRnlzQl9JbERCeWw3Z1pHYnY3WGVDYUphWXJJT1RJRHljcXRKOFVqSUNiTHpILW1VQ2hTa2R6dWFhQVpKYVlUNE9sMmgtQmFaeHFKZHpzZ25JZlNsSkk2NTRzRFpoZ0NESE9TV3F2SGRMQUQtZ1U2QmZLeF8teFhBUTdFbkRrZC1aQmg3NXdpM2haeFY2WXlV?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "bec01248946814f9",
+   "company": "Supernus",
+   "title": "What Changes For Supernus Pharmaceuticals (SUPN) After Its Nasdaq Delisting And Merger? - Yahoo Finance",
+   "summary": "What Changes For Supernus Pharmaceuticals (SUPN) After Its Nasdaq Delisting And Merger? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXUxbklzcGdVWHFkX3RMdmdGQl9LNVNDc3o3bGg0WmpfTFBOSW11UWUza0dPTk45ajViUndVaTduT2tiNmMyaTc4cHdSVWRsN1ZsQjEzQ2lmRV9Xb2hLX0lFb0ZkQnJiRE5CcEpsUWl2UzFPTERGa1ZBQXI2TzAzNlRHZ1BBVzJyQzJpSER5eVRWaHMwWjNfdXA3RHl0NE9Ed0xIeUE5d0E?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d1dd27c3923e4577",
+   "company": "Filament Health",
+   "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Ships PEX010 to the University of Southern California for the Expanded Mindfulness Assisted Psychedelic Therapy Trial - Yahoo Finance",
+   "summary": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Ships PEX010 to the University of Southern California for the Expanded Mindfulness Assisted Psychedelic Therapy Trial Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzc4M0dtX3AybnZndkRGbXJPYk1fWnVTZTZTd3VKMDFaV1ZGUFpnbFpPZGJLcnQ2ZzNKMmVWdkZIWjJSTjJuNDh0YU9XRVhpb1ppYUZQeUQ3LVlrMkFxTWZFc09zdlluSUgxMWxJNjFzaVpJWGVrU3dkS0dhU2g3NVd0X0RodDhYVHl6Qi1TX25PeFU2Ui1NMjM1Yw?oc=5",
    "published": "2026-11-03T08:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -9651,6 +9750,17 @@
    "first_seen": null
   },
   {
+   "id": "8c1e1848c454d96d",
+   "company": "BioVie",
+   "title": "BioVie to present Long COVID and Parkinson’s trial results at American Neurological Association meeting - Proactive financial news",
+   "summary": "BioVie to present Long COVID and Parkinson’s trial results at American Neurological Association meeting Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxON0lKUU9IRE1tcW9uYWZrOE14Nzd1aElLS2djYThpUF9nSEdNQ3FiazFhbkdDU3pVTU94bDh6SHpodkFRaU0yWE1lekdsSzRkYnBla21FS09YRXYyQ3JDM283S1JoQUFPQ3NXenF6VzRnb2E1Vmh1Unp6M3Z2WGctSVVZNHYzUURQX2pkOEgweURUQWlIQ1Z0clBvZ3lxSHlCdmZPLVYyMXk4Q0taX252eVo4VU8zbk9pWlhqb2pUNGwzbUFZeDdVb3IxQWNLUjBzOWRtM3JlMWFIc05RWnJFUFRhRU5iejB2aXhLZVcyelFLa0RwMHFWY284V0U4T0hzRTZodg?oc=5",
+   "published": "2026-10-14T07:00:00Z",
+   "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7bb3beedf9d876a7",
    "company": "Seaport Therapeutics",
    "title": "Population Pharmacokinetic Modeling of Oral GlyphAllo in Healthy Volunteers Strengthens Evidence for Lymphatic Absorption of Glyph Prodrugs",
@@ -10318,6 +10428,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPbVA2NlBhbmx2V3ZFQlFzWW5LVU9ZTDFMVWVhN2hKWVhBMkpQei1OWFNHYlhWWUxXbVNSUW1qYm1mZUZ3ZE91SzVQUnN6QVRPQUlJOEZWTmlmb21ranNESjhDQWpYbmkxZlFmVjFsMWhPVVNreUFTR2VWcUZMcEhfUzk3UG1HRlRVRVlHa3lCNnVDRVpLbmpUaGNKNklSZWJVR2xxZUNYZTNBT0hWbU0wS3hVRFNzTTlfbjQ4eVpscTRZQnhTMWl5a2xfX2dMdFpiTVAyZDJuSXpobG9XYUxyYXY1eXU3U3ZkZU1UZjFTcVZxSWJyZXVOY2tmcFNGc1BkbVMyR0ladFBIbkFpdGJ1eWRxbVdwQUZpTUczUGRoWkJEbzZCSmZLVFJDSVVRcFl5NEFEc0h6OTFYNzlwdFZ0Sg?oc=5",
    "published": "2026-10-08T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1f7ae69a5ab8a3bf",
+   "company": "Filament Health",
+   "title": "Filament to supply psilocybin drug PEX010 for U... - Pluang",
+   "summary": "Filament to supply psilocybin drug PEX010 for U... Pluang",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlNRQlRtckZsRmdFWnptbVYwREhDYk9kMFBtVmRPX19tbU5lenAxWnNCUk5XUVhQOFUtR3g0MVUxYXRXNzdkVUtWSFJ6ZDgySmx0WXhxVG90QUIwR0M5TWMzT0FTSlBqdTJsYVhzTWRRYkJWbXZBalJpUzdqVG9kN2pERktxN3FEZ1o5bzk1VGtRR0IzdWRUOVREclk1SDdjMlM4MEUtMlNqbHVUMjFITk9n?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "Pluang",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11407,6 +11528,17 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY1NLQ2VZVUp4RmRTVVFHaGltUXNRUmZnWTJJdmlqYWJmbWJMcVpneXhvbDlWbi1FbV9RY0FMSEhnX1p5d05UanctdjgxeW5UdHBiUDFISTBFZmwtVVp0eFF5ZXBJRHY4Rk1leHNZdTVUd2NWZWNucXdSOXdaZ2FPemY3b3ZNZw?oc=5",
    "published": "2026-09-25T07:00:00Z",
    "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7be85f24214ca44d",
+   "company": "Filament Health",
+   "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Expands Supply Agreement with the University of Chieti-Pescara for PEX010 in the TEMPO Clinical Trial of Psilocybin for Treatment-Resistant Depression in Italy - Yahoo Finance",
+   "summary": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Expands Supply Agreement with the University of Chieti-Pescara for PEX010 in the TEMPO Clinical Trial of Psilocybin for Treatment-Resistant Depression in Italy Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajVMdkliY0pIMExxdHA5QXhSUDZ2cVEtYWRHSWdQV1RPR2hMU180QU9rOWRHanB5aTBqSmFUYjNjaTZ4dllFWWEydnlybHAxcXh6ZVRZNTZweDJlNkNMMFZCU015bnNPVVUtU3BSOVVnT0Y3dDBWUUdaMkQtU28tel9sSDk5NWZ4amZNby1jOUt5TDdtWFl4dGN4SQ?oc=5",
+   "published": "2026-09-25T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12654,6 +12786,17 @@
    "first_seen": null
   },
   {
+   "id": "c4f1a77ae8c1d460",
+   "company": "BioVie",
+   "title": "Join BioVie's Exclusive Live Investor Webinar: Inside the ADDRESS-LC Phase 2 Results - Yahoo Finance",
+   "summary": "Join BioVie's Exclusive Live Investor Webinar: Inside the ADDRESS-LC Phase 2 Results Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTk0SGd4NEo5WkkzcDBlVm5pM1pxRjVxVHY3dC1tb2JlVVhvTVIwVU5UdGFtRExDN19jcHl5SE1PZEdTMXhQSVVJVGpIZmY0TDRidS1vaDY2VjNocFc0SnE4aFZpeU9XSHQxS0IyTGRPOTV2bnEzU01BYUJMZ1VMQ241ZEJDT2ZSQVdyeXg5QmJ4NGk3MVM4U3BsYzJOdw?oc=5",
+   "published": "2026-09-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d86ce2166ec605ba",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Update from the FDA Revising Previous Major Amendment to a Minor Amendment for Preservative-free Ketamine | Tue, 09/15/2026 - 15:11 - NRx Pharmaceuticals",
@@ -12771,6 +12914,17 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0FHYTUxU2xBOXVZckJxYmFFN3JmRDlWSnh0VVF6Ymplc0VVT1dYc3E4eHZuRTNlZ2N3X1Z6enV2QzFQWFY4aTdCT3A4bTJXbFNyX19sVlJMekhDUTZTTWpaVzJpY2RxV183Q2FRX244cFpIamw4NERaNkp3OW9nYTBLcjhyWVhXdEFGTHlSUGlfLU55QUp2d293eXE?oc=5",
    "published": "2026-09-15T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c75550262e1b9d4a",
+   "company": "Filament Health",
+   "title": "Rhelion Life Sciences’ Filament Health Partners with USC Keck for PEX010 Psilocybin Clinical Trial - Kalkine Media",
+   "summary": "Rhelion Life Sciences’ Filament Health Partners with USC Keck for PEX010 Psilocybin Clinical Trial Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTEhNWWx2TnI1anVBYV94T0Vib1I1TUFJcF9jWl9BLTRQaTZrTXpPQ19iSGNHOGRtX1R0VVZMbDNUZGNCUTktOVJTQzZ1N3VQR3VmMkxaQjh3UXBidTZwaXlRNGZ0Y3k2QmdWTjJBaVFhQnJhUkphMWpJZ3ZHTWtJSXB1eENhX1VkTVpkaUNXT1JDWUtYOEdEV09HYl8xTEhmWVptc2xwUWxvalM4eGNBNXJQc3BJOWt2T2dNUUZscXdueGxjSzQzc2JnSjNtcGQzOV9uLVJBR1RzeXJy?oc=5",
+   "published": "2026-09-15T07:00:00Z",
+   "outlet": "Kalkine Media",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13145,6 +13299,17 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU3VvVnhrUUgyc1pXY2RXTklTcGZfN1lnM3JSMldFcVltbUpGNnZRYy1NRzRDc21JQXBQTGgza2FWeUJtN2pyR2hHOVc1MnBzUXNxNFBJanBVUWZlR0RrZWI0S3o5ZklQNmxWSTJQVk1EVDcwbFcxMkJpbWUzdTdORS1MRjFNSUY4RVdwWkxWVGJYNXBjOEU1dUlldlZEMU9fV0Zuai1BN3AweHQ2blByUXR6aFlGNUZvTmF5T282Qi13d1NKV3JOaF80RDJsUkdfX0twVUV0Mm40dw?oc=5",
    "published": "2026-09-10T07:00:00Z",
    "outlet": "The Motley Fool",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2430d40a9036664b",
+   "company": "Filament Health",
+   "title": "Filament Health plans stability program for IBE... - Pluang",
+   "summary": "Filament Health plans stability program for IBE... Pluang",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVBoajkzeXFLVUlNSjExZ3dobnQ2T2hScDR6MFMyeWJjY1oyOVRxeVdsZUkyU3o1bHctczZraGV1VHQ2ekpITGg5RGtkcEVpazhpem5xYnRfZlRwVHl1M0RCT2JBVk42cnpiWEpXY0duMC1pdzhVWU1POEJFcmN4Z3dkT3BlaHY5ek8zZ0ViMEpScnhROVZUX3k5MUtjMG9STG5HSXlKSHp3YUU?oc=5",
+   "published": "2026-09-10T07:00:00Z",
+   "outlet": "Pluang",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14381,6 +14546,17 @@
    "first_seen": null
   },
   {
+   "id": "54e8439366f065b6",
+   "company": "Filament Health",
+   "title": "Rhelion Life Sciences Announces Appointment of Samiuddin Khaja as CFO - TradingView",
+   "summary": "Rhelion Life Sciences Announces Appointment of Samiuddin Khaja as CFO TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2c4aDJNQW1pWFI3UWVsbFJIdllKOUVmMUJIeU02bWt6bExCcW9sMW5tQ1VCVC1oazNuQTJaYlZSWE9IYThEVGxrTGE5cV85aF9DcHZrXzJYVUt3bGtmeU9GelNIMXhJcjRsOWNVSmZOLTNza0NZRXNiV1h2bWE1dnotcklJSGptZmtiZWREY0NUX2c4SmJwREhnLUw3eEM2bDRVY1ZSYmV4UHhESGl2MEVmaHQ4X0FNazVtX3loUXhvQ3UzY28xZWQwOVo?oc=5",
+   "published": "2026-08-19T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "15fd2f1aaa520bdd",
    "company": "Kenai Therapeutics",
    "title": "Kenai Therapeutics Appoints Mark Gergen to Board of Directors",
@@ -14465,6 +14641,17 @@
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vSmgyNDlIb1RMOG9VLXBwdk5wMUItX1R0QlVHWGNTWVpVZkZaSkNBM1VVX3FnbzhCX2NleXpVRUFuREk3YVVwZjhiX3dfVmttT2lvaXQxRGd5WGtNM1Iyby12LVhWekgwOHU0NEQwSE02R3BObFRzazc3aw?oc=5",
    "published": "2026-08-17T07:00:00Z",
    "outlet": "Nasdaq",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "69a0791addaf0339",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Reports Second Quarter 2026 Financial Results and Provides Corporate Update; Conference Call to be Held on Monday, August 17th at 4:30pm ET - Yahoo Finance",
+   "summary": "NRx Pharmaceuticals (Nasdaq:NRXP) Reports Second Quarter 2026 Financial Results and Provides Corporate Update; Conference Call to be Held on Monday, August 17th at 4:30pm ET Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVpIcjkyWmZjeTNKQXQzaEZVX2ZISi1Bc29YaFE5RllNbUQ2UDdmZjhHOFVra2x3NmFKVTktM3dVczZ2TVk5SGx6N0N1em1ZYVdLT00waUZGMUprVl9WT21PV2xtQXB4b3piRXVJS2hKUkNCTEx6MTRvcTAyR1VWY3R1RENfa1FjWlJDTUVwODE4MFVwbkx5RXRtNnZqbjNkaWc?oc=5",
+   "published": "2026-08-17T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16570,6 +16757,17 @@
    "first_seen": null
   },
   {
+   "id": "3f78f8b342ebe451",
+   "company": "Filament Health",
+   "title": "Red Light Holland Reports Fiscal 2026 Audited Year-End Results and Provides Update on Rhelion Life Sciences - TMX Newsfile",
+   "summary": "Red Light Holland Reports Fiscal 2026 Audited Year-End Results and Provides Update on Rhelion Life Sciences TMX Newsfile",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTjRjSUhibHFiRmowRVRFTmVHN21GZ1pCbXBOZkRhUy1IcGhEeHJqUmtKUDJNWmxmaTdTeUJwRzJUYnVCVFhFaU5odEVlYW92eXhDR2R5WWpsTi1FWllIdjJyamd1dHpTTlJDNlV5V0FwbDU0ZVFKbGdFQmJ3VTZzUDdXOGp4M2ZJUDVJOE10Zi12QUVUZUNTVUF0YkRTOVNkeG5HUnVfX19uWHk3YWI3bWZIdFVqazhMcUdPclZZeGgxdjRmR0hhXzl3cGZWU0g0TnNpSGI3WERVNzQzTWxqSVE3dzk?oc=5",
+   "published": "2026-07-29T07:00:00Z",
+   "outlet": "TMX Newsfile",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b6c54cb6b89509b7",
    "company": "Eli Lilly",
    "title": "Postdoc/Scientist - Psychiatry and Neuronal Health - Lilly Careers",
@@ -18517,6 +18715,17 @@
    "first_seen": null
   },
   {
+   "id": "0670ab17190e3f93",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley completes dosing in Phase 2b depression trial, expects topline data in Q4 - Yahoo Finance",
+   "summary": "AtaiBeckley completes dosing in Phase 2b depression trial, expects topline data in Q4 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeDlFYTZPMk85VFdOcTdXSlc3ZnctZkxSRXhyWkUwNHdZWTNDVFFQUXY3aU8xVTc0NkkwRkRXRW5TUFJ2eXRHUnB5ZlU1VUlPeDkzbzZ6UDZ3NXROcG9YcTRLUDNTYU9LajY5VlhDZ1JpTVg4aEI1bHY1VG5oekV0VXVtOFFzNmNPYmVkdUVuOHAwYmxRUVA1VWpzNkJCOUk?oc=5",
+   "published": "2026-07-06T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c775eefb600d47f8",
    "company": "Unixell",
    "title": "UniXell secures FDA clearance for iPSC-derived Parkinson’s cell therapy - BioSpectrum Asia",
@@ -19459,6 +19668,17 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTzlNR09hT2xBQlJpVU9xeWI4NDVsWWFlTHV4bnhtX3N0bk5oZi1lQ2pKejBtVm5xQW4wVTlBXzlxVXc2bEprcTNfdjlnMWI1WkJaWVFxQXhJLXBSanNJLWs2anFIeDVfR2NxbXZnOUpwMFp1YlpLZUNGd3d2RHVuTg?oc=5",
    "published": "2026-06-18T07:00:00Z",
    "outlet": "ATP Tour",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ab97b1c3852e38d5",
+   "company": "Filament Health",
+   "title": "Red Light Holland Reports Positive Preclinical Study Results for Coca in Weight Gain Prevention Post GLP-1 from Magdalena Biosciences, the Joint Venture Held Through Its Wholly Owned Subsidiary, Filament Health - Investing News Network",
+   "summary": "Red Light Holland Reports Positive Preclinical Study Results for Coca in Weight Gain Prevention Post GLP-1 from Magdalena Biosciences, the Joint Venture Held Through Its Wholly Owned Subsidiary, Filament Health Investing News Network",
+   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPRUo1blR5R1ZfbW5Pa0R4VXpwcVRELTl0U2F6U1pnM1RnSERlWUtBWUw3anBReDNfd2FYeXlLRDZRUWI3MkdFRGNrcF9OY05FRm56ZW5uTjRCUVl1cFV0SEFIYWtVSGotXzFzUG8wY0h0S1BLaWwtOVB5S09vMHMtWGZpTHQtNjdjVjVrY0NJNjVvR2tiQ1BoS1NDVFUtYWFWQjRaYzFfOGRBUWJMQUVaTGEzdlBEbl9BbS1wTlVlaFhEOGd0NVVkUDZwcnBZSFcyWjNqeUMxeVZSV09mWThER0FoYlB1SkE4QjR2ZmFiV1RaTVd3YUlWZmVkZk1idWJWejBuem9KUVpRdjFiTWd5ZmNHTE84TTlwSGs0VWltNUtqU1lsdkU1MkJaYUJCSkZ4NThEYzB6R1NSY2Z1Y1hMN2Y3VXo3NFlURUpz?oc=5",
+   "published": "2026-06-18T07:00:00Z",
+   "outlet": "Investing News Network",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -23467,6 +23687,17 @@
    "first_seen": null
   },
   {
+   "id": "15dece41dbda655e",
+   "company": "Filament Health",
+   "title": "Red Light Holland Highlights U.S. FDA-Authorized Study Supporting Multi-Session Psilocybin Therapy using Filament Health's Patented PEX010 Botanical Drug Candidate - Yahoo Finance",
+   "summary": "Red Light Holland Highlights U.S. FDA-Authorized Study Supporting Multi-Session Psilocybin Therapy using Filament Health's Patented PEX010 Botanical Drug Candidate Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRWhaTGpjd29LS2k4TG90Q0NUaTlVVFhYSjMwQ1NaTlN5LU5rTGZ5ckZpd2JWX0Z1Q3BrVkdBOVA0bVhVN2xuSENKUktKcXBudlhsTE5VMnZGQnNJTkl5MURlQnA5Ni1HSEt3RHhEMW5iRXRwM3Z3a2g3X2JlTFdaMzJET3Y1V0ZYUTZYRURZcUJ0ZjN4YkhKODZva3RqaHBG?oc=5",
+   "published": "2026-04-20T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7f3bdc519b262117",
    "company": "Unixell",
    "title": "Chinese drug makers take on Western dominance in US$16 billion Parkinson’s race - South China Morning Post",
@@ -24113,6 +24344,17 @@
    "published": "2026-04-01T07:00:00Z",
    "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "08fb6232a5e63c03",
+   "company": "Filament Health",
+   "title": "Red Light Holland to Support University of California San Francisco's Global Psychedelic Study Through Filament Health's Clinical Network - Yahoo Finance",
+   "summary": "Red Light Holland to Support University of California San Francisco's Global Psychedelic Study Through Filament Health's Clinical Network Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2dmRDA4Tk9OczZBNU9tSWxNYWhuRGtnZ2hlSk90cWRIRUhTUHBfcEFJUHpCMS1RWVJhVk1Qck9tcXhreGdTU3ZrZzZWVENOdVhjMU9NRWY1UkRBNjRnTGpPMzgxaEdFSjVITmRVbENhN2Z0el9RS3hfMXc4LUdIakt4QlhtSWxCNXB2NXBhUXVfUGJyMExSMkZSSElVbTNwWkhyZHVzamw?oc=5",
+   "published": "2026-04-01T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
