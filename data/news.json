@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:50:15Z",
+ "updated": "2026-11-21T13:53:47Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1905,6 +1905,17 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T03:17:37Z"
+  },
+  {
+   "id": "e1b4372eadfc79ec",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson (JNJ) Stock Price, Quote, News & History - Benzinga",
+   "summary": "Johnson & Johnson (JNJ) Stock Price, Quote, News & History Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QTDlmU3pOSjVmTktCa2tWSktJUjhMSkdjaUk4Z0swcDk5T0htYXFlMzl1RURuZWtMdzd6S0ZkMDJCaV9CS3BSTlN3?oc=5",
+   "published": "2026-11-20T13:26:42Z",
+   "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T13:53:47Z"
   },
   {
    "id": "9729ad31f5b50e12",
@@ -17494,6 +17505,17 @@
    "first_seen": null
   },
   {
+   "id": "b075de6187f7bc47",
+   "company": "Remepy",
+   "title": "Remepy Raises $36M Series A to Advance Hybridopa Into Phase III - citybiz",
+   "summary": "Remepy Raises $36M Series A to Advance Hybridopa Into Phase III citybiz",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWJhUzRGSGRWYkFZTmN3bzFHSVlMSmZxTk53ZTVwQTdObXh0bXY5OTZqTTVEOElYWFdHdTRlTnpqNDcweUpQWFdBLV9iYU9JOVFOVWNmTk1Ldnh4dVZobVpVNmpqOXI1djZoaDkzRXVSakdFLUt0RlFsQ3k4Vm9RS0xJMkJzd1VHcXpCMk5sNWNHY210WlpEamo3Y0FiUlRNN3VR?oc=5",
+   "published": "2026-08-12T07:00:00Z",
+   "outlet": "citybiz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ae9f26f0205bcbec",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics Reports Financial Results for Second Quarter 2026 and Provides Corporate Update - Gain Therapeutics",
@@ -27328,6 +27350,17 @@
    "first_seen": null
   },
   {
+   "id": "ce999e23a104abac",
+   "company": "Stada",
+   "title": "CapVest completes acquisition of majority stake in SEE-active STADA - SeeNews",
+   "summary": "CapVest completes acquisition of majority stake in SEE-active STADA SeeNews",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmJxa1VlTFo1YjdlLUx3YVh0aG5VODhndktEbmtPN1pfbko0aktOZnhIYlJwNGVILVNYdHV1SEVzTEpWZUdVbmFZMDk1eXhtbUFGT1VaOEJKVmdTSUNrUTVYMWhFemlYMUNKXy1ONy0zcEo0T0p0anZXdmd0VUdRaVNGVmFYUDNyUDF0OWtvQ3Vhd3VsT2gwQ0FOUFJNWmlfSkE?oc=5",
+   "published": "2026-04-07T07:00:00Z",
+   "outlet": "SeeNews",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dedb630f37592e16",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Announces FDA Labeling Alignment for NRx’s Preservative-Free Ketamine Application | Mon, 04/06/2026 - 07:00 - NRx Pharmaceuticals",
@@ -30100,6 +30133,17 @@
    "first_seen": null
   },
   {
+   "id": "a205ea2e2468fcb2",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly acquires Ventyx Biosciences in $1.2bn deal - Financier Worldwide",
+   "summary": "Eli Lilly acquires Ventyx Biosciences in $1.2bn deal Financier Worldwide",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0RYSUc5Z3RVdlFSMVZVYnJ3Y2NlN2hHQ3Rndm9sTzUtbXNtWGVqX1VTeF9HS1ZZN1Mtc0FpRU0zRXpFNVhEVDF5cW1kbl9sd040OE9jRGo5WGhyR0JBZFlJSklETG1yLURmaWZ1d00taUhKVkRvWU8wcWxaUUVhcm14NmlWaVd0YjdKSUxn?oc=5",
+   "published": "2026-02-17T15:57:14Z",
+   "outlet": "Financier Worldwide",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "667018472cfb8c3c",
    "company": "Newron Pharmaceuticals",
    "title": "Newron secured €38m to test a potential new class in schizophrenia - European Biotechnology Magazine",
@@ -32417,6 +32461,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalkwNXNNVUdmdExoTkdERVFpOWFpOUUwSmlxNlRqaFZLdnJYOWtOaGZjZDVxa3BmRUxIWndMUUtiNXg2bFJOeWNOd214ZmpWYkl0WnF5TnFETEJfVnBVTGNoUktvM0tWZFN5VWQxbjRlVTQxM3VkS1VYdEZ2aGVDVGRfZVJ3cHpLMFk0UmRXd1lyRUl1a0lpQWFIc0FfQVpCN1BRNS1ZazlMX21aWVhmNjRBbEE5U1lI?oc=5",
    "published": "2025-12-23T08:00:00Z",
    "outlet": "Cambridge Independent",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0d534e9708fffe32",
+   "company": "Stada",
+   "title": "Bain Capital’s Christina Dix on the European healthcare IPO outlook; Theme of the year: Italian M&A Oakley enters America’s Cup - PEI Private Equity",
+   "summary": "Bain Capital’s Christina Dix on the European healthcare IPO outlook; Theme of the year: Italian M&A Oakley enters America’s Cup PEI Private Equity",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMzlqa185Y0lWcUFvY2daN085eFFzdmFmb05FdzE1bFJiT2x1U0RsYk9PM1FUT3RRcVpSTEpsenVhTmcxbWJUbUc4MlJrbHp5SjhpSzFyY1NBbFA1OG0tLTFjZUM5RTIwbFpWMUFSaEk3eGVfVXVwV01zampuX2lOR3FOQ0x2ZzFnNnM2TURrSWpMd1EwQWIyY3hteVZYX3NDdW9ZZVlKbG9Fdlg3U2ppdzhaOXoxZ1pEWktyOElseGc3aWxOZnkzZkpaaUdmdXRpWm9PM0xGNnJCSmZkeEE1Zm5UV3NrZ2dTTTVqSUhQR2pMOGtJWTI3UzdEYw?oc=5",
+   "published": "2025-12-23T08:00:00Z",
+   "outlet": "PEI Private Equity",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
