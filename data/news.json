@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:26:18Z",
+ "updated": "2026-11-21T06:24:45Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "e4bdfcc3f83ebeaf",
+   "company": "MapLight Therapeutics",
+   "title": "Maplight Therapeutics (NASDAQ:MPLT) Stock Rating Raised to Sell at Wall Street Zen - MarketBeat",
+   "summary": "Maplight Therapeutics (NASDAQ:MPLT) Stock Rating Raised to Sell at Wall Street Zen MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbGZTZWlRMnZxem1PdGpWSEdXdFpuX1ZXQ1pVN3pKSWhfd1lvVWVuM3NjX213Z1ZoM1QzQlN3OVVkYnNHbXZoQVBXdGxIX3lVMTQ5S0cwUXI4SmJiMnJVX085WkRzNjlJNlc1RXU2RVRSajNhUmRIVXFia21uWE13U3JrcDlNdTVFLWVVUzJuc1lHODhqMWE1ckh0WVhUZ1dGT3pDMzNsbnBPYWhoRkN4SkNEaGZyNFZ0YTJxRi05bFljNWEyWUdYbjhMQ3k0R2QtNUlaT2Iya0Ridw?oc=5",
+   "published": "2026-11-21T06:23:13Z",
+   "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T06:24:45Z"
+  },
+  {
    "id": "26fa6401096bf709",
    "company": "Annovis Bio",
    "title": "Alzheimer's Pill Buntanetap: Annovis Says FDA Accepted Pooled Safety Plan; Efficacy Unproven - Tech Times",
@@ -2314,6 +2325,17 @@
    "first_seen": "2026-11-19T19:12:29Z"
   },
   {
+   "id": "192abf0094b3e608",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals S.p.A. (NP5.F) stock price, news, quote and history - Yahoo Finance Australia",
+   "summary": "Newron Pharmaceuticals S.p.A. (NP5.F) stock price, news, quote and history Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtbE91REl4enpKd2haaUExenNzX2VhWmVZWW9KZDFaSW5rYW9hb29Cb3RzZGdxVEM5Y0pYMDJ3NXhnWTRnNEFxUmpFX0s2MU51bE83SlliR181QjFtNVVnU0ZB?oc=5",
+   "published": "2026-11-19T18:01:16Z",
+   "outlet": "Yahoo Finance Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T06:24:45Z"
+  },
+  {
    "id": "1366ce996058e55e",
    "company": "TG Therapeutics",
    "title": "TG Therapeutics: The Price Already Pays For Growth That Ocrevus Copies Can Cut Short - Seeking Alpha",
@@ -2334,6 +2356,17 @@
    "outlet": "TipRanks",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
+  },
+  {
+   "id": "8c383a33661fa3ea",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals SpA (NP5.SG) latest press releases and corporate news - Yahoo Finance UK",
+   "summary": "Newron Pharmaceuticals SpA (NP5.SG) latest press releases and corporate news Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaNVh2bV9BOVdlcFkwRGp3YU1NT2N3MnB2a0pSUExPQW5LQVRPdmw0cHhjOW1SNmVwcDZkSncxTTZyYWlLX2htNDhSRExmQTFRTHBKWnRZRWtGUEtOaUx5NDNsRVE3djdq?oc=5",
+   "published": "2026-11-19T17:20:19Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T06:24:45Z"
   },
   {
    "id": "f2e1afca3b448005",
@@ -2886,17 +2919,6 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
-   "id": "23ff1e67be4dfbd6",
-   "company": "Gain Therapeutics",
-   "title": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WVnZ6cF81TFpzd0NFcXBSSDUzNDVCNklQMGpsYjZrcnBrSzQySEFxT1VOYVo0bjB1U3N1VnV5MXIyWVNWcDFYUjVIZzIxWEh2RlE?oc=5",
-   "published": "2026-11-18T18:53:44Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "6c0241828eaab87b",
    "company": "TG Therapeutics",
    "title": "Julien Nono-Womdim’s Top Picks: TG Therapeutics, Medpace Holdings & United Natural Foods - BNN Bloomberg",
@@ -3238,6 +3260,17 @@
    "first_seen": null
   },
   {
+   "id": "23ff1e67be4dfbd6",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WVnZ6cF81TFpzd0NFcXBSSDUzNDVCNklQMGpsYjZrcnBrSzQySEFxT1VOYVo0bjB1U3N1VnV5MXIyWVNWcDFYUjVIZzIxWEh2RlE?oc=5",
+   "published": "2026-11-18T01:05:22Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "05a8b297306d1bdc",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics’ Rexaceract Holds Motor Scores Stable in 12-Month Phase 1b - Minichart",
@@ -3333,6 +3366,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNdVk5V0JaRVF5VDRnaVpTYjdBRmJkVm1VQ0NGOTZjWFZDbkRvOUpvcDhKblN4SWtGMEFSdkJVOFBjS2xTTm1BNEpEV1E2YnlNV1RjUE1aM0xUWHdCdjJ3X1p3dDkyUXlEUy1IdEpQWmNtemkxZzJvNkpDYkZDa0twTUR5YkFfaGx5RG5iWGVwS0I0eENDVXdtc2Z2UVAyeUxyUVBtbFRIbFFwMTdFdzQzZGIwcHVjOS1lTlV4ZUJUS1ZBRXF4UGtTUXUxcEN0dEo0VjlVaFRFODk5aVM1dTA3TzJGSXZ2VmdDc00xajlncTZuVHA0OXFFbUlxR1Vsa3NKX2pXbDN6dWxOTTdKWWw2LWY4NFB0amtEbVI3RHliUEJ6eE5GVTVtS0JNcw?oc=5",
    "published": "2026-11-17T21:15:09Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "008a76fb31acccf1",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals (NASDAQ:LBRX) Stock Price Down 7.2% - Here's Why - MarketBeat",
+   "summary": "LB Pharmaceuticals (NASDAQ:LBRX) Stock Price Down 7.2% - Here's Why MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVpyeGlpd25ZU0hCMXY2N3NNQzBmaGFIMERVU3llNXg1UHp0UElWeFp5TVo0R1lFUnVCMF9tVndOaktScEFKYl9IdUd4UXM0bC11QmcxRnhvMkE0bnpNR0hWWkRSbG1HNnliX1ZWeXRwaEFnSEN3UUltM1ZkZmwwZXAxT3lOMHhqcVpGRzdfcENtdUVFMVltMGhOekZlRWYyMXhGbVpZT3V2ZmpxMmN5bTlhY1JZQWFjZUxudw?oc=5",
+   "published": "2026-11-17T20:50:06Z",
+   "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -3590,6 +3634,17 @@
    "first_seen": null
   },
   {
+   "id": "1b220f42929aa298",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Inc (NASDAQ:LBRX) Stock Now Rated \"Moderate Buy\" by Wall Street Brokerages - MarketBeat",
+   "summary": "LB Pharmaceuticals Inc (NASDAQ:LBRX) Stock Now Rated \"Moderate Buy\" by Wall Street Brokerages MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVllPN2V5am9LTmt4ajQ3ODc2anlRYkY2cVFHZDV2NXNvaWJtNkp0UldLOWwxTGFuWFZfRHlEeXlFemd6anZyM2hiUTlEVGJFODh2Slp3Y2k4REo5Rm9zaEY0QlBOcnRaTFgwSXNteUZLNFVMazB0aUVJTFVqMExLVkF2UDFEOTdXUkJWenYwMGk4a2p2ckNqaUF1bkdITUpXc1lVVmtoeUNoRWZOZTd5M0VFazZnUXIyWDV0WF9fUjdIT2ZVVGdEVGJMSjhQTXV1Yl95OEhRSEJNdU52RXdrbUhmaC1RSjdz?oc=5",
+   "published": "2026-11-17T06:36:00Z",
+   "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "58344dfb89bf34db",
    "company": "Teva",
    "title": "FDA nod to first at-home treatment for agitation linked to schizophrenia & bipolar disorder - Indian Pharma Post",
@@ -3652,6 +3707,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3MUpydWtra1lxMHptWXUtVFFGbTFjLWlINHlvMnpFUHlmRXlwbzJFNE1XZVE2SnNoNDh1dGNGLTRhSWExQTM3UmhiWktrakJi?oc=5",
    "published": "2026-11-17T00:56:56Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5bfd1837338d4db0",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals SpA (NP5.HA) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+   "summary": "Newron Pharmaceuticals SpA (NP5.HA) Stock Forum & Discussion - Yahoo Finance Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BZUZFT2NPd0I5NFRaUTRaZk1rQTFPY3AxUG4xOFpFSkg5QU13RkxuSDVQRnZMX3BqbWVmV2twemp4eEJCeGFVbGc1UV96cklrWjBLdnRwOE1aYm1URkNEeDdB?oc=5",
+   "published": "2026-11-16T23:00:59Z",
+   "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -3797,6 +3863,17 @@
    "outlet": "The Pharma Letter",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
+   "id": "bd6f5a3ec5149fa7",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals at Jefferies: evenamide drives bold schizophrenia push - Investing.com",
+   "summary": "Newron Pharmaceuticals at Jefferies: evenamide drives bold schizophrenia push Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQm4zYUVlczJRRmtQRlNOX0d5V0F2bjhrMW5ueG9HMGlrYVpwYnBTUC1uZjVtX2lqTlUzekw5cFdVTGpBbkxvT3BZNUNUb29XbHRlQVVGUGEwaUlaSTJnZWJtNmQySlhvOGEzZUNKNDFuMmVpeVBOeUdrNEtZWUM5TFdrUkVLaUVBVVRpNXVlSk0xYXpfdkpLOHVlSGhtQzBjcjgzTDJvbEMtQTZzN2RrV2FEQjBRODVKSjJoSWxrNXhZUm5KdnQ0bDc4Vzg?oc=5",
+   "published": "2026-11-16T16:55:48Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "e5908de0d510cb1c",
@@ -4459,6 +4536,17 @@
    "first_seen": null
   },
   {
+   "id": "048ba65fef4efa46",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Inc Stock Price Prediction: Today, Tomorrow, Next Week (LBRX) - Traders Union",
+   "summary": "LB Pharmaceuticals Inc Stock Price Prediction: Today, Tomorrow, Next Week (LBRX) Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EWXhtWFlacmt0LVVPQWxjYUJFb2FlNnBKdmxWaFlEbVNOekpYODNIdEFSOS1aQ0ZIaWhiLTYydWN2eGYtZlJQM212SGJ0YmZTN25LcEs2YW5xV1JVaXdXVm9PWjdJN2YxQklEdW9MYjkzbzFWN1c1Mk9ZNA?oc=5",
+   "published": "2026-11-16T03:30:04Z",
+   "outlet": "Traders Union",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "0ed4b68ac20cdcf3",
    "company": "International Stem Cell Corp (ISCO)",
    "title": "International Stem Cell director sells $10,496 in company shares By Investing.com - Investing.com South Africa",
@@ -4976,6 +5064,17 @@
    "first_seen": null
   },
   {
+   "id": "b5993d5491b38dcc",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals at Stifel 2026 Healthcare Conference 2026: pipeline, cash By Investing.com - Investing.com UK",
+   "summary": "LB Pharmaceuticals at Stifel 2026 Healthcare Conference 2026: pipeline, cash By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT1BuNmdrbVpIdWdYSjJIeVdKcGhnaUxqWkMzSm5SWG1HLUNadkZrWTlfVVNHTmJaZTVDYlZVel9FWklTTVpKTTB0QS1DUU1vVUs2ZHVJVzJFeFI0S0tubDhGa0R3VWE3WjdaWDJmZkJ3aUpKTmpfa1RHSU5LS2pMWGotbUt1SU5UWFE3U3JxdlBBZFBWN3Njclc3SHhJQWxOX0FvWTk4V1FuZnk1ZkNfU1o0Q1A2V0xhaTNmdTd2ZFRMYkNXdzFJcWMyTGJ0dlNz?oc=5",
+   "published": "2026-11-12T14:52:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6918394752212453",
    "company": "Annovis Bio",
    "title": "Annovis Bio Granted U.S. Patent Covering New Crystalline Form of Buntanetap - GlobeNewswire",
@@ -5016,6 +5115,17 @@
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNX1Bwb0xHZXB0bWpNa09SeUtSZ0F6bkpqTkhlRnhuTU5JQkJiekdDYXNrVmp0b01hQkI4OWFFQUJNdzU5eEI2MmN6ckxub2NOUzJ1SzhfZnZkaEJEUzRHaXFENFhuU3NUd0ttd0pueUJHMHl0bGhPdXNJaG5VNFllVktMbkNHODJEUDVFLUpUeFR1djVKMjdBQ1B2aDFicDVPTnYzWWpVQmlrbDM4RG5JcGQ4bk9VSW9rcjhxY0J2bndvMVlrZXNRelFsOWJCY0JjbTdxX0g3ZnBjVUNHODJpZUFSSFZ1Q3VDTHRGZng5NlZtWjVfbUl0cEdISUtoU3VERS1ma01HTG9PWXl1Mkl5QnFMbjBfTjF3OS10d19n?oc=5",
    "published": "2026-11-12T11:43:30Z",
    "outlet": "The Globe and Mail",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6f812c6170c6ba10",
+   "company": "LB Pharmaceuticals",
+   "title": "Zacks Research Upgrades LB Pharmaceuticals (NASDAQ:LBRX) to Hold - MarketBeat",
+   "summary": "Zacks Research Upgrades LB Pharmaceuticals (NASDAQ:LBRX) to Hold MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2gyOWNZeDRGdzhlSkRHVkU2M2xUZENpT04wNzU2YnRlUHUyVU11UThJSFhPT3ItNEJRb1ZCNkhTNmhmR3dHaG9jUXNBSHRBNUdCeGtGTDFmNXI3WlRzX1R4dGVoaXBSOTlrMl9hZ1VIMVhXaGdqWUdwR2lYNnVJMU5teFVaanRxN3NHNjBBalEtQXdEZWViemVUSlE2cVByTzVTSC1VaUdGZFJFVzYwVE9uTmMwbXp6a0g4Zi1HY1A5UQ?oc=5",
+   "published": "2026-11-12T11:09:08Z",
+   "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5203,6 +5313,17 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
    "published": "2026-11-11T13:30:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fa7d12de4cdd1032",
+   "company": "LB Pharmaceuticals",
+   "title": "HC Wainwright Issues Pessimistic Forecast for LBRX Earnings - MarketBeat",
+   "summary": "HC Wainwright Issues Pessimistic Forecast for LBRX Earnings MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmx1OXJyRnc1MWVwRUZ6S3dlT2gzck41ZXNxaFhweFZwOWJHcUJaamlBM2VKWFJLVjc1LWd5VGRNUlBQb3NaWUlaVzBJb19TcWlCNktfMVZJS2ViS1hfMFNlN2RfWmRzR0lzMjI2bG9IdHc4a1dEVVR4WEgwZnR3RllKWEdubGxuOEMtQmJGRVBwTGFRMV93NDlxcEF0Z1AxWm9uNE1iSTBjNW1lZ21CUlR3VjhMeEpQTzJKTTlkMjE?oc=5",
+   "published": "2026-11-11T12:19:35Z",
+   "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5438,6 +5559,17 @@
    "first_seen": null
   },
   {
+   "id": "cd2d87741550cb99",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Inc $LBRX Shares Newly Acquired by Candriam S.C.A. - MarketBeat",
+   "summary": "LB Pharmaceuticals Inc $LBRX Shares Newly Acquired by Candriam S.C.A. MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVk4V09HQmdVVjFsODIyWE9pc0laWGl3UFN5RkhxTTBGTHF0ZGNCTDJ4WnR6UUN5RmxFM18yT2VRZ2hwWjB5SGtlSWE0VUxUS2tmbUlIQWxrNDZnbVBGUmhoTlRDTDg3MG1OZkd5cF9HclItcmcwZUZBOEtMcnl5MUhENGZveDFIRlVNTy1fd2g2UFlCMnVJeV9CbUlZVEFsS0VIUnBtUU9pNVp0TzVzMU80SG9ZdUtDenppM1dpV01qcjhp?oc=5",
+   "published": "2026-11-10T09:08:09Z",
+   "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c9586dcd8455cb7c",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
@@ -5566,6 +5698,17 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNdVp5MXhuNGRncnplVmtFOG53SXBneEJYZkl1RTNES20yWXMxYVY1MnBFMDljU24wMl9ZYzVNTWpzSUpIc195eG1GLTJDZ3hUUFhXWXVR?oc=5",
    "published": "2026-11-09T21:00:00Z",
    "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a94e0815ac976857",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals at Guggenheim conference: a broad antipsychotic push By Investing.com - Investing.com Canada",
+   "summary": "LB Pharmaceuticals at Guggenheim conference: a broad antipsychotic push By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUkNOUlVwaE9qT3dBRFZzel9yd0lFYlFBNUVJSHJ4dENqamptNWdnY2IyV3FrV1FFU3d0SlRsdnI3UDlqQWhqSTlyd1FYMlU0Uy12ZVhCOEJHR2wxQWdfWVlkLU5JdUEway1VWHR6Tk1QbC1jd19QWnpBSVVIMFBlRzBOVTBIYjR0QU1FQmd3XzQ4cTJCNmZYUExMd09KZjVPMmQtZDFabmMtZzBFbnpIUXVmcDlVUHUxdjJXdUx2OC0zZGd6UjNJMGExNA?oc=5",
+   "published": "2026-11-09T18:44:46Z",
+   "outlet": "Investing.com Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5878,6 +6021,17 @@
    "first_seen": null
   },
   {
+   "id": "95203baf33745db9",
+   "company": "LB Pharmaceuticals",
+   "title": "Weekly Recap: Q3 loss wider than expected and Phase 3 data due H1 2027 - TradingView",
+   "summary": "Weekly Recap: Q3 loss wider than expected and Phase 3 data due H1 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeFJXY2VLVUZMLUVpajVyRnpvSk0tNFloSkljbjAzcW5hYkJpRmJJMnk4a2pCUll1YWQxMnRpX1YteGhMeXk1Y2dvZWV0Q1RTYXVkVEo0MnpkdEpfT3JReGFpanZoWDgxdWZOUFZteVVvU0pZMWYxbTFpcHNuejB3M0JjbndnTDVSNXdrUEJMN0VhSXk5ZWRSN2NHVzIwSl9OUXU5NmZ6X3Z4QVdvZWpwcVpIOFA4cmFheU8zckEtV2RCbnRLV0tGUTRnWQ?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "55cd85fecf4a55ac",
    "company": "S.Biomedics",
    "title": "S-Biomedics, which is developing a Parkinson's disease cell therapy drug \"TED-A9\" derived from embry.. - 매일경제",
@@ -5922,6 +6076,28 @@
    "first_seen": null
   },
   {
+   "id": "24513c517115ebe6",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals (LBRX) Options Chain & Prices 2026 $LBRX - MarketBeat",
+   "summary": "LB Pharmaceuticals (LBRX) Options Chain & Prices 2026 $LBRX MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tYURYM21fTjdKTWtEaWF6eHJUUEZLODk3LWczX2JVaUYtajdQZUxYbmoxZTIzcGdpRm05dHhUS3JmcW55TlozY202SENOQTBJd2tZWVdyZ1pXeC1Wd3o4UmVKSDc?oc=5",
+   "published": "2026-11-08T10:48:19Z",
+   "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f4373f91e2f65236",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals (NASDAQ:LBRX) Downgraded by Wall Street Zen to Strong Sell - MarketBeat",
+   "summary": "LB Pharmaceuticals (NASDAQ:LBRX) Downgraded by Wall Street Zen to Strong Sell MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWXF5SURxS084R1N4bmVMQksySks5UHRwQTV0cnVzQVRERmY0YlRWVVVsSGQ3Tm55akxQY3ZxRVFiU0ZkXzBTOVlVUkE3eVJodHJWWEJPS0NkaUZxNEVmQURhb25McS1ZZ05SdlZCVmFoOFg2OEZYVTA5THpuY0FUVG5PQnRabW9wbmJBYm9yN3BwbVNINWppX3NlQWVPRHM0ZTJDcm9pQ2phQlpnWEszOUxzT3ByWTRORUFQVW5Fc0JDYkQwdWxDend2dlJERVZOSmEw?oc=5",
+   "published": "2026-11-08T08:00:00Z",
+   "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1b475964ea282c5c",
    "company": "Protagenic Therapeutics",
    "title": "Protagenic Therapeutics takes $250K bridge note at 1% interest - Dealroom",
@@ -5962,6 +6138,17 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16THVqS2lCb01Xb2U0MGYxR19CMDhYb1k1RDdBZjR6YjNlRW1Qc3NZYnFiWmtQSDNILW5EN05jTFN5aHlqOGx2RE5lTUFUQ0NZQlNQdEE1blZJU2RqVzZMZEdqYng?oc=5",
    "published": "2026-11-06T15:06:11Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c6904f836bbf5b74",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates - Investing News Network",
+   "summary": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates Investing News Network",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21COFF3cVExczNCVHVMOWdZV0Y5RFZNZDZKZ0VLenUzdGJ6QV90dFVvSTV5a0NUeFVxa2xKeWV2cHcyTUJ5VVNTUlAwVXdqOXlIY1NBN0NsQzYzNG1kdmRDblFGM3BDZXgyeF9QSWVUbFh3MDF1bWdpYWJjUlFQZEIxM29ETmhiS2ktTlF5MlpXdWZWMXFfQ2JjNk44X3lDSFd6RVdNWUplTXJaNC1ZQzNnWkNNQQ?oc=5",
+   "published": "2026-11-06T14:50:39Z",
+   "outlet": "Investing News Network",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6138,6 +6325,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUY4MHFkbXREZFgwWk0xaDMxZzduWERHMms2dWRMZXExQnM0UEdqQXE1ZzJvSzI0M2hxcTFaZVNPdG8zbE8zYWY2UTU0MlVwTXFfVnhfU3RLMW02TnFoa25Mb3dTRl91NTJkOEpwTkVyeEpIdnl5VU5zanVyVzh4SFFDQ3lIdWF2dEk4U0ZNamk2Z29nMjFrZ1BJWl9PcllSaTA0ZV9LeG9yV1E?oc=5",
    "published": "2026-11-06T08:00:00Z",
    "outlet": "BioBuzz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "da4ea69dde86e74f",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals (NASDAQ:LBRX) Shares Break Above 50-Day Moving Average After Earnings Miss - MarketBeat",
+   "summary": "LB Pharmaceuticals (NASDAQ:LBRX) Shares Break Above 50-Day Moving Average After Earnings Miss MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdnZVLTVOaXZtWlllb0JSVnFCY3hRTHVhMC1vVDR0WTdvZzVkdDZkU1p0STRyc3pKRENLY0lDNldxS3JEQi12SU50TUlpSG55RXpVeXBISEZiWDhLMzdubmFZRmYzVmg4eDBHVnhnaF9pUkljOXJCb1lvc09YU2NiZWZwMDNwMktIZjd1RUxrM0F1SWk3MVlVckxOc0w1UHZzT2VnY0RCZTVVQjdJRnJwY05QX1hpOUthOGNYcG1LX2lHREhMd0ViTXphNEx3SGo1c2R4WUJOWTVyRHRJSE4tTjZncnN4dw?oc=5",
+   "published": "2026-11-06T08:00:00Z",
+   "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6329,6 +6527,17 @@
    "first_seen": null
   },
   {
+   "id": "267685870e0f1f4b",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Inc reports results for the quarter ended September 30 - Earnings Summary - TradingView",
+   "summary": "LB Pharmaceuticals Inc reports results for the quarter ended September 30 - Earnings Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY3lNNkU4VFdEeUlaSHByUkFaTXRCZWt4REp6RVhXME5JeDcwdnhCWURuUGt0ZExDaDBQZGxaQUczTVlfNHhaY3QyeUFwYXFBNk9MVzV3T01ZRjlRMXpTMUs5QU9jRjVkSmFDUFBLQlZudFZQR3F2WXlPMnduOWlHaGI4bG9zaENnd3Q4M1J0Q0otQkwyOEFyNVdqTVhXNXpZWmFjSmhvNENCc0hrUFhKamhTTExQNlJCUGVGMWg3SF9uLWgxbGZ1MTBiX3ZodVVBS25OYXdpcmRKRG9IU0cxbmFmNEFwUHB2Mzg4YnlSZHpXZw?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d0792618de97c372",
    "company": "AC Immune",
    "title": "How Did AC Immune(NASDAQ:ACIU) Progress Its Parkinson's Disease Pipeline in Q3 2026? - Kalkine",
@@ -6347,6 +6556,17 @@
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLTl1VWdiSGk0eF9iQmttVk9ZTGRlQzJERTVzOHAxRHFVeld1T1FVcllkMFRLdGdQLXFOaW9UQzlpSGpPV1BjUUFOMmo5VXY5MllXb0xwOU1uTzRfX1JSQ0pnb3dMenBINmpjTTM4TUpZbFhsdzBXMlhNTW0zQ0E4Rm56OWc0cF9FaE1OM19GS0Jqcks5QXh4X0NnTUgtWUhkQWMwY2VFdkVfejlUNl9qck8ycE9OQTVodS02VHphZGZodUtHMVVGT1gwRTdGdHRyVV9SdnByM0JiUGFqeGtsRW5CQUpKem5RQVE?oc=5",
    "published": "2026-11-05T01:18:21Z",
    "outlet": "Sleep Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8cf29aceb1b4aae8",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals earnings loom with clinical trial progress in focus By Investing.com - Investing.com India",
+   "summary": "LB Pharmaceuticals earnings loom with clinical trial progress in focus By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1kxaWRPUjlsZnI2SXNlYnV4MEw5SlNwTHBCRGs3Vk1ZVGs3dmlCckNrcy1YTUFWbzBfcTNHYzEtbGd2cmlfQ2ZZZGI1QkwyS0N2MUtidVQyX1JfbzZab2plejV6QjV5VkpsSldfdndYNFE0eDNEOUliNTQtbEszTVdnVzhoY2ZRbzBJa0M4akZNd1BZZEpYTEt4UkZpRGVUYWRSN2tHdkU4TVF4c0I5VkJYeWdVWFZSRlpwQ19ONXM5bUlnWHhqaXhicw?oc=5",
+   "published": "2026-11-04T18:35:04Z",
+   "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6644,6 +6864,17 @@
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU2pWQzZHdGpPNFo4S1JmWU5Jby1obUxIc1NlRHBtODNWR0duV3ozLUoxdy01dTZMbWtZa0lmbC1MdVRnM2NEUHhPRUpWSUYtd2dOWC1PR2VmR0I4SW92RFJRbW1wWGV3RHd2Uk94U3BLaDVNRmlnRWNaQ3dGMmpEVmUtOUJ2b3gySkxzR0hOeVV2ZFBUdmllT2xyZmRkYUV5NXRLcnV3VTlHel85a1ZSRFVhQjN4ZUZmRzBRalVLbFgxTjV6NURPMTllLTI1d25CeHdYYV9VMk5hd0N5WlE?oc=5",
    "published": "2026-11-04T08:00:00Z",
    "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "67159a5942ec12e3",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals earnings loom with clinical trial progress in focus By Investing.com - Investing.com South Africa",
+   "summary": "LB Pharmaceuticals earnings loom with clinical trial progress in focus By Investing.com Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMXJ2dFV0SGxFSHlseGlYZWpkQnhaYklsYjRZMWhMM19FTlNxVjBHQ3lWZklvd3ZNV093RGY1QTNhRkJIWHA2SkRzNXRLejZmdDcxMnlpMkR2TktGQnhiR195R0swalluT0xJeGlFa0VHdDlzaG5hbGZxTHNCX2c2dURBNi1wdGNzczBra05zY0o5ODJPYk9ONFNUc3QwNm9yRXRWbktFVTBsbkdyYmllR3pETDBBT0FWdVowNUtmSXZhYVBrZGpjNVI1TQ?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Investing.com South Africa",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7066,6 +7297,17 @@
    "first_seen": null
   },
   {
+   "id": "b83f2f9e484a5cbf",
+   "company": "Newron Pharmaceuticals",
+   "title": "FDA Psychiatry Digest: October 2026 - Medscape",
+   "summary": "FDA Psychiatry Digest: October 2026 Medscape",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObHlvYm1fcjNtZmFXbjFSUG1tMklnbjZfeDMyeVM3d2E2VXVCU1RjQURBOHI0VGIzUVNVOFJHWi16d1R1ZHdSYnQ5U2xVTDk3QjkwejNkTFM0MTcwTk5POGtaWHdMSUw4ZEFSaGpjZ0RjYnRUSTZubUg1SlJkV3lQUDJ0bHNOSjhoeC1HXw?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Medscape",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dd359d86190e407a",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals Legacy SEC Filings - Supernus Pharmaceuticals",
@@ -7458,6 +7700,17 @@
    "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQc01KcEtyUmlaLUgyU2x6bkZUY2xkdnRTdjgwQ0FnOVNMSDZacVE0c0E4Y2ktcUhldk0zLXlVczRaTDlqWUlCcXRES1NybjMtNXBSTXNneEUtdVk0LXhRMkZVNGVJMXZPRVppYkpJdWNkNEEzZExkeGtQb1d6SW5lQkRjOGFiQmV2d3c3V3VoTGRDSTB6NVlsQ3hJRWRyMzNLYXc5cDRSa2gwOGR2OFdObkFUNDM1MmFRTHpVQlozRWN6RHNORmN2dW8zcjk0eWZOWU5DRlNSajRTU0JkTmdfUzB2SmJzbVVwT2tjQ3Roa1REWmJKOWZhX2FlR3RkY0NoNThfczJfaTdkRlJwNzJybWx6X0h5emN0TnhFb3ZaYlJJSlZKOUtQVndLZGVldmltVGUwR2hScXNXVVpvdF9n?oc=5",
    "published": "2026-11-01T13:46:30Z",
    "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "10dbec0e7fbbe1ef",
+   "company": "Cerevance",
+   "title": "The Kiwi partnership financing Parkinson’s breakthrough - BusinessDesk",
+   "summary": "The Kiwi partnership financing Parkinson’s breakthrough BusinessDesk",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbG4xYmQ2MnlORjFJaVRScTIzbmhORk9ZNExLa2VCLTlIbVBrRVF6ZExjZlpzSnFyQzVVZTZBNG8yN243RkVBMm1kTk1LN0N1cnE5VmlFT0E4ZHY1c2tZWFU5SFNmNHJfZ3FmTHpxR1ZBR1BCT1J5MDNxQ2Z3Z2lTVlZoYlc3REpwQ25IVFR5ekVjQWxmaEtvamtaMk9HYzFYdXJWdFFKM09WVFlveGRMOU0ydnRUTWlOTkE?oc=5",
+   "published": "2026-11-01T07:00:00Z",
+   "outlet": "BusinessDesk",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7979,6 +8232,17 @@
    "first_seen": null
   },
   {
+   "id": "eb834138d4cf8218",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals to Participate in November Investor Conferences - The Manila Times",
+   "summary": "Newron Pharmaceuticals to Participate in November Investor Conferences The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeWVuZno5bWp0SExJY0NjdVl3a2hkZEFhU3pZbFJldVJ3WWpqYmh1ejR1SzZwSFBNS0d6WlhManE1X0ExMDhPVC1YUVdJWVNUSVpTUXBXR3RLdFdWQjRUYm9zSVYtVm5nVVBiSFJsMzVvOEdwTHFwbkF4U1N3M2tFY2RWY2RuSDVRak90LThDZ1Zyd3E2VWdSVUR3R1lzQ0ZUUVlwa01vOU5CbUFWc2owdFJnTGJfalVEVkJhM2pRYXNyVjk5RTVuRi1hQUptX2lJd2VndkNFMzV0MVFR0gHiAUFVX3lxTE94em9lcWFUMkE2dFRFRC11dk9Ba1pPNWhRLWp1TUpYa0ptZ1J2dFBfdFZRSDdNMWZ2aXdRMXFQUTBzVkEtQ3doTWNEOFdRWi1WQzFzUl9JMW1sNmQ0TnZ6bnczeVlydUxxUFhUc09rVmRJMmdmNlZMZ0FYNlJoRmUzTlJBakVHTkh2dkNDNGZwMEpqaTNnTGZKSEVDNjg5T1FUU0VjZV9BcnVLNTQyU3NyTzI4UXBGNHlZQkZEMVNNWUJOUjJwdkE0TmN1SzZvVjRtQi1DOFlxVWpWYVpfR1E2Mmc?oc=5",
+   "published": "2026-10-28T12:13:24Z",
+   "outlet": "The Manila Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "226aa6fc7b4e0add",
    "company": "Compass Pathways",
    "title": "Compass Pathways to Highlight Scientific Research and TRD Disease State Education Efforts at the 2026 Neuroscience Education Institute Fall Congress",
@@ -8261,6 +8525,28 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2dTUldSREdya01ZekQ3bUs0VE8zWUFWYlFCVEFsbEpGOHpXVWNmbFJwRnFNMEVxTndHdWVpa2JzUFZhR01MX2tVLUpydWNmVUZBd3NZM0tqS0RvRW1jdXcxSV90QlAwd2VHYWR2M0JKWkc5X1NPU3FSdWRWVWhoTmJOX1ozamF0S19rSkJLOUZUZmtucDMyOHB1TVZ3WUtLTG5tOFpvalNJbE9QOTltRWF5Qk8?oc=5",
    "published": "2026-10-28T07:00:00Z",
    "outlet": "TIKR.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "de0216805ebdc702",
+   "company": "LB Pharmaceuticals",
+   "title": "Guggenheim names LB Pharmaceuticals a top idea ahead of pivotal trial data - Investing.com",
+   "summary": "Guggenheim names LB Pharmaceuticals a top idea ahead of pivotal trial data Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN1g5czdUank1eU1mVFNCR2NiWWpTeV9QdzRENERqY2FBNEpkQzdzUGw5cm93UFA2YUdUSFZrOHN1bHRib2JvOG50WWRrMnZVM2wteWZUSTN1NGlNNlhZdFlZMEJWQWpsSEVmdXhWYWFKTGFkcjJOeFBJZUxFRGlWQVNHM3pyWE1WeUhjSnMzT3hsNnRQRGdQY0lTbjYtUEo2OW1sdkJ0VTBCLWtUd2xTSG05SUhiZzNmemhtQ3pwSUVlS0hoRDJQSUZWaw?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4bc7fedb26d53b55",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals to Participate in November Investor Conferences - Yahoo Finance",
+   "summary": "Newron Pharmaceuticals to Participate in November Investor Conferences Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHZPd25fSFFmam5QaEZRTmE3S2V4UUZmcWNzazRaV19LN3JkaU1SdWFweXVjNWtzUmE1SXp1RlNsTzZqaVRObUJmS2IyZThIR09TX2R2SnRWb1BHblZKREVMN1ROTzRKblhFV2U3eEV0UWEyNzBzNzhwQW1kSm1tNnk5R2JfWGhDbnlwQks1NGFKQ0JLTjNGYTAwS2ZjWEJCZUxrN2lnWkVGUWpwWnRXaUpSdw?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8991,6 +9277,17 @@
    "first_seen": null
   },
   {
+   "id": "0dc7257378ba3cc3",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Completes Enrollment of Pivotal Phase 3 ENIGMA-TRS 1 Study - Yahoo Finance",
+   "summary": "Newron Completes Enrollment of Pivotal Phase 3 ENIGMA-TRS 1 Study Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTB0R29NWkpMOXFNbGhaUjNJMmtyVjlRSzdrZHg2QW9IVW15cDVhRDRILU5kX0w5Wm9Xd0dPZTdTbG5FamlqWThyU2ZVZkpSbEJ0Ul9YaC02bERlV0ZEY3Q4V1VmemRna25qY0FjRkJLRmJnWURNVVc3a1hUdU5JUUZ5c25CMlh1YjZnTEp6aDIweC1XOXR5VUdKRV85MllOOXF4TA?oc=5",
+   "published": "2026-10-22T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fc81163acd32289e",
    "company": "Neumora Therapeutics",
    "title": "0001193125-26-161489 - Neumora",
@@ -9032,6 +9329,17 @@
    "published": "2026-10-21T12:40:00Z",
    "outlet": "Insightec",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "6a87647b43d5ec7c",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Inc (LBRX) Reiterated at Buy by Stifel Post CEO, CFO Chat - StreetInsider",
+   "summary": "LB Pharmaceuticals Inc (LBRX) Reiterated at Buy by Stifel Post CEO, CFO Chat StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDJQMzZFMm9YT052eWhwU2NoY29RS3pwVHZnUi1sUWE0VHowSno5MWZ1dVc1OTdjSm9CSXUzNmE5S2ZwTjU5OWt3ZWw5ZGlGcGxqclhvSFd5RFdLQk5CcFlyUUZoMGh3M1FzYTdoWW03cjZaeXJMcWdrQm9rYmtsSFFJNjdURy1nOWhNWHFJeWJVbF9GRlhUeHlCaDBFbzBTeHZMdjZfeUR1TjJTellNaldCS01MWDdsZ2xCem1sTWFYNE55cTdvVWZLa3VjZVM5NEhWbG40cjU4cXc?oc=5",
+   "published": "2026-10-21T12:27:37Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -9097,6 +9405,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHZHTnhTUEZCN2ZqeFpoUzRzbnFmNTdBYlMzLVUxclZJMXpsZThKenE4a0dSRkFPOHJVek1DaVdPU3Z0dHk5bUVhY1VFdUtmYzR1bDk2YWFWYUN2R21Nb2l3MGJlZml6NGhnNnZjMXFkM1dQY1RoTkVXSzh5YVhVOGx6Vi1QVlpteHRTYjdEa2s2S3ptbkxtZGxsREhOTENXb2pzT2VibWhmOUJtdlZ3dkx2eTBTTDJ0QmVkRUhNMmtEalU?oc=5",
    "published": "2026-10-21T07:00:00Z",
    "outlet": "TG Therapeutics",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "cc0cb9745e327c3c",
+   "company": "LB Pharmaceuticals",
+   "title": "Stifel reiterates Buy rating on LB Pharmaceuticals stock at $53 - Investing.com",
+   "summary": "Stifel reiterates Buy rating on LB Pharmaceuticals stock at $53 Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSDZjNUc2WnV0b1QtN3BYaXRod2hCRUd6UHVjb00zdnFrcktmRmJLc0ZmN1BiQU5YZXU0X2p2ejhuLVdjRXA4Uk1ERnFuN3M0UENFZVZMRWlvNkxza3RvSGRYZXdoOEY3WmpiZlk3V3F1S3YwMXNUNHNZN215OGttSERfbmhYZmVvbVVjWjJZMjQ1NlpPbVNid211ejVWMXVUOVRsc2ZtSGdzSlJzQnRGTExyVGk5VTV2MXBrR2NsMA?oc=5",
+   "published": "2026-10-21T07:00:00Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9849,6 +10168,17 @@
    "first_seen": null
   },
   {
+   "id": "d71406c44170a563",
+   "company": "Newron Pharmaceuticals",
+   "title": "Three of Four Deaths Were Called Unrelated. The FDA Still Saw a Signal - The Clinical Trial Vanguard",
+   "summary": "Three of Four Deaths Were Called Unrelated. The FDA Still Saw a Signal The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0tHWlRIaUZoT3dRTkRPdnF1eEpzVVpacGduMFVkeGE5ZGlxVDh1RXNTa2duM2lxd1QwZWZ0MmJ5NG0zeWpwdWE4ZDJrQTRVc05JS0FPTV8wRGZSaVcxRDdoUlNRWUQ5WXItaHlvT1JpSnBIU2h1My1kc1MwbEd2bWx3SnFYTkkxY0VjUTlJS2tyX3BGTnRDLWVzRloyMVNtSEhkRVhIcHhUMEhiYTY2NzBzTzlMdU5pdjN3TVpuUFdHaWM?oc=5",
+   "published": "2026-10-13T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d78e2ce2e59de681",
    "company": "Tortugas Neuroscience",
    "title": "Tortugas’ schizophrenia drug proves worth in phase 2 Hansoh trial in China - Fierce Biotech",
@@ -9977,6 +10307,28 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1Q0eUVQMmpPNmVTMFpPUk1OYk1aSUdXNXFZUkdMOGJRTEFwdnB3THZid1RZaFloOFdxbDJ6bHU5WFFJQUZTeV9jY2ZMTDFsZTN0RlVyODJfeWtxekg2dUFfa3dDYW9QOVFtVlBhWXYxczNqVFhmR3lqMk5uOUtPSE1vN3BGTlhCZXpOMFRLdWFscG9CM3lB?oc=5",
    "published": "2026-10-11T07:00:00Z",
    "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b0e87b64fcd6b022",
+   "company": "Newron Pharmaceuticals",
+   "title": "Four Deaths in Evenamide Trials Prompt FDA Concern Over a Possible Fatal Heart Rhythm Signal in Schizophrenia Drug - Medical Daily",
+   "summary": "Four Deaths in Evenamide Trials Prompt FDA Concern Over a Possible Fatal Heart Rhythm Signal in Schizophrenia Drug Medical Daily",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWlBVHlZQVZEc2NidTZyMFVld3ZGRk9yeC1mT0podDBUZWl0a3NUWkk2eTg4NGtzbEFJS3d6bzJqbTZ3OFUzWGRKQ2J2Sm9NS0VCTEViOGpTai1icS10UG9aazAxbFYxZHcxUmRXd21qZU14SzZQT2JQTVlyZVlJVi1VMVpzb0dBSURB?oc=5",
+   "published": "2026-10-11T07:00:00Z",
+   "outlet": "Medical Daily",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "acb2e5d866d89ec0",
+   "company": "Newron Pharmaceuticals",
+   "title": "USFDA Flags 4 Deaths in Newron's Experimental Schizophrenia Drug Trials - Medical Dialogues",
+   "summary": "USFDA Flags 4 Deaths in Newron's Experimental Schizophrenia Drug Trials Medical Dialogues",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFhyUDdQdzN6ZTJ0d09xTnd4OS1iQWFkYnlha3VlazdScVdrSDRzOW1GNjhSNlpVeUh2cU5vdG1yTFM2djk3WnljUjE2ZHp1cThvdWRLeHdkWXpNemZuSkZ4d1dCdGtKaUNGU1VUWkkzVEpOUURPOWFBNWxrNnB1ajRVUlNWdktqdXYydXhSc0pGd1ZpcHhrQWN2VllRQnp2cUNlRHlBNU5FM1JIRE5uUDVuTndwMjZ2akRSTnYtSDRmNlV10gHKAUFVX3lxTE1sV3lBOW8wWmtYNjhhYV9BblVDeEtSNGdFaFBRLTBKcmpiLWlLdHRFTUNuc09LMF9XdDc2SGJWdThiODVsZU9BcnRmY1BMYTZMQ09rYlVqTzR2MGVDSjJITUxGenZmbXRzOEw5Y21sVHRtN3V3LXF4UGZhbnZRdGRtWjhnTUsxVkhvUDBLV0d3eWllSl9pWlNkM3F0dUhXSEVwSzJEV05IRjZmd2NTZGUxSXU5LUV2U1U5S1hWXy1KdUpQdm1iMEhHMWc?oc=5",
+   "published": "2026-10-11T07:00:00Z",
+   "outlet": "Medical Dialogues",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10289,6 +10641,17 @@
    "first_seen": null
   },
   {
+   "id": "9f235266a074072b",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Reports Inducement Grants to New Employee Under Nasdaq Listing Rule 5635(c)(4) - Yahoo Finance",
+   "summary": "LB Pharmaceuticals Reports Inducement Grants to New Employee Under Nasdaq Listing Rule 5635(c)(4) Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVC1OcjRGV2tnUzF3RF95SGVhUW9zYzVlR3lFczB6QkhCRG9aSHBrM2gzMFlfeUd6MGRpOTlxdG56d1YtbjNKeWtvajdEbTV1MG95cXpqZkN3UXY4a0xKMnFaa3UtRXRsUXpxMEdMeTNHczRFa0FuT0ZvaGZtLW9qS01LRDFGR2VnT3FDLXpWRVVsalRWbDYyd20xVTFTaExaZFNBcEhpMW8?oc=5",
+   "published": "2026-10-09T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b1424414297aacd2",
    "company": "NRG Therapeutics",
    "title": "Annual NEALS Meeting 2026",
@@ -10439,6 +10802,72 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlNRQlRtckZsRmdFWnptbVYwREhDYk9kMFBtVmRPX19tbU5lenAxWnNCUk5XUVhQOFUtR3g0MVUxYXRXNzdkVUtWSFJ6ZDgySmx0WXhxVG90QUIwR0M5TWMzT0FTSlBqdTJsYVhzTWRRYkJWbXZBalJpUzdqVG9kN2pERktxN3FEZ1o5bzk1VGtRR0IzdWRUOVREclk1SDdjMlM4MEUtMlNqbHVUMjFITk9n?oc=5",
    "published": "2026-10-08T07:00:00Z",
    "outlet": "Pluang",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ba348b95cb30f356",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron reveals 5 deaths in late-stage schizophrenia program as FDA maintains hold - BioSpace",
+   "summary": "Newron reveals 5 deaths in late-stage schizophrenia program as FDA maintains hold BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSXUta3pqSnE3Z1U5dU40Y3N3XzVxMzJUOW14V0NRekxhU2dfWnpIOXlFcFdJRVpmR0FOa0lPRlhWMXFrVlNtM2E4ZGxBaFRPVlFrM0JKNjVMMEdLel92bU5SSmxkZ2hCT0FscE0zV2ktWjg3emNwOTZoMVZhNi1Wa2s1RURsVFJKM1ZpRmpibjFsSXFGYXV4ZHVRTllraDFYWVFEQUpETFNqOFBpWDlVMll0Z09UZTBMbUZSY0YwUVI?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4853dca24f58f21e",
+   "company": "Newron Pharmaceuticals",
+   "title": "Four Deaths Prompt FDA Safety Concerns About Novel Schizophrenia Drug - MedPage Today",
+   "summary": "Four Deaths Prompt FDA Safety Concerns About Novel Schizophrenia Drug MedPage Today",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KSmZtV1VhY3RLN0lyY0ltV2xXX0lmTWRXMmRJaWRqTkNtT2JGLUZuZDRHdXE1ZHltUXJEelpKRUZRTjRrX2xvUUUxc2hGTy0wTjVBY3ZGakRwLVRyOTNYZndCM1FYbDNVQ3lVbg?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "MedPage Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4ae4a8183c7d09f5",
+   "company": "Newron Pharmaceuticals",
+   "title": "US FDA cites 4 deaths in Newron's schizophrenia drug trial hold - Yahoo",
+   "summary": "US FDA cites 4 deaths in Newron's schizophrenia drug trial hold Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWcwZF9GenJEbGhFdGlLYm1vOFFQdXNzLVBwc1d2VTdtUWMzdWhwZ1BQb0JHOXl0Mjd5akRuNDFKbVE5ZzNSbzBTREtmV1QxenY4UmY0cU1rd051Qmg1c2twRTJFYzNBYUEwYzRpUnJYd3V1MmNjMXNkNC1ZMmoxWUptSkR1WG8?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "Yahoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "00187b74702ac5a8",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron details FDA safety concerns behind evenamide hold, says Phase III continues - The Pharma Letter",
+   "summary": "Newron details FDA safety concerns behind evenamide hold, says Phase III continues The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMThVTFdGeXh0OUlocmJZUkZKMWJicHRBaFJGM1RIcFVqdVFTa2pnbmlSVWxDUGFjZzlWZk9zVTBycmt0SWtvRUFSczR3LXZINXNiTkpZQXRDdi1LZ1F6ZFhMTV9yRTdYQUMzaVdXVlNMMURORC1UeHFQV2NWZ1pWTlRfREdaWWJScXJqNnUzS0E0MHA3UDBwYmlzRkFicTBETXh4YXVIYVBqQTlkQWcxWmh2WWtxcnRKYnAwT3BIRE43a1E?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d0c5b15bad494bd5",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Provides Update on FDA Clinical Hold and Phase 3 ENIGMA-TRS Development Program - GlobeNewswire",
+   "summary": "Newron Provides Update on FDA Clinical Hold and Phase 3 ENIGMA-TRS Development Program GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNFM5bVdKeDJ3cnZ6eGFQZk11MndTRlBObWV0blo1dDR2UmhVcnBaZWhuTG1IaU1TRGlJZkZZMmVJQm5SS2Uwb0w4MllTc0NuLUJBd28xejViei1tRnpLcGpMUjMzWDJVdlpYR3h5VFpPbHBleld3STJPekl4OUVmM1djTWRSS1N6Z1NrbUQ0LTJfSFo0MGtpMmYtclN1VmdPOXh4NUx3T01RTXNJOFlyUklxdDg0aDhxV0h5RUNnblFhc01BTHZ2d3pzeEZ6b0hCcGx5a1JJTE5RaUF4YjBSbmc0TkgtSC12N3lmQXRLWQ?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4517291b33787a9d",
+   "company": "Newron Pharmaceuticals",
+   "title": "US FDA cites 4 deaths in Newron's schizophrenia drug trial hold - TradingView",
+   "summary": "US FDA cites 4 deaths in Newron's schizophrenia drug trial hold TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZXJwOUtSUGlSQmpSX3dtUzZncHlfdGx1c3Z1aEVPZy1SRnBGV0ZFTnZRaWdHR19pbjFLR3hqVWc2RXBUQktLVlU3d2MwM1FJM1JjbE9keWVqT1RFazdlU19yUHVDbDFhLThtUnRiQjNPTWVwUTFiRTJSRllRTE1ON0JQSWZVaDVuRjNFZEJod0IxbG1zcExKYmRhdlc0bW45aGJid0xtbWg3VkgySGdCdThFX3ZtUWZhOEFhZnpNXzJ1LU1idUlMa1dYUGttdw?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10641,6 +11070,17 @@
    "first_seen": null
   },
   {
+   "id": "fe63bbbefbac3e3e",
+   "company": "Cerevance",
+   "title": "New Parkinson’s pill raises hopes of major breakthrough – what we know - The Independent",
+   "summary": "New Parkinson’s pill raises hopes of major breakthrough – what we know The Independent",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNk5BMkxiNFdLU3loTTBHU1J5cnFBR2V5RkZkeEpSMGcxTzlGMWZoYnlzdmJjUVFqLVpWZnozNjFEbXd0TWNRRU9jT3hDNkVhMEhqUlBMQXYyNGhMcnFkRW5iTWUxcE5fd1dRZldnQmJiaGhHWVdQRFJ5ZmNkd2RvbkpoZzQ2WTJpWnZqeGt0dGlITDgtY3MtNGZ1Zm1BbXlMSHV4SVV6RVhJX0U?oc=5",
+   "published": "2026-10-07T07:00:00Z",
+   "outlet": "The Independent",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "0bca950b36ee40cf",
    "company": "Novartis",
    "title": "Medical Science Liaison – Neuroscience - Novartis",
@@ -10839,6 +11279,17 @@
    "first_seen": null
   },
   {
+   "id": "fa016229ff692d07",
+   "company": "Boehringer Ingelheim",
+   "title": "Meet Motivista: Click Therapeutics debuts first-of-its-kind schizophrenia digital therapeutic - Fierce Biotech",
+   "summary": "Meet Motivista: Click Therapeutics debuts first-of-its-kind schizophrenia digital therapeutic Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX1BYa2ZteENybXAxdm9iLUlWMjFKdGMxaHJvMWVIR0Y0aGlnR0lLQ09EVEQ5SXprN09iZzZvVXhLcmxEZUZtVkRjZVRHN3BlcmllY3U4TlJqdldKYzMyVk5aODFFSHRlVS1ycUFkckgybmpFdS1fa29CSTFmMFJQcTVJdVlpY1cwT0V3aXVscmU2QzBzd2pzeVI5NEdjeW5iLWtERHY5ZHllS1RydFFGYXZ1VzFXSi15V1ZBOA?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "60ac05e9ee393c77",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (Nasdaq:HELP) - Stock Analysis - Simply Wall St",
@@ -10890,6 +11341,17 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWXpHOVdxNDN0TTdpZjh1NmFSdGtfWjZ0RXJhWVhpSVJjYkFuT2V4Y1UzbHUtd1RCZ05ZenY5OEpGWnNoWWRRekRqNTBhdDByck5heVFaQUJFSHNvRmV2TEdnalp3WGhEQ1F1T01nVVpaWGFWZmtWeDR5VnZ5MG9iLU9kdzl0UXhCakFodWJQZlQ2YVVNVWQxb0wxX2lVUU5Mb0V3Y09fVzN4WVVYaWhsU0JMNS01ejVtXzJfeHJBYWtUT2pvRTlv?oc=5",
    "published": "2026-10-02T07:00:00Z",
    "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a3306a8648253b78",
+   "company": "LB Pharmaceuticals",
+   "title": "Needham initiates coverage of LB Pharmaceuticals with Buy rating, $68 price target - TradingView",
+   "summary": "Needham initiates coverage of LB Pharmaceuticals with Buy rating, $68 price target TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWk05MXRjNXRNOHJoc29UM2R5TnBfckd3SXFheFNwRG1FSmg3V1ZoNVczcjVlV2lWSGtzWmhHUVEwdVNHbUxhY3ZJR1ZlUWpIeXctaGFPdHY4a2NmVldEMU9hRjJOUmpTQUgtOW1wSUFEdERCakVlTTlfRTNCTm95N205OFBTRXgyMWRlSUpKSkxpVUtqdjJFbEpoRGNXOFNqX012RFg2R09IYTFnbmxGNk56YlFIbDNCQ2poWTVCQTVsY0NWcGFDUWFEdUZrZXZOMzFWbW43T28wQQ?oc=5",
+   "published": "2026-10-02T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11136,6 +11598,17 @@
    "first_seen": null
   },
   {
+   "id": "441787e0931dd3cb",
+   "company": "Newron Pharmaceuticals",
+   "title": "Adult Schizophrenia: Managing Poor Treatment Adherence - Medscape",
+   "summary": "Adult Schizophrenia: Managing Poor Treatment Adherence Medscape",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFV6Qi1RUldPaXlDZjVYM2cwX09iaGVLYUVQeVpHdXFiYWJZWjBadmtXS2JuV2tvMnl0ekFGMS1IaGMydnJxZWhJWHk3REMtZ0hYdUozTmZuRmJDcjRoSmRfQ2NkQmdnLU15QlBKamcwRXBpeU44c3VHeHl1eXRPTFVpRFJHeU5mWW1hb2VzTUFaQ2hFRzQ1S3MxRlpxWjV1d1JnOFdR?oc=5",
+   "published": "2026-09-30T07:00:00Z",
+   "outlet": "Medscape",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b7301a3802afac20",
    "company": "Sensorium Therapeutics",
    "title": "Two Investigational Paths in GAD: Company-Reported Results on DT120 ODT and SNTX-2643 - Psychiatrist.com",
@@ -11356,6 +11829,17 @@
    "first_seen": null
   },
   {
+   "id": "6403d43ea07a6a02",
+   "company": "Newron Pharmaceuticals",
+   "title": "FDA keeps Newron’s ENIGMA-TRS 2 study on clinical hold - AllSci",
+   "summary": "FDA keeps Newron’s ENIGMA-TRS 2 study on clinical hold AllSci",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWhkMFBJci13b0V2QnNNNWp4VzZVYzhXMndxVUx4UHc5eFFRMnpiZkRCMUhveFdoODVkWm9tdTU3U0xydFpHZkRMalZxVTdaQ05CZlV4T3U1VmxqS3ZVZVhySmZNWU5RanFscEoyb2tzcF9yNUpkYkNGc0szYnpMTEZiRHg?oc=5",
+   "published": "2026-09-28T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bdb4d8bc96e0b193",
    "company": "Roche",
    "title": "Parkinson drug race accelerates as LeCun, SK Biopharm, Roche advance - Chosunbiz",
@@ -11539,6 +12023,28 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajVMdkliY0pIMExxdHA5QXhSUDZ2cVEtYWRHSWdQV1RPR2hMU180QU9rOWRHanB5aTBqSmFUYjNjaTZ4dllFWWEydnlybHAxcXh6ZVRZNTZweDJlNkNMMFZCU015bnNPVVUtU3BSOVVnT0Y3dDBWUUdaMkQtU28tel9sSDk5NWZ4amZNby1jOUt5TDdtWFl4dGN4SQ?oc=5",
    "published": "2026-09-25T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "90f8138637dae411",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron updates on Phase 3 ENIGMA-TRS 2 schizophrenia trial: US FDA hold persists, global enrolment expands - Dealroom",
+   "summary": "Newron updates on Phase 3 ENIGMA-TRS 2 schizophrenia trial: US FDA hold persists, global enrolment expands Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWHRIUlhLSWJfOFRJVnlQQnllNUxZYUdTanJTSUVJLWNNWlhoZHQzbjlCbUMwTFR1M2lwYmdUSWdVQkFOUzFQTDZXNkF5d0lRQy1VVW54ajIyN1NVYW04Rm9hay0yWVlEbmVpSzhnSjVSQXRxSkktbVFQM0QyRVNybjdfSTQzOWRNRUVfdTFqdlZ1VHJ2YWpRbzZZbExsRDdGRXZVUGpHRm8zZm94ZU1VWmVWd1NNZDFCOW1mcUZyOWdWNG1iaXhHSkVMdWFDbWNkbm9nZQ?oc=5",
+   "published": "2026-09-25T07:00:00Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e1c9029557f9d907",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Provides Update on Phase 3 ENIGMA-TRS 2 Study - The Manila Times",
+   "summary": "Newron Provides Update on Phase 3 ENIGMA-TRS 2 Study The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQel9KMU5HM2RzcXZtOVdYZV9tcHVTWEFPUWNCWlQ4VUFpY3FZRHJyd2FjbzBqYkFtNmlLZzFMUXZFSkR3SEtPeWdNcy1BemhkcUswdE9nQlRiSnlNQ3pINGpPWlZIVmVDckhudThKcm5HZ3R1cTNGLTNsN281dHN4QnFPcGtBQVVkelRvazVjZHUzdnprU2tmYVkzekhfZVViTEh1RXFJS0lCT2JlNGtKMDEwZmx1bHkxZG1iOGJVVkdQamow0gHKAUFVX3lxTE5KRUdqbGU1LTRCRWtycFZPWGhEeWFVR0lNMFh3RWJsU1MwRnlQT0dLWl9vSkJhTEk0UnFHSFBTY0wyQ01uZHdBRzlTdDFOZkZtamZfUkJLR2g2QUNLWGZ6VUd3c281Qlp4S3B5SDF4Xzg1Yk40LThFQkFtUGRFZHpORno1TXdvSkx0UEFVQjlDVWlCTm5YbENOZ2RnOW5SZTZIRTY0VTVUQVFLNFlHWC1RQUVFeFhaLUJFSnloenE3OGg0N0FtR0YyQWc?oc=5",
+   "published": "2026-09-25T07:00:00Z",
+   "outlet": "The Manila Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12012,6 +12518,50 @@
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRVNvZWxfQ3dPZ2doenFnSTJ4NW1iZC1ZVGxtZ3pLNDFycEs4V1JsTXRnc0VFQkhvMUwzWmtkVml0NnZMVmIzS2hKaGdQSXg2SlhGWHd0TnpGeUhQb1A0a1RtVWNtMmVEdFdrcWZTMmFqamJXR2lXNXNXai1xMmFSNU5ybW5Ibjlnc3JOMGR3Tm5OZ1dJUVY2a21oS1FvQXE1a2sxbDlmbzVvbUQwWU5xMDZyU3RXMHR3SlZsLXFveHR3N3Z0RVRZOWRaM2hnZGZJd3l0ZWVjNTUwWHl6Mm9YVXg4LWt3b3dZekdDN0hqTE4tTUFBV1E?oc=5",
    "published": "2026-09-22T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ee0e427c2f4bc09b",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron presents H1 2026 results and provides corporate update - Yahoo Finance",
+   "summary": "Newron presents H1 2026 results and provides corporate update Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmZncl81YzhvZ3RSemN5dmJWMktxdEdxOG5Sd0FIeDh3R09zYXFScnJibWdaR1AxZnZ1UVY3SlgzNlo0Qm1ra0FyazY2RlBZTjY0bVN1V2VzbFM1SjhJVXZnSUMxekJpUmR4eGh2OVpfMFZSakZrQTQ2WDlpOXRvdU56RmtkV0MtTzhkYW55Nm9UR3MzV2Jn?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "306bbea2a5cea5d1",
+   "company": "Newron Pharmaceuticals",
+   "title": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 - TradingView",
+   "summary": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRG4wcDM5c2Y1NG44MjQ2TmlpYXRBSi1GM1A2REZpREhZUUQzcFBOYTVkTTE0a1d1a016VXpjUVRfbTNXa1ktY1dfYnBlV2ZSNjB5dzdqN1dmYlRUaEFVbklqV0tTeHZ5dXlrRHFXdE04LVB4UTQ5eU5uVzRJZzI2c2pDRElDSTBpSUFXVnQ5N0dSLWpxM2ExRzlqU2VhSlF0a2lCWFVjWkJsQmRKYTVlQWMyVW83dVlXWExGMVlkQzBDVDgxcHBWRW90dzNhYS1vamVkZVgzZjN4UlpHZXV5cnV2cUZ3WWxBdW1tbDl4SXdvX2pNUGpIRWRWMnNrQ1RkVzB2Y21DUmFmV2lha0Uw?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a8510f71276e7e38",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals (SWX:NWRN) Stock Faces Mounting Loss Pressure On Thin Revenue - Simply Wall St",
+   "summary": "Newron Pharmaceuticals (SWX:NWRN) Stock Faces Mounting Loss Pressure On Thin Revenue Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb092c3VhTk9vTGxuei1Sb2ZfVzdLdG1JY1BrSEpMa1Qwa2ZxdWp5RWdYaWZGbXZNeHNTTXBSNjBuUzlWcFNONF8zSVhHM3hEQXMwYjhOSkJ2a2ZBMkhzUy1ob29qMXpMcEdObHdLNnhWenZxUW5aUjdKREV6YmlQeDY2Z3J4T1hHaEpMTGJRUEhzeHJJUUNpYlluUHZiNkFQMW1tWk5LaXhaSjZ6RjhHS0RFSmVIZlpLa2dxSzF1bWIxeERBY0Y4U2xLU0FjRU9JeVpTSHl4VmFmXzR5S1J5OEhaaHRJMmhtMzVnaUI1Y3E5dw?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4f8f09394db92992",
+   "company": "LB Pharmaceuticals",
+   "title": "LBRX: LB Pharmaceuticals Inc Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+   "summary": "LBRX: LB Pharmaceuticals Inc Latest Stock Price, Analysis, News and Trading Ideas Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE01bmNVVWw3b2s4TkMzSmlsS2RiaF9kODdZTHpIS19iSDJpTXJFck04X3U4LVNFTXdvVTVkMGlzLU1LSFBuMC04Rk9R?oc=5",
+   "published": "2026-09-21T18:50:37Z",
+   "outlet": "Stocktwits",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12511,6 +13061,17 @@
    "first_seen": null
   },
   {
+   "id": "f4eca17bc58f3d58",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals: One Methyl Group, Two Enantiomers, And A Bullish $5 Billion Opportunity - Seeking Alpha",
+   "summary": "LB Pharmaceuticals: One Methyl Group, Two Enantiomers, And A Bullish $5 Billion Opportunity Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOG9ucUE1ZWlkT3d5VkFTMjROSEFXS1JNMVZlOUZQMHVVSFJ1Q3Z0NXVZWU1zeVdUTm1ncHJrY0pHWmw5aWJuSXNMUVJhNkpvUFhRTzdLRFFyOVBWM1lGZ3JYLXQ2NWN1QjBrT0F4dUdnX0ROYmxPN1ZwWEhyWmV6UUhjWW91RWl2eDhwV0VIelpEbGZrRnpZU2U1UmdBVVp4bFVHdzRDcUQyZ3NUTlBSMElncGNTQ0t1LWI4NU9sMkNCZmRIcUp3?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "175772e2e85dcdcf",
    "company": "Aspen Neuroscience",
    "title": "Peter Thompson, M.D.",
@@ -12929,6 +13490,28 @@
    "first_seen": null
   },
   {
+   "id": "fd34866fc0c23b6c",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Names Susan Kozauer Chief Medical Officer Ahead of Phase 3 Readout - citybiz",
+   "summary": "LB Pharmaceuticals Names Susan Kozauer Chief Medical Officer Ahead of Phase 3 Readout citybiz",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa09nS3I0S29QblJzQ1lNQ3pZZ1BlQkY4eThuN3VBTndGaG1ZVmlzUmEzTjVwbGpETmdWTVdPQkZBTVVvTXhESTNjZFExZjM2UUxXMlZlUkt4VF8teHZ1V2xHNHRxeTFTYm50NGpiMGR1a3JodWdMTTVXZHp3RnQteUswRDQxZ0s0VGVqZExXZmNUalBPMXdXYkx5aWhMdVZTZzZQTEJxYU1FNWs4ZW1iM2ttUUFZLVhyTGpPOGpicXMyQQ?oc=5",
+   "published": "2026-09-15T07:00:00Z",
+   "outlet": "citybiz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d677e0d1a23bd7c1",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Appoints Susan G. Kozauer, M.D. as Chief Medical Officer - GlobeNewswire",
+   "summary": "LB Pharmaceuticals Appoints Susan G. Kozauer, M.D. as Chief Medical Officer GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNGJDX3pONjdNOENLamVxTUM3NDUzRFA0M0JfM3hrUGVrLXR0Z1RWXzhJXzVKSGVXRVdMMUhGVndNeXNPZDI4czg4UWlERWZrOWtDQW5RWTRtbU5rT19wZXVuaDljdW44ejdZN1o1dWRKR1N5NEhxaUdUN0xHSlVZbzQ1UTN5T0RCcDU5c2FwRXhXN0lBX1RQTnN6c3did2s1MkdfTjJqRG50N2gyMHVqQmw3U0taUHlMMnpLbzZEUXNwTUgzMnpLZnRwYzhJWnFhOE5NV2xrZEN4N2lC?oc=5",
+   "published": "2026-09-15T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b25b86d765b75a83",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics Announces Positive Topline Results from Phase 3 Panorama Study of DT120 ODT in Generalized Anxiety Disorder",
@@ -13314,6 +13897,17 @@
    "first_seen": null
   },
   {
+   "id": "5c77583c6aa41c54",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron secures €5.5M tranche in €38M push for schizophrenia drug trials - Dealroom",
+   "summary": "Newron secures €5.5M tranche in €38M push for schizophrenia drug trials Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGZDUE1ZYWxLNWsxeWNlUzBtcFBibldPUTlLNG0ySU1LSEFfa1FxTzBjQm9HVm5McjZVWEhSbEJmZ0VkMUVKdHIwcDhLZ21fOGV6QWluYlBrcmhzRmRIdmxmSXlPdGxORWVGdVlFX3lvOU5VR2lZUE5WVWs2a1laUzdKMnMxLWh1ajVrVklfckQ0RVIwMTJ4d2NNUEwwVVctOHVTQ2hn?oc=5",
+   "published": "2026-09-10T04:23:47Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "30e35d935484a496",
    "company": "Insightec",
    "title": "Job opportunity: MRI Systems Protocols Implementation & Support - Insightec",
@@ -13578,6 +14172,17 @@
    "first_seen": null
   },
   {
+   "id": "b0b8c03b66a88035",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Secures EUR 5.5M Financing for Evenamide Phase 3 Program - WBOC TV",
+   "summary": "Newron Secures EUR 5.5M Financing for Evenamide Phase 3 Program WBOC TV",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxON0RDYndQZXpqdEhsS1c3bXc1WTNDRGVJOTdYTVlWZS1NTzZWa0lqQVNITm9YNlczeWk0Sm9ySWQyNE1ZLTRFMDREWDhBcUdBWHRjZ19nRUFvQ0FuWXNWRXdtc0pvUktsR0M4emhmRDd2bGw0YkRzYnBKT29hcVM5X3NrUTJJVG9hLTlsQy1tbkdGTkRXMEgxVG1EVVlfaFk2Z3lvVEs5anZTb1YyempVZk8ySC1IVV81d3NYSGVWZ095ZS03Z3l5Qzh0S1JJejVBVmZtbE5YRWpwNzRhempLY2x4SWlxa3ZlU1pBWGQ2dmtvM01WaF82Qg?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "WBOC TV",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d08ab66bdfae19bb",
    "company": "Newronika",
    "title": "AlphaDBS System - Newronika",
@@ -13596,6 +14201,17 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT2ZBWFpGRlI2dUVhbGdTWWVnQWRwOWw2STk1MXczSWs2bWgtaVQ3bW1FbThXeGNqaEItLVJRZm5SdUVCUTdqOEwxMzg5T05KdVVlZXNhR2N3OUZHUmZqT0gzRkxNN0RWWURTRVZzT0pnNkNtZENkcjQwNTFnaWE0VHNMYjRKSklGV0sybFItMGNnY2E5amR6aHlIcUtYQXpvUDhteXJ5WFFaSkNadzNsWFJRd3kzdS1HZTdNYXExcmIyQ2MxRHdN?oc=5",
    "published": "2026-09-07T07:00:00Z",
    "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "963f9ebe4d7cfed6",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Appoints Joseph Miller As Chief Financial Officer - Pulse 2.0",
+   "summary": "LB Pharmaceuticals Appoints Joseph Miller As Chief Financial Officer Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVkd0UTBXT3cyOFFlUzRBZndBMDFEaFloLUZzN3ppSVdfOS1NeE52WW9IMk5ncjljbGRyaUdWRHBjNHQ3Sk5LZzVOcWlYcUhSUDdQTno3X2t1aFdyREttRVdqR2pnbWprd2N5S1BadWNVa3lZWXJhN3hCck4wSWFzODNrWnhEMFpkV2FVZXAzWUJWZ9IBlwFBVV95cUxNTFlxUl9sS0ZhUGxnZU9JNS1YcERRY1gyd2V1c3Y0NmkzYlpsdVJrZGdkaEZwRlZjeHctZkM0cUNONjladkotdEREb2ZvTExMVE8xNzF6TDgwZ2hWLXJrWWdNbU41T0hiaXg5RmhZYTREcGh1VGpPcGo3aW9EU3ZOZjMyZ0wyT2MzZVdPa2g2N1FmRGJaY2pF?oc=5",
+   "published": "2026-09-07T07:00:00Z",
+   "outlet": "Pulse 2.0",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13630,6 +14246,17 @@
    "published": "2026-09-05T07:00:00Z",
    "outlet": "WSJ",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "2b08314a681fc848",
+   "company": "Boehringer Ingelheim",
+   "title": "NMDA subunit 2B-selective negative allosteric modulator satoprodil (BI 1569912) as mono- and adjunctive therapy in patients with major depressive disorder: results from two phase 2 randomized, controlled trials - Nature",
+   "summary": "NMDA subunit 2B-selective negative allosteric modulator satoprodil (BI 1569912) as mono- and adjunctive therapy in patients with major depressive disorder: results from two phase 2 randomized, controlled trials Nature",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCdFFWNUo5eGtxVzdDOG1GUEx2RXpzckhvUE1uX0RwSDJQa0pONlV6ZzRFMlN4clFyR3BsYlBVQzJUTjVGWTQtQzltOWxtRUtzREU1SDh4ek0xUWVqUmxn?oc=5",
+   "published": "2026-09-05T07:00:00Z",
+   "outlet": "Nature",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -13761,6 +14388,17 @@
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa2ZGeXBRaVplZUNIb1BncVlpcjgyQ0Vsam5KTkdGRUkxT2M3LUtwa19LSGNSRzZMZHcxSzdsQWg5eURoRUlpd1ZpSE1xN01kNm9YQzlWSnhhQ25yVERLcXBOeG45ZEV3eTNXd3lNSElOZnlrNDN4aFc5SmpfWTJHdVZ2ZzU0M1h4TFptMS1lOEdsODdGUkFiS3p5bUNoeDJFeFZnd0lZZFpBNmVUWmNtdWxlaDVZSzkxMlhIanIzY0I2clNOejA1VmhXQ0ZqNzRFcGt2cXUtZDNIbHc?oc=5",
    "published": "2026-09-03T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "816adf2a1df09931",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Appoints Joseph Miller as Chief Financial Officer - Yahoo Finance",
+   "summary": "LB Pharmaceuticals Appoints Joseph Miller as Chief Financial Officer Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4Q3FtOVc5X3ktd0pTdGVBenFDZWhmVklKQUdmek9kZWQxMGtZX0VadVRFYzhsaUg5T1V2UllkRlpxMkx4Tk52T1oySmVqN1RZd1Mzdy0wZkxhVkFsdE9hODZBSEplS19JS19HcnlHdHJVZS0tYUs2SDZETVFadHZXUXR4TkV2eFNJOFJfdUJsV3MxRkN4OGNNU0NvN0dIREpaVQ?oc=5",
+   "published": "2026-09-03T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15536,6 +16174,28 @@
    "first_seen": null
   },
   {
+   "id": "f5145bbfa83f6434",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Inc Stock 12‑Month Price Target Raised to $47.67, Implies 4% Upside - TradingView",
+   "summary": "LB Pharmaceuticals Inc Stock 12‑Month Price Target Raised to $47.67, Implies 4% Upside TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcDJFd291RkVOUkRDSG9kMDQzdlZNMEhMdUNNZGdiMGhCNUFHUm1YaXBDVmFGRlB2Vm93SEZMRFdrZjdMck5mNWNzcHZHUEVjV1dOMFhwYkljMEc3SmJ6d0p6R0Y2THMwN1I5NjZjMUx0TUtIVXFNbUEwbVlReWktaU12M2o0d0UxYVZuR0dxV1BlNk1maHpaWnRORXN6aXlOdmlIbktrajdjRTJPSFd2RU9KeWNhd0xiSFdvS3ZFd1FKVWFxRWZIVmtaUU5LNl9uUk0wdmM5WWJQTktWMkE?oc=5",
+   "published": "2026-08-11T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "542873b2a73fe98d",
+   "company": "LB Pharmaceuticals",
+   "title": "LB PHARMACEUTICALS INC Q2 2026: Revenue $0 Net loss $(51.6M), EPS $(1.71) — 10-Q Summary - TradingView",
+   "summary": "LB PHARMACEUTICALS INC Q2 2026: Revenue $0 Net loss $(51.6M), EPS $(1.71) — 10-Q Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTmhUa3pTbXdjbDJJNWdYSzRqYVhjQlRlendqQXFPSV9sY20tYlg1TC1KMzYwMTZHQ3lnQVRvNkZhSjhIbE9YNjV1RlZCY2p0VGZNVmw4Wm9ubTc4NW5seDR0dTRnWlU5NmVlSVF3WHJaR2RYLWtFeldicE1mYm5MM2k3R2JsR3MycUdELTNybnY1bW9pbEIyaVBvTkdMMEhlM3ZUNW9EbVo0VFkySTFIWkh2bzluV1hYS2JFTXpBeXNPakdnWVBqdFhnWUd1WTRDdllmR0VR?oc=5",
+   "published": "2026-08-11T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e4e338ee2fbe2fb7",
    "company": "Minerva Neurosciences",
    "title": "Remy Luthringer, PhD - Minerva Neurosciences",
@@ -16647,6 +17307,28 @@
    "first_seen": null
   },
   {
+   "id": "f53014a7cf3c97a5",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH) Gains Ground as FDA Clears Pathway Toward ATH434 Phase 3 Trial - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH) Gains Ground as FDA Clears Pathway Toward ATH434 Phase 3 Trial Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQS1ZXy1qVzVDNnY3cXlnUmM5S1BvZEN3dS1tN1ItbExTSFZvdXAxVmF1dDhza2lCcVVJQ1JXc3RsUWdPV0JKNFJHUnJNTTJFR2N2WVJUOG50M1pVMjN3YU9QLXRERWxJcWR0Q1QyaFd1NkVuODhscnRad3hIRWMzclhlaTgtV0pPOE1nZFNDdHFCMjc5MXQ5U1o0TnJYR3BLLVl4UWU5YnJYNlQ3R1pJZ3V2eFdTODZnNXR2QnlLblZmZWI5UzhILTRn?oc=5",
+   "published": "2026-07-30T07:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b793d73310f9a97b",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals raises $150M to push lead drug into new indications - Dealroom",
+   "summary": "LB Pharmaceuticals raises $150M to push lead drug into new indications Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXBoZGhnblNqVmU1cHdzUWloOU02Rk5rVXh2U0ZEZ3E1TTlLaEZkWk10dm9TaUtEN1BlcVRIUTdVSDh0dFJ0RWp6NVpTMWFQZkg3UVZhRjFwQXhGel9IQS1YMWZwSHludlhkVWhwZnN3S3N6MFh4M3JrV3JTckRITWhLdFFDcS1xc3lIYi1ZZ3llOUNGcFpfQ0dBM2pfX0hZbVpCUVRn?oc=5",
+   "published": "2026-07-30T07:00:00Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c6a19f21657c7409",
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
@@ -16764,6 +17446,17 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTjRjSUhibHFiRmowRVRFTmVHN21GZ1pCbXBOZkRhUy1IcGhEeHJqUmtKUDJNWmxmaTdTeUJwRzJUYnVCVFhFaU5odEVlYW92eXhDR2R5WWpsTi1FWllIdjJyamd1dHpTTlJDNlV5V0FwbDU0ZVFKbGdFQmJ3VTZzUDdXOGp4M2ZJUDVJOE10Zi12QUVUZUNTVUF0YkRTOVNkeG5HUnVfX19uWHk3YWI3bWZIdFVqazhMcUdPclZZeGgxdjRmR0hhXzl3cGZWU0g0TnNpSGI3WERVNzQzTWxqSVE3dzk?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TMX Newsfile",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e2dc013d0f991435",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Announces $150 Million Private Placement - Yahoo Finance",
+   "summary": "LB Pharmaceuticals Announces $150 Million Private Placement Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFJVZzB4MHAxNjdBb2hLNEM2LVlwRF90aVY1Z21oYko3TVphOFRvbHJZT2hVd3dSUlJyR0FPQURoMFBmaDd5QmNaRmdyR1U5RkJISHByWUZ0TVBNLW52N2FPcXpnWFFoelBldGJQc3FJWUhlUkM1NmVMdzU3VTBIUndzdjN5RF9NRWxaVG9hN18yYnBxWGhGYzlmd242RGRIXzJn?oc=5",
+   "published": "2026-07-29T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17450,6 +18143,17 @@
    "first_seen": null
   },
   {
+   "id": "01b932650e348ea3",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals accelerates schizophrenia trial timeline - Investing.com",
+   "summary": "LB Pharmaceuticals accelerates schizophrenia trial timeline Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeFpmbjhYYS1IMFdBdWtnTDhsMzZOQmN2dm9STE91V0tZUkZ6bm9MUlRTOGZFeVM2S3lxNmx0ZVpjTVc4TEFqanJEbmd3bzNmMnVfTzhiUEtncXprYzNOeDlPWlEtQWlvbms3YTVmVVRGWDJPd2RBVzBfSHRiODJrc2RIcXh5RkItQ2pudkw2ajVjRlVJdkZZZ2RCOHBaSEhTOTViTk9STWZtQVJjWThhZC1ESGpaUVE?oc=5",
+   "published": "2026-07-22T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f887216f0085893d",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Appoints Samir Siddhanti Chief Business Officer - neurocrine.gcs-web.com",
@@ -17677,6 +18381,17 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFBpVUdqYXNFMkc5bXlqcUVyY3ZTVDBnRm54eTlidnJBMW8wWlljQ193N0FCSHVfQVJKNEd6alc1bm5kUlVwZlhqRVpDYVEzRGVhMzF0Q3JLNXRpaGRuWWZuWV9LMlpCa0ZpcnVBR3RnWG5HWk9BbmNrMGE2amRWaG5ZWkdpTkk2VFlaRVY3UVQ0WW5KUlQya2g3RHJBbjJWRDFSZFFWb3V6WlNOWWd0dTFSVWdYMlBYWThVMQ?oc=5",
    "published": "2026-07-17T07:00:00Z",
    "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "511815876211b5fb",
+   "company": "Eli Lilly",
+   "title": "AtaiBeckley (ATAI) Agrees To Eli Lilly Buyout With Milestone Upside For Shareholders - Simply Wall St",
+   "summary": "AtaiBeckley (ATAI) Agrees To Eli Lilly Buyout With Milestone Upside For Shareholders Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzU1MGNFWGdKeXA4RzkwNWNhRndIb2lCRWM1RUE2d1k5LWJhOXpNVXBwb2tOQk5ZTmtSNWZsWV8xdmU1N0lfbzFuM2pRRktoaXczWi1rWUpER2F4UUtacXNsM3dSekZ4bHhGWGtRdkNHek1BdTFrcGpMdG5GZjFTOTZsRWRueEFheFlwakNzcEFmT2xwR3hibDR4Y2FEaDNGNTJ6NHdWTjFyZUFXd2Q4TGh3Y0M5UlRjT20xVGNCWjdJTDhBMUFrTmdZcjl5RGlobXRaSjFTQ0dNcVZENHfSAeMBQVVfeXFMUG0xYWpwMEl4YzFTUnJwWXhoOXNnU3YzcXhFZ0VHdDVYVGpTS3RHdERXSWVtenBjVWpnVEt1SXdFbGo2VGRCNWk2RGFVV25Bb3UyaFpYaG1XVWV2WmhxaHByeXhnUVEyZkFkUU82VGNmanozUUNPNmYtcGt6MS1qcmxsZlRpdmNoTkhrVFZncTFXakRhMTlmZjAzSEJycXhhQVJWVkhJMGQ5cEhUQ2IwX2FRQ2tfMkVsRW1VRUdMNmtXRFdpTWhkdlpuV2VPdlBSZi1XSk1Kb3Z0ZXdsd1lvOVRDQWs?oc=5",
+   "published": "2026-07-17T07:00:00Z",
+   "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -18363,6 +19078,17 @@
    "first_seen": null
   },
   {
+   "id": "7390bddfef569300",
+   "company": "Newron Pharmaceuticals",
+   "title": "Enterprise value to revenue forward of Newron Pharmaceuticals S.p.A. – SIX:NWRN - TradingView",
+   "summary": "Enterprise value to revenue forward of Newron Pharmaceuticals S.p.A. – SIX:NWRN TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPczNmVklPSWxoclI4RkFLcGJMY2dTZ0lsd0wtNnFjUTkwY0JkamhFTmplSkQyaHJQVDR6Z0NoRmpaeTBuejBnOW9Lbnk5emFkbV8yc0ItWUpUVWZTUm9HcGFPOEVjamFzOTN6cmk3OVVnSE5FVHpWOFg3RzRaZDdvazVVZ2tLTTJiakEwX0ItUW5zRVhieE03TjJRY0c3anlzdFR4WC0wZVQ?oc=5",
+   "published": "2026-07-14T13:20:06Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ab87bc84257b6f72",
    "company": "Supernus",
    "title": "Supernus Celebrates Five-Year Anniversary of Qelbree® FDA Approval, Continuing to Deliver on Real-World Experience in ADHD - Supernus Pharmaceuticals",
@@ -18414,6 +19140,17 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3NyZUNueDFacVNaLVJHYmRLSkd4eU9SUzFYMlRUZWVDRjE1RWM2RjhZYldBRGx4eFItUUttZDJOcWhfajZoTUxMMllCci1BdmRUcERCekpfNmhxdkFSNmYwNnVSdEwtT1dDQUtOWWJ4YkRjaUw2UlZrOERVcWM5a1lKbGdMTHRkREp0a0dNR3lya3FObVp6dUJCblJ6X2V6cVhF?oc=5",
    "published": "2026-07-14T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "78fc2f16bde2253e",
+   "company": "LB Pharmaceuticals",
+   "title": "A Schizophrenia Drug Patients Can Stick With: Heather Turner on The Long Run - Timmerman Report",
+   "summary": "A Schizophrenia Drug Patients Can Stick With: Heather Turner on The Long Run Timmerman Report",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2dBTHhhUmhCZ0J2bnRVNWpac3pzRWhBOFFITEplQzRPRkJQMkZjMTNCbjZqaFhxMS1TY1cxai1tME1CaENnVzRvQzFIa2hWWkV1dlRqSTN4Zk1EemRWNEZicHRENmcwQ1hVeVhsSEt3TTlzMXZXb3M3NWl1WmEzZk0yam9PVDd6QWIzRTVoR3BxdHhkV1Q2Um1ZWkZRNnZCM1h4dzJQRExPcndfTms3dERR?oc=5",
+   "published": "2026-07-14T07:00:00Z",
+   "outlet": "Timmerman Report",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -19111,6 +19848,17 @@
    "first_seen": null
   },
   {
+   "id": "6544ea2e4a32f316",
+   "company": "Newron Pharmaceuticals",
+   "title": "NWRN Forecast — Price Target — Prediction for 2027 - TradingView",
+   "summary": "NWRN Forecast — Price Target — Prediction for 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mWTh0S0pwVlhhMTB5TnA3MVBORVNKUjVkcFBYTFF6OEVrYzZacE1ZM2dLdUZJUUx5TlRtM0Z2bHlSUW55TzhPWkozWHpNOEhnTFJpUC1jcDk2V01scVBYbHBtZGZuNkwxdVpZaE90dTBpWmt3X3c?oc=5",
+   "published": "2026-06-27T20:52:53Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "051759c7eccad248",
    "company": "Newronika",
    "title": "Senior Clinical Field Engineer – DBS & Neuromodulation - Newronika",
@@ -19228,6 +19976,17 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0lrWGpQOEhlRjRXMkZZSGI1QkJQMUpwMXY0dkFaREg2WkpCZlVqWTN6N3RraW4tQlo2eWVGa0FFX2pFbndkYVVSaXhvODY0VUUxVDJoLVBjNDhqRnoxOVdMVGE1TnpMMU4wa3hqeVoyRzFwNUpUV0VzNDdfMldhRWQ5bnh2R0JyT0tZWWVwUUhPdkwtZHNpQ1RscTlQdWY5a1pqdnBn?oc=5",
    "published": "2026-06-26T07:00:00Z",
    "outlet": "BioPharma Dive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "136babf0f4cd6b8b",
+   "company": "LB Pharmaceuticals",
+   "title": "LBRX Forecast — Price Target — Prediction for 2027 - TradingView",
+   "summary": "LBRX Forecast — Price Target — Prediction for 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RNDg3TEdIM21RbGVKcWFNUmxFV1h5NUxOZC1HakQyVmQyN3kweTZGOHV4Vmhmd19Sek53YWpONGdhM0J3S0VkNDA0bXctc0psckZZMW5qRU5oV2pzQ0hkNHN2M3JCeUZlZnRrU1poREt4UkpIQ3J0ZFJB?oc=5",
+   "published": "2026-06-26T05:38:16Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20222,6 +20981,17 @@
    "first_seen": null
   },
   {
+   "id": "1a1c81e9c9c18a01",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Inc Announces Resignation of Anna Eramo as Chief Medical Officer, Effective June 15, 2026 - marketscreener.com",
+   "summary": "LB Pharmaceuticals Inc Announces Resignation of Anna Eramo as Chief Medical Officer, Effective June 15, 2026 marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZHZKa0NnVVhGaGNxT24xWkpneFdZUnBZZHNqMTZBczAzRU9hT3NVNmZEcE5OMnBCUmxYbXhPRmw5aFRZazhQYXNTZmpxc0puVXNHVmNrR25nQ1NmV3htMnJlOFFzTXY0UGoxakxjbXZhYWdCcEpqOGRmNmVUWTNsT2NsSWkybmI3X3pxTlZka01xc3U5YmRLUUhDcTlETU9Vam9pWGx1WUZONTFGa05oRlo3YmphMUFvT3hIc1NOVWZOWWpXZURISVI2dFJmOTB5OEpvZmZEU01Qa2w5QzJtdXJTc0c2dw?oc=5",
+   "published": "2026-06-10T07:00:00Z",
+   "outlet": "marketscreener.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c60125cd799a2930",
    "company": "IRLAB Therapeutics",
    "title": "Kristina Torfgård, CEO and Gustaf Albèrt, CFO present at Aktiesdagarna",
@@ -20746,6 +21516,17 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNW9FR3lZbXFWV2lMaU9sX05sWEJvYTU1el9RX1R0X0x2ZFZwenJ6OTZwb0JObU16azRXRzlkVHIwQzdMS3htcm5PRWZxWkNtNVBiWEFzVHFjNjZXVXk5LWMtcXFPbGpOVlM2LXk1VW9BdzFEQjM3Q0JTZ1hYemg5T3BZaUJxTGN0NGJpSXIwNFBiYW5pZ19n?oc=5",
    "published": "2026-05-29T07:00:00Z",
    "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8b508e24198433e7",
+   "company": "Newron Pharmaceuticals",
+   "title": "Regional Court Munich issues ex parte PIs on SPC for parkinson drug Xadago - JUVE Patent",
+   "summary": "Regional Court Munich issues ex parte PIs on SPC for parkinson drug Xadago JUVE Patent",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd081OWZuN0U5aEx0LUNvbzJrN1FVcHQwdURBazVkTHpjRTVOaWVkeS04OUtJejZrbm10LXlFdmJLaWloM1FVSmFwVjJTMjVIcUxLRXZDT2EwWmlYREpwUDNJb25jZGY3MHRkOTBqRXl2QWd0bTc3OS1RMTMyQy1GX2drbDNUT3dhdGdUekNvb0lUZkRlT3o4X2FXWThmeEhsSUp0eGRGdmlqMDlOR2c?oc=5",
+   "published": "2026-05-29T07:00:00Z",
+   "outlet": "JUVE Patent",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22532,6 +23313,17 @@
    "first_seen": null
   },
   {
+   "id": "54d48d64e0556e5f",
+   "company": "Newron Pharmaceuticals",
+   "title": "Psych Trial Halted After Death; Curbing Phone Addiction; Most Worried Racial Group - MedPage Today",
+   "summary": "Psych Trial Halted After Death; Curbing Phone Addiction; Most Worried Racial Group MedPage Today",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54YVJyV1pWeFpwTW5RZWZkUXNQcE04M0Y0Ym4zMUdDcEMxcHZIQVJvaENyZTNabUVkQ2dYUzBwaFE2YnEwV3FXQUFGRkJZQVhFUjRkbXhndHVhdzlPTmROWHRUazNTa0RGNmN3UmNzRXFZUQ?oc=5",
+   "published": "2026-05-06T07:00:00Z",
+   "outlet": "MedPage Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "72addee3be6651d8",
    "company": "Regeneron",
    "title": "REGENERON - Clinical Trials - Regeneron",
@@ -22627,6 +23419,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkY0VWxfSGVMMGh4c0Y1Q05OOERWbUV4UlNpQ1lWZ1BIYVlTQzhYVXFZdElxLTl3NjJZNWxQQ2VEbE9OY2dEaUc0RHRZY1lfQVVCbEZDQ2g0NmF5eHpRUWI4Z1pFaVNPVzhvdndkcms0ZUxUcUhCLXl6X0o0WFc1Q2FOTUNQM083SmRaZjZfaFB0RHY0TFY1YXNhbzdJS1RNZ3FZWVZEZEsxTHVjLVFUOUtOV1NsTmlnRWVKWFNZbUk?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f6cf91f539680950",
+   "company": "Newron Pharmaceuticals",
+   "title": "German Federal Patent Court grants SPC for safinamide - JUVE Patent",
+   "summary": "German Federal Patent Court grants SPC for safinamide JUVE Patent",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHFyZU9mTGpjdF8yMTVnelFyMmtQZlhpQ29jTmw3cU5hYXQ4UUpBdThwcmo5elJYSkFUZ1RoY0tjVVVPRndZN0E3WFhoMjZ0X0lRczdLVEctajBleDdfRzFVVl9hY1FCNnBHZzl1cjJWWjNvcVk3Q3pLcHNsd3hfZDVCX0x6aHdWMXpkbWJsd094Zw?oc=5",
+   "published": "2026-05-05T07:00:00Z",
+   "outlet": "JUVE Patent",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22917,6 +23720,17 @@
    "first_seen": null
   },
   {
+   "id": "5c5c02e3248e6b12",
+   "company": "Newron Pharmaceuticals",
+   "title": "Patient death prompts FDA pause on Newron’s Phase 3 schizophrenia study - BioSpace",
+   "summary": "Patient death prompts FDA pause on Newron’s Phase 3 schizophrenia study BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjU0cmdQaEFnSHhZTy1aRmxsazNBMzRTeENOVnZqc2pyLVV6MkFSWkppVHRxMG4tNm10Y01LeERuN016Zm0wSDlyekhyWnFMSjg3Zk02blV1dDEwMGdLRWlWbVp5Mi1NcENUa1JNRnJ6UUtyZ1VvcUs5eXNRTzdCWkloT2o5d0p3eHVyaENfTWtWYjRURURtUHByNl93WHVI?oc=5",
+   "published": "2026-04-30T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b2e3326ddbfd589e",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Athens Open 2026 Draws | WTA Official - WTA Tennis",
@@ -23023,6 +23837,17 @@
    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNeExNbFBrQ1NiWUNpcVlXb0JDaGxIMVpISGFRTG5SM0xneTFmMUo3Ql96VVk0dXRMRjg0YUFiSFhXeFhQdmZDNEpyMTR2Mjhidy1zMFdJWkJaX0FDazV0Q2UtYnQ5d3FiMkFCUGpycV9pbXpESEZzc09leGRyQjVLVF9jcFRLWXNBTHU4a3ZHTjNTX05HVzhuME9GZ1RfNndBVVZtbWRIUDFtOUVNak82ZjN0YkFzYUFSOG1RNTA3VG9OVjFqZHMyallDQjU4LUVhb0MzaTVicFJfMFpBcWR2LUl1SzhLRFdmcm0wVGtSUjJtSlBGUFVBTXNNaDVJWVRhWVlUQnEtVUxkN1c5UW1rTXcxNWdrUDdaMjlaa3V2blVOQVU?oc=5",
    "published": "2026-04-29T07:00:00Z",
    "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a84f6a15d7d516f3",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharma's evenamide faces FDA enrollment hold after patient death - AllSci",
+   "summary": "Newron Pharma's evenamide faces FDA enrollment hold after patient death AllSci",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMzVIdmdqTWNhNVhmdUhZbnE0aFd3M0l5ckVianptZDZFUjJ3STB2YTMwWEY2bkJEcmpRekdvdm1OVzUya2hURjBhSUs3Q2ZfS1k0ZFlHdmwzY2lfeGctalJIVjZDU1pqdXdpNXVtUGJYRks1WS1KTmhIcE5Zdm9fUXlacXhyRTVSU3FuNHdTcWc1X19FVXVTMzQ5d3BZZW5WajlYZzZmRG9BMkVsdjJjdTI0Sk5xanc0RTFwaWloNkYxTlAxbVpn?oc=5",
+   "published": "2026-04-29T07:00:00Z",
+   "outlet": "AllSci",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -23555,6 +24380,17 @@
    "first_seen": null
   },
   {
+   "id": "43ea0ef2bc2f5b98",
+   "company": "LB Pharmaceuticals",
+   "title": "Novel Antipsychotic Shows Promise in Acute Schizophrenia - MedPage Today",
+   "summary": "Novel Antipsychotic Shows Promise in Acute Schizophrenia MedPage Today",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrZ0ZkTjlzUjVndGl1U0gwM0hpVDNTTUt0YU80VGgzS3VNcnNicEozZk1SalZKRklvTVdWLTR1ZGNtODg1bmRuYzZOM1BNZmpTSDkwUGp1RjBiZXp1TUd6NWFjOWdLbkU2MG1pTw?oc=5",
+   "published": "2026-04-22T07:00:00Z",
+   "outlet": "MedPage Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ce236e9902104d2d",
    "company": "Protagenic Therapeutics",
    "title": "The Science Behind TCAP - Protagenic Therapeutics",
@@ -24083,6 +24919,17 @@
    "first_seen": null
   },
   {
+   "id": "7485e889aa60d118",
+   "company": "Boehringer Ingelheim",
+   "title": "Boehringer transfers schizophrenia DTx selling rights to Click - pharmaphorum",
+   "summary": "Boehringer transfers schizophrenia DTx selling rights to Click pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRG1CWU90eVdSUjBxRXJRV081WnZueUEwN3UwazNsN0JIakxnZTRQVVlYQ3NtVDd0WDlMTUpySzhaV01tcmlwdFNrOWMtX2t3ZURrZ3M4ajNLOXBrQlN4VkIzUC00VklqVmFjY1IzYU1sZzhwUWJFbjdLZ0JrNU5VdGdDcFhqbzBLUU9NMDN1ZVlFRmc?oc=5",
+   "published": "2026-04-10T07:00:00Z",
+   "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c3f912760927ecb2",
    "company": "Spinogenix",
    "title": "Spinogenix’s Fragile X Syndrome drug shows normalisation of brain function",
@@ -24113,6 +24960,28 @@
    "published": "2026-04-09T07:00:00Z",
    "outlet": "Annovis Bio",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "3f26d062e57117ae",
+   "company": "Boehringer Ingelheim",
+   "title": "Boehringer hands over funding, marketing rights for Click’s digital therapeutic - Fierce Biotech",
+   "summary": "Boehringer hands over funding, marketing rights for Click’s digital therapeutic Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUdaYXhxSmhsVUp6WU52NkRSbV9GRnVRMGdNZTBHN2dVOFpqbUZCd2I0QnBxSkgxR0JwdEJuLVBqYnFaV251Mmo0cFdaLWkwaWtmd3FGc25TVzJjbnh5eDlNbHhWOWlyX1J2MEdsamppYjcxckZJRzgzdHNaVHFOVWhtVml0emdFLUF1THVvZmNQZ0J1U2hQZUU1dlFmX0NUV0twRHQwaUpQRTNTS2YwcjhpVmRoWEtDc3dR?oc=5",
+   "published": "2026-04-09T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "30505283e1d713e8",
+   "company": "Boehringer Ingelheim",
+   "title": "Click Therapeutics gains $50M, commercialization rights for schizophrenia PDT - TechTarget",
+   "summary": "Click Therapeutics gains $50M, commercialization rights for schizophrenia PDT TechTarget",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQjllT2lYOElEV1JhdVFpbUotYUJGNW9KTVMzb2VlY2ZvNjE2d0tFRXk5UlRmM1FGTUtYenhPUVhYblJhdnpLX19DSFhlSXpSV1UybHRQck01dkZmZG04dm10by1zUUY5YkRCOWVaUXFKdk5YUnZLVFpuOE9qNGlrUXpkWlhDbTJVSVRGUlgxVzR0cnBoTXQzalhqYXhSVTl6RERXZldZTlRLaGE4OExPNWRjWC1xMXFmNVFFX1lPS3pDMV9zb0VIUUNJLVdZNWxV?oc=5",
+   "published": "2026-04-09T07:00:00Z",
+   "outlet": "TechTarget",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -24776,6 +25645,17 @@
    "first_seen": null
   },
   {
+   "id": "83cc242f60d332de",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals S.p.A. (VTX:NWRN) Analysts Just Slashed This Year's Estimates - Yahoo Finance",
+   "summary": "Newron Pharmaceuticals S.p.A. (VTX:NWRN) Analysts Just Slashed This Year's Estimates Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXpzNTgydlRQU0lMVDhIcG5XaHF0amJVRUxGdC15RXBQX0xJZlNEV2hLbUZwX25FSjlMVktKbXhobEl6NGJXOFA5RUlfbVhUWERHRHhrajBZcGRRQUJ0al8zZVlOeDlyZ05WU2pDZHRrS1IyYk5nNFR6a0pCX0lqNmZ1RzE3WjVlVDB5b1V0R2x3dWFQcUZBcUhiR3JteVU?oc=5",
+   "published": "2026-03-28T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ed99679606edc575",
    "company": "Transcend Therapeutics",
    "title": "Otsuka Pharmaceutical to Acquire Transcend Therapeutics",
@@ -24952,6 +25832,17 @@
    "first_seen": null
   },
   {
+   "id": "9f49d16f6166d18b",
+   "company": "LB Pharmaceuticals",
+   "title": "Phase 2 Trial of LB-102 for Schizophrenia Shows Positive Impact on Cognitive Performance - Psychiatric Times",
+   "summary": "Phase 2 Trial of LB-102 for Schizophrenia Shows Positive Impact on Cognitive Performance Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVg1NlI2eGRwcnZfaFdEejZFY2oySUdLZmVqR2pXbU4wbG5jeGw4em5mSTMtdFB2SktrSjZQdUMxRmV3ZXJCRTN0VC16Q2pYZXNIVHZISDZVOXJYSlVjRkFPNWVaV1V4Q25lR3J0dFB4dW96ZFFNLThtNDBINWhTaEtLMm1MZ2NpaVNyNG1XMmVZOFhfd0wyTUFzRzRuaVpueVc0d1REYWtFSmltdmhtR0JoNlJjYmdlVFNlQ3ZfNHBRVm9L?oc=5",
+   "published": "2026-03-27T07:00:00Z",
+   "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "0f76a2742032f473",
    "company": "Spinogenix",
    "title": "Tazbentetol for Schizophrenia Shows Symptom Improvement in Phase 2 Trial",
@@ -25117,6 +26008,28 @@
    "first_seen": null
   },
   {
+   "id": "75799e2679826924",
+   "company": "LB Pharmaceuticals",
+   "title": "New Pivotal Phase 3 Trial: LB-102 for Treatment of Schizophrenia - Psychiatric Times",
+   "summary": "New Pivotal Phase 3 Trial: LB-102 for Treatment of Schizophrenia Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMW1HVThydkozV1FuUF9GZHhwMkowYVhmQ0R4Um8wMWRHYkJ4WFRBVGFHblJOVTkxeTNkM1FBa2ZjVmZtWTdrbEN1anJHcGxrd25yXzk2VmpndHdCc2RTOFc2Zm5MNzV3ZTdnN016c2NFWldkamVCTVF6dzkwRmFFWWtxU09ZTTl2OFZUQ0xRSURXSElyakhqTldjSFFVWVBQQ2Vr?oc=5",
+   "published": "2026-03-25T07:00:00Z",
+   "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "64966336ab91030e",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Initiates Pivotal Phase 3 Trial (NOVA-2) for LB-102 in Patients with Schizophrenia - Yahoo Finance",
+   "summary": "LB Pharmaceuticals Initiates Pivotal Phase 3 Trial (NOVA-2) for LB-102 in Patients with Schizophrenia Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnhURFRUSGdGTVpfUXlQOFJ5ZElKTzBYQ3NRUE1TUU5ydnBZcjZFbHE3QVlERWxUXzZ0b1QyUklLTU8yUkVtc2ZMa0hUd2tyV3VQUTNmMUFKM1FPbjRrc3BmcTk3cUF3OFY2TWg5NFh2SmwwQXhGaXFXUjcwV1FVMmNTU1BmelBDV3NOSTNmLTcybkg4LW9Lam5LdXJZT2lEZ3BqTDMxeXNFUVg5NmREdQ?oc=5",
+   "published": "2026-03-25T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "567176bb53bbe68e",
    "company": "Kyowa Kirin",
    "title": "North American Pharmaceutical Pipeline - Kyowa Kirin North America",
@@ -25168,6 +26081,17 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV25saG9qbUNvS0RjYk51VEFrc0hUTnJ0c0RHZ2lGQVFYY2JnaXNqWDdYRVBKeldLQ0VlY3gtZjhJdk1SZXNNcUJxel9xSXRoTlA0bE9ZTndKNXpPUzg5S05oUW04N214eW9QbEtYSGFkZVZJZHpCRl96VXZmV0VYc1BfSEh6cGltV1ZNRnV0ZmZWTTZxTzExNG5QTXdjNkltOUdvbEd4Z2JFanlo?oc=5",
    "published": "2026-03-24T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fd501326296148f1",
+   "company": "Newron Pharmaceuticals",
+   "title": "NWRN: Pivotal Phase III trials for evenamide advanced, with improved cash position despite a net loss - TradingView",
+   "summary": "NWRN: Pivotal Phase III trials for evenamide advanced, with improved cash position despite a net loss TradingView",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObldvOVMxOXZaRk1jS3RuVldPR200ZnVjU281LTkxdmstcGtLLWllQU1GQlNxUFp5cll5YWktd2dxa2FRWUc4cjYwYmhaT1ozMUZvc0N1SkhsZWNXM1E2ZHdXQnA5eUR3SlBneEJQN1VYbEJldXZ3NWUwSG03X0p6OWc2bUFkQzdRQWI5QzdXbzNuVUFBY3I0VUJ2bUlkSXFMWVZzR3dkeE9Vb3FqZkI0Z19UUFUtb1M1amNzVFNzamRHT0VhRW5HT1dVdlJDX1FfdkhwemdJaUNsaXBPMnpMZ1FpSnp1SDA4MTVGUHpjY01JdEVNRmpvWlhxNDlPakRxZV9lUGNvMWdYdlRzcjZj?oc=5",
+   "published": "2026-03-24T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -25630,6 +26554,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0pPeC1TZFZmWURETElieVFTN2haNS1Yczhkc0h3aXpKU2cyR1VYeDdGSENRUVNlbnEwQ2R0aWY4dzE2TDNDWEZ1VnJ3ZXYzekV6MXRTQ1pxNkJYdE9abGJDYWxpNE8wV29VQ1pGQ25VOGtGX0hzYnVTbnkxQllGd3RSOHRSTWt5ZHZV?oc=5",
    "published": "2026-03-16T07:00:00Z",
    "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7cd681cdedf7c58b",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals director Zachary Prensky to retire after 2026 annual meeting - Investing.com",
+   "summary": "LB Pharmaceuticals director Zachary Prensky to retire after 2026 annual meeting Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNXy1QWHRWVzJENmdDTUZaZnozMHpfS09kZ0VYYVVaSkZUSUxRT1pBSFVLWmdJRXRvS1ZDQ2pPNmtfRDFTSTFwdXNDSGowVlBVc3Zhbkh0T1JqQ3FxNVQxUGk5V3FsXzNnTTRuU3NUb1JFdm1Lc09RSjdQOVNkUExMR1YwdmN0ekNmTmhSU2JUMktReHpQSGQwX0ZyZVZvQTRCdC1DaW5wUmlWV2NDWHpBM1RvNlJreVJwOXdKd3E0bDhmbDZGU2d1OGFtOEdadThn?oc=5",
+   "published": "2026-03-16T07:00:00Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -26844,6 +27779,17 @@
    "first_seen": null
   },
   {
+   "id": "345cbe5a75268aac",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals Secures Up To €38 Million To Advance Phase III Evenamide Program - Pulse 2.0",
+   "summary": "Newron Pharmaceuticals Secures Up To €38 Million To Advance Phase III Evenamide Program Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXZod1pDZFFWTGhacjE1emVlcGpiWVpQYTJJQjFuSnNLUW1tX29pWGs3UUdDZ3A0MkJvcl9PeUdtZ1E3b0NsbWZ3bE1XNmctRHRVSHFWcU5SUHFZTmowckdSTHVhZG1Oa0Z0dWM3QjVFT0dfWFJsR3hPZjJVY1VUMVYza3Z2OTRjS2tGZnNaeXBqaWI1Skh4YWxxeEhGNlVvOWxsbGtOb0NpTkHSAbABQVVfeXFMTUs4R2VDVEkza09fRnQ3RVpxVTVnTXJMVVRRa0FXMnVreG9EYXRZM1gxUDc4NU1qckhoMWx3ZUNnQWFnTDhDM2RzeGhEMVE4djVMbV81S0xOOWJ1TjIzTHZZVV96eFJlSmgyUXlXRk43bnRhUjdLX1hpQmw3cEtwQi1nOTNUZ0FFVnZqWmQ2dzBDSEtHeVQyMHNDNDhEVmM3Y0QzeVJPSUNmYjYwYzRMWHI?oc=5",
+   "published": "2026-02-18T08:00:00Z",
+   "outlet": "Pulse 2.0",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bded2ddac47822ee",
    "company": "Eli Lilly",
    "title": "A Study of Brenipatide in Adult Participants With Schizophrenia (RENEW-Scz-1) - Lilly Trials",
@@ -26885,6 +27831,17 @@
    "published": "2026-02-17T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "82db10a23fa4bd9e",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron secures up to 38 million euros to advance evenamide program - The Pharma Letter",
+   "summary": "Newron secures up to 38 million euros to advance evenamide program The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcV9ET1pUOE1rNjBaQlFrSkd6TDZybWtiNG16X2E4NXY4cVl2YzY5Ynpic2VmUUZkWktBXzhvTDctTk82NzViV3JmTkh2YTllZzZCVEYzVTJ5NUVPWjZRbWNCSF9SREVVQ0t6LVRCQXZ0d2pwUXJuNWp4dFJTUUh0UUJEQzhxa0FmMlZWMDJRNzA3WDVHNTRiY3FOVi1ZMnJYTnN1RzI2ekdtZFVXSDdv?oc=5",
+   "published": "2026-02-17T08:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -27159,6 +28116,17 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0xSM3M5T2l3dVBTWkhzQ0JTWkt4RFV6MnNwMXE3R01wcUtiTndSMG5KT2xoM3ZnQ2NrRjRFX01fMi1nSkV3Y013akJPdU1BUHlLTTU3cUVpUi1CaU1aTkJkQ0JwVUQxc1VEUjlpcXZUMGg5QTRoTGR3ZXozZmFzNF9ZMTF1dU9sQy1QMEdudHI3Z3BV?oc=5",
    "published": "2026-02-05T08:00:00Z",
    "outlet": "The Motley Fool",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f2951e25a28fedc5",
+   "company": "Newron Pharmaceuticals",
+   "title": "Evenamide Shows Benefit as Add-On Therapy for Treatment-Resistant Schizophrenia - HMP Global Learning Network",
+   "summary": "Evenamide Shows Benefit as Add-On Therapy for Treatment-Resistant Schizophrenia HMP Global Learning Network",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1dpLWE0Tkg2aUZLZ3Nxc0NEbDdYSGRWYWp0SHY1UUVjNWZTY0d4UkN6NTZEMjE0XzMyaGJMeVkweXdmU1FwUHZ1el9HTFRPaTh0U0w0YjdZRnVlUDk1X0NnUVRmdjdnUVVYVkM3MkJMVWlXQVJnSTcxSWVYei1UbE9nZWhRZjdRTGVlcTYydmdyT2lkQ0JjaGVUUzJkZ2huT3hOOVljRXRuRXVpWHFpTUtObVVVRnlUZV9zZldzcjNsUQ?oc=5",
+   "published": "2026-02-05T08:00:00Z",
+   "outlet": "HMP Global Learning Network",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -27456,6 +28424,17 @@
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPU3o3N1NqbDFMZVpXUGxKSlhuTnJ3OU0xRU9ZbWp6QmMzeEROeVZWdkZ0cDg0MWZBTWRmWTZMZkNVbG5OZlo4SzA2cFVsOFpfcDNfcUkwc05VMDJXUFZ0Nm5zMWRkZjlOOTV2WDM1Zm1fNktrZ0Jhek9UWmJwbV9DYWJPcjRkQUUxS0x0Q3JXcjBZR0JodmRMdmo2MTRNWDF2N181UTVkWDhHYTNxOTBtQmRZWkM3M2lqRVMzZmRhZnFQNmJqVzcyU2hCSmZjV1JSYnRSd2FRbWk0c0x5YzdLbHFDeFdEd25iNHVSU3FYbzI1QV84dFRHX19zdGI?oc=5",
    "published": "2026-01-26T08:00:00Z",
    "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f744178ae010ca07",
+   "company": "LB Pharmaceuticals",
+   "title": "Phase 2 Trial Initiated: LB-102 for Bipolar Depression - Psychiatric Times",
+   "summary": "Phase 2 Trial Initiated: LB-102 for Bipolar Depression Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV19CTEdBWURLYjRTZzROWXlaV0xJWFhvRzBCakhVYTdmSUJvUDkwTUgzRi1DZGZoZXJTaVBTMTZGQTV0OHNGTUtCNHd3U0FUdmpyUmdJUVRlSTZiRXc2QmN6cGNnNmtwTFZrdURDU0dmMDlOZ2tMTXNGcU1tWUlBX3FaX3BGU0FJOExpSXhWamJZTktqdVE?oc=5",
+   "published": "2026-01-26T08:00:00Z",
+   "outlet": "Psychiatric Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -28450,6 +29429,17 @@
    "first_seen": null
   },
   {
+   "id": "b2f6f78149f034c4",
+   "company": "Newron Pharmaceuticals",
+   "title": "EA Pharma announces phase 3 trial for new schizophrenia treatment in Japan - Pharmafile",
+   "summary": "EA Pharma announces phase 3 trial for new schizophrenia treatment in Japan Pharmafile",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTNnY2NPZmxWQ1dTVHhUdU9XSUN4alNTdzhpczlyWGU4ckxtY181blVIcmJkcC05dVk2alFwTFhGRm05QVBjeHFGXzZBUWlLTXllc0N4Q2tEY2lYQjJzN1d5cVJ6YUlFMzZUcXFQV25ySkdnUTZaMFZwRmRMUkN0T2tsdmV0eFdYNXZObG05bVo4WkFoSGNqbS0xYk1IelFqSU1FRVR3?oc=5",
+   "published": "2026-01-07T08:00:00Z",
+   "outlet": "Pharmafile",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "cd2b898a3d707409",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "symbol__ Stock Quote Price and Forecast - CNN",
@@ -28835,6 +29825,17 @@
    "first_seen": null
   },
   {
+   "id": "e7b862a73558d63f",
+   "company": "Newron Pharmaceuticals",
+   "title": "The Hague upholds sales ban on Vivanta’s generic safinamide product - JUVE Patent",
+   "summary": "The Hague upholds sales ban on Vivanta’s generic safinamide product JUVE Patent",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaDFJYTFxd1lZeVEySUJpSEE5WWRLdDFBcHNscGZFZGNQX084UjVacmZtbXAyMFY5Y0V2UmVPSWsyY1g4YmNvQmFwclZuQi1zUk9sY0VkZ01pNFFPMTJHaEgtajRseUJibFB4UXdpcWtDc1FoaTFNR0E3ZXNzOW1mUFJmVXNCNktxMlpicUpCZjkya1gtREQ3aTJhQ094UmRhbnJN?oc=5",
+   "published": "2026-01-05T08:00:00Z",
+   "outlet": "JUVE Patent",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6dd7a8f802601142",
    "company": "Gain Therapeutics",
    "title": "Neuroscience 2025: Key Themes, Emerging Trends, and Gain Therapeutics’ Latest Findings",
@@ -28989,6 +29990,17 @@
    "first_seen": null
   },
   {
+   "id": "956722bc8e6239b2",
+   "company": "Newron Pharmaceuticals",
+   "title": "December in Review: Updates on the Psychiatric Treatment Pipeline - Psychiatric Times",
+   "summary": "December in Review: Updates on the Psychiatric Treatment Pipeline Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORlFOcThvNHhpZVB2blZyNjZ3Q0tJOU9KUV9Ec1U3dml2R0tya1U4SUJESGt6Ym9fQUJCeWZYLXFSdW5fWDVWeUtMeGhzdno5Q1Z5QjhlX3J5Yy1DN05vZ2pRQU9rSHl2S3hlb1p2TG1jTEk3UUUxM1FJdzNFTXNYZm8zLWVPcnZxNndHYkx5eG8yQWFMTkZLUUxFMFRodTZyOGdGeA?oc=5",
+   "published": "2025-12-30T08:00:00Z",
+   "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8015f20a7bfe062a",
    "company": "Arvinas",
    "title": "2025 Archives - Arvinas",
@@ -29040,6 +30052,17 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpbHZtUy0wQ0dKNGNmbi1wSThSeHJZRWdabzQwS3U0VVJnV2xwRFdEVkFYRGwzdjB4aUZvRktYMkZ0V2ZxZnFLdHVLZWw2NnlwMHF5QWdrMDQ5cnhfbkIwU0pSNWd0T1daVlVFbEY5Snk?oc=5",
    "published": "2025-12-24T08:00:00Z",
    "outlet": "Pharmacy Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2e945c6afb55a2f6",
+   "company": "Boehringer Ingelheim",
+   "title": "Blow for Nxera Pharma as Boehringer Ingelheim decides against licensing its schizophrenia compounds - Cambridge Independent",
+   "summary": "Blow for Nxera Pharma as Boehringer Ingelheim decides against licensing its schizophrenia compounds Cambridge Independent",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalkwNXNNVUdmdExoTkdERVFpOWFpOUUwSmlxNlRqaFZLdnJYOWtOaGZjZDVxa3BmRUxIWndMUUtiNXg2bFJOeWNOd214ZmpWYkl0WnF5TnFETEJfVnBVTGNoUktvM0tWZFN5VWQxbjRlVTQxM3VkS1VYdEZ2aGVDVGRfZVJ3cHpLMFk0UmRXd1lyRUl1a0lpQWFIc0FfQVpCN1BRNS1ZazlMX21aWVhmNjRBbEE5U1lI?oc=5",
+   "published": "2025-12-23T08:00:00Z",
+   "outlet": "Cambridge Independent",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -29132,6 +30155,17 @@
    "first_seen": null
   },
   {
+   "id": "f17aef9b2b599020",
+   "company": "Boehringer Ingelheim",
+   "title": "Nxera Seeks Schizophrenia Programme Buyer After Boehringer Snub - Pharmaceutical Technology",
+   "summary": "Nxera Seeks Schizophrenia Programme Buyer After Boehringer Snub Pharmaceutical Technology",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVk5Nb2U4UjN1a0lWaXBhTGF0SW15MUZzckpMWWlLcVlwOF9Dc3VoTE5SMXVta2pwU1Z2WjMxNGVkQ2lYVTVDUFlmVXdxc1pxQVRMeWg4cnp3TDB0MmVwRWRmUGp6c2E4NEMxMGFWdTJwSHdDVXMwdlJ4WFRUTlczRi1wSE5FSng5X2ZtNVRra2RVcXJXX0d6LU5kNGVBaHBlSHFMZFgzdkxyRFZNdnNjZA?oc=5",
+   "published": "2025-12-19T08:00:00Z",
+   "outlet": "Pharmaceutical Technology",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "00e1f1eb15e1bf71",
    "company": "Annovis Bio",
    "title": "Annovis Announces Open-Label Extension Study for Parkinson's Disease Patients - Annovis Bio",
@@ -29173,6 +30207,17 @@
    "published": "2025-12-18T08:00:00Z",
    "outlet": "Gain Therapeutics",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "4a6241716ba24758",
+   "company": "Boehringer Ingelheim",
+   "title": "Boehringer delivers fresh blow to Nxera Pharma - Business Weekly",
+   "summary": "Boehringer delivers fresh blow to Nxera Pharma Business Weekly",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0dzUWlRZDdQRHY5d0Q2Ujc2azlGT3ZST2ctbDR3M0ZxNkl3OWNBektxZWlyR1M5NmlCaFVpUXdSNEhhel9TOXZBLVNobEI2UFRqY01zTnlmSUxnQW0xeUlRd0htQnNSRzZiSUhFVllfRVpNU0RKNTIzUkVUVHdlcjJsU2JTbGk0UzBtV253?oc=5",
+   "published": "2025-12-18T08:00:00Z",
+   "outlet": "Business Weekly",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -29315,6 +30360,17 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVmYzaHdXcnVhMGx6RDI3Znk2eldodUQ1blZZTWNNdE1qRWlPZDBzb21zaE1qaGFLOUhXYVcxUndDcDJYU0h4VEUyWENBa0FBd29Pa1FlRWdhX1VkdF9jN2tWYi1TcW84QWFXNkRvUE1LSjlPQlUzNzdrc2xMbk9INXRtbHNkTjk0V0lhTUNXZnp1V2VQZkN6VEtjTQ?oc=5",
    "published": "2025-12-15T08:00:00Z",
    "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "04a6829c44ebd4b4",
+   "company": "Newron Pharmaceuticals",
+   "title": "Time To Worry? Analysts Just Downgraded Their Newron Pharmaceuticals S.p.A. (VTX:NWRN) Outlook - Yahoo Finance",
+   "summary": "Time To Worry? Analysts Just Downgraded Their Newron Pharmaceuticals S.p.A. (VTX:NWRN) Outlook Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSmlRS1JITXhxQ0JRbHJndnJQei0tTkhwWG1zTWlxZXdnbEdZUnNycW9hcTVsSFliNTN6b2J3NnJ2SGZObkVtOV91NWRJTjVuV3o4NEs0c003UDlnek9hLW9rSjJIS3hqV2ktN25MY01XVUc3MWR3ZFM4WTZSclNVdmFQcFBJZjJH?oc=5",
+   "published": "2025-12-15T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
