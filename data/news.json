@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:13:37Z",
+ "updated": "2026-11-21T21:55:17Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1808,6 +1808,17 @@
    "first_seen": "2026-11-21T02:27:19Z"
   },
   {
+   "id": "1c7ec9027efd5dee",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics, Inc. (19X.DE) - Yahoo! Finance Canada",
+   "summary": "Axsome Therapeutics, Inc. (19X.DE) Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50SElnZnp2MmFyRzE2b0VrZ3BqMHNqUnpuZVMyR1E2VVNZY0VBOEdLVnVkaEI2TlBvOVJveXVuY3FrT0VZSG9IUWZSeVhNc3o3Y25uX3QzWVpwNUZOZXpZclpn?oc=5",
+   "published": "2026-11-20T20:04:16Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T21:55:17Z"
+  },
+  {
    "id": "57e459a87198cfde",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics, Inc. (19X.DE) cash flow - Yahoo Finance Australia",
@@ -1905,6 +1916,17 @@
    "outlet": "Yahoo Finance Singapore",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T17:14:31Z"
+  },
+  {
+   "id": "27c90484ae49ed11",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Inc (19X.HM) stock price, news, quote and history - Yahoo Finance UK",
+   "summary": "Axsome Therapeutics Inc (19X.HM) stock price, news, quote and history Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPY2FiU1JYZ0JpRldxdWZMMXpoS3RmNTJSOGV4eGd1M0ZEZmhkX1NaMzY3M3o5V05Hc0FnelEwTVVNYVlYUmlyUGZSa3lMb0hhVFNQSw?oc=5",
+   "published": "2026-11-20T16:44:56Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T21:55:17Z"
   },
   {
    "id": "673b60d4fa3c8064",
@@ -2169,6 +2191,28 @@
    "outlet": "StreetInsider",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "edc57f198dd3515c",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals settles patent litigation with MSN over HETLIOZ LQ generic - Investing.com Canada",
+   "summary": "Vanda Pharmaceuticals settles patent litigation with MSN over HETLIOZ LQ generic Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZzBhVVJJdDVDbE9mTnpWbEVfOTdZeDJWS3JlWjJwaEhQRl90RjJsZ2hmQkxqUHRuNVpvbXU5eWpDSy1CR3YwVkR2bHVYVWFJdmVvXzZQNW0ybVpjYkpWdXpZLXMwajJfcVZGOU5aRy1JZHMtQ0N5bC1PWjNTdHkzaUxWRGVzR3dPTU02SU1CZnFUVnFBQm5FOEVkSHVhQ1ZJS2ZQMjUzUkxZa2dHallRajd1T3hMR2tuQ3h4TmsyZTJya0ZpcTVjRy1OeFRYR05iMmR5bXBfWDE?oc=5",
+   "published": "2026-11-20T12:27:36Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T21:55:17Z"
+  },
+  {
+   "id": "aeb5a78c7cfe794f",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Form 8K Vanda Pharmaceuticals Inc For: 20 November By Investing.com - Investing.com Canada",
+   "summary": "Form 8K Vanda Pharmaceuticals Inc For: 20 November By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSzNfRTEwYmRsMkI5U0ROaGhuX2dpM1luel94bVUwVjBqZ2FQWXN1ZkpfeHpWcFhqWndIVVBUX2Z4a1FNNVM2MHlYYTczcHFibVhPcl9KenZaZ2tVcEhqOWVkN3I1NDBXUjBKOEt0S3R2dzZNTWc3S1V5SWVYZ1YzUG5QUmRPRDJaeEU2V1VkOTA1YmlIWTRWNHRBTzF6ODZLZFBxT2xvdE01VWdHZGpv?oc=5",
+   "published": "2026-11-20T12:27:36Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T21:55:17Z"
   },
   {
    "id": "05efc1f273be2d60",
@@ -2941,6 +2985,17 @@
    "first_seen": null
   },
   {
+   "id": "e8e35ea129537d2e",
+   "company": "Axsome Therapeutics",
+   "title": "A New York fireside chat is set for Dec. 1; Axsome Therapeutics meets investors virtually the next day. - Stock Titan",
+   "summary": "A New York fireside chat is set for Dec. 1; Axsome Therapeutics meets investors virtually the next day. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1ZWMHlnNWlKcXVsWTNvUUJSU1J1Z2tDSzg4d1JNZ3BFMVZVUkNjRHM4LVB2SXdBY1ZBeWNONnBFZDR5Z2Q1NllPUktaanFadUVHdjFGMmZBRHBPcUoyVmJNNHMzZ3I2NTFUZlV1U19fLVlYanFjTVRhZFJwODh6VVpGTkM4dnAzVC1PSV9QdDJNZU1OMWxEVHloM3ZTbWs4d1kzWk5rOWtPdHdrQWZF?oc=5",
+   "published": "2026-11-19T12:00:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T21:55:17Z"
+  },
+  {
    "id": "f6f7250fe06dbcaf",
    "company": "Luye Pharma",
    "title": "Luye Pharma’s Ruoxinlin Approved for Generalized Anxiety Disorder in China - TipRanks",
@@ -3150,6 +3205,17 @@
    "first_seen": "2026-11-21T07:43:31Z"
   },
   {
+   "id": "752aacd556e30f96",
+   "company": "BioVie",
+   "title": "Biovie CEO Cuong V Do buys $2,492 in company stock By Investing.com - Investing.com Nigeria",
+   "summary": "Biovie CEO Cuong V Do buys $2,492 in company stock By Investing.com Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEZoQmNzUzZvVXpMRUl4VV9rdHVZcmFGSWNHclZQWDNUSGlYbEhwSzFtM2hUTDUzRjVQUmh0X0wtUzB6LTI0NVBtUnpFc1RLNVZTOWpIa1BYOUVXMktOZ09jeDdzb0kzamlmazEzMUQ0VWlyS3otcmVYQ0RpQ2lUbGtEUzFaYi1KcmwxVWpxQ29kQXdyOUlTQUhjV0RZUXR2Uzc1elNDejUzdldvb3c?oc=5",
+   "published": "2026-11-19T02:34:28Z",
+   "outlet": "Investing.com Nigeria",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T21:55:17Z"
+  },
+  {
    "id": "b61dd6651cd77733",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com - Investing.com Canada",
@@ -3181,6 +3247,17 @@
    "outlet": "Investing.com UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:13:38Z"
+  },
+  {
+   "id": "94422aa109c5cee8",
+   "company": "BioVie",
+   "title": "Form 4 Biovie Inc: V. do Cuong (Director, President & CEO) For: 18 November By Investing.com - Investing.com India",
+   "summary": "Form 4 Biovie Inc: V. do Cuong (Director, President & CEO) For: 18 November By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTGdGZG16Y3BRQVo5RjJGNVFpZ3dFX1VSR0VnN2FhSk42c2lzTm1iWTdTNTFpN1A1OS02cDBQZXFkQXZKUExUamp1eGE0aExGZ0ZRVFhJeU5MTU5DTXZjQ1UzRXlaTGtyV1l4WnptRVNrYUZxYjdoY2l1YmRYb2xHczk0WHJUbkdXUElqUzZucnlHS0tsQl81eDNNakZVaTdhSEFFbTZodEI3UzBrWWhETExDR1VBNF9MclJHdHpzMHN1Uy00Y0pmaQ?oc=5",
+   "published": "2026-11-19T01:24:42Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T21:55:17Z"
   },
   {
    "id": "b49ba78e3262bf1b",
@@ -6879,6 +6956,17 @@
    "first_seen": null
   },
   {
+   "id": "1d3eeac31f0bbb07",
+   "company": "Protagenic Therapeutics",
+   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
+   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
+   "published": "2026-11-11T13:30:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fa7d12de4cdd1032",
    "company": "LB Pharmaceuticals",
    "title": "HC Wainwright Issues Pessimistic Forecast for LBRX Earnings - MarketBeat",
@@ -7008,17 +7096,6 @@
    "published": "2026-11-11T08:33:38Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "1d3eeac31f0bbb07",
-   "company": "Protagenic Therapeutics",
-   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
-   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
-   "published": "2026-11-11T08:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -8756,6 +8833,17 @@
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLTl1VWdiSGk0eF9iQmttVk9ZTGRlQzJERTVzOHAxRHFVeld1T1FVcllkMFRLdGdQLXFOaW9UQzlpSGpPV1BjUUFOMmo5VXY5MllXb0xwOU1uTzRfX1JSQ0pnb3dMenBINmpjTTM4TUpZbFhsdzBXMlhNTW0zQ0E4Rm56OWc0cF9FaE1OM19GS0Jqcks5QXh4X0NnTUgtWUhkQWMwY2VFdkVfejlUNl9qck8ycE9OQTVodS02VHphZGZodUtHMVVGT1gwRTdGdHRyVV9SdnByM0JiUGFqeGtsRW5CQUpKem5RQVE?oc=5",
    "published": "2026-11-05T01:18:21Z",
    "outlet": "Sleep Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4ac312176860919a",
+   "company": "BioVie",
+   "title": "BioVie (NASDAQ:BIVI) Penny Stock Plunges 24% After Pricing a $4.74 Million Offering at $1.60 - kalkine.com",
+   "summary": "BioVie (NASDAQ:BIVI) Penny Stock Plunges 24% After Pricing a $4.74 Million Offering at $1.60 kalkine.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGRJbXZJb19wTDZtd0JYSXM4Nk04NEl1NENYMU02Wmo4ZjJKY19xYWdoWVpsRzEtMkRuVW1QdlhkSGNGVGFkQjRYb1hnQXZ0bWdUUmlXd1lZeTJpREI5VnFic29fUTFXdnpvTDRLY2JNX1hCcjQzU1BRWGZ5anhLaS0tN3dkYkJENllIOUNzZ2xsS3JveWxhbWpNMUxZVjVuRUZEOE15OVVKcy1kaS1Yc2VLcmtGVjdNQ0ZtcQ?oc=5",
+   "published": "2026-11-04T20:32:00Z",
+   "outlet": "kalkine.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -26932,6 +27020,17 @@
    "first_seen": null
   },
   {
+   "id": "ccde9047790e5a6a",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Announces Settlement Resolving All SUNOSI® (solriamfetol) Patent Litigation - Yahoo Finance",
+   "summary": "Axsome Therapeutics Announces Settlement Resolving All SUNOSI® (solriamfetol) Patent Litigation Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3M5dkxJZm96bG9ERjhCaTBmcTNRV3VtcGhFQWVQX3BsQzZkU2JHOVIwbHNKNDNGVUhkaHE2VVNTbFA4YlY4S2pLcEI2SXBJblFXLTdMeGFLb0dMcWJMeXZIR2FUSGRYT3VpUkxHSlVLdEx0ODVUS1hFTlB0TDlmTzk2WFN0MXFYWDJiLUxyeXdUWFdxRXBQRnJLUThlckxfMlV0SG1CWFNGaW9oRW5POEtFNDJPeU1fU21N?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "edd2c7ba36f555b6",
    "company": "Arvinas",
    "title": "2026 Archives - Page 2 of 2 - Arvinas",
@@ -34291,6 +34390,17 @@
    "first_seen": null
   },
   {
+   "id": "8acffb6926006ce2",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia - Yahoo Finance",
+   "summary": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQktVWlV3Q0NLWTBOaFF6Y3JNT3VvbDlXbFFKckFfaE4yS2Z6ZzloRUVNNF9Fa3NYNmo0eUtvenJ2TGtSY19LUGtvT3B6VE1aRWgzWlpMOVB0cWdyYUxDTGtZTzlPbUlMYzMtUVg5cTVyM0dmWXZBR21tRHFqNDF6eDZLTTNqMXVEMk5hWEltZ2dicTJFbERXZW5jQzU?oc=5",
+   "published": "2026-02-04T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b07b63ba769b5dc4",
    "company": "AC Immune",
    "title": "AC IMMUNE SA (ACIU) Stock Price: Nov 18 Close $2.10 - Gotrade",
@@ -34309,17 +34419,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMXdTM0hMSFJrMDU2Y3JuTVVUZDREMzJILUhLWkxQSDNxcHdBWkJ0c3BsVFUxVjlvREp5MF9ETl9xRjhwTGt5cHNLdUpXTW5fLXBBWm0yVDlDeGp2TnBJbTRHdFFGTUR6eHM2WTN2eXR6NWNWUDVzU09ETFlBRmVjcFVXY1plT0dUTnJvTUxYalZ0SVgxMk9QY19RVGtfNVJrR0VxSExHSFJfNEtNaEFhM1FjaUY2N2praThtZ0xjV3Vta3JxOS1qS3VHR0tfLTVj?oc=5",
    "published": "2026-02-03T09:17:31Z",
    "outlet": "hrtoday.in",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "8acffb6926006ce2",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia - Yahoo Finance",
-   "summary": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQktVWlV3Q0NLWTBOaFF6Y3JNT3VvbDlXbFFKckFfaE4yS2Z6ZzloRUVNNF9Fa3NYNmo0eUtvenJ2TGtSY19LUGtvT3B6VE1aRWgzWlpMOVB0cWdyYUxDTGtZTzlPbUlMYzMtUVg5cTVyM0dmWXZBR21tRHFqNDF6eDZLTTNqMXVEMk5hWEltZ2dicTJFbERXZW5jQzU?oc=5",
-   "published": "2026-02-03T08:00:00Z",
-   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
