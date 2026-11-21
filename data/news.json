@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T13:53:47Z",
+ "updated": "2026-11-21T14:45:17Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1751,6 +1751,17 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T03:17:37Z"
+  },
+  {
+   "id": "cdb653523e87389a",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals settles patent litigation with MSN over HETLIOZ LQ generic - Investing.com Nigeria",
+   "summary": "Vanda Pharmaceuticals settles patent litigation with MSN over HETLIOZ LQ generic Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYXVOdWtZVFRENlJNaWk4Y3k2c25DZFltcjFpZ2xNejBiRUE4V0VKd1ludzhBalFlbFhQWUlwNmw5d0ZVbm42cXRlYXZQZ3pwRGZpdXctRkd5d2dFSGIwNUJJYjlLQlhGOWU1VkI2bm45anhoMGJ1UU1tTXpZNUhQblhKMmxramJpdUxpbUF5QWtVblA3bUdJNUdOZ0JJTW1fV1ZCWHZZTWFhbHhlWjFlNjY0RzNSNVRnSEp3SVJUNkN6ZUpWQnViLUdOMlRHbFE1VVNyWnhleXQ?oc=5",
+   "published": "2026-11-20T20:36:30Z",
+   "outlet": "Investing.com Nigeria",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T14:45:17Z"
   },
   {
    "id": "de75a3c9b5d20a52",
@@ -6956,6 +6967,28 @@
    "first_seen": null
   },
   {
+   "id": "e239679fb24c7c13",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics (TGTX) Q3 2026 Earnings Call Transcript - The Motley Fool",
+   "summary": "TG Therapeutics (TGTX) Q3 2026 Earnings Call Transcript The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkV5bzhEeHBZdHNUZ2RPa0FwaVk3X0tSVGRVRUd6SUVXZ19ZYmdlVkRJMjhYNGVWMjFnQzJrbERrV1VJYmVoUFRrclJFbEdwQ3pPYmlzRllPRHFkd2xEaFFOS0daczdBM3lTT29ZemJnVDRSUk5GLWIxcGctb2dNUFFxV0ZMUmN2QzB5QTNMTXd4eHpVWnMyMTlLdkUzdW5kRWNHM1hJRzRLUExBNmFDZkZn?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "The Motley Fool",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "69f8c2d6e06cc7e1",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics faces earnings test after profit disappointment - Investing.com",
+   "summary": "TG Therapeutics faces earnings test after profit disappointment Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSl9FZ1A0SmxVajBkeUdPYlplQzdOb1JSRkxWbkM2OXlpZl9BbnhDeTE4a0preVByNFQ4UVpwcGJJb2tUczI2MkZOTGVtZFdhSGtCSUw1NTRkRVVtUzdTcXQ4WXJNaUtUT2tWWllWTWJ3bTRuYlZ0VkFITTc2ZXJYcmxFSlYyYUExUFphYlBKRmVYSjV3ZnVpb0Z2XzhGRFlLS0p3a1hYS1k3UWhjLUwycENzMnVOVms?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "55cd85fecf4a55ac",
    "company": "S.Biomedics",
    "title": "S-Biomedics, which is developing a Parkinson's disease cell therapy drug \"TED-A9\" derived from embry.. - 매일경제",
@@ -7660,17 +7693,6 @@
    "first_seen": null
   },
   {
-   "id": "27f19cda455d543e",
-   "company": "Idorsia",
-   "title": "FDA Breakthrough status for Idorsia’s daridorexant - The Pharma Letter",
-   "summary": "FDA Breakthrough status for Idorsia’s daridorexant The Pharma Letter",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdhUUVJOXlsdVJVQWVwZHJiNy0tQWRNRDJ6Ml9iTWlyN083eS1hZzhDeC1ZMHQ5RXo5X3VPYnZOTWVfMTRtY0xOOFhZNlZlSC1FSXBfbkpKQTJnTFhPQ3dlR0JEbEhpYnI4eW5xTGNocUVJS0h2S2V2ZzF3OXhXWnVPaVNrRm40YWRfZ1JncnhKUUplWnRYRi1ldw?oc=5",
-   "published": "2026-11-04T11:29:16Z",
-   "outlet": "The Pharma Letter",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "32a2e52529545c4c",
    "company": "Usona Institute",
    "title": "Stifel on Compass Pathways (CMPS): 'the Usona situation is an extremely atypical one' - StreetInsider",
@@ -7689,6 +7711,17 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0hoM1pYR2MzdjhZOEhoNzd1dzN1ZmI2QkIzVHFnTnlWTGhMSElENS1XSGVLTHJfTmpsYUtsNGMzUmo2aG9TT0lXbnNISE9CMTdROGd1c3ctVFBFd2hfelRvSG92Y2VKaWlqMDkzSVVTV0M2d0hJcE1PcUlJUTljTzNRalVPOTRVeVRsX190bTRsQWRGSWEyLTllT2dING9tMDJjRm11QXZyRGk1QUN6aG93ODROc2xOckRMbU5WNGMxSlp1ckszbg?oc=5",
    "published": "2026-11-04T10:14:14Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "27f19cda455d543e",
+   "company": "Idorsia",
+   "title": "FDA Breakthrough status for Idorsia’s daridorexant - The Pharma Letter",
+   "summary": "FDA Breakthrough status for Idorsia’s daridorexant The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdhUUVJOXlsdVJVQWVwZHJiNy0tQWRNRDJ6Ml9iTWlyN083eS1hZzhDeC1ZMHQ5RXo5X3VPYnZOTWVfMTRtY0xOOFhZNlZlSC1FSXBfbkpKQTJnTFhPQ3dlR0JEbEhpYnI4eW5xTGNocUVJS0h2S2V2ZzF3OXhXWnVPaVNrRm40YWRfZ1JncnhKUUplWnRYRi1ldw?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "The Pharma Letter",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12148,6 +12181,28 @@
    "first_seen": null
   },
   {
+   "id": "1c9ca942a7b5e028",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics to Attend the 2026 Maxim Growth Summit - Yahoo Finance",
+   "summary": "Gain Therapeutics to Attend the 2026 Maxim Growth Summit Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDRRUlFnd09KNmNrbkprdlFLSi1fTWdneHFZS1lRNkxoRjQxQUY3V2lLVUtXd25uTFp0NWd1V2FkRkNRbmR1eGhtb0Zxc2wwdXNhOEdtSXlUV0NCajVFSjFGaG9jdlExR0NFT3NZSWl3b0RiLThmM1Y4NHp0VjdrbUI5anVRTEZnd2tveDdzeTlxUUJZZ09RTVUteTQ?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f77c91b403ab6ff5",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics (TGTX) Just Sparked A Bigger Question - Yahoo Finance",
+   "summary": "TG Therapeutics (TGTX) Just Sparked A Bigger Question Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0NrR1ZINXBfM3QwZ0txYzBkNjY4R0hsdW0xbDZSRTY4aV8wMVlsVVIwWllQdGdnM2FMUFp4V2kwc2VsdE4teUh4NWtpMm1fa2tzQ2dpTTU0NFkxb2NLdEN2NVhLQnBIM0FTdnJNYVBlRDlPWExjSkFEcGliQjBWanhCTmxmNUs4c3RncU9fZGVGZHN0VmY2SkVR?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1edaf5ba7f41e3be",
    "company": "Novartis",
    "title": "Value & Access TA Head Immunology & Neuroscience, APMA - Novartis",
@@ -13057,6 +13112,17 @@
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMFdFQWdsS0NyVFBiam9ZdXc5cGN6eUgxRVZxOG51SVdSRm1PUDRPWFl0STBwVDNFUDRMWEF1b0VpaDFXRFVfcndCcW1JR0lpcWNJMk8yZlZXLUZLVS0tMnJvYnB1Sjk2aVhxeXRYMnY5VWJGLVoxSzEtVjJpRDl5dWpEbXdlM0VPN01uUE9NUFRxYTkxd2RoM0F3Rlo2ak4zcXBrWWR3U3l6OW1aM21OdDJncm1jbVVxVVg1QzR6d3FHbEx2SE9zVVVhRy1rdHRZcDhoOFBOWUxIY2JqTmhaNW1WRHRKVjhnYnNJVmN4UWw2emVkLU9tRkxEWFZmaTF2Ry1NWA?oc=5",
    "published": "2026-09-29T07:00:00Z",
    "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fcd324d0ec260dac",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Announces Poster Presentation at International Congress of Parkinson’s Disease and Movement Disorders - Yahoo Finance",
+   "summary": "Gain Therapeutics Announces Poster Presentation at International Congress of Parkinson’s Disease and Movement Disorders Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWk5wcGx1VTkyMkRabFNXODlleEZTVnltSzhwSVpEWUh5ck9Oa3ZKSjRUd19mUkdJWWhiRWJMQzNmRG5iTjZPNXZ2cmZQQzBBZURVWko3a3dnbmdjbnZORk80Y2RqWVF6UnR5eElaamRlS0U5ZDUyR3JUb1NvMkp3WlpyNk5NVmw2MmRVMGdFcDVQSEw5Y1ZFQnJUek5rdHVHRFJfUU1OWUVEVF9J?oc=5",
+   "published": "2026-09-29T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -25986,6 +26052,17 @@
    "first_seen": null
   },
   {
+   "id": "a443cb0acbc3d999",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Athens Open 2026 Draws - WTA Tennis",
+   "summary": "Vanda Pharmaceuticals Athens Open 2026 Draws WTA Tennis",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yNzJ2aV9RbHMxS2NjWlZ0eFBjTndNOHNyS2hqV2Z3WmV3bTUyNjZSTktMcWF3SEhkcXpzRjNFb2xrbVRpM0p6SWxTQVRORUhPVzlRcHJ1ajE0U01xRE9ZUFkyeEVZSXFXeWZWQg?oc=5",
+   "published": "2026-04-29T16:55:45Z",
+   "outlet": "WTA Tennis",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "5a6bc8272ba2cc49",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Athens Open 2026 Order of Play | WTA Official - WTA Tennis",
@@ -26002,6 +26079,17 @@
    "title": "Vanda Pharmaceuticals Athens Open 2026 Player List | WTA Official - WTA Tennis",
    "summary": "Vanda Pharmaceuticals Athens Open 2026 Player List | WTA Official WTA Tennis",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4QkNGMVZSMEVRYXo2TkxiWDlEUUdzOUdGQzUyZFBmdDJYRURnRGZOQ1ljLTNZeUhBeG1keG5yNWRVNzJYS1ZRQ3VyZUJLWjUySF96eDU4OTJzUjZyTW1Xd0UyWFZCZjVJc2VIS3NiRWtWTEJF?oc=5",
+   "published": "2026-04-29T16:55:44Z",
+   "outlet": "WTA Tennis",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ec519cfdd3a1177a",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Athens Open 2026 Order of Play - WTA Tennis",
+   "summary": "Vanda Pharmaceuticals Athens Open 2026 Order of Play WTA Tennis",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PeHRfMzVIUjBjelNLS19hOEx2d2NndnY0aUVnX3c2R01SQ2ZOTUVVdXFNbmw2Z3lXVFA4X0VFcnozY0ZMdGZwSTVNYUtGV3VvWnFmUnRPRHNaSnNZaUVEX1dud3dzc2JCRzNLQzE1LVZCS2swNFpZ?oc=5",
    "published": "2026-04-29T16:55:44Z",
    "outlet": "WTA Tennis",
    "method": "news search (newsroom not indexed)",
@@ -26830,6 +26918,17 @@
    "published": "2026-04-17T07:00:00Z",
    "outlet": "Chosunbiz",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "0e48331a095d06e8",
+   "company": "UCB",
+   "title": "UCB, betting on seizure cell therapy, to buy Neurona for up to $1.2B - BioPharma Dive",
+   "summary": "UCB, betting on seizure cell therapy, to buy Neurona for up to $1.2B BioPharma Dive",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDhUSnl4eFpwVzFHZ1hldzlJMXpGQndfX2drdVdMRmhONEdqOUNSYTNMUzZyU3haQ3dtcm41VS1PNjZlN2N4RGV1UnJuUGF6NDhqWV8xNUttbGN4UWpJcDVZU1RQbGc4YnE0OFF1T1ZCSlo4aWVURVkxWlJtS19feDFXQjgwUEdONmFTaTNvQ0NESUotenJmMnl0UVZoaDZaMDZZ?oc=5",
+   "published": "2026-04-17T07:00:00Z",
+   "outlet": "BioPharma Dive",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -28512,6 +28611,17 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhIMVlYOGV6My1qakZJN0p6bnZhSTVGMjQwTENndXdFRWsyTDJVTDBYZmpfRUU5dGZ5Ri1xbFhmLXp1cThXa2htVEJLQ3lPVjYyQkFVcEthOWdXUDYtT052azBWQ3h5dnZTMks5a2tzWU1EWGt2cWxGUmNrcm9FVS1FV0swbzB0YUo4cVdYWFFpWWQ0cGlGUWFEVXN0NXhjdEE?oc=5",
    "published": "2026-03-23T07:00:00Z",
    "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2c2a336608b8aecc",
+   "company": "UCB",
+   "title": "Exercise: A Disease-Modifying Therapy for Parkinson’s Disease - Medscape",
+   "summary": "Exercise: A Disease-Modifying Therapy for Parkinson’s Disease Medscape",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWJFZkdrX2FnZlBvTEJuLUY3aWoxMWFKeHF2U1E1NlRYNGdFZkVqZGVHSW9RYXpIZUZBZlhtbGNoRTdlWjU1b1NXMi1yQVZiRFgzS3dFc0N3Wk1UMFVkb0pKeDlEalkxNTU1X3ozcEVOVUo5SGc4VzJpUS14Yy01ODgyUExxaEdIeHNWOWVxWHAwRkZkQTdmdmVybXhKOXBmTkowbXN3?oc=5",
+   "published": "2026-03-23T07:00:00Z",
+   "outlet": "Medscape",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
