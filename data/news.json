@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:23:20Z",
+ "updated": "2026-11-21T11:14:35Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2699,6 +2699,17 @@
    "first_seen": "2026-11-19T17:19:58Z"
   },
   {
+   "id": "e2e060e73858b0f3",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
+   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVVNxUUlwN3FZWGtaZzlIUVl2R0I3LVhpMWlOc3B2U04xMFV6YWhIMC03eGxyNDktbVo5NjBzczVVUHhqQUU0M2pPTUhKWFNyZW1PMXhkVFdmMUIyQy1JcGwxazBFYjI1bzQ0VWh2MUhkeTJZWE1sRUVFZDdXMUNQY2RTVF9VOE4yTlNib1RQZVNUam45SHpEMVRIZlYyYTNYUW1kRmd0Zzc1aEItUU1V?oc=5",
+   "published": "2026-11-19T12:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f6f7250fe06dbcaf",
    "company": "Luye Pharma",
    "title": "Luye Pharma’s Ruoxinlin Approved for Generalized Anxiety Disorder in China - TipRanks",
@@ -3498,6 +3509,17 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVpyeGlpd25ZU0hCMXY2N3NNQzBmaGFIMERVU3llNXg1UHp0UElWeFp5TVo0R1lFUnVCMF9tVndOaktScEFKYl9IdUd4UXM0bC11QmcxRnhvMkE0bnpNR0hWWkRSbG1HNnliX1ZWeXRwaEFnSEN3UUltM1ZkZmwwZXAxT3lOMHhqcVpGRzdfcENtdUVFMVltMGhOekZlRWYyMXhGbVpZT3V2ZmpxMmN5bTlhY1JZQWFjZUxudw?oc=5",
    "published": "2026-11-17T20:50:06Z",
    "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a2d0ee3ad6d3ec9d",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences, Inc. (4MNA.F) Seasonal returns chart - Yahoo Finance Singapore",
+   "summary": "Minerva Neurosciences, Inc. (4MNA.F) Seasonal returns chart Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fajJPbTRmMlh0VXUtNzlnQndRdG44djNSWkNyT29Lbk8yQXJjel9NMVlYc3h5bHJ0bUNPd1NCTXlzaHNiVWw5X3NiNnVDZ2xSQWM2VDJXdVJiSElUMjkyM2xqZG0?oc=5",
+   "published": "2026-11-17T20:17:50Z",
+   "outlet": "Yahoo Finance Singapore",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4602,6 +4624,17 @@
    "first_seen": null
   },
   {
+   "id": "88a8458fd9f3846f",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Revises KOL Transcript on Roluperidone - kalkine.com",
+   "summary": "Minerva Neurosciences Revises KOL Transcript on Roluperidone kalkine.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMktlN0dUN1VjRkE4Z3FzeWtKZFNmQW1nWTRmdXFXa3lPQjZBVklES0pXaVVCX0U2M3hpd1o5VThOc0NIdms2MnJiaDlfd1NaTTBBNG5fa2pXcTZ0WFlUbkZMWUVBdDlhQjhaWFB5MmJ4M0RPYTFjbERTT1hIcVBRS2lSbkJZdWtGOTNLaUtVY3dSVVpzdmNxVEN0aWNiUWZS?oc=5",
+   "published": "2026-11-16T12:22:49Z",
+   "outlet": "kalkine.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b60e089d2bc02b10",
    "company": "MapLight Therapeutics",
    "title": "MapLight Therapeutics Reports Third Quarter 2026 Results and Updates Progress on ML-007C-MA Clinical Programs - Quiver Quantitative",
@@ -4646,6 +4679,17 @@
    "first_seen": null
   },
   {
+   "id": "6fb078a466cab2c3",
+   "company": "Minerva Neurosciences",
+   "title": "NERV: Minerva Neurosciences Inc filed SEC Form 8-K: Regulation FD... - Quantisnow",
+   "summary": "NERV: Minerva Neurosciences Inc filed SEC Form 8-K: Regulation FD... Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTU3dXlwOWg2TV9BckMxTFk0SjhIa0l3cXJoSUxwTmhmejFiZENlZFI0OWVxcGRlS01BZ3Q4MjdfXzF2Y25fQkZrQi12R3A1c0hycXVTRlhINUJBV2xXcWtSMGN0QlAyeUs3dEljV1lUX2ZVaFVvVXd4elYxOURUSTdoY0diLVhWZkFyOF9aZTljcFc4R1lWaURlNU9jRUFQSkxRV2pldWkxdVV3Z0ZkWXl3?oc=5",
+   "published": "2026-11-16T12:06:51Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3b10550e45e26e42",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Announces Positive Topline Results from Phase 3 APPROACH Study evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder - Mon, 11/16/2026 - 07:00 - Helus Pharma",
@@ -4654,6 +4698,17 @@
    "published": "2026-11-16T12:00:53Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "ebe5dcae3db0441b",
+   "company": "Minerva Neurosciences",
+   "title": "A warrant exercise cap applies to Balyasny’s stake in Minerva Neurosciences (NERV). - Stock Titan",
+   "summary": "A warrant exercise cap applies to Balyasny’s stake in Minerva Neurosciences (NERV). Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWHVVTnNwSTRoVmxoUjdGVTlDTXc3MFA0Mkkwcl9rcXBmRVBIb3NNT3Z1cDdheDdhMFN5N1E3a3pPQjN5dURZRmxUZElQOVdYZUFQMk9ZVjNnc3RlSGdWS0ZuM2JTUjR1eGo4Z1dyTzJZYUJta3ZKNGVrdW52WGNiMXdHM3NRSVBlUVhWdWFZQWQ1TWJJUkkyMDFjbHpDanA3WnFyZDlhMWY3bFcxRlBpbktldXdia2xYNEU0WXd3NHJJRFNDWG01Y25GRQ?oc=5",
+   "published": "2026-11-16T11:14:36Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -5636,17 +5691,6 @@
    "first_seen": null
   },
   {
-   "id": "1d3eeac31f0bbb07",
-   "company": "Protagenic Therapeutics",
-   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
-   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
-   "published": "2026-11-11T13:30:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "fa7d12de4cdd1032",
    "company": "LB Pharmaceuticals",
    "title": "HC Wainwright Issues Pessimistic Forecast for LBRX Earnings - MarketBeat",
@@ -5765,6 +5809,17 @@
    "published": "2026-11-11T08:33:38Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1d3eeac31f0bbb07",
+   "company": "Protagenic Therapeutics",
+   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
+   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -6582,6 +6637,17 @@
    "first_seen": null
   },
   {
+   "id": "eb53bdf562fd32b0",
+   "company": "Protagenic Therapeutics",
+   "title": "With no revenue, Protagenic (PTIX) faces a funding gap ahead of a planned drug application. - Stock Titan",
+   "summary": "With no revenue, Protagenic (PTIX) faces a funding gap ahead of a planned drug application. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0Z6TzFDc054NUViamt6X0FNekJON3RFV3hpSXFrNmxvLW9SRU8tbVNPMkU0N3BXNVBoT0kwd0tSdUFFaUo0MlBoUXRkME1sdTc4Z1hMalQ4R0Nfbk1WX2QxZl93YTE5YW1xNjUzeG1lZ3ptdHZJcW9La3h2R2tBYXdoNGJ3eWxuM0oxdzRJZ0NqYVdSc1hTSWFmcjU4M29nVWNFa2Q4endpV2F6dmRMaXRVdng3VW9NNDlzY0dqREdVQQ?oc=5",
+   "published": "2026-11-06T19:28:33Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "091e07fab9b65e14",
    "company": "Protagenic Therapeutics",
    "title": "Interest can be forgiven on a 1% loan to Protagenic Therapeutics (PTIX). - Stock Titan",
@@ -6626,6 +6692,17 @@
    "first_seen": null
   },
   {
+   "id": "ccf6090df5ba61c9",
+   "company": "Minerva Neurosciences",
+   "title": "Form 8K Minerva Neurosciences Inc For: 6 November By Investing.com - Investing.com Canada",
+   "summary": "Form 8K Minerva Neurosciences Inc For: 6 November By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUdKa1B1S0M5MnpsYkdJeGhMYnVuZUVtc0NYbUdoRE9KVzk2UzdmTmVyZFdHT3JKOEwxSlRpUVlDaWg4cVlHLWg3M0N6MERTYWFyTjk1RTJVdkR5dmliZzd5TjdZbTlRYnRFeVVnNmZKRUs2cTJ0emE1SllKTXNxeGlTM3VMSDFZcWpoNWlmYVBtSHZXUTZpbkVKUFMtSDdHWWFYbXc1V3ozVmVjX3c?oc=5",
+   "published": "2026-11-06T14:42:25Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "831530389bd3b066",
    "company": "Minerva Neurosciences",
    "title": "Minerva Neurosciences: Q3 Earnings Snapshot - KVUE",
@@ -6633,6 +6710,28 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkVWUzVUVjUtSlltN3h1eVg4aHZjQl81Vnp6Ymh1MmwzMk1za19tSDlDZWJxSWJqNDVvYnpVeVZUM2VENHd3U1diZGhRWEFYMExWTlFmeTkwd0FlLWtmbFotcTNmaG9UNml6TXp5Ym4wOGF2Ukw3N1R2S2o5LTh2NWtLTk5vd0JmeFlDMkxfVVQxV2FIdDRiNTd1Nmh6NU1yRExyQkNnZHljVUMzV0diUkZSN24xUHFKV1Nhc1BKVldNY0xYZ0lmT2xhVDd4YVZLc2dwZkF1Yw?oc=5",
    "published": "2026-11-06T14:35:04Z",
    "outlet": "KVUE",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "cfe203ad3643df11",
+   "company": "Minerva Neurosciences",
+   "title": "Form 8K Minerva Neurosciences Inc For: 6 November By Investing.com - Investing.com India",
+   "summary": "Form 8K Minerva Neurosciences Inc For: 6 November By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQejc5WjAzUzljejhrX1NwemJlLWU4NXFHVXpKZ05nb0pURDZvVGxmOXE4bjFkc3o2U1R1OFBremZsVUtwa3lOYkJOZjN1RHhRdC00ZHVuX2RvaGozOWNoTHR6ajN6Q3J3N3MyUTRKN2lib21TOHEwUmRodDV5OEVHNUNTMkhPbGZ6em5TaE9Yd1daNG0wVWFKNGp0emtlaXc4aVluLUNBMUVTYmc5M1E?oc=5",
+   "published": "2026-11-06T14:30:45Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9978c2382a97cff1",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences reports Q3 results, Phase 3 data due 2H 2027 By Investing.com - Investing.com India",
+   "summary": "Minerva Neurosciences reports Q3 results, Phase 3 data due 2H 2027 By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJHRzNTVk5oSHRwUGJhdXdJMnllaU9paVJyU3BzZGI2V1RXMC1jUXJGZzJyOVJMTW54NVBTT1JjU0lJN2ZHMGdjYmg0NUp5N084VklHanZoTmVoYW4wbkhCTFJ6NjNHWWRVV2N2M0I3Ui1xLW5zVnVzQ09rMnY2X2ZFYjZ3RDVnY3hOV0VLd1BzZXNXVEtlS0RXR1ZLV2ttYlp0SU91RFF3QWpSTF9KRUx5ekszRTd0aVk5enFFSnFPZG1Z?oc=5",
+   "published": "2026-11-06T14:20:45Z",
+   "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6798,6 +6897,28 @@
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdnZVLTVOaXZtWlllb0JSVnFCY3hRTHVhMC1vVDR0WTdvZzVkdDZkU1p0STRyc3pKRENLY0lDNldxS3JEQi12SU50TUlpSG55RXpVeXBISEZiWDhLMzdubmFZRmYzVmg4eDBHVnhnaF9pUkljOXJCb1lvc09YU2NiZWZwMDNwMktIZjd1RUxrM0F1SWk3MVlVckxOc0w1UHZzT2VnY0RCZTVVQjdJRnJwY05QX1hpOUthOGNYcG1LX2lHREhMd0ViTXphNEx3SGo1c2R4WUJOWTVyRHRJSE4tTjZncnN4dw?oc=5",
    "published": "2026-11-06T08:00:00Z",
    "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e8a27fe84dc6c723",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Reports Q3 2026 Results, $100.7M Net Income - TradingView",
+   "summary": "Minerva Neurosciences Reports Q3 2026 Results, $100.7M Net Income TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnFYUTNnNDAyU2ZOMlZSY2J5THVLMXJybEljUFQwaFlPdS1TYkZ1THZKRHRqUUthalc4VUVpcWF5cXNvdmR4QXppaHkzZ2ctVDNjMVExTWhsa2lpTU44ekVnYUlONUNrSFc3bThZOENfdjJKbi10c0hZYmZfM3ZVWDA0UC1nY1R3amFpN3kxdWlDakhSakptUER3X2xLNzVpT0s0dDFqdXlLeEZQYXYySFBfblQ2RWNQVVZpUG9WQ1ZzbzA?oc=5",
+   "published": "2026-11-06T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "dc8c469fe7b75dc3",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences reports Q3 2026 results; ... - Pluang",
+   "summary": "Minerva Neurosciences reports Q3 2026 results; ... Pluang",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenFZSjNCMWZqeWdyWDJPS0tXOFp4d0E5VFc0d3NOQ2ZBSHd4em5OVzNYdkt1MHFYbnNvYVVZQmxZV29hV21kdU1ralZqY1N3VWZFcVpWVDNaRmhyZTFHTlJyZUYxOHFlOVcwdnVtV242X2x0SjJoZXlGbEhLeG02U1ZDc3RmZTFTRUczeHJGc3F2aGtQRlJWZw?oc=5",
+   "published": "2026-11-06T08:00:00Z",
+   "outlet": "Pluang",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7143,6 +7264,17 @@
    "first_seen": null
   },
   {
+   "id": "27f19cda455d543e",
+   "company": "Idorsia",
+   "title": "FDA Breakthrough status for Idorsia’s daridorexant - The Pharma Letter",
+   "summary": "FDA Breakthrough status for Idorsia’s daridorexant The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdhUUVJOXlsdVJVQWVwZHJiNy0tQWRNRDJ6Ml9iTWlyN083eS1hZzhDeC1ZMHQ5RXo5X3VPYnZOTWVfMTRtY0xOOFhZNlZlSC1FSXBfbkpKQTJnTFhPQ3dlR0JEbEhpYnI4eW5xTGNocUVJS0h2S2V2ZzF3OXhXWnVPaVNrRm40YWRfZ1JncnhKUUplWnRYRi1ldw?oc=5",
+   "published": "2026-11-04T11:29:16Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "32a2e52529545c4c",
    "company": "Usona Institute",
    "title": "Stifel on Compass Pathways (CMPS): 'the Usona situation is an extremely atypical one' - StreetInsider",
@@ -7161,17 +7293,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0hoM1pYR2MzdjhZOEhoNzd1dzN1ZmI2QkIzVHFnTnlWTGhMSElENS1XSGVLTHJfTmpsYUtsNGMzUmo2aG9TT0lXbnNISE9CMTdROGd1c3ctVFBFd2hfelRvSG92Y2VKaWlqMDkzSVVTV0M2d0hJcE1PcUlJUTljTzNRalVPOTRVeVRsX190bTRsQWRGSWEyLTllT2dING9tMDJjRm11QXZyRGk1QUN6aG93ODROc2xOckRMbU5WNGMxSlp1ckszbg?oc=5",
    "published": "2026-11-04T10:14:14Z",
    "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "27f19cda455d543e",
-   "company": "Idorsia",
-   "title": "FDA Breakthrough status for Idorsia’s daridorexant - The Pharma Letter",
-   "summary": "FDA Breakthrough status for Idorsia’s daridorexant The Pharma Letter",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdhUUVJOXlsdVJVQWVwZHJiNy0tQWRNRDJ6Ml9iTWlyN083eS1hZzhDeC1ZMHQ5RXo5X3VPYnZOTWVfMTRtY0xOOFhZNlZlSC1FSXBfbkpKQTJnTFhPQ3dlR0JEbEhpYnI4eW5xTGNocUVJS0h2S2V2ZzF3OXhXWnVPaVNrRm40YWRfZ1JncnhKUUplWnRYRi1ldw?oc=5",
-   "published": "2026-11-04T08:00:00Z",
-   "outlet": "The Pharma Letter",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7359,6 +7480,17 @@
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYmtBcjh6N0hTNG5FYkdTWGI1emk4NmVNWGw3Uk81S2dnamtYT3h4NGh5T1FEM09NbXI1NUN1dlNIMmJYQ3BiNmNicFJ0dE5ldktpWWxwTnVqYWZSY1JweG5TTU5mNDduVDVZNktTaVNucVI1cnp6VFo1Ym5QdnJBOWdSZTd2b3VlWEF0QmM0Z0l3OUlnaHlyc3I0SmphNzRsVUV4TF9PUTZFbzBHUFVwOTN0Z09iVThxYm1RUDdaSG1RaFhFdHY5ay1HU2xMUWhXd0pjWUp0QVJZc2Q1dlp1bnZVRDJDQXNmZnZtTHV1RkhLaXVCc292V0kxZGhHM3I3T0Z30gGIAkFVX3lxTFBiSFN2YUE2ZFplWWJxSllPekNKZ1FERGh6cE1UM3VNR0ZPX0VNaHRhNUJnWjJyUjUyc3duTno5b04ycTJ0N180ME92SVQydnNJc18tNDZQbG5hekR2R3BBOE51NTBvSU9zbDE4bFI0Z18tU2RYVnNsa29BUmt0NjJrTWZCU3JsQnBOMlhjSjY0ZWZINTlWSkZoaGtuOUthZTJxdnhyRmZVS2s5ZjBSNlBxVjFYQXpUUGdqZkkwcjl2ZDRFRU9OSW5VRWRuVnM5LUpfWHFtNFdoMGtfYWgzeDlQUGNsVExoYlRSMUpqeDJUTnFhN09DVVBua2xFVTVnYlpKM0lnUUdDbA?oc=5",
    "published": "2026-11-04T08:00:00Z",
    "outlet": "The Manila Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1dc7eadea82f5bc3",
+   "company": "Minerva Neurosciences",
+   "title": "Form 4 Minerva Neurosciences Inc: Inderjit Kaul (Director) For: 2 November - Investing.com UK",
+   "summary": "Form 4 Minerva Neurosciences Inc: Inderjit Kaul (Director) For: 2 November Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeDBkMExpQ01rWHNfajVCOWlmcHZOOFpuMWJjSGhXVHdVR1JtUUpMQjRvSXAtcnlhZFkxVXY1YjdRWXVrUVdJcGl0VzJPenhrOTd5SmZXUmU4M2NGRXlpMFdlZ0tPalNnZnVPTnFQdVpJaDhvYXdINnM5OTFESVZZSmtBdTZiNENPZTBZdl9DVEtfV002VC00SGN4ZVNWZnpTTDJ3Y0twVHVYSkw0bVlES1JkdDdOUnJQZmZLM0tiVkFqN0RrNHg0LVlVUQ?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Investing.com UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7744,17 +7876,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0ZxUi04b3V1ZlVvdG9hN0ZHVTNSY0xESVFlNC13ZG5PMmVXLTdkM2lsbmZoMjFzYlNYS0UxM1NDdnZaYmQ5dThHNTlpWmlxX2dXU3Znc3pEdXdHOWcxa1Q1bmYzS1pfMzllMkZGdkJRbm8tOHAtbnpEclo5TWppZG5rOEd3MzJtaHFyRExpeWZQajBkRUNnRTFBM2tYY1ZlN3l6Y1MzNEM?oc=5",
    "published": "2026-11-03T08:00:00Z",
    "outlet": "Fierce Biotech",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "e2e060e73858b0f3",
-   "company": "Axsome Therapeutics",
-   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
-   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkVBd1kyN2w1aVY3LXp4VTBhZ1l6QTNPRnlzQl9JbERCeWw3Z1pHYnY3WGVDYUphWXJJT1RJRHljcXRKOFVqSUNiTHpILW1VQ2hTa2R6dWFhQVpKYVlUNE9sMmgtQmFaeHFKZHpzZ25JZlNsSkk2NTRzRFpoZ0NESE9TV3F2SGRMQUQtZ1U2QmZLeF8teFhBUTdFbkRrZC1aQmg3NXdpM2haeFY2WXlV?oc=5",
-   "published": "2026-11-03T08:00:00Z",
-   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9101,6 +9222,17 @@
    "first_seen": null
   },
   {
+   "id": "e3e01079baafaef1",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences to host event on roluperi... - Pluang",
+   "summary": "Minerva Neurosciences to host event on roluperi... Pluang",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORzNoSFhJX1BQOUNDQ21DN0EtNWpUeDNZNVV1Zks4dWhIOHNQYm54YTVwUy1BYWdhaHZDNHlQYzh5WVh0akNDUEs2QV9DWnd2NzB1OGpSR1hqaHBkYlltcWQ3ZDNyWVBFazRHamVON0ZwY0QwTVFJRFJjSmQxOGdlSnZJMTFrcjF2YVZfN0NoWFhPVWNXdzJWR2NycUU2VzVUVkE?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "Pluang",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "716d08e6b36dcaf1",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics, Inc. Estimates – NASDAQ:RAPP - TradingView",
@@ -9933,6 +10065,17 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2ljVV9sLXBUR2U4TFZBdDNoUW9CbGIxb05UbWtMczR1Rnc1QkNac3BtNExEdkZlN3IyY19EazFyVWFTQXhVZXc1TGpnRFRRYXVlSVd4WHBnanBxdHZkTFN5MjRSX2pSMTNsX1I5OFdUX1hyc2pHbGVpR2RXNzltNmpRNGFvX3ZGWnhZdDcxVWVQT3hLUkxwNDRSbjQycWoxZnZNUm9tVnRhYXkyYnJj?oc=5",
    "published": "2026-10-22T07:00:00Z",
    "outlet": "Pluang",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9016ac43f4cead5f",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences (NERV) Holds Near $2.40 as Traders Eye Resistance - Institutional Volume - https://www.siam.in/",
+   "summary": "Minerva Neurosciences (NERV) Holds Near $2.40 as Traders Eye Resistance - Institutional Volume https://www.siam.in/",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzFTdF9SaXZYTkVTTG85djVJQ2w3b0l5QzJqUWZCZV9sYkZXMjFlejlidW5MSkJ3Wk5uaHktZnVlNkVJeHVXYVd3VUJaNUJTaEpuNWZvZ3lxZWtVejJLVVltbXg0Q085VmpSaEVNaUlXd1RVLTFldy1oNEx6SHJnWERMc2hnOHlXcGU0QW5QZEl1QWpyc1JoeWpUek0zYVZ4NFNwR2NoSU03bTBEYThR?oc=5",
+   "published": "2026-10-22T07:00:00Z",
+   "outlet": "https://www.siam.in/",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16174,6 +16317,17 @@
    "first_seen": null
   },
   {
+   "id": "6bc5fbaa2ac405ae",
+   "company": "Minerva Neurosciences",
+   "title": "Weekly Recap: Jefferies Buy upgrade to $10 PT and Anthony Aliquo named CAO - TradingView",
+   "summary": "Weekly Recap: Jefferies Buy upgrade to $10 PT and Anthony Aliquo named CAO TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcU1MMk5qNjVmd1Bjd3RVNjk2ZkhZZE43TTNHQlJvS1ZpcFJET214eDJmdjBGekx6SzVvcU43N3pWMnlXM0RCSkctd3BtY2lxRm1vc2o0OU1Oa0xFbmhTcHEzUzdXLUpOeE1FTjlZbm9DSnJFUmlrcHNnQnRjV0VKZG43eHpXaDl1UmpXXzA1OXhFTDdrNFZIWmhTQzN5TVlVaVQydUdJbk9FUFNZMXRTVU9DMDVhZ2V5VkhiNk04U21XUmlJNzRQWmhYOVBiSGM?oc=5",
+   "published": "2026-08-17T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4c2ef62d1c70de95",
    "company": "Luye Pharma",
    "title": "Luye Pharma Announces Successful Completion of a U.S. Bridging Clinical Trial of Its Innovative Drug LY03015 (VMAT2 Inhibitor/Sigma-1R Agonist) - Press Releases - Luye Pharma Group - 绿叶制药集团",
@@ -17490,6 +17644,17 @@
    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQTmV5TjVNcVBCSTdoU1FId3A1WkQ0cmFhZXdiWkVoZGFDSEdodE40ckcyYzh3MXBjMWNVZlVsNzIxSDFnRDZNRDF3bzhaSzlEM0RIODVjWmdOeVQ1THV2aHhoNkRMVVRNMkk0aDF0M0R4UFBodFFXa0VTU29PVHVqazU0S1lQZEVxeU1kNEdEWGlkME5ObzdXU0s3WXVuMmFRZ19ULW1uMFpRSGY2dWlKUnFQOEVyaDlIWVhjN3pLSDlTVUItR1ZYRkdCWFVfVjNmUkQxWmYyRlFlNXFrLVJvamx4RjFPTlh2clZ1U0t6WUVyQ0trVy1WX1dhMEZBN3hsaGhrS0h3cl80NTNBdFM2VzZQNHFZMHk2?oc=5",
    "published": "2026-08-07T07:00:00Z",
    "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ed7150cde16a8417",
+   "company": "Minerva Neurosciences",
+   "title": "10-Q: Minerva Neurosciences | 10-Q: Q2 2026 Earnings Report - Moomoo",
+   "summary": "10-Q: Minerva Neurosciences | 10-Q: Q2 2026 Earnings Report Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnRWbUYwdlZ5VWQ3T1JoRGdCWHVGRUJnOVdmMGJFVFhVRDFLNW81ZkxVcUFveUlETDVlbWJPOG9XUjJlNWhRdE9WZVpaMENEb2N6dVlaRmZsQmIzX056UktXeGNURlhoWUZsYXVOVDJkY3RTSE5nZXI1U0lJWGZaRkVlSVVtSEwwWG8tSkx4dHJFRFlnempKQTR0dw?oc=5",
+   "published": "2026-08-07T07:00:00Z",
+   "outlet": "Moomoo",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22994,6 +23159,17 @@
    "first_seen": null
   },
   {
+   "id": "bbe3bf9ebe6a4321",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Launches $75 Million ATM Equity Program With Leerink Partners - TradingView",
+   "summary": "Minerva Neurosciences Launches $75 Million ATM Equity Program With Leerink Partners TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRHJieDhEUEEya3JPU2ZwQW93V3hybkdlLTdBNkI5Z2VHWlFySlFSRXI2eHVhUlowOWlSV3psV0NybEszM0Y1MW5tUzUtcC1kaFFmRkhFVDB3WWtubnhBeC1qdldxOXNKNXg2ZlVxRUREcG5LLVJCLUdmNHBzVmx3aGg2Yl9KWldVWUJIYXV1bjlaazVxY3JDM3VXWl96eEl1Y1dMMlFSbVlGcHF4eDdZdTJZV0xCbmpUXzVQbm9JUTloM1pEV1ZWY3FCUVFxb1JkN0pBNXY0a1RZNkdC?oc=5",
+   "published": "2026-05-27T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e8e90a47199b1a25",
    "company": "Autobahn Therapeutics",
    "title": "Autobahn Therapeutics to Participate in Multiple Upcoming Investor Conferences",
@@ -26360,6 +26536,17 @@
    "first_seen": null
   },
   {
+   "id": "5c89139afa5c0dfb",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Screens First Patient in Phase 3 Schizophrenia Trial - The Clinical Trial Vanguard",
+   "summary": "Minerva Screens First Patient in Phase 3 Schizophrenia Trial The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOejhKYW5CRGhWaE9feVhvV1Facmhic3ZCcjFIby1fQUVzSWZ0YUw1S1JiZ2ZzWGVMTjdCRGU0VHFFRm9WRnVYdG4wSE1qOFRxVmQ3TktCZnhBSjFHaWR5VmhsOEVmeTBtVlRTanZ1XzM0NUgxaC0wVHhKQ0Fxa0gtVHVhdVl2QVIwcmRyYXFiSXl3aThVazFkZ2s2dmNTM0Q5eW9IY2ljaw?oc=5",
+   "published": "2026-04-07T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dedb630f37592e16",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Announces FDA Labeling Alignment for NRx’s Preservative-Free Ketamine Application | Mon, 04/06/2026 - 07:00 - NRx Pharmaceuticals",
@@ -26455,6 +26642,17 @@
    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZG1CR05yYVlGSjY0bVVrUGVLRS1WX3FjREhOT2U3WEV5QnZLcXRGVjY4MFpQZDFBd1UzWUtrZTVsOXZpOFpCMFRmV2s4QThqSmVENGpIV2FwcnBJa0g4SjFva1hWSDRqVTUtcTJhZ19PTkpRZjJ2UmpIcVJ3TzZ3aVRtN0V1RW5zX19sTlRLZHB5bXVBZGxVaGkxVXAtMXAtRG14QWVzS2tnUGlDb0t2Z2RGcWZjYW80ZzNWcm4wZERKSHp4M3RtNFEzdkNsdi0tRFZrN1lPbTlucERTWlhIa0pKUVFwVjZyVGxYWUFBRnpMQV9tdTlTbWxnaFBXeWpMa2hseTN5MHc0dmkyMndEYWZISnZuUnlweEtR?oc=5",
    "published": "2026-04-02T07:00:00Z",
    "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "aa6eed404f7875ef",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Appoints Jim O’Connor as Chief Business Officer and General Counsel - citybiz",
+   "summary": "Minerva Appoints Jim O’Connor as Chief Business Officer and General Counsel citybiz",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcW5QS3pBMVo2NEgtMmhNMHljNTNsMlFqcmhsNjBLV0FWUVlMMkJfS0xaVXJtNFFIWTJrNVVsejJfMUZzNWJlWWcwb3I1MW9MTDhmLU8zR3Y2b3IxeTNaTHlpcmNpeWlGMlFhNGhvcE1qMGQwaUh5ZDJGOHVVRGFTY3BNcElzWUk0dzBfcjBzdHRkcm5GSWw0bzQwT0JCeU9ZcWRxVmdOYXJFbnYxMXNGZFVUYw?oc=5",
+   "published": "2026-04-02T07:00:00Z",
+   "outlet": "citybiz",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
