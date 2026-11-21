@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T06:24:45Z",
+ "updated": "2026-11-21T07:43:31Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2182,6 +2182,17 @@
    "first_seen": "2026-11-20T00:26:37Z"
   },
   {
+   "id": "b4c1f639a32d17c2",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics, Inc. (TGTX) Stock Forecasts - Yahoo! Finance Canada",
+   "summary": "TG Therapeutics, Inc. (TGTX) Stock Forecasts Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHpiV1UtU1NCdkdWc2g3VHFHQWJxYkVVeDljblA4dUJyVlRnc2tUM0JfTkRJMUhOSTdyeElBWGlXSFpsY3Y3RkVFSUVsWlJZRWF6bG04X2prWWpJX1VOY1VVS00yX3hVZDNCeGpjVnhUd0J1UlVuazhoS1lrLVhPVE1xRy15dTd4bDNTU1hsQk50WG8?oc=5",
+   "published": "2026-11-19T23:25:57Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T07:43:31Z"
+  },
+  {
    "id": "c890dcbbf594177f",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (HELP) stock price, news, quote and history - Yahoo Finance UK",
@@ -2204,6 +2215,28 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "512ba8d4a95ae5e3",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics, Inc. (Coinbase Tokenized Stock): Funding, Investors, Team and Key Events - CryptoRank",
+   "summary": "TG Therapeutics, Inc. (Coinbase Tokenized Stock): Funding, Investors, Team and Key Events CryptoRank",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TcVpZTVZXdko4VWhIODF3emo0NVExUzEybGtiYkdqQVZ1OWc2ZWZQTDZtVEZnOVJHZjZwNzhNWmduYUFQTUcyZXZCcVNRdmlsUTl4dnZ2ZkhpSG5JaWtpQXJ1NlJNNC1JVmR0RlRXMkhPN25UWTlRc2VMa3A?oc=5",
+   "published": "2026-11-19T21:54:01Z",
+   "outlet": "CryptoRank",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T07:43:31Z"
+  },
+  {
+   "id": "1b00b1d4d372944d",
+   "company": "Neurocrine Biosciences",
+   "title": "Form 4 Neurocrine Biosciences Inc: Gary A. Lyons (Director) For: 17 November By Investing.com - Investing.com India",
+   "summary": "Form 4 Neurocrine Biosciences Inc: Gary A. Lyons (Director) For: 17 November By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc3RJSWJqUGc5aE1xN0FnUlltREV3QVlyUjBSenkyR09FZEZIN2pFWHg2eWx2cGVueTlld1N4aW5BZzlDQmNkR0lGODBfb1ZIckk3MkxxUlVIQ0RrbkZkMTFxS1VuREJtMXhvS3JvczB4T0NDYnFWdjVwVHNha2tyZ2ZWY1JWUWJwYmdaUG5tRm9ybjJFNmlfSkhVRnZ0cUw2ajVrQlpnTGZiUEZjakdjTC1xYmlmdGJXcHVJS3MwMWFEbFVPbHVSTmg0dXk?oc=5",
+   "published": "2026-11-19T21:51:23Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T07:43:31Z"
+  },
+  {
    "id": "225a523ee8af618f",
    "company": "Neurocrine Biosciences",
    "title": "Form 4 Neurocrine Biosciences Inc: Gary A. Lyons (Director) For: 17 November - Investing.com Canada",
@@ -2224,6 +2257,17 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "4ca86f9ca7d8bc74",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Launches Ketamine Sales, Targets January Shipments - MyChesCo",
+   "summary": "NRx Launches Ketamine Sales, Targets January Shipments MyChesCo",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd092RW1INVF0RTN3NE5QTklINWwzZXJkazBEbV9PWkNUMXhwbWxpd203NGNKNDk0ejJSUy1kc2R5eFBqQTRWOWF0elJGSUVFZ25EREJUOUxreHFoVFBsc1BHWHpxanFPTmlOeGJVcldqLUZkQmVET0FEeGY4a09DT1hXTUFiU2ZqTkgwZzBMekJTNjRiRmRwMWl2OA?oc=5",
+   "published": "2026-11-19T20:17:27Z",
+   "outlet": "MyChesCo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T07:43:31Z"
   },
   {
    "id": "339ed6c531e1bdf1",
@@ -2754,6 +2798,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "447eca001fafd807",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics, Inc. (TGTX) Stock Forecasts - Yahoo Finance",
+   "summary": "TG Therapeutics, Inc. (TGTX) Stock Forecasts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUF3d19LMExDN3JfYXlKOXlKLWdBYnBxMHBhOUpFVC1sY1poeEEtUlFINnNFcGJ2dEtNcHFiYU16THZkTHpEZUJlUEd5SmNEdXBINHdSQ3Bvd1pkOXhtOGtjc1ZHTjFaSzJxNTQxQ3dPU3dZX2x4YnJxdWZ5SGtOWWxTeEM3ZDZteTR4aTk5VQ?oc=5",
+   "published": "2026-11-19T03:35:01Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T07:43:31Z"
+  },
+  {
    "id": "b61dd6651cd77733",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com - Investing.com Canada",
@@ -2818,6 +2873,17 @@
    "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T05:41:48Z"
+  },
+  {
+   "id": "3ac35ed10639bc58",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals Earnings Call Signals Commercial Turnaround - TipRanks",
+   "summary": "NRx Pharmaceuticals Earnings Call Signals Commercial Turnaround TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlBjb3dwdTZxUzR5d2JYYUp0QktMM3NfOW1aVW9FRTJEMXZrU0wwWjRSVk1RanRhTkhWWFJ1NTF4WjhSdjVkMjA1VVlHQXNoWnR5OEZ2NU5hTUJudGktMjlia3JHODhjZjhXaEJUbW13MWJyc0NXRjVhcjFWbkFUYmh4Y1pId3BMbE5zQk9LMlpwS2ExNEE0c3NEdkgwY2xrbWRDdE52ajVHT2J2X21YbTlvUjdXQQ?oc=5",
+   "published": "2026-11-19T00:53:26Z",
+   "outlet": "TipRanks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T07:43:31Z"
   },
   {
    "id": "6e858dea1b2a6086",
@@ -3304,6 +3370,17 @@
    "first_seen": null
   },
   {
+   "id": "e7dd66998c28fc7d",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (NRXP) Tops Q3 EPS by 18c - StreetInsider",
+   "summary": "NRx Pharmaceuticals (NRXP) Tops Q3 EPS by 18c StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM29zR2ZXYmZ0LXRXcUpQY0s0S3hwN3VPTlNlR0lLQ2pYQ1IyVk5UZllTN2NuQ2RMZEhDaW1tblh6WHNpaEc1WWNzd1dGMW81UUhOdmZRcU41TXlRb25idHNIcUhNdGlRY1I0ODk5TFVsTmVkaWtRNi1iOXhsY1FHTE1uX3hVcUFBV1lENWhuWDV2MUZVczlCWExpZVYzZHdncFBnMQ?oc=5",
+   "published": "2026-11-17T22:21:10Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a5d3c941b8ce7936",
    "company": "Gain Therapeutics",
    "title": "GANX: Gain Therapeutics Inc. filed SEC Form 8-K: Other Events - Quantisnow",
@@ -3359,6 +3436,28 @@
    "first_seen": null
   },
   {
+   "id": "c7578aa26ebde7ce",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals Narrows Q3 2026 Loss, Beating Estimates - AlphaStreet",
+   "summary": "NRx Pharmaceuticals Narrows Q3 2026 Loss, Beating Estimates AlphaStreet",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVEzM1BKWW9rWHoyNnduSmFNWGE4Q1lrbVk5YXRsWnFJZ1pEeUVOemFRUjdseXhycXRzWVc2b0lRWHBfUXpZZE83X3dkbFc4MmFLSGhaeUNaeHowdHRCMmdTVEdBZVljT25KcFBEU3hlRDlFMGJ5RnFlb0FIS0JIR0pRSlg3VnBWbzQ4Ukg0Tk5GUdIBlwFBVV95cUxQbzRwS2Y3RUhUUmlyUmthUTR6ZDQwb2FZWFZyLUlFb1R6dGhIV0RCcmlvdmM1cTl3RVU4cVNhc2s5SHBmVEhkNWFZSm5vUENFVkN2OW5oTWNNTW1LdV9BV2N6dkd5NHJBdGEwbEVmUU9sa2p6WFoxZ3kzZHcwd2I1cXBpQi04TVdNV3VjenhZaGQ5ZWxPeTFJ?oc=5",
+   "published": "2026-11-17T21:40:21Z",
+   "outlet": "AlphaStreet",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c79935377b7fdac0",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRX Pharmaceuticals Inc (NRXP) (Q3 2026) Earnings Call Highlight - GuruFocus",
+   "summary": "NRX Pharmaceuticals Inc (NRXP) (Q3 2026) Earnings Call Highlight GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQd3BWUllTSW1nSkJpSmdra0pWWkpkMy1NVVE2OEl2SEpRZjVnM0laT21ySUFJT2hYOHlTUjZ1ZVc0X2hCZzNwODdoSHZqRHRkSU84b2ZTaG13d1RlYXU2eW9XbVpYVF9lWF9FOHhHU0Vtb3lQVzZ1bWdzVk9KUDI3cHNrLTA0NDRZNHR3SU1haUpWQWNkelJ5endFUnQ0S3FpNHNlNUxudFc3Zng3dk1yOEJLVVA0MTc3Nld2MF90UzZWcHJWa0FuYjdTVF9jck9TeC1uMTE0WDdpWjVNWEhLaHFNS1MyQmx1RnJXUkNWN2cxTlZNaHc?oc=5",
+   "published": "2026-11-17T21:26:39Z",
+   "outlet": "GuruFocus",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3a401495f6cf056c",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics Presents Clinical Data from Phase 1b - GlobeNewswire",
@@ -3377,6 +3476,17 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVpyeGlpd25ZU0hCMXY2N3NNQzBmaGFIMERVU3llNXg1UHp0UElWeFp5TVo0R1lFUnVCMF9tVndOaktScEFKYl9IdUd4UXM0bC11QmcxRnhvMkE0bnpNR0hWWkRSbG1HNnliX1ZWeXRwaEFnSEN3UUltM1ZkZmwwZXAxT3lOMHhqcVpGRzdfcENtdUVFMVltMGhOekZlRWYyMXhGbVpZT3V2ZmpxMmN5bTlhY1JZQWFjZUxudw?oc=5",
    "published": "2026-11-17T20:50:06Z",
    "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "153bcdd62efea084",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals Narrows Quarterly Net Loss, Begins Ketamine Commercial Launch - citybiz",
+   "summary": "NRx Pharmaceuticals Narrows Quarterly Net Loss, Begins Ketamine Commercial Launch citybiz",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ1BCdzZBSHVTMnByUDdfOG8xa25mdG1JYzZIZ3paSDBiSl81SXJ5VHRKRzFZTUI3MkVOQzRNaFljWTFDU3ZicFl5OTRPeTduZUYwcXRRWVhISVVsM2FOSzRXbVN2SFhiRHU4Nm9RZnNZdE1NMkkzNWFDT0p6ZGtPWnJPZEQwR1ZjZUVIOVktclc2RkdzQWllMjFYSzFrc1RxczFyZGRYYUxzVW12aXpJaFMxQWE1d3Z2WEZn?oc=5",
+   "published": "2026-11-17T20:15:04Z",
+   "outlet": "citybiz",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -3491,6 +3601,17 @@
    "first_seen": null
   },
   {
+   "id": "dc0443cb8981df36",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "What NRx Pharmaceuticals (NRXP) Said on Its Q3 Earnings Call - TradingView",
+   "summary": "What NRx Pharmaceuticals (NRXP) Said on Its Q3 Earnings Call TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcVhBZkVYQTVKZjE5WFR4b0R5TzFxYW01NHdxeEhQdDZibVlnTHM0eHZuTUJRMHZzeEJnZFEwcmNtd0pURUJlOGl1d0hCUGhYbkRDSGxUUWxDcUFCUjVxd1QyM2pfRDRYZkdheVV3V2c2NjVSd3FOQzF1ZnB4ZUxqRjlITWdzbDZ5TDNFMGRzZzMxb2xKZEx2RVdkSFRJeVZNS094S0k5c2s2VFVQdmVtSmQ4YzNjLWhwX19v?oc=5",
+   "published": "2026-11-17T15:15:30Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b0e6b81df55ed238",
    "company": "Luye Pharma",
    "title": "Luye Pharma gains US IND clearance for triple-targeted depression candidate - AllSci",
@@ -3498,6 +3619,28 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0dKWFAtZkFvYk9wTkU0Wi1TX1lzdXY3cUFxdGZfckdVSWs2dVF1SmMzc3VGdWNwZ2E3OXRBd2xMVVdYSmZYUGJaSGNRd200Q0RJR0UzVmx2eFAxUW1yU3RZRkFweDdYTUhMdlJNWE11a29GYXFrVjJkWTRKT2Q4UFYwb0NSdklFSmc?oc=5",
    "published": "2026-11-17T15:07:32Z",
    "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "558a417f5d63d7f5",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRX Pharmaceuticals earnings beat by $0.18, revenue fell short of estimates - Investing.com",
+   "summary": "NRX Pharmaceuticals earnings beat by $0.18, revenue fell short of estimates Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0dKNFB2d2llUUc2UlVSSG5hSWZrTFVkMVFHNDBLaW0zWW5pc2xJY2pTbE16VmpNYUFhQUhscF81MFMxR3pwX29vR1RYajREbmY0UmJFOEdpUHp3OHpiLTdNa2JNRC15bGhEVDFDREN5QXFMbUVtUXVvVmtNMHVoY3NFbEp1V1Buajd2N21ENXE0VW5MX1JvamtNNktwOTdfeDdnaGtEX0R5UGRlM2Q0WWJBS21jaFUxcFB2Rg?oc=5",
+   "published": "2026-11-17T14:31:02Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "98e886e22e35441c",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+   "summary": "NRx Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaEFOYU5wVTUtMHB6MzQzTV8wRENWWW5HYVQyX2huMUJoa21GbXBVMjRwQlBjRXJVdmJwRVNJRDctbmFQRFVXcUFmZ3ZBdHR2dURxdWxyRTdmZHdLRGxxbi03bXpxVXQyZmxZM0x1UTJwVEpab0xjNmZDQVlOVzZub0hMWnprRVUzdF90SVRaNUwzY0pwRDJn?oc=5",
+   "published": "2026-11-17T13:30:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -3513,6 +3656,50 @@
    "first_seen": null
   },
   {
+   "id": "8c20d26899231cd9",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRX Pharmaceuticals (NRXP) Reports Q3 Revenue Miss Amid Commercial Launch and FDA Approval - GuruFocus",
+   "summary": "NRX Pharmaceuticals (NRXP) Reports Q3 Revenue Miss Amid Commercial Launch and FDA Approval GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1k5UFFKUVRXRDQzc3B1TmptX1RkXzhoTkViVWVYMlFwWUZidmF2aXAwZWUwdHpnRXB5NXpvMUNOXzIyZV85MnBxSHJrQk93bnl3aExabU1pSkZzM3JpRzMxSEVmUjVXb2FOLWIyT0NxZnh5VFlMUTZNaWQxZW4tTTZRRnNFUUJYN2Q5LVJVVzNqZUNaa2tiVzVkSzVTX0ZxOXlvY2dJcXFuYXRjbExSbFVfa1h0bG1Jdmdxb2JhbEdQVGZ5alE?oc=5",
+   "published": "2026-11-17T13:03:11Z",
+   "outlet": "GuruFocus",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d80cbc0e84f9ca17",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRX Pharmaceuticals, Inc. (NRXP) Q3 FY2026 earnings call transcript - Yahoo Finance",
+   "summary": "NRX Pharmaceuticals, Inc. (NRXP) Q3 FY2026 earnings call transcript Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTh3em1fd3BzMGgxeEFaUVhzY3U1MjhXSlF1aXdZRHN2WERnQW9WQ1h6MmpJbGRMRkU5Tksyd3lRM3hCZHhtOHQwOVNSeGx0VHgxQ2lYUkxHemJtVlUzNHZmaXBIWEdkMmxkWXZKcjE5RVA5NXRTX0lYV1Z0SEpQNER1NmUxbTUtTTR5TA?oc=5",
+   "published": "2026-11-17T13:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "feb16acd626a3fde",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals Q3 2026 Earnings Call Is Live - TradingView",
+   "summary": "NRx Pharmaceuticals Q3 2026 Earnings Call Is Live TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajBsUzBOTVlqSVZORXg4OWEzM0hwWlg2b2FCX2VzdXpvWmdIR2VHck9LMHZobkd2V1dXb3N0ZUNIYkt6bFVIaF9LVlczV0dvanREbERjcjF0aXVfTUZQcU9KS25QS19mRFltZDk4a0w1N1ZiTlV5WGZYRTdQTWhEVXRjTXFPTG9kcnVnak5VTVJRV0dKUnhVWU16OVl5c3dxTUc0eFFYaENsM1J6MExPVG1tRW9hOUo0Wnc?oc=5",
+   "published": "2026-11-17T12:57:03Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1b66d48ac512cbfe",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Third Quarter 2026 Financial Results and Provides Corporate Update - GlobeNewswire",
+   "summary": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Third Quarter 2026 Financial Results and Provides Corporate Update GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWjNfZFAxdmRNMXFGR25wajRrZzQ2a1dhXzBhLVJaWXZZbXA2d1FZU2xvN0ZaMzhoN1IwcUFVbDJ5Tmc2NlFuRXRmNlU0b2ZvcmdHWEcxc0NlaXpjMnk2LXliSHAxSlVtRV9fZFVETEhHVFJwN3BFdWJNbzJkdXhfS09zdlA3MDhWbzIteHBVbDNWTU9XVWpjdHVZX21RU0hEa1hIcHUwRElnRHpKaGZLR0dyVUFzc09Oa0R5b3BlT01WRWJrU3YwakR4Q2VmUW5LSEd6ZThYUTlFdnpITEZ0MjYxN0M4c0hGUE1FZ2RFZnJoYlUxQlh4MjZHQndEcmRicTJlNnk3S3AzZw?oc=5",
+   "published": "2026-11-17T12:18:51Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8c69eba8083e9500",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Third Quarter 2026 Financial Results and Provides Corporate Update - Yahoo Finance",
@@ -3520,6 +3707,17 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR19tUjcwYjZzUndmSTJLZVZHbFJZdXN4QkhUaXVpQ0s4MmVFd2o2cDBseElXNmJjRWVseW1Xd1QwUURrZ3RhY0g1SEJJZmx5YkR3d1U5cmxtSFlRVkxCS015Z3BPNk5aMWE1R0w3S3dFVDluVkRidkJEREp3X2lESjJhVV9NMWM5cGdZRTBkSC1qWGdBTnlFM2N4anljOUNWa2c?oc=5",
    "published": "2026-11-17T12:18:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "26c4e4a7d8085331",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "The FDA approved NRx’s preservative-free ketamine. Sales have begun. - Stock Titan",
+   "summary": "The FDA approved NRx’s preservative-free ketamine. Sales have begun. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3F4QlRiXzdua1NLY0FWSG83MVpVRWI2b0dCQ25KVTFoa0k5MENhbUxEc1RMMHBVOTMzelhxNHlNLUtLUzJZSzBXTjFLdlpWWlkyckZOWFEyeFNYRWstdlZjV3hQSlFuOUZuckxaNXA3RHc2THFNUEVVbGYtMXNHWTRvMmo0M01rNXNKdEhlWVRGZkNWa3Q2ZDF1Z1g3cGRUUlU0VTBFRUs2MFlqRVR2M0VaZ2Y?oc=5",
+   "published": "2026-11-17T12:18:00Z",
+   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -3656,6 +3854,17 @@
    "first_seen": "2026-11-20T05:41:48Z"
   },
   {
+   "id": "e92ac886339e8536",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Stock Price: TGTX Stock Chart, Market Cap & News Today - CoinGecko",
+   "summary": "TG Therapeutics Stock Price: TGTX Stock Chart, Market Cap & News Today CoinGecko",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpaGdfT1VoSEttelozSVNiRWlwTUZGaFE3cUJtUEozcy1tQ3Z0QnRQVlNKOFZmUW1oZFhuRkxnbUJQa1dRakg1cC15UEIxbW81cXF4VmhBVzhva01DTVVTQQ?oc=5",
+   "published": "2026-11-17T03:14:49Z",
+   "outlet": "CoinGecko",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "0919cfc4c92dc050",
    "company": "Novartis",
    "title": "Novartis Cosentyx® becomes first and only FDA-approved anti-IL-17 biologic for people with polymyalgia rheumatica (PMR) - Novartis",
@@ -3731,6 +3940,17 @@
    "outlet": "Biogen",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "e97ef67ff96969a2",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals, Inc. (NRXP) Reports Q3 Loss, Misses Revenue Estimates - Yahoo Finance",
+   "summary": "NRx Pharmaceuticals, Inc. (NRXP) Reports Q3 Loss, Misses Revenue Estimates Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZW41RHd6bjNyN2NtUnQ0bElFZmtaTTM2NGtJTkREOHBCSEd3X2hlZ2NDbk1wSFJjNkoyTUhZUEExM3AyZWp1WlU1YTROWVNLTXpYRldjaWo0QldUVE1WOEotTm05eXdzd0VjRHU1OTNDM0xQS3BjeVpFSXIzVEpFUW9ZV3c5QWd0X2h0TTlPSUVfRFBGbm50eTg2LUhKUQ?oc=5",
+   "published": "2026-11-16T23:00:01Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "0b6b75cdf42e9303",
@@ -3960,6 +4180,17 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWpxdTNZM2dtN2ZfSE9obzgzS3V6SzBVUGpKZ2k3VVJva1hWRURFS2ZTQlRBOUxycGhOOUE3VjFDeUF4cFpMQUxtcTRla01ranRWeDcyQVRpMGdBd0ZPTTNMMVh3YWpMcXh3N1ROYVRNVkNjU251UVRWMnZnUHdrVUhfZzJPQzQtX0Y4N0prRnVuLXlGMXpwX0F3QjE?oc=5",
    "published": "2026-11-16T15:26:58Z",
    "outlet": "kalkine.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "54ff36ec01051dc5",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRX Pharmaceuticals (NRXP) Set to Report Q3 Earnings Amid Mixed Valuation Signals - GuruFocus",
+   "summary": "NRX Pharmaceuticals (NRXP) Set to Report Q3 Earnings Amid Mixed Valuation Signals GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLXpTSVJXb2FtVUVhRU12LVp0anV5aFlXTlRxU0tWLTFZRHppWVFwZUxXdGxuaUFvUFZpUVhOc2RXRXA2MXZhMEJtbVgxb19IT0F4cjFKVHFCR3E1Z1Z1NElCZlNMQlc0c19VYm9SWGx3VFQxSnVqQ2tkWUkwSWtNRk5PVGNST190aWdkQUIyTU91al9OZlBPeF82eTV6VklKWHB4MG4tQVFhc3JjbjFJWTNvVG1nSWhFU1E?oc=5",
+   "published": "2026-11-16T15:24:57Z",
+   "outlet": "GuruFocus",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4591,6 +4822,17 @@
    "first_seen": null
   },
   {
+   "id": "5f4dbab8507c92e7",
+   "company": "International Stem Cell Corp (ISCO)",
+   "title": "Form 4 International Stem Cell Corp: Paul V. Maier (Director) For: 11 September - Investing.com Australia",
+   "summary": "Form 4 International Stem Cell Corp: Paul V. Maier (Director) For: 11 September Investing.com Australia",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcnlWSnlsOUZ6MlR1V1NkV3JTc2I4VENTcFVJTjdaaHJWeHgtUV80eFpIQXcxRDQ2WHZIajNuR3A4eFhLZTNxQzEwdGFQMGlVRU5NX3FORzgwOXZsbmQtbUo3amg5OXd6bTUzNjAzSTNXaVNlWDBRaWpNcEswT01INmxjNzRlUnBYUWptdXAxVzB4clFYUHdQMzhXdEdRNEdaOEZ5bzNPUUFZVkgxNFItaVU3QWhFemZIM0Y1OVpNQUpjUTJSajhwTVAtVlhOWXNC?oc=5",
+   "published": "2026-11-16T01:39:38Z",
+   "outlet": "Investing.com Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6f74c74117334b1f",
    "company": "MapLight Therapeutics",
    "title": "Form 144 MapLight Therapeutics For: 15 November By Investing.com - Investing.com Australia",
@@ -4796,6 +5038,17 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHblFodkNCS3NEWDJrQzN5NUNsNkZfQ19RNFN3ZVFLUk9TYlJtUXNzX3lUU1p4UFYyNmNUX3Q2aklDX3A5N2kzYVlfNmFFV2Jtd0M4RTJn?oc=5",
    "published": "2026-11-13T19:53:37Z",
    "outlet": "Stocktwits",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1f9dec88cdc5f945",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "What Should Shareholders Watch When NRx Pharmaceuticals, Inc. (NASDAQ:NRXP) Reports Q3 2026 on November 16, 2026? - kalkine.ca",
+   "summary": "What Should Shareholders Watch When NRx Pharmaceuticals, Inc. (NASDAQ:NRXP) Reports Q3 2026 on November 16, 2026? kalkine.ca",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaGlJZXhnYzJRUUdYcVgxdlNMMVZwYm9DQ1N2TVlXOWo5S2dKYzBQbkFveE9BSF9wd1BLQ0ladWI0VzFsNncyWTFocERxVXhfY2tkeXRBVlllTVVuZ3N4WjNzQVNjekllMDB0RnVkR0Nmc0dVbkRENzUwZ1p4VF9NZkRqcVV1VGZRXzVpa0hBa1FuSTF2UTNQUmhHeldybGcxOHRnaE9TaHowajktNnJkUEVWRWZWS3RGbU9lWThsaExTVkFDekhGSFlQemdpV3lHLVRBNnItQ1E?oc=5",
+   "published": "2026-11-13T18:37:00Z",
+   "outlet": "kalkine.ca",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5039,6 +5292,17 @@
    "published": "2026-11-12T21:01:43Z",
    "outlet": "NRx Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c6c413ff890aa359",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Before markets open Nov. 17, NRx Pharmaceuticals will release results and host an 8 a.m. ET call. - Stock Titan",
+   "summary": "Before markets open Nov. 17, NRx Pharmaceuticals will release results and host an 8 a.m. ET call. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmowVlUwSTJvakx1WU5MWEg4cWJXN181NXNPb2VLQm12eDdQNDJ2U0hSM3lROHFfRnpqc0Q0bnFZNDdkb1VEN1k0Y19pVGFOamRELWlTdktkanBaR2RRajlocHluUkFwWHlVMmxQUmdIeVpBUFdwVF81N3hvQUtfY0lsQlZXZzVBWEhTcVNDRGwtNWVQS0E4MW1Nb1M4aFdaTlh5NTdWY2tSazc1eWlxbnBLLVM2cXRQUDkzMg?oc=5",
+   "published": "2026-11-12T21:01:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -5295,6 +5559,17 @@
    "first_seen": null
   },
   {
+   "id": "4fb46bfc509e1329",
+   "company": "TG Therapeutics",
+   "title": "The Zacks Analyst Blog Highlights TG Therapeutics, BioCryst, Insmed and Madrigal - Zacks Investment Research",
+   "summary": "The Zacks Analyst Blog Highlights TG Therapeutics, BioCryst, Insmed and Madrigal Zacks Investment Research",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY25YWFdudVJmbHlNSUdQQlJqU01SWFktbTF1bXpxMjJHOHdfMjgzM0VsOWJYRE05amEzb1l6Mmo5ZVNLOTNNWkIyZHhjaGItR2tTV0tVc2hRcURjQXpEdW5KZ1VicVUwQV9uc0FtQ2p1NlFvb1UtYVRKZUVMLTIweVd3OU0tRjVmdFVGQzBLOVZkVHZMb1g1NjFqUkNCMHN5c3N5a1FYak5WMVhYYVlFcmRnTDFIdFJVR0RJ?oc=5",
+   "published": "2026-11-11T14:53:55Z",
+   "outlet": "Zacks Investment Research",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ba96442383670dc9",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals at Stifel 2026 Healthcare Conference: growth before loe - Investing.com",
@@ -5401,6 +5676,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSHNUdTFBQmNFYkFVVjFiWmlCbkdPT3FJdlI0dThRTEF2Sk45NlZfRzVkZ0VCVjZSaXUxVF90LWF6U3NneUs0TTVyWUkzUjVENWRQN0x5MVZ0SFFOTkZpVHBMOUVRTXFlMlNMZ1l5Yi1aTDVKTEZ1X0tWeXI4SHJXTW9aemhhaU05OEY0?oc=5",
    "published": "2026-11-11T12:00:00Z",
    "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c6ab6b9765f1e2d6",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "About 385,000 sharps injuries a year affect hospital staff; NRx sells ketamine in a needle-free vial. - Stock Titan",
+   "summary": "About 385,000 sharps injuries a year affect hospital staff; NRx sells ketamine in a needle-free vial. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0JiOEhJV0hrOEpzNWM2dE5QQWJRaU9xRkNlTDZ2M2FRNDhOZ3dPQndRdjJtaV9lbTM4b2pqZnFsbDdER016dksxakx4a3cxazlpZWtOc2VzRWRKcG9sUTg1Z3JvODk4TTNpQl9vWUsyZFVLRzMwQzhISVhZUllYWlYzRXN0dy1aSlpzN3Axc1NKTjlIMlpPNUJlNkZnRzd3WmxuNG5mZEhiYnpobFJ1anc2Q05sZ0h2?oc=5",
+   "published": "2026-11-11T12:00:00Z",
+   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5647,6 +5933,28 @@
    "first_seen": null
   },
   {
+   "id": "0ac5df079391ec1b",
+   "company": "TG Therapeutics",
+   "title": "Is Earnings Beat Altering The Investment Case For TG Therapeutics (TGTX)? - Yahoo Finance",
+   "summary": "Is Earnings Beat Altering The Investment Case For TG Therapeutics (TGTX)? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmlSbERCcExYVmNscHo1Y0M5R2gzMlF6SGhTUG10cFNRUjA1MDF6dmpwTFVya3ZPaW8tMjNQdTBCZW1WM0poSzZ6V2ZYU25Ca3Z0SU51U0pSMmhKYnhUeDVvQllWTDNlajdIZnp3b2EwOHJlSHFYSFhCc0lGZXktNnRPYmhtZ2ZsYkhOMlZ0V0w4T0tmSHU1cTFZR1B0Y0VRZFV0RlBR?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9b4a7deefcdad063",
+   "company": "TG Therapeutics",
+   "title": "How IBD Stock Of The Day TG Therapeutics Is Catching Up On Roche, Novartis - Investor's Business Daily",
+   "summary": "How IBD Stock Of The Day TG Therapeutics Is Catching Up On Roche, Novartis Investor's Business Daily",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2N1NDVvYzNjMFV4cjJrdkxvaUphNHBPcHJ3RzdxRW10Q2FDT01xV3NXMVdXT2R6UGMzZVBKZFB5QkVhT0UtdkQ0VTBtazBqT1ZLOGVlTG94RERpYzhmRFI1Y2dlSnRVNUpTVFk5LTNTUmRUS2Zkbmh1dzdqNnlDWnN2V0htRG1BOVE4UDBhb0tMY3lGeUJUODFqZFlkZ2NqS2lOeHN6bmhrekZPbkxxeWJjaXZFRFpka0E?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Investor's Business Daily",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "083da40444df5bba",
    "company": "Xenon Pharmaceuticals",
    "title": "Form 8-K for Xenon Pharmaceuticals INC filed 11/09/2026 - Xenon Pharmaceuticals Inc.",
@@ -5746,6 +6054,28 @@
    "first_seen": null
   },
   {
+   "id": "d98d0ffa9144b093",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics’ CEO Sees Global Revenue Exceeding $1B In 2026 – BRIUMVI Drives Q3 Topline Beat - TradingView",
+   "summary": "TG Therapeutics’ CEO Sees Global Revenue Exceeding $1B In 2026 – BRIUMVI Drives Q3 Topline Beat TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUXVpTndCVzduY0g3OFc5RTV4bnIyX05jVW9NTVdSZVE5Q2FPRlZEeXZSZDI2eDNNT0x4X2xyQkJ1YnN5WHQzeG56QnZTR1RNY3pxdUV5ZzA2NjJOVnlSd3hoQm91OEZRZHF4U0laUDVuTkhXZlRVVGRwRGJ2dFY1N3gtbXFsVUhfS0xQbGFSZzJyTWtDdUhWWl9fN3VDRXpEV3VLZjR2Nlk1SFF2QVRuYjdIdjNhS05xTGhGVXNmaUVPOUJkVTJWa0FlUGhQb3FTLUw3clJPb3RHTmgtNWJfa1NWUEtndw?oc=5",
+   "published": "2026-11-09T13:26:58Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7abe7eba73c6f0bb",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics: Q3 Earnings Snapshot - KVUE",
+   "summary": "TG Therapeutics: Q3 Earnings Snapshot KVUE",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGE0VFRqMU8wYW9DcUxWOG0tN2pPSGhrX3RMVHI4MkZ1Z3NLOVAyenlaTWZhWmM1N05aYUdFVE5JTFVJSnU1a0Iwa1JpY19odUlZZ3ExZUhZVkFjTGdrSmlRUWlYUVZ6bFBpY2FiN3F5OVVXU3VCek51TFcwWXE2X205UUN6MEY1YjE0VVROQ1Fxc0R2Y24xdXl0XzdCa3FOQ3BEVmxtandVMk9MNi02c2dOS3VVcTUwYzducFZUeE5mY0w4TlZkblJKamNyS28?oc=5",
+   "published": "2026-11-09T13:13:33Z",
+   "outlet": "KVUE",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3c8f43607eb1a845",
    "company": "BioVie",
    "title": "BioVie presents Long COVID biomarker data at NIH workshop - StreetInsider",
@@ -5764,6 +6094,28 @@
    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOUHB5Sk0yWlBqZW9DSEFwaXEwSFpJUGtzemxpMlhQT3ZSMXZfXzdybFRlMGZLNnpBd1UxTjNoTENfOGxsR2pvdXpjeGk2N1FLUmhWOE9zTXBYQVg3VHhlY1JTVHM2U2ZyMVdJdGlSTDh2OE9pa24xdDZaWmExYzZMZEllV3BZQnZ5WnFweTRaVjkxOW1hRTBmVmhyRWJROW83cVUxcWxROHg5ZWJjXzNxcXB1azFoZWFuSGpMVzlDSE9Kc0VrSk9XNWtKR0Q2YmZPRDJlWEVORjJRV0tOVGVuZExzTFRsMmZVcWxZckZwYXlkc3pvUDI0N3AwaDJNYU1vVkhYLWpzbkRuYm45U2NTbGRFUkpaNEc1?oc=5",
    "published": "2026-11-09T13:00:00Z",
    "outlet": "Morningstar",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b028f00516c07ff6",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Raises 2026 Revenue Guidance to About $1 Billion - TradingView",
+   "summary": "TG Therapeutics Raises 2026 Revenue Guidance to About $1 Billion TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbC1teHlJa2pXSk5jNGl4ZEJsMEF5aGZvUmwzYnZ2Y0pIUmE3NmJMcXpsdDQxZTI3aTAwX3dJTkNvTHRLME5vTGtTUmFlLXppTmNhbTB1eVJxRkpHekFLX3BZRXBvS25mWVFiQ1FnRVAxOWZ5VGFtNmxEbDRPbXZTcnNtTjFNVDZ4by01TzUtaVRpRzgtcm44QzlvaDV4R0V2TVlFMjcyWGEwNVVLWUd2TGdrYVltMVM4WTg2LTNiWEdkWkk?oc=5",
+   "published": "2026-11-09T12:13:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e06cb6f39a022aa4",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Reports Third Quarter 2026 Financial Results and Raises Full-Year Revenue Guidance - Quantisnow",
+   "summary": "TG Therapeutics Reports Third Quarter 2026 Financial Results and Raises Full-Year Revenue Guidance Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWZEaGNyLWJmTlFocXpHUnVZMHBITHVyWU92SGthbjYtSW9seF9IVjYyNUUzTUlKY3RJZTc0Ri00cEhrdE5SdDc2Rk5tN19sWkZOSEotSDEtV3d0WGtsS1EwSTI4YUdYOWVySE1od2FIWGlKMEc5bnRYRDMzRnY4a2drWG9Ia3VwNWtRQ3ZSZ181N0h0c3ZGdFlJODhfbnE5ZGlWVm9DRE4zM2lpeTI5anpfUm4?oc=5",
+   "published": "2026-11-09T12:02:44Z",
+   "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6028,6 +6380,72 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeFJXY2VLVUZMLUVpajVyRnpvSk0tNFloSkljbjAzcW5hYkJpRmJJMnk4a2pCUll1YWQxMnRpX1YteGhMeXk1Y2dvZWV0Q1RTYXVkVEo0MnpkdEpfT3JReGFpanZoWDgxdWZOUFZteVVvU0pZMWYxbTFpcHNuejB3M0JjbndnTDVSNXdrUEJMN0VhSXk5ZWRSN2NHVzIwSl9OUXU5NmZ6X3Z4QVdvZWpwcVpIOFA4cmFheU8zckEtV2RCbnRLV0tGUTRnWQ?oc=5",
    "published": "2026-11-09T08:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3fc1ec5ca7181ed9",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics (TGTX) Beats Q3 Earnings and Revenue Estimates - Yahoo Finance",
+   "summary": "TG Therapeutics (TGTX) Beats Q3 Earnings and Revenue Estimates Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3RmaklWUWRYU08ta094SF90aXgxckZ2VTNtU1VzWTdnMzNlQ2hHSnJHRGdPVzU5OHhBWTFEUUNxSXNEMmdJTjVXTUVjQjB0ZE9YSmptRXlRZ1Fqbmd4Z3l4YUpuVURSNlJTdGUxWDI1LWprampyVG54R2FWZmFoUHpqb3VXTjU4YV9Oa3VvWmdaRUpW?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4d6ad7b43bedd927",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics, Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+   "summary": "TG Therapeutics, Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdDZIVUtxMlZjSXQ2c2tXXzJPQXpPbDE5VFRsOGFXSXFjSjI0by1vaVMtQjVQT0lsSVlxeFF3MV9neHUxUExPblp3ck1KWkZsa0llc2JrY0dkR2JWZkFnMmRxdkRBZTVoTmRsaHpfV1JMMFdWdy1KdXh6cnlFbzg0SUw3NXpCdnh4MGtwR3l2VlI0dw?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ad2ce4fcb653087d",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics (TGTX) Reports Q3 Earnings: What Key Metrics Have to Say - Yahoo Finance",
+   "summary": "TG Therapeutics (TGTX) Reports Q3 Earnings: What Key Metrics Have to Say Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXBlanBkazVFMnRVcDQ3ZmZxS2tkYzlDbnV4YU1DQUVSa3BpTEJ0bkJHWjNYS0JnOTg4dUFLQ3FWLUtMaEMzYkIweUFsUGJ5YUhlUmJ3V1BYZURhU2R5WWwzbWZDeWFFQl9TeFNaWklKdTlocTVxd1NiOVphXzJqX3NFWQ?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "cf15b81dc1544b9c",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Q3 2026 Earnings Call Transcript - Benzinga",
+   "summary": "TG Therapeutics Q3 2026 Earnings Call Transcript Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOE0zcFpnckRzTVp1YU9JUlBXSF9Hb2VqTktsaEEzQXR1RC1sLThMcmxqSEh5ZEpCOGhDSzFwOWhoTWxDWWpuSnlwaWNKRy1HZmtQdUtILTh0bXRXY2ppUmYtNzZkUlZZWkgzbF9PVjJUemZ0UTFuc1R5YnQ4cTR6MlIwcEc2V0QtR2JQQ3FSWjRoRk9ObDA1dw?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "facd39e70241d8a2",
+   "company": "TG Therapeutics",
+   "title": "What TG Therapeutics (TGTX) Said on Its Q3 Earnings Call - TradingView",
+   "summary": "What TG Therapeutics (TGTX) Said on Its Q3 Earnings Call TradingView",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZXJPdVZuNkdDQmtFbWlaTDJZYkZMcnduWl9iUEpzMkRyN2lqYmVkcUdUVEVaRE1IU01nQ2wySkp2Vm1kbmlzNEVpZjB6ZkNUWGRRVUdmTmNPcGp1Yy1td2VFUGliMkQtd3VydGtfUXhlNklhOG96RUIzUGtQbzhtN2VqYUxUWnEwTkhKTGRNLXdRRE5LWHRkMjBGQ0J3eWJONDlac25UY0JpWVYtc3c5aDc2NkZydw?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b0f36d85283ecfe6",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Releases Q3 2026 Financial Results - AlphaStreet",
+   "summary": "TG Therapeutics Releases Q3 2026 Financial Results AlphaStreet",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2hqTmxnM1U4Vm5nS1N6LXdwajdKTEJnOGRMNTVMTkk2T1ZwRDV4QW5JTkREZFNmdmgtdWpSTUhSOFpNNkR4LTFaUVZ3VVpYNnNXTlVHOFVZTlVXWTZuUDBWemJIdHZJeG9JSUZVaE5FdUpiMVNPVTQ2UDVnZHlnZ0c3UE1RZDjSAYcBQVVfeXFMTk9oak5sZzNVOFZuZ0tTei13cGo3SkxCZzhkTDU1TE5JNk9WcEQ1eEFuSU5ERGRTZnZoLXVqUk1IUjhaTTZEeC0xWlFWd1VaWDZzV05VRzhVWU5VV1k2blAwVnpiSHR2SXhvSUlGVWhORXVKYjFTT1U0NlA1Z2R5Z2dHN1BNUWQ4?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "AlphaStreet",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7737,6 +8155,17 @@
    "first_seen": null
   },
   {
+   "id": "505803b37fe7ee15",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Stock Climbs 15% On A 6-Day Winning Streak - Trefis",
+   "summary": "TG Therapeutics Stock Climbs 15% On A 6-Day Winning Streak Trefis",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHdzYUtRU2hGM0wxZ3NNbGRvWVNqRzFmeWxfazV5UUtDNGdBeEFlOXpRZmktcU1ueWljdzhXbFNBRlEzSjdiMzMwel9jRUtaeUxBbzRDUnVvMnFoOS1LRVlLRkhWRkdUb3MyUDFCdkV4R3ZwLWtSdnFNTTBwQzZhbEZ6VnVuNVY0OGt2RC16WFVkcTBQY28zYTB3YVVybTM5MkR0cFhfVEFIbUY3MmdMR2NoQWlTYktad2c?oc=5",
+   "published": "2026-10-31T07:00:00Z",
+   "outlet": "Trefis",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3573376dadaff5a0",
    "company": "BioVie",
    "title": "BioVie Inc. (BIVI) Seasonal returns chart - Yahoo Finance UK",
@@ -8195,6 +8624,17 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMU5iRUFuT1R0Z0czMTUxZk4xamFabGhHQk5RdW5LVUt5Zzk0OUlXekRlazAzNS1KSmpvVFRPaUxjOFZ1X1BzMVVxLWNsbGFIbUtOc280VnN0RllRRmpYM3BrblQ2RWdDQWxZOF8yeFRJeXE5bVRhQ0hyVXhJSHdNQ3cxS0xLS2lWUUNHeg?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Medical Marketing and Media",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1a1dfe31086fc2b0",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq: NRXP) to Host Conference Call on October 30, 2026 to Discuss Regulatory Milestone for Preservative-Free Ketamine - Yahoo Finance",
+   "summary": "NRx Pharmaceuticals (Nasdaq: NRXP) to Host Conference Call on October 30, 2026 to Discuss Regulatory Milestone for Preservative-Free Ketamine Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVFmUHNueTJDUkVpS1RMWmNVTnRCaHRuN2Njb24xMW5CMkstRFdhNFVwQWt6bWticExEZEtPVEtOUW45N0l5LTQ5NVFVNTh0d3dxTUJSNDhjYS1DMWFBNV83bzNmY1pvSVViTW1mNVRGZFZrb005U2VVRldjSHp6YXhmWjktMVZLTy1zQm41bmJpcVltOWpPMUZoQ254Zw?oc=5",
+   "published": "2026-10-29T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8892,6 +9332,17 @@
    "first_seen": null
   },
   {
+   "id": "8b7961fa7c15172a",
+   "company": "TG Therapeutics",
+   "title": "Why TG Therapeutics (TGTX) Shares Climbed After Its Latest Update - Yahoo Finance",
+   "summary": "Why TG Therapeutics (TGTX) Shares Climbed After Its Latest Update Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWTQyVjJINGZzNzQ3QnRRSmNwYkdnTTAyTjlsR1VUanBXekxRWFQ0emI0Nzc5YnVEVEN6Q0QxbUd2MHdSYWRTbXB4RFRnUzZNcUFHX0Y3eW9qS1QtY21sT2dFcGNWVC1wX1JsdmNNdEROalNxamlGV1hNemlCOWk3TFBJamw3SnVPeXU0NHI5YXpKd2ZBNDRBaTBhUmE?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7f878831bd4bb9de",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals to Report Third Quarter 2026 Financial Results on November 9, 2026",
@@ -8998,6 +9449,17 @@
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaWhWWWtwbEpGSFRZUTVrdDdsbUtlZ251ZFV4OU1mNXVnOHV3akRLelV3SFZPcWo0UHFRX1BYUjRmVXd0TU1iSUhkS2hyWXNQODA2elhqM2kxSE1QMWRodjREWkpJM2RaclBnTFNueW1LVTc5dFJtcFRNeTB6WFllQ0dLUjlRa1ItZ1ZUbkFkQ1pIQjVNTVRJckFtdm9vUjZqaGJOQlJ4UlFTUzZsUmVSTEN1cTdlaEVEeXN0bngxd2xfLWFISzVFUHRnTk9RTy1SS2dxQlpMVGUtc2FoUEY1QzBuMXdJOHRFMFpRM0xIMUpfczAtbzBEOXgxbDBJajFN?oc=5",
    "published": "2026-10-26T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "bee74b039eea19f7",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics (TGTX) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release - Yahoo Finance",
+   "summary": "TG Therapeutics (TGTX) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmVtM25FQ3hrQlVjZVNsTXRXT05jcU9EN1BLMndmc1B6RG4ycy0tVm5xNlV6OVVYWHhfbjA4T1NZTFdGRW8xSXRYQjdtSDRvcnRmQko5YkVrLW5BWUlLZ1BFcXg2THlnaE40b2hEM1NZV2JaLVNJT1pKbjJHWW9xSG9Fb2docERsaW5GRzY0UDBkaVlFOHdoXzlCVV93RFFj?oc=5",
+   "published": "2026-10-26T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10274,6 +10736,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkEyZFlvbXZrR0RYeldWYklHM3NlaGRlU0lZbjVCT0RrWjByeEJtXzVyb3F1MjR6d01GR1ZPYWNLc3RUSlVwbFJrVXRSLXFvUVV1U3FfVlFHN3FyWG1DcE9jMTZ5Nlh6SUQzWnRtdWdCSEttZHpyRXY0Vm14Q2RUWHU0ZzVkekhYXzdBemlpcUEwOWYwVmtUMUpsSklkclJuaERPMmFOdmVIa3hLbFRoMHlsQVp0UEhWTUpNR1ZtbnBtQQ?oc=5",
    "published": "2026-10-12T07:00:00Z",
    "outlet": "TG Therapeutics",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "963fec5eb3428250",
+   "company": "Teva",
+   "title": "FDA approves Teva’s monthly injection of olanzapine for schizophrenia - Yahoo Finance",
+   "summary": "FDA approves Teva’s monthly injection of olanzapine for schizophrenia Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSU9pck1hRlp3WjdRUl96V0RiS0M3RzhyTE1fY0hMd1FUdmd0QUo1cE5WRHpvZlFKejJfc3Q2UUZMSE1oUGduU2dyUDJNdXp0UXBFLXF6LUlNaG9PbHZWeHZYVzYwYTQ3SGF1a1JvTzZwSHpDSWFlMFl0eW9weGRHYnAtelRMWjlj?oc=5",
+   "published": "2026-10-12T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13072,6 +13545,28 @@
    "first_seen": null
   },
   {
+   "id": "90ec008937308fa0",
+   "company": "Teva",
+   "title": "Teva Highlights New Real-World Data Showing UZEDY® (risperidone) Outperforms Other Long-Acting Injectables in Keeping Schizophrenia Patients on Treatment, While Reducing Emergency Care and Healthcare Costs - Yahoo Finance",
+   "summary": "Teva Highlights New Real-World Data Showing UZEDY® (risperidone) Outperforms Other Long-Acting Injectables in Keeping Schizophrenia Patients on Treatment, While Reducing Emergency Care and Healthcare Costs Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcURzZENfSGx2TWs0U0dVTWIwMmY5b3JtZFk3RzVCTEZ6dk5rMzdjeUxaTEdjMnNmb3dHTTFVNEdBZ3VqZjNObjVjd3pzLVBRd1BCMUtEYThhODh4REFNWDcwTWowQjVmSG45SENpUFJxaUpTdmJKcmI4QXo1UkRQOThEckg2VDl2TnFFZnZWaGZHVzd5ajBn?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "cf49dffc20e5415b",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Eyes $1B Run Rate as BRIUMVI Gains MS Market Share - Yahoo Finance",
+   "summary": "TG Therapeutics Eyes $1B Run Rate as BRIUMVI Gains MS Market Share Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1pzLVdEYktaQTNncU84eVJlRXNlZFNrMDluaHNjaHZ6QVpvaGg5YXdzcHYySml2X2FyZ2E0YnpKYm1oUE1KWVdabUREMXpzUU9TVFNhUEw1bExsLXlveTROZDdFUmtaOUh0ZXdScWRneVJxbGJEdlRJY3pQc3hqUXRnOS03ODl6QXBrU1VaTERfZw?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "175772e2e85dcdcf",
    "company": "Aspen Neuroscience",
    "title": "Peter Thompson, M.D.",
@@ -14513,6 +15008,17 @@
    "first_seen": null
   },
   {
+   "id": "901c1673b0198696",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics (TGTX) Up 15.1% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+   "summary": "TG Therapeutics (TGTX) Up 15.1% Since Last Earnings Report: Can It Continue? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHVWeEh6Yy1KT2llWXJsZUZhNHVBaVQ0TjFROVhiMXA1NS11ck9nRS1qdFdQYWZld1h4bmtLR3picVlPOFJoVFVHcnZzVnExN3BJTWxqZzNmanRacDFJV1FlVUgzTGNwSEZCcENzWmhnWW1FNWdSSkE2VlFxSndHaUtlOXM3aTZyLXBmd3dNMA?oc=5",
+   "published": "2026-09-02T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "855a2bd7183c8974",
    "company": "Luye Pharma",
    "title": "Luye Pharma Announces 2026 Interim Results - 绿叶制药集团",
@@ -14774,6 +15280,17 @@
    "published": "2026-08-26T07:00:00Z",
    "outlet": "Johnson & Johnson",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "76982248228dcf6a",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics: Briumvi's Peak May Be Far Away (Rating Upgrade) (NASDAQ:TGTX) - Seeking Alpha",
+   "summary": "TG Therapeutics: Briumvi's Peak May Be Far Away (Rating Upgrade) (NASDAQ:TGTX) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdTRJSHFCeUI4Rkc5Qk5ncXFydktDSGh0SVlMc2Z4NWJMYlFKUHFiUVVqaTRqdG1jRGJjRW9uLUZYalVaOUUtQ3hKM280WkRxYVlabjZ5Sk84S0F2bFFfMktxeWVET1gwazdqaUZZc1FhZTB2MkI5enVQdFo0UXQ1MHpYalY2cnF1bzZhSnlDMzBkWDR5T1dmRmJLTm90UmRTOGc?oc=5",
+   "published": "2026-08-26T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -16900,6 +17417,17 @@
    "first_seen": null
   },
   {
+   "id": "bfb08aa8dc76cb12",
+   "company": "TG Therapeutics",
+   "title": "Is TG Therapeutics (TGTX) A Bargain As Higher Guidance Meets A Sharp Pullback? - Yahoo Finance",
+   "summary": "Is TG Therapeutics (TGTX) A Bargain As Higher Guidance Meets A Sharp Pullback? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMUFtRVBEOERYS3dsbGJrcUpqSVN4OHBxVjNLa3M5M19DdWhyV25vMmJDd2JzU1k3ZVlwREpVYnZrM0NESV90SFVSeTc4NElJWWp4NkFQQW9tX1RpQ2J6WFVsTDhDY05YeFFkWW1VY193N1RaZ3NwUkgtSXN0X2s1SEZ2U0E2YjlmZk14Z3F0TVA0cEdjOVE2UFNLai1RazBoQ0E?oc=5",
+   "published": "2026-08-04T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fdd6bcaccfb9f24b",
    "company": "Supernus",
    "title": "Supernus Announces Second Quarter 2026 Financial Results - Supernus Pharmaceuticals",
@@ -17171,6 +17699,39 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaVZwN3RtR1otUTgycks1UXBfV1lFaU80MVlCMGdseGc3NGVwWjJzSExDdDFHXy1MN2l3OGZjNlBUUW00WmVrYTcyYkxBa1ZxNjI2UndZdWVEQzZ4eXdxV1B0SVhaQldKbmtJT0hoXy1Fb3BwbUlXRGxRTUdSWmRoZWRLYW5CTjFaZjN2OGZZYzUwR0JMcVUzWHZUdnNMZk5WaUxHalpsSVhJREstYnA1SnN5MmVDLWJTSloxVFVvajlaczZ3ckE?oc=5",
    "published": "2026-08-03T07:00:00Z",
    "outlet": "citybiz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "53a3a5febd2a5370",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics: Why I'm Staying Long After The Q2 Selloff (NASDAQ:TGTX) - Seeking Alpha",
+   "summary": "TG Therapeutics: Why I'm Staying Long After The Q2 Selloff (NASDAQ:TGTX) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjJZS243dVFNdnd5TjJGVnY0UWFtZjU5T2lOdXlUbmNULWpfbDhXbXhwdnNtcHlaRkRmVlMxemwtRENtanF5aDVSRkRReGJmbll2NVJHOHNwbnZoX2JsbWdSYng2MnZuc0ZjeWNlT3J3cGpmcnBWckZvSnFhX3RUbEs4ZzRKWGNtc2kwVFJzU0FVUS1qTUVCeGxGQnZKQQ?oc=5",
+   "published": "2026-08-03T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "648e20d2e98e1425",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics (TGTX) Is Down 15.9% After Q2 Miss But Raised 2026 Outlook - What's Changed - Yahoo Finance",
+   "summary": "TG Therapeutics (TGTX) Is Down 15.9% After Q2 Miss But Raised 2026 Outlook - What's Changed Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUno3clVGVUNTTXVna2FsVnZjRmhsdGFtam1uUk1MNmlqNnA5Q0NjdjFRMndMN2Fhd01IeEkxLWZHNGZIMlJvaGd2RDJxbnhmTHdjOTc0dEdzVGFmZEx5RnlNeHBlRDcxcGZyVWNhZG9XSEFaYk05cHNuNFlZZnE1Yk1TQzZnYm52WnJFa3Uzakpjanc?oc=5",
+   "published": "2026-08-03T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d17a9fed4e8a0ba0",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics (TGTX) Misses Q2 Earnings Estimates - Yahoo Finance",
+   "summary": "TG Therapeutics (TGTX) Misses Q2 Earnings Estimates Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWhEZy10UU9JNW84eldRTUpocXBDLW4xTzVEbVhBdTBjODBTRFpkTDVzMURjQXdOU0RQdjdYTHU2T242OVF5RGZZaUFqU19Jc3kyU2x2cUFjU2MzcWxYazF0M21jVW9sVE8xQ3ZKVjZnQXY2eERPaHlCXy1vX2dmTDI2dm15SF9KaW5SUll2NjJLYzNlREE?oc=5",
+   "published": "2026-08-03T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17875,6 +18436,17 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSU5LQnBYanRHODZzSDU1RzR3RkJVOVBLbG1BQVpPUm1McGhjbkUyQXFMYlJWRWdiQlZoRlpNeUZZWkNyT2ktaE9Qd0NEYmNqdHNQN3d4OHZfWC1sWXdXdTdfeG9MSUhSMjdjLVE0NWZHaFpQdmRVTDY5WHhNYzNCcjZIbGhPa0pIRHBONTAta2pOZw?oc=5",
    "published": "2026-07-24T07:00:00Z",
    "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4b23e285956c07ac",
+   "company": "TG Therapeutics",
+   "title": "How Roche Unexpectedly Buoyed IBD Stock Of The Day TG Therapeutics - Investor's Business Daily",
+   "summary": "How Roche Unexpectedly Buoyed IBD Stock Of The Day TG Therapeutics Investor's Business Daily",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWmVKa0RMbTduMzBfS0dKSEZ4MUtRUWd6QmpNUzVNTTlXMU5kTnl3MksyN25UVmVjQWY5TnRlaGVXUlVVeTVNUi11Vnprbm1nZDZfd0JEbDBqSmVtSDd4VXBJbWl1aUVoUGpJY25SRVIyVUdvTHROM2t0OXhQZjV3QmREQlJnS0tNLVJIY2NFUWFmOGtfbFI5SVNhTUJhbEEtM3FVVjkwb0owOUt0NW1sN0NnX2M5Y0lHVjU1MkhuQzZZc2ZkQ2tLaA?oc=5",
+   "published": "2026-07-24T07:00:00Z",
+   "outlet": "Investor's Business Daily",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20915,6 +21487,17 @@
    "first_seen": null
   },
   {
+   "id": "0b06e7f509c0d4f1",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics (TGTX) Soars 7.5%: Is Further Upside Left in the Stock? - Yahoo Finance",
+   "summary": "TG Therapeutics (TGTX) Soars 7.5%: Is Further Upside Left in the Stock? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVFqb1dJN2NhNm1Lb19WR01FaUJHYUFPYXRna2hCeUE3a2dLS0o3eVZuVXVuSHd6Rmxka0NfN08ydjlwU0tPbTNZVFdtX1p4SjdZVFNWVW10VDRobTZYU0tqdlJrZ09qc0IwMlFUUS1ZNVVjcWlqZk5MVTVUTXhSRUFmUnNLdjJVN0tHMnAwWmo2OFA0anA0Rw?oc=5",
+   "published": "2026-06-11T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e96344c7e428a89e",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics to Present at H.C. Wainwright 7th Annual Neuro Perspectives Expert Summit - Gain Therapeutics",
@@ -21054,6 +21637,17 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNazFTdjEwUXBoVk5XNmhFdWhtM3pXTUVVQmtRR0hLUGVIa2FGS0JrYlpBUzlaa0ZDcVFTSXRGYVZ1ZlpsbzdQV3F3TjJ4RXk1aHMxcjZjdnFESEgxLWoyaXlBMk54Y0RuTk9TeHh4eGpQM0libFZIeUJxSUd4N3Rvd01LOEg3X3czQTNSd01qQWFNSDMtWTU3YWRHbl9XY0VmLUdtdk1TM1lFeWtZYXFfR2xQcy0xTy1lLXduSw?oc=5",
    "published": "2026-06-09T07:00:00Z",
    "outlet": "TG Therapeutics",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6b0d33b9f5574230",
+   "company": "TG Therapeutics",
+   "title": "A Look At TG Therapeutics (TGTX) Valuation After Recent Positive BRIUMVI Trial Updates - Yahoo Finance",
+   "summary": "A Look At TG Therapeutics (TGTX) Valuation After Recent Positive BRIUMVI Trial Updates Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0VzdWhHR3NjX3ZtUUotWE10UHZfSWZNRTRZTGR5cWxmdHk2YWRXT3c0bzJBcWxQek1qYkpqTjlMQkJLSTNscGRveWhwZms0cGdGMDNySVJVU3h2eVFJSE9VWU5ZejlTQmNwUXNRUFFOZmVJdUV6SlZsLXE2b3k5LVktNGZrQWs4bUl4OVNaY05SSWlsbjZBWHJDaEo2ZTNqdkdKX25sdw?oc=5",
+   "published": "2026-06-09T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -21483,6 +22077,17 @@
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUnFreF9KRWFsTUh6YXhNU1pnYi01NTNqemhfdjBqTkIzZi10SG4tNVJuT3g1Slo3MVFROUhVbDhBUHdHcnZ2d0FsZlRvTTd2bWdPR1RUcVZuNVZoM295X2t6OFdzaFRlZ1lXMnJjVWpNSldxYmpaWUwyVm81dVQ0RVE5Q3RaNlNWbTItNXN3cVRFZ0oyemtxTHZnbTVEMl9aaGFzdk5YbmNFblNUNVNOMTBULVY4UDNKM1BYR1hkMDFmMTFmb1laUDk0SUQyVHZfUGw5X01DMDFveXl0Q3R5V3lJWnU2ZWxUdnc?oc=5",
    "published": "2026-06-01T07:00:00Z",
    "outlet": "Investing News Network",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0e7e7cefbf7820ab",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Announces Publication of Post-Hoc Data from the Phase 3 ULTIMATE I & II Trials in Treatment Naive Patients with Relapsing Forms of MS Published in Frontiers in Immunology - TG Therapeutics",
+   "summary": "TG Therapeutics Announces Publication of Post-Hoc Data from the Phase 3 ULTIMATE I & II Trials in Treatment Naive Patients with Relapsing Forms of MS Published in Frontiers in Immunology TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0hPUTFwZ29ybjlaUjZUN01nek5qWXZwYkZNQTNZOUsxeDRoZFlQRS03QlJXZUpfdUswdGozcXV2LUZfNDl6UTRFTmJadXBSOFcwelRNR2RUR2p0VERPcHBzU2QtTEZYYmt4WUxRN2NOVHJpX1d1Y2V4SkdNNkFDZmhmOEozUFFmaWlxRXBqV2ljWHZSWmxiSEo2OHY0R0R2RVFUa3l4MHVLYjdrWGhJVmUwRGo2ZVhtZFBoempoZDF1dw?oc=5",
+   "published": "2026-06-01T07:00:00Z",
+   "outlet": "TG Therapeutics",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -23731,6 +24336,17 @@
    "first_seen": null
   },
   {
+   "id": "538931992c9cb237",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics to Host Conference Call on First Quarter 2026 Financial Results and Business Update - TG Therapeutics",
+   "summary": "TG Therapeutics to Host Conference Call on First Quarter 2026 Financial Results and Business Update TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTzk5NktGV0tpSTM0ZndoQnpzek9XZUtpWG44OXNCOW9oUlFyMTdVcXpNNWFUek56WDFFNlRQV3NaSU8tb2xHbHBKbXdCb2lpSDIxRkI0UC0xelMweWhVdmRqSDR4S2syQlBZMGNQRTRYOHFnaFRxaGNpR195VWlZTFljaXgxak14WkdKeTBxU2kyeGRIZ2ZvX0x3VTV1Nmo0dDlaT0FpbE9yX0JhTWR4SWV5UmdGUWwtVlE4cw?oc=5",
+   "published": "2026-04-30T07:00:00Z",
+   "outlet": "TG Therapeutics",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b2e3326ddbfd589e",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Athens Open 2026 Draws | WTA Official - WTA Tennis",
@@ -25597,6 +26213,17 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ1FqNFk4OUgyMmhETnVxRlJEWXNudTdTS1JtTkRYdnJ2aVk2UlVJZkJncnVVTWxJNWtaSnpzU2lIRXk3SFJOTWJiRzBGUlNuTjc5Vjl2WjZObTRwSTVfTmZIdXA0YXhBQUhJRElnckhlX29XQ2VjcEIzUFp0SW9yb2JUOU9QM2JMU3R6aTU1Y3AtM2UzMFRHd0UyY1lDNzBFbkl5ZEs4NjRkVGNiOHRtcjc1SEF4cV9qNVlBVG9B?oc=5",
    "published": "2026-03-30T07:00:00Z",
    "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d7ee38f1fde5692c",
+   "company": "Neumora Therapeutics",
+   "title": "Neumora Therapeutics: Downgrading After Navacaprant Development Setback (NASDAQ:NMRA) - Seeking Alpha",
+   "summary": "Neumora Therapeutics: Downgrading After Navacaprant Development Setback (NASDAQ:NMRA) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzI4OGlCa0QtWlRkYkJMaGtFV0ttSTNlaWZmN2VUdHhJRlBrWERrLUVrZUVWbFhEZV8yRzVNanBrd1ZIY0lXdWxDbWY2YWk2U2JweEdjMVExeHl5WE5pZjdFSFA0bDl3bUhTREl3b01HWGJoR3FZSVRWTm1ORXpWMG5ReFFqalhGMWs5ZWVSMF9RdHJQT1c5VFlnbVBVZkhaRkw0LXJvRTZPd3F2X1NxNA?oc=5",
+   "published": "2026-03-30T07:00:00Z",
+   "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
