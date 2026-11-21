@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:55:17Z",
+ "updated": "2026-11-21T22:34:15Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2160,6 +2160,17 @@
    "first_seen": "2026-11-20T13:15:54Z"
   },
   {
+   "id": "664e4b4b2b9b1257",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals settles patent litigation with MSN over HETLIOZ LQ generic By Investing.com - Investing.com India",
+   "summary": "Vanda Pharmaceuticals settles patent litigation with MSN over HETLIOZ LQ generic By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUctSHUyaElYVVpRcU1PNXdqSzdCSVhVbUh5eHVSRWRCSEtBd1JHNXA0a3Z4a0RmQW1NbjMtUldvbXpTTkxwbUF3T0dRbTRfb1BIRUJ6eks4b1E3eEZMVXV5SUZPNUpQX1dCQlVzR2hRWG4yQnlXQ3pnbDdUWVZROWN4YS1mUXlpMVhJM0l3MmVLTHIzeTlmTGk0ejBudVdXQl9CU1dQZ1Rhb0lxZjZyTTRONlpCcFB5blhyc05FczJXekJzYzdYaDM1V2NYejF1RHdnYTQ2Vk8?oc=5",
+   "published": "2026-11-20T12:32:56Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T22:34:15Z"
+  },
+  {
    "id": "07e34cf179772016",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson stock: CAPLYTA filing seeks bipolar mania approval - ad-hoc-news.de",
@@ -3126,6 +3137,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
+   "id": "9fbc78eed84909c1",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
+   "summary": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ0lNbXpmZ0Z1VFF6WktkLTRKOGZUMk5QOW12bjM1LXd0NXdyT2xscXBzVlktbnJRLTFvYWJ0a3VLSG5FWHU2Tw?oc=5",
+   "published": "2026-11-19T08:00:00Z",
+   "outlet": "StockInvest.us",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "8b4254665a7d3e03",
@@ -4488,17 +4510,6 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0lBdDdGaGV2LTg0TEdQdFFYX1Y2OU5hanBkXzUtVFdZXzBDZzh6X24wWnZVaUp1ekVabUV0ZWlSVURERmRlX0EzVVdmNlA5YlhqOXdjOEJWS2tpdVJ5Qm43RDZYU3JRMWNOQzdMNUMtc1hrWEx4SXpxa2NNbjFhZzJObFFWR0R3MDUxdEFqUQ?oc=5",
    "published": "2026-11-17T08:00:00Z",
    "outlet": "Simply Wall St",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "9fbc78eed84909c1",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
-   "summary": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? StockInvest.us",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ0lNbXpmZ0Z1VFF6WktkLTRKOGZUMk5QOW12bjM1LXd0NXdyT2xscXBzVlktbnJRLTFvYWJ0a3VLSG5FWHU2Tw?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "StockInvest.us",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6956,17 +6967,6 @@
    "first_seen": null
   },
   {
-   "id": "1d3eeac31f0bbb07",
-   "company": "Protagenic Therapeutics",
-   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
-   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
-   "published": "2026-11-11T13:30:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "fa7d12de4cdd1032",
    "company": "LB Pharmaceuticals",
    "title": "HC Wainwright Issues Pessimistic Forecast for LBRX Earnings - MarketBeat",
@@ -7096,6 +7096,17 @@
    "published": "2026-11-11T08:33:38Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1d3eeac31f0bbb07",
+   "company": "Protagenic Therapeutics",
+   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
+   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -15162,6 +15173,17 @@
    "first_seen": null
   },
   {
+   "id": "365cd330917276d0",
+   "company": "iRegene Therapeutics",
+   "title": "Iregene’s Nouvsight-001 cleared for clinic in US and China - BioWorld News",
+   "summary": "Iregene’s Nouvsight-001 cleared for clinic in US and China BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0FhT0dSZlJxRWhvWEZkZEkwVHpTd3Mta0hDSXZTY1FBUE9iUUtDb2trek9peEhiMzJWeXpfWHdFMnhBOXp3anFYTVVlOU16QXhTMk9NUlBTOTMzdEJkX1VuTWoza19xRktyU0tZYUdNRmlnUGlVSDZTZFB2M0oteFhfY1RDcXlFN3pIOTdIR2tNc3QxZV9EbG5yWVNvckk?oc=5",
+   "published": "2026-09-29T07:00:00Z",
+   "outlet": "BioWorld News",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
    "id": "618cadee89780e6b",
    "company": "Tortugas Neuroscience",
    "title": "Tortugas Neuroscience - The Pharma Letter",
@@ -16951,6 +16973,17 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbkhwSDM1elFxekRtTkx5Y3l6bTgxSzRja2hjaFU3Rm1wZ1RRQXBpa0pwb0lvbXpJU1V4SDJ2NVhzczRBc050cEtaaUFtT2ZYVmtGWGRRLVhSQjdqam9uZEVZeHdzM2dZUkVyQm1EVXI3VnFnVlJVdzdiSTh2SzZEYXlMV205bXRhX2Jvdmt3c1RyWUlOcm1ZSzJVU0QxaTUwRGZISDRzT1BQaDBxYnZnQQ?oc=5",
    "published": "2026-09-17T07:00:00Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2c9d8a8528f1451e",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Announces CEO Gene Mack to Participate in ROTH Healthcare Opportunities Conference Panel and One-on-One Meetings - Quiver Quantitative",
+   "summary": "Gain Therapeutics Announces CEO Gene Mack to Participate in ROTH Healthcare Opportunities Conference Panel and One-on-One Meetings Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMXNqSVZOVXFFQThJLTdXRGZQUE5kenNqOHhJSk5ZYmdYSGJXaG02Y1ZzWGdRUEl3czBzMlA0SUE5Q3hqNzlQMVJvOEkyUHI5Y1lGcEVVa0d0UlBjS2tEVV9FNUhZcFpJSWJFWlFMaExRNWFiOVRMYnN5cnc2NjNyNUZNQkNQLS1YYjVPWkRIcmt6QmJXSzBMT016VmFIQmtvVFJJYXF0eHc2MkYwaUJSVTl3anAtOVVPZWx1TEV1VW82TjFkMzJ0WjJKeGZoc1JlcFVsUDJ1SVpJeWVCMTBHNGpKTHp5T1h1aWEzc3h0NC1MQUl1LVE?oc=5",
+   "published": "2026-09-17T07:00:00Z",
+   "outlet": "Quiver Quantitative",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22763,6 +22796,17 @@
    "first_seen": null
   },
   {
+   "id": "20a986c8e9d3007d",
+   "company": "Usona Institute",
+   "title": "Protomartyr Announce New Album and Tour, Share Video for New Song “Sounds We Cannot Hear” - Under the Radar Magazine",
+   "summary": "Protomartyr Announce New Album and Tour, Share Video for New Song “Sounds We Cannot Hear” Under the Radar Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOamdsekx0UEVIQTRYSG1iRzBOQ1FjelBfMzBBWjZaa3dlVjhEU0NqbmtGTnBtOWZmUmNMQWJKUXlhZlNIN2phVVFTcnBoQUtMMURzclUxRkhFQnZxY29CM2F4ZXl1ejNrRjh1R2EwdzJHSGdiSG5DUG42Y1Uwbk1TdnZ3Sm9pTnlKRnVjcFZNNHdfbjZvOWg3SjFoWTdQZFR6RTlGTkEzNGJEbG9FTjdIX0tMOA?oc=5",
+   "published": "2026-07-24T07:00:00Z",
+   "outlet": "Under the Radar Magazine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "24842ab76f03bac2",
    "company": "Roche",
    "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
@@ -26818,6 +26862,17 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMEU4SnVvbWE2YkhSTlNTcGd0UUhiOUo1LWlHTVN3LVJSb1B6SUd5cDBUcE1DbFVRSFJCLWx5MDVQWFcyRmpmWmZTaGFnazJxdW93dW9BQTAwTW9aaF82UW1ISGp3ZHlhQmNKVy1kb1p0ZnliMmFaX21lT1NDam5PM3IxRTh6NzRicm9DZlJyc1l0RjJVVU5Qd2tvZmZiNENaYUVWOF82dw?oc=5",
    "published": "2026-06-07T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b4d399b77e08b10c",
+   "company": "Oryon Cell Therapies",
+   "title": "Ron Cohen, M.D. - The Biotech Founder Growing New Neurons - yespress.io",
+   "summary": "Ron Cohen, M.D. - The Biotech Founder Growing New Neurons yespress.io",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5ibG11TlVXcW1NcEJvazNaNGZvcWJFdmlET042MGkyVzI4TXZUandEdkRZdjVhODZ0S084QlczOUlyM0k?oc=5",
+   "published": "2026-06-06T20:20:21Z",
+   "outlet": "yespress.io",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -32608,6 +32663,17 @@
    "first_seen": null
   },
   {
+   "id": "bb319da4e0c62255",
+   "company": "Stada",
+   "title": "Stada Hunts for Major Consumer Health Deal After Record Profit - Bloomberg.com",
+   "summary": "Stada Hunts for Major Consumer Health Deal After Record Profit Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2g4YVBCM28wOE54OGFOSWE5b25JazAtb1hQbkNmT3dFOVc5QURzQk5WUk1DV0wwTDRPSjFGa1YzRzgtMzc2N3FzU0VnbzRGbUJuS09oMjlJeXhQVHVnUDJNNlBMUDhFYVNyRlhGR25BS1doQXJqOU1lTjg2cXlveC11WWxVeHB0elJLZGFINm1xMUNfNFFJei00LUd6MFJ3TkhUN2dNQXYxRmg5T3drUXE2dw?oc=5",
+   "published": "2026-03-17T07:00:00Z",
+   "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "cda2c659542e4432",
    "company": "Newronika",
    "title": "Cookie & Privacy Policies - Newronika",
@@ -34390,17 +34456,6 @@
    "first_seen": null
   },
   {
-   "id": "8acffb6926006ce2",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia - Yahoo Finance",
-   "summary": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQktVWlV3Q0NLWTBOaFF6Y3JNT3VvbDlXbFFKckFfaE4yS2Z6ZzloRUVNNF9Fa3NYNmo0eUtvenJ2TGtSY19LUGtvT3B6VE1aRWgzWlpMOVB0cWdyYUxDTGtZTzlPbUlMYzMtUVg5cTVyM0dmWXZBR21tRHFqNDF6eDZLTTNqMXVEMk5hWEltZ2dicTJFbERXZW5jQzU?oc=5",
-   "published": "2026-02-04T08:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "b07b63ba769b5dc4",
    "company": "AC Immune",
    "title": "AC IMMUNE SA (ACIU) Stock Price: Nov 18 Close $2.10 - Gotrade",
@@ -34419,6 +34474,17 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMXdTM0hMSFJrMDU2Y3JuTVVUZDREMzJILUhLWkxQSDNxcHdBWkJ0c3BsVFUxVjlvREp5MF9ETl9xRjhwTGt5cHNLdUpXTW5fLXBBWm0yVDlDeGp2TnBJbTRHdFFGTUR6eHM2WTN2eXR6NWNWUDVzU09ETFlBRmVjcFVXY1plT0dUTnJvTUxYalZ0SVgxMk9QY19RVGtfNVJrR0VxSExHSFJfNEtNaEFhM1FjaUY2N2praThtZ0xjV3Vta3JxOS1qS3VHR0tfLTVj?oc=5",
    "published": "2026-02-03T09:17:31Z",
    "outlet": "hrtoday.in",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8acffb6926006ce2",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia - Yahoo Finance",
+   "summary": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQktVWlV3Q0NLWTBOaFF6Y3JNT3VvbDlXbFFKckFfaE4yS2Z6ZzloRUVNNF9Fa3NYNmo0eUtvenJ2TGtSY19LUGtvT3B6VE1aRWgzWlpMOVB0cWdyYUxDTGtZTzlPbUlMYzMtUVg5cTVyM0dmWXZBR21tRHFqNDF6eDZLTTNqMXVEMk5hWEltZ2dicTJFbERXZW5jQzU?oc=5",
+   "published": "2026-02-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
