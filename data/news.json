@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T08:33:06Z",
+ "updated": "2026-11-21T09:30:47Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1813,7 +1813,7 @@
    "title": "Axsome Therapeutics, Inc. (AXSM) Latest Stock News & Headlines - Yahoo Finance",
    "summary": "Axsome Therapeutics, Inc. (AXSM) Latest Stock News & Headlines Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sZmRBeEZwVy1mZXBRUXdjanhVQU80U0s2T2Z5ZXNZdWliLU5takpIbUpBeFpzVHJ1UkN0Q29xTG9iTlNtcGpZdktGTWkyTVp6eDQ1cg?oc=5",
-   "published": "2026-11-20T15:46:07Z",
+   "published": "2026-11-20T16:13:57Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
@@ -3755,6 +3755,17 @@
    "first_seen": "2026-11-19T17:31:37Z"
   },
   {
+   "id": "d39279a620763ed6",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (NRXP) Stock Looks Priced At A Premium Following Its 95% Slump - Simply Wall St",
+   "summary": "NRx Pharmaceuticals (NRXP) Stock Looks Priced At A Premium Following Its 95% Slump Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc1J5WFBnOWNocmdLQkFXZk5wVFVmSzREWkZfbHhxTGRiVGtKaEZCLUstbDE4d1pfc1o4ci1mbnlsQVNUSjFNaHhxeU50a3MwQXczaXMyRG4tSXBpb0RiUGxQU3VTbVdqNFNTRFFLbWp0bjh5bXhKRkQ2STlONHYtZnBJNVlkZGIwQ1RlMjk1RlprcWZ2cV96TFRMaUNJcUJ1S01hd0hycFdyUXJrdS1zQWV4OGhwYjZsbFhPZ2RvZHBSUHVaQXlYeVBYc09rUW1NOUYzcVcyTXY2M3B3aUEzaUdxSUgxaEJK0gHuAUFVX3lxTE9STm9mOWN3OHNNQ1Z1Ykp0RkoxZnNfQjZXMlVWRVBhZmJuTFVTUU5YY3hTRTBBanRoWkgyaUZhT3dmb1BzTk03Q1Y3aTlINjNhV0NlQ0ZzMlkzMkVjUGhpRHJ0Q3BfMHJFcGJhbFNXUEdjeFVtNWJWSzd4dExDdVllMUdnWU1KSS1SVnRZZk5RLWxQM1JqZzYwUXNmV2lzWER1ZEZSaVpLTU03SHRRelA3dlpOZjdGWmE3eHRMUG1XdE4xMXM4dGZYSlpkWHppeGliUW16QmgydDhCRHFrS0F1WndmUHVJaDBDanE3TVE?oc=5",
+   "published": "2026-11-17T10:11:20Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7abba44b21cccf86",
    "company": "BioVie",
    "title": "BioVie Inc. (BIVI) stock price, news, quote and history - Yahoo Finance UK",
@@ -5394,17 +5405,6 @@
    "first_seen": null
   },
   {
-   "id": "b6560aeaf1612b35",
-   "company": "Alterity Therapeutics",
-   "title": "At noon AEDT on November 19, Alterity (ATHE) CEO David Stamler will address a virtual healthcare conference. - Stock Titan",
-   "summary": "At noon AEDT on November 19, Alterity (ATHE) CEO David Stamler will address a virtual healthcare conference. Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXpxZTBzdDlTaThiZG1kaVBKb19wN0lFU3ctZEVtTkNIbmxmTG1rRkJCWjZqWmdvVGdCZzY5d2FNZW8xOENvSmtUOFppZ25nZl9UNHZxRVQ0cks0bGNTR283a0VrRTc3TUd4NjgyUHJyZ1VVMlBqSlpTdlVrUGtFSlFsNHRrdWJBemUxcnNvMk56NkwyT01VTkNjaS1RVWctZ2gzeXczNGdtdjBSQTNWMEZ1R2UxbFRISnhCRUNB?oc=5",
-   "published": "2026-11-12T11:05:39Z",
-   "outlet": "Stock Titan",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "553731f77ddd2ffb",
    "company": "Alterity Therapeutics",
    "title": "Form 6-K ALTERITY THERAPEUTICS For: Nov 30 - StreetInsider",
@@ -5434,6 +5434,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b6560aeaf1612b35",
+   "company": "Alterity Therapeutics",
+   "title": "At noon AEDT on November 19, Alterity (ATHE) CEO David Stamler will address a virtual healthcare conference. - Stock Titan",
+   "summary": "At noon AEDT on November 19, Alterity (ATHE) CEO David Stamler will address a virtual healthcare conference. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXpxZTBzdDlTaThiZG1kaVBKb19wN0lFU3ctZEVtTkNIbmxmTG1rRkJCWjZqWmdvVGdCZzY5d2FNZW8xOENvSmtUOFppZ25nZl9UNHZxRVQ0cks0bGNTR283a0VrRTc3TUd4NjgyUHJyZ1VVMlBqSlpTdlVrUGtFSlFsNHRrdWJBemUxcnNvMk56NkwyT01VTkNjaS1RVWctZ2gzeXczNGdtdjBSQTNWMEZ1R2UxbFRISnhCRUNB?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9761,6 +9772,17 @@
    "first_seen": null
   },
   {
+   "id": "21c246d5531d1daf",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne lands first pharma order for StereoCED™ drug delivery platform in major commercial milestone - Pluang",
+   "summary": "NeuroOne lands first pharma order for StereoCED™ drug delivery platform in major commercial milestone Pluang",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2ljVV9sLXBUR2U4TFZBdDNoUW9CbGIxb05UbWtMczR1Rnc1QkNac3BtNExEdkZlN3IyY19EazFyVWFTQXhVZXc1TGpnRFRRYXVlSVd4WHBnanBxdHZkTFN5MjRSX2pSMTNsX1I5OFdUX1hyc2pHbGVpR2RXNzltNmpRNGFvX3ZGWnhZdDcxVWVQT3hLUkxwNDRSbjQycWoxZnZNUm9tVnRhYXkyYnJj?oc=5",
+   "published": "2026-10-22T07:00:00Z",
+   "outlet": "Pluang",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fc81163acd32289e",
    "company": "Neumora Therapeutics",
    "title": "0001193125-26-161489 - Neumora",
@@ -10102,6 +10124,17 @@
    "first_seen": null
   },
   {
+   "id": "c27a2075b8993509",
+   "company": "Roche",
+   "title": "Parkinson’s Disease Pipeline Landscape 2026: Late-Stage Candidates, MOA Trends, and ROA by DelveInsight | AbbVie, Pfizer, Novartis, F. Roche, Kissei Pharma, AstraZeneca, Prevail Therapeutics, Amneal - StreetInsider",
+   "summary": "Parkinson’s Disease Pipeline Landscape 2026: Late-Stage Candidates, MOA Trends, and ROA by DelveInsight | AbbVie, Pfizer, Novartis, F. Roche, Kissei Pharma, AstraZeneca, Prevail Therapeutics, Amneal StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPTDE0aENyanQ1aFlNQy1uSkdCbVBGZ1U4VWs1cUVFYkxfNWw1Mzl4aFlZRHIxdlNXY2JNdkFxQXBtcEx4QkNXLWdfakE2aVpfb2VpX2tfUkF1QWpsb1Q0eTlRbDVOR2dhazNmZ254ekJtRU42VXBlWVBERUV5N3VRU3o0eDdpUTh5UXk2ZWx4UWN6bHl3NVhxUnIwQURXdkxPSUZDdGpIOUIwcVB2RmZlYUZ5RjZCWTZDRWdVOEZyWTVUcVBQTU1kYXY3Z3RCbi1IY0xnNUZhaDVXdm5iSm1uZjk4eVRyZm1LRk5xdWZHcmJKZFlobGlURlFKMkc0Wm13R0RXRGt2am84c3hHS255OVlldmdnMjdKaUt1ZnVvemtpY29ycGdhVHNjTFFJYmJDSk02MWNhZDBYaUFRNUx6aWZaZ0FKb2xJTG9CeEk5NTZvMEtfM3VPR1c1eEMzeWFfS2FvbjVwNWRrOEI1T2hrVUZYUjE0eVpaRnozcVFwRXNOdVFtVS1ON1ZhaTVHWVY2eFE?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f7f3f88dc9a2148d",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals to Present an Analysis of Phase 3 Data on TONMYA® at the IASP 2026 World Congress on Pain",
@@ -10319,6 +10352,17 @@
    "published": "2026-10-15T22:59:16Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "e665b7b7fa138903",
+   "company": "Roche",
+   "title": "Playing walking soccer may help people with Parkinson's disease - www.brainhealth.com",
+   "summary": "Playing walking soccer may help people with Parkinson's disease www.brainhealth.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQnEtZEtrUzByWWpucjU3eE1JVmp3Ykg3d0ptWkRFeXM3RV93ZWRia1NpRGxfZFhhbE9tY2stamg3SGo2V3lGZkJSdndyZTk5S09LRDhyOHQwNVlSdWpDTTNBMVZDamo1QVpYbkUzd1RWQnUwbS0tYU05RlBUT3dEaDgzc0NMdm9NMXpVckx3MFk3ZmJ2?oc=5",
+   "published": "2026-10-15T14:24:31Z",
+   "outlet": "www.brainhealth.com",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -11356,6 +11400,17 @@
    "first_seen": null
   },
   {
+   "id": "9fb4ffc9120b90ba",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron says Phase 3 ENIGMA-TRS 1 enrollment to complete mid-October, topline data due Q1 2027 - VZ VermögensZentrum",
+   "summary": "Newron says Phase 3 ENIGMA-TRS 1 enrollment to complete mid-October, topline data due Q1 2027 VZ VermögensZentrum",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRmhaUk9jT29mQkVmaUExbDJKTUt0RnlQN1I1NUdlRDNYOS0wOE1odnRtYnl3NmUxNE1SSW5ibWtWVnd1RHRJaHZfejZIYXljUHdIcmtKSVZGOGppT0NCMDhsX3JobDl1NzVIOXBQbXNfbmMwSzBnR1k2dDI4T2hMRGF5bzRiMTZFREV2bmRYbzRtdnplUklqbTR2RHVwMUdVZktnVlhVSWZNNWU3QkpqcTVMTk1yNmdnNlV0QUFBT3VFdzlqbENhWXd2ZFc?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "VZ VermögensZentrum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1edaf5ba7f41e3be",
    "company": "Novartis",
    "title": "Value & Access TA Head Immunology & Neuroscience, APMA - Novartis",
@@ -11631,6 +11686,17 @@
    "first_seen": null
   },
   {
+   "id": "3793582fc700963f",
+   "company": "Roche",
+   "title": "Roche Stocks: Genentech Commits $100 Million Upfront in Potential $1.27 Billion Parkinson's Deal - TradingView",
+   "summary": "Roche Stocks: Genentech Commits $100 Million Upfront in Potential $1.27 Billion Parkinson's Deal TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQmFYMkQ2R3dHRV9vcGUxbUZzQzlPV1FCenVXeW5NMVBUd21kZkt0QTFTTHU5VndKLTNjLXhfWVNRcHA3VElQQ1BvaWctRGc4Y29LWXNmdkhnbTh0Y0Jyb3VkMzBCZjdreWUyQlBpZWtfRWt0RUp3RDBRNkdTdW81Y051ZF9fVVRxY3NTZkdKQjg2Wmd3elYtX1lUT0F5Z0psMG5TZWdTVlJQckNYVG5ScHlWOG45SnBZYl9aUXNmdEZlM0p6UVFBUlhzMFRtdzBNOExxZ2FMQ0Vib1NZRTVzWk9kaEdCYUFt?oc=5",
+   "published": "2026-10-06T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "434f08b20ee7ea8a",
    "company": "iRegene Therapeutics",
    "title": "iRegene Therapeutics’s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa - Endpoints News",
@@ -11770,6 +11836,50 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX1BYa2ZteENybXAxdm9iLUlWMjFKdGMxaHJvMWVIR0Y0aGlnR0lLQ09EVEQ5SXprN09iZzZvVXhLcmxEZUZtVkRjZVRHN3BlcmllY3U4TlJqdldKYzMyVk5aODFFSHRlVS1ycUFkckgybmpFdS1fa29CSTFmMFJQcTVJdVlpY1cwT0V3aXVscmU2QzBzd2pzeVI5NEdjeW5iLWtERHY5ZHllS1RydFFGYXZ1VzFXSi15V1ZBOA?oc=5",
    "published": "2026-10-05T07:00:00Z",
    "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "33f8d27c8c94ac56",
+   "company": "Roche",
+   "title": "Alector Surges as Roche Licenses $1.27B Parkinson's Therapy Deal - Global Banking & Finance Review",
+   "summary": "Alector Surges as Roche Licenses $1.27B Parkinson's Therapy Deal Global Banking & Finance Review",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWlFBZFJGZF95NjgtbGxnYURCcVE5Ums4aG1tLWYzdGc2VHF2UFdvUVN2S3lqZmNmcHAyQmJUVW9abWtjX0daS0Q5T1NWcXdEVUNsRFFra2hCckJOdlRpYWV1cnNyMW1xRTQ0ZlZKbEdFeF9iZG1OVlRoeUpGNThRNk1aMF81ZjZpaUo1aVVmOVZ1VjZBNWhNTVpUTUs?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "Global Banking & Finance Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "bda86163ed124aec",
+   "company": "Roche",
+   "title": "Alector shares jump as Roche licenses Parkinson's therapy in $1.27 billion deal - Traders Union",
+   "summary": "Alector shares jump as Roche licenses Parkinson's therapy in $1.27 billion deal Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSjc1bTQ5YnF2eC1fY0dXTmljMUNaRUhONWhjNWFjMzFzWm1sejhPbl9aM3BDeWhiTW1nc1RmR3VGRDVfYkFfbzdFX1dWR1ZLNnNHT3N1RnhRMm5JWEJDaERKSTZDVm1KUUs4ZmVOajdaRVVkVFNwemtHWDJsNjBGTTJTNWVOZGpYeEJEaDVEblo0a0ZsdVAwVXc1b04?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "Traders Union",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b6b9d3c4fc21f432",
+   "company": "Roche",
+   "title": "Alector Enters Global License Agreement with Genentech for Brain Penetrant GCase Enzyme Replacement Therapy for Parkinson’s Disease and Other Neurodegenerative Diseases - Yahoo Finance",
+   "summary": "Alector Enters Global License Agreement with Genentech for Brain Penetrant GCase Enzyme Replacement Therapy for Parkinson’s Disease and Other Neurodegenerative Diseases Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFM1WGo3R3hlX0ZLbk5QRFNseWFSc0RPYWZjeTd2WXBZRjZmRWtfRFdUTzdxM2pPT0pURXROTTBRMUlkSHRlb0Q2ZkltWWNIWXRFcnI4dW1OaG1uczVpeUZHalZmN0hMbHR5U3RLRU9odUdqOGI4Tk5lMTBKMG9MNWtNMmw1VTBzVEFLRDhHSFhlRHkzejhDeUJLV3JvUk5Od1E?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "90d92b2c7acea3c0",
+   "company": "Roche",
+   "title": "Alector soars as Roche licenses Parkinson's therapy for up to $1.27 billion - TradingView",
+   "summary": "Alector soars as Roche licenses Parkinson's therapy for up to $1.27 billion TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSU8xNFVKZEprN08wZ1QwdzBSN2xidnkzbFFjYzYxSDcwZGx2TWlCMWZ6ZVJYcDFldW90S09rZldyY0V1U25EYXk3WjBqUlFSOVFNTXFoNHl5SEZKNXJmMkRXRUxmemNZVXVCanRRM2VBdXJKN3ctbmxra0tZX3lGWlhlMmstckREYVExUkk5Y0Z6cmFBbWNuSHY2ZkVqMkNuTVdTYzl0bE1WZTE3MjVsOHRxOU54VzBtWndUbmlkUmtER0dLN1NsRjRqdTgtSkx5a0RfcXp4VXFFZUdX?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14696,6 +14806,17 @@
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxON0RDYndQZXpqdEhsS1c3bXc1WTNDRGVJOTdYTVlWZS1NTzZWa0lqQVNITm9YNlczeWk0Sm9ySWQyNE1ZLTRFMDREWDhBcUdBWHRjZ19nRUFvQ0FuWXNWRXdtc0pvUktsR0M4emhmRDd2bGw0YkRzYnBKT29hcVM5X3NrUTJJVG9hLTlsQy1tbkdGTkRXMEgxVG1EVVlfaFk2Z3lvVEs5anZTb1YyempVZk8ySC1IVV81d3NYSGVWZ095ZS03Z3l5Qzh0S1JJejVBVmZtbE5YRWpwNzRhempLY2x4SWlxa3ZlU1pBWGQ2dmtvM01WaF82Qg?oc=5",
    "published": "2026-09-08T07:00:00Z",
    "outlet": "WBOC TV",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f6d55ff7241c9aa0",
+   "company": "BioVie",
+   "title": "BioVie advances Parkinson’s Phase 3 development program with FDA engagement - Yahoo Finance",
+   "summary": "BioVie advances Parkinson’s Phase 3 development program with FDA engagement Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVlMeU5jOFNDSUJkLXRET09GeWJ2b3ZoRmwxajY5Um1FbEU1TVdraDZlMXA0OHdIdGFMX1hSMVpkLXJSdWZ0VUlLYXItRm42WlZmQ2d4S3cybGh4UWc4UW1FV3RIUElBazV1VUZRc1Q4cXV5M3A4b0lzTGQzSnVWczRWS2E1XzZtQ2p2N040dERxWHpiaHVsVVFB?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -24435,6 +24556,17 @@
    "first_seen": null
   },
   {
+   "id": "81ccff1e78353945",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Athens Open 2026 Player List | WTA Official - WTA Tennis",
+   "summary": "Vanda Pharmaceuticals Athens Open 2026 Player List | WTA Official WTA Tennis",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4QkNGMVZSMEVRYXo2TkxiWDlEUUdzOUdGQzUyZFBmdDJYRURnRGZOQ1ljLTNZeUhBeG1keG5yNWRVNzJYS1ZRQ3VyZUJLWjUySF96eDU4OTJzUjZyTW1Xd0UyWFZCZjVJc2VIS3NiRWtWTEJF?oc=5",
+   "published": "2026-04-29T16:55:44Z",
+   "outlet": "WTA Tennis",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "32a15ab91fe9ad5b",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Athens Open 2026 Overview | WTA Official - WTA Tennis",
@@ -26910,6 +27042,17 @@
    "first_seen": null
   },
   {
+   "id": "424e8d1b9eb91646",
+   "company": "Roche",
+   "title": "Prothena Partners Present Data Supporting Next Generation Treatments for Parkinson’s and Alzheimer’s Disease at AD/PD™ 2026 - Business Wire",
+   "summary": "Prothena Partners Present Data Supporting Next Generation Treatments for Parkinson’s and Alzheimer’s Disease at AD/PD™ 2026 Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWUZ0X2tnYTlFUlBLd0F0VXJObldqY3lUV1dCU1BjSWsyVXR5MDEzbDgtRVNVMHEzaUw3M1BSTHZyZ2RmdVNQMm9MbjM5ZDJhNHFZYm9Ea3dacjg3aENfdk5nTFo0V2hTVm5KTEF5QXNSUEU2NjRLbjVVMDJGUmJMUjhNN3VZdHF5M09vcVRHRVZNaWMtRDJxRTZnS1g2cFdnR0J2MkEydmZtaUNVMjNKTG83b1hoZFkzajAwUldxWTBtQzJPNFpEc2F4ZTlTRGNqSWhyMldBd0x2QUJxUkcwSHN4cnJ4NFZNUkJhR3ZfOXRUZkJwYklpVW5icC1WTVJtTEllQWJvUQ?oc=5",
+   "published": "2026-03-21T07:00:00Z",
+   "outlet": "Business Wire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bf80cef7e99eae3a",
    "company": "Biogen",
    "title": "Results from Real-World, Long-Term Treatment Persistence with LEQEMBI® (lecanemab-irmb) in the United States Presented at AD/PD™ 2026 - Biogen",
@@ -28967,6 +29110,17 @@
    "first_seen": null
   },
   {
+   "id": "4245c08a812668de",
+   "company": "Newron Pharmaceuticals",
+   "title": "Benefits of evenamide as an adjunctive treatment in schizophrenia - The Pharma Letter",
+   "summary": "Benefits of evenamide as an adjunctive treatment in schizophrenia The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXdVbWUxS0U3cFIyTXpVU0pnTERXZDRqbUYtZm50YlhQR3ZsYXFoZ3NFSHhhb1UtdEpLRWl2bkMxRTA0bkcyVVFoWVYxNzhDYU1ONnM3eE1sNk82azF0c2JDQTJsbGI0bDlTd3ZfUzQtamo5OXNOYXdJNDVZSmtjR3ZfdUFhTFAyQXRJMXhLc0t2RkZBUUNEeV9sa19SblZEdWVNVUlENnBIOUc3N0E?oc=5",
+   "published": "2026-02-03T08:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b5f6b546c77658a3",
    "company": "Newron Pharmaceuticals",
    "title": "NEW PUBLICATION - Newron Pharmaceuticals",
@@ -29063,6 +29217,17 @@
    "published": "2026-01-27T08:00:00Z",
    "outlet": "Korea Biomedical Review",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4910672f189b1787",
+   "company": "Abli Therapeutics",
+   "title": "ABLi Therapeutics Completes Collaboration Agreement with - GlobeNewswire",
+   "summary": "ABLi Therapeutics Completes Collaboration Agreement with GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQOEpMb1VpUUpWbnpkdDBXeExEU0dNaXFtR2w0bHVHckV4dGp2NUx0amFaTUMxLUFjWDhoVk9EdkdNdUxGYVFEaUtiQ3ZhZWFjVmhuXzVfN3dFUDh4Zi1FTXpGeFFyanA0WXc2MWtfazRBb3BkN2hFRkFvc2hyckN3NVhGQ3B6NER5RmxvN3dYbktwbjZaRHBhZ09OR0hkQVJIckktWGZDTHl3V1M3OTBuS2tqU2xPUjBpaFRQX2dteTF5eHNVVS00eEtWSzc2enpTQURnQXNLbWxXZ1FFeFFGa2Uwa0hSM24yU05fVWxtMENKcmU0ZjBpdkJMT3MyMjJjZzJjQmhQQ3hOdlgwRi1CWmpmSjRzd0NiOS1DM05GQWFGNU9XWGxVajZHdExUQnN0eF9iVkgtcjUtZnpTel8w?oc=5",
+   "published": "2026-01-27T08:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
@@ -31185,6 +31350,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFdNam1fTnFwTlZmZ2pOYm9hVFJHRVpVNnRmX2k4Z3pUX3JFQjBFNXFYSXZWWnNDa0lwMFFxWW43bl8zcDZNSHU0MHpRbU5ZMVNqcjhTWTd5aHc2T1JGS2ZJNDBRanB4aVZ4Zy0yU2Y0T1VpdTFQT2JpODhjZ2FYem55eW5jcWFPU05LTEN5c1lGWDNQRTcxaFlVTXJkVkNqbDYxbHM5Y0ZNcTg2RmpmTDVUS1dUM29pdnF6LWNQOFNwdw?oc=5",
    "published": "2025-12-11T08:00:00Z",
    "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0b7cb3cbc15389a9",
+   "company": "Roche",
+   "title": "AC Immune says Parkinson's drug slows progression - pharmaphorum",
+   "summary": "AC Immune says Parkinson's drug slows progression pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2ZVMnV2Y2lMSk03VGs1Q1Q2RnZuX2RKMTg1R3dYM2hPMFc4Vnk3OW9Oa2k1Z3ZKTUhoTWU5QlZhRVR6SlJkazJHa3pLbVQ5Q0dQZjRKcTRySGw2RDZ0U0Q4VVBnaEdVY1lueWhCNEs4TVpmal9DLUlQMXlPVjFZWWpncEw?oc=5",
+   "published": "2025-12-11T08:00:00Z",
+   "outlet": "pharmaphorum",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
