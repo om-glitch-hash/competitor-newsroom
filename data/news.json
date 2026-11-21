@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:14:31Z",
+ "updated": "2026-11-21T17:56:47Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2050,6 +2050,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "426cd75f0a0c8a19",
+   "company": "Annovis Bio",
+   "title": "Over 1,600 people are expected to have received Annovis' drug by a six-month trial readout. - Stock Titan",
+   "summary": "Over 1,600 people are expected to have received Annovis' drug by a six-month trial readout. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2RzQ3B5Y0lXUlNlZU1qNzRnMFF3akxwVWllRlBrYnpRcjctMWdPVGxPRkV4WE94Z2JPcXlZV1loRmZRemxYX0k4N3NrUUNYY0hUVURsZ2s3NlhUQ3pCQWRCZFkwbmN0SElYQkR2OHgwNS01SnlyRmFwaklhLWNOcUZiX00xNG5PaXhVWkdVT0pwb21MaWpvam9yYmNZWENwRmk4TU1tZGcyRnZtanI4LWNaVDF1dGhoZlJ0SWln?oc=5",
+   "published": "2026-11-20T13:00:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T17:56:47Z"
+  },
+  {
    "id": "fdac37a8d3c05e82",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals settles patent litigation with MSN over HETLIOZ LQ generic - Investing.com",
@@ -2600,6 +2611,17 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
+   "id": "c5b5b705aa2f71cd",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
+   "published": "2026-11-19T15:16:48Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "8876bb4257e41890",
    "company": "Palisades Therapeutics",
    "title": "Palisades Therapeutics Reports Promising Preclinical Results in Prostate Cancer Across Two Distinct Drug Programs - Kitsap Sun",
@@ -2719,6 +2741,17 @@
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "9900140e844c5f99",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Inc. (US03615A1088.SG) Seasonal returns chart - Yahoo Finance UK",
+   "summary": "Annovis Bio Inc. (US03615A1088.SG) Seasonal returns chart Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5OWczaUQtcWJsVlFZdmRGRkRNZXctVnhHOHpURFVfVHdURGpVMG9VYTZVVVJjNXJranpOS3RseG55N3kxRjFfaU9LWHc0dmxYUW5HOFBiNVMySVE1dHhVQUdGOVF5QmRaenBoNEZVUVQ?oc=5",
+   "published": "2026-11-19T13:19:32Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T17:56:47Z"
   },
   {
    "id": "c89b226aef064a42",
@@ -3282,6 +3315,17 @@
    "first_seen": "2026-11-20T09:02:35Z"
   },
   {
+   "id": "d8c03764a8b7776e",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Wall Street Analysts Are Bullish on Top Healthcare Picks - The Globe and Mail",
+   "summary": "Wall Street Analysts Are Bullish on Top Healthcare Picks The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSXo3RXRiMTE5VjBOOTRiWm5yUk1UWTdRRGdMakFfN3JIVzhIaWJXNDVoeDhZTkxyQ1VLV3VBUnljU05VaWNrOWNPYjczSHZVLS1WOGR0d1dMOWw5UWtfcU1YNG5SZXEtT01aVl9QeHBrUmpNRkhZUmZmX2Q0R3FycVBKN0Q4VVhZVDVpeTFVVkwza1B2aXpocDhXYWRMMC1ldmthN1Fod29hRF9xdTJtN3Q5R2dXSmVxSWhXX3E3MHRYa0l3cC1DRUM4alJ1aldockpsS3ZjUjY?oc=5",
+   "published": "2026-11-18T14:23:21Z",
+   "outlet": "The Globe and Mail",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "07f9936e0673cb9e",
    "company": "Eli Lilly",
    "title": "What information is available regarding alcohol use with Zepbound® (tirzepatide)? - Eli Lilly and Company",
@@ -3566,6 +3610,17 @@
    "outlet": "Eli Lilly and Company",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "2a714a787a932d8c",
+   "company": "Annovis Bio",
+   "title": "StreetInsider.com - StreetInsider",
+   "summary": "StreetInsider.com StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYblRFUVNvU21NTmx6M3NfYnk3Skdoc2k5R3pxRjVjMWVyUmNRYjNTZzhudHgzaTVINVpEanJYdHQzckVkQnZmTkppdU56em1MWnpSQUFESnk5RENFQUZCemRXZmVRZ1JE?oc=5",
+   "published": "2026-11-18T04:30:28Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "8976eff5273b73c4",
@@ -3975,6 +4030,17 @@
    "first_seen": null
   },
   {
+   "id": "15982b3876665931",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio receives second positive safety review for AD trial - Investing.com",
+   "summary": "Annovis Bio receives second positive safety review for AD trial Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVVLc0FERm53ZkdqSG11WFBiTUxNOFdDRFQ1Y3lsSVpGejNrNk5oeWZXNG9yS2xtQ05OclA5Mk1LMDRWMjlwMG1DbTd6VFI5VGJsdjJHaTR6SUdhZGJxelQ3enlocXdLSmRzeE56SGJ4dkJiQ3dTMW5VOW1hVHUyWWVoN2FPS0tkTGFEUFNYQVN2ZHRNY3NMTVBodEw4Q0NnaHBxU19NRHR3cGtZSEFUQTVqNDk1OEJ0RFBvNg?oc=5",
+   "published": "2026-11-17T13:30:59Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "98e886e22e35441c",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
@@ -4015,6 +4081,17 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTh3em1fd3BzMGgxeEFaUVhzY3U1MjhXSlF1aXdZRHN2WERnQW9WQ1h6MmpJbGRMRkU5Tksyd3lRM3hCZHhtOHQwOVNSeGx0VHgxQ2lYUkxHemJtVlUzNHZmaXBIWEdkMmxkWXZKcjE5RVA5NXRTX0lYV1Z0SEpQNER1NmUxbTUtTTR5TA?oc=5",
    "published": "2026-11-17T13:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7d8a9bf9a8fdab46",
+   "company": "Annovis Bio",
+   "title": "Annovis Receives Second Positive DSMB Recommendation for its Phase 3 DUET-AD Study - GlobeNewswire",
+   "summary": "Annovis Receives Second Positive DSMB Recommendation for its Phase 3 DUET-AD Study GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZVc1cHZmUnFoUGRILUlzSHNSWDdRWWxYVlNwbm44SGZqc1dxSlBmN1BmeHZDXzVCTWdCQ0JiWWVsZWo0SGY4ZlFTR1BVZ3dYLVBVTTN0T04xZjM5c0hhdi1McmI5M0tJY3ZOWXR6bGR6S25fM2lacjllVENHSlJsdDRpQ29pQ0tCQWNlNUhzdHJtVXB2WS12YUxad2N1dEZid2hEVVNpUkRhYjBkdXRuY2RkSlNNSXlZbWxhWUpPY2NzX045VGlTelZNUGd1WFVtTFVfWTBvOU9ETm1lOGthM3FQSFZ5c09qSXc?oc=5",
+   "published": "2026-11-17T13:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4840,6 +4917,17 @@
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeVBXWWJRejBTUXVtWUgzcFBJUzF2b19zVHVkaEFudlZ5Zk5WYV9oMV8tLVE2eFhiR0RjYUFKbzhBYVVRcC05UkxpMHIxMnRwcm9sT1A5Y2hzanlRTGQ0OU95WjhqTC1WTGNuYTJXdUs0SHp6bVE4aXY1MzBJVmxGRGUxSUlIMUZRZ0lIZ1pUZFVTc1pfQ1R3X1RJblB3eUVSWENMR1NlVENLM2cyRjlrbXB6X0dBenJFQ0pLSVM5MmdxVDBfZld3dmVFUlpkSnI5Snk4WlBXc0VPMElMdVh2Nmx3ZWVPVV92SFE?oc=5",
    "published": "2026-11-16T14:29:03Z",
    "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f97e1fc6b2e95401",
+   "company": "Annovis Bio",
+   "title": "Roth Capital maintains Annovis Bio at Buy, lowers price target to $3 from $7 - TradingView",
+   "summary": "Roth Capital maintains Annovis Bio at Buy, lowers price target to $3 from $7 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd2FvNTVRcFEwQlNkLUdNUU5nbUpjZHphU0RyMHBBMzRoZzdINGVRRFpZelZheWNuelEzOWo4MDVuS1hrM09WUWJwSkxZazlKMmdpRWUtbFFwcmQ5bjRzdGF2Q3ZfWkJGWnE4Z09QT1V6aTBpcDRpOGJoY3FubEtISXl4NFNMZEd2dTh1MGlHVVFlWndLOVJxRmU1RFpWeEliUjhQcU85M2x5RGNSWGI5U3dLR0Y2TEJlQ1VvTlRLdmhCQXdKN2c1TUdzQV9BOEx6?oc=5",
+   "published": "2026-11-16T14:28:53Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5790,6 +5878,17 @@
    "first_seen": null
   },
   {
+   "id": "8d630638c6b68107",
+   "company": "Annovis Bio",
+   "title": "Form 8-K Annovis Bio, Inc. For: Nov 13 - StreetInsider",
+   "summary": "Form 8-K Annovis Bio, Inc. For: Nov 13 StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03WXNibk9JcHoxR2I4RGQzRVV5Y2RNQTlYSHgySFF3bVR0MC1ZRnlxNk8zSF9Za3ZLRnBXaktacEh0eVdBRHhiVm5HMjdSQWwwYXdvY0dBZGVVN0ZOOE1WQlpWVkNlNEdCVzdyTA?oc=5",
+   "published": "2026-11-13T21:24:00Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "61c865a45c1709a5",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Inc (VNDA) Earnings, Actual EPS, EPS Estimates & Results - Stocktwits",
@@ -5852,6 +5951,61 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1ZfQzNTMlRLVkJEUDQ0YjZWQ2Y5bGFOWXRvNzhNcjJaNEJnaEM0NW01endvQ0ctWkF2alRJQzFnVTlyWTdmdkNlNU1najZhNC1mUFVQV21MdzYwdDRTMlNWV1BvcWRoYmR3aUlOYmYzTVlVTmpDdHEzZ1U0S0dtamRDSktnbUd0QVRMZnVKZnc1QV9GRWZ2ZThReWc2eFRyMWJLNFU5QV9iNzh6c28zY2pn?oc=5",
    "published": "2026-11-13T16:16:14Z",
    "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fbe5935af1491406",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio, Inc. (ANVS) Tops Q3 EPS by 15c - StreetInsider",
+   "summary": "Annovis Bio, Inc. (ANVS) Tops Q3 EPS by 15c StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWm80NUs2V2cxZVJzdjlyNS1rOWJyX1N3OGo4TEczVm9DdjdyV2lXd05KQU9wR1pwUU1rakhMNU9xX1N6ZVEtZUZvODFzVTVUaGFaX3N1TVZIRDBvdVFoV0RPTXdPYy0yMzBtQWxxYVpDaTRtd2pjaEN1WktVWHhSOVRXa2dMcjZkaGVpcl93YXhKMURNQmdPQUtNYTV6SUUtd0FScg?oc=5",
+   "published": "2026-11-13T15:32:20Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "39bfb50d3dc3109a",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Inc reports results for the quarter ended September 30 - Earnings Summary - TradingView",
+   "summary": "Annovis Bio Inc reports results for the quarter ended September 30 - Earnings Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMGZSNXFoZFpiOGhxYVRaaUl6WGJnNFJXTGczcmNremwtb1pST2tnWm9pRGdjbW95VnpqamNWdlpwRFVqUDN6Z2Ria25FRmg5ZFhic01PbkNoN093NmdpaXlmaDg5OEltWVZtYTRSRFo5RW5HcEtHU0FMVmZfczBtZVVHUk12SG5ocFE1R0FyTG1Xd3lPcF9rMWtUaDJKSGM3X2xXX0huOGVkblZNSEl0cmVfd3RNTUFCMXpOYm52SDBDRGVzTlhEWHRsWmI2dnRCdWJ3ekJ3UExpVkllVFdiNXRPV3hsWVFP?oc=5",
+   "published": "2026-11-13T15:08:06Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c0013eca146a3eaf",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Q3 net loss per share narrows even as R&D spending rises - TradingView",
+   "summary": "Annovis Bio Q3 net loss per share narrows even as R&D spending rises TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV0lUQXo0akhVUEMxUVJRb0FXVmxvVVpFUmxZc3FabEZLWG5EV18zd2xuVS0zYm91MnpJamltemhwbGZFbWhGX2Zqdng0RWQ4Zzc4WWpNVnRVUzdLTFMzVFpLblZ5ekVCYnpEZ0gtNlZpVExMTjM3Q21UdGVLQ3hsSFRhU255Uk1qMFNKdVJmRVdVNXBZcXBOdkdKWm9XUFZNQmh0SlE5cTJ3c3llNEJfd2xKUG44R0tQRTVTZXU4RWhqbHh3UnFKY1UzU196VkYxSHNKcA?oc=5",
+   "published": "2026-11-13T13:13:20Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "83c97d0e729a1945",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio, Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+   "summary": "Annovis Bio, Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMF94VkVzeFUtRWZpTlFnXzM4U1IzRmJmcXpmaFp5MEFabTM3Q3ZPUWUxLTR1aEJ0c080NjE0aThIeEMtM3UyV3NuRU41cklxaE1CbzNMU3R3MFF2V0pvUnY2dEtZSXdTRVF2d2p1ZXNxcldTZTZnWHkyVzhwSnZ6R3NQS2wwd0EzaTZrRnpwZmpIeWQ2OHZRallOeGp4ZG12YlU1bC1FZDQyNjYwX2V1cl82TkJZaHV0TldpUUlZTmxuNkkxQlVaYWlwNHFQcWF5RlR2Skk5TmpjSnRWZHdtNzlHR1g?oc=5",
+   "published": "2026-11-13T13:00:00Z",
+   "outlet": "www.marketscreener.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8d18978ed3fa5b22",
+   "company": "Annovis Bio",
+   "title": "Annovis Provides Corporate Updates and Reports Third Quarter 2026 Financial Results - GlobeNewswire",
+   "summary": "Annovis Provides Corporate Updates and Reports Third Quarter 2026 Financial Results GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaWdva09HT0w1SWtyNWh5WWlFSHJzemhyZ0lISEd2XzFLalFxLWhnN1JFdDFRNmlSZzZ1MmxHdFNHU3lkNnFjbEdobXdWYTRzakQzYnN3bEE1TjI4LTgxdEdIRU81YTdSQUhjRW9nd3VxZjdWdUFkRXhTQkRtdjBTaEEyLWVjYWpIc2twWE96WXRWcHRuODhMekZ1UXdyNGNtWURibFFmSkJ4amNwTC01Q25pSTJPVmRuUnlBeVRlRHlOU2c4cm04UE82eXZCWHo0OEVsR0k0NGVZY0RVQ0lQbmxrVXJzQXV2NEpZ?oc=5",
+   "published": "2026-11-13T13:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6461,6 +6615,17 @@
    "first_seen": null
   },
   {
+   "id": "1d3eeac31f0bbb07",
+   "company": "Protagenic Therapeutics",
+   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
+   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
+   "published": "2026-11-11T13:30:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fa7d12de4cdd1032",
    "company": "LB Pharmaceuticals",
    "title": "HC Wainwright Issues Pessimistic Forecast for LBRX Earnings - MarketBeat",
@@ -6590,17 +6755,6 @@
    "published": "2026-11-11T08:33:38Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "1d3eeac31f0bbb07",
-   "company": "Protagenic Therapeutics",
-   "title": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential - TradingView",
-   "summary": "Protagenic Therapeutics, Inc. (PTIX) Raises $1.5M, With Up to $5M Potential TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjB1SlMwWEd3c3E4TmhGQWNPYm1sUV8yMUJMUGtnZERTR25ha0k1TG80MG5IZ1RFelhyNXZQZVRqSXpkR0hXR29TeXBBZmV6OFlnRklnVG1BczNxdkI1Ykh2ZXhReVZLYTRFRUZWSnZ1S2xHbjNfSFZQa21GLXB5SC05M3B4XzZJUWY3YU0tX21RbGhaVGVaMEZvMllMNHZhTHBCSjV1SEUzbVhDUHRxYWhmQkZ2ZGRUUGJSYWFwVVd0V3dRZ0kzcG9R?oc=5",
-   "published": "2026-11-11T08:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -7429,6 +7583,17 @@
    "first_seen": null
   },
   {
+   "id": "2fd088987b95d7bf",
+   "company": "Annovis Bio",
+   "title": "Michael M. Hoffman Bought 139% More Shares In Annovis Bio - Moomoo",
+   "summary": "Michael M. Hoffman Bought 139% More Shares In Annovis Bio Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3ROLVBRTGdndHhpV0ZOdEY2Sk1iMmlxcm0wM2FjNjBNandBZE00dGtYY0drdHlrQ3ZMcW5EdmdmZUJKclFXbmtGMDJrY05kSFZKT2tCcHZ2OTJDN1g5dFBEc0w2SzBydjlhRnJaM0QzQmoyT1Z3anNVeVBKc2JCWTBkdHRIQ2hRRkR4a0lvUXFhU3EwTFRLdmEtY3F1ZDd0?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "55cd85fecf4a55ac",
    "company": "S.Biomedics",
    "title": "S-Biomedics, which is developing a Parkinson's disease cell therapy drug \"TED-A9\" derived from embry.. - 매일경제",
@@ -7825,6 +7990,17 @@
    "first_seen": null
   },
   {
+   "id": "bdebb98dd9c7633d",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Director Purchased Shares Worth Over $5M - TradingView",
+   "summary": "Annovis Bio Director Purchased Shares Worth Over $5M TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkRvWU16SWNXU2ljSm9ZMHJZT3M2eFpqWHVPV09JSTFrTm5fVkduUTEzRDNqWUZCdXYtZWQwbUJKVlRndHZtZDZNVlB4cVc5Tk9BR0pkTXF5YUVkRnk1V2Rna1dMMlBTZnhsYW1Tc2IxMjRrR245bzdaOGFJMmVBVEJBa21yUTcxT282RXJBMlFVaThSeS1fcWFxS1JQSHhFSlR0WEw0cjVoM21fOVoybnhfYw?oc=5",
+   "published": "2026-11-06T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "9aff136a92ffcdeb",
    "company": "Annovis Bio",
    "title": "Press Release - Annovis Bio",
@@ -7865,6 +8041,17 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmpBRENzYjRGQnV5NTJPMHNTeFA2U1JEbXJKRXVFajBvZGJkTi1TcmREMWJrQm9YbGYwMzNLOGhIdHowTEhkNDNELTRtSVN4UWJJU05XemZPV1NpYUJkVm9EcDhhamxCY01oRURINVJHTUZaWFc2TUZCaDM3Y2VaZVY1YWFPeEFoeEF6T2EtNF96SzdmTFQycjlzdVpJQlM2Wnc?oc=5",
    "published": "2026-11-05T15:29:13Z",
    "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "673f68f417e2b19e",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio prices $21M public offering at $1.00 per share - StreetInsider",
+   "summary": "Annovis Bio prices $21M public offering at $1.00 per share StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOenhVNFhZa1JMRWxvUVlhdzBsdzlsQmE2Y2xCMUo4dTJzYVVzTGw5U2NLTmQxWXR0QlVGTmxiZHNSd3NoVHJRN2k0dWh6WmR0c0NURzVJbU83R09IZU9CNjlzWU5oOTNTMWNITWdvVWtEajNWX1JRMjFaR0wtTFpvOEtETkJwN2E2UTEzS0FmMndoSlZxVy1ZOWVhOU9HQlp1WHgtMFN6SEpyUEVoWUstZlg3X0pBWklWQnpNNzgxU0o?oc=5",
+   "published": "2026-11-05T13:42:48Z",
+   "outlet": "StreetInsider",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8041,6 +8228,61 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDhfOHV6QldXMnpla3lnRVE3Qy1rWi1LY2tzdXh3OWFwTDgzU0h3aWl2ckNqZEpfNWsyVzl2TlBqWU16bmZhY0F5MUtzTVNONjNFOHdBbUFYSUZ6TzFCQ2tzb0YzWWRkVEQxZlB5dUwxUlNzOVBla29vdk8zR3A1SjFJSU9PTEVWV0RsZVk0US04elZKVU03aXFnbHptaEh3ano5RHNn?oc=5",
    "published": "2026-11-05T08:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a097f16b3f22d8d0",
+   "company": "Annovis Bio",
+   "title": "Cash-strapped Annovis Bio files to raise $21M as stock price sinks - The Business Journals",
+   "summary": "Cash-strapped Annovis Bio files to raise $21M as stock price sinks The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUh3b3Q5TzlSZ1FIamtKV2JaUzhVZ3AyYjhOdVJOalNrR0JFbnBJSlhRZFZhaHVRaUhEQW5ieGFoeFoyRlcxZDc5RWdmRjBabjluMmdfdi1fMlhldGc3MWtLdl9fME51ZDNCWFFmbkxnbmdQbGo3Vjk0TW1VQTc3MDJueGZvRXpFQWJENWc5b2J5ZHBLcTRSZ3YtaDNrbmFJS0poWEJn?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "The Business Journals",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "376da7475e191b9c",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Prices $21 Million Public Offering to Fund Buntanetap Clinical Development - TradingView",
+   "summary": "Annovis Bio Prices $21 Million Public Offering to Fund Buntanetap Clinical Development TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMVFKemZha0VNWE1lTGVrbkJWTmV3RVNWQnNDUVVfRkxRYkhpbm1sNGVTT3pLYlJzdlVNYlV1VFJtbGFHdExGdTQyV2NucWl3U3dDTTVYVFY4anh2QmdtUV9ldGo4anBqMVN4YkRpZDl0UVFYX2xFekVEX1Y2WmE5SUZCWE5uREIzYUZvQkwwdVRZdjZaOVl5WXlDbkp2TlA4amFOYXpiSFNvWUlKZlMyb2tidUhuSWFBVVp2UDRSSWkyZ2RjRUpjdlNIbVNnblZnc004eWVWM3FucnpZMWp2Tg?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "525ca61285d78757",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio prices $21M public offering; shares slump - TradingView",
+   "summary": "Annovis Bio prices $21M public offering; shares slump TradingView",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEVzSkI5WUpZay14R0h6SDVuRWhPOGVUOW5MV0p3Ykw3MnNMalEyeHBJN1ctSGxIaEpldW9NU1ZZa1pVanJQY2xmUEJuQ3NTRXhIclZZTFFXTE9zMXJqREhDQS1mNUxxLXVpRFJsYjlDWTZyQUZ5WGVROEpuNW16dlhYRElLWjRURndrWFRPdW9tTTAzNkJ4eGtyQzVWZnNrWm9DRVktOTNIYjN2cWk0MXBGYkU?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a50cb3ded7853c94",
+   "company": "Annovis Bio",
+   "title": "Annovis launches third equity offering of 2026 after NYSE non-compliance warning - AllSci",
+   "summary": "Annovis launches third equity offering of 2026 after NYSE non-compliance warning AllSci",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdUZUajVJTXl2R3Z1blU2aDhaOUJnSllfbGtwTXR6RGI5bTMxM2pTaHdfUHQ4Yy1oNk5PRXNLeWJTZ0YtYVpIbnA3MjdIUTR5WU0ySmR5V0lSdWxzWEhoekd0Vm1mSy1FRVlIelBNOExRVkdpSU95MlZSdXB0UjU0RkhHOWpiRWxqbUg4LUYwZm1TQTRi?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "cf101d0fc354d685",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio prices $21 million public offering at $1 per share - Investing.com",
+   "summary": "Annovis Bio prices $21 million public offering at $1 per share Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEI0aXc0eDZWcnM5RW1ibFN5dXlSb3NQampuZlFwQXZMUGZ5aGVNNmVCMC12c2JVTDJ4QklDNVV4WW0tRW9wUW41RWdWdGc3eFV0YmRyUWpnZWo0ejZydFAtMUMzMTU3ZE9RUlpGbkVabjdWbmNZR1VHMzgxTzlxbUdWV2hfV05EQ2ZmemxvSEN2OFE1c0h2bHR6RmhPTEZzdkhMWjVtYjhINzROZ2IxVWgtVDRIalJM?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8404,6 +8646,39 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeDBkMExpQ01rWHNfajVCOWlmcHZOOFpuMWJjSGhXVHdVR1JtUUpMQjRvSXAtcnlhZFkxVXY1YjdRWXVrUVdJcGl0VzJPenhrOTd5SmZXUmU4M2NGRXlpMFdlZ0tPalNnZnVPTnFQdVpJaDhvYXdINnM5OTFESVZZSmtBdTZiNENPZTBZdl9DVEtfV002VC00SGN4ZVNWZnpTTDJ3Y0twVHVYSkw0bVlES1JkdDdOUnJQZmZLM0tiVkFqN0RrNHg0LVlVUQ?oc=5",
    "published": "2026-11-04T08:00:00Z",
    "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7351ed88f23e4455",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio announces proposed public offering - Investing.com",
+   "summary": "Annovis Bio announces proposed public offering Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWlNnMjBUTnZYSHpUa19uaFQ5dTZLOHRTaWR1LVlQcWF1X2huY2tFQkpVV2dITEFQTHZnTEhta3RWenZQTnRVckkxNFFRUXRTYV82VFRKcjd6aFlRQ2ZKeWtNY0s1SzR0UzBFRm04OWJ3YTZ1Vmp5R0ZIc0xUUFpzdHdUSENMQjZBbzI3WU5fb2JPcmhHTzdvRzBvX0lOTW5zRTZZME5B?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a61d8f2de8cbe171",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio launches public offering to fund Alzheimer's, Parkinson's trials - StreetInsider",
+   "summary": "Annovis Bio launches public offering to fund Alzheimer's, Parkinson's trials StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWDlOS2p0LXRiNU95Uk9BdFA4TjBWSU1GQUZ1Nm5PdmRiZXF3SlUwTVJfcndqaUlyOUx0UWNaR0FiNXdOVkc1UXlDQ3Vhb1prZ0Nwc2s4Mm1uckNUSU1fZUtkdGZNRFkzcjB5a094bGdyU0Vmby1oeEtmTkZYbF9YU1p0SFczYlFzdzdfNEMtWGx4V2hMZ2hERmI5UTB4ZHBsMlM1Y0lfLXl1aGFOMndVT19KUncwbXloeThXWmpRVkgxaG9NT1BEYjJjTmtSZEpsYVdzUUp1OV9EMXM?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "896e28233192197f",
+   "company": "Annovis Bio",
+   "title": "Annovis shares tank as it launched public offering of shares - TradingView",
+   "summary": "Annovis shares tank as it launched public offering of shares TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaVVKNHFJbWhqSDlJdWkzdkd5R0ZMaFNJMzBSWDBjeFYxN3c0M3Z2QjRWTnFxdE5KbUk5U3AwRW9lLUJoWnBtRUJxRlFGVC1fQU1pamRveUM1SjYzSXFvWF9kT2RnN2JvTkc0UV9sUldJWU9neldUN2M1WGZ2TmRVbUJyb0ZNTTN3MWJBRkFFMkk2cmpYaEtUOTZ0MWxadDJsX1BZTzl4b1VmOGZfY1B3RVYyX0JsOVdDakFEbjRhdlg?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9310,6 +9585,17 @@
    "first_seen": null
   },
   {
+   "id": "274b7ffa3da69a61",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio, Inc. Receives Continued Listing Standard Notice from the NYSE - The Manila Times",
+   "summary": "Annovis Bio, Inc. Receives Continued Listing Standard Notice from the NYSE The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORG9fTXZKUUJuMFlzdDBNZ3FRWXhDT3lLeV9hLU9EcmJ4TkVucDVNZlMyM2xUWHpHYUo2NzM0TVhiNzlyV3VZWGh6M1ZWeUxKLXRuNXNOampBb1RzVVpVUFdtR1E0SlBSXzFLRzMwUkExLUhqWE1CVllIak5meGR4RHl1VTJLR0VFVkJUam9TcmRzVFN4VEszdkFuRlRQYl9fMlFXQ003cktITFBQdC01am9WQ1lZWV83Z0NFdkhUQUcwYjBGZmEyMGhxU1U4NGl2cThSMXJDY3dYSHNnUGxF0gHkAUFVX3lxTFByOG5oMlJxRjhQcHBjNXhLTlRhbjh2cVBEOEk4M3BXbkNEaFJESWVSNm5BeGM2ejdtNGJDNk1OdXhhN2tZTXNZU3Rtck54WnRDQ25SRktKQ3hTZWRHQlgyTlRRdWRTdFFVSW5Pd2FtUUVaUEhYT1dCSDlOVVRQcXBNejRtMjk5dGpuS1VPZUozaHRsQWg1aWZLUVI3Z0t2bWhNbnBvd3hXVS16TWN2S3NaN3dRN0NFTlYtWlNycDJqLWRWdFo1eV9QdUlsUkwyQTNjckMyQk1XbXFXcUR4Z3JxSURkQw?oc=5",
+   "published": "2026-10-30T21:09:45Z",
+   "outlet": "The Manila Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "aedcc79d296f8964",
    "company": "Denali Therapeutics",
    "title": "Denali Therapeutics Receives 2026 Prix Galien USA Award for AVLAYAH® (tividenofusp alfa-eknm) as Best Biotechnology Product - Denali Therapeutics",
@@ -9526,6 +9812,28 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTR3ZjJXSjV3bGcwbm00SnZjSzhJZkZmTUswR3hfSm5NdkdPanB5R0hmb19lN3JzQmw1S2ZNSWZDbjkzN1ZIQjVzY040NmV6UmJxMVVXMGlaX1ZRMEh3V2lRZ184dzFaV0JiQTJVdnBWMlkzZ1I4SDNMRzJVdmhfbFBRQ0dQLXJ4bHN0MC1BdXJnUl8wV3pFYnhCcUp2X0dtZFprWWRZd0ZodXFjbXIw?oc=5",
    "published": "2026-10-30T07:00:00Z",
    "outlet": "The Business Journals",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3688230089ff42d2",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio receives NYSE non-compliance notice - Investing.com",
+   "summary": "Annovis Bio receives NYSE non-compliance notice Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0Q2cjM5UXBMMUdNeDVMeEJWa1kzV1lJSEwyWHVZcnBjVXRsQ3Vva0RVaWx5blFsS3lPTlhuU05YYTRUSmNBMW8xcThwQ1dLM3ByQUZGRHRUam1iSi1kcE5CdmtlamZkQ1FwY21lQ1V3dl9BUmE0YWJQVUlpai15MFdTNFk1bkVSQ2IxTExOdi1rZXpzbWtNSUVqLWpGVGloWW5ZUVNB?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "bae9dc0e6658d4af",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Disclosed Failure to Satisfy a Continued Listing Rule or Standard - TradingView",
+   "summary": "Annovis Bio Disclosed Failure to Satisfy a Continued Listing Rule or Standard TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamU3czJ3UEg2OEs5M2RIUl9qMExORThtZk1BcDc4RDJ6WnhBWVJNWVN6VHZwbHhpM21OMkdhZnE4QXkzOHh6VGlSanZKd1dBbjdVcV9vWDk3Z0Y4bkJSTHRPTnJGY1pVb3JXeGw5YXZDRC1vT0RnTDA3WWp5YTFlNTYyREl6M2lIMW1QLUFheHh4aTAyTkU2cldRYjllekNZTlV6aFktY2g4MnE3bXZGR0ZqR1hMTUlNOHhPX3dmTkZWOUJfaVBObFFDR1Fmbm5iVUMxU2tR?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9801,6 +10109,17 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVFh3bkIwdEkxanJvNGpTYnA1ZU9XMk05QS01Zm5qbU53NV94RUI4bEFPVWlRUXNOUm9MTnZHNTU1VXhHNFl2QWlrS0w1RE5oUUY1cmZndEVzbEdDWjRRNkFxNll5UUF2c2dLN3NBWXlXSDV3STdLRTA2eV9hdVFTTHpOREJuVmtWc01mUUlnd0diNFotWFRGRVZlcDhPdWpBWTFjbHhKQ00yWUlmaXRXXzUydElKMUxyMFNvZ0ZGeTN3VTJhNUNGVDZ3WVhNMF9GSkVXdjFGMA?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2c5f4fee9556004d",
+   "company": "Annovis Bio",
+   "title": "Annovis to Participate in U.S. Biotech Day 2026 and Pharma Partnering Summit 2026 - Yahoo Finance",
+   "summary": "Annovis to Participate in U.S. Biotech Day 2026 and Pharma Partnering Summit 2026 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0hpVkNhSnY2eG9rbENsVzhzalFRN0lJc05PVVRMMHA5TDUxN0Y3QW9WQWRRMENGN0RVRG5BMlJEUlE1S2JOLWN0RVBfUDZqRnc0VjNwbVNzMmVuM0VkQ01jVW5VN1VFbzlMdldFZTNQSGZMdEF3ZWFzNXN4YUxkd3pYa25TVDJmZExXcTB3SFAwZVloUFl0SXJR?oc=5",
+   "published": "2026-10-29T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11066,6 +11385,17 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzFTdF9SaXZYTkVTTG85djVJQ2w3b0l5QzJqUWZCZV9sYkZXMjFlejlidW5MSkJ3Wk5uaHktZnVlNkVJeHVXYVd3VUJaNUJTaEpuNWZvZ3lxZWtVejJLVVltbXg0Q085VmpSaEVNaUlXd1RVLTFldy1oNEx6SHJnWERMc2hnOHlXcGU0QW5QZEl1QWpyc1JoeWpUek0zYVZ4NFNwR2NoSU03bTBEYThR?oc=5",
    "published": "2026-10-22T07:00:00Z",
    "outlet": "https://www.siam.in/",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "78aef2c4077466ad",
+   "company": "Annovis Bio",
+   "title": "Annovis to Attend the CTAD 2026 with Three Presentations - Yahoo Finance",
+   "summary": "Annovis to Attend the CTAD 2026 with Three Presentations Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSU80cE9EbmU1Zk5aeE5MdjhrS3BSN2xkY2lYS1lfTHZhazd2QWdOSjNFTDE3WEotOGV0RkxaQ3JueTJRTGswM085VC1xb180WGQ4Z3VuSGFyQlZWeEZQNDBlRnVORVFzRTlONXFIck1GSVE5UXlVMTR6Z1B6R18ySURpUU9IRkNTN3pBSldrMDdYalZIVVE?oc=5",
+   "published": "2026-10-22T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13281,6 +13611,17 @@
    "first_seen": null
   },
   {
+   "id": "5b59153965bd39d2",
+   "company": "Annovis Bio",
+   "title": "Annovis turns to AI to fast-track its Alzheimer’s filing - Longevity.Technology",
+   "summary": "Annovis turns to AI to fast-track its Alzheimer’s filing Longevity.Technology",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOEZPRUxYdzh0WklqWGVZTnFpV0E4ak1ITzdVMHJNQ1VmRk5FLTdkOTM1RDRWeDJFZ0lnWm51TklTUWZYNTNjT25SNHh4TElqMnloa2NReU9xTFBPOW5WRV85ZE5aTUJlOHM1VVVOcDhMTF9sS1VjQXA4dDFCZUN4VVpOMEtSNjR6cVNrSWo3S21Db2Vx?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "Longevity.Technology",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "60ac05e9ee393c77",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (Nasdaq:HELP) - Stock Analysis - Simply Wall St",
@@ -14073,6 +14414,17 @@
    "first_seen": null
   },
   {
+   "id": "685d54585306c444",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio, AI platform partner to support drug application - Pennsylvania Business Report -",
+   "summary": "Annovis Bio, AI platform partner to support drug application Pennsylvania Business Report -",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOanUxTl80ajhqYVp6WFEtLTVVRFB5MEs0VHcwc05nakpTX2tsWEtwZ3RTSFA5U3owQjNvblN0MjBsNU53WGU4REFXaTR3SWZ1bHBVRk1HbU5LQUdPRlEwS0pNR1FwYTZ3YU5OaHh5SDltX09XWDdDd1FURlZNT29RanpqUjNtUHlkbEJibGNnbEZfcEtPMVJDcENkeld3UQ?oc=5",
+   "published": "2026-09-25T07:00:00Z",
+   "outlet": "Pennsylvania Business Report -",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e51c162b1684797c",
    "company": "Transcend Therapeutics",
    "title": "Blake Mandell - BioSpace",
@@ -14421,6 +14773,17 @@
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSDJVWjJ3SXV5YlhWVGkyZlMzNzMybHh5YnJOd2xiLWY5V1VCYlBDcWVNd19ObGJZRnZvUXY2WUY4eUZiY2hfWE42SWliWnJWTTdKYlI0OGNQNDh5R1VEVWNoOVBTWXhJQ21mS0dtYnZuZlZqTlhrSTFuUFBKZ2Uya1JISXRXYm5XNGdkaFZkZ0VtNmsyXzZiRzNwSG1hVUVnT0dqRHg3XzlQZ3JrNEJYXzViTlNxcHcxUDhtdFBDemRaRVhTeFRQajdrcmhVTHU2ck1UakxkSzZlQnN3MHAxVGtEdzFLb0o3eS0xOWdvekg4cWNBY1pkY2M3TU9fREVIWEpvYUNjRzZ6QQ?oc=5",
    "published": "2026-09-23T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8c36b92e1659bc8c",
+   "company": "Annovis Bio",
+   "title": "Annovis Announces Partnership with Weave Bio, AI Regulatory Platform, in Preparation of NDA for Buntanetap in Alzheimer’s Disease - Yahoo Finance",
+   "summary": "Annovis Announces Partnership with Weave Bio, AI Regulatory Platform, in Preparation of NDA for Buntanetap in Alzheimer’s Disease Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFBLYTc3dFVXQUxFWmJUWkJXRld0bHk3MlRTd3FiMFhUUGRVWlotLU45TlgtX2p0dUpzVzg5Rm50Uzh1d1lRa1lLNUJnWXdpemhFWVdDTzNOZmNIMHN3UU1aUF9MRFZuQ0t0ZGx3X3JPeDUwRldweVZlbW8zeHg0WXdRUzFVOXc4NVpNQWFtMXg1b2ZqU2F6cGFqaDJ5Z2EtUnc?oc=5",
+   "published": "2026-09-23T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16361,6 +16724,28 @@
    "first_seen": null
   },
   {
+   "id": "38748cc850e9dc75",
+   "company": "Annovis Bio",
+   "title": "Malvern Biotech Races to Raise $15M Before Make-or-Break Alzheimer’s Data - VISTA.Today",
+   "summary": "Malvern Biotech Races to Raise $15M Before Make-or-Break Alzheimer’s Data VISTA.Today",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SbzV2SExPTDB1cG5YUkhsanNjZzBEVy1YalMtMXpQZmFNWVhhXzNGNEx1ZnBEdThzVlY2WjhydktvVTFoemZ1S1NhbktwY1ZFNmVRNDNYOG82bWUwbXdGc3laWTFhSHVJclhR?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "VISTA.Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "cd205404fdce9c94",
+   "company": "Annovis Bio",
+   "title": "Should I buy Annovis Bio (ANVS) - Zacks Investment Research",
+   "summary": "Should I buy Annovis Bio (ANVS) Zacks Investment Research",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjVFQ4amUzV1pHdUZtVE9UYmFsZkFRR2JPWW9sbjhtQmZ3U1ZQRUJ6aTVnSklsMGhNSk5GWk00MEg4QnA0d0Ewa0FaczVvZlR5R3ZvR29wOFFVOUJBd1NMMDFma3pESG1hcENiVQ?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "Zacks Investment Research",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d08ab66bdfae19bb",
    "company": "Newronika",
    "title": "AlphaDBS System - Newronika",
@@ -16588,6 +16973,17 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUE4Q3FtOVc5X3ktd0pTdGVBenFDZWhmVklKQUdmek9kZWQxMGtZX0VadVRFYzhsaUg5T1V2UllkRlpxMkx4Tk52T1oySmVqN1RZd1Mzdy0wZkxhVkFsdE9hODZBSEplS19JS19HcnlHdHJVZS0tYUs2SDZETVFadHZXUXR4TkV2eFNJOFJfdUJsV3MxRkN4OGNNU0NvN0dIREpaVQ?oc=5",
    "published": "2026-09-03T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "89b355d12c849fdd",
+   "company": "Annovis Bio",
+   "title": "Annovis sails past enrollment goal on Alzheimer’s - Longevity.Technology",
+   "summary": "Annovis sails past enrollment goal on Alzheimer’s Longevity.Technology",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFB0Z3VuQWstSTZqZXpfQUpOU2Z0S1ZWY2dDd2UyamdBN09SRUxuNm1xWU1EdlFwZUNEZHFHMHNGUEh5VWFQd2d5VU8zSDZ3MEphbzF2UzVmckM4LXBsZ2x3RElsRUMzN1VROFlsd0RYV0tRaF9XSGtFOEpVZXBkZGpVb1pOSVhibm5n?oc=5",
+   "published": "2026-09-03T07:00:00Z",
+   "outlet": "Longevity.Technology",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17142,6 +17538,17 @@
    "first_seen": null
   },
   {
+   "id": "dd2b8f11f4483770",
+   "company": "Annovis Bio",
+   "title": "Annovis to Host Corporate Update Webinar on September 2, 2026 - Yahoo Finance",
+   "summary": "Annovis to Host Corporate Update Webinar on September 2, 2026 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1VTRXYtZ3luRnFYa2s0WVlUT0NLNjJsQzc2TnF0aVBucW10dW5ZVndITi1ianZVVWZYdWpyZXd0WDlORzQwX2s1d0xEY0pyMUZzTkhfbWlIUHQ3S2lFTlMtb1I0eElEcTczcGlpVVZfQVFvZ2pMRlRrMkcxNEtuaWpWX1JlTmJvby15a3A1dFVjWmtvWVVpdy13V3RmelBWZGxN?oc=5",
+   "published": "2026-08-25T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ea1a1433ae29d229",
    "company": "Filament Health",
    "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Signs Letter of Intent with Darmiyan, Inc. to Explore Use of FDA De Novo Authorized BrainSee(R) AI Platform in Early Alzheimer's Disease Trial Design - Filament Health",
@@ -17417,6 +17824,17 @@
    "first_seen": null
   },
   {
+   "id": "e6b6e4767f8d4ac7",
+   "company": "MapLight Therapeutics",
+   "title": "Segal Trials Reinforces Leadership in Acute Schizophrenia Research Following Participation in MapLight Therapeutics’ Phase 2 ZEPHYR Study - Business Wire",
+   "summary": "Segal Trials Reinforces Leadership in Acute Schizophrenia Research Following Participation in MapLight Therapeutics’ Phase 2 ZEPHYR Study Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPYVlvUmt0NGY3SWRzVWg3OGw4eXJsaVNfck1oWUFHZGlZRzFJSTZqXzVrdldkUENBUDNhenYtRDY3LXJKTDBPUXBxVUtRTUVVNVZGZnM2MEtfcXlxWTV6dURCSWMzcHZpTF9JeUZfRllmX21PWmpaLUhSX1BibDRSYW5DNW9QWG1VNjNhYWY5T2lmRFhsZlNTT3RGQ3pFUUoxMW9QbVFKRlc1WGZVV3ZnR3UtQ3JEX2hMaHJwWE9rU0QyYl82U1BldE9UbU5JX2RtU1g3SVVXOW5WdmV1Ul9kVThXaXdldFduU2lsR3BsWnhmdS1VcjEzeFU4eEMtcmFmakFZeWxqYV9ObERRVXlhX1E3aTM2UGVrd0NuOVRn?oc=5",
+   "published": "2026-08-21T07:00:00Z",
+   "outlet": "Business Wire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d2db5fa3ab498ee2",
    "company": "Insightec",
    "title": "Reimbursement support for MRgFUS providers - Insightec",
@@ -17571,6 +17989,17 @@
    "first_seen": null
   },
   {
+   "id": "4a7e095b5576df01",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+   "summary": "Annovis Bio Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGSmotczFEamJ3bUdQSDRrbmNWWlFmc2RZTGFMbkZSWEtiVC0wUC1waHp6Y0dQeVEySURyU0NTVmgxQjdfUThLMDZXS1psd3pUZEVOWENGT1A0eXFSSVQxaWtpS1huVjFRYmE4?oc=5",
+   "published": "2026-08-19T00:49:43Z",
+   "outlet": "Revelio Labs",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "15fd2f1aaa520bdd",
    "company": "Kenai Therapeutics",
    "title": "Kenai Therapeutics Appoints Mark Gergen to Board of Directors",
@@ -17611,6 +18040,17 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnJia19Ndm9ScXpoZENWNXF2S3JiMWFsdFhpUXZrbFE0c2pqakdrbHc0NHpPeTZnWS1ZdGEyeW91U3RkNTdySDd1NXpJb3BGMVVXM2UxTDd1LXdPUFFfcWJLRlo2dDk5TWZ4VnBkbmg0WVA0WlVWMC0wMVFJbmt5YWh4aU9heG1nRE5rSWhMdkFiTmhrSzF0TV9jaDAtME5GMkV4Y3BObDNId3Z3NjhCazhn?oc=5",
    "published": "2026-08-18T07:00:00Z",
    "outlet": "citybiz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "490cb9831657886b",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio stock price target reiterated at $17 by Canaccord - Investing.com",
+   "summary": "Annovis Bio stock price target reiterated at $17 by Canaccord Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVE54N1owWVQ4ajNOWFc0cmFZSFZMdnRTSFJDOVVKRm5CMV94NXdKOUtTOTNsSXJDamVqUE84V1M2SW5ZbG1WYWNuczN6NjhZQjZrUTY1eFlZdzZRNFRQQkVSN0JyRDJHWkNRTl9sZlRuMTJWaG1jejBsdHR4eTB0V1RwZ2tMZTJISEdCdXkxbndDSGVwTHJQRTFTWHUtc09XdGdteVVYUWg4ZDNIQUVIcHItcXR4eC1OUkYwYw?oc=5",
+   "published": "2026-08-18T07:00:00Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -18690,6 +19130,17 @@
    "published": "2026-08-10T16:41:39Z",
    "outlet": "Minerva Neurosciences",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "df3b7318ee245189",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio, Inc. (ANVS) options chain – Yahoo Finance - Yahoo Finance Singapore",
+   "summary": "Annovis Bio, Inc. (ANVS) options chain – Yahoo Finance Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1BPZVZUTTM3UWdkS2w3UkpUUDV2QzBhREhPcldRNFZZeTdFXzk4aU1UU0hVUEZTZ0UwLTk4bmRidHp3czRVRUZCNVZXX2RaTHE0TGlDeUhLb01TdV9qSHBGbXVNR1EwMVhWUFdBX1JyYVJOU3Iwb1oxMF91eTQwVlZnX012ZXRXU09lSnlyRlpRZw?oc=5",
+   "published": "2026-08-10T15:15:56Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -23126,6 +23577,17 @@
    "first_seen": null
   },
   {
+   "id": "a91dec5da289f63d",
+   "company": "Annovis Bio",
+   "title": "ANVS Forecast — Price Target — Prediction for 2027 - TradingView",
+   "summary": "ANVS Forecast — Price Target — Prediction for 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NYm1fbTktT0xlOXFkcmxocXRkUE54U09RR01kOE50UVBJVy03VmN5ZlZXS1Vlc2RsclpEdkMwZzM3QWlyczA2QnBsWGFPV3I0azdiOHp0NUE4dW9iM2swYzJqdG1OWVJRWkd0dnA1RE1UcFBXQUhB?oc=5",
+   "published": "2026-06-26T07:32:01Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "78727e571be9130b",
    "company": "Unixell",
    "title": "Unixell’s off-the-shelf stem cell therapy cleared for US clinical trials - Parkinson's News Today",
@@ -25630,6 +26092,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3ozNkV4d2Y0aUdVTmJLM2ROMTVuMDRlcVFrVi1rVmJHVzlweTdTZ1M4d2pjX3BRYlhaY0tLakZaODRjM2l0bUtCS3Y5clBBQ0ZobE9WSnNKWTJseVE4VmlzaXhsRktwUDVOUmhFTjVlS19UR0o4X1dQR0M1cUZKWFVxb29rMExBOG5V?oc=5",
    "published": "2026-05-22T07:00:00Z",
    "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7d63c4b2ac1c1dcd",
+   "company": "Denali Therapeutics",
+   "title": "Denali Stock Dips as Biogen-Partnered Parkinson's Disease Study Fails - Yahoo Finance",
+   "summary": "Denali Stock Dips as Biogen-Partnered Parkinson's Disease Study Fails Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNzJEZFk3a2MxcHU0QjdKMEZpWDhmaXlMVUNGSnM1NERseVJ1YXlONlY4NzRoYmVQU3cyaXhsVFE0SEZYcTZkcHNvcjhxRFBZQW5TY0dKekI5ZmZQM3VNZUFxSlN4ZW9jSi1RaWtPdk9QVDY3RFRpdnRjWmhtdmdYV29GeTRRZFhSX28tNHczeGp5N2RxYmFCSHdMSGlxSFlTWDd2TnhB?oc=5",
+   "published": "2026-05-22T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -28824,6 +29297,17 @@
    "first_seen": null
   },
   {
+   "id": "e3422565008775a6",
+   "company": "Annovis Bio",
+   "title": "ANVS Stock Price and Chart — NYSE:ANVS - TradingView",
+   "summary": "ANVS Stock Price and Chart — NYSE:ANVS TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tNTFOcWJucGZyeG4ydkFFZlVCOUdEMTlXaFFGRkdxZzlMUlVFRWZRV25Xc2VEb0NtRGhxN1p2MG9SaUY3TVNGMzFyMmMxeEl6Z3RZRWxYa0F2dw?oc=5",
+   "published": "2026-04-01T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "0cfb10283c34d5c1",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Cybin to Transfer U.S. Stock Exchange Listing to Nasdaq - Thu, 12/18/2025 - 07:30 - Helus Pharma",
@@ -31904,6 +32388,17 @@
    "first_seen": null
   },
   {
+   "id": "8acffb6926006ce2",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia - Yahoo Finance",
+   "summary": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQktVWlV3Q0NLWTBOaFF6Y3JNT3VvbDlXbFFKckFfaE4yS2Z6ZzloRUVNNF9Fa3NYNmo0eUtvenJ2TGtSY19LUGtvT3B6VE1aRWgzWlpMOVB0cWdyYUxDTGtZTzlPbUlMYzMtUVg5cTVyM0dmWXZBR21tRHFqNDF6eDZLTTNqMXVEMk5hWEltZ2dicTJFbERXZW5jQzU?oc=5",
+   "published": "2026-02-04T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b07b63ba769b5dc4",
    "company": "AC Immune",
    "title": "AC IMMUNE SA (ACIU) Stock Price: Nov 18 Close $2.10 - Gotrade",
@@ -31911,17 +32406,6 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uSmpFN1p5M294SXduSkhKbzZ5VnpqWThxbkdhWWNHT1dPNVpfZE9DcWotVlh2dVBpVDdDNW83OXJxQ0hsdlRxVTFtaGNDUWRSa1FIbE1paw?oc=5",
    "published": "2026-02-03T18:17:06Z",
    "outlet": "Gotrade",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "8acffb6926006ce2",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia - Yahoo Finance",
-   "summary": "Minerva Neurosciences Spotlights Roluperidone, Lays Out Confirmatory Phase 3 Timeline for Schizophrenia Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQktVWlV3Q0NLWTBOaFF6Y3JNT3VvbDlXbFFKckFfaE4yS2Z6ZzloRUVNNF9Fa3NYNmo0eUtvenJ2TGtSY19LUGtvT3B6VE1aRWgzWlpMOVB0cWdyYUxDTGtZTzlPbUlMYzMtUVg5cTVyM0dmWXZBR21tRHFqNDF6eDZLTTNqMXVEMk5hWEltZ2dicTJFbERXZW5jQzU?oc=5",
-   "published": "2026-02-03T08:00:00Z",
-   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -32340,6 +32824,17 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzJnYlBvSWI1MXV2TVpfUkpEWEh5SWpUaEFva3F1Snd5ZmlhZEs0NlJGejJkNE5vZXlIbjdaVjA2c1FYOF9WZEg5dVZPTVpMSHd2QVh5S21SdmRfVjJOalBYZk5iTkJ3WmxjS0U4TnBoWURCWlF3QVc1b0ZBaVJtd08xUzFOek84OGl5QXZta3l5aWViNnFTYkpBU0QzUzdteGc?oc=5",
    "published": "2026-01-19T08:00:00Z",
    "outlet": "Business Weekly",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3f30f94596138501",
+   "company": "Eli Lilly",
+   "title": "Eli Lilly picks up gene therapy player Prevail in deal worth $1B+, making good on bolt-on pledge from earlier this year - Endpoints News",
+   "summary": "Eli Lilly picks up gene therapy player Prevail in deal worth $1B+, making good on bolt-on pledge from earlier this year Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd3E1N2ViUEFyRm4wY1dONXpGYzBLWXc0VTRVUENzb2phZzRhNUVpa3BBNEVIWkM4cFFqempyeVotaDN0ZlhEYXJQSjB1STdHd2VtM2JtRTBhT0VQcXFDYnpIZ2R1QjdBN25Ock0zVGxqTmZOaXY5bThtaF91eGQ0amhOazlFSEtWQ1VNVHprX20zNC0wT1VWdG56ZFM4NHJleGJZd25XT0x4clY2WmpaV1Nya2FoOERUYmlsUjRJMnNtQ2EyZXMySkFwTG1LbzdLVTdsNklnVQ?oc=5",
+   "published": "2026-01-19T08:00:00Z",
+   "outlet": "Endpoints News",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -33178,17 +33673,6 @@
    "outlet": "Pharmafile",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "c5b5b705aa2f71cd",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
-   "published": "2026-01-07T01:18:54Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "cd2b898a3d707409",
