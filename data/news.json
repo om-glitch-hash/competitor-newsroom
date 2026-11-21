@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:43:31Z",
+ "updated": "2026-11-21T08:33:06Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "d5bcf0176549a5bc",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics, Inc. (NASDAQ:AXSM) Stock Has Average Price Target of $266.21 - MarketBeat",
+   "summary": "Axsome Therapeutics, Inc. (NASDAQ:AXSM) Stock Has Average Price Target of $266.21 MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2ZCLXB5d2dfZ3BKazN3MG9xM0o1VnFadVZoanBZSTQtWHRueGxiT0RFNXhmX2p0NkJCVGlFMVJDSG5JQkJTZk1YVnI4ZW43V2lDd1dFUFQzeXVha0lFNXpEaUlERkh0U0RzR2x2LXNBSmVwRHJlRzZ3NThjRzBWYm4xVlhxZWxsMnloUFFVQWI2Z3BZQ0dvWXlJWnV0Nm82eklNUUtpdTZIckliSm5RdDNsUk1TZGI5ekJfcXhtUXNLaGJnRnFjMk1mUjByUmw3cFVUR1dn?oc=5",
+   "published": "2026-11-21T07:45:37Z",
+   "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T08:33:06Z"
+  },
+  {
    "id": "e4bdfcc3f83ebeaf",
    "company": "MapLight Therapeutics",
    "title": "Maplight Therapeutics (NASDAQ:MPLT) Stock Rating Raised to Sell at Wall Street Zen - MarketBeat",
@@ -2248,17 +2259,6 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
-   "id": "c5b5b705aa2f71cd",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
-   "published": "2026-11-19T20:20:03Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "4ca86f9ca7d8bc74",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Launches Ketamine Sales, Targets January Shipments - MyChesCo",
@@ -2268,17 +2268,6 @@
    "outlet": "MyChesCo",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T07:43:31Z"
-  },
-  {
-   "id": "339ed6c531e1bdf1",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qZHZCQk1PZ0hMdjgwc19PY1R2OV9MQnVjOUQxcy00TjRDTHg0OVJNakpIWHl0MzZjYkhNZmRRVG5XUzUtS1dLck9XV2JGeFNKbVE?oc=5",
-   "published": "2026-11-19T20:09:10Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "e707e3b0c9a6f8a9",
@@ -2794,6 +2783,17 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWU9tWUVGQkQyUkJVVGF1S2JYcmFaVDhHNEM5R0U0WjZKVGFSQ1daRzZCRnpXQjVCSnNVdkpyTnlqdXN6Y2t1bjJ4TmprdmUwZTlkRjFFTkw5RTBZMXVLUlE1S3UxYjdEOXU5M2VGRUR2ZkZmQnRiWXNlMHN4TFgya0ZKUlpMdUZ4ckNtQ1JheHVXOXhSMllHakgweUZQai1FbTlV?oc=5",
    "published": "2026-11-19T05:14:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "c5b5b705aa2f71cd",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
+   "published": "2026-11-19T04:26:45Z",
+   "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
   },
@@ -5064,17 +5064,6 @@
    "first_seen": null
   },
   {
-   "id": "351f61dbaf174d4d",
-   "company": "Axsome Therapeutics",
-   "title": "Morgan Stanley Issues Pessimistic Forecast for Axsome Therapeutics (NASDAQ:AXSM) Stock Price - MarketBeat",
-   "summary": "Morgan Stanley Issues Pessimistic Forecast for Axsome Therapeutics (NASDAQ:AXSM) Stock Price MarketBeat",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR2dYNDNEQnZxOVhhVnc4a3VNU2NFM3RsTkRvVGlUSzZjdlJJZkpNRGxNU2VVV0FUMm5wQU5zM09KRHBXd1FwSmd4YmVUTFVSNzBJd1MtOExTMXRjamJtaW16Y0laU0dQdmJKTWh5NmN5ZlYtLWFXOHFHNEZHSDZrblpDeHNrWHNfcjZhN2ZkWGY4d1ZpM0pRWW9PUzhXMVpScDRERk1EZzlETkd5SHR3eUtWZ21lN3l1OE5mLTNUYVhUd0QxMUZLLTM3SmZlMHhMcU9FN05mMm13eTg3ZzVBaVMyNnVqMjQ?oc=5",
-   "published": "2026-11-13T18:15:37Z",
-   "outlet": "MarketBeat",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "0d6891943f0fcd71",
    "company": "MapLight Therapeutics",
    "title": "What Lies Ahead for MapLight Therapeutics, Inc. (NASDAQ:MPLT) as Its Q3 2026 Report Arrives on November 16, 2026? - Kalkine",
@@ -5137,6 +5126,17 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92dVRmQThnNDZEelZrYXlIeENleW8wVHhMZ0JWSWQ0RUNTb1puUUdMZVVBUWFmWk55aERBWEhqd0cwRXRvZmRiVjBISEJHak50NjdkLXBvWlBnZU1RbUNDaFU5VVFZcHVVOTFjR3p3?oc=5",
    "published": "2026-11-13T09:33:58Z",
    "outlet": "scanx.trade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "351f61dbaf174d4d",
+   "company": "Axsome Therapeutics",
+   "title": "Morgan Stanley Issues Pessimistic Forecast for Axsome Therapeutics (NASDAQ:AXSM) Stock Price - MarketBeat",
+   "summary": "Morgan Stanley Issues Pessimistic Forecast for Axsome Therapeutics (NASDAQ:AXSM) Stock Price MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR2dYNDNEQnZxOVhhVnc4a3VNU2NFM3RsTkRvVGlUSzZjdlJJZkpNRGxNU2VVV0FUMm5wQU5zM09KRHBXd1FwSmd4YmVUTFVSNzBJd1MtOExTMXRjamJtaW16Y0laU0dQdmJKTWh5NmN5ZlYtLWFXOHFHNEZHSDZrblpDeHNrWHNfcjZhN2ZkWGY4d1ZpM0pRWW9PUzhXMVpScDRERk1EZzlETkd5SHR3eUtWZ21lN3l1OE5mLTNUYVhUd0QxMUZLLTM3SmZlMHhMcU9FN05mMm13eTg3ZzVBaVMyNnVqMjQ?oc=5",
+   "published": "2026-11-13T08:00:00Z",
+   "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8382,6 +8382,17 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUxScXFucVg2R3hIX3cxVkpEY0hNMDI3VkdJWW1EYmpyazFYTExpZTJ2dWlfUjlYbkhFMDItbEhkbXZrMnVfNTFPdzhmNDBfcXVIUWFPRkROZnllNmxSUndYTFFmNHIyX2l6Rk42N2Z4RTZtZEtlTXVUU1ltWnFOdzdQelZreHE1X0JMRUgwRnRnR0hza3NHcGJ3aDlxZw?oc=5",
    "published": "2026-10-30T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "04f61e2f8035f40c",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "FDA approves first product for Wilmington biotech; shares tumble - The Business Journals",
+   "summary": "FDA approves first product for Wilmington biotech; shares tumble The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTR3ZjJXSjV3bGcwbm00SnZjSzhJZkZmTUswR3hfSm5NdkdPanB5R0hmb19lN3JzQmw1S2ZNSWZDbjkzN1ZIQjVzY040NmV6UmJxMVVXMGlaX1ZRMEh3V2lRZ184dzFaV0JiQTJVdnBWMlkzZ1I4SDNMRzJVdmhfbFBRQ0dQLXJ4bHN0MC1BdXJnUl8wV3pFYnhCcUp2X0dtZFprWWRZd0ZodXFjbXIw?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "The Business Journals",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13567,6 +13578,17 @@
    "first_seen": null
   },
   {
+   "id": "63b465cffb8ced52",
+   "company": "Neuphoria Therapeutics",
+   "title": "Neuphoria Therapeutics Inc. FY 2026: Revenue $1.17M, Net loss $13.59M — 10-K Summary - TradingView",
+   "summary": "Neuphoria Therapeutics Inc. FY 2026: Revenue $1.17M, Net loss $13.59M — 10-K Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0U3NGZWU243RFdQSFBJRFFSWVpBakpIUWdOTGI1MG9HbjhtdENzQkdNd3kydnRyUDdHeTYwZmRyNk9RRFhhdDJndnFyVXg4OFpqX0NnV25PUWpOUTRqTjhsd2VOcGlpa2NMd0pVWi1XQWZhRjh6WkRhRzNNLU9YTGRfUlFuNktjV2lVWXRlQnV4NjNvNXVaSUhCSVp0WTMzaUpQWjc4TktHd1U5b0NXcFBGUDgycWRVLUxFQTdVTTIxWm9udS1PeHpmRThWeFlON2xFU1h3?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "175772e2e85dcdcf",
    "company": "Aspen Neuroscience",
    "title": "Peter Thompson, M.D.",
@@ -16999,6 +17021,17 @@
    "first_seen": null
   },
   {
+   "id": "2d03c7aea0a5e0e0",
+   "company": "XellSmart",
+   "title": "Ready to use Parkinson’s stem cell therapy put on FDA fast track - Parkinson's News Today",
+   "summary": "Ready to use Parkinson’s stem cell therapy put on FDA fast track Parkinson's News Today",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTF5NGpfTVRtb2RwYjdxOF92czRySzU3cERramROYjY3YXAtRVFsdWFGTHpBbXE2bC1BdDBuTUV2cVlYVWtrNGxNWFJNVXM1Yk9JNUdrSGhLNS13ZHRvYWctRjRBeTRDTFFRS0JDRXdaSUI1NVYzaERkN21RbTVZTmU1c0NwaUpLclZwMjZubVpNREt2RFRGUnZWZ1JQazl6OUxlMU5meUUydw?oc=5",
+   "published": "2026-08-10T07:00:00Z",
+   "outlet": "Parkinson's News Today",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
    "id": "66cb3c9f051ab9dc",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics to Participate at Cantor Fitzgerald Global Healthcare Conference 2023 - Gain Therapeutics",
@@ -19639,6 +19672,17 @@
    "first_seen": null
   },
   {
+   "id": "10c7663ae96cfe0e",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Is Cybin D/B/A Helus Pharma (HELP) Stock a Psychedelic Medicine Opportunity Ahead of HLP003 Trial Results? - Yahoo Finance",
+   "summary": "Is Cybin D/B/A Helus Pharma (HELP) Stock a Psychedelic Medicine Opportunity Ahead of HLP003 Trial Results? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOajNsVmM3Z3M5MkhkemVYSndDQzBveFJ3ZWdDSnpLUVNIYWN6UjRtUUlWV1JpSU81OG50NmdXcWxuYkw3T3NKaTc4bmt2c1ZMT1RtbUxBekp1SXVjdklxNGhWekJILXZuSGw4azB5LUVmeFE5ckJPam5fOGxqWEpQVElFakF3MWRfRFpZ?oc=5",
+   "published": "2026-07-15T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "20288c76c790bec5",
    "company": "Sumitomo Pharma",
    "title": "Development of the Regenerative Medicine Product “AMCHEPRY” Receives the 10th Japan Bioindustry Award",
@@ -20404,6 +20448,17 @@
    "summary": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Draws | WTA Official WTA Tennis",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vY0J2RVA3M2pIYVRJdzRwNUluVEdjdFlVRlB4Vng3Y2VURjNqXzA4aXVPd3FGcEpzaUd5a19YeXFrR1NqeXRqTTZtUVlUYk5hb2x3MXIzYWdpTTFTZG1NRXJ4RmVfT212TUpZY3hGUm1lLXZp?oc=5",
    "published": "2026-06-28T14:03:02Z",
+   "outlet": "WTA Tennis",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "29ccc2a76a1a22fb",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Overview | WTA Official - WTA Tennis",
+   "summary": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Overview | WTA Official WTA Tennis",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RenlJa0pNc3VOZkRGY1Y5RjJmemZhOGpGTzQ4WHdiM0xpeHhyMG9yc1NLcWZ5ZlBqdFBjaHdkMkxrNDNicGx3YnMzb3dlRm5ucVJ5RjJPZ2tzVi16akgxbkpmeXJqeXBzUmhQVQ?oc=5",
+   "published": "2026-06-28T08:32:02Z",
    "outlet": "WTA Tennis",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -23815,6 +23870,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdE9zYV9qbGhpUlBSVVAtTnJTclJwc2UtUGtvTEhCLXQzZXNRYW54akUyaS13b1VNLXZNSnJtdi1aUDJyUGlSM1hlQzVHc0NFSlphWWtqck5GT2o0OUVkWDJpY3d6RzBidmVoZm5zVVNraFNNQ1pEbmRRSXlPM2lieDlSQVFjdmg2MlNRUUxIMW5pRnFzQWZSVXVUbUhfdTdFVzFITkg4OXZGTlU?oc=5",
    "published": "2026-05-07T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c8380cee2e13b406",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics Reports First Quarter 2026 Financials and Provides Business Update - GlobeNewswire",
+   "summary": "Rapport Therapeutics Reports First Quarter 2026 Financials and Provides Business Update GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV0MtcThQTWR3TjFtaU14Smh3bnA0bVBHZWx6Q2FQSURYRUM5U0otVXdYOVhkMUhwNWQzZm9tRGl5aG9Yd0pZZ3p1SFJLR3pPVkVCVTNwUV9aeG5hME1reXVCaGZrZjVVOWt2NDdKTWVPR1JPOFF6Snp4a003V0dFaXBPTXIzZWJSOHRZTHdDR0lsMlVuSnpud3otR1c2YjVmNUZUckM4Y01tNkQ5NFhpUWpTczROd09sUEpHY3VDZ1Y5YW9wbHA5ZE5TVS1YRVRGbmNtNFZ6ajlEcVk1dkxLejhaNjBTVDBEOVR4dFRGWEw?oc=5",
+   "published": "2026-05-07T07:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -30474,6 +30540,17 @@
    "first_seen": null
   },
   {
+   "id": "339ed6c531e1bdf1",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qZHZCQk1PZ0hMdjgwc19PY1R2OV9MQnVjOUQxcy00TjRDTHg0OVJNakpIWHl0MzZjYkhNZmRRVG5XUzUtS1dLck9XV2JGeFNKbVE?oc=5",
+   "published": "2026-01-05T00:28:25Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "9572a82890d75cc4",
    "company": "Eli Lilly",
    "title": "A Study of Brenipatide in Adult Participants With Bipolar Disorder (RENEW-Bipolar-1) - Lilly Trials",
@@ -31691,28 +31768,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVZUWUhVZ05CSE1jQzNkSDNnMm1IdXc1cEYzY1BrZ1hVckRjSUR6Nmt0aGRqclRGZFlYMGc3SHJFZ0VtVmV3THBXbHBoamVzRXVSZ054U1RDMHFYdEh4QkVxVVdERDdudkRldmg0Q2RUMlhRUnBBdmozUVNoOTJUaE9WZEl4aVpk?oc=5",
    "published": "2025-11-22T01:08:54Z",
    "outlet": "Denali Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "7da8b8221293f2fa",
-   "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
-   "title": "The Rationale and Early Supportive Data for NLRP3 Inhibitor VTX3232 in Parkinson Disease: Mark Forman, MD, PhD - NeurologyLive",
-   "summary": "The Rationale and Early Supportive Data for NLRP3 Inhibitor VTX3232 in Parkinson Disease: Mark Forman, MD, PhD NeurologyLive",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRkVtVUtPaEdHRXRuYmRidVQ0WTlHaUtXNUJHQkpqMUVwV0dfSmZLV3hPZV9ZV1dSOUhQOU1QRHRxTmYwUWJfTWlvc2Z1NFJSWmtpeTVSZTlNTGlYbEloc1Jlekk1cVVOemstVk1yUkpfUEFkaWN4b3FBMUdPY2dKN3JDVVp1UHIwU3RrazJzWnZBTVlyX2lzbktuZVhycDZmVUFKX2Jvd0V3c1V2aVp4VXBjNUJhb1JpSmJhSA?oc=5",
-   "published": "2025-11-21T08:00:00Z",
-   "outlet": "NeurologyLive",
-   "method": "news search (no newsroom found)",
-   "first_seen": null
-  },
-  {
-   "id": "a88fd3eafe428ad2",
-   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
-   "title": "Ending Veteran Suicide with Neuroplastic Therapies – NRx & Angel Force USA - NRx Pharmaceuticals",
-   "summary": "Ending Veteran Suicide with Neuroplastic Therapies – NRx & Angel Force USA NRx Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUTZJNnc2cGItUTI2MVVuTTNfQ05FMFlNZG8wa2dJWFlVd2VTYUdMREtwaUNHWjRQb1NZZlVpR0RDUmxqTWNUdDliNEQ2N1NrdEdCY3ZKMERXNFVYOFdSdWN6dWxVNUZYTFlJU05pRDFHVlFLbXdIUzdXanZ6YnBSazdJYw?oc=5",
-   "published": "2025-11-21T08:00:00Z",
-   "outlet": "NRx Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   }
