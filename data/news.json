@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:14:35Z",
+ "updated": "2026-11-21T11:58:34Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2105,6 +2105,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "6a20cea0e3a191e0",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley Inc (B72.SG) stock price, news, quote and history - Yahoo Finance UK",
+   "summary": "AtaiBeckley Inc (B72.SG) stock price, news, quote and history Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jOU5qWVE0eDVnYWJKaDNZbEZNc1V1TFNzYTlTVS1wVnM0WjEyMldvOU5IWDFIQXo0Q25kRUh0dHBmcWFydXRFQ0dzZGtQX3gyQjhEMGV4MndJRUZpVWxTZ3dvVQ?oc=5",
+   "published": "2026-11-20T06:21:11Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
    "id": "d7876f94df3fc17d",
    "company": "Annovis Bio",
    "title": "Annovis Secures Buntanetap Patent Ahead of Alzheimer’s Trial Data - MyChesCo",
@@ -2369,6 +2380,17 @@
    "first_seen": "2026-11-19T19:12:29Z"
   },
   {
+   "id": "9a1ecb2b0fbf3f19",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Guggenheim raises Helus Pharma stock price target on trial data By Investing.com - Investing.com South Africa",
+   "summary": "Guggenheim raises Helus Pharma stock price target on trial data By Investing.com Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTR6UXVPWE1kd085NVp0VFhzQUdVZWVDODBnRV9uQzY5bUVYc0ZBVzRCMWRPdEsxTmJnNngzaG9oRTVadXJFX2xDZGZYVlRsdkFRWk04YVRkUllGOG9ET3hGQ2dOb1QzdVFESVJZTXZsbF9lSjVyRzM1NGR0UDNFZGQwS2JiWmdpLUFkZUFDd0ZKQkxmNWRkQmtma0diX0VDUVA2dkZ3SF9XZU1oN1Q0QVA1dVQ0X0ZKR1IyZlAxZ2Ytdw?oc=5",
+   "published": "2026-11-19T18:05:17Z",
+   "outlet": "Investing.com South Africa",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
    "id": "192abf0094b3e608",
    "company": "Newron Pharmaceuticals",
    "title": "Newron Pharmaceuticals S.p.A. (NP5.F) stock price, news, quote and history - Yahoo Finance Australia",
@@ -2455,6 +2477,17 @@
    "outlet": "CNN",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T03:17:37Z"
+  },
+  {
+   "id": "01b7e5aed668810c",
+   "company": "Vanda Pharmaceuticals",
+   "title": "VNDA: BYSANTI, NEREUS and a potential GPP launch anchor growth through 2028 - TradingView",
+   "summary": "VNDA: BYSANTI, NEREUS and a potential GPP launch anchor growth through 2028 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcDVRTF9feV95MHRfV21EcEFYeHZiNGZjOFlDaVRkdXFyYjM5S3JyaHlsYTlqcUtPYk15blp6cURCeWF0eHI5VmUzbWxqMU5TeVFCZ0RUMW1oNVhDMWVLVUNjY0xJQUtET0xQUmtsaS1pRHlHdnY2UVdMc1NYNzlJczJ3aU02dEVWOUxKMHBHMW9WdmVWd0daRG1YNENqbjlxV1BodDFEVjVycnYxbEhIZnJjanM1Wk9kb1VHT0oyeTdRSGR5M2ZORENMcE1Eb0ZGS0lNaWMyU25yUFhEdTBJb1V1bmJ6elJmT3dkTnZJUmJ3QQ?oc=5",
+   "published": "2026-11-19T15:28:21Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
   },
   {
    "id": "525bbe136dea6119",
@@ -2576,6 +2609,17 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "ef4d30070808a0a8",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Guggenheim raises Helus Pharma stock price target on trial data - Investing.com",
+   "summary": "Guggenheim raises Helus Pharma stock price target on trial data Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0tEejRCWXNSdHB1VDI2NU1WeTROTzRUU2ZYNF9IWmtOaUQ3c2Rfdm11a3RJdmgzb3ViNVdRN2h4TUFaekRNWmt0REVqRGFZNE5XU3lyN3JsQWlHWUlEWnJubG5kd0Q2TmdTRThaQ0liTWpSV3ZsZjhUbF9xV3FSdEl5SFE4THlESFduYjdoNWYySWE4bEcxQ0hGLXg1cWNMdlhRTHFpcDg0MTVyc2ppbG90OHBoTlFMQjJtbDR3bDU?oc=5",
+   "published": "2026-11-19T13:28:54Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
   },
   {
    "id": "bb4f8ae8ce315ec9",
@@ -2752,6 +2796,105 @@
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
+  },
+  {
+   "id": "5367341abfae51b0",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) valuation measures and financial statistics - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (R7E0.DU) valuation measures and financial statistics Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGaEFHNHZoeU1xaXJSN1YteWpnaTN3dFgwVFhDTEU0RDRyd0NFQTZZdWpnUktRdGVVR2drMXR4bEtRbmk0R2VaV0x3M3d0SktFZlE3dE9KTTVWaTYtRE03TlUwRFJSeF83X2c?oc=5",
+   "published": "2026-11-19T08:57:36Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
+   "id": "ee8b13fed2887365",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) options chain - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (R7E0.DU) options chain Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xOHpqV1BFZzRXeXRqRE1sRThZQnFSb2lJbHRQZS1VMElWN1AwQVJnZmN5czVIOFpJb2FPdmdvSVZJVnpCQXZpSkctWjlZeHZnVUNWMUt5Y1BhUVNhS29Deg?oc=5",
+   "published": "2026-11-19T08:57:35Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
+   "id": "03a6049de9e4536e",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) income statement - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (R7E0.DU) income statement Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aX0pOZDBNTjlNaElrTDUtQmZQMmhZSHNRS1N6djYxM2p5X3hUOWJTQUJrTnkyb0pfMnh5TTY3WU1XMVFPZDlrWHJWUXplNWt2Y01HZy1DVU5YOXEyTkZVTU1LelA?oc=5",
+   "published": "2026-11-19T08:55:45Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
+   "id": "2f82d891894a6e87",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) stock price, news, quote and history - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (R7E0.DU) stock price, news, quote and history Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1RFY2ZFRsRzhOaWFTRjE0Z0lMeDZxa2pYVXdQbFBEZmV5d0ZKY1dsQmtLdjF1TE9YUzM0SDhXSWVJeWFtOHFhTkJHd3lUSHRHVnN5WkZB?oc=5",
+   "published": "2026-11-19T08:54:36Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
+   "id": "38e294f98736cce8",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) interactive stock chart - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (R7E0.DU) interactive stock chart Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZZndBWno2YWFDU3c4cDdKNEQ2NlVLdlhNNEU5NlR4OUIwMm14c1dJT05KZ3JYS0o3dzhGbFRndFFyODN1ZXVHU09CUzZ3dnVyOFRRWjF1VG1WUjJ5NEE?oc=5",
+   "published": "2026-11-19T08:53:29Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
+   "id": "583aa62a85549e69",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) stock major holders - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (R7E0.DU) stock major holders Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jRVl6WkplYnEzenlFa2ZhV1RMNWd4cnUzRG42WUhuYnFTX3FrQml5OElZV0QxQmk2NGxTVklsTDQyQjFWdjhQSVBndmFqOU9mMlFQTUhRRWNEdEhFcU9MUA?oc=5",
+   "published": "2026-11-19T08:52:53Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
+   "id": "928b7c9272468a2b",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley Inc (B72.SG) recent insider transactions - Yahoo Finance Australia",
+   "summary": "AtaiBeckley Inc (B72.SG) recent insider transactions Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQNHdYc1lDXzlFZ2d3QWxMVWRtNnpMSHdGaXFfdGNaZWU1NG8xQTBZTldXX2V4OGl4TGZtem9OM3lrcDlLaGZ1RFpCQWlvaXVZYU15NlJTLVR4Mk4tN0s3ek4tSy16VWJWdzIyRlY1X2g?oc=5",
+   "published": "2026-11-19T08:43:46Z",
+   "outlet": "Yahoo Finance Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
+   "id": "124e1735e3729819",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) Seasonal returns chart - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (R7E0.DU) Seasonal returns chart Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ER29zN3c0alZXNmFBaXJfa2x3TFpjWE02Zm8xY1Nud2FQa0lJRVBzMUlHMENQZTRfcjhxRkRHTlFjR0NYbEc5NkZoenBvY3NJc0VLRHdjcXROWWxSa3J1ZVRPVzV1dw?oc=5",
+   "published": "2026-11-19T08:00:40Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
+   "id": "8b4254665a7d3e03",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) company profile and facts - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (R7E0.DU) company profile and facts Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rTHdqSnM4cTNyWmhXTFRQMUJBVWtBRnJHLXFZTjhNODNfc0djWFN4M0ttZ1lPZ2hjYV9MTmRKSkI5aDlsV1h0QXdFMTlzSzBBeTh3UVZvSklzbUpnSDZQOA?oc=5",
+   "published": "2026-11-19T07:46:02Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
   },
   {
    "id": "c52831a3ca3188ad",
@@ -2994,6 +3137,17 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "aa234c9c0e2a60bf",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc. (NASDAQ: HELP) Share Price, HELP Stock News, HELP Share Price & Updates - kalkine.ca",
+   "summary": "Helus Pharma Inc. (NASDAQ: HELP) Share Price, HELP Stock News, HELP Share Price & Updates kalkine.ca",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50WHdhU1VVV2RNZFFoVDY5T2FMYWEyNHRvTG9GMXRrWW1ZcGNkemg1eXRGUVlTVENTOHNlMGJOdHZHRExUZUw4blpRaVd2YlEt?oc=5",
+   "published": "2026-11-18T21:00:00Z",
+   "outlet": "kalkine.ca",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
   },
   {
    "id": "aa10fd8684833bf3",
@@ -3258,6 +3412,17 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-20T08:00:26Z"
+  },
+  {
+   "id": "1e847cef5fda5135",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma (HLP) Stock Fair Value Rises After HLP003 Phase 3 Analyst Revisions - Yahoo Finance UK",
+   "summary": "Helus Pharma (HLP) Stock Fair Value Rises After HLP003 Phase 3 Analyst Revisions Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGhsSTVOOEIxR2ZtY0p6WFFqZTQwLWtiNDgzMjl2N2VLMjlCRG1jX3U4NUNGVTlGYW85YzhfRTVDNDIwMm04cVJCcjlvQUcyem9fenFMTTNncjdrZENKb3JHR1FWRE1JSzFQVzdxMDZSdHZOc3ZqVkllUGpwa1NXRnBn?oc=5",
+   "published": "2026-11-18T08:12:42Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "2b786e29867268f7",
@@ -3612,6 +3777,17 @@
    "first_seen": null
   },
   {
+   "id": "a268e5fa84a79d7e",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley Inc (B72.DU) insider ownership and holdings - Yahoo Finance UK",
+   "summary": "AtaiBeckley Inc (B72.DU) insider ownership and holdings Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IazZDdTVXNFczR0Zod09hamk2UUZqQm03bUQyVFFDRmR4MEdBaXR1NXFjWGc2MG9HdnpTYWdCS0F0X2Z5SEFMU0hxSFdmM3h4dEF6Q0lFcE9ucWFlN3F4bkFjcXNhaUNz?oc=5",
+   "published": "2026-11-17T16:09:09Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "746e9ad55356942e",
    "company": "MapLight Therapeutics",
    "title": "Maplight Therapeutics (NASDAQ:MPLT) Stock Rating Reaffirmed as Buy by Canaccord Genuity Group - MarketBeat",
@@ -3775,6 +3951,17 @@
    "outlet": "Xenon Pharmaceuticals Inc.",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T20:18:20Z"
+  },
+  {
+   "id": "8271c639d0513735",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus depression candidate meets Phase III trial goals - The Pharma Letter",
+   "summary": "Helus depression candidate meets Phase III trial goals The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd2JUc0s0eUt6T0c0MkZGak9KODJKMUREQ2dfTmdtbkRpWjhBdE5mRkVVZUJGSEFnbUhETjhBQ1NBUV90UmtJcVlsTzM3czNXbC1lVmRTXzdIanVRdHItNk9RTXZ5LS11cVR1dXFSZXMwdXlPZjg0QXFjSXQ3eF9ZN2xPNllieW1WVkdMX01TYkVjUU5kZmRmTEpTMVhJMEE?oc=5",
+   "published": "2026-11-17T10:48:35Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "b2974cb11f3cfff1",
@@ -4063,6 +4250,28 @@
    "first_seen": null
   },
   {
+   "id": "9e508079a28a8439",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.MU) stock price, news, quote and history - Yahoo Finance Australia",
+   "summary": "Helus Pharma Inc (R7E0.MU) stock price, news, quote and history Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EUnlkaGRYMEh1WDZKZVdBQjk1d3lYYTRzNTVXRFBUV0g5X3IzQ3JjdnFhSXZqY2wyRXdwOE9DVEhIaTE0X0NudUlrTXVjbVVRSXRzdGxuOU1RbG9iUDRiUjVDQVlJdw?oc=5",
+   "published": "2026-11-16T20:36:58Z",
+   "outlet": "Yahoo Finance Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5bff8c7d7240bbfd",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus touts Phase III win for psychedelic-derived depression drug - FirstWord Pharma",
+   "summary": "Helus touts Phase III win for psychedelic-derived depression drug FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nU1VHb3Z6cEFUZ0tsbHBMQVcwR1pIbHpuTjR6NjhkSkhOM1EzWnIta083TkMtSGpzdzU4bGIwNGswZ3RVTnFvaGpLLWptQVVaUnp3?oc=5",
+   "published": "2026-11-16T20:35:42Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "148991b0aef8aaa9",
    "company": "MapLight Therapeutics",
    "title": "MAPLIGHT THERAPEUTICS ($MPLT) Releases Q3 2026 Earnings - Quiver Quantitative",
@@ -4092,6 +4301,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2xwZXptV2I2X3l1cmlQQ19wb252NVhPdXBKSTBsU29CSW5DMzRaZHBvSmRvMk11TzlENDM5b3AwcWxhTmZkZ3dnWUZxTUxWWVp5UWxLRjE3ZzJLdlRxWWE0V2JxTzc2VkdOcXg2aFFERlRpelpiRnV4dy1nc2tnLVd6d3BfLWd1?oc=5",
    "published": "2026-11-16T20:06:54Z",
    "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e7ec0f510e68e17e",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus shares slide on psychedelic readout in depression - pharmaphorum",
+   "summary": "Helus shares slide on psychedelic readout in depression pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmU0Y1RFVTZvS3d5UlkzZzNYcHRCUlZaTmRMN3Y4SGFfSm9DSUhXN0tYMXVpVkp2N2hwRnpOR2cxTTF6WjN3VTNRRnpYTzFsZEhtTFpaQjhnMU9RZUUwNWw4ZDk1LXZpb2Y1enVHMm9wRlRaNDRHM0JFS1hCRWt2MDZ5OTd0dw?oc=5",
+   "published": "2026-11-16T19:13:36Z",
+   "outlet": "pharmaphorum",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4206,6 +4426,17 @@
    "first_seen": null
   },
   {
+   "id": "ef3a0a9f52dfef91",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma says psychedelic drug improved depression symptoms in late-stage trial - Mezha.net",
+   "summary": "Helus Pharma says psychedelic drug improved depression symptoms in late-stage trial Mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80eWNjeWk0eVVqQWZzR1BjTmY2NzNnVXd1ZTBVQktDZERUNTVkZnpndUdPeUNROTVNT1hUdm9fdVk3SmRFMklubHhnRHpNUTBobXRacHNIYmpOdzN1Z2tjRmxwR0E0YVdKbFE?oc=5",
+   "published": "2026-11-16T16:03:40Z",
+   "outlet": "Mezha.net",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f53abcbe167b59b9",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics (GANX) Upgraded to Buy: Here's What You Should Know - Yahoo Finance",
@@ -4246,6 +4477,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUExadXR6UDJhdlVfV20td1Zwc05xaHJiUEM2Y0VxZXhQbW9FWHlUSlVZR2ZwMkhEeURvRzVSVlZCcThVTjFCMnl1Q21SRGRYeEtZTmRPZnl5Y240WDRYTUpqWE81ZlRZaUtGN2NLZEwtVmFpNndmVVdldmN6TUJmaXZUMkRRTjhxeDFzOEVSMkZoR19qeDNEUTJFRHc1bTZSQ25oN3prS2Y?oc=5",
    "published": "2026-11-16T15:40:00Z",
    "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "688b40d4a4abc248",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "What's Going On With Helus Pharma Stock Today? - Helus Pharma (NASDAQ:HELP) - Benzinga",
+   "summary": "What's Going On With Helus Pharma Stock Today? - Helus Pharma (NASDAQ:HELP) Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemVmMHZmTEN0WmpoZDJyN2huS2lvWFp4cWpnWmJUM1pjM0ljb0gwUC1hdndQREZqbmE2M1g3a0dWVVRuOE9xbFpJUjZMQzIzZ1JpbG81VkdiVmNaby1JV0Mwc3V0NW5Ba3ZCaVFHX3RSS0xlZGM1OXRtbDlIa21RS2t6ak54cjRhUndwU1lheFQtMUlCbG03eDc0clF4NDRyZ2Fka0JCdmFCS3JtbmZ6SFRsdw?oc=5",
+   "published": "2026-11-16T15:34:21Z",
+   "outlet": "Benzinga",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4316,6 +4558,17 @@
    "first_seen": null
   },
   {
+   "id": "78c59cde15fe679e",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3 - Psychedelic Alpha",
+   "summary": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3 Psychedelic Alpha",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2RiTGVfYkRaLXJMUk5ERGVuUW52NkpvV05mVVo1LWw1M0QzcE1ydUloNkl2dEIxQk1Icm9HQVlJMVhvOW9JT2RLT0dIZHNFWlcwM21XZjZrVUhLWThMVndNSFg3dEtwMGthbmRhV1FfZS1RMEstdGR3eUtmcUJ4Qk44Snc5d2VKOHR1RjhIUlNsR2pBeURneVVfT09aNEZSeER6Sk9QR0FydEha?oc=5",
+   "published": "2026-11-16T14:56:26Z",
+   "outlet": "Psychedelic Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4bd708763d6bd03d",
    "company": "Teva",
    "title": "US FDA approves at-home use of BioXcel's agitation drug - Reuters",
@@ -4356,6 +4609,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHNfNnNzalplQTg1Ymx5Vzg2S1AtUDRYN1lmVVNNRzJYUVlXSktlTmlzWnlHWjRaUEk5X2R2R3VzaVdnN1RyT1ZtVGl1ZHJkUFByd2I3ZUVld0ZLbnJKcG91c1VseWh1blFncmNYdDhWdkhUWE55Rm90WUtvcFRqX2huZFcxWWxpclFtUUx2dUpfSUgwaS1MVzVINGwxM292UWxfNVZZNHZybEFKcFduQkY4YUNleG9oa1p5ZkJjc19HaGFq?oc=5",
    "published": "2026-11-16T14:42:46Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "04362f21b696410c",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Stock Swings Wildly as Depression Drug Data Lands Alongside Widened Loss - BigGo Finance",
+   "summary": "Helus Pharma Stock Swings Wildly as Depression Drug Data Lands Alongside Widened Loss BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGZXdaaUVaTTd1eWF2aDdOaUt1YkFKcklBNTVoNklhTTUxVWZGQnMyNXJPUktmRm5NM0hhS2cwdDBXR0U5U2hHUlJKODM4Tjh1Ql85VW55TnhjVXd2WW1ZR0huNmhFdGxxdGJWc202WXd2cTFEUEE?oc=5",
+   "published": "2026-11-16T14:35:00Z",
+   "outlet": "BigGo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4481,6 +4745,28 @@
    "first_seen": null
   },
   {
+   "id": "c13cab867d6b2581",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study, shares jump - Yahoo Finance",
+   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study, shares jump Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXQ5Rm9nWXoxSDhwY1llNzJOdjN4cXpXelNnOTVuOVNIZl9Xd1RqU2QzTmU5UDVPTDM3YWhZbWZaQ1dyb0RZaFFiRGhOaEc4S1JnVjgyNzNjMmQzZFQ5NTU2Z2dvSUszcEdReVo2TFVnNjhQbkpJYnpKc1dlQlRsS1BKc0xLOEVpM1dQVHdYcjJFU0ZEaGlYd01MWW1LanVlQjV6WA?oc=5",
+   "published": "2026-11-16T13:39:58Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c88931482240e6e3",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Shares Fall 21% Despite Phase 3 HLP003 Trial Meeting Primary Endpoint - Yahoo Finance",
+   "summary": "Helus Pharma Shares Fall 21% Despite Phase 3 HLP003 Trial Meeting Primary Endpoint Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEtVN0V1RmlkbFJUNGNQMThLbUIxZFowdWI1Vk1DLW9HQ3ROX3M5OGpzQ1VqdE80Q29ETFBHZnVZNlZzeDZveE5oYThScExNVWpzOEJZN2FPbTNOUV8zUXo1WkpmVEhxQXRaTjItWUItNTlZUGR2bWhITGg1Zjl6YUVQX3VXX2lyYmRUdkhHLThYZw?oc=5",
+   "published": "2026-11-16T13:34:29Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "82f9fb2f3a998c95",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus’ psychedelic drug improved depression in study but faces safety questions - STAT",
@@ -4576,6 +4862,39 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUGpUTkdfeV95OGEtLWtQQXF6VnU0RW5qWW1LZkNWcVV5bmdKLXd4cU1oX2REbWlZd0dGZ3g3cEU4NWo3eE5tTDg0S05Qa3h5bEswTmZLZjF1eXFCRUpwaDR0MFo5Vm1hLVI4cmdYazE4dGpPVTY4S1J0ak9zOW9FMlNDWmZ5Zy0xTVJnTXhudmY4ZDYzVDlCOUlB?oc=5",
    "published": "2026-11-16T12:52:23Z",
    "outlet": "kalkine.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fb4dd696e0039dc5",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Why is Helus Pharma stock tumbling today? - Investing.com",
+   "summary": "Why is Helus Pharma stock tumbling today? Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWGJ5dlJjWTBjOTh5aEY2ZExVN3hLUFUwWGtuN0sxN200cDlzYUhhN0JkcUVQYkFKSHd3VHF1M0ZFNldwNE5ta2huaTB6cWM1VFNERnkxOVJveUFNTnJjbEVLeHFkWHM1ajBLcXBJR09yYXdiSkNPek5Na2oyUm5PeE8wSnFfS29CWXhDdURCTmRPMUcydzZZNFlBWWQ5a3VrMnlFcQ?oc=5",
+   "published": "2026-11-16T12:43:57Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "909e974a55ae17d8",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma stock tumbles 21% despite positive trial results - Investing.com",
+   "summary": "Helus Pharma stock tumbles 21% despite positive trial results Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2Z5aGExUURUdlRZeVVWQmVYQzdvRkwxQWZKNWVac1RnaGRoRW8wa3VlSHBvTjFnTVN2UTlScFdUZXctNzZlVFZpNEFLaE94MjBaWkZhQnEzU0VaaXdxdWlrODR5M1UyUUJYU3ZoWEp4VWRoX1REamg5alZJa3hWOUU3d2ZiT21lMkRIV092cm1jWkRNalpEVVcxR19STHNCcDlLRFoxZi1vWF9tVURnOVg0X2NPc1dD?oc=5",
+   "published": "2026-11-16T12:42:32Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9f37a7c251ef83fa",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma reports positive phase 3 trial results for HLP003 - Investing.com",
+   "summary": "Helus Pharma reports positive phase 3 trial results for HLP003 Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQamVpTHpxam1nQ0t2WmkwdEozWGUyYmZyalNhTFJ2b0doMXRGYUh0MkJFMC1naUxxTWZUelZtUmNRMWxsdFlsc3JUd3k4cHlaQ1p1THFjR2Via2lBamMtU0UzTHFxYjktSW5qU0s3NHpmOUNxVGs1NlJJYnVKM2dCQmdOeFAyVk9PUjhIQ05Kb0pvbnJBMmVOdC1JRUdkZXMwa25nQUI5Tk5Hdlk2QTVyTFluaGI1RUVOT0dF?oc=5",
+   "published": "2026-11-16T12:42:27Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4690,6 +5009,17 @@
    "first_seen": null
   },
   {
+   "id": "dcc340615ad24ee7",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study - TradingView",
+   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaExXUVRDRlRRWkRmRVJyXzMxUW9VMWFKandBVGRjSnEyS052Q2JTcDFFaXVHS3FSUTlKQ3RTR2JmVFBUbVI2SE9EUllIU2gzUWtwcjNOR2gtbFRucUhqTVBIRHNyZDU1Vi14cUpTYnRLWUQ1QTVLZFlCc0FKN0ctU00zUE1RT2hwT21XRFlEQl9GUWxGdWc0dEFIWlhlcXFiT1pjV1lHQzZwZkNIQ09nX1RkSFM0Y1VJV0NheVZIWUZPTlRxOXEyWmtNX0lWZTBHX0R3QjRVN3Q?oc=5",
+   "published": "2026-11-16T12:02:02Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3b10550e45e26e42",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Announces Positive Topline Results from Phase 3 APPROACH Study evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder - Mon, 11/16/2026 - 07:00 - Helus Pharma",
@@ -4741,6 +5071,17 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSzZsdDBJUE9CSmpfTFo5SEE2QjZCdzdId3FpNGF1SUU3TnFxcHU5T0tXMUcwQTdNWFY1TWhSSURrRGJZNHpQWnlyY1VZTVRkN3ZDc0VtOXZGb0E4X3R3b1h3WkM5UjdyN1Q2N28taEVtdUZnaWIxVmJDXzhicjQwLWZNUVNNazdILUdjZENRU0ZBNmxZcWVFR0k1WDdRVU9qZjNvUFI5ZnlPR1pESTl5aXpuQnFzTTFKcjFBUWE3WC15N0JTR2dtcUxn?oc=5",
    "published": "2026-11-16T11:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c0476f71ebee57de",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Reports Second Quarter Fiscal 2027 Financial Results and Recent Business Highlights - GlobeNewswire",
+   "summary": "Helus Pharma Reports Second Quarter Fiscal 2027 Financial Results and Recent Business Highlights GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMG5oM0dSamZHdTQ5bnFHSlRFQ0xMRThPbGJVTnhNQTZ5WV8wZDgxUjQyWnExUFo1MUhNYXQxT25nU3M3U2E1b2p4N1BVcTFUemRtUV8wUzg0LWc4MVQ1UjNVUWVtQjlpZDFLa3NXZ2FMVHBYVXl0TFZiVDFtQzRwaEt2QzJ2akpiSEx6RTFUX2ZqR0dXdXNtT0kxZE9SLTU2LTZpVXNVZjBHTEJDZzQyLXNQYlVIX0l0empGNTFyRUtnSG1OUkd4TVJWc1NUeFlHc0RDbG9KVFA3NGU0cmw4d1VNV0kwRWRTeTZuZG01QXdHN3FXWU9oT29tNXY?oc=5",
+   "published": "2026-11-16T11:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4972,6 +5313,28 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmRvYjBtcHVVWS1aY0pqZWZHMnBXOFJlSHFuQ2JsNDhCTGNPWC1Ua2tQTkJoNGVTdlBnbi1VSnRyR1ZtUF9TeE5abk1jUzdUcEtac3RIaHd4TVJnVUpsM2JSSF81WUpaX3kySXpQbDJYSGxBUXl5a3pOR1ZCWHJIVmc1OEl2TVlKNWFEODhTNFpkc1lYUy1hc0tFLWd6TmV6V1I3RVlMZ2xQbEU?oc=5",
    "published": "2026-11-15T19:36:27Z",
    "outlet": "Investing.com South Africa",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "050dce099e6edda5",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study... - Quantisnow",
+   "summary": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study... Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORnk0TWY4ZzBFZ3VkeThFTlMzOEIyVHVDQ3pDNWxGTUxlX3dTejlkbktyd3JrQTF5dnFaazlab01mZnF0aDJRbUE2ZmxFTkptUU10TDlCWGVweFZ6ZmNFZmsxSFNVNDdpVnRmcEktdnMzYzMtU09Sdi1Sc0MtQTBOZU5vMGx1MkFUVlM2ZmFsU2lmeXVabDZyMGhKaG1xR0NBUzMzQXpfcw?oc=5",
+   "published": "2026-11-15T17:57:11Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ed173122ad4f8ad7",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to present Phase 3 depression trial results Monday - Investing.com",
+   "summary": "Helus Pharma to present Phase 3 depression trial results Monday Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVd6STRoWEJ5elRjd3VBLUMtOVBrd1RFSEJrMzBJTjJyZGdkRkZhY0xMbnQ4SEFDQXJRMndlTzViemVrY0FVczBDTUw0aHlMLXk0S19jYlBtQTN2enVCRllIZ01CT1RHTXFUWGctU2I2elN6UXBrV0NyZXk3dUxsa3dfdGtNVHNGVDl4ZnpVdURIVTl1T1pEVkFFN2pBaTBMaGZBQUJ6VW9GSWRDLUk1anBINWF4dHpjUzZ4eQ?oc=5",
+   "published": "2026-11-15T17:13:31Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6065,6 +6428,28 @@
    "first_seen": null
   },
   {
+   "id": "e6b433c0f220cec4",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma (HELP) Could Be 78% Below Fair Value After Conference Spotlight - Yahoo Finance",
+   "summary": "Helus Pharma (HELP) Could Be 78% Below Fair Value After Conference Spotlight Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEJyTzZwV3huenhmeUxrV0RyajIzSDZCYTZsNDRLVmVKXzJ5QXIxMEdFV1lpTFUxMU9SUU9FX1BDZTV3RERqR3NBLW55SGN1Q3BYVGoyWVZBUjV6cl9VTnVMdWxzQ2FFeVJVdGt5dFgzc2dVTG41dFYyank2a2hzelhYRjhkYmZPZ3pLVTFWOFY?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "015fc2960c3a30a5",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Psychedelic pioneer Compass files for FDA approval as rivals close in - Drug Discovery & Development",
+   "summary": "Psychedelic pioneer Compass files for FDA approval as rivals close in Drug Discovery & Development",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcU55OVY1SFNQSmtsSElTZ3BpcWFnNkg4eEFuajlHcnFaSzJBZTdJYW05XzZmckdLc0tCbW9LMUt3WmV2cV9uVUxDeFZGaUMzelY2NXlpWDVVNmFLLVZsUU9Hc0YwYkppNlJOZWlXM01lcWNyaXdJYkZLVEtoX2VNTUlzcFNEd2VOX0E4NFZ4cGxWZmJidG9jQkdISWdBYUJ0U1dsOU5JZ1h5Zw?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Drug Discovery & Development",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "083da40444df5bba",
    "company": "Xenon Pharmaceuticals",
    "title": "Form 8-K for Xenon Pharmaceuticals INC filed 11/09/2026 - Xenon Pharmaceuticals Inc.",
@@ -6556,6 +6941,17 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2hqTmxnM1U4Vm5nS1N6LXdwajdKTEJnOGRMNTVMTkk2T1ZwRDV4QW5JTkREZFNmdmgtdWpSTUhSOFpNNkR4LTFaUVZ3VVpYNnNXTlVHOFVZTlVXWTZuUDBWemJIdHZJeG9JSUZVaE5FdUpiMVNPVTQ2UDVnZHlnZ0c3UE1RZDjSAYcBQVVfeXFMTk9oak5sZzNVOFZuZ0tTei13cGo3SkxCZzhkTDU1TE5JNk9WcEQ1eEFuSU5ERGRTZnZoLXVqUk1IUjhaTTZEeC0xWlFWd1VaWDZzV05VRzhVWU5VV1k2blAwVnpiSHR2SXhvSUlGVWhORXVKYjFTT1U0NlA1Z2R5Z2dHN1BNUWQ4?oc=5",
    "published": "2026-11-09T08:00:00Z",
    "outlet": "AlphaStreet",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "54f4912ad550de55",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin Expects Key Phase III Depression Trial Results This Quarter - Yahoo Finance",
+   "summary": "Cybin Expects Key Phase III Depression Trial Results This Quarter Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTdkU2prZC1ESEc4ZWN2VGNyTTM3TW10cW9DM2NOTmNxQnVDeU92c0luZk9SNUY3b3dqcXd5Z0FkZ1Fta2k4LUJXRFJhUTl0VE56T3R3bld1dklRbXZLSzd5UktLazBNWlRRYUtwYjlnN0dBQVFaeTdKY0gtd3RxRjlQd1pyTVpMWjFmSjZUUWh0Zw?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10916,6 +11312,17 @@
    "first_seen": null
   },
   {
+   "id": "f5ba7eba33761456",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Corporate Presentation - Helus Pharma",
+   "summary": "Corporate Presentation Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5N1pZZDZwbjZMN01aLWtWNkRTM1N6VUxVelZobkFEc3FDSE44Wm9DVnJ6V1hwZEVPcU4zRTJoSmxVSGlxRmhwSkdJNjg1R3dOVzhUclY0WVd4b2RpRVZLdWJQSmt5cEpDR1J5TkptZlJjbWdLNVRLRC13?oc=5",
+   "published": "2026-10-14T07:00:00Z",
+   "outlet": "Helus Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7bb3beedf9d876a7",
    "company": "Seaport Therapeutics",
    "title": "Population Pharmacokinetic Modeling of Oral GlyphAllo in Healthy Volunteers Strengthens Evidence for Lymphatic Absorption of Glyph Prodrugs",
@@ -13083,6 +13490,17 @@
    "first_seen": null
   },
   {
+   "id": "fe91b3ac08d089bf",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "What Eli Lilly’s psychedelic investment could mean for the emerging field - Healthcare Brew",
+   "summary": "What Eli Lilly’s psychedelic investment could mean for the emerging field Healthcare Brew",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGcwSGFwRGNMUE9NNE5aWnBsSnhENXdIaHNqRDJvMVBYT3FnbmRhNGs1RmpERmxoQkNaV0R2eVZVRHpKZExmMnZxblNQN0t1ZnlvbF9mSXNHcTV1ZF9DaVo5djdaUGo2S1VNVGtseWVzbWpEemhsSWRRVHBSUElPdW9oeWdVNFp2S3dvVGd0YTBRZnF2eXFRSDhha3MtZXpTcVczMGRLdl96SlpYVGt2azRR?oc=5",
+   "published": "2026-09-24T07:00:00Z",
+   "outlet": "Healthcare Brew",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7de0d80ad027e5b6",
    "company": "Otsuka",
    "title": "Otsuka Presents New Phase 3b Results for SIMTRIYO® (centanafadine) Highlighting Consistent Improvements Across ADHD Symptoms, Anxiety, and Associated Features in Adults with ADHD and Comorbid Anxiety Disorders at Psych Congress 2026",
@@ -13464,6 +13882,17 @@
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb092c3VhTk9vTGxuei1Sb2ZfVzdLdG1JY1BrSEpMa1Qwa2ZxdWp5RWdYaWZGbXZNeHNTTXBSNjBuUzlWcFNONF8zSVhHM3hEQXMwYjhOSkJ2a2ZBMkhzUy1ob29qMXpMcEdObHdLNnhWenZxUW5aUjdKREV6YmlQeDY2Z3J4T1hHaEpMTGJRUEhzeHJJUUNpYlluUHZiNkFQMW1tWk5LaXhaSjZ6RjhHS0RFSmVIZlpLa2dxSzF1bWIxeERBY0Y4U2xLU0FjRU9JeVpTSHl4VmFmXzR5S1J5OEhaaHRJMmhtMzVnaUI1Y3E5dw?oc=5",
    "published": "2026-09-22T07:00:00Z",
    "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4501f709b09da801",
+   "company": "Xenon Pharmaceuticals",
+   "title": "XENE Investors Have Opportunity to Join Xenon Pharmaceuticals Inc. Fraud Investigation with SBS Law - Business Wire",
+   "summary": "XENE Investors Have Opportunity to Join Xenon Pharmaceuticals Inc. Fraud Investigation with SBS Law Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNWNLS18yWHBXX1k5Ymp0YU1RNDdKenRTdUxRMmNKX2RKY3NhclJldWZCNW5SMlRGSDR6ZEk0RUpBV1MtSlRmcFpTSHZFNFlIaVU4Q191azNGZDVXc3E5M1pTMmNFOUZDZUlReTFueFFseEJydDNPZGxMc3hONGJ2THd1aHFqRTdEV2s4UFJtWWYySnNoVFhXcG5kT195TlRfOVZiVFRTNFpsaWFucG5weVBQSzJpQkVrWkJRWnBaUHRqZUg4X3pPQWtCWHItLWp6TmwzTmNRU2hkcFZ6aWRubzYyaFV0bU1jUTdxcw?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "Business Wire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14700,6 +15129,39 @@
    "first_seen": null
   },
   {
+   "id": "ec17e91c74e8e0b2",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly completes acquisition of AtaiBeckley, initiates delisting from Nasdaq - Investing.com",
+   "summary": "Eli Lilly completes acquisition of AtaiBeckley, initiates delisting from Nasdaq Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaElqU2ZtWWJOYkJRZEk3U1BUb2NXdlFZTF80cGZNeHNiN0M5bVpPVkdyNFIzSWFRSS12VF9NRHNrcmxDd3FlX1V6Z1VLcHhIYjRDdU1xaDh2MWpSYzdQVWhxUTVFdzJ5OURCWWItS243NWplNC1ZR0lSMmhOYnktV2prRkY2aFdNVlpvTTJVdGthY085UkwyMjhKcHRnamZObUtiTEV1bkt1Wk1fTzFfMHhFX2dUNWFSdFBiMGpfTVgzNzZsQVp5WHZvS0k0OUE?oc=5",
+   "published": "2026-09-11T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2ea01e544d9f7fe8",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Lilly completes acquisition of AtaiBeckley for mental health drugs - Investing.com",
+   "summary": "Lilly completes acquisition of AtaiBeckley for mental health drugs Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS2JtdWhNeVdKWkNkdlVtNnI5aVJVbTJhTDVfSmN6ZTRwNk5xWExNYjI3b3UzN0tJNG9paVRhNGdYd0NpRkJEVVJncHNGMjYxaVIzYjZENGZycGRNOWF0dmJ6Nld1ay1VU2U4NjBDb3FBdUw3ODdId0RqQnpTYzVKU3F2R2pNUUlVOUdnOWFwbmVzaEtFR2c4Wng2LWNLeWd0Ukt4SnpyMktaZUhkd1pNNWtxMllqSEEzbU9YbkFjX3Y?oc=5",
+   "published": "2026-09-11T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4abd2b2048e163d8",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Lilly Completes AtaiBeckley Acquisition to Expand Mental Health Pipeline - citybiz",
+   "summary": "Lilly Completes AtaiBeckley Acquisition to Expand Mental Health Pipeline citybiz",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORDMwMnU2cy0wWnkwV2ZaVFRFZ2tSV1JFa0RtZkJyUW5BcU1wUVN0T0piMlVPbXRaTWx2MThFZjFDVmFyMVl0ZGJNN0NWY0QzLWtOcUJEc2duRV9WSXdPeHJweG85RDdVZXYzMEh0VkRtd1FTaHQ4R2ktMzVFYWctS3pUVzBYYy1ILWI2Y1JmVkV5MGZSbjVJVFF2WkdDbGo5ZEJBUkFKdlczWW5VRDFPQw?oc=5",
+   "published": "2026-09-11T07:00:00Z",
+   "outlet": "citybiz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "9fc5170d02e7bc2f",
    "company": "Neuron23",
    "title": "List of Investments by The Michael J. Fox Foundation (Sep, 2026) - Tracxn",
@@ -14850,6 +15312,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVBoajkzeXFLVUlNSjExZ3dobnQ2T2hScDR6MFMyeWJjY1oyOVRxeVdsZUkyU3o1bHctczZraGV1VHQ2ekpITGg5RGtkcEVpazhpem5xYnRfZlRwVHl1M0RCT2JBVk42cnpiWEpXY0duMC1pdzhVWU1POEJFcmN4Z3dkT3BlaHY5ek8zZ0ViMEpScnhROVZUX3k5MUtjMG9STG5HSXlKSHp3YUU?oc=5",
    "published": "2026-09-10T07:00:00Z",
    "outlet": "Pluang",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8e1f06baf51aef1b",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Why Is AtaiBeckley Inc (ATAI) Up 0.8% Since Last Earnings Report? - Yahoo Finance",
+   "summary": "Why Is AtaiBeckley Inc (ATAI) Up 0.8% Since Last Earnings Report? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkZYeVkxdGo5UURxU0U1Vkd2RG5UMVdSWmlrVWhIREZ4LW5kWXhiVGc2YTFoVXpfTTNPVjRxQjNmYm1PQXBpLW90Q3g5VEJhSXZkUzZzS3dMNzVnZU04V0NiZzVRRnk2RDdGLTVOQ014bE5mQjgyMjZTOHByLXlKNmhHcThaaEsxS3NkLUs0TmpwbG9wX3c?oc=5",
+   "published": "2026-09-10T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15664,6 +16137,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcTRwQkJOdnVIT2ZHS2RjQXdITTcwRzlKY2pjcWlkWnJtWTQzVVhLMDB2ZGVzdkJZWEt2bHFjMzIyOGZaWnd5OHVuWFFaQ3ZoMkc5YVFJZmJ2cGxuQnpwWUhVMHZjUXExazN4Y3pidU5NTTE3X0tqOXdRQzBsNEFxUUwyX1N6NzFnTUpNSThCNkozRDhPeXI4dGhGN0JILVJSSVpyODJWUHBYek0?oc=5",
    "published": "2026-08-28T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "905389c4bd63f806",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of AtaiBeckley Inc. - ATAI - Morningstar",
+   "summary": "AtaiBeckley Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of AtaiBeckley Inc. - ATAI Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNa0N3RFpPZzE2ckZhakFZT1c5dElBMmdJdnU5bFNHc2hScC1QMFRmS3l5azNsVEhycE1FLWxUWldpV1EyM25LRUJUVzFNb2RTNHQtdUcxLUxfNXl3ajZiRk1jV2RXYnREUEpOWnE1Xy1Tck5VckV2RlVRelA3VWpfQ1VjMHp6TUdLdG9kWmoyek5jZ1JRc0RMWWVpSHY0Nk92UEdLeC1ZY1haNWgzWkc2cDR5Y01zaWpQR254d1hMLVF3c2xzZlZSX1dJeVE1SUFmR3dleHF3STZsWk81QU9WX3U1X1dZOWZlR2NWV1dWMnQ5RVRkOENGNDdzbURqSjZuX1hUUjNYSGJQUU1UVVdadkVQSDVfLXFNQTMw?oc=5",
+   "published": "2026-08-28T07:00:00Z",
+   "outlet": "Morningstar",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17659,6 +18143,28 @@
    "first_seen": null
   },
   {
+   "id": "22b51a11fcdc341f",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Wall Street Analysts Predict a 31.48% Upside in AtaiBeckley Inc (ATAI): Here's What You Should Know - Yahoo Finance",
+   "summary": "Wall Street Analysts Predict a 31.48% Upside in AtaiBeckley Inc (ATAI): Here's What You Should Know Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTltMGloU3p3UjZmQ2E5VUtwWEdkaC1keVF0eHhLU2VyczZpNEZ0N1M3OXFfMktQUGhmcHplczd3QXdRVE5SQlNMTFhpRlIxOXhUZzdpWXBVWTNWWUwxOGVyR093elBhYmZOdmlpaldiNWVYaWQzT1A4OEJzSVlvTFlLdGtZRUJRVVRZbnpVaHlIUFl3a0ROcW43aWE?oc=5",
+   "published": "2026-08-07T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "55a8c3c551765b19",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Pα+ Psychedelic Bulletin #229: SAMHSA Convenes Experts; AtaiBeckley’s Road to Lilly; Turnbull Doubles Down on BOL-148; Compass Talks Indication Expansion, Could VA Help? - Psychedelic Alpha",
+   "summary": "Pα+ Psychedelic Bulletin #229: SAMHSA Convenes Experts; AtaiBeckley’s Road to Lilly; Turnbull Doubles Down on BOL-148; Compass Talks Indication Expansion, Could VA Help? Psychedelic Alpha",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOQ0k0NGdiczRBM3YxU0poeFFyNjdmRmMwWVE0T2Z5SWgyNGcyMDg5ZDVKOU5tLWNKQVVWcVQ2d1JUdC1IR2hVQ1ZCWG1ESFczOXU5bUpTVElPVVdUcGhjMlU0NHdUaTVUYkNWYXRjaFRwVHc4ZXlSbnFMMDZhYW12ZlYxaE51emNlam1iZFZ5bmdmRmVTSl9vWm9rWDN2OEpqZ0pkd1R3S3Y3cWU5TTY2RGx0OG9jblRabU15dmVvSmpBWFVISmpWajFrNUhZSXQ2QnVJem94S1YxZV83WEktbTBaVzA2TzJ4OWtzTXdyU3NUeEpDQ1NlTER1TVYyYmJCTEtTU3VMeE4zUzNGNG5lNnNhZU1QUDlHdVN0cm8xSFNIWnNlWDhR?oc=5",
+   "published": "2026-08-07T07:00:00Z",
+   "outlet": "Psychedelic Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fd01631d56bf0012",
    "company": "Denali Therapeutics",
    "title": "Denali Therapeutics Reports Second Quarter 2026 Financial Results and Business Highlights - Denali Therapeutics",
@@ -19430,6 +19936,17 @@
    "first_seen": null
   },
   {
+   "id": "dc1f1b77bc59a1fa",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "How Much Upside is Left in AtaiBeckley Inc (ATAI)? Wall Street Analysts Think 33.33% - Yahoo Finance",
+   "summary": "How Much Upside is Left in AtaiBeckley Inc (ATAI)? Wall Street Analysts Think 33.33% Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclkta1hJellyd2RSRGtZM1h6YzV1ZlNYUFhxUGFNczV5Q3ZlLXVoUm9vX0xER1h0TWdwaWoyeWQ2VWxENDdWNGNlWk5BNjJRRkdoNkFBMU8wT3dDT0FfUzRCNC1sZjlCLVo1VzY0VjdkTVNadjZiakdxU2VrVmpfQklXZk5zRnltbWNfVW42X0xlT0xTb0pFUi13RTJ3dw?oc=5",
+   "published": "2026-07-22T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f887216f0085893d",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Appoints Samir Siddhanti Chief Business Officer - neurocrine.gcs-web.com",
@@ -19562,6 +20079,17 @@
    "first_seen": null
   },
   {
+   "id": "0b525e4b1380d0d4",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly bets $2.8bn on AtaiBeckley’s psychedelic therapies for depression - European Pharmaceutical Review",
+   "summary": "Eli Lilly bets $2.8bn on AtaiBeckley’s psychedelic therapies for depression European Pharmaceutical Review",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcTl0UDljWmVsNEU1SmpCRGZVbXdfWDFZOGpxSHZ4Q1k1Zm1VUjBRWkZldlotNGpJdGxGdkxhM1VMQW85Y0tVWW1LNkUxbTlvbVZadkZXYnVVa1BUc2hhMFRYV0ptU0xPWUg2VGczSjEtaTZxa1AwV2V1VjhnU0hNSGFIT1FvMF9xU3J4VUozWkpZdG51NjVrR09CaGZSVWRqNzNOZ3FMVE5rYlpVTjg4Sk1fZUUtRnhiNGxnaUtFM21DSTV0WTB2Ny1lVUU3Zw?oc=5",
+   "published": "2026-07-20T07:00:00Z",
+   "outlet": "European Pharmaceutical Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fbad692909861c63",
    "company": "Newronika",
    "title": "Newronika, the report on TG1 Medicina - Newronika",
@@ -19613,6 +20141,17 @@
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQjZJZUM1dFpWb3ZTdFFhS2ZqdnMtREVYUUozOEUyVmNRSWhzVVVhSUhyNlg0TVUtQnNGek5KX29GZ2VYcmxHaDRnM0NDT2xoMnlmRzVuQ1hzMy1NLUZaLXpRMTBwY2czU2pIaVk4WHV0VXA1OGRVNG5PUFlZSkhhMXN6cXk3TTlJYmVkRkxzamJud1RIRjBiMXVZdVVIOEs5UmhUZUtHUTNJRTlpWGZmVW9VRXFXbkx4dkJINHhPTEE1Zk9QSWloVU5lVHFiR1BCYThNUm9XQURvRlZ0QlY1Z1dpWUVpVTVSbFNfZVd3Q2V6bVhZTW1sMFBfbjdiSXM?oc=5",
    "published": "2026-07-19T07:00:00Z",
    "outlet": "Genetic Engineering and Biotechnology News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "68093e2156a2d3eb",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "The market for psychedelic drugs to treat mental health conditions gets a big buy signal - CNBC",
+   "summary": "The market for psychedelic drugs to treat mental health conditions gets a big buy signal CNBC",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LcVI2T2tZZk1ZOXJrMV9Ed19SeXNaMkhBbWRkaVVzR1gtVGk5dHpmSFBISzNrc3Z0QUNuZ09WYWZZSklkdnhaWFVoZWVELWUtWlkxU1pieEdVcTR0UjlsVE55dm1QVWYzRUZhcFVOSFk4bGszS2lZ0gF8QVVfeXFMTlBqd3lvQXVjbl9Ta2lMaFNkUmZ5ek96bjY3QlB6bzZDa2hLMlAwNUkwOGM4Z0hpeUtjd0NEZkwzNHZ5eDNGaGd5c29ZM2F3S0RxUHgyTG9pRWpTMWxaOFdidjYwSURJbGxOMTVwWmxzUWYwSEozMVJZZkZMbg?oc=5",
+   "published": "2026-07-19T07:00:00Z",
+   "outlet": "CNBC",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20266,6 +20805,215 @@
    "first_seen": null
   },
   {
+   "id": "898ced2b87c2df9a",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Lilly makes up to $3.8B psychedelics play in AtaiBeckley takeover - BioSpace",
+   "summary": "Lilly makes up to $3.8B psychedelics play in AtaiBeckley takeover BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnVaTFVZRVAzbW1mRVU2TFdZbWo2SndlRURvZ0JmWDJnUGhfU1Jub2ZlTVNDdTdaTVRnODNEZHRGcEVZRE5ZeDRXam1hUXhjTk9vWmN1ajYtMjdFVmdjSE1KQWpHZkZ6aEk0YjlLa0pfYlluR3owS1RONE1YWVdkQUlBT2IyaXp2QjRFZ0U1SEpGUzd1bXBUX1FEOA?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "833c66ddf8348a3a",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Why AtaiBeckley Stock Soared Today - Yahoo Finance",
+   "summary": "Why AtaiBeckley Stock Soared Today Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMGtVeEhrOE1YNTlfei02Y1RlQnMwZElGaDNrUVNiY1ZVM3I1bVJYeG80WDdyT0hKT2RFS0k1REM3bWhKeDM4VUpmWktWN0ZBVkVrVW5oZDA1cGlKQ0tKQ1h0dkV4RHh3b3o2cHdjaXJlYUNybFAxNnprWVF5TFZHYlhZcW5oY0ZnMjVxazZrYVBNZDhCd2ZUM3RONA?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "262cffb5e3d78e76",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Stock Market Today, July 16: AtaiBeckley Surges on Eli Lilly Acquisition Worth Up To $3.8 Billion - The Motley Fool",
+   "summary": "Stock Market Today, July 16: AtaiBeckley Surges on Eli Lilly Acquisition Worth Up To $3.8 Billion The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOME5Ra3JkNjVEUEs3NU5vdXJrOC1Ea0h1VnpKUXVxSVZpX1J0OWF1UnRNY3plV1VyNEN1Q01RaEI3NmlIV0xhSktDYUs2MHlKUjdXMzRyZXZ5N1BWN1djT0hsV0pNVlR0aGhMakNGSHFFdVVvd0dINy03d2I4OGpWM2h4Y1Rwd202TklVTGtEdGYxSUxhQmlGM2RTeU4tV0RxbkI3UlpkVVdUamF4QTU3TGE1SFp5bEpMMzFUbTVLX0RKWUc2ZXFMa25nemJ2QmowZ21tVFpFS1U5a1lXd1QteEJDaS1JREZ5VTJOMFowMA?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "The Motley Fool",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "53d7b5d323e03b07",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Lilly to Acquire AtaiBeckley - Contract Pharma",
+   "summary": "Lilly to Acquire AtaiBeckley Contract Pharma",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ia29mRUhTVTlEa1l4YlJnYjFMSE1pOC1GR2czTFBzd3doYXMzNHBVNi0zVzEtYWQxMDBhTjg0NklBd1MwY0k5eTNOXzNJUk43X1FFNG9KcFVUSU5rVi1obmZXMWk4TzNXcVBMVFFsS0x1WHBZeWZveWlPT0J0cUU?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Contract Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b829f03b26c8df57",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Lilly enters psychedelic drug race with up to $3.8 billion AtaiBeckley deal - Yahoo Finance",
+   "summary": "Lilly enters psychedelic drug race with up to $3.8 billion AtaiBeckley deal Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajU3UC1QTmFtZ25yckZ1Qm00dnBJdnN3VlJMS3VMTmx4cENTXy1pRXBMNjBycGRTWDIyVWhRZThVY0FnVHdSOWtMYTI1T2pyWWpFYWhTTDlUMk1UbjQ4VXlQZU5LVHVyX1pkcTM3aDlIOFctM2I4alBKaVlzRGRBMi1WeWhIZjBOVUZxaGVHMTQ5S3JQOWlEdkxqSQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "729e9b281b69082e",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly is acquiring psychedelic drug developer AtaiBeckley for $3.8 billion - Yahoo Finance",
+   "summary": "Eli Lilly is acquiring psychedelic drug developer AtaiBeckley for $3.8 billion Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYUtEUHNGQkZDelh0V0V1Ty1OS3BWb3pxeGMzejdzNHV3LXl6dGtDX3dVQ3ZqME5sU3VOYS1aQmNXU25BYWNQVUJmc0N4SVBYVUIySHJ1ZnhXS2NtVDM3R0VyTXZMSzBhNTdIMmY3TlJPcHFabzhuTDVCSkNYbDZvei1uTlRLYTlLelpZ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5d99b888cb325194",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Why AtaiBeckley Stock Soared Today - The Motley Fool",
+   "summary": "Why AtaiBeckley Stock Soared Today The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU3BPSWtWTGQ4VWtKVVhTYS1sODFaUm9FOXdNVFNnV01qZW5uVkczajdGbVdYTUxxaVhXSmJOb2RkS1ZyaGFnTTQzVldlTml1MkRVVC03dWtMRFZ5U09pczFidFB6QmRUYmlvSnNvc0JpMjBHYVBGTjlnNEJjS0pPdmd3?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "The Motley Fool",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "31a855edd79eefaf",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly agrees to $3.8B psychedelic buy - Axios",
+   "summary": "Eli Lilly agrees to $3.8B psychedelic buy Axios",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSV3dhMmlndzJsc3V1bEhVN2lja2N5enVqcklHMjVBSjZ4dHdqaFBiaDBYcngxUlc5RzF6dlBBNGVKNWpVY2JLOThsMnVOa2h5SGsyc05RRGJlNnpSc1lBQmpqMU5SYnJBNXJoT2FuVE1LNi1WRElrYU53?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Axios",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0d9d104ad9237b5f",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly to acquire psychedelics-focused biotech AtaiBeckley - STAT",
+   "summary": "Eli Lilly to acquire psychedelics-focused biotech AtaiBeckley STAT",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNk5HNUhEYTRfMjZVZUNnTFpKeXF2eGJXTGw1ME1ia0pBZ3dpdWNVbTBMWjhoQ3BnV2NoRXotVzhPSDl5VkxBemwwcjVJVTZlN2tzaTh0T0tFNlpqcGptX0xkVFlEX2dVMmlzdHhQbEIxMk42TG9FWlFuMzlkWktEVjk3NFppd1lOVEVqQWFVeTc4T3NP?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "STAT",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5a51ee2d61cabfa1",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Lilly Said to Near Deal for Psychedelic Drugmaker AtaiBeckley - Bloomberg.com",
+   "summary": "Lilly Said to Near Deal for Psychedelic Drugmaker AtaiBeckley Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1NEbmhORl9JUHljTHlqdHRhbGl0MUNfM3k3b0ZSbThGekZ5TTlvN1k2dVZvY3JncnlEQ0UyWVJIQUN5eVNmRUZFTHhJSEE1a2Q4enRzeVBlNmhfS2h3bmtSRDk3eE5FVXdGdXcwQ3hSd2g0cE1ZYVl6Mkwydm5ycXA0NGJwcV9TQi1Sd1RNNHgwRWZGRk1VZGY3V0JheEpWWkQ0YkRENGFveTFMc1Uwb1dB?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "093627d9b3873273",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Breaking: World’s Largest Pharmaceutical Company, Eli Lilly, Acquires 5-MeO-DMT Developer AtaiBeckley for Up to $3.8 billion - Psychedelic Alpha",
+   "summary": "Breaking: World’s Largest Pharmaceutical Company, Eli Lilly, Acquires 5-MeO-DMT Developer AtaiBeckley for Up to $3.8 billion Psychedelic Alpha",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYkRrMm8ybVdETmRwOVFnbktWVTJnOW5JN1BDdWtRUXNUbXdPdm1waDlPT1dmNWFzc2c0RTBaTFRNYmJyeXdZZk81VEZ3RTBFZlg4MmM4Q2c1czlHV1JNbURLNXpZUmdRaVVvd2V1dXk1UjBZWFVETzVXbnpmWjR0NW5YVk14WVh4b2FQQkNURnNaajJwdk1QYjd0THpuejVEaldBV0RGMTFpUjlPUzRtbzhXUTJuZzN6UjhPQXFlUkdUbWJncHRJWkZHZWhPYXhGdlZpUXhNRER0eWpwUTRONnJQOUJaSFhsSmc?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Psychedelic Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f1f4a6a07d0980bf",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Watch Lilly Buys Psychedelic Drugmaker AtaiBeckley for $3.8 Billion - Bloomberg.com",
+   "summary": "Watch Lilly Buys Psychedelic Drugmaker AtaiBeckley for $3.8 Billion Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUZuNWZqOU9YVVc0ZG1sQnNETlpVLUhGTTVtb2ZNX1RoLXRWT3RLQWczX0tGUjdxQzhkT0RHNGs5dXBvNUl5OEhpQjN3TWRKckp3RGhNWGhYSkc0UE5qVTZfYmJXdWpZbmlNTVIxc3E3Z2VNNHVBeGlhNUdrekEwbXVKRUJUM2JUTmE5YjFETk9aal92dkJPYkl6NUNQYTNLdEVGa1R2V3BJQnJn?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fe953689b7be11c2",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Lilly to buy psychedelic-drug firm AtaiBeckley - Chemical & Engineering News",
+   "summary": "Lilly to buy psychedelic-drug firm AtaiBeckley Chemical & Engineering News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGctaWF1dFE5MlV3blRZUXNlWmduRkVZMUdrLUREc3dfNEc5LWJ2VGRBa2dfNUZFdjVNT2tlSThZNnZfRVFRZWFXU01kZkhFdUhGRGg5WXhrUlY2XzFBN0dBYm5McDIzZW9YTWVfNnlxal93TW13Vno0dXkxZlM0bi1CSnZ6OGc0NW4tQ0tkYXRhaWN3dWJQaHN5U1N1aFhnTTAzV2FOQ1dRNWtoXzE0Yg?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Chemical & Engineering News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ef268d2ec588de2a",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley surges after report Lilly poised to buy psychedelic drug developer - Yahoo Finance",
+   "summary": "AtaiBeckley surges after report Lilly poised to buy psychedelic drug developer Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUTA5Nktwbk9qNnRtaHhtNWE4MkpJMWRTRzdfY2c3QWdtYXM2V0pIVVo3VFlxNFQzdnM0QVB5bVMzNGpMdHRQLTBpV2JFTTJwSDNLSUtEX0RlaVQtOFhrSE9GMWtSdFktZlJzeVkzd1cwcGYxS2Q2VTBUaDdKM2RqZzJqdGE0TGVDbG11dXBGZVlGUElHbjdIc09SRU5IS2R4?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "44d44508f4dd831d",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley: 'Hold'; Eli Lilly Acquisition For $2.8 Billion Adds To Its Neuroscience Pipeline - Seeking Alpha",
+   "summary": "AtaiBeckley: 'Hold'; Eli Lilly Acquisition For $2.8 Billion Adds To Its Neuroscience Pipeline Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRzhoZ1BtRUpkNEtnbWJVdEtKWEg4U18wWXU2d0d3d3haeTVoX2xCT0RaMkVGTU5HU01oeC04TkxiSmZ4Z05qR25jZUtGdEtGWEU1VGRlc0pBSENWYU9xSXpZUUYteEt2Wno4Z3ZCVXBZTUp2MHVWN28zUllNYVM0RDhVTDcxVGZMTFNRRUhVbkNmUVk5bUpkMEZWcE1HdG1aWFFjbGU2OWdJd0d1TnhCSEJsSURwTG14RTVDUXBWbHV0QQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8dcdcdcbf6712249",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Lilly buys into psychedelics with $3.8bn AtaiBeckley deal - pharmaphorum",
+   "summary": "Lilly buys into psychedelics with $3.8bn AtaiBeckley deal pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdjVsMXFWOU91YVNhWG0yR2xCcUJSZ09JUnI0S0hnc2pVNGd5aVVMU3R4RVBrSGZYcVFBNXhOQlU3YjI0M1lKSlFvQnVVT0wyWVE5N2RDZVh5eVlqOEl3S01PQkdxcVZFbS1ubTRWSTk5QjIyeEVBTzBDN0g0TG42eA?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3649f2093b2ad69c",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly Is Buying AtaiBeckley in $2.8 Billion Deal. What It Means for LLY Stock - Yahoo Finance",
+   "summary": "Eli Lilly Is Buying AtaiBeckley in $2.8 Billion Deal. What It Means for LLY Stock Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd0pUNkoyMUV3UURVcUdnNklmS0VFenZhZ0ZBYXlMQUhpaEVSQW1OOURma09rb0JmUElPR3AwdzVrSlhUd1lGd3lqZG9xUHZiSWV6SVFST1pKcmZQVzdLaVRqbFdBcGk1MEdkdmNDazVmNVBNSThuMnlBZ2pTR3VpQ3FNaF82S2Z4Q3VpZGgtbnpWdnZERkE?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "000d708ab0edf76a",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "How Lilly's AtaiBeckley Deal Accelerates Psychedelic Drug Commercialization Push - Pharmaceutical Commerce",
+   "summary": "How Lilly's AtaiBeckley Deal Accelerates Psychedelic Drug Commercialization Push Pharmaceutical Commerce",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbXJWZWZIcDBMcGhXT1l4VGxqdGFyTzlLYzVNY3QyalppYlg0Y1pHT0lBR1psWmQ5ekMzX0F4SmtaQWJ4Tk5tUlhQeTlpQzRJM1BxUG54aDVDb21YWk9nSE9MSXB6ZXQzcDRndzZ6em9IZkV2UXRsOWdvVUU2bDY0SWR0VHhLWjhwM0NpM3BCSnYxS3Y2NjV1UlMzNUl6RGdFMW5pVXBDajFjU0JGWHV4UTNTWnpidWRkV0RYVVVNN01Ndw?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Pharmaceutical Commerce",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2e02165d5ce9a84d",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley to be acquired by Eli Lilly in deal valued at up to $3.8 billion - Proactive financial news",
+   "summary": "AtaiBeckley to be acquired by Eli Lilly in deal valued at up to $3.8 billion Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmVvQzdZcFJWOVlzRm1RR0FybzFCNEVqaVhHWlkycFViOUxzZG1GakZTUEQtZnh5N1ZVWHlUY3BiakZ4d01sbG9KM0d6bWhTeXFmMnNvR1VWVHhva2RidDBJWDliWWxSQ1M0czNfMTFzZXluR280RVFpNV9CZ2FFZTJ3VTFCek05NmI5aXFHd21rQmpUUXdPOS1ZSy0zRGpZc1V0NW90LUgtUFFVTXU5YU1fQnBFWUI2SWtCRjRySnFYNVZYWkVLYUIwLUhONVBrVmZzbGVhYjVKbWl2YmFN?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6aaca477a3374ca9",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics Announces FDA Acceptance of New Drug Application for AXS-12 for the Treatment of Cataplexy in Narcolepsy - July 15, 2026 - axsometherapeuticsinc.gcs-web.com",
@@ -20541,6 +21289,17 @@
    "first_seen": null
   },
   {
+   "id": "e97b218331036a07",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "What This $496,000 Insider Sale at AtaiBeckley Means Amid Roughly 100% Stock Run - The Motley Fool",
+   "summary": "What This $496,000 Insider Sale at AtaiBeckley Means Amid Roughly 100% Stock Run The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZXBCSmNvU3EzQkhZZ2doOWhzOXkxUjBobC1td3Y1R05fNXczeGxBaG1KN3NQZEtQQnAzQi1udnFWRXd0dG5KWWhaeXVCR2R4TFdDSlBWYmkxZkJuUjZ5d2NBci1aSE5RU0M3eUJQVzUtTFJ2QnQxdUt4TzZHSTQ4bVJwMUlQb1pKb3F1NTR2N19YcW1kNGk4TXFDU3hPX2l0RmZ3NGhwSXhDV09qcEpaa20tdld5bXlVbXNXMjNYQXZVNHdYN2k4M3lLMA?oc=5",
+   "published": "2026-07-09T07:00:00Z",
+   "outlet": "The Motley Fool",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a35511c88e33ef1e",
    "company": "Alterity Therapeutics",
    "title": "FDA Confirms Single Phase 3 Trial Sufficient for ATH434 NDA in MSA - The Clinical Trial Vanguard",
@@ -20744,6 +21503,17 @@
    "title": "AtaiBeckley completes dosing in Phase 2b depression trial, expects topline data in Q4 - Yahoo Finance",
    "summary": "AtaiBeckley completes dosing in Phase 2b depression trial, expects topline data in Q4 Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeDlFYTZPMk85VFdOcTdXSlc3ZnctZkxSRXhyWkUwNHdZWTNDVFFQUXY3aU8xVTc0NkkwRkRXRW5TUFJ2eXRHUnB5ZlU1VUlPeDkzbzZ6UDZ3NXROcG9YcTRLUDNTYU9LajY5VlhDZ1JpTVg4aEI1bHY1VG5oekV0VXVtOFFzNmNPYmVkdUVuOHAwYmxRUVA1VWpzNkJCOUk?oc=5",
+   "published": "2026-07-06T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f27ace5f24be2745",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "What AtaiBeckley (ATAI)'s Elumina Last-Patient Dosed Milestone Means For Shareholders - Yahoo Finance",
+   "summary": "What AtaiBeckley (ATAI)'s Elumina Last-Patient Dosed Milestone Means For Shareholders Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLVczc3hsb05CcERkd2tKRHcyVmR3VmtTbElVSFlLOFNlZG9WTkNCNUpCRC16OFd6dmw4c2o2TDBsLS10alc0V2REQTMxZTNEYy1TaXgySGV3TXhFcjUyZ3BRME5FamR3bHlKUFBKV3NWRHlka0NRSjhRLUhPbXk2Sy15RFVxcGtDLTVTWWthZTZmazJqZnBLY0M4MnBHY2M?oc=5",
    "published": "2026-07-06T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -21481,6 +22251,17 @@
    "title": "NRx Pharmaceuticals Responds to Recent Public Statements Regarding Kadima Dispute - Investing News Network",
    "summary": "NRx Pharmaceuticals Responds to Recent Public Statements Regarding Kadima Dispute Investing News Network",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaG1yek1DS0I4Z0VPN2pLZWl5UXI0OV9IWXA0dkJxMmxGeFpoSi1STnFHSWdsZnk4SE1Qc0ZqSnlHOXNDbkRZemxYZVMyYXJsd2MtSXdROFVRQVBVdUtqeUJiNTVQaHdYUnJmSG4xUU1fa0V0azNHc2RRRzdubDZvVVcydF9kN1k1ZXpkNElYcHJSLWVqSGlrLTBzVThuZS05ZjhJclVxOEN4ZnpO?oc=5",
+   "published": "2026-06-25T07:00:00Z",
+   "outlet": "Investing News Network",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c53f958d50a343bd",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley to Join the Russell Indexes, Expanding Visibility Across U.S. Equity Markets - Investing News Network",
+   "summary": "AtaiBeckley to Join the Russell Indexes, Expanding Visibility Across U.S. Equity Markets Investing News Network",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWxDWXduQmplOGpGaHdWTzRCLXpURE5rMGhzSFJZVXFDaEIyVmtjZ3pVTXMzRktVb2RLTXBPeU9mUzk3bFJGZXQ5U2ZncTZpM0tLUlp6eWJaOWxqVHRuOU9hQ242bUE0WDczX2RObDQ1TWNhUWxMWGo0X2RQRzFXNmpENXdDYS1vT3pQaDFwbUFBSWZzVlNHS0t2eWNPbWtiUFEzcVN4NTBZNEtvM1N3MF9fdw?oc=5",
    "published": "2026-06-25T07:00:00Z",
    "outlet": "Investing News Network",
    "method": "news search (newsroom not indexed)",
