@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T09:32:06Z",
+ "updated": "2026-11-22T10:23:58Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1709,6 +1709,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "f93617df170e31a9",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) stock historical prices and data - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (R7E0.DU) stock historical prices and data Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nT3FMRDE1Z0hCQVFiQzRNM29qYU9aWjloXzZNaUpXNW4tWXNzNHRpcmNyYU1HSlg5UE1hUDB6V3RGVG5BMXNGUmFvdmREVmljdzVSRlZhUU9QekE4Z3RBOQ?oc=5",
+   "published": "2026-11-21T14:06:11Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T10:23:58Z"
+  },
+  {
    "id": "8ea7ea82b3926d3d",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (R7E0.DU) analyst ratings, estimates and forecasts - Yahoo Finance UK",
@@ -2589,17 +2600,6 @@
    "first_seen": "2026-11-22T04:28:09Z"
   },
   {
-   "id": "23523c7b923cdeb9",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) stock price, news, quote and history - Yahoo Finance Singapore",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) stock price, news, quote and history Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52b0QycDJJcTExUU11YktNYmg3MnBFUFFjWUh3VFlfN2NkT3podjc5Q2NVR0JJaTZYbGk4YzVTZjhWUG0xTFljZEl0WjdOWTVOd3c?oc=5",
-   "published": "2026-11-19T20:57:59Z",
-   "outlet": "Yahoo Finance Singapore",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "4ca86f9ca7d8bc74",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Launches Ketamine Sales, Targets January Shipments - MyChesCo",
@@ -2809,6 +2809,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "a8c636d857b1a1bd",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "FDA Application Seeks Expanded Lumateperone Approval for Bipolar I Mania - HMP Global Learning Network",
+   "summary": "FDA Application Seeks Expanded Lumateperone Approval for Bipolar I Mania HMP Global Learning Network",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX09mRDV2dGkyemR6Z1pvbDM3N1RFTk1DdFFUalFMbTBDcnpzaktTUDlOZExQWkhJbVFzMjI1Tmlnd1NpYkU1YWFiSnBWSU1TZnlFSlBhS0dTNkpmeVdIVGhqM1VkdUxWUlZ0MFJwOU05Q2xVUzFiOU1GcjJDMHVFMVBkQks2dG5aTGhtUkVVTDlKc0stMmdLQ0EyUHVVekdYT3V6VnBvM3V4Ujg1NEhqSFFwOHRmVzRna0ZCR2MyazRxb1VQMWJlYg?oc=5",
+   "published": "2026-11-19T16:35:16Z",
+   "outlet": "HMP Global Learning Network",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T10:23:58Z"
+  },
+  {
    "id": "46b43d05ff1b6aed",
    "company": "Teva",
    "title": "TEVA Stock Quote Price and Forecast - CNN",
@@ -2928,6 +2939,17 @@
    "outlet": "StreetInsider",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "280e464d43118bb1",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson submits FDA application for Caplyta in bipolar mania By Investing.com - Investing.com Nigeria",
+   "summary": "Johnson & Johnson submits FDA application for Caplyta in bipolar mania By Investing.com Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcDBIM2I5VU9fSnpaaWZIX1c2ZVZSRkY2bEpZSkV1Um9FUWdqZ19RQU56NGNYV2NMdlk5S1E4MmtrZ0RNVVg2NFd3RU5pVDVHUTEzamRjNFNuNEp5MmY4R20zZXh1TlhPb0VjUVJudGk0MmdJSzE1cE1KY056NERtYThPbnE3MU5rbUh1cFctVlZxVWtYX19JZGkyOXE3TkVOeXR0N2lUamFZQ3ljY0NmTG5ZUkNjME1sb3JHNFktY3dUeFptYkVweGV3?oc=5",
+   "published": "2026-11-19T14:31:10Z",
+   "outlet": "Investing.com Nigeria",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T10:23:58Z"
   },
   {
    "id": "10d9501851a38f6f",
@@ -3311,6 +3333,17 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44ZS1YVUkwTG9Vc09sU19yc2FyZy1pbXpoUXRLNEVsVW5WS2tSUS12MEFWWGFmSjBBNWMyQkV1RE85SjhmaXg2VQ?oc=5",
    "published": "2026-11-19T08:00:00Z",
    "outlet": "StockInvest.us",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7cdda706901895b4",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals Earnings Call Signals Commercial Turnaround - The Globe and Mail",
+   "summary": "NRx Pharmaceuticals Earnings Call Signals Commercial Turnaround The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZl95OFRYNnQ2VnhJLTZldDBNaGxaa09wVmZRclp5YmhTUUlPSkROODRBc1Baend5OHNHbktfcVV2M01WbVAtaFMyU2x4RzFPWlFWZlhpOUhBY3J6QlExRVJHY0dMdGNFbTRTNUpCLTFZajhhdXVwNUVuemVxUjRJT0JJTUk2QVdPeGY3RjJqbFlkeWY4TVh0bVlfemljdFFmWl9vbkxpa25scl9ZaTNKQXhTcWZOYU9oeEpGNGczME5hN1FXZjllYmU2RmdiMmR2WFBGTlozbXYtOGwtd21BMkhWM1o?oc=5",
+   "published": "2026-11-19T08:00:00Z",
+   "outlet": "The Globe and Mail",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -3830,6 +3863,17 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
+   "id": "23523c7b923cdeb9",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) stock price, news, quote and history - Yahoo Finance Singapore",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) stock price, news, quote and history Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52b0QycDJJcTExUU11YktNYmg3MnBFUFFjWUh3VFlfN2NkT3podjc5Q2NVR0JJaTZYbGk4YzVTZjhWUG0xTFljZEl0WjdOWTVOd3c?oc=5",
+   "published": "2026-11-18T10:54:32Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "21687ee29f951832",
@@ -4382,6 +4426,17 @@
    "first_seen": null
   },
   {
+   "id": "58b19e1c27b6e743",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRX Pharmaceuticals earnings beat by $0.18, revenue fell short of estimates - Investing.com Nigeria",
+   "summary": "NRX Pharmaceuticals earnings beat by $0.18, revenue fell short of estimates Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzZoUDRzTU8xZjhCbU42V2lSSC03QzVwQ3lzc0RCWjJ6azVwVi1KTFNMLXF2MXc1bk5iaDl5bkdPUGJ5clNWMDA4RHpReWdrUEVBZGRUeXk0ZDZ5eWVabi1CSm9pS1IzajFEZGlSOUtKczBfejRQXzA0UjRkZ29nZURrYXd4S3paOC0xbk42OV9oSl9ZZDExV2FVcGJjcmVBaktFV2l3dEh2M2ppV3FmdUdISkRSMFRaSmow?oc=5",
+   "published": "2026-11-17T16:54:31Z",
+   "outlet": "Investing.com Nigeria",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1ec1a31154def8bd",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences at Jefferies Global Healthcare Conference: growth broadens - Investing.com",
@@ -4525,6 +4580,17 @@
    "first_seen": null
   },
   {
+   "id": "33a0c24d8a04cf60",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Earnings call transcript: NRx Pharmaceuticals posts Q3 2026 EPS beat By Investing.com - Investing.com Canada",
+   "summary": "Earnings call transcript: NRx Pharmaceuticals posts Q3 2026 EPS beat By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbnBfUDlVMUZ0SlhPdGVaZkpfWWQwSkpEUjQzM2FETjJEdlZ1UktYMHR5ZnZodGdEUnMyOUwyRFkxQ2k5YWR1NXdPZkF3Vms1WTZ2T19GZmI0MTc0WmZxYi1OU1RkWmNpcm9ROGE4QXBqR2RjZDBkT0R1RnpVUzZvMl9udHFwOWNhWE5MY1JsTzFvREg1cmdtMDR3RDEyUFIzQ2hoV284TDZsNzVXWmlZY0ZmS1MwNEItNU4tSjBEOHBLMkNYNVVB?oc=5",
+   "published": "2026-11-17T14:36:51Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "558a417f5d63d7f5",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRX Pharmaceuticals earnings beat by $0.18, revenue fell short of estimates - Investing.com",
@@ -4543,6 +4609,17 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMDltWWhSQjNuTFB3MERfbEo2d29CZGdYR19IZTl5ZVM0eHpvV0hCRGMzWXd1UGpNbURTSE1EaXRDcGx5QUFucjQ5d0xOSGtuckFCck1FT0xrY05pMVNOcEx1UUMwNmhIdWVQZHYtWE82bXpfMFJmVTF6RmhiVWtnV2xHSUZBU1M5eGc2dUhpZ3FhemZiR2UzSzBkakRxN3BwMnJQS1F5WTNMZXpkSlRicVM0ZlB2SUJ1UkJJUWxOTTRmWHFVcXp5a3hHNGR1UkE?oc=5",
    "published": "2026-11-17T14:14:47Z",
    "outlet": "citybiz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5b62713b5f1ff596",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Earnings call transcript: NRx Pharmaceuticals posts Q3 2026 EPS beat By Investing.com - Investing.com UK",
+   "summary": "Earnings call transcript: NRx Pharmaceuticals posts Q3 2026 EPS beat By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0lwbS0tUUV6NloyN0o5eWstRnNIYzZzMWxtYlpDcVRMSXZDVFBRQmdpMWRyUm51NVZqQXZic3hVYTJhUWZhOGlnZDIyS1hjMDFMVEowRUFrSERCQVlUQWR0My1HLUpjM0kybVExS0V6VDgwOWkxa2hMT2FhR0t3R1pFcjlGREFMVFVvblcwU2xrZWgtV2VDUjRwVkNabDEzbmJHZTdBMklvOERtQjBLRDdPNmhhQTNqNnlmdjB1bWJRa0NhM3pR?oc=5",
+   "published": "2026-11-17T14:10:00Z",
+   "outlet": "Investing.com UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5812,6 +5889,17 @@
    "first_seen": null
   },
   {
+   "id": "81562998550f7516",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson to acquire Ollin for $2.2B upfront | JNJ Stock News - Stock Titan",
+   "summary": "Johnson & Johnson to acquire Ollin for $2.2B upfront | JNJ Stock News Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2dsQjJUQThha3pSYlhpbk9MaHdFM2wxWjJBSHBoVmJIUDBVajFDSlgtRHlaY080dmc3NklFWGZkR1gwYWozSmd5d25LMldVWDBjaHhKcWNmXzJMVDlqVWZsUGxvWHF1NkVMUFRCcEJENkVxV2JoUWdXRk9WSS12Q2J2aE1IRkNVN2RIa2JXeTB4eklRY3p3RXZ3MmpEOUl6SUE4XzlISWhLd09vYWViSmRLdw?oc=5",
+   "published": "2026-11-16T13:00:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8283d2404207fa4c",
    "company": "MapLight Therapeutics",
    "title": "MapLight Therapeutics Q3 Results: EPS loss narrows to $0.97, beats estimate - scanx.trade",
@@ -5966,17 +6054,6 @@
    "first_seen": null
   },
   {
-   "id": "dcc340615ad24ee7",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study - TradingView",
-   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV0t2N3ppaEdiWldhZldmM1ZsRlQwOUxvYU1fejc2bUF1ODh2b3JZb1JMY0lZM1RKdkVsOVcxS09uZzFXQndFZnpJZThhTDBOSFFQMDBSai1xUy1uZEJxZEtJRDcxT0stdlhqUTZ5QlNwYTNYQm0yaUVlbVRWMlJNVUdKczJMSzRMbk9NMjluYUJfTGFFTFppN3BtTjdWZ3dXaUNJNTVheWxERGZmemJFVG9SMFJ2THVRSW9zTTZDRGNYWmlXZ2Z5by1DbWxOSDE5T3hxQ0RfWVk?oc=5",
-   "published": "2026-11-16T12:08:30Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "6fb078a466cab2c3",
    "company": "Minerva Neurosciences",
    "title": "NERV: Minerva Neurosciences Inc filed SEC Form 8-K: Regulation FD... - Quantisnow",
@@ -5984,6 +6061,17 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTU3dXlwOWg2TV9BckMxTFk0SjhIa0l3cXJoSUxwTmhmejFiZENlZFI0OWVxcGRlS01BZ3Q4MjdfXzF2Y25fQkZrQi12R3A1c0hycXVTRlhINUJBV2xXcWtSMGN0QlAyeUs3dEljV1lUX2ZVaFVvVXd4elYxOURUSTdoY0diLVhWZkFyOF9aZTljcFc4R1lWaURlNU9jRUFQSkxRV2pldWkxdVV3Z0ZkWXl3?oc=5",
    "published": "2026-11-16T12:06:51Z",
    "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "dcc340615ad24ee7",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study - TradingView",
+   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaExXUVRDRlRRWkRmRVJyXzMxUW9VMWFKandBVGRjSnEyS052Q2JTcDFFaXVHS3FSUTlKQ3RTR2JmVFBUbVI2SE9EUllIU2gzUWtwcjNOR2gtbFRucUhqTVBIRHNyZDU1Vi14cUpTYnRLWUQ1QTVLZFlCc0FKN0ctU00zUE1RT2hwT21XRFlEQl9GUWxGdWc0dEFIWlhlcXFiT1pjV1lHQzZwZkNIQ09nX1RkSFM0Y1VJV0NheVZIWUZPTlRxOXEyWmtNX0lWZTBHX0R3QjRVN3Q?oc=5",
+   "published": "2026-11-16T12:02:02Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7814,6 +7902,28 @@
    "first_seen": null
   },
   {
+   "id": "be37cd470ba74c5c",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Reports Favorable Data For Bipolar Study - Benzinga",
+   "summary": "Johnson & Johnson Reports Favorable Data For Bipolar Study Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHgxUDhXUllGamNCbkZ2QlhuZVJiazhLb1lIdmpWSFFOYkxDbTZDTUw4M0swREhRVV8wOVlibDNZclFqbkNVMGlEUTFlUGRGWklKN0EwMEtwamlRYVdtRnhOeFMyVUdZZDZOODBKMUNzNUp1REdtdXpKTnJxUWR0Xy1uWWgxN0lDb1dqVE9ITFY4X1R2YV9ZaDVVb0F5T0gwbmFBZ1oyN3o2dTBSU1FtM29B?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ad27a12e64c507c5",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Does Johnson & Johnson (JNJ) Have A New Growth Driver In Bipolar Mania? - Simply Wall St",
+   "summary": "Does Johnson & Johnson (JNJ) Have A New Growth Driver In Bipolar Mania? Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcTU0TlFHdGRCeWRjdnczRHdnbnlDd3lYWGdKcGZPMVNIeWIyREMybExBQjZYLXZWcEM0QnEwN2x1cXJ4UUw2aG1mUy0wcmFrVXdiNEYwV0RrOFNBMDZXV2ZTdVRCc3FRWmZyd0xmMGtLN0d2M0hKWWIyeGM4LXhIMWFoclJVOU4xMkl0TjNqTGk3bHN0OUVxVnphN1RtX3YwZExHdVYzUGdWYmxIXzUwTGJZSDVVTUpvaFJFMXFsaDA2aW0zbGZVY00xV2xwWGhpY01xbjI1SktTbHo2UGkw0gHkAUFVX3lxTFA1ZFdMZmc1dW02RHBhZmdKTGFNZGJIbXF6S0ZmbWlnOEtOWmhMNno4T0FDcm1weERRTjl4NGNnZnJpRGpWTWNHVzF3S3VCSFR2MGtCTFdUbG9Pb3NvdHRMZEJtUV9oNHFrWXNQUFBIRW9ZNjhnTG1mZGxjQlNteGw0TU8tN2xvd3V6ZTdyMWZYdkJBd1dnODlQb3FLeWdnZC1TWGVFZlN3UHFwR1paLUszM1Z0d1FuZHRTTVpsNGZqcTBEbFNWbWZaa2ZOOWFtd0lqRHltektzT0V4NVJEM0Y0bFZqeg?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6ccb311524671d55",
    "company": "Neumora Therapeutics",
    "title": "0001610717-26-000385 | 4 - Neumora",
@@ -7869,17 +7979,6 @@
    "first_seen": null
   },
   {
-   "id": "d307cbbd27597baf",
-   "company": "Johnson & Johnson (incl. Intra-Cellular)",
-   "title": "J&J readies Caplyta for FDA label expansion after 2nd phase 3 win in bipolar mania - Fierce Pharma",
-   "summary": "J&J readies Caplyta for FDA label expansion after 2nd phase 3 win in bipolar mania Fierce Pharma",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcm54d1dvZEx1QVI1VWRYdlhlRWx4RDUydmpicnNxdW1HajVfVVFYMEpmdlJOZXg3MnliRG9Pc2ppNGZEeXlSQWZiZk8ydGt5dFJvUnZLeE5MbWZBcVFBMWJEN0pIMzltUDZEalBYNFU3QnhFMXJvMnBSQ1J4N0pJN1p5SDZVXzMxQTdMWDhxQ3FCRFF3dkROVXpjUGZhS0tfaWZ4bEFyaWhDNkdyNy1J?oc=5",
-   "published": "2026-11-10T15:01:50Z",
-   "outlet": "Fierce Pharma",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "44c24a2f27b0445b",
    "company": "Alkermes",
    "title": "Alkermes PLC (8AK.DU) stock major holders - Yahoo Finance - Yahoo Finance Singapore",
@@ -7898,6 +7997,17 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3ZYODVJdVdTdkhVS3VZRUNsV0hMRkQ2ek1MZldPXzhWM3NCRFN0NTlldzkzR1dWUmZWdzB4eGJYS2pyNnE3WTYxd0JLclR3R3VpMHBvNWFyRVNJZmFjUEItVWRpYkJQWnhwcEVRalpVby1iVFZRV3ZuRzhCdk50dHl2V0FRd2szWjlCUUdlVkxfMGdQeFJhRUlkcU01dTlJOWoxVWRJUUFmcnFWM0RCZ3lYV0dYaWwxbU5NV1pwNzYzRVFzektfRG1BLUFIMDFUeVh4bDhsZ2JTU2pjODlPS3BPTQ?oc=5",
    "published": "2026-11-10T14:32:00Z",
    "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4098aa9cba71ac3b",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson’s Caplyta meets endpoints in bipolar mania study By Investing.com - Investing.com UK",
+   "summary": "Johnson & Johnson’s Caplyta meets endpoints in bipolar mania study By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNqTHp6a05pLXVhMEk4Yy1uSXNUM1kxbUpYOHFfUE1HWXlKZW5xd2lIQWtmVWlqVWtnYUFIaWJvVEFoLWRTQloxeDBJdGRHZEMycUpUSGo0amUxbl9xUWJIY2hMdFd5U3VvOFFzVVpfOVQwbHl3Z0M1ZElCZDgwdm90RElpeHloM2RnWExtajJxSzBZeHhqTTg2VEtZODlRalRIeVY5TElMdllrMXZCM2JoR0w1U0paU0IxMTQwSnVZMjg?oc=5",
+   "published": "2026-11-10T13:06:00Z",
+   "outlet": "Investing.com UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7924,6 +8034,17 @@
    "first_seen": null
   },
   {
+   "id": "afe4710c5e826490",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson's drug improved mania symptoms by Day 3 in a second study. - Stock Titan",
+   "summary": "Johnson & Johnson's drug improved mania symptoms by Day 3 in a second study. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX2NOdkFBSWNoZ0JRT05CUDhHcFA0cENoU0N6ZWRGbFczenNUblVTcE9YdUgzV21ValBQZUNuNDZNWXNqQjdZbF9TUkN4YzZUd3RpSG1uZUp0Nk9MeDZXRUI5ekNycFFqaHRtVkZuaEFBS0ZCQWhFRmhBeHZYa0Y5RnIxS0hJSkVWQlk4NmhZdzM3RUk5VmZoOThUNGFvUHY2TnVhLWhucldQS3pSaW1NZGYtbDF1RmZWTnM3aW5lNA?oc=5",
+   "published": "2026-11-10T13:00:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "cd2d87741550cb99",
    "company": "LB Pharmaceuticals",
    "title": "LB Pharmaceuticals Inc $LBRX Shares Newly Acquired by Candriam S.C.A. - MarketBeat",
@@ -7931,6 +8052,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVk4V09HQmdVVjFsODIyWE9pc0laWGl3UFN5RkhxTTBGTHF0ZGNCTDJ4WnR6UUN5RmxFM18yT2VRZ2hwWjB5SGtlSWE0VUxUS2tmbUlIQWxrNDZnbVBGUmhoTlRDTDg3MG1OZkd5cF9HclItcmcwZUZBOEtMcnl5MUhENGZveDFIRlVNTy1fd2g2UFlCMnVJeV9CbUlZVEFsS0VIUnBtUU9pNVp0TzVzMU80SG9ZdUtDenppM1dpV01qcjhp?oc=5",
    "published": "2026-11-10T09:08:09Z",
    "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d307cbbd27597baf",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J readies Caplyta for FDA label expansion after 2nd phase 3 win in bipolar mania - Fierce Pharma",
+   "summary": "J&J readies Caplyta for FDA label expansion after 2nd phase 3 win in bipolar mania Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcm54d1dvZEx1QVI1VWRYdlhlRWx4RDUydmpicnNxdW1HajVfVVFYMEpmdlJOZXg3MnliRG9Pc2ppNGZEeXlSQWZiZk8ydGt5dFJvUnZLeE5MbWZBcVFBMWJEN0pIMzltUDZEalBYNFU3QnhFMXJvMnBSQ1J4N0pJN1p5SDZVXzMxQTdMWDhxQ3FCRFF3dkROVXpjUGZhS0tfaWZ4bEFyaWhDNkdyNy1J?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Fierce Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8111,6 +8243,39 @@
    "first_seen": null
   },
   {
+   "id": "d23e594d28891bbf",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J eyes US nod for Caplyta in bipolar mania after second trial win - Reuters",
+   "summary": "J&J eyes US nod for Caplyta in bipolar mania after second trial win Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2k1N1NpSWw2bjFKM05HY1E4TG9scDJMc1VXVkdVX085WUQzcnUteXJZU0ppUHVvbjNwTWdMNUlrZjN5TWRxS2IySk95OWl0V1U3dURNOG1qeVh0TThJeFN5UXNWdTJRdml0YnBLbDhwVDRrYkdmU0hUMGxpakwxeGFCMkFSMGQzUjhhLUc3b3pMWV9oWnhISmNsTXhoclQ0Q3BNTlU2WHVwNjFCbXo3Z1A4dFZCTV9LWXd1UGk5VWJQVExmNkpfaHFYUQ?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Reuters",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "597207f1f44192c2",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Lumateperone Shows Significant and Rapid Improvement in Bipolar Mania - Psychiatric Times",
+   "summary": "Lumateperone Shows Significant and Rapid Improvement in Bipolar Mania Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMlhnUE1ES1d2X1VTWGUwNU5NU3o2MjVpNzZ0N0ROTlowWWJRM2lmNnAtc1N2c3lTUVQySFdfbHI3RXNJOUg1THlwSlBLMFlBaFV4ZHQyM1RxaHQ5SzRhbGlKbWRRM2U1RkZvM2hTUjNCSFh6S1l6YnFyX1hRNGdKVDdxXy1KTWxlZjktbXhiTU5KNU5KNVFCVWZ4NTRQMEZzMEJ5Yk5qcElZUWM?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "646b4e8d10b1e7ae",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson’s Caplyta meets endpoints in bipolar mania study - Investing.com",
+   "summary": "Johnson & Johnson’s Caplyta meets endpoints in bipolar mania study Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNnJCXzY0bzB0X2dzamNySzY1TWplTHlXSDRTRnhNYU5XaEFCTVVldU1UbzBKb292Z2JvaVBEOExkRldiZGpwNFRUMFdYdmhRMWx2bDkzWXhCMkpXYlVZT01TbjVFTHROSk5CYndFRUVvYlVnVjRyVTgyZUVlRnpyQWNVOGJmZGlnazQ4UXRUSmF0bXVpdDFtbENTbTJ3WDJ6WjBlMmVCXzdfVDdoUXpDZW5vX2o0WFhXUUdqSlZR?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "083da40444df5bba",
    "company": "Xenon Pharmaceuticals",
    "title": "Form 8-K for Xenon Pharmaceuticals INC filed 11/09/2026 - Xenon Pharmaceuticals Inc.",
@@ -8229,6 +8394,28 @@
    "published": "2026-11-09T15:17:04Z",
    "outlet": "Newron Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "25dc1741c45e5209",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson challenges depression patients to expect more than ‘fine’ - Ad Age",
+   "summary": "Johnson & Johnson challenges depression patients to expect more than ‘fine’ Ad Age",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUtUbnIwV0ptTUM2bjJGdG1hSjd4ZU4wd1lEVklhSXljU1FwUkhiVlM2ZFZueUdkLUluX005a19IN3htRGw3aWQ0WkNGSGJOSmZQQlNKOXhMN2g0WnppSnhPZVpmTDBiVF9ZV1NtVzJjZnhBTkQyX0pRdm5CdlBHOWZ5QXhsaXVIS3VlM05MZnNPNG5xSlVST3BIRlV3M2dOUmxHeWgwbHk?oc=5",
+   "published": "2026-11-09T14:00:00Z",
+   "outlet": "Ad Age",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "60202acb108332ff",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson is backing a psychedelic-inspired depression startup in a $100 million round - Quartz",
+   "summary": "Johnson & Johnson is backing a psychedelic-inspired depression startup in a $100 million round Quartz",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjRlbHJFSmpUUGNFOFBsZExmYkNlbDdLczdSd243dlJVNFFEYXFVLXM2WmgzNjIxWm92SF9GTEU3M1NuMHdKNjNRWU1aa2NtOUlSMkdKZURHS282SW56bTczR0Zhbzc2bHpLVzJXM3FUVXl2amtCekM4X3RFSWJRTjk1TEc?oc=5",
+   "published": "2026-11-09T13:39:07Z",
+   "outlet": "Quartz",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -11653,17 +11840,6 @@
    "first_seen": null
   },
   {
-   "id": "13f1ddf0cf136647",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport raises $200M in stock sale as it widens RAP-219 to a second disease - Dealroom",
-   "summary": "Rapport raises $200M in stock sale as it widens RAP-219 to a second disease Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1NZZWh2akJFSmd2eS1pUHU3V29ac0xyQXBaSkRkRmZobDlnOE9MT2VWVFNmRnRtRnlGS3FrejVJY3d4RUptU0xiRXVmSkxPU0Fld2NBZTRrSFdfMHNVU1FONVBCNDMwU2t5YzlyYTFHanNNVXpaeHN1VTZteUkycl9tNUVBVkR4ZXRDb3JVYkk1dDJvY1p4bXRGaGZPenJ3MVBPams1WEdnV1Y3?oc=5",
-   "published": "2026-10-29T12:45:48Z",
-   "outlet": "Dealroom",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "f9387b96215bb941",
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
@@ -11936,6 +12112,17 @@
    "published": "2026-10-29T06:17:08Z",
    "outlet": "Idorsia",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "13f1ddf0cf136647",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport raises $200M in stock sale as it widens RAP-219 to a second disease - Dealroom",
+   "summary": "Rapport raises $200M in stock sale as it widens RAP-219 to a second disease Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1NZZWh2akJFSmd2eS1pUHU3V29ac0xyQXBaSkRkRmZobDlnOE9MT2VWVFNmRnRtRnlGS3FrejVJY3d4RUptU0xiRXVmSkxPU0Fld2NBZTRrSFdfMHNVU1FONVBCNDMwU2t5YzlyYTFHanNNVXpaeHN1VTZteUkycl9tNUVBVkR4ZXRDb3JVYkk1dDJvY1p4bXRGaGZPenJ3MVBPams1WEdnV1Y3?oc=5",
+   "published": "2026-10-29T04:19:10Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -13728,6 +13915,17 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOazlaOXN6OWV0S3VVdkN3OW9GNVhXTUN3X0p5WnM0ZERBdzd3MTY2ejE5d0xGUXRUWXoyQUc4X19HTWZmSWFEMGNsMlRZdUxVbV8yWXp0NFlqOVRsLWJMbFNvNzU5YTFHT25FSFptdUEyaDdxYlhGVTJJc3BhR0Z0TkwzdlJxenZvbkx5SWhzc1EtUjZWVzhKNC1tREZvT2JmT2FDYi16U1p2VkZaR25nMGhzQVg5T3c2TGlxN0pCVTRIOUFqZTVkTm04N2pUVGc?oc=5",
    "published": "2026-10-20T07:00:00Z",
    "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "96789eb626f17bac",
+   "company": "Rapport Therapeutics",
+   "title": "HC Wainwright & Co. reiterates Buy rating on Rapport Therapeutics, $66 price target - TradingView",
+   "summary": "HC Wainwright & Co. reiterates Buy rating on Rapport Therapeutics, $66 price target TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS0ZkNzVqWEFIZmtYcGwzY3NjalZtZHpmbjhya3hVRktqcGV1UkdsOFM2aDV0WjI5aThTXzJtY3NQVkcxMV8wUmgxUTZJdmJtdzlOaGlZNnVEc2E5QVhmT2NkUmVXVFBMTlI1MTBlYTJhWGw5S3dfdF9WMVhyenZsWlNXQUw1cjgwTGNkRWR6Y0xtaUFVcW5aUlg2Q0FUc0lpSWhfb1c4QTQxU0VzX1NVZzZIcHFxVmRlak5oYXJqLUdyMU9QTkxNMWpldjAwTk03cEdTZDctSQ?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16493,6 +16691,28 @@
    "first_seen": null
   },
   {
+   "id": "9957f452efb3f0b3",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Physician Views Preview: What promise does J&J's Caplyta hold in bipolar mania? - FirstWord Pharma",
+   "summary": "Physician Views Preview: What promise does J&J's Caplyta hold in bipolar mania? FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Yd3lJU1JneUtqYVoxemltX0lrUjNhb2ZQdXZ3d25DNTAxX1pWcS11T3BvNW5neGVBRGRoRDFEWnV4WnB5dFhDZlRFQXV3Vk1LWFdN?oc=5",
+   "published": "2026-09-28T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e8ee2a7762de1a76",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Can J&J’s Latest Trial Win Strengthen its Neuroscience Business? - Yahoo Finance",
+   "summary": "Can J&J’s Latest Trial Win Strengthen its Neuroscience Business? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXpxZGF3T2s0WVVDbTg4MDcxckV2VzBsSHFoSklMTTFRX0dFRG9wNXlVREhCZTh3cUV3LTAwOTlmUEpmOFh1SWVKNGdRczJHT3pLbE5YT3pFUFhIVkJMd2NSUmpjRllfZXp0LVFlM0ItRzNfdnVUZ2pQQ2tBMUx0dm91Qy00UmJI?oc=5",
+   "published": "2026-09-28T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bdb4d8bc96e0b193",
    "company": "Roche",
    "title": "Parkinson drug race accelerates as LeCun, SK Biopharm, Roche advance - Chosunbiz",
@@ -16753,6 +16973,17 @@
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTXViazd3dTlfMmxxOGNTTHBuNkdNOEdvTkY3cjNaRHVkZ3ZSNHcwUFVvMEN3LVQtWVkyazdZTWNOa2Qwb01iRl84a1dLZ0lFTEh0ZVlyVzNBT0V1YzBaYkgyQ3VtamtOeXRRQkZzMkdvMGtXYzZZRUhiV0RSa3NnZ2lxejNzQVNSUWxMcnNQQ1hpeHNGQjE3TGxDc2diWmE0Sm5qSXhzNFFlNUhZZWZvemdQTEh2eDFLdWRxZ1pMOGdMY1EtWW1zNDVQbTE2cklqOE9BeWZsWFFyVkMwZ2JJWWxkbndObjl6NUE?oc=5",
    "published": "2026-09-25T07:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "aacde8d7e77c1cb6",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Clinical Trials Show Progress Across Key Therapies - Johnson & Johnson (NYSE:JNJ) - Benzinga",
+   "summary": "Johnson & Johnson Clinical Trials Show Progress Across Key Therapies - Johnson & Johnson (NYSE:JNJ) Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkEwZkdienZPZlpwd3Z5VktzM242V3RuT0ppaDhDdEY2N3BLeVBQSnh5V0JxNTNpQXVNRF9ZLTZiUUF1MGU3dV80b3RGR1FoZUlFSTg0WWFVNmtNNllSWHVHcl81Wkxnc0hVZVJ1RmxGa0U3WGlsNjNsbVN6MWpzOHdrUm5zeHZ3OVU2dktldEIzemgyTWx1aXVnSjhaXzBWYnJoNXhIS0xjYzJtSmJGWGZ1ajlzdTV1bzg4bVdfUGg?oc=5",
+   "published": "2026-09-25T07:00:00Z",
+   "outlet": "Benzinga",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17142,6 +17373,17 @@
    "first_seen": null
   },
   {
+   "id": "cb3daeddeb759a54",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Safety Concerns Halt Depression Trials; Gen Z and Alcohol; Prescribing Benzos - MedPage Today",
+   "summary": "Safety Concerns Halt Depression Trials; Gen Z and Alcohol; Prescribing Benzos MedPage Today",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wUHk0RTBNQ2lwbkRlcHVkbkNrTFE0UlBtWlg3Sk5MQ0xrQTZwTmpsQjRLTEE4Vk02UFZlRjBaYkxkT1JPYzNISUxDM1lKZ3R0c1dzUl9FdDB5M0JMMWtUZGprMVB5Qlp6UjlRalhQdXlRUQ?oc=5",
+   "published": "2026-09-23T07:00:00Z",
+   "outlet": "MedPage Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "37ca1df71bb785a9",
    "company": "Reviva Pharmaceuticals",
    "title": "Reviva to Participate in the Lytham Partners Fall 2026 Investor Conference",
@@ -17351,6 +17593,39 @@
    "first_seen": null
   },
   {
+   "id": "e15e825b64a48f09",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J’s Intra-Cellular buy continues to bear fruit with Caplyta bipolar win - Clinical Trials Arena",
+   "summary": "J&J’s Intra-Cellular buy continues to bear fruit with Caplyta bipolar win Clinical Trials Arena",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjVQNWlRallwTmFyNG1mUFNfR3dkSmo5OWhKclNtVFZ1b0tIMGd2VmpiUFloR01kRjRMR3NQdVNLeVNkUm1Ec2RhNksxWkVIU0RteDRuLUVxMExubGVSVkFIYWNFeVdBVmJlalNvbU9DOVBtTWhnTlc1TklRT3MzNFlCQ0gtMmFPcW91RlBLdFJrSE43dENXTTlzcF9Td1phSGtnNGNCZjNNclF4ZHNTRG9KRQ?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "Clinical Trials Arena",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a9aedea79a19e7a9",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Caplyta shows significant improvement in bipolar mania Phase III study - The Pharma Letter",
+   "summary": "Caplyta shows significant improvement in bipolar mania Phase III study The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHlsYTJIQm8zdGhaY0R6dEJiN29ZVnhFRVlJekVHcWFtdGlUMnNRTVd3VC1lMXl4cGRlTVg3Ym1OcVZHaG5HeHU5ZGRGS0lQOTFNZWs5a3Y0bnFfblN3S0FZYWRzdzhabDljbC1kb0ZQaEg0bkZFUTlqQjFjSTd3UDZQZzZUdTAydlVQLXM1bWh1eTB2N05sVWp3dXRYd00xa1Z4cVNObnhSejAzSzBBYTJMSzQ?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "41c9a5fa6964a60c",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "UBS reiterates Johnson & Johnson stock rating on Caplyta trial success - Investing.com",
+   "summary": "UBS reiterates Johnson & Johnson stock rating on Caplyta trial success Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZjlQTXRha0ltNkc0cmo4WU1rZENOX1g0X1BqRUg0YW1XbC1PZUJOZktpbEVhS1RMVkN5T0JfdndYc1FCVldRd3BWYXF4SU5qaFh6c2xiZ1N2d2VYdkJvMmJMME50V3EwbTdRbktwZVh2dkdqdmJSdFVBSWFBcE9MVnZKdFQxNDNZa21NWjhQY0E0S2VnU0pQMDFVdS04V1ZOZFRrM21XckRlaUFjUjZBdWlBbVBjRzJ1eU43Q0VsT1BkbE1xdzY2Ng?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4f8f09394db92992",
    "company": "LB Pharmaceuticals",
    "title": "LBRX: LB Pharmaceuticals Inc Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
@@ -17556,6 +17831,105 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdll2Ym1MbEI1eVV0U3NrOFk0SXo2ekcwREhieGRuc1g5XzVyaVlPVWQzTlJhTTVjTXJUM0gzcWZPRWVULVJxTHpROWE5QzlnUkNUazYyWjNncWgwVW5lLVA4NEZ2LU5JNUdQemFCbTNoUU04dmRsZFM2dDV2NUpiaFdqOHRfd2M5RUdfS2diZmZpd0RGVmFybEtLNWctSTh1UFkzMTA5T216QQ?oc=5",
    "published": "2026-09-21T07:00:00Z",
    "outlet": "NeurologyLive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "147f55969f165578",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J's Caplyta meets main goal of bipolar mania study - Reuters",
+   "summary": "J&J's Caplyta meets main goal of bipolar mania study Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUtGUzBHd0o0YW9ienVpYUFzdDJNSURmOF8xenBUYzFBWlBGWFhTbFUtMldpNGtEekh2TFFuYk9kZWR5b2RDaHdQUC00SThvWjBJOGpmenRsdGVEanFCNUU4cXlSQWRHZkgxcjU3bDE0NGtGSURBWjIySHV6QkE1S01YX0JONm5ZMjlZbHBXd3lxRktMQWgwWjFUWjRwYTJVLVlxbUd2Y1hwVnc3VUxGV2lsQ2phQi1UZU1B?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "Reuters",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ccb76e53c0f5cede",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J firms up Caplyta's 1st phase 3 win in bipolar-associated manic episodes - Fierce Pharma",
+   "summary": "J&J firms up Caplyta's 1st phase 3 win in bipolar-associated manic episodes Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHlTZWZKQUVid0RfNkNpcGpqTmtzX2ZuT1BkbWFNNEtfM1lSZm9JdnlZNGxfVlRNMElhR21mYTJIbTZ4ZS1KYlhfMmt2eHc5X0trbXlYMXlMNVgzSUg0UHVxRjQ1Zk5hSmFvOTVQUzhwU091SmkxdVd2WEFkdm1UdFU3YnpUUVFOUmV0dnZ0UXdOMzRqaHNXakh2aU1lbE1tTEE3OThn?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b2414150a0eccc16",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Lumateperone Reduces Acute Mania Symptoms in Phase 3 Bipolar I Trial - Patient Care Online",
+   "summary": "Lumateperone Reduces Acute Mania Symptoms in Phase 3 Bipolar I Trial Patient Care Online",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3JTX21ZRDdfVnJaZmpYZE5TN2FoYURXQW1DenZERnFISG50dnBYd0Q4TmRNNlVFaVNFVUxJN3hqX0FfZVQzaFUwNnFPU0gzbHF4Ry1oOVYtYUR5eFlvMlR5TUxnTkZkSjJja0pYQWNOcW5IOTR2dGRBZ2JidVk1bkdxQ0ZmVjZsQldMRzg0d0VqbzJuMTQ1VlFKY29LaERmMkQzR0x0dXAxWmc?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "Patient Care Online",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "69045b1a4d6d9044",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J goes after bipolar's manic side with Caplyta - FirstWord Pharma",
+   "summary": "J&J goes after bipolar's manic side with Caplyta FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PS1JiblhHd0xIRUo5MmdXaW5SbkFSMnloWGZKaHpuYjQ3Mmx2XzFlWWt2SVZLVWNkS20tRFd2WjlkUDVOX2JNaDQ3NlBMM01tNHBJ?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "bc95f023d2a6832e",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J’s Caplyta posts rapid Phase III benefit in bipolar mania - AllSci",
+   "summary": "J&J’s Caplyta posts rapid Phase III benefit in bipolar mania AllSci",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlBhN2FqdUpmZlpmb1RCVW9LNURVbG9Hd2loUmd4LXljSkg2N0NQdkVWOWtFYmtITS0wdnJoMnZkVGppemlhV2pKOXlPZ3VEcG5Hd3M0Z3pMYjhJa2EtYk9wTnRGazVGNmIzTEM3eHl5ekkyY1hxSExUbmZ3YjBhenExOTRXdk85QVJObzhn?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "087cf4e7d750a2fd",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J’s Multibillion-Dollar Caplyta Ambitions Backed By New Data In Bipolar Mania - insights.citeline.com",
+   "summary": "J&J’s Multibillion-Dollar Caplyta Ambitions Backed By New Data In Bipolar Mania insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbVdtcWktczY3cEx6Y2E3dERnekNzOEVUNW1EZGNaQWxacnRHR0FYYVE4NlpnbHNnMmlBMkJYWDhPcVlEcF9CNHQ2T0laekw2Y2VhLV9wQk9lSW43T1B0aHlkRGNRR0Y1VjVDLWFOYzhNdU5OS0NHYl9fTFYydUUtd09jZEJqRzZoZWJ4blVtZERPZmZjVGt5ak5vbkpGVVB4MDBzQXE4WGQwRUltaklRaUlBM2dIY3dObk5qZjZVYTlGRTJvUkRkbU9vYzI1aUVFUjNrcHFpWEowdUNkNE1ERXN2MGNFT09GTk5WNzA5ZzF4S3hLVnBHZA?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "insights.citeline.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3590ea926db3e949",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "How J&J paved the way for Compass’ coming psychedelic drug launch - BioPharma Dive",
+   "summary": "How J&J paved the way for Compass’ coming psychedelic drug launch BioPharma Dive",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcndEcXZjMUtkVGR4Ry1PZVUyWGhXclBlaGk4RmdQWkljZVF3NVB0VDdsNC1uYkRBYS1JckEzRHI2UmVFLWh0UXctSkR4Skw3cnI1cVJXZ3NPcWIxWUhLQ0t1REhoWFdXUnZOR2xCc2VjTXpGZEN0c3VhMU9yalpLRlkxbU9NakJ3ZHlVX0JvbFByemdscWptMW16a3gzVTlGdnl2RGVUeG84YjZN?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "BioPharma Dive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d571b872991f323e",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J's Caplyta meets primary goal in Phase 3 bipolar mania trial - Dealroom",
+   "summary": "J&J's Caplyta meets primary goal in Phase 3 bipolar mania trial Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPalZuVTNScFE3bUZBQWVnZTJkRDg4YnNYb0RRbTZWZGFqbFJQbEZrZHZySmZQUzNoYTk0Y25RcjdoSWVzbGx6ZU5ncUhZNHQ3c1NkRzFSOElHdkNybnprS3FYY3hGTFZzSm9KVHpxNmc4czhISVdVMTFDVzJ2dzB2R0xPemJibDZSbmI5c0p4Zk01dnlGR3paUEFYT0RMdw?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6e3e0fbcff74f5dd",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Drug Shows Improved Mania Symptoms in Bipolar Patients - Benzinga",
+   "summary": "Johnson & Johnson Drug Shows Improved Mania Symptoms in Bipolar Patients Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXZhUndWeDRINmszZ1M4aHMwemJZVWpDR2dseFhCcmlhR2RlTUI1aUlCQUxlUHJwaVBxYjRjcWtHQ0xqa0NZSFlLTG5qUmxfVlRxSmdSbmd0UkpMZDE1ZlYzcnh6NTFBaHZpUEsxQzdNN2MyeE5xNlRwUWp3WVZ3akF3blVtR3ZVbTU5ZnhfcUc3cVVmSHNFLTg3aDhxaGxaVDl5ekRPaFAzOUVwLThBSmtpTHhFMENKOGxlTklNTjBHaDJFWFE?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "Benzinga",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -18561,6 +18935,28 @@
    "first_seen": null
   },
   {
+   "id": "dad1f4cdff8b93ad",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J’s Contineum-partnered depression drug flunks another phase 2 test - Fierce Biotech",
+   "summary": "J&J’s Contineum-partnered depression drug flunks another phase 2 test Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOajBQNmdKcGl3Z01mUTZOSEtuUmxlT0d4eXdXY3RLeDk1V3V2THp1VjdzeVVROUZncGJNRHF5d21ka19zRDRndF9PdC1ibGd1WDRqdXhFVEdQbnNYZ0YwWFNEajRsNC1lSVF1d0lKdXZ1OUNxN29uWjJXd21icEJKM3VENHdWcjRkb1ZkS3BFdGE1WmJpWmtjRXZhTQ?oc=5",
+   "published": "2026-09-15T07:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b69cfcfe3fb015f6",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Partner Contineum Slides as Depression Drug Fails - Yahoo Finance",
+   "summary": "Johnson & Johnson Partner Contineum Slides as Depression Drug Fails Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRDd3UjdlWEFPeTd5bWpOT3pxdFF3UmpIVGVQQXhaZ1Z4blBfV2FoWVdrbXIzc3ZTNHJTYkxyblZ6eGtpY1pQTEJ3eHJ3Y0pQYUdYUWpTTFdCaDlXVmxRUlNmWFljdE1FT2hxRVo3RnlmaTFBVVZKZnhGaVROZnAzWVNuUmtaVmxVeDhtOWp2VE0wd3c4OFJIbVVmTHJlV0ZZUlh3?oc=5",
+   "published": "2026-09-15T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b25b86d765b75a83",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics Announces Positive Topline Results from Phase 3 Panorama Study of DT120 ODT in Generalized Anxiety Disorder",
@@ -19419,6 +19815,17 @@
    "first_seen": null
   },
   {
+   "id": "7485bd975469656d",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "The remission gap: Why ‘better’ doesn’t always mean well in depression care - STAT",
+   "summary": "The remission gap: Why ‘better’ doesn’t always mean well in depression care STAT",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbEM0a1lGVUxrdVVPN0lPbFcxTTVzampPWWxGUUJkUFpvbWpJanFDOVBYQ2RwVEZxNHd1NWozSk5mVDYxR0JKaXB3SnhmV2tST0JOc29hWGpBaEJWQ1E3UGx5bkpnc1k2eTRsc0pkaWhRN2RVRlVGcXV4Q3lvLU1YZG9wbWFQUG5EajN1Q3FHQ290bmFHTTl4bzlhQzBQYndiQ2RHWDNwelhVWnQxWktHRXhqd0FPX0E?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "STAT",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d08ab66bdfae19bb",
    "company": "Newronika",
    "title": "AlphaDBS System - Newronika",
@@ -19547,6 +19954,17 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSGRUYmdNRTJFZTBGaVpuTm5lX0NrOUl6ckY2UDM5aWFoVVVReUV4YUhyRHJHYjFhV1p6YlhNcGpmSHh5bjdCWi1OZTIzVWxmaERlRmVTbFRKd05ZV1BWemRnejJiQXliTGQ5UXNLZ1B5TzQ1TTFXbXJGdzV6WDdNanFNV1dGWEozdy15TTBMd0JCMzg?oc=5",
    "published": "2026-09-04T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7529a6033c22009a",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "UCB’s Bimzelx comes from out of the blue to claim August’s top pharma ad spending spot - Fierce Pharma",
+   "summary": "UCB’s Bimzelx comes from out of the blue to claim August’s top pharma ad spending spot Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDNPWWlzVzlHMmtmeDBkZHlUTU9WRHFpUnVVQ01lOFUta05JQ2UwMVVETjhsYTFFVkRSeW9nbnRlUmpqT3NJc2ZFaDR0djJWQklzZDcweDdod3paZjAzenVwQ2wtZzYtSjVKTUt1V2NucTJkS1pjUW82WjRhdFcxbjVpM0x5WW1wTWF5MVhvWXc0cHg5NDdXMUQ0VkR3UU9BbzdOMTRodzlfNzZB?oc=5",
+   "published": "2026-09-04T07:00:00Z",
+   "outlet": "Fierce Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20568,6 +20986,17 @@
    "title": "Neurocrine Biosciences: 'House Full Of Options' - Seeking Alpha",
    "summary": "Neurocrine Biosciences: 'House Full Of Options' Seeking Alpha",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV1RKZTN4UGdJU19hRGVGaWJlRXhvNDM2SE9lTW9GOWdWR3ZDYzhXaWFlZWJGOERCZlh4LUkxM2R1TktoT1RNZllYRGMwdFFoRUNqZVc5M0NqTGlhSVJLMTI0cU1MWkFvVktNM25RSGNfMEZjb0ZxOVl5dHdMMUR3RlVXdXl3LUtnemRyemd3?oc=5",
+   "published": "2026-08-22T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "adab08cf98ea8f17",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson: Buy IMAAVY Label Expansion First And Continued CAPLYTA Sales Push - Seeking Alpha",
+   "summary": "Johnson & Johnson: Buy IMAAVY Label Expansion First And Continued CAPLYTA Sales Push Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjFnTHN1cmRKT1ZLeDVGaU5iTk14VlM5ejRqTGxnNmJueTJzVjExcDBQck9td0FfOWcwUWUzbWpDQUFhSUw0dkZzV3V6ejYyamlkSmVxRG1SRGVFQzl3X0Zxc1BjX0g0MzN1emthLUw0ZlhMeTdZY29NNXBVbDlHQUxPN1VVLXdfZ0x5TmhyS2JteDJuMUR6STEtS1JweXA4ZXBMbzljRzJ5UVhOdTdBdDlCRDNFUkJOMmt5S3pKendpV2Nu?oc=5",
    "published": "2026-08-22T07:00:00Z",
    "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
@@ -24270,6 +24699,17 @@
    "first_seen": null
   },
   {
+   "id": "812116ed86fdf9be",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "When symptoms persist despite oral antidepressants: What’s next for treatment-resistant depression? - STAT",
+   "summary": "When symptoms persist despite oral antidepressants: What’s next for treatment-resistant depression? STAT",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUmVmTVRhTXR6OXFLLVNCZFFPLTVja3kzOW16LUNxN2ZMZnYyemVmcnMySUY1bUsyeEdIcXBvWW1rbUs3TFpOeUNzMURGUHpOb2RuODVpV0xHQlZIbTlxTG9WY19vT3BrbDlkdFRLTS1KMklaLW5USFgyMUxqb25qcDh5RzZWT0FHWkJYclZKemc4dEZjTWhyQndqOUVXV2h1dDEtWjdtbllOQklsVVJnNHZfNTVyZy1TeERBRVRVV1dickZ5Zkx3X0tqWDVHZHdtYTE3TzluSUY?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "STAT",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "47a5fa5baa6aa7cd",
    "company": "Regeneron",
    "title": "WSJ Spotlights George Yancopoulos: ‘The Scientist With 1,000 Patents Fueling a Drug Powerhouse’ - The National Herald",
@@ -26536,6 +26976,17 @@
    "first_seen": null
   },
   {
+   "id": "fa8de83c949e8d44",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Is AtaiBeckley Stock Worth Buying After Its Stronger Rally in 2026? - Yahoo Finance",
+   "summary": "Is AtaiBeckley Stock Worth Buying After Its Stronger Rally in 2026? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2RlQVhURHptNXlrbkY5eFZ6THVfN0VkVDFaXzM1UHlERVFDazJydldsNk5VcU5YdkJySDVuSXlXVnd5Rl83S3FfdE9FUndueHRncXZibEFrRkJKY1N2YU1ZTEVMWjVSZVRvTnVQNUx3TW56dTh2eVJtSGk0MEhVQXRMUnpULXJSdlJEYUpidTEtYTVkWHl0MTF6c3BZcll6UWdQWmU0QQ?oc=5",
+   "published": "2026-07-02T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "55417f7e3347b2c7",
    "company": "Xenon Pharmaceuticals",
    "title": "XENE Forecast — Price Target — Prediction for 2027 - TradingView",
@@ -27434,6 +27885,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQUnJlTFdfWXRSNjFhZ2hJdlpvVjhsRFdOeVhIN2lIRVJNcUUzTFh1R2Y3R09zLTduVG9pbHQwZ0xYNDdrdTFCSkROTGdTb01kUEtKUHkyMUE0aU9BVUg2TngyaXhhR0tIeEZEOTM2VU1Ib2VKekhSZ3VrRDd0VDQweWZ5Nm5fQ056b3lzbVNsOGJCc29mWldtaFlEb1Z0QUhzbERxNFhYY000UTg0VElFTUhySi14ZnVqX193eUhXQm80d1djR28wOE1ZWXA5VVZHYW5nSVp3bUplM1JfSG1HSE9fTlRTdjVUWkktZ3NUV1Y3ZGFxYTlNQktKZk50Nkl3Ylo3eUY2SFVBWmxFZExUUjgtRm1lWlBqbzlxcEtTd1d1dFRmZjV4SVZZUnFoWmlPd2ZmMzZvYW5zODFjR2ZuX0ZCYw?oc=5",
    "published": "2026-06-24T07:00:00Z",
    "outlet": "Business Wire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "599feed20795518c",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Seltorexant as Adjunctive Therapy for MDD With Insomnia - Psychiatric Times",
+   "summary": "Seltorexant as Adjunctive Therapy for MDD With Insomnia Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMUhBQndxRmJYRnYyQ08tbTJORnpWejlIZENGQzhXNnlzU2tPUFNrRktIU0VTZEMxamNYaE9JOUh4aWVEUGo1S0JSaFdMLUtwbWpwM0wyR0xyOVVFMGE0b09qdjNuUlZWVWphUnZObTI2UGJiUDI4VDktZy0xbkpSS2IyMGRZdUZUYTBhSmREVFc3MC03OHdzeg?oc=5",
+   "published": "2026-06-24T07:00:00Z",
+   "outlet": "Psychiatric Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -29154,6 +29616,17 @@
    "first_seen": null
   },
   {
+   "id": "a6a5fb46e502bbea",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "The goal of treating depression is remission. So why aren’t we aiming for it? - STAT",
+   "summary": "The goal of treating depression is remission. So why aren’t we aiming for it? STAT",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFk5XzRNY1dyMEtwNWxhemkwSkhzZG05NnBPZjJTNmV5U2dmd1pSYy1BXzdyQnZpZy15ekJiWjg3Ukpfa1NyLU55MUxyRUFvb3RoZW1wbzNfc3ZkQVNtNFZKTkxLcWlfVV9zMllvdEVVMWloVUlHbFdpUmJYaWJWZGwwZHotRGFXWnJHOXNkb3FjdmtRbmFOMlRILS03SERUYkxRZTc5UXphSXktaUlXeXc5WE5zSmlrQ0xN?oc=5",
+   "published": "2026-05-29T07:00:00Z",
+   "outlet": "STAT",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1f4215aa33d3ab08",
    "company": "Alterity Therapeutics",
    "title": "ATHE - Alterity Therapeutics Ltd ADR Stock Price and Quote - Finviz",
@@ -30485,6 +30958,17 @@
    "first_seen": null
   },
   {
+   "id": "4593e5ab44f7f782",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals, Inc. (NASDAQ:NRXP) to Report First Quarter 2026 Financial Results and Provide Corporate Update - Yahoo Finance",
+   "summary": "NRx Pharmaceuticals, Inc. (NASDAQ:NRXP) to Report First Quarter 2026 Financial Results and Provide Corporate Update Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMlJfVzZBdnpBbElzUFVQRU9SZFVKWERKb3RnUnQwN2M3bk15MHdMTXpIajZKT3FjNFJfMjNzVWh5cF9YTnZWR0hmZ0E4a3NJS3dUVHB6ZDZVeUpoMjRXa0V4ck5MVmk4UkR4WURET25tTVNCYzRLMjhTWEVmTlBoYjJ1YU9WQ1Nza0kxQXNGU1VFVk56dG9Ncm9Vd0pZLWFWOGk5RHFUYw?oc=5",
+   "published": "2026-05-14T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "5c0ab8f49779db1d",
    "company": "Reviva Pharmaceuticals",
    "title": "Reviva Reports First Quarter 2026 Financial Results and Recent Business Highlights",
@@ -31453,6 +31937,39 @@
    "first_seen": null
   },
   {
+   "id": "0a421fad3cbb03a3",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Lumateperone Ranks Highest Among Adjunctive MDD Therapies in First Network Meta-Analysis - Psychiatric Times",
+   "summary": "Lumateperone Ranks Highest Among Adjunctive MDD Therapies in First Network Meta-Analysis Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMkhydnV3YS1ON1BrZm1SZm1fNmdfcGpDcXFQTUZPWE9WZy1FVjdMaWNHSDlldnkwWllLekJRa2pwYlJmMzJzUUp4OEpvc3V6QzAyNzIzZV9FUnZUc2tCZm4yM2Z3VThybjdyRUdYSnZ3dzdRMENfcHk2c0pYWUI4S1p0bVVmNi1lRGE4bk9BSnJIMHdKakFiS2dLb1cydXRMNTRKb29odTdobWNWNjVCMHZSdWg4SDhtbzNCUUdTakpuMGtD?oc=5",
+   "published": "2026-05-04T07:00:00Z",
+   "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8967307fdc6e3000",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Lumateperone Shows Greatest Efficacy Improvement Among Adjunctive MDD Treatments in New Network Meta-Analysis - Patient Care Online",
+   "summary": "Lumateperone Shows Greatest Efficacy Improvement Among Adjunctive MDD Treatments in New Network Meta-Analysis Patient Care Online",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYTlfekI0SHlaajhpaVN5OWREM1dpUnVPTkFDSEtOQW8zNmtQOHVfM2x2RWFXd0pkZWlUM1o4NlBVS3hqRlZqMFBaZE13emhOZjNzZGxiV183MHlZeTNKMWZtVVNuQzZ1WndWdVBNaE1UUzBhTTZsQkxXYUlzbGd0aEJIdDdnWXNSME9yN3FoalNBdjJvdVdDRnNpd2tmVWY1Zm85NmNsaFRvS3ZQQTVlbEpHUTZaTDdPSkFOMVk3b0htams4VTVNNnFjTUR2MGZSdERUUmVaSlJ1YTI5Mkd5cUZn?oc=5",
+   "published": "2026-05-04T07:00:00Z",
+   "outlet": "Patient Care Online",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ab6dccfce4c5d1ad",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "How Investors May Respond To Johnson & Johnson (JNJ) New FDA Wins In Rare Disease And Schizophrenia - Yahoo Finance",
+   "summary": "How Investors May Respond To Johnson & Johnson (JNJ) New FDA Wins In Rare Disease And Schizophrenia Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFhaUjdlVU5jTktSUjVWNWY1NW93dzkwNUlmNk1WOXJhRUxzQXRSOFREMEZ6YnRrUl9icnVuRThaTUpvWFplcHcyUjNVU0hGUThJV1FlaDczRHFuWFh1bWJ3dHByM2tKSlNWSXVtU0JZRTV4LVRvcU9Ec1pjaU5TZ084UzZkQ0VWRGVmWlZsRkFkdTQ3LVZFMjhibEo5NWFzSENDOGI2OUVqQQ?oc=5",
+   "published": "2026-05-04T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ea1f1ead53c98f20",
    "company": "Arvinas",
    "title": "How The Arvinas (ARVN) Story Is Shifting With Vepdeg And ARV-102 Milestones - Yahoo Finance",
@@ -31695,6 +32212,17 @@
    "first_seen": null
   },
   {
+   "id": "b881984df04dc242",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "FDA Approves Lumateperone For Prevention of Relapse in Schizophrenia - Drug Topics",
+   "summary": "FDA Approves Lumateperone For Prevention of Relapse in Schizophrenia Drug Topics",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2Q2eWVFcWdmLUxycVlIMjFrQXotUGNLMzVESENlb0VlNGJuRGlQZ1JuTThUV3BwOGF6Vk16eDkwb3FCeG1McDB2TEs3T2Jma3JraWxNb1FNOWEycXZSU1d1bEp1UmFTQUl2SWJ5X1F5ZmdfeElabFBWckRONjFTa1RiUlFLNDhnb0dmUVVHbld3U3RCdUg0TExjcVZSYWs5bEE?oc=5",
+   "published": "2026-04-30T07:00:00Z",
+   "outlet": "Drug Topics",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b2e3326ddbfd589e",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Athens Open 2026 Draws | WTA Official - WTA Tennis",
@@ -31849,6 +32377,17 @@
    "first_seen": null
   },
   {
+   "id": "99700cdcc4c18d83",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "FDA Decisions Put Johnson & Johnson’s Growth And Valuation In Focus - Yahoo Finance",
+   "summary": "FDA Decisions Put Johnson & Johnson’s Growth And Valuation In Focus Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODAzeDcxa3FycUo2WFkxY1RDN0xKVWxOdmxWZ3lGUUFhWEZzSmpSWWp5UmU4UGlhM3hXLVRvQS1mWDV0ckpRb0pNUGxMNFlfTVVhdGdDaUJNRTNaT3Nad3N5cm1YMF9VMXEyWld6cmMtamJIWGZTX2RyNVZEbEFzOWxQNnJGZWJtbmx0VDlvb1lNU1BPdGJJa0t0UGZwQ2Nkbm95SA?oc=5",
+   "published": "2026-04-29T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3d3e3a1bf71a999e",
    "company": "Spinogenix",
    "title": "Frontiers in Synaptic Regeneration: Tazbentetol for Schizophrenia",
@@ -31992,6 +32531,28 @@
    "first_seen": null
   },
   {
+   "id": "c8f67866f8159252",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Caplyta Labeling Now Includes Long-Term Schizophrenia Maintenance Data - Neurology Advisor",
+   "summary": "Caplyta Labeling Now Includes Long-Term Schizophrenia Maintenance Data Neurology Advisor",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZk1WWEx5cE1BNXNmMWU0OXNJRjRMY2ZKMzV4dFhWYVhKUktPNDZYazhaRUdSbVFjNHM2UG9wNXRuTTRsX3FjV1RreFMyOHpnTElzdWkxdGhCOUZhTDFQcVFVMnZ5SFp6eG5aVDNPamx0ZDNmOFNmVkxucEY2bWY5ZWRYcGtJYXJvcUNGWUk1a2k0bGR6NjlyTnBBY0VNakU4czhNMDk4WEptdWRCYVE?oc=5",
+   "published": "2026-04-28T07:00:00Z",
+   "outlet": "Neurology Advisor",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "156c2be12e543bf0",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "FDA Approves Lumateperone for Prevention of Relapse in Adults With Schizophrenia - Pharmacy Times",
+   "summary": "FDA Approves Lumateperone for Prevention of Relapse in Adults With Schizophrenia Pharmacy Times",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDRJN1JPcG1ISzRpNjk3R3RWaEd6NDdRNWtfbW54S3FCeUFVSHFKLWVzallWUWlKcXE4SlR4dWdEV2M2QXFkem02R0dpNHBQUzBqa2tlWXgyb2pOMmJfTVJfNXdrZDNjZXRvTzBTY0Vwdk1JYXNkcll4RG1lVTJ3R21iUXJ6eGxIQUl2WkNtSUlhMjU2Smk3UTR1bHB0Ty1jT21zSzhzdk5WM05NWFhfLUs2NXc2dw?oc=5",
+   "published": "2026-04-28T07:00:00Z",
+   "outlet": "Pharmacy Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "cc5b7ffc18e34917",
    "company": "Transcend Therapeutics",
    "title": "Transcend Therapeutics Receives FDA National Priority Voucher for TSND-201 in PTSD",
@@ -32043,6 +32604,28 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnZ5OC0zbWJOUFdEUUFDUFJBLXBxdmVlMzAxd3NRMW40b1lST3dZb05ocjRXNGJUZ0FEUGUtTG1hUFB4MHctb3VoVHJSOF9QYnJxU3VVaXM4cXFGeTdodjRUU1NRUWFZdzlHVm9reU1rVDV1dVVYcXJ2N2ZZQVFTbjlJemVvZFFTQXZxZ0IzWVQ0dHNsSnIyQkxCLXF2TXJa?oc=5",
    "published": "2026-04-27T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c8028fd93137c00c",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "FDA Approves Lumateperone sNDA for Schizophrenia Relapse Prevention - Patient Care Online",
+   "summary": "FDA Approves Lumateperone sNDA for Schizophrenia Relapse Prevention Patient Care Online",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWE0UHF0LVZKcFJReDBVZW9acFhkWm9Jb2QzSmVnX1V3ZThGVXZadjRQMnZVc1FuRjR1blB3T0N5dnVpMzBkM194ekl4TUZrdTBJU2sxUjdBMkJtZjdMdDBkSXR1bDJUTFJISnBndVZIUXB2bUJ2SWd2VEpSejhGRTRnNEQyREJ1QXZnRDNWcGwxQ3BZS2o2SUVLaWdsa0Ftdl81endMUzJBQQ?oc=5",
+   "published": "2026-04-27T07:00:00Z",
+   "outlet": "Patient Care Online",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "646b1c995e629e6b",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "FDA Approves Caplyta for Prevention of Schizophrenia in Adults - Pharmaceutical Executive",
+   "summary": "FDA Approves Caplyta for Prevention of Schizophrenia in Adults Pharmaceutical Executive",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEFuYzdKcGdfdmlKczlQMGlGRUpRSGVFYmJaU0tlNDV2aXk5NER1MTdWa0txejFUUmRuRmJyQjVXeW1SSFNHcURyYTFtRGJleURyNHVKN1hqbXM1MEZTejNXNnNFYWhQUHJDNmF2dUlDR1cxTmNsZzdheFdBbktjMjFfdzd1RkFOc2FF?oc=5",
+   "published": "2026-04-27T07:00:00Z",
+   "outlet": "Pharmaceutical Executive",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -34848,6 +35431,17 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNXy1QWHRWVzJENmdDTUZaZnozMHpfS09kZ0VYYVVaSkZUSUxRT1pBSFVLWmdJRXRvS1ZDQ2pPNmtfRDFTSTFwdXNDSGowVlBVc3Zhbkh0T1JqQ3FxNVQxUGk5V3FsXzNnTTRuU3NUb1JFdm1Lc09RSjdQOVNkUExMR1YwdmN0ekNmTmhSU2JUMktReHpQSGQwX0ZyZVZvQTRCdC1DaW5wUmlWV2NDWHpBM1RvNlJreVJwOXdKd3E0bDhmbDZGU2d1OGFtOEdadThn?oc=5",
    "published": "2026-03-16T07:00:00Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fa311348400ba350",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Confirms Path to New Drug Application with Real World Data and Broader Proposed Indication for NRX-100 (ketamine) Following Type C FDA Meeting - Yahoo Finance",
+   "summary": "NRx Pharmaceuticals (Nasdaq:NRXP) Confirms Path to New Drug Application with Real World Data and Broader Proposed Indication for NRX-100 (ketamine) Following Type C FDA Meeting Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1RuWWpnOXBZenlhUUI3OHdPTzYzdEU4S3ZHRVo1WXpTSWVHVDI1RjlaMkNkVWNKNk5TT1hxYWtaaVFheFhqeF9XeWdLRU9vd200UEFWZDlVeU9WTUpIMnloTUp6aC14dndoUWE5QUxOQ18yWGpoVW9UU1FxLTFMT3hpcE45OXJTQVZHd0dlNA?oc=5",
+   "published": "2026-03-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
