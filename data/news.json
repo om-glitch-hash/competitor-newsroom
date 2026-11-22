@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:55:56Z",
+ "updated": "2026-11-22T12:44:54Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,28 @@
  },
  "items": [
   {
+   "id": "6b8e30f786b162d5",
+   "company": "Usona Institute",
+   "title": "Similarly Situated? Anonymous Citizen Petition Takes Aim at Usona’s Psilocybin Application - Psychedelic Alpha",
+   "summary": "Similarly Situated? Anonymous Citizen Petition Takes Aim at Usona’s Psilocybin Application Psychedelic Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUTBudENKMjVseWpBYXdzb0NoR0U1NUtYNTZ2S2xlQnJfaU9hT3M5OGdVckJYRnJoOEJKdVU3UmpzV0pIUjQyUXJxeGVxZnFrR3dIQ21Ubzk1eUVUMm9PLWJiVFJoYTZjZXp1OHFLX3lScEREWTFQUU44SjJNNVdYNWNYbVVxMmNvNnoxVF9vX0lGcGVsUFF4RXBxdl9laXdWeTdHUVJ0MDM3ckxZX0NVbkoxNnM3VnVuenlwWkpxcmo?oc=5",
+   "published": "2026-11-22T12:10:49Z",
+   "outlet": "Psychedelic Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T12:44:54Z"
+  },
+  {
+   "id": "ca3e33074f65c11c",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
+   "published": "2026-11-22T08:50:18Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T15:29:13Z"
+  },
+  {
    "id": "bd970dc26b9f8fd5",
    "company": "TG Therapeutics",
    "title": "Did TG Therapeutics' 116% Run Pass You By? What The Bulls Got Right - Simply Wall St",
@@ -1960,17 +1982,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T17:14:31Z"
-  },
-  {
-   "id": "ca3e33074f65c11c",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
-   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
-   "published": "2026-11-20T19:16:25Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T15:29:13Z"
   },
   {
    "id": "ea9025d2085d0098",
@@ -4224,6 +4235,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3Z1UWlacmVZdkJLdG11dzltejhqVXpJeGFIZHFCdmh0WnpBcjVEd2sxR0hhZldBbXFjUHREd25pWXF4a0ptN202cVIxU0hXYkxqQ2Nwd2RVZG9kTDdtTi1nM21uMlBvczhfb2UteVFtbktPR3FjYkpSZUJubml0UmxvMlZkQWFUamRZOC1HYlFSay1ETU9pSEIzUFAwUmxaWDloTWpMeFdFMk0?oc=5",
    "published": "2026-11-17T22:01:21Z",
    "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ddfa1ec36c2a3953",
+   "company": "Protagenic Therapeutics",
+   "title": "Form 8K Protagenic Therapeutics For: 17 November By Investing.com - Investing.com UK",
+   "summary": "Form 8K Protagenic Therapeutics For: 17 November By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0g3RFF4NU4tNGlmWjJsdl82eHJVVkpLc2dRUlR4Sk5NS25aQkZ6Z3hmTjJNN24yZzZEOS1mODJ3cG05bkQtbmJyanNHeHlUaHpGcVh0dzNLaFZTU0RvWEtjUWNHM3VtXzR6UGI1RTFpYVgzSVdkLTRHZTRUSmdaM2g4bzZJajVtNzFBVDVQOFk1emhMWTFyWWpMV1kzYkdRckpuRHlfZEpxTms?oc=5",
+   "published": "2026-11-17T21:56:00Z",
+   "outlet": "Investing.com UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
