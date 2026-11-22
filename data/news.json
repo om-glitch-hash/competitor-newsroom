@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:52:35Z",
+ "updated": "2026-11-22T18:39:19Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,28 @@
  },
  "items": [
   {
+   "id": "73516352a92a3881",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value - Simply Wall St",
+   "summary": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjU3SjJzVTN2WHRDbnBhUnFmYnpfT1pTeFNUZmxjOGZoZHdXYUgySE92ak40SXJJd3NPV3BFNG1iRnoyVm1BTmZjdGdGYWIxVmVQMGMtOTJPZFFLTlM0T2N0bU91UXBUSmRWaGEwTV8wblctdVU0a0c3RWc0NFRKWXlUX1Qwb3p1MkViQnU1WFJoVUVCclNZWGlDNEMxd2E2OFZ0VWNzNkNUdDRFOWtZckZnam9xeXpLaUtpZC1SeDdUNWt2THl2VDdzZzdjTDFMelNteTdzM0ZjRm45c1Bv0gHkAUFVX3lxTFBveWVoSWpTRXM0WU5OOXdaZnlsdWRzRXVOSGwwOW1CSEx5cVZuWWctMFFMM05oVWN4ckJCVjRfeTUtUWNaY0pIbFJlR0NQNFQ3RUxUcHFpNF9mQkNqWmxJbXdzWmdxQTFsNy0wNHdzT3hIN3R4Y2huRlFxOVF6OGxtQk1Mc0JPcnBkQWZOV1NOaVFKRkJkcWhkTG1La3hXNXFNZG5yNkh5elp0WUJWMFB6RmJxMTVoQ0Uwckh1MjVUX1ZyX0pHX3RfRzdEbU05UG1jcUFWY0tkMVFndEJfckplNHBMWg?oc=5",
+   "published": "2026-11-22T18:07:48Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T18:39:19Z"
+  },
+  {
+   "id": "9e76579c005e1aec",
+   "company": "Alkermes",
+   "title": "Alkermes (NDQ:ALKS): The Neuroscience Company Hiding Inside A Sleep Stock - Stocks Down Under",
+   "summary": "Alkermes (NDQ:ALKS): The Neuroscience Company Hiding Inside A Sleep Stock Stocks Down Under",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12N2JBUUxPZDJqbWM5T2RwOThZZVBVTkZhaS1yUzdpQ0tER1piOUJWcjRYTUxRMERzZGtqWDVBQ1RvSnZYNmJGbkRZZkdfY2tkOVg1Ng?oc=5",
+   "published": "2026-11-22T18:03:43Z",
+   "outlet": "Stocks Down Under",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T18:39:19Z"
+  },
+  {
    "id": "c805cff20b8bae13",
    "company": "Novartis",
    "title": "Associate Director, Applied AI (FDE) - Novartis",
@@ -1938,6 +1960,17 @@
    "outlet": "Moomoo",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-22T05:27:34Z"
+  },
+  {
+   "id": "9270836f1bd8eb65",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Nrx Pharmaceuticals Stock Price Forecast. Should You Buy NRXP? - StockInvest.us",
+   "summary": "Nrx Pharmaceuticals Stock Price Forecast. Should You Buy NRXP? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0Si1NUGR2c0ZMVkRGMFFqSUp3QnRtUkdtTkxESVpyU3lIcWNyNkxNOWU1aHFLT2Nfb0VkcEZHLXVYQm14Z3JUNA?oc=5",
+   "published": "2026-11-20T22:24:55Z",
+   "outlet": "StockInvest.us",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T23:21:42Z"
   },
   {
    "id": "e95e3fd188a1ecfb",
@@ -3368,17 +3401,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T11:58:34Z"
-  },
-  {
-   "id": "9270836f1bd8eb65",
-   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
-   "title": "Nrx Pharmaceuticals Stock Price Forecast. Should You Buy NRXP? - StockInvest.us",
-   "summary": "Nrx Pharmaceuticals Stock Price Forecast. Should You Buy NRXP? StockInvest.us",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0Si1NUGR2c0ZMVkRGMFFqSUp3QnRtUkdtTkxESVpyU3lIcWNyNkxNOWU1aHFLT2Nfb0VkcEZHLXVYQm14Z3JUNA?oc=5",
-   "published": "2026-11-19T08:00:00Z",
-   "outlet": "StockInvest.us",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T23:21:42Z"
   },
   {
    "id": "25c183771d56b92c",
@@ -14216,6 +14238,17 @@
    "first_seen": null
   },
   {
+   "id": "904a6f20d3e894ee",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines - The New York Times",
+   "summary": "Why Drug Companies Are Rushing to Market Ketamine Medicines The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "The New York Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f7f3f88dc9a2148d",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals to Present an Analysis of Phase 3 Data on TONMYA® at the IASP 2026 World Congress on Pain",
@@ -18931,6 +18964,17 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVE3ZXpHUTVYbXRMcUNQSkdlYVZaRlB1WklFOXk3T3NaR0cwcDdMZUNjcGRnQ3pXT09VZnl1dG5CeUZfTFplM19SN2xfV1JWVGxfRUsyeFR2akxJcUdhb2xVUzZsYlZjRVdzSkxqR0lLQVlVX09GZk5SM0N0WTF5RVRDeEhQWjVOMnpMOThKU2Vla2NjTmh0T3dEQVRvUmVBQkhB?oc=5",
    "published": "2026-09-17T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "828e41d0d78e395d",
+   "company": "Denali Therapeutics",
+   "title": "SK Biopharm takes 1st Bio’s LRRK2/c-Abl inhibitor in $315M deal - BioWorld News",
+   "summary": "SK Biopharm takes 1st Bio’s LRRK2/c-Abl inhibitor in $315M deal BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkZ1dnEtZzVuY0VtVGhzRW1kRVdiVE5UdzVwNncteUNBTTJsVTNmb25meVdvOGJ2Q0Q0U1dkUVh2b21wRHdKQkM0bnJrU2tXWENVWTRHRC1naVJxX3ozWDl5X2RxTmpzNTlEZ2xubFNScFZVUVhjRm1HbERjUGNLNW1CUGswOWp3ZW8zSEcwM2NFNlhPTlBucWNRbGxzLXNhVlVZMg?oc=5",
+   "published": "2026-09-17T07:00:00Z",
+   "outlet": "BioWorld News",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -26807,6 +26851,17 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVdYN21EVDh3VURlVmFQeHdXWEloZGFlYnVIOWNrbEdnczR4Mlh4d0RfcEg4TE9jRXdmM0xIT1VfaFk1OTJUVFoxVEwxaUMzeExpc3MyVGpCdlFWV0cxQkthWWVrSHdZaE1ndG1PWmE1UkNvYTAycU1HaDJ0OWtMLWV4bDBQVEtkVFlYQXY2VXdKZGQ4VUVsUXg4aGpJRWxxQk93MFdiOXRzbHdCandHaUdIdlRMd1BCZzQ0Rk9qQXYyaWMzSnRDdk9KMTl6Zw?oc=5",
    "published": "2026-07-15T07:00:00Z",
    "outlet": "Sleep Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "34ad830e79fb69c7",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Is NRx Pharmaceuticals, Inc. (NRXP) Stock Positioned for Growth Through Depression and PTSD Treatment Innovation? - Yahoo Finance",
+   "summary": "Is NRx Pharmaceuticals, Inc. (NRXP) Stock Positioned for Growth Through Depression and PTSD Treatment Innovation? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaU5kMUt0QWhmM3I1azVFWVhCbVNOZEVqbXotTHdlblJteFlxcmlkcmxHVHp2clZzdVA2SldNVzZhbklWdmVWcmV0UzVLTWRQc1Y4aXZldDJRM2tCbjJmVFFHN19WTTRTSTFnQWl3SGgxeEh0eGtMclpoTFRkbDZhZVZnMllSR1lRTklseVhvTlg0Yi1LdEtnMlMzRQ?oc=5",
+   "published": "2026-07-15T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -39047,7 +39102,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - Eli Lilly",
    "summary": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjdwYWFSNE1WN3JMRkFzUnk5NGk4cWo3N05TMGhrdHphaFJDajVYeUZDRnR3TG43Q0ZXUm1lZXN6QXM4LURmWldsX1NkaWgyY3R5VWpjd2Z4RmZOY1ZuZWZ3NjNYLUVYUm5NdHg0dFVURlpMbnY1dU5mUVJtV0lOLUVlNEk2U0RDMklxSXNrcEVIUW8yUWNYeE05TUZQOWhVMXhvaFZfaWdwbXJYUlVOUGZ4Z2h3UXA5?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0MHZlRnFhQUVIclZpX19KdS00Rk1kX2R5SERTa3ZqT3FhMDNWc083ckYtRnZsaWt4eTM1ZDlHZWdjUi1GazVwTlJnZHdEdjNKMUk0?oc=5",
    "published": "2026-01-07T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
