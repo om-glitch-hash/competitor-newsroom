@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:28:55Z",
+ "updated": "2026-11-22T21:17:39Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1918,6 +1918,17 @@
    "first_seen": "2026-11-21T02:27:19Z"
   },
   {
+   "id": "dbaea7c23b0d3f99",
+   "company": "Supernus",
+   "title": "Wells Fargo Initiates Supernus(SUPN.US) With Buy Rating, Announces Target Price $54 - Moomoo",
+   "summary": "Wells Fargo Initiates Supernus(SUPN.US) With Buy Rating, Announces Target Price $54 Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYl9PLWo0Ylp1enRyY1dRdUY4Tl9pcGtBcWp2TWljVlB2ZnY3endhT2JBekpNZ3JLejJIQVFHa0dScEpHZFJRcGVRbXEzM2xiY0tycnlEZ0g5WktqVlkyM2xMNzJzTEhSS0RINlFrMG5Xb215SnBPaW14ZGp6UHdjV3hSc29rbUNDbWlfcmFweEZVMWdjajhrU0lMODk5VFJCQ2JXcVBjZjd2b0pxNlpQMGo4MHY?oc=5",
+   "published": "2026-11-21T00:54:02Z",
+   "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T21:17:39Z"
+  },
+  {
    "id": "e1b4372eadfc79ec",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson (JNJ) Stock Price, Quote, News & History - Benzinga",
@@ -2191,6 +2202,17 @@
    "outlet": "Dealroom",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "2c8d11e456a5f762",
+   "company": "Supernus",
+   "title": "Wells Fargo initiates Supernus Pharmaceuticals stock at overweight By Investing.com - Investing.com South Africa",
+   "summary": "Wells Fargo initiates Supernus Pharmaceuticals stock at overweight By Investing.com Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUZDbHZQNjVKMW1QRVQ2YldZaVlOazd0V055TWdVR0dlbHhfbDVfU1Z1WHdtTVZTdGZNMEY2VUZzRTdSNEpXY3NlcktJV0lIOTdBb3Zfa3ZZUy1IZ05PRlA4dFZNQ2lzYjI5SmlwRGJQYXBCRHBYZVNMaDh2Nndyamsydk9xTWRqTnNHTnBrODVtV18xZnVjTzB0SF9XWVlWWE1TNlVRUDBZVFhWSlVtbDRZNzZpb0ptR2N5REk2V2lxYkxnSEE?oc=5",
+   "published": "2026-11-20T15:14:32Z",
+   "outlet": "Investing.com South Africa",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T21:17:39Z"
   },
   {
    "id": "9354da7e88682c43",
@@ -3645,17 +3667,6 @@
    "first_seen": "2026-11-21T07:43:31Z"
   },
   {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZzZV9wcG9yMkJkbTJidXVtdUkxV0lvZzZoNlZQUGduMkt4LVAzbmVvSm5kLWE5Z0lWajJiNmlCdm5FSzc5U2J4b0NMbURnTHNtWHdiVndINjdScnV3Y2JEcGVwUWpPYjFPYzd3dWNHWE1vc3JPMnNveGhvMjZVVlc1TU03eHp0cGxYaXNySG5MN2w1ZW1Gc2pFU2N2OVZkQkxXV3pZQ3l4UWVNRTBORHVzYw?oc=5",
-   "published": "2026-11-19T00:49:03Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
    "id": "d0312c4cb0ad9d03",
    "company": "Alkermes",
    "title": "A Look at Alkermes PLC (ALKS) After 3.1% Gain -- GF Value $33.66 vs Price $46.85 - GuruFocus",
@@ -3830,6 +3841,17 @@
    "outlet": "Coinbase",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
+  },
+  {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
+   "published": "2026-11-18T15:14:53Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "ae43ecd6c96a7fd5",
@@ -4191,17 +4213,6 @@
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVVRQdlRVVVpkZi1nM05COGh5Sm1TbUoyd2J4N3piOVNzMm5vTnAyQ3I4M0JoMzctMV9kcWpqcUJWTWhmbW1NbnFxajZHZ3J5azc2WmkxNnZ6dUltejJzbmF2M1NIVG5ESzNZRm1TbXRNZk15R0V2YUw1VlFQVDU0aUF5dzJ6aG0tYXV4MmlTakhJRDhBWkY4Y2Jwa000dEFnMDN4OThqNFNGM1h4RXRTZlRLdjU3SEViVHpSLU9CQzNnVnhrcmdXV3h1OVdpVHVKbG9kaEVZRGRQTTZqaU9ycFpDSVZRaU1GbkNwaF9rdFlWRmE3cnZVTDhKZEgzdG9KX3JwR2ozQW1iZjJCS2tUSTQ2NjU?oc=5",
    "published": "2026-11-18T02:56:46Z",
    "outlet": "Helus Pharma",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUTREX2JPNVU0cHBhZTVEazJjUXNXSEMwVGo5WjFRZXF6RXU1TU9Sa1VvRjN0VV85VmtHRVhNM21ZQURFN3U5MkdZOFRZOVJTVzBtSmdTRkx2ZFJUQ1RlTlF4Ti0zU2NaTFBvalBjNXMwYzZVNExLTU5IQlU1YmRMdHk0YUNhTV9XNEhCQ09xekpNc0o2Rl9VOVo4YXl4azh6VHlWNUd2ZHI5VUVUT3hrbHJYT0FMcWVjTlg5d1pNdWxSREI3anZtaE96TFhFdw?oc=5",
-   "published": "2026-11-18T02:10:41Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
@@ -5029,6 +5040,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
+  },
+  {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUNySXI4SVdpNHBFNGo2OEJ5TU5pcTZZM2VIVjY1aUFNcGV1NG5KYS05NkJkNVdzRzRlS1Z4QW9xQVVKX0RfcmdtNTlvcGRJYmlYM1FtZ2piRjFHbms3dVB4RDRpaW9MSUtUaGVEenJ1MVdsNVBCSW5RWHdMUlhYYUhXcGZBdmt2em95d0JJaHI5amJ6dkFmcTBkQlJiOVdGMGN4M1RNVkZHQ1ZzVksxRVBHWQ?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "dba55f65da807efc",
@@ -18891,6 +18913,17 @@
    "first_seen": null
   },
   {
+   "id": "e9dbbb059a17adca",
+   "company": "Supernus",
+   "title": "Branded Pharmaceuticals Stocks Q2 Results: Benchmarking Supernus Pharmaceuticals (NASDAQ:SUPN) - Yahoo Finance",
+   "summary": "Branded Pharmaceuticals Stocks Q2 Results: Benchmarking Supernus Pharmaceuticals (NASDAQ:SUPN) Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGZlbEFWZE9FQUZUZ1FUUGlSVDFUV1JBUU1GQWtNVnpCS0lHRHZEcndlYmNNckNRdEY0OTBLZTJnT0F4bFl2ZjI1amNyZ0VnUVJjMXJlYnotejFjSFNubEZXd09CcG1PZ3RfMlFGdjdoX1RXc3dBcEdsRlhtVW84cjJnLVg0WG9XMlY0eXhROERtbGhHTDRST3RPMVVkb3pqVjNqZw?oc=5",
+   "published": "2026-09-18T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "175772e2e85dcdcf",
    "company": "Aspen Neuroscience",
    "title": "Peter Thompson, M.D.",
@@ -21437,6 +21470,17 @@
    "title": "The Lancet Neurology Publishes Data From Alkermes’ Positive Vibrance-1 Phase 2 Study of Alixorexton in Adults With Narcolepsy Type 1 - Yahoo Finance",
    "summary": "The Lancet Neurology Publishes Data From Alkermes’ Positive Vibrance-1 Phase 2 Study of Alixorexton in Adults With Narcolepsy Type 1 Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObzVOR3JtbzlVaUt3cnNRRDdaSFJLNFczdWZYWm5lbVUyN1lBLVlUQWNfbDZ2dEZ5X3ZnZ2tBYmlOMnlnVFE2cTg1SkV2Sll2d19Qck04VnhJN0luTVY0VFh6S3ZJT19aN0V2MHZKVDBPMkRHcFhoQkpqR0c5b2R5aXpnbGQ1dnc2NUEtUm80ZWU5c3dNckg0enZ6aXN2NW5yRnpn?oc=5",
+   "published": "2026-08-24T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "dac308885ab380e2",
+   "company": "Supernus",
+   "title": "Is the Options Market Predicting a Spike in Supernus Pharmaceuticals Stock? - Yahoo Finance",
+   "summary": "Is the Options Market Predicting a Spike in Supernus Pharmaceuticals Stock? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVFNbElLdV91emdYdzMxOXVXMV9HYl8xd0NwekdZT2VfNmZ3Z1QyY1pGRlUxTTZzSFpueHBWRW8tUmxkcmNVbjI4R2g5ckdYN1B0aGdNNWZ1Nzl2RDJFSy1qNjQ3Ym5IUWo5a042OTBGTXdCLWxaQnE0VlBUUHdqSVpXVjBnVzJPMkp1M2wwVEJ1MHlaWlN3VVczQjNReDdIYUZpbWVYQm1fQQ?oc=5",
    "published": "2026-08-24T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -24897,6 +24941,17 @@
    "first_seen": null
   },
   {
+   "id": "e643bfc46b119d6e",
+   "company": "Supernus",
+   "title": "Supernus Pharmaceuticals Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+   "summary": "Supernus Pharmaceuticals Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12cXN1Mi1MX0QtRktHal9SMEl5WHJrdUZ1aUVMcHRSUFA0eVZTV1hTVmxWMVpWUUlFWGxNYjNwTGtZenFJejJ6UG1jSkhFUVFXUGduQjYyUmVvSjlGUjh2ek5FVktXNFhhdUJHSXZvRlpVQ0tIUHZVbjlkdUQ?oc=5",
+   "published": "2026-07-28T12:17:30Z",
+   "outlet": "Revelio Labs",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "82210fc56793b6eb",
    "company": "Idorsia",
    "title": "Idorsia advances global rollout of QUVIVIQ with Jamjoom Pharma partnership in Saudi Arabia and the Levant - Idorsia",
@@ -25100,6 +25155,17 @@
    "title": "Alkermes Q2 Earnings Break Even, Revenues Beat Estimates, Stock Down - Yahoo Finance",
    "summary": "Alkermes Q2 Earnings Break Even, Revenues Beat Estimates, Stock Down Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUlCb1RXUzY0VzROV0F1ZXlEeFNsQ1dPLVRlN0VHbFoxXzBXLXJzclc0eEJScFhtbmhLck9qRjlhdVdpWUVuVl9rXy10VHh5X2w4RldNRGdLV0REaTFWbjRaWW5rMjVfcXdlbGE0aU1lS2tHOEdacERhVXdwaWVxRnpHWEhZWThFWnFVSWxjTTJFbW14bm44?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7ed5e286a1479bb5",
+   "company": "Supernus",
+   "title": "Supernus Pharmaceuticals (SUPN) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
+   "summary": "Supernus Pharmaceuticals (SUPN) Expected to Beat Earnings Estimates: Should You Buy? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFc2eV9ERzRhVWxlNTBlUm1Jdk96aWNBd3A1UHdmcERoTmo4TWhqZkhTQlVhekpmMFFITGVBVW9hSU9acHZmWVgtazBZU1NZQi1BMmNZNkdENW9peEw5UlhrRDVsRFpQRDdoRjlfRWJzdEJGUTlXa1JFWGI3cEwxWGhVQWpaSjJJNklGZW5lWm9ZbVlsQV9LQi1wXzZfRzNtRlhmZlVNSUtDWmlN?oc=5",
    "published": "2026-07-28T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -28996,6 +29062,17 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelB3bmtrOER0ejRRLVI5eTZjeGZPT3JkZWZTaFl4X1FvbXlUUHZRU09VR09mcUdrRklPTFFmT1ZSR0lQY1Z3SG5HYVFfQW9LenFyRkxaZThjMGJFdXV4d2N5dUdmczNudmlkMmZNRzRCQ285SlJBNi1raHRsNlJIMGpOSU4xaUlUZWRtdEdwbGtHTHdyN29qQ2lIUkNTWDRCR1lPZmtDZm9JRHpYS1JlS1ZB?oc=5",
    "published": "2026-06-17T07:00:00Z",
    "outlet": "Bloomberg.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "77408aab4b7a45ca",
+   "company": "Neumora Therapeutics",
+   "title": "Why Neumora Therapeutics (NMRA) Faces a Major Catalyst From Navacaprant’s Upcoming Depression Data - Yahoo Finance",
+   "summary": "Why Neumora Therapeutics (NMRA) Faces a Major Catalyst From Navacaprant’s Upcoming Depression Data Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGNwdm9ac0ZvakJBREowVEFBNDdydnpRbVU0UnFtUG9SMlhORmtNZEMtRU9EOUFrdUdwZnpoMnFHOWc1eEhRTkJkdnUwNFVxc1FWV0ZpUHFYTXpMU0xuZVhQcFdnZXZVOWE3ellMZkRQMWRrb2phLVZjcmNZcnFndkhZV0FINmJzRldOLUR3bjJVYlkwWnhydjJmNmc?oc=5",
+   "published": "2026-06-17T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -37566,6 +37643,17 @@
    "published": "2026-02-18T08:00:00Z",
    "outlet": "Medscape",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "31ba33f0fa947b83",
+   "company": "S.Biomedics",
+   "title": "Catalent and S.Biomedics Announce Partnership to Develop and Manufacture TED‑A9 - BioSpace",
+   "summary": "Catalent and S.Biomedics Announce Partnership to Develop and Manufacture TED‑A9 BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHlyU0stWUx4VlNEdmpXSXlBaGY2YmU1VXRHZnZXQmp1TlZPVklPbWNYZmRRN2NqZUZzcWZZeHYzN3ZudG4tVVN6a1ByQThvOXJNZmUyQzRQQ3V5ME5QQS1yLXZSV1lUaXpqeEZFbHlLNENPOWl5bUJETl9HWUZUenBwWmdRbTNwMV8xeFg5cUZ4WUtaQ2ZxVHgtdE1jV21sb05lVkxDWjBBSlhFYUhzd0k1LUFKQkVkVFdv?oc=5",
+   "published": "2026-02-18T08:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
