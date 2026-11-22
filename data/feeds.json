@@ -159,7 +159,7 @@
   "feed": "https://news.google.com/rss/search?q=IO+Therapeutics+IRX4204&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"IO Therapeutics IRX4204\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T09:32:06Z"
  },
  "S.Biomedics": {
   "feed": "https://news.google.com/rss/search?q=S.Biomedics+Parkinson&hl=en-US&gl=US&ceid=US:en",
@@ -214,7 +214,7 @@
   "feed": "https://news.google.com/rss/search?q=iCamuno&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"iCamuno\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T09:32:06Z"
  },
  "Remepy": {
   "feed": "https://news.google.com/rss/search?q=%22Remepy%22&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-22T08:33:36Z"
+  "checked": "2026-11-22T09:32:06Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=%22Zambon%22+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -359,7 +359,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Usona+Institute%22+OR+%22Usona%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.usona.org/news/\", null, \"\\\"Usona Institute\\\" OR \\\"Usona\\\"\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T09:32:06Z"
  },
  "Alzamend Neuro": {
   "feed": "https://ir.alzamend.com/news-events/press-releases/rss",
@@ -545,7 +545,7 @@
   "feed": "https://news.google.com/rss/search?q=%22MapLight+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://maplighttherapeutics.gcs-web.com/news-releases\", \"https://maplighttherapeutics.gcs-web.com/rss/news-releases.xml\", null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T09:32:06Z"
  },
  "Newron Pharmaceuticals": {
   "feed": "https://news.google.com/rss/search?q=%22Newron%22+OR+%22evenamide%22&hl=en-US&gl=US&ceid=US:en",
