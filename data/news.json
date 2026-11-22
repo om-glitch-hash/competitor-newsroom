@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T00:06:13Z",
+ "updated": "2026-11-22T01:24:07Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -3139,17 +3139,6 @@
    "first_seen": "2026-11-21T23:21:42Z"
   },
   {
-   "id": "9fbc78eed84909c1",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
-   "summary": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? StockInvest.us",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ0lNbXpmZ0Z1VFF6WktkLTRKOGZUMk5QOW12bjM1LXd0NXdyT2xscXBzVlktbnJRLTFvYWJ0a3VLSG5FWHU2Tw?oc=5",
-   "published": "2026-11-19T08:00:00Z",
-   "outlet": "StockInvest.us",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "8b4254665a7d3e03",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (R7E0.DU) company profile and facts - Yahoo Finance UK",
@@ -4569,6 +4558,17 @@
    "first_seen": "2026-11-20T00:26:37Z"
   },
   {
+   "id": "9fbc78eed84909c1",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
+   "summary": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ0lNbXpmZ0Z1VFF6WktkLTRKOGZUMk5QOW12bjM1LXd0NXdyT2xscXBzVlktbnJRLTFvYWJ0a3VLSG5FWHU2Tw?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "StockInvest.us",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dba55f65da807efc",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Stock Price Forecast. Should You Buy VNDA? - StockInvest.us",
@@ -5754,6 +5754,17 @@
    "published": "2026-11-16T12:00:53Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c6832e16bd660620",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Announces Positive Topline Results from Phase 3 APPROACH Study evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder - Toronto Star",
+   "summary": "Helus Pharma Announces Positive Topline Results from Phase 3 APPROACH Study evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder Toronto Star",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNSHhqdDJyNXRSSzU1QWwtaTNCQ2p6dFFEa0U3MUpHM0Z6dEl3LUxtd01oOWxwc19BQXRvY0VXX1FmSUtYdm1xNDhwTDJFcDByV1hxaHhKa3hHZXFmVmQ5Q1dQWndJUGRfZk5sRWtiMFNILVY5d1VhYmczR1c4NkM1V1VSakRBT1dPZmM5ck5jaXllSWE3Q0tKamVOeUFDZHBWMTcwYmxQSUQ0VGJQTG0tQ3pHSFBERjlHenV1NmNoVGF2U1pyYlRiOW1JSTFlMVphOTBCNXFZSDZkTjdYbE0zbjN4V2hpeUpibmlwMWl4bEVZbU5VeGFhcjF0WGVfOFRQR0FUcGQyYVNlSVZ0Sk1ZSUNCRHJfM2s4YlhFdnF0UVQ?oc=5",
+   "published": "2026-11-16T12:00:00Z",
+   "outlet": "Toronto Star",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -16108,6 +16119,17 @@
    "first_seen": null
   },
   {
+   "id": "108797ea420455dc",
+   "company": "Supernus",
+   "title": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN - Business Wire",
+   "summary": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcW9ac3pKOXNTVWk0WW1aRTJTTzdRY1V2MmI3c2tRMjN3MzlCRHpUUXhxR3BYZU1WRnNscW5wTHEycUJZbU1mVVhfMXBBR3ZCREczYlBHUXJVZXV4MFBUOXNxVkhYSm1BOWtJMXZoTTlQbGpVXzUyWXQ3dkpOeTFjNVZKXzItbFZsQk1rNmdOTnVNUm5oRTE4YVZpdEF1MFBpQ2NhbmZMZFJOVnpqUFVFRUZuRi0yYUlibDFmazhXc2xDRjVNUTBjUEh5OVJUbXk3dDhpdVNrVUlYaHE5UlBKRk1qSndxOFpCWTl1cDVycXY0cWh3c1FvSVg5Q2FKSkNWemlvR2pyWUxKX21wbXRaQmY5Zlpfdm1pcmR1SXpYbEhXQVZXX1kzMXpxVGdqZmdoVkV6TlB5dGRZWmZ0?oc=5",
+   "published": "2026-09-24T07:00:00Z",
+   "outlet": "Business Wire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7de0d80ad027e5b6",
    "company": "Otsuka",
    "title": "Otsuka Presents New Phase 3b Results for SIMTRIYO® (centanafadine) Highlighting Consistent Improvements Across ADHD Symptoms, Anxiety, and Associated Features in Adults with ADHD and Comorbid Anxiety Disorders at Psych Congress 2026",
@@ -17424,6 +17446,17 @@
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMXNqSVZOVXFFQThJLTdXRGZQUE5kenNqOHhJSk5ZYmdYSGJXaG02Y1ZzWGdRUEl3czBzMlA0SUE5Q3hqNzlQMVJvOEkyUHI5Y1lGcEVVa0d0UlBjS2tEVV9FNUhZcFpJSWJFWlFMaExRNWFiOVRMYnN5cnc2NjNyNUZNQkNQLS1YYjVPWkRIcmt6QmJXSzBMT016VmFIQmtvVFJJYXF0eHc2MkYwaUJSVTl3anAtOVVPZWx1TEV1VW82TjFkMzJ0WjJKeGZoc1JlcFVsUDJ1SVpJeWVCMTBHNGpKTHp5T1h1aWEzc3h0NC1MQUl1LVE?oc=5",
    "published": "2026-09-17T07:00:00Z",
    "outlet": "Quiver Quantitative",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4b55e5d9ae46f4fe",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne® Expands U.S. Commercialization of FDA-Cleared OneRF® Trigeminal Nerve Ablation System with New Southern California Distribution Agreement - Yahoo Finance",
+   "summary": "NeuroOne® Expands U.S. Commercialization of FDA-Cleared OneRF® Trigeminal Nerve Ablation System with New Southern California Distribution Agreement Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVE3ZXpHUTVYbXRMcUNQSkdlYVZaRlB1WklFOXk3T3NaR0cwcDdMZUNjcGRnQ3pXT09VZnl1dG5CeUZfTFplM19SN2xfV1JWVGxfRUsyeFR2akxJcUdhb2xVUzZsYlZjRVdzSkxqR0lLQVlVX09GZk5SM0N0WTF5RVRDeEhQWjVOMnpMOThKU2Vla2NjTmh0T3dEQVRvUmVBQkhB?oc=5",
+   "published": "2026-09-17T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -21549,17 +21582,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84ZUxvNGVtZy1uWjVPbkVwRi1GMDlRc21pRm1kOFlTSEdFbmRZM1JsbUZILTJ0c0FuUi1TS194Y182c2tacjR6QXVTTFVLR3YzU3BVTmxVdEw5MWpy?oc=5",
    "published": "2026-08-08T07:00:00Z",
    "outlet": "YouTube",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "108797ea420455dc",
-   "company": "Supernus",
-   "title": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN - Business Wire",
-   "summary": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSTNlQjVteHFrYnVOSU9NelRBRVpxazVvZjNPYTllVlItZnI2YmVJZVI4ZUhZX3ZzWVk5NzktNGlzQU00d21ZaUlFXzlDcWlINzJmQUpXQll1TzZ2d0tUcnRGdzhNajZJb0lnR2RwRTQ2WkhuZ05CWGdqV0o4eFV1VlA0eHJad2NLOHN6RzZIeGxzLTg0TXVES0RGc3dNZTkzcENHc0M0SmFDOUlGS1J5SWxaV0p0a1NKN2JRbDM4Y29NYVZIYV93Y1R6aEk1S041Z3gwR3hVbHc2eXpFc1E4d3hTTl9tMHFTMzFCUzNDcjl1TGY2VXVNSC14NmdVVFdMcm4zLWZJRXc1WHNGS0Y2QzBXM2NIeVVVcFRQVEhEd3VKcS0yOW0tZVV4YTVIUExuVU1jM2tvSi1heGtO?oc=5",
-   "published": "2026-08-07T07:00:00Z",
-   "outlet": "Business Wire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -29462,6 +29484,17 @@
    "first_seen": null
   },
   {
+   "id": "1689c96fe1240193",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley targets Q2 start for Phase 3 depression trial as pipeline advances - Yahoo Finance",
+   "summary": "AtaiBeckley targets Q2 start for Phase 3 depression trial as pipeline advances Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3g2MnlWdGZONUE0b09jdW9XdTcyRHF6TXN0djBKd3JnMmRKSE9rblZqei1UdUI4Wi1raFRFdFJZbUYxMjd4b3ZMa09WU2ZnWVNSS3pXSXYwOU4tdllMeHM2c21McmZyYmRvbExfZzBwc18tVkF2VHJrS0p1WXJEU3gzbzJxRXBTTy1CcjgwRUw0TFA5bktWeTNpdjdRRXRjSUlyeldR?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "586be46e3d15697d",
    "company": "Reunion Neuroscience",
    "title": "Reunion Neuroscience to Present Full Data from RECONNECT Phase 2 Clinical Trial at Upcoming ASCP and APA Annual Meetings",
@@ -31109,6 +31142,17 @@
    "published": "2026-04-21T07:00:00Z",
    "outlet": "BiotechDispatch",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7b08269a8f8c1eba",
+   "company": "Tortugas Neuroscience",
+   "title": "Tortugas Neuroscience Launches with $106 Million to Advance Clinical Stage Pipeline Targeting New and Major Neurology and Neuropsychiatric Disorders - Business Wire",
+   "summary": "Tortugas Neuroscience Launches with $106 Million to Advance Clinical Stage Pipeline Targeting New and Major Neurology and Neuropsychiatric Disorders Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdW5qN1ViRkVBZjRyRDFJUE9NMkt1QnVsa0l5cEhIRGxuSlNIY0xGX3VHaWFGQ1FNZHN1NHJyMVRHMC1iSkIydTU2TWdiOUtiQVZ6NHpSckpweVpDYmtLaVRFTGRGQ3ZPMVRoRFREQTgzVjZqbjRmbWx6R0RfVm4tSGl4TU5BU3BjRE42dkdRVm9KaEpXUGhkNXJ2Z3VOTktCTnBOcEVSR0JZdVluWXQ4QzQ1MkNFSGRsVU1fNTJBTHZhWkxYSmw3QXd5bHJRQ1YyVG9rbDIzVjVpa2RTYmJ5ZFQ5VTB4dzJKNk1WYlFFcU9yS2JsUktoZUZEVm9yYjNFVnI4Mmoxd0Jra2hpX1NSaDhIU28xQ051RzBjeUs4TXp3ZzNfUzU2VGVsQlZtaUF2?oc=5",
+   "published": "2026-04-21T07:00:00Z",
+   "outlet": "Business Wire",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
@@ -35424,6 +35468,17 @@
    "first_seen": null
   },
   {
+   "id": "41f70a319f8ced32",
+   "company": "Xenon Pharmaceuticals",
+   "title": "SEC Filings - Xenon Pharmaceuticals",
+   "summary": "SEC Filings Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxORlBxWlVjSzd3V2tDNGdSc0dBNW81Y1Z4emFfV1U0ZUJqN2c1NUl4NzhMWThsZzk1d2w2Q2dob3JvOHlfNjR0aGxtdWdMV1cxanAtQUFaQ1g2SjlITUg3dUVfOUdnSDAzbEh2UEZ4T20zZ3J5bzA0Tl9yX3M2WjZfdzZBSk5DRHFMZ3lWdkpRT012cnR6MnFiU1JSX205Wjd0OWFFbExmcHFYQVFxcDNoVlZxdXB2NTVQMWp4clBEZkdRNEszSFdaVVVCLWo0X3NuUlp2SGFkY3hNeXNUQnRMZWlMU3hMZEpTYjNEaUZoTWNqbXlweEY5RV9LcDJ5QWdBYy1sUUFVT01XRjZsMWstWVZESmZBY1plbjlsSE9aOFUyQ0xPbW1NUWdicWdwblh4UFRuNg?oc=5",
+   "published": "2026-01-22T13:52:04Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "04465746f68b28a8",
    "company": "BlueRock Therapeutics",
    "title": "FDA grants Orphan Drug Designation to BlueRock Therapeutics’ investigational cell therapy OpCT-001",
@@ -37745,6 +37800,17 @@
    "first_seen": null
   },
   {
+   "id": "24e3310a3bf5ec9a",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Showcases New 48-Month Azetukalner OLE Study Data in Epilepsy at AES 2025 - Xenon Pharmaceuticals",
+   "summary": "Xenon Showcases New 48-Month Azetukalner OLE Study Data in Epilepsy at AES 2025 Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQkwxWVh2V09EN2RPUVYxbkhWMU83Q2pEMy1DSjliblZVMGVsY1pHa2d5LVItWGNpX2J0cnM0MnNfVmJhQld3cHJQTWh3cmpRekdIVmo2UG5IWjJnTVFCSXhiY1RXUS1jSXBESkpJV1RtNy1rSjI4V0Q2RzFIZnZsOEhwaG1PQkw5ZmhMMkRqNUtMSE9hUEM5NjRrMVJuYjRwRzRqOTlfcXBUNndxbHpPbTFCZ3ZXUnczU1JTaFQ4TFNKTi1NeEJQZXdqMmZJQQ?oc=5",
+   "published": "2025-12-05T08:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "3a80e1470d1822ab",
    "company": "Denali Therapeutics",
    "title": "Denali Therapeutics 2025 Investor Day - Denali Therapeutics",
@@ -38147,17 +38213,6 @@
    "summary": "Press Releases Denali Therapeutics",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QejZfeVZIaG01WnpGc05rYUx3bWtWWFcwbHBrWlA5X1hsUGxjbm4zb3hpbUp4dU1tT2hjMk0tT2VLdzEyYUkzV2FWY1Z6VXNWYzF3TGpSa19KZmxkQzVsNHFIQThFZw?oc=5",
    "published": "2025-11-23T00:16:59Z",
-   "outlet": "Denali Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "50c2e6b6e7e9ea49",
-   "company": "Denali Therapeutics",
-   "title": "Parkinson’s Disease - Denali Therapeutics",
-   "summary": "Parkinson’s Disease Denali Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVZUWUhVZ05CSE1jQzNkSDNnMm1IdXc1cEYzY1BrZ1hVckRjSUR6Nmt0aGRqclRGZFlYMGc3SHJFZ0VtVmV3THBXbHBoamVzRXVSZ054U1RDMHFYdEh4QkVxVVdERDdudkRldmg0Q2RUMlhRUnBBdmozUVNoOTJUaE9WZEl4aVpk?oc=5",
-   "published": "2025-11-22T01:08:54Z",
    "outlet": "Denali Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
