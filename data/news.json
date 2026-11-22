@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:59:54Z",
+ "updated": "2026-11-22T23:41:30Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -3667,6 +3667,17 @@
    "first_seen": "2026-11-21T07:43:31Z"
   },
   {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZzZV9wcG9yMkJkbTJidXVtdUkxV0lvZzZoNlZQUGduMkt4LVAzbmVvSm5kLWE5Z0lWajJiNmlCdm5FSzc5U2J4b0NMbURnTHNtWHdiVndINjdScnV3Y2JEcGVwUWpPYjFPYzd3dWNHWE1vc3JPMnNveGhvMjZVVlc1TU03eHp0cGxYaXNySG5MN2w1ZW1Gc2pFU2N2OVZkQkxXV3pZQ3l4UWVNRTBORHVzYw?oc=5",
+   "published": "2026-11-19T00:49:03Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
    "id": "d0312c4cb0ad9d03",
    "company": "Alkermes",
    "title": "A Look at Alkermes PLC (ALKS) After 3.1% Gain -- GF Value $33.66 vs Price $46.85 - GuruFocus",
@@ -3841,17 +3852,6 @@
    "outlet": "Coinbase",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
-   "published": "2026-11-18T15:14:53Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "ae43ecd6c96a7fd5",
@@ -4224,6 +4224,17 @@
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVVRQdlRVVVpkZi1nM05COGh5Sm1TbUoyd2J4N3piOVNzMm5vTnAyQ3I4M0JoMzctMV9kcWpqcUJWTWhmbW1NbnFxajZHZ3J5azc2WmkxNnZ6dUltejJzbmF2M1NIVG5ESzNZRm1TbXRNZk15R0V2YUw1VlFQVDU0aUF5dzJ6aG0tYXV4MmlTakhJRDhBWkY4Y2Jwa000dEFnMDN4OThqNFNGM1h4RXRTZlRLdjU3SEViVHpSLU9CQzNnVnhrcmdXV3h1OVdpVHVKbG9kaEVZRGRQTTZqaU9ycFpDSVZRaU1GbkNwaF9rdFlWRmE3cnZVTDhKZEgzdG9KX3JwR2ozQW1iZjJCS2tUSTQ2NjU?oc=5",
    "published": "2026-11-18T02:56:46Z",
    "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUTREX2JPNVU0cHBhZTVEazJjUXNXSEMwVGo5WjFRZXF6RXU1TU9Sa1VvRjN0VV85VmtHRVhNM21ZQURFN3U5MkdZOFRZOVJTVzBtSmdTRkx2ZFJUQ1RlTlF4Ti0zU2NaTFBvalBjNXMwYzZVNExLTU5IQlU1YmRMdHk0YUNhTV9XNEhCQ09xekpNc0o2Rl9VOVo4YXl4azh6VHlWNUd2ZHI5VUVUT3hrbHJYT0FMcWVjTlg5d1pNdWxSREI3anZtaE96TFhFdw?oc=5",
+   "published": "2026-11-18T02:10:41Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
@@ -5051,17 +5062,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
-  },
-  {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUNySXI4SVdpNHBFNGo2OEJ5TU5pcTZZM2VIVjY1aUFNcGV1NG5KYS05NkJkNVdzRzRlS1Z4QW9xQVVKX0RfcmdtNTlvcGRJYmlYM1FtZ2piRjFHbms3dVB4RDRpaW9MSUtUaGVEenJ1MVdsNVBCSW5RWHdMUlhYYUhXcGZBdmt2em95d0JJaHI5amJ6dkFmcTBkQlJiOVdGMGN4M1RNVkZHQ1ZzVksxRVBHWQ?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "9f871b718e8894b8",
@@ -12284,7 +12284,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -14044,7 +14044,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxZm0tN3FPTkVuazVGa2s3bXQtMHpIeTNoLVc0ckJ5d2YxdnZCNEkxZGx0WWFham9ldTVtbFV0aVRJRFF1a3czaFFMRVhPNUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGFUbVF4WlEtdno3dzZxUmxzOWdXMHIxM3c0c0FnLTJqN0VvaEpqTjNGTmNaOVpOUWlRSU9jS2tWX3hpeEV3Qm96R180UFVYVTcwZ0VZaEptd1BxT3dmLXlaS0dTT0REUjg2QkpFNnZBdzJMcXdvNkYyaXZHTHhrUUpna2lXNUVCRDRNSFExLUdwMzVERWtnbmJZQVJ3ajZEdWJtWGM3dTdpY0JEOTJXTUVkcTNUNEtIQTMwMHdjRQ?oc=5",
    "published": "2026-10-21T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -27563,7 +27563,7 @@
    "company": "Annovis Bio",
    "title": "Annovis Reaches Full Enrollment in Pivotal Phase 3 Trial of Buntanetap for Early Alzheimer’s Disease - GlobeNewswire",
    "summary": "Annovis Reaches Full Enrollment in Pivotal Phase 3 Trial of Buntanetap for Early Alzheimer’s Disease GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdDE1X0xLLTZBTFQ3djhkTnIzWUZkMkFUUDF3Wkg5d1J0OUNqWXc5amRSM3VvTFM1TlZBYXZBNGhBYnVxOGZqeGZmTUprcE5Lc0xJWmZzaks4ckxuSE1INUN1Rm5oOC1zZl9KM0NOUnBScV9hLWNNOW5jSkpTazBKZGhqUFVabl93LUZXWGZXYnFfbllPS1QxMnprZm9qQVNoUzdBTVI0VHdyckc3TUVXVmlQZGtDUmJBSmpYd2NIa0p5d3FIbW1CYkpLdlhBRkVVN0MzV2lkUldfcGhFSE5wWjFMZ0sxS3FDSjNqRUpHMmxPenJWeGNaUzFIWG9ET1JPZGc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRGtKUGlaZ0tSOVRNNURtSjAyRnR6cjVsMDRyNjNoQnczZVdCc2s5THFhQUM5cTZGRW0taml0UDlTUWxNX0lXcXFERHltbXNjOXZ3dVBhbk9WVE91Wmw3VkZQRFdabTNqbzdSYUtPV2FpX0FnUHJIN1VUZEdqbjR6LXJVNi1qNFlhYkpRMnRNOGd6NmJjX1haODZLZS1UOXZTQWFxNDBaX2dNN2xlZUpNT1JlWDJMdU1QSGdwaE9rcGQxaGxtcVE3bnNEZnFSdEFwZERXemVXX2phLUw4dldkcURBMl9jNkM2SnF0VzNYNnRtNHNGaFRtbktJUjN3X0U?oc=5",
    "published": "2026-07-07T07:00:00Z",
    "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
