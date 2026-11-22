@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:44:03Z",
+ "updated": "2026-11-22T14:33:44Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2633,6 +2633,17 @@
    "first_seen": "2026-11-22T04:28:09Z"
   },
   {
+   "id": "23523c7b923cdeb9",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) stock price, news, quote and history - Yahoo Finance Singapore",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) stock price, news, quote and history Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52b0QycDJJcTExUU11YktNYmg3MnBFUFFjWUh3VFlfN2NkT3podjc5Q2NVR0JJaTZYbGk4YzVTZjhWUG0xTFljZEl0WjdOWTVOd3c?oc=5",
+   "published": "2026-11-19T20:57:59Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "4ca86f9ca7d8bc74",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Launches Ketamine Sales, Targets January Shipments - MyChesCo",
@@ -3885,17 +3896,6 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
-  },
-  {
-   "id": "23523c7b923cdeb9",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) stock price, news, quote and history - Yahoo Finance Singapore",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) stock price, news, quote and history Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52b0QycDJJcTExUU11YktNYmg3MnBFUFFjWUh3VFlfN2NkT3podjc5Q2NVR0JJaTZYbGk4YzVTZjhWUG0xTFljZEl0WjdOWTVOd3c?oc=5",
-   "published": "2026-11-18T10:54:32Z",
-   "outlet": "Yahoo Finance Singapore",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "21687ee29f951832",
@@ -32135,6 +32135,17 @@
    "first_seen": null
   },
   {
+   "id": "7d5efff54e8340c2",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences Announces New Survey Results Showing Significant Burden of Tardive Dyskinesia on Employment - PR Newswire",
+   "summary": "Neurocrine Biosciences Announces New Survey Results Showing Significant Burden of Tardive Dyskinesia on Employment PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNb2l5M3BDNkJXZUw4cUpVa0U1dDlpczc1V0ZlUHNPbjNRRWRITjJpeHk4QUhaZHNoLWtXVnlaTUxvUy0tN2tBSEFBaTFDX0ZQNXBXMWhjVFVGRE5uT3A0enlYV0l0SUMwd0xuNkhhVjUwZ1pSbVRON2htWmEwRVJydC1mWHd3SEkzdnhPWTMzNW16ZjBIZFdLb1REbnJ0cUtNdWxXLVNlZGtSUHllRG1YR0xGcmJwT3gteE1jRl9uSU9UeVkwTVlHT05vWFg4aWEyWi1NWm5aajhVaHRYSVNJWnFPQ1RjeXE5MjI3bzc2aVRUZjBFNVJqYzNUTDE2RDQ?oc=5",
+   "published": "2026-05-04T07:00:00Z",
+   "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ea1f1ead53c98f20",
    "company": "Arvinas",
    "title": "How The Arvinas (ARVN) Story Is Shifting With Vepdeg And ARV-102 Milestones - Yahoo Finance",
@@ -37389,6 +37400,17 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wOEY5SHMwa2ZYMl9xMXpQU2VXQmkyWktORXh4RHJXdG1pSndPZXhRNHZRVndENTM1WjdWcXROTVBvRW5nMlVGT29FTkQzSWVzOFhLX0pSd2piM1B1VVRpNWNGZkkxLTNBNjZyWld2OGxPYWc2R1BpT1Y1REY?oc=5",
    "published": "2026-02-04T08:00:00Z",
    "outlet": "AFTD - The Association for Frontotemporal Degeneration",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "539ff5bcde1425ea",
+   "company": "Lundbeck",
+   "title": "Lundbeck expects revenue growth of 5-8% in 2026 - MedWatch",
+   "summary": "Lundbeck expects revenue growth of 5-8% in 2026 MedWatch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tRml2X251emxlT0dmbk1ZQ0lZNnFWWHYtNlNsTDRlbS1JNFhVaFdDVWRzUkJqcHRzQ0hTemZ1Qzg0OXRveFJNWmplSmxQSDhJNDhZdV9xMl9mbHZlczBYaS1XNFk2dDh1QUk2S3hRTQ?oc=5",
+   "published": "2026-02-04T08:00:00Z",
+   "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
