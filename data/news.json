@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:13:47Z",
+ "updated": "2026-11-22T11:55:56Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -3150,17 +3150,6 @@
    "first_seen": "2026-11-21T21:55:17Z"
   },
   {
-   "id": "e2e060e73858b0f3",
-   "company": "Axsome Therapeutics",
-   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
-   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVVNxUUlwN3FZWGtaZzlIUVl2R0I3LVhpMWlOc3B2U04xMFV6YWhIMC03eGxyNDktbVo5NjBzczVVUHhqQUU0M2pPTUhKWFNyZW1PMXhkVFdmMUIyQy1JcGwxazBFYjI1bzQ0VWh2MUhkeTJZWE1sRUVFZDdXMUNQY2RTVF9VOE4yTlNib1RQZVNUam45SHpEMVRIZlYyYTNYUW1kRmd0Zzc1aEItUU1V?oc=5",
-   "published": "2026-11-19T12:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "f6f7250fe06dbcaf",
    "company": "Luye Pharma",
    "title": "Luye Pharma’s Ruoxinlin Approved for Generalized Anxiety Disorder in China - TipRanks",
@@ -3744,6 +3733,17 @@
    "first_seen": null
   },
   {
+   "id": "52c31c893e6e2527",
+   "company": "Eli Lilly",
+   "title": "What information is available regarding alcohol use with Zepbound® (tirzepatide)? - Eli Lilly",
+   "summary": "What information is available regarding alcohol use with Zepbound® (tirzepatide)? Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ2tuODNUaFVLbkZ4NzZiRkVjQU1oNlhveGJYdmRVdklMRkkwUl9rNGNOUlBsbVprb2c0cnBDVWFGdXZSdm9LOWR0QkFaT2J5UWdXM2RsYmdMR0pPM0docEphbDFJNTNVRTJ1aGlNYVNzY1k1ZjNlNXdUOF9yWVhlWThWaXg4M3p5WWNEcTJ2bVRpaE5iNS1HeEFheDRHdlQzZHR3UXVrWDVBYTQ2OEdhaWIxaUhLeDdQcHlJcy1iNVh6SDRNYklZZXpzZ1cwMmZBcXN6cw?oc=5",
+   "published": "2026-11-18T14:19:20Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T23:15:33Z"
+  },
+  {
    "id": "07f9936e0673cb9e",
    "company": "Eli Lilly",
    "title": "What information is available regarding alcohol use with Zepbound® (tirzepatide)? - Eli Lilly and Company",
@@ -3753,17 +3753,6 @@
    "outlet": "Eli Lilly and Company",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
-   "id": "52c31c893e6e2527",
-   "company": "Eli Lilly",
-   "title": "What information is available regarding alcohol use with Zepbound® (tirzepatide)? - Eli Lilly",
-   "summary": "What information is available regarding alcohol use with Zepbound® (tirzepatide)? Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ2tuODNUaFVLbkZ4NzZiRkVjQU1oNlhveGJYdmRVdklMRkkwUl9rNGNOUlBsbVprb2c0cnBDVWFGdXZSdm9LOWR0QkFaT2J5UWdXM2RsYmdMR0pPM0docEphbDFJNTNVRTJ1aGlNYVNzY1k1ZjNlNXdUOF9yWVhlWThWaXg4M3p5WWNEcTJ2bVRpaE5iNS1HeEFheDRHdlQzZHR3UXVrWDVBYTQ2OEdhaWIxaUhLeDdQcHlJcy1iNVh6SDRNYklZZXpzZ1cwMmZBcXN6cw?oc=5",
-   "published": "2026-11-18T14:19:19Z",
-   "outlet": "Eli Lilly",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-20T23:15:33Z"
   },
   {
    "id": "c1d2c4d684464907",
@@ -10429,6 +10418,17 @@
    "published": "2026-11-03T09:02:27Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e2e060e73858b0f3",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
+   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkVBd1kyN2w1aVY3LXp4VTBhZ1l6QTNPRnlzQl9JbERCeWw3Z1pHYnY3WGVDYUphWXJJT1RJRHljcXRKOFVqSUNiTHpILW1VQ2hTa2R6dWFhQVpKYVlUNE9sMmgtQmFaeHFKZHpzZ25JZlNsSkk2NTRzRFpoZ0NESE9TV3F2SGRMQUQtZ1U2QmZLeF8teFhBUTdFbkRrZC1aQmg3NXdpM2haeFY2WXlV?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -25517,7 +25517,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - Eli Lilly",
    "summary": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS280WDZmcXhMU2J5MmdnQ0hKejh0X1prSWN3MDJUTko1NG1lSENxWXlLN1lfUGNVMDUtQktXYzVLd0p1c3A2WjdCUW9jUWw0OWhIek5DdlR2WTBCYmtXYWpOTTFWMnBCZjRDNzduTl9BTDlWWlJPdWc4eUd2emlJNnYzUmc3VUd5NU5OZmwxajlRMXdwTTdpZXNYUDFXeTctMTVmWnBnXzhlMk5yTjBwbFh1SF82b3BSM29tMnVhNTYyeFU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92T3ZmNng2MVhya3ZjX1EwZUNDMWlsLWI0Tmd0cEJFU3A4N3FRWjdWTnpoZVpRc3NIWU5ISDNkSzMzSHVKekFxdFNnRktsV0UyanhN?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
@@ -27699,6 +27699,17 @@
    "published": "2026-06-26T05:38:16Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7fad203a29957cbc",
+   "company": "Unixell",
+   "title": "UniXell Secures US FDA Clearance for Off-the-Shelf Parkinson’s Cell Therapy, Advancing Dual-China-US Clinical Development - BioPharma APAC",
+   "summary": "UniXell Secures US FDA Clearance for Off-the-Shelf Parkinson’s Cell Therapy, Advancing Dual-China-US Clinical Development BioPharma APAC",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZ2xtYjQzMHlxRjNZejc2SVoxWFVRN3ZxYjZuZ0VuOW40TWo3cEZKU3A3MmZySXNULVc2cXV4TTR2YktWOGxyRW40QVJ0WV9HRkViWFBEOGVMY3BpSnEtbkZ0cE16RkxTajc2S1VyOExDREl5d1hMNExMLTBtNVZOa29iNlAxdDRNUDc0akx0blhmTDRVUjMzZ3JBenl2YlJfT3B2QzVDTHJOMTkyQkt5MFRuaEpDTGs5TVVBbUl4VlQ3Z296MFQyd2h5VjRaYm4tNGhMWDVmMDJJTU1OSVNHNnJ6UVd5R1dYWnpvenNUaVI3dm9pVGc?oc=5",
+   "published": "2026-06-25T19:05:22Z",
+   "outlet": "BioPharma APAC",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
@@ -31464,6 +31475,17 @@
    "first_seen": null
   },
   {
+   "id": "7ddbf1c4a80c7398",
+   "company": "Eli Lilly",
+   "title": "A clinical trial for people who have irritable bowel syndrome with constipation (IBS-C) - Lilly Trials",
+   "summary": "A clinical trial for people who have irritable bowel syndrome with constipation (IBS-C) Lilly Trials",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EczRockZMdWxxQlhzUjVDVHIyZTRDTENPS3BrT3ZkTGx3bG51NURaTGRJODF0LWU5UjZheFl2UFoweWZrRHRYeXNkYzNzd05VLXg5YjlB?oc=5",
+   "published": "2026-05-07T21:24:47Z",
+   "outlet": "Lilly Trials",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "4dac6ad746891064",
    "company": "Gain Therapeutics",
    "title": "What to Do After Being Diagnosed With Parkinson’s: Treatment, Lifestyle and Support",
@@ -32605,6 +32627,17 @@
    "published": "2026-04-28T07:00:00Z",
    "outlet": "Pharmacy Times",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5b5ae572fad61f83",
+   "company": "Eli Lilly",
+   "title": "Q1 2026 Lilly Earnings Call - Eli Lilly",
+   "summary": "Q1 2026 Lilly Earnings Call Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSU1fWFdSaTJ2R0ZHM2dwZjY0b25IbFFDYXVhVl9MS09GQkhCNGR2QnRkSDkzVktJdW1Rdi02dGUyaTgwdXdnLV9SZGVrWTJrVWUxNGRHZ0RZZllpcUdabnBNQzV0U1hUa3VUSHUyVi1RS0dnRnFCX2hVLTV0YktCaVFn?oc=5",
+   "published": "2026-04-28T07:00:00Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -36183,6 +36216,17 @@
    "first_seen": null
   },
   {
+   "id": "2c79012b03920dc1",
+   "company": "Eli Lilly",
+   "title": "INSTRUCTIONS FOR USE Important information you need to know before injecting ZEPBOUND - Eli Lilly",
+   "summary": "INSTRUCTIONS FOR USE Important information you need to know before injecting ZEPBOUND Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tQVJ1VjhhbzhzdEowTVdYNWp3RkVLbVFnMkdsM0ExSzBxWTVnYUM1RW41NE1lVWJKOUVYOHkzaHJ2N1BQclhkUi12Y052LVFfT0tfNHRtbUwySFJHZlhTbg?oc=5",
+   "published": "2026-03-02T07:57:30Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "3f2ece121145b2c7",
    "company": "Novartis",
    "title": "Novartis successfully completes acquisition of Avidity Biosciences, strengthening late-stage neuroscience pipeline and advancing xRNA strategy - Novartis",
@@ -37346,6 +37390,17 @@
    "published": "2026-02-03T08:00:00Z",
    "outlet": "The Pharma Letter",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4accdec7f006a617",
+   "company": "Eli Lilly",
+   "title": "Q4 2025 Lilly Presentation - Eli Lilly",
+   "summary": "Q4 2025 Lilly Presentation Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjV6bGg5allveENBU1Z2enREU2hrcnJkajFqOFdfMUxZX1dxcDBpb2szckpXUG5mN1lDOWJUNlJOaWJEaldXWXJyd2dZN3VLU1k2NXBIV1JqRlZMVHVZeHkyenNaM3ZWZENOSGZ3S2NfZUlXUVFRdERacnBEVFRMRDh3?oc=5",
+   "published": "2026-02-03T08:00:00Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
