@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:28:09Z",
+ "updated": "2026-11-22T05:27:34Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,28 @@
  },
  "items": [
   {
+   "id": "80fcf414c7e940f2",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Inc (19X.HM) analyst ratings, estimates and forecasts – Yahoo Finance - Yahoo Finance Singapore",
+   "summary": "Axsome Therapeutics Inc (19X.HM) analyst ratings, estimates and forecasts – Yahoo Finance Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yWFI5Y0dCelAxZGViZHc3Y0pOUFNkVTZtQnZQRDZVX3Z4NG8zUWxfS1UzYk45am5nak9rQTVNcUYydllBRmxpakNwRzl1YWpSMlc4QzZVU1lleHItaDNSLQ?oc=5",
+   "published": "2026-11-21T19:19:26Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T05:27:34Z"
+  },
+  {
+   "id": "de1d9268d66359b4",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Inc (19X.HM) options chain – Yahoo Finance - Yahoo Finance Singapore",
+   "summary": "Axsome Therapeutics Inc (19X.HM) options chain – Yahoo Finance Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pRjdObFNscUNYOFRkSTlGb3NmLWRMUXRicHVQMUZLVXItSFk0b25DV0xTWFpJZ21BOGxaeDRMOWdUMlhMYlJWanJmd09XNkdtbUVjZDNTeENpQzluTVVj?oc=5",
+   "published": "2026-11-21T19:09:16Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T05:27:34Z"
+  },
+  {
    "id": "d7876f94df3fc17d",
    "company": "Annovis Bio",
    "title": "Annovis Secures Buntanetap Patent Ahead of Alzheimer’s Trial Data - MyChesCo",
@@ -1773,6 +1795,17 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T03:17:37Z"
+  },
+  {
+   "id": "3e0326c6327f424c",
+   "company": "Gain Therapeutics",
+   "title": "H.C. Wainwright Maintains Gain Therapeutics(GANX.US) With Buy Rating, Maintains Target Price $8 - Moomoo",
+   "summary": "H.C. Wainwright Maintains Gain Therapeutics(GANX.US) With Buy Rating, Maintains Target Price $8 Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkIzRXg5OENPZnpSTWxIMGd1eGdqYTJTQUsxRW1BZlpfMXBYX3RXNkxTMFhjTFMxM2VMZDg4eVRjTkpuNC1Lb21QR3JuLVYwNzRLVHdXeHVaRktFektUbVhnOHlfRThaSURxTFp2ZjdUVU4zRWxUNWxFMXJmbkp5aEk5dlpJVGFrWlNrMml3SWl2dXRReDUzbnlrM3dzZFJYYkV5UEZ1T3J0OFVvdlM5VFIxZEVkWXUtRnc?oc=5",
+   "published": "2026-11-20T22:38:21Z",
+   "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T05:27:34Z"
   },
   {
    "id": "e95e3fd188a1ecfb",
@@ -1929,6 +1962,17 @@
    "first_seen": "2026-11-21T17:14:31Z"
   },
   {
+   "id": "f35c4df7d78257ea",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Inc (19X.HM) Stock Price, News, Quote & History - Yahoo Finance",
+   "summary": "Axsome Therapeutics Inc (19X.HM) Stock Price, News, Quote & History Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42SGNhc25LTTIwaWJBaXZNZGpQdTFNaDVkTzR2WFo0SzZyRVRVVGF1MVVzSmFibHlnV3NrVjlmRGRKcE9XS0ctRFZTdzhYOUt3?oc=5",
+   "published": "2026-11-20T16:57:56Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T05:27:34Z"
+  },
+  {
    "id": "27c90484ae49ed11",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics Inc (19X.HM) stock price, news, quote and history - Yahoo Finance UK",
@@ -1949,6 +1993,17 @@
    "outlet": "AllSci",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "dac9495ab3cd16af",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics, Inc. (19X.DE) Analyst Ratings, Estimates & Forecasts - Yahoo Finance - Yahoo! Finance Canada",
+   "summary": "Axsome Therapeutics, Inc. (19X.DE) Analyst Ratings, Estimates & Forecasts - Yahoo Finance Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzOFQ4RUJCaUJjQlJ2N1BkSnRRY2VZbGozNW44M05nTjJUSElxaXVQR05mR2ctQW91Wm5jMGlUVnQ5M2FmNkUzZl9ibE5wbEhpQ2J3Y0tTODdIaHJlaFRWaQ?oc=5",
+   "published": "2026-11-20T16:35:42Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T05:27:34Z"
   },
   {
    "id": "997a2e710bc9e00c",
@@ -2952,6 +3007,17 @@
    "first_seen": "2026-11-21T05:26:18Z"
   },
   {
+   "id": "15aab8800f95d92b",
+   "company": "Filament Health",
+   "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New United States Patent, Extending the Broadest Natural Psilocybin Patent Estate - Yahoo Finance",
+   "summary": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New United States Patent, Extending the Broadest Natural Psilocybin Patent Estate Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUlZxbEVvenQ0d1hNUFVrM2ZULVpuS1hrT0E4UmtnMU5mREhQRnZaelFDd21LRFRBd1hKUGNITXJ5N3BwTXBjNFJTMHd4aF90MDc4SV9mOTJkdk5hQjFOM2pBekU1SEd1MVhoVFM5RjFVZWxYODR4Mkk1NC1EVURjQ19ZdFhjSzB3b3lpV3hZUVhndUFobTdfTmR4Yw?oc=5",
+   "published": "2026-11-19T13:09:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "59c41d55f94c5c27",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson Seeks U.S. FDA Approval for CAPLYTA in Bipolar Mania, Marking Fifth Potential Indication - Johnson & Johnson",
@@ -2994,17 +3060,6 @@
    "outlet": "",
    "method": "newsroom page (scraped)",
    "first_seen": "2026-11-19T17:19:58Z"
-  },
-  {
-   "id": "e2e060e73858b0f3",
-   "company": "Axsome Therapeutics",
-   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
-   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVVNxUUlwN3FZWGtaZzlIUVl2R0I3LVhpMWlOc3B2U04xMFV6YWhIMC03eGxyNDktbVo5NjBzczVVUHhqQUU0M2pPTUhKWFNyZW1PMXhkVFdmMUIyQy1JcGwxazBFYjI1bzQ0VWh2MUhkeTJZWE1sRUVFZDdXMUNQY2RTVF9VOE4yTlNib1RQZVNUam45SHpEMVRIZlYyYTNYUW1kRmd0Zzc1aEItUU1V?oc=5",
-   "published": "2026-11-19T12:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
   },
   {
    "id": "e8e35ea129537d2e",
@@ -3161,15 +3216,15 @@
    "first_seen": "2026-11-21T23:21:42Z"
   },
   {
-   "id": "9fbc78eed84909c1",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
-   "summary": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? StockInvest.us",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ0lNbXpmZ0Z1VFF6WktkLTRKOGZUMk5QOW12bjM1LXd0NXdyT2xscXBzVlktbnJRLTFvYWJ0a3VLSG5FWHU2Tw?oc=5",
+   "id": "25c183771d56b92c",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Stock Price Forecast. Should You Buy GANX? - StockInvest.us",
+   "summary": "Gain Therapeutics Stock Price Forecast. Should You Buy GANX? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKZzYyWm85SjY1bGpfTGJRcE1kYmtzYmYyOW5rZE5EX2R2Q0ltUDZQelBtSG04SUpTYi1xMDZmQWU0THZwVTlUcg?oc=5",
    "published": "2026-11-19T08:00:00Z",
    "outlet": "StockInvest.us",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
+   "first_seen": "2026-11-22T05:27:34Z"
   },
   {
    "id": "8b4254665a7d3e03",
@@ -3810,6 +3865,17 @@
    "first_seen": "2026-11-21T05:26:18Z"
   },
   {
+   "id": "61b02061a2cac810",
+   "company": "Gain Therapeutics",
+   "title": "Form 8K Gain Therapeutics Inc For: 17 November By Investing.com - Investing.com South Africa",
+   "summary": "Form 8K Gain Therapeutics Inc For: 17 November By Investing.com Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdUVCbmdmNGVFc3FVeXpDU3c2OGNIeVMydnF5cEk2NC15SFlnQ3FkWGk1RnpxNnhsRkZ0dEp1MFFaNHZSR2pSQmlRd3ZrX2cwbmxYVUFzc1JZWUN5dTlFSFg2amg5emdlNlpJYWkyMEdoWWtqT2ZDcVEwY0pnaFdKZWtxRzhNRnpKUElDd1piUktXcHFsQjVQVUxsY2ZEeGcxaURxdm83NTI2QQ?oc=5",
+   "published": "2026-11-18T08:00:00Z",
+   "outlet": "Investing.com South Africa",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d0eddbbe7770540d",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals, Inc. (SUPN) stock price, news, quote and history - Yahoo Finance UK",
@@ -3975,6 +4041,17 @@
    "first_seen": null
   },
   {
+   "id": "41fce7221b2fa2b5",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics reports 12-month rexaceract trial results By Investing.com - Investing.com Nigeria",
+   "summary": "Gain Therapeutics reports 12-month rexaceract trial results By Investing.com Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEo2YVJTd1BDOUF1YkxFckVkYWRoVEJOeXdzQjk0dnMyODRuT2NGWk1DTnpxMnhqdXlDWEVSTDZydF9nakpONG0tQUI1QjFIOUdTVFAtT2c1ek0tOVhWWE1WcmZHR3NQTU1WMVdsaU1BVjBwRGlpLWhlVFVydk5mZEpGT1lBTlR5NFA5ZVdPc3RaU19ScXp5N2JReVJYYnV6TWZuUGFJcThmWFM2bWtpa1RrSXU0TENYU3dV?oc=5",
+   "published": "2026-11-17T22:18:05Z",
+   "outlet": "Investing.com Nigeria",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "9f39aab26dca1b5b",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRX Pharmaceuticals Inc (B1Q.HA) stock price, news, quote and history - Yahoo Finance Australia",
@@ -3982,6 +4059,17 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXVG4xbHhUV3hQV29ZYUhPZDBoc0MtUmMxR3dzbXdvV2FMQlNkYi1WZjVsalNlelU1aExkVjlLQkRCYTBQaFI0Y0IyMnlFdEhfdXlzLQ?oc=5",
    "published": "2026-11-17T22:14:20Z",
    "outlet": "Yahoo Finance Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "64d1f7f6709636d3",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Reports 12-Month Rexaceract Phase 1b Data - TradingView",
+   "summary": "Gain Therapeutics Reports 12-Month Rexaceract Phase 1b Data TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVI4dTFLcTcxbXhwdm1BLVFjQkFIcDVMSDdqTS1nb1gxVldYaDktbzdhajdqazd5MzFmLXlJU3F0aGpIR1BfSHhxbzR6THZPN3F0VGJjTmpDeng2eDE0ZUxFbGNOa0tOeS11Z2FZMWtTa3JCOWQtQlZ0dlRZeE5MTFl2N1A2cHZOWVFhbV9XeXZVM1ZraFd1UG9DTVkzcnp0dHZlNzZYRVYtdFY3OFlGLU1ZU1JTdUVjT1JyY1RB?oc=5",
+   "published": "2026-11-17T22:13:01Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4173,6 +4261,17 @@
    "first_seen": null
   },
   {
+   "id": "056fe642e89ac307",
+   "company": "Gain Therapeutics",
+   "title": "Why Are Gain Therapeutics (NASDAQ:GANX) Shares Up 23.38% When No Company News Has Surfaced? - kalkine.ca",
+   "summary": "Why Are Gain Therapeutics (NASDAQ:GANX) Shares Up 23.38% When No Company News Has Surfaced? kalkine.ca",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3pfVWVRaWRRejdxOEFKcWJvS0hid3hoaGYwZ1pZYmNHMlNydmdRVzV1OXB3eTlMNTJ3N2hIby1nR2lmNzZDT1Q5cEVzX2F3NHBOZHNLajhwTjZXWHlxaHVWbE1yTTJhb0xEY3ppdHdUUWZhdlRpYWp1Yi1TUzNhZGhQOVYwaU9jTVV2elBQU3lRQ0oybW1LbHZDTlp2UExXcTdUNFRPMU5RYzEyMUhYUm1CZGU3UndfOVMwWQ?oc=5",
+   "published": "2026-11-17T18:32:00Z",
+   "outlet": "kalkine.ca",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "91d34a9e2da49820",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Which of the Top 5 Clinical Readouts Behind Biotech Stock Moves on November 16 Stands Up Best: CG Oncology (NASDAQ:CGON), Lexeo Therapeutics (NASDAQ:LXEO), Helus Pharma (NASDAQ:HELP), Alpha Tau Medical (NASDAQ:DRTS) or Aclaris Ther - kalkine.ca",
@@ -4281,6 +4380,17 @@
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T15:26:15Z"
+  },
+  {
+   "id": "b1db1492de2a7439",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Inc (GANX) Fundamental & Financial Data - Stocktwits",
+   "summary": "Gain Therapeutics Inc (GANX) Fundamental & Financial Data Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tSXZ1UWVOenZxZFZNd2FCdmxPWHN4NW9BS2NlVTdlV2Z4NlpwT1laNGttMDlMLWpMMTZBOHVZaTZxUllucFhWenprR2IwNUZEM2tIeXBxaDVsQ1U?oc=5",
+   "published": "2026-11-17T15:22:34Z",
+   "outlet": "Stocktwits",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "ebbd5c0cae2052e8",
@@ -4611,6 +4721,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
+  },
+  {
+   "id": "9fbc78eed84909c1",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
+   "summary": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ0lNbXpmZ0Z1VFF6WktkLTRKOGZUMk5QOW12bjM1LXd0NXdyT2xscXBzVlktbnJRLTFvYWJ0a3VLSG5FWHU2Tw?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "StockInvest.us",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "dba55f65da807efc",
@@ -5900,6 +6021,17 @@
    "first_seen": null
   },
   {
+   "id": "c908c58d80e2363b",
+   "company": "Gain Therapeutics",
+   "title": "Weekly Recap: Stable Parkinson’s scores and finance VP appointment - TradingView",
+   "summary": "Weekly Recap: Stable Parkinson’s scores and finance VP appointment TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUhKQ2tia25iZkJjd0NrbmNwM3JHd01ROFluMTVyeUlKVXM4ZEdYVGpKYUZ0YVpiRnpZZ0hfY29LZVVtTHlXYUNZZXpOa2dqQnh6QnBRVVhEOUE3S0dFMl94ZE5Da2NZTDJPdFJsZmhEUTRRc2pmS3RvdlAzWnlVbThFWVRmTDlXZnBvU0NmamhDakpmQWItOXZlVDJmX3RPVVFOM2JfVWgtU0ZfRFhZb2hlOU4xZFZuMk9WX3MzR1N0SVRsa0E?oc=5",
+   "published": "2026-11-16T11:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "2ad002a12c985325",
    "company": "Insightec",
    "title": "Job opportunity: GVP Specialist - Insightec",
@@ -6721,6 +6853,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOT1haNkdHalNtYklaLU5kVjFKTjdKdDB6QUt2aDRjLXJRcDBFWEE0dXkyTWgwOTFDd0hpMHNrT3dHdlBVYTNVYkdtbjl4aHYtMGc?oc=5",
    "published": "2026-11-13T03:36:07Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4c762f31cdb25a15",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics: this analyst just chopped his target - Cantech Letter",
+   "summary": "Gain Therapeutics: this analyst just chopped his target Cantech Letter",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeEZBZU4wUkY0QXBENEgtclRiZG9fUzY5SUM2R3B2MUxmYjBTT2ZhV09IUXdsN3cyZk9CTjJScHFCZHA5amtMbFRsVnNHaFZqc01PdlhxRGlWcU13YnlsbkQtZ3RTZktEVE9jdmliS3ZnRW1Nc1NCOW9Ca3ItNzdWem4xYjYtaUxpaGtDU0VhS1RxREJTRmtwY9IBngFBVV95cUxOYUtTMTVlY1NBOTgyM0tXbXJoMlpqekxpakhvLVY2d0Z3czc1Q1MwVndWSG9URzJtaGxTejExRTF0TmdtNGxXWWl4WHpiMzBhYVVXbjhfM045SGptYlIxb0h4bkNDaUVjeTZaUWJjNWtSbFdXdU9nU2V1d3RsZjhXZk5SUjJvSXBWYjVNczRVaTJsbUZWZEw2dUVCMjJPdw?oc=5",
+   "published": "2026-11-13T01:57:59Z",
+   "outlet": "Cantech Letter",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7550,6 +7693,17 @@
    "first_seen": null
   },
   {
+   "id": "0b2e7af62290a524",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics, Inc. (GANX) Tops Q3 EPS by 5c - StreetInsider",
+   "summary": "Gain Therapeutics, Inc. (GANX) Tops Q3 EPS by 5c StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQk1Nc25pOVdqSmxiNnFBdkQ0Tk05MnlsUVRzODdsNm5YSjMtTWxtUWxFa1dRZzVMWWJiLTBjZUFISVVqUTVPbG9ZV3ctQ25YaEpFUTg0bndCcWVEZEJhSmNvOWNMeHhiNEFLYXpTSWVOcXh4dy1jTnZGU1F6UFFLMG0wdVUzelRhOGR3Zk5VR21keDVRQVFKRU1JemY5dTQ5a2NuY0dmT0VwdUU?oc=5",
+   "published": "2026-11-10T21:18:54Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "79b274f5e69f78ed",
    "company": "Alto Neuroscience",
    "title": "Alto Neuroscience Reports Third Quarter 2026 Financial Results and Recent Business Highlights",
@@ -7601,6 +7755,17 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3ZYODVJdVdTdkhVS3VZRUNsV0hMRkQ2ek1MZldPXzhWM3NCRFN0NTlldzkzR1dWUmZWdzB4eGJYS2pyNnE3WTYxd0JLclR3R3VpMHBvNWFyRVNJZmFjUEItVWRpYkJQWnhwcEVRalpVby1iVFZRV3ZuRzhCdk50dHl2V0FRd2szWjlCUUdlVkxfMGdQeFJhRUlkcU01dTlJOWoxVWRJUUFmcnFWM0RCZ3lYV0dYaWwxbU5NV1pwNzYzRVFzektfRG1BLUFIMDFUeVh4bDhsZ2JTU2pjODlPS3BPTQ?oc=5",
    "published": "2026-11-10T14:32:00Z",
    "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "06038983910689de",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Q3 Results: EPS loss narrows to $(0.07), beats estimate - scanx.trade",
+   "summary": "Gain Therapeutics Q3 Results: EPS loss narrows to $(0.07), beats estimate scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOEtqTnN4eElUNVFWMl9kTEpGa0FaQXhfQWdPRjQ3M0JnUGVRNXB0aWc2dWgxNXFqYmhNVENFeVkxYkF4ZjU5eEtnSXliVmZjYWJDNlNIZDhkUnV4T0YwXzkxM0l1VjYweFJnUXZtd1MxcFRhbHM4SlNCSXI2bjBvOUt2dTdDWEhNSUx1STBuS09faGpPTGpBbDIzM0h2TEtpYTY1MG5YSG8xVDFLR3FhYkFZUTJybnhnczhtel9tNA?oc=5",
+   "published": "2026-11-10T13:00:25Z",
+   "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7766,6 +7931,28 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUFpaVWgtSjc1X3lTa2dUN3dDQzg5RExqSXJ2S1JHbldvZC1IVHVVMXFkeG1HM3pJUlFzNTZ4STQ2QlZoSmlEOEN1M3ZyRlZuMVBVTFV4MGM2bzJGaHB6TU5HVDBWQ1c2MHJGT2tKbkhLSjIwcWZoaUlFVmJGZ2l3T1p6N013UVhkNnprM21mWlc4eDVlT3U3cUx3?oc=5",
    "published": "2026-11-10T08:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e4860c1648f00c01",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Reports Q3 2026 Net Loss of $3.16 Million - TradingView",
+   "summary": "Gain Therapeutics Reports Q3 2026 Net Loss of $3.16 Million TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRmtPcVkyb2VwaWtVY2JFWmgxUlRlRzdzTXV0VElUSmV4WGR3UU05TlJNWldiRjlSVENGc0RZeWMzcU9QdVZyeWV3WW90dzlKMU9hNEt5Rzl0Yno3Wm9qa1VTNmxmRF9YV0dwSkdqbjktcG1ScUd6akROblBqTDRFb2YwbkpqOUtvMDJIWG1ETUl6QnhTNVk0bFBTdjVNTGtzaU02Z0l1aFJnQTVPcUU1WkVkV05aeWN0eEN5MQ?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "98139522804e2b69",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Inc reports results for the quarter ended September 30 - Earnings Summary - TradingView",
+   "summary": "Gain Therapeutics Inc reports results for the quarter ended September 30 - Earnings Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMkpPTVZKdkxoMklqSXZVTkhiV0dxRUk4dW91UGNua1BGM3JnUmxSRDNjNmd6MVpaMm9wWnkyNWY3VVZyOFJSTGVoaUdzTlgzZnpEUGczMlNvWTc3a3Q2Wm1DRlpTc01wNkN0Y2VQWFE3SjE3NWFpT01HaUczWHlPVllnYldYa1FBZjh1OTdLNlpfZy1GR1FyTkVNbmFILUhiZHc4NmpMdC1SOTRtalViZ1NhMDBFOEdBR09IVHRjdEFZUmJ4TjMtejRGMjNfTXhBV29jR2ZNUWwxMVBSZzRaRVNmNVFyUzNBOUdFQUtfd0w?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8900,6 +9087,17 @@
    "published": "2026-11-05T21:30:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "fc31448022ba4968",
+   "company": "Rapport Therapeutics",
+   "title": "Wells Fargo cuts Rapport Therapeutics stock price target on safety concerns By Investing.com - Investing.com South Africa",
+   "summary": "Wells Fargo cuts Rapport Therapeutics stock price target on safety concerns By Investing.com Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONkNxNjd0VXNEbUxPbGRmSk1kazEwb0w4T0xwekM5WXN6NWY3NDNkdzRDdnFEYzBMYXNLRWotTnRva1VjN1o4SG9nT0RfYnhaUUZnaDJLa3NCR29QMDhMeF9GQ3h6dnZKS3U5aXNvWGN5X1loZVpINkc5R3JON3VyYnZldWM5ZnVpN01PdGxRMzRfNlNibWRQMWZhb0F5N0tZajlYZklVSG1wTUNnOG1zSHZDbDNyZW9NU0F6ZmtCWXZSY0hMSkhyblQ1RWJZbFNxUWc?oc=5",
+   "published": "2026-11-05T20:43:57Z",
+   "outlet": "Investing.com South Africa",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -11268,17 +11466,6 @@
    "first_seen": null
   },
   {
-   "id": "13f1ddf0cf136647",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport raises $200M in stock sale as it widens RAP-219 to a second disease - Dealroom",
-   "summary": "Rapport raises $200M in stock sale as it widens RAP-219 to a second disease Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1NZZWh2akJFSmd2eS1pUHU3V29ac0xyQXBaSkRkRmZobDlnOE9MT2VWVFNmRnRtRnlGS3FrejVJY3d4RUptU0xiRXVmSkxPU0Fld2NBZTRrSFdfMHNVU1FONVBCNDMwU2t5YzlyYTFHanNNVXpaeHN1VTZteUkycl9tNUVBVkR4ZXRDb3JVYkk1dDJvY1p4bXRGaGZPenJ3MVBPams1WEdnV1Y3?oc=5",
-   "published": "2026-10-29T17:02:28Z",
-   "outlet": "Dealroom",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "54be536e37fae29a",
    "company": "Idorsia",
    "title": "Idorsia reports accelerating QUVIVIQ growth, advances key value drivers, and reaffirms full-year financial guidance - Idorsia",
@@ -11287,6 +11474,17 @@
    "published": "2026-10-29T13:27:09Z",
    "outlet": "Idorsia",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "13f1ddf0cf136647",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport raises $200M in stock sale as it widens RAP-219 to a second disease - Dealroom",
+   "summary": "Rapport raises $200M in stock sale as it widens RAP-219 to a second disease Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1NZZWh2akJFSmd2eS1pUHU3V29ac0xyQXBaSkRkRmZobDlnOE9MT2VWVFNmRnRtRnlGS3FrejVJY3d4RUptU0xiRXVmSkxPU0Fld2NBZTRrSFdfMHNVU1FONVBCNDMwU2t5YzlyYTFHanNNVXpaeHN1VTZteUkycl9tNUVBVkR4ZXRDb3JVYkk1dDJvY1p4bXRGaGZPenJ3MVBPams1WEdnV1Y3?oc=5",
+   "published": "2026-10-29T12:45:48Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -11950,6 +12148,28 @@
    "first_seen": null
   },
   {
+   "id": "d710396af1e7d316",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics appoints Jeanette Weidner as VP of Finance - TradingView",
+   "summary": "Gain Therapeutics appoints Jeanette Weidner as VP of Finance TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVERMU3ozZWFCZF90Vjg3QjlDVlZfZ0xaMEV1SDIyVDVVZEVINnpGVDhKcWMtbGRncmJPRUx3Y1djaE1SRlRXNjIxQ2xkTDg2V2tIaU9UaFpLb1NhQUZkOEhtT2lIb21tOW5hWWlZV3BYQWc1eHd6WjVLMnZkTkh4U09WWUdtcHlINGQ1TWdxX3pjbXFfcEEtT1lPRXF5bjF2T19ReFl1WWl5STdKVlJIUmFpSjNzNWJYWVBkTlNxbw?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "af40f3e8223624e6",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics vs. Moderna: Consistent Revenue Growth or Sharp Volatility - Yahoo Finance",
+   "summary": "Axsome Therapeutics vs. Moderna: Consistent Revenue Growth or Sharp Volatility Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2E3eTdDaXFEQW0wVnFqYTNmai1sSFJlOUo5aUYwLUV4RDgyUDJpNFh2d3lKZjEwRGdDSVhhcEUyMEFJbmlub1pkZ19GUDZaZ1hFS1Z5d2Q1MVZoblNHNEtWcE1oOEUybzRkTG5ERmdFeHBJSEVwUFlfV0pOaVlFY294b0ktcUtfMjJMTG5MQW1tcHl2X00xaWVyMUV6UGlJTUxXZw?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "716d08e6b36dcaf1",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics, Inc. Estimates – NASDAQ:RAPP - TradingView",
@@ -12368,6 +12588,17 @@
    "first_seen": null
   },
   {
+   "id": "9e6ade8b009e4eec",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics launches $350M stock and note offerings - StreetInsider",
+   "summary": "Rapport Therapeutics launches $350M stock and note offerings StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMUQwaHVmZm1TdTdHaS1lRUVzMmV1SjNRSDZ1UnhvamtuR0NZUW9yb2Q2aHlTSV9nT0tQWGhEVnNiWHdLek5ibF9Mdm5icHFOTEI0M0pKbjd1dng0eDhMaFprOVliUEtzcXg5QTlGQTZYdDdiV0JoMVFDQmN0WW1LS0dKV2dSYkdnckxObWhxWGlJNGhlUllSeVduVnRCb1hTV29XQVd6aE9MTTg1WWJBc20taTRVNzZQYTVkT21NeXQ?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7f878831bd4bb9de",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals to Report Third Quarter 2026 Financial Results on November 9, 2026",
@@ -12529,6 +12760,17 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuekFGT01sdDBuTTlhRlR6OUU2SFBzU2UwRHMtS2FGajlVcUIwTzF6LS1XY3owRkV6NUliWjFBUXRpN1BiN1llZ0pTQ2JqVjNnQzRNbFdaUUtoRjNhWE1qZlZhaFN0dw?oc=5",
    "published": "2026-10-24T20:30:20Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "61a06cad72fea98b",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics, Inc. Estimates – NASDAQ:GANX - TradingView",
+   "summary": "Gain Therapeutics, Inc. Estimates – NASDAQ:GANX TradingView",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FN0NtTmJxczZVeFctWThzZlpqUmJBa3NNNk1CUHhWWVlUUXBPV1lSd0dNamtNdklFVXRWM1lUdDVISTYta1VXM2swSTRXaXBZd3VNNGxublN2YjJfQk5VbG1pREhWNjMyLTdFNHZSa2MyQlJLRXl2bA?oc=5",
+   "published": "2026-10-24T13:25:33Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13270,6 +13512,17 @@
    "first_seen": null
   },
   {
+   "id": "f378734eaa98707f",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics Announces Positive Topline Results From Its Phase 2 Trial Of Rap-219 For The Treatment Of Bipolar Mania - TradingView",
+   "summary": "Rapport Therapeutics Announces Positive Topline Results From Its Phase 2 Trial Of Rap-219 For The Treatment Of Bipolar Mania TradingView",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPb2pUYW8tSkRlREg1NkJ5amJ2eTVQOVMybEYtVEZLZ1dLcDhjaEZNZEstNmRJU285YkZld1hSUjhHU1hrSkplWFVQSjN3bGJPQ19LeGg0N2lhQVB0anFZbUVTYlJlNU1GQWIyOGZEcG8zT0hIY3JQcGpWUzZQZ2t2Um9uOXh2SEM4ZzFYUTM1c3ctWUFEMkE4b19GWExiSVJGaXJOY2V6ZzE1M1hrYXN2S0VlZFdib2xRTXJKaUhvYXBxYnpHWWltbjBWUUVMRW51bHFnZml0aWNad1R6MVNmaHBnU1FvS0stTGl4cDFaV0tFRVotMVphc0dzMXprQkRmdU5pNWRyTTA5YkhEQlNHU2JlSnRkaGRxMmJ6WEJGOA?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f7f3f88dc9a2148d",
    "company": "Tonix Pharmaceuticals",
    "title": "Tonix Pharmaceuticals to Present an Analysis of Phase 3 Data on TONMYA® at the IASP 2026 World Congress on Pain",
@@ -13798,6 +14051,17 @@
    "first_seen": null
   },
   {
+   "id": "204dcc8431829c0b",
+   "company": "Gain Therapeutics",
+   "title": "Is Gain Therapeutics (NASDAQ:GANX) In A Good Position To Invest In Growth? - Simply Wall St",
+   "summary": "Is Gain Therapeutics (NASDAQ:GANX) In A Good Position To Invest In Growth? Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdlYtT09abnVEaEdLODBjQjFpRzAyeHZzR2VEYnQxM1k5bThhQnk3ODA4d2RoSnVNX2ZJZjBMMTRsMHhmZkhNRzY5WEkxYmVsS3paSnQ5RkFNSzloUWZ2OGlZNEtSaXQyaE1xalM0SzF5QnN5WGlxbWdjaUcwUDNZNVhseWR6N2JfdmJZRTZYcW85dXJ3X0xhVjVhZjdXNXVUUGJBVTIyY0hUOVFETTZPejh0ZjY0RXF5OWctMF9vQXJSYm5QWUh1dWJrSVg5QVFvR3B5Vnh6cXd6ZWJjMFR2b2twVVNUZ9IB6wFBVV95cUxQaDA1dUkzT19GbHJrelpfOUV6dUd4bFhuUEpiLTQxeWRnNnc5dkI4czZSOGhZbFVFdmZ2aHFEN0taVEdnOWFtRDRWekhvUW1faFVEc1F3ZWhqbGRxY2JLbFA2YWxOMGZpWVpSaFJlc21tbU9xMUpvNXVkSExKVDBIYW1IUVhkOE1tejRqZnVlVlNLeks0MHZPakRKbmxwSlJjLU1KY2l0LU9vVmNoZWpsOUJ2MVAwYXdDR0d6dlFUZjFKdU1LQ3gxd0lIRHpXb3JFSlhUUDRLZ2gwb3NCbXBCQ3FuYThHWWNlQlNr?oc=5",
+   "published": "2026-10-14T07:00:00Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7bb3beedf9d876a7",
    "company": "Seaport Therapeutics",
    "title": "Population Pharmacokinetic Modeling of Oral GlyphAllo in Healthy Volunteers Strengthens Evidence for Lymphatic Absorption of Glyph Prodrugs",
@@ -14113,6 +14377,17 @@
    "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQXzRSMGhrVXBBWVlfRWJnaWJYbGdDbWtpUVktRkZTckcybFcyeHVlc0YtMG9yOGhhcU9KYXp5eWF4NlhYTDdZU2x0d3lIbFZIM3Q3R0pGa1BudG82S1pUMEF6ZlZDS1BSbjBoU0YyTW44NGFkRUhyNDUtZ0tKQW9qVWJzeXdHNVlzWFFpZ1N2dWlyMnhxNTd6UEJXbnlaaWNOUFRIUEluV0ltV2Z5dmt5ei1GNi1BWW9oXzhKdjZPVUtaUkFmSDZLSl9JVU1HWVduc0pUUFctY1dwbXhPUHdWcHQ3SG4wLVZZVnNtMlpjRV9ZSl9GVW9oOUV1WFZpZm1nMU43VmlDckduUGRBQU1Wd01BbEZXeXBfNGphS21ndUFkYU5KT2M1cDk3Zm9hTTRLRFRnQVNERmN2UG5wc3RwYW1jSmpNejNLR2dxOXpheWc4UUFpWXF4X3VPZldkVUtoWTA0Z3hEYm1HSC1F?oc=5",
    "published": "2026-10-10T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7a6034cb842be35d",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Presents New Preclinical Data Supporting LB-102’s Bimodal Mechanism of Action and Highlights Ongoing Late-Stage Clinical Development Programs at the 39th ECNP Congress - Yahoo Finance",
+   "summary": "LB Pharmaceuticals Presents New Preclinical Data Supporting LB-102’s Bimodal Mechanism of Action and Highlights Ongoing Late-Stage Clinical Development Programs at the 39th ECNP Congress Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHJDeG91WktNZ1N1S2V6Y0pCUFl3SFMtdF9ibURfclFaSXF2S3VkYTEzWkJhaUFBNnBJNFg4bUN4bWFCT1Z3UVFUMW9TekV0QVBPdWhoVWhkeUdqeGdKNjdUcVdPdEdlUElrUURVZ0s5YlR5MGp0ZkVYeV9YdUxpeFoyRWk3c2lfNUtUWHFhTDE0cVhxc3VlMm11OTBGSkZBMmdEbElEa3Q?oc=5",
+   "published": "2026-10-10T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14997,6 +15272,17 @@
    "first_seen": null
   },
   {
+   "id": "f13a1cece1749b89",
+   "company": "Gain Therapeutics",
+   "title": "Use of newly named drug leads to stable motor symptoms in Parkinson’s - Parkinson's News Today",
+   "summary": "Use of newly named drug leads to stable motor symptoms in Parkinson’s Parkinson's News Today",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0t3Uzh3RGwtTFlULTBWSGxfTW1GNTA5aEp3MzZBdlRRRUFXNkRaZ3hBcGtsQ05TN2JCQTh6ZGR1WC14ZnVkMnZZZ2NaanJlYTRIbjNWYXZidE01MkdTNjZDdlFoX1JSQkk0U2YxSGNIN0RYOXAxajRCWFppT0ZyMnItSjJha3VCZi1fdTlBcnZHanliZnE0Z0lYSlRnOXVYWElvU25B?oc=5",
+   "published": "2026-10-06T07:00:00Z",
+   "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "434f08b20ee7ea8a",
    "company": "iRegene Therapeutics",
    "title": "iRegene Therapeutics’s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa - Endpoints News",
@@ -15481,6 +15767,39 @@
    "first_seen": null
   },
   {
+   "id": "1b88357fbba05901",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics reports 12-month rexaceract data showing stable MDS-UPDRS and plans Phase 2 start in Q1 2027 - TradingView",
+   "summary": "Gain Therapeutics reports 12-month rexaceract data showing stable MDS-UPDRS and plans Phase 2 start in Q1 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWmJLOEJFVXM2Qkx1aG9yNV9sa3ZKTkd2SE0ydVgtb0VOOU00TkloOW5PbU9MUklldl9waWZxeDdjX0FyY2xMajRzWmVrZTJLTlBZTnYwaUhHOEhLWVJQZWg0MjB6N0ZBX05CZFNNaVZzNkRfR2VkNThYWER2YUdtWlVVc0ZpSkNDNkpZa01CNFRnWjhSNjZraVl4RXdYbHlHTVN4cGREb3BwSlBDTnU5RGotUzhlSlBaZ1hTMllwS2p5QnExN2M0RXZSM1djcEthNHFBZXRBVGoySjRwZTJhY2tKV1V4LVBmR2o3MXI4V2JsVjhpbTZiSEVnTFdUNFNUaWc?oc=5",
+   "published": "2026-10-01T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "caa8bc4ed917ffd0",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Presents Positive Phase 1b Open-Label Extension Data For Rexaceract Demonstrating Further Evidence of Disease-Modifying Activity Through 12 Months Administration - The Manila Times",
+   "summary": "Gain Therapeutics Presents Positive Phase 1b Open-Label Extension Data For Rexaceract Demonstrating Further Evidence of Disease-Modifying Activity Through 12 Months Administration The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOdWkyMWU2dThBMnZmMXhmZHlpdmp6TElPUGQwUC1SMzBURlN0RjBydTRhcldvRDZuVjN3LTN0Z0xpbWdjRTVReWtfYm5lNXBrT1NEMnlBSFpSOHE4WFQ5MTFMX1laQWNPa0pWWXVtOE9udHJHQ3FZM3M0XzdRODczSDhtanVWSmxJX0c0N1JSY1pBbDVBcUp2M2RNTHdaZVZmbXN2WHJjdW1XbGkzSXVXMlk4c2NCMXk3WWdfZGFVempDYWUteWpFOXVjbGVPRy1kQUp2NzlJOTdOdmdWX2wxRWVYT3ZuMko0eXc2UnlVTkdZNTM0ODBFQmp0MTUtUnlGaHhMTjIxenNjTkZKSjNHYVFhX0s0dXNXX2FkWkVOZUVPbzUxQTYyeEJyUmFaSHFHbndKdy04MkpZdGo0N1dRTWdrNGhyLTFZRy1QUEpLNzJWZTA4Z0RKVEtOWnNXT2dwU0czTWJNWWg0WlYxRHfSAfMCQVVfeXFMTnk5dFpjRUozT3lLMVExMXBQQ29sckJ1bGxxWm5MbkJnRWVfOV9VaWNGOGR5QzBKbUdaeUk4VXJoazFqcng2ZExqd0xnUUxvc0hJRHpIZ1VIaEUwVmEtQkNKMVdQWlVkZ0tLZWVfcW5pcDN2WEFnWWFMdzlUaENoeUZZRkx0dGhRR20zS1NHaG9CN01YNS1CcjJIc05jVUZzdFpGZlhnSzRsempxWWhjanE0WUJwQThzRFctUE80YUxDS1NmR21wbE1RZlNKTW9tWmNqNk0zUlpnUUhHOHBTeUpYdTVRTzNaek9UX2JGYkFBT3dONzNfNUlCemNCTDFPeUxPejVQSkFIUnJndzg3eEJYdVlxU1BzUVFLblF0NXV2LWF1ZzUwZVpVLWlTRm9MS1l3YnJvNUxsZzFqX29CUUJNT3U0YVZqcm80Nm9HWUZnLTF3WjFLMGhjZ3R5bUgwa3pRRWdwbEdlenBpQ20tS0VLM3M?oc=5",
+   "published": "2026-10-01T07:00:00Z",
+   "outlet": "The Manila Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1d56a6fd8465ba67",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics reports stable motor scores in Parkinson’s trial By Investing.com - Investing.com UK",
+   "summary": "Gain Therapeutics reports stable motor scores in Parkinson’s trial By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRTF4RVNvSE9JWlF4cUQxZmlwT1ZaSGxxZ29GQlpoQlc5Z3k0azNXN2ptNjBpOGNPckVFMm1zNS1VeVNSaU5jc0kyNVJyVzJOM0xsUE05NmNYTHFmRVAtYkp5RjNWaW05dUo1TzdtN0x0dWQ2bFhSclhTMENPY2ZxcDAtNmFlZmlVZ1ZMY0ZNOFRsb3RQYU5ycDhiQklfTmhrNG1PbFc0M1pwMHZkOVhGUV83TGVtM3JrbHVSR1c3RWxzbGEt?oc=5",
+   "published": "2026-10-01T07:00:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "9003f883faa1f0b1",
    "company": "BlueRock Therapeutics",
    "title": "BlueRock Therapeutics’ investigational cell therapy lemiretprocel (OpCT-001) for primary photoreceptor diseases granted orphan drug designations by FDA and EMA",
@@ -15954,6 +16273,17 @@
    "first_seen": null
   },
   {
+   "id": "327d4de45590109c",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics announces CFO resignation and interim appointment - Investing.com",
+   "summary": "Gain Therapeutics announces CFO resignation and interim appointment Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQzFxYm4zaXpQdURJdXBTMFlMLUcxQS1wNVY1bS1qMV9tX3lWZThDUi10VFE5aEk0SVVuOG44RzBzTzVSZGNBYlhyZHpYaVVEaUMyVy12dGZoLXAxamxEektPSGN1Xzk2MmsxOFRNcTBsZXRSYlN3N2t0cVlYeTNpWU5OQU5fVHNBTjBtWk9uRVF6WnFIQ2lfeHUzVmt4ak9IWGJfWVVEd3EweW96ODhHN1p0YnRjN1A2eU5JV3pLQmU?oc=5",
+   "published": "2026-09-28T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bdb4d8bc96e0b193",
    "company": "Roche",
    "title": "Parkinson drug race accelerates as LeCun, SK Biopharm, Roche advance - Chosunbiz",
@@ -16317,13 +16647,13 @@
    "first_seen": null
   },
   {
-   "id": "108797ea420455dc",
-   "company": "Supernus",
-   "title": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN - Business Wire",
-   "summary": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcW9ac3pKOXNTVWk0WW1aRTJTTzdRY1V2MmI3c2tRMjN3MzlCRHpUUXhxR3BYZU1WRnNscW5wTHEycUJZbU1mVVhfMXBBR3ZCREczYlBHUXJVZXV4MFBUOXNxVkhYSm1BOWtJMXZoTTlQbGpVXzUyWXQ3dkpOeTFjNVZKXzItbFZsQk1rNmdOTnVNUm5oRTE4YVZpdEF1MFBpQ2NhbmZMZFJOVnpqUFVFRUZuRi0yYUlibDFmazhXc2xDRjVNUTBjUEh5OVJUbXk3dDhpdVNrVUlYaHE5UlBKRk1qSndxOFpCWTl1cDVycXY0cWh3c1FvSVg5Q2FKSkNWemlvR2pyWUxKX21wbXRaQmY5Zlpfdm1pcmR1SXpYbEhXQVZXX1kzMXpxVGdqZmdoVkV6TlB5dGRZWmZ0?oc=5",
+   "id": "38842869c583d478",
+   "company": "Rapport Therapeutics",
+   "title": "Analysts Conflicted on These NA Names: General Dynamics (GD), Rapport Therapeutics, Inc. (RAPP) and First Solar (FSLR) - The Globe and Mail",
+   "summary": "Analysts Conflicted on These NA Names: General Dynamics (GD), Rapport Therapeutics, Inc. (RAPP) and First Solar (FSLR) The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPREtKWUJjODhQb3pia1FZTVhpOWI0WGczbFFsdFRVOUUtMVl6WmJDNGlXQXhEZ0lHckhVYUlyMndnN1NJTHZFeVBrZHhYNWhDSFRjWmh6ekkwVFp4V2MzRGZVX3BrUkZEbGNaYzZkNFZRSUo0NE5oVC1PcjhqYmJldXQ4UHpLcE93SGFHcTdHaWd2dnZmUEFydzZ6UXU3NzNMbDgwd1FJX2RYdHBZRWNWS21KSVU2VDFIZWtaZ1FvdUk1ckRQX1IzYzh2YXpjSTlXclFHR1NzYU9zT3FKQ2gtTFdVcy1uSTJMQTc5Rmd0WlE5Y1NzNmRmZVNPQXNNVDg0X1dXVWFVbGxqTEhCNDNfdHBmWTN5TWNjLS1z?oc=5",
    "published": "2026-09-24T07:00:00Z",
-   "outlet": "Business Wire",
+   "outlet": "The Globe and Mail",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -18286,6 +18616,17 @@
    "first_seen": null
   },
   {
+   "id": "6bd0a555d9b183ae",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics at H.C. Wainwright conference: Parkinson’s push advances - Investing.com",
+   "summary": "Serina Therapeutics at H.C. Wainwright conference: Parkinson’s push advances Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0lKRjJlVXVhQnRaVFI5Y0pQZVVuTUpYS0pwNkQ1X1lFMnpGakl3TlZHRXo2bXNRSkFjTWxBQ2dzTDhGRDNKSTJtOWdZeGVlU28xSGliLU1mUHZsdUFEVnI0aGhCUVJhSG5JMVV4bFVfaFVPRW5SSzJra0RQZlg0eTJDZG5wbDJLN2JXV2thNHhjYnZiand0Wlg2bDhzMmluck5OZlBsNmRkOUV1RnA3RnRQaFBXSXFNdDA4Y2t4XzNhSVByRHhR?oc=5",
+   "published": "2026-09-11T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "9fc5170d02e7bc2f",
    "company": "Neuron23",
    "title": "List of Investments by The Michael J. Fox Foundation (Sep, 2026) - Tracxn",
@@ -19111,6 +19452,17 @@
    "first_seen": null
   },
   {
+   "id": "e2e060e73858b0f3",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
+   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHJHV3l3OXA1bS1vWl92V1ZDMG85MmcxMWQ4V2xfRnRrVHR0SkI3UjhHd1NKdTJFTGFzLV9MQTlJbWhpTXR3LVFRdzF4Nk1ZYzAwQnFDZGxZaDdGY3FKc0pBb2ROczl3UHRBNlJCaEpubjhBaDFpYzJNaWtpZS1lNlg2OEs5U2s0eGh2anRhLUhfNkdDeFVGWnF2VzJGazRMUnJ3VlJZNzN5RFZmZlRR?oc=5",
+   "published": "2026-09-02T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "07d8ee97f0104ed5",
    "company": "Sensorium Therapeutics",
    "title": "Mass General Brigham study finds chronic pain linked to altered skull bone marrow activity - EurekAlert!",
@@ -19507,17 +19859,6 @@
    "first_seen": null
   },
   {
-   "id": "15aab8800f95d92b",
-   "company": "Filament Health",
-   "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New United States Patent, Extending the Broadest Natural Psilocybin Patent Estate - Yahoo Finance",
-   "summary": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New United States Patent, Extending the Broadest Natural Psilocybin Patent Estate Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0JWYVFPT3RhZVZicWVvSW5VcW9HN3hPY21pb2x6azVSR2dZUDhTVHJYcy0zVlVsUWtNYW04NWxFZ200SEpjbVpuSFcycnREdjVjam5nSkphd1A4THVxMlBpLWIzRmFqMU1oS0szOU1vSVJXNnNQTjRMZUpKMzNxTTFjRFJxY2lfR0ppZlpJTHIzMVRfTXh2VWRxYw?oc=5",
-   "published": "2026-08-27T07:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "92f43fb3b076280f",
    "company": "NeuroOne Medical Technologies",
    "title": "NeuroOne reports successful large-animal StereoCED procedures, expects related revenue in Q4 2026 - TradingView",
@@ -19613,6 +19954,17 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFBiaTA2c1lpVEtwVzhJOG9FVjdyeUFLdnZvTDlVSmhwa281a2VtckV1ek9lOHZSVWFIQTd3LXVhQnptNG1nVVBUaFFXNVM4WlJSWFV4bGZReW9KcVlFNGZuSDZ4WWY3dGJBVS1Wa0VmRlRaM192SS1FMHR2cnlDNk82X2w4bm9jR2lEOWN2QlAyYzd0LTN4djB2RE15MWswaV9MSA?oc=5",
    "published": "2026-08-27T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7cd2be89e65ce554",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Sets Up $25 Million Equity Purchase Facility With Roth Principal Investments - TradingView",
+   "summary": "Serina Therapeutics Sets Up $25 Million Equity Purchase Facility With Roth Principal Investments TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObkZLaWVLWXJReW1STldLZlE0bmJMRzJYTzJRdHFLTlZYeFdyeWlSU3EyWGo4N1B0bDFLSVZ6QjBmbi1uNUZNY0Q5emlBSXpYWDFJR2E0SUdCRllEU1NLRVhacW1scUZNb0lyeHFMRTlpM1RfY0tNOTI1WDZOSEs0ejNjTXZVY2pDVk9pWExDM2JtQWgxb3pyMHdDX1FaUE9GcnNXQktHZ0F6cjFvbzZrX3hQazdQM293TWdoYVRncWVDVERyeWpVbnBkNHpEdk0yWVJQZExYX1NWV3ktOUl6X1Y2cjlfVkZlQkFDbmhB?oc=5",
+   "published": "2026-08-27T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -21498,6 +21850,28 @@
    "first_seen": null
   },
   {
+   "id": "54c781157fc32dc1",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics, Inc. Q2 2026: Net loss $4.7M, EPS $(0.11) — 10-Q Summary - TradingView",
+   "summary": "Gain Therapeutics, Inc. Q2 2026: Net loss $4.7M, EPS $(0.11) — 10-Q Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSzhfbXpCbHo0N2EyZ3I0WmhfMUk0WDM5TW9ZcXFobXI0SmhLZ2o0S3VTcnMtOVRKcVA0YndLUjQ1RXlNcUg5ZWFQVmdpZWE2QU0xN0J1SllaUHlJZE5xV1djaTBXOFFrdHNkNkdpOEpHbkx1STJHdG9FUE0zckZ2LWFGR2NqbkVFNks2d2NTYVNCbm1NMnlJMm9aTmY1dmZiel9JTjNiM0NhRUl1WjFtb19ncGhDTFFoUll6OTBadVd0eWVmSVE?oc=5",
+   "published": "2026-08-11T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c4c9a2c768ea5c90",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Q2 net loss per share narrows as R&D expenses fall - TradingView",
+   "summary": "Gain Therapeutics Q2 net loss per share narrows as R&D expenses fall TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWdQd0lBckk4QTFwaFdwbzRCeFNwNEs3M2kyRFpFc25DaU1tWkZqYWU2UmtGVTRmXzg2VUhrb0VDVjI4bXVTYkJmS2JIelBJdUNpcmpPblppSUh5U014U3RZbTBsR0daNW5QV2ZuSmdTNlh5VkVsVE1BTklpSlRjWHhIRlY2b1VodDFaY3haMENtRl9aaDN4ZHhIX2RnNEZuN0VjMWNfLVV4WkZZTzRhZEdhblBYTWs2RDVEYUd5ZHBfY19yQTJiZW1qTV9qM2FSVTRoUg?oc=5",
+   "published": "2026-08-11T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e4e338ee2fbe2fb7",
    "company": "Minerva Neurosciences",
    "title": "Remy Luthringer, PhD - Minerva Neurosciences",
@@ -21846,6 +22220,17 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84ZUxvNGVtZy1uWjVPbkVwRi1GMDlRc21pRm1kOFlTSEdFbmRZM1JsbUZILTJ0c0FuUi1TS194Y182c2tacjR6QXVTTFVLR3YzU3BVTmxVdEw5MWpy?oc=5",
    "published": "2026-08-08T07:00:00Z",
    "outlet": "YouTube",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "108797ea420455dc",
+   "company": "Supernus",
+   "title": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN - Business Wire",
+   "summary": "Supernus Pharmaceuticals Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Supernus Pharmaceuticals, Inc. - SUPN Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSTNlQjVteHFrYnVOSU9NelRBRVpxazVvZjNPYTllVlItZnI2YmVJZVI4ZUhZX3ZzWVk5NzktNGlzQU00d21ZaUlFXzlDcWlINzJmQUpXQll1TzZ2d0tUcnRGdzhNajZJb0lnR2RwRTQ2WkhuZ05CWGdqV0o4eFV1VlA0eHJad2NLOHN6RzZIeGxzLTg0TXVES0RGc3dNZTkzcENHc0M0SmFDOUlGS1J5SWxaV0p0a1NKN2JRbDM4Y29NYVZIYV93Y1R6aEk1S041Z3gwR3hVbHc2eXpFc1E4d3hTTl9tMHFTMzFCUzNDcjl1TGY2VXVNSC14NmdVVFdMcm4zLWZJRXc1WHNGS0Y2QzBXM2NIeVVVcFRQVEhEd3VKcS0yOW0tZVV4YTVIUExuVU1jM2tvSi1heGtO?oc=5",
+   "published": "2026-08-07T07:00:00Z",
+   "outlet": "Business Wire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -23331,6 +23716,28 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWFd1bUZXcC1vOWZZMjJoYXRVcG5WQmpQbV8zc2dNMV93UzVnNENZVHhDWkNMS1hxdW5DdFNkemRpZlkzRzFROFVIay10a1p6Y0NZUXF4NXFmSk91MjBpc1lWUVVTa3N3TDhHQ0VnT3lIbUV5dTRaM2x5eDc5WFhveGxWc2UtT09uX1VETWhHOElHZjhITjg0SjJrRTJkSElZV3c?oc=5",
    "published": "2026-07-28T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "aa35678390fe3e7e",
+   "company": "Gain Therapeutics",
+   "title": "Parkinson’s Disease Drug Trial Extended Following Early Findings - Technology Networks",
+   "summary": "Parkinson’s Disease Drug Trial Extended Following Early Findings Technology Networks",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTW1vZ1MyamlmYW12LWRfUEFXa3JRZC1QTnpreE9Xa0gwVVExQ3htWGRwTkZJWnVQc25IdS1IcGE3dkZsNkZOZmxCbDlNNjhsOUl0YTJWZkRHTjkzbDlQWm5fd3VhLV9ET0J0bUV4SDJ3UU4tQlo1RWRobi1ZR2laMWlhaXZjeWE4YVdFSGotQW5iM25vcXJWRHFUSGJCakpkTlRlazZQdXRXMkZtZk9TaE1KUHc4bVctX1NseDJNNDV1Rzg?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Technology Networks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "62ab0440ba9ed5d7",
+   "company": "MapLight Therapeutics",
+   "title": "Does MapLight Therapeutics’ (MPLT) Dual Symptom And Cognitive Data Hint At A Differentiated Schizophrenia Strategy? - Simply Wall St",
+   "summary": "Does MapLight Therapeutics’ (MPLT) Dual Symptom And Cognitive Data Hint At A Differentiated Schizophrenia Strategy? Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdWwxQ0wyYlJQYWFVcktxR3o4N3dqckU0WTlXMnBKM1B5T3RmUHZJaWZ0WUxHMExKS0dQVVZHQkdwaEl3RVBnN0x1UDlZdUJBbHVqYUpHcnFqMnotTVdVd256TGRIQ2x1cXdZWEhNSFlqZ3lDejdvSndiaGFwMEZTcXU1QnVPb0Z3UXo0WC1TeThkU2JkVEV2OTduY2xGcGtvQVdLM2ljQjA5eXdPMVMwNm95azFoSUhReGN1YzYtWUd5UkE5UV9DUGZmaGhJYU5ncUV5Q3NSNlFMcmNkYVpqaXg5dXBHQkxLcUw40gHwAUFVX3lxTE1heWlkQ0ZXb2lLdTYtYlJRajEtTmFrWFl2QVZGZG9QaURGeE4xUUlEc3ZrT3pvemVDNmpycUNYSGxMMDVBNmI0SWZ1bGxXQl9pRWJadm5IWURLS2haWlV5ZUpvbHA4OGFMWWRIeTZOcjF5enNtNklBLXBYZDFQVlJBT1VIZVkxbnFCbFFOc3JfTHFxaUpmbnFDX3RQVXpNclRuMzlaUVlnSGxPQ1RzSUpVamR1UWZnd0VYZ2tQTktxeGVQNmJoZGttcjVSYVZ4YzJrYTR4clpnamtuNXZQZmxHX0NFM2szS0RFWlhsbTRtVw?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -25601,6 +26008,17 @@
    "first_seen": null
   },
   {
+   "id": "bbffa685a0aae76c",
+   "company": "Gain Therapeutics",
+   "title": "With new FDA green light for developer, Parkinson’s clinical trial to launch soon - Parkinson's News Today",
+   "summary": "With new FDA green light for developer, Parkinson’s clinical trial to launch soon Parkinson's News Today",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlF0VzFIdmhRRjZNbFh2TXppeGhJVTlLb212YkJrZWU1MmNvUW5EOThNNDJ6cTYyWVVFckJERURRUkVMdVRhQ3FWZHE4TC04VjkwMFFWVmc4NllRQmNKRGdlT0Zlbm9PbWtoUmNNUG5sRHJFSlNxalI4c0JiZE9rNm83ZjRnNzE0VkgwXzdkbzMzTW1ibk8takkxMTZjZVRWTkNscHNDOV84dw?oc=5",
+   "published": "2026-07-06T07:00:00Z",
+   "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c775eefb600d47f8",
    "company": "Unixell",
    "title": "UniXell secures FDA clearance for iPSC-derived Parkinson’s cell therapy - BioSpectrum Asia",
@@ -26074,6 +26492,39 @@
    "first_seen": null
   },
   {
+   "id": "5553e96cc396d1be",
+   "company": "Gain Therapeutics",
+   "title": "Why Is GANX Stock Rallying 22% After Hours? - Stocktwits",
+   "summary": "Why Is GANX Stock Rallying 22% After Hours? Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzVDdTltMGJCVVAxTDFIa2RDVUFmVnRjYlhqYUdsZ21lZ2g2MFVpbWVtUVFzUVlSQTllcVBwdkY4R1UtODY4ZExza0tMbE02Uk04MFR3N2RPdWN6T2FTSG5rMjgxUXptU0JEUDQ4bnpBUE1Cc21kOXMtOUdwN1Z0R0xIdzVTMHBxWm5IM09YaThGMWNDc1Q2alBLcGNpWmdzM0FPcg?oc=5",
+   "published": "2026-06-29T07:00:00Z",
+   "outlet": "Stocktwits",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b90062b06152b06e",
+   "company": "Gain Therapeutics",
+   "title": "Why Is GANX Stock Rallying 22% After Hours? - TradingView",
+   "summary": "Why Is GANX Stock Rallying 22% After Hours? TradingView",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeWVNRFdGSTlvV2lQRUo4UktjanNqdVd4T0h3aFdHNm4wWFlobkk3Y1ZuMFVZXzBPa0oteHJ2dlNBalRRWU5fS3pNR1BhWGY0TzFxZGhkSFBFVVB2LVZLcG5kY0VON2FHOGI5QTZ0VTVqY3lneURxMjYxV3ltZnR6R2dTY1ZhV1FKSEtjdlhfMGdGYTdlRVlVckZjZjBCMkFYOGpSNw?oc=5",
+   "published": "2026-06-29T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0f418d84ffb334c0",
+   "company": "Neuron23",
+   "title": "Phase 2 Trial of LRRK2 Inhibitor NEU-411 Expands Following Michael J. Fox Foundation Grant - NeurologyLive",
+   "summary": "Phase 2 Trial of LRRK2 Inhibitor NEU-411 Expands Following Michael J. Fox Foundation Grant NeurologyLive",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlJ6WTE4MlZyczg0YzVXMFd5UXkzeERLNnA5bjNEQ2tiaGNkWUxmYU9TYXJSanM0eUwwZnItSV9RcDQ3SUxsSHBVb1kySzV0ZmdpdG1jQ0xFeWk5YkxrZnZsZjVTaFV0RnczMEVnUUtMR3ZJN2FodWlfdXNJbXNvbHhfOC02ODJCVk8ydEFJTEVJVXhvLVgxQ01CZTkzMTJ3V0Rka1JOeHRTQ1B5eTFJcjB2cENudGJyb0lueF9B?oc=5",
+   "published": "2026-06-29T07:00:00Z",
+   "outlet": "NeurologyLive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "113a41e71d68bd0e",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Draws | WTA Official - WTA Tennis",
@@ -26305,6 +26756,17 @@
    "first_seen": null
   },
   {
+   "id": "3616173782d9328b",
+   "company": "Gain Therapeutics",
+   "title": "3 Clinical-Stage Biotech Stocks Worth Watching In Parkinson's Research - Simply Wall St",
+   "summary": "3 Clinical-Stage Biotech Stocks Worth Watching In Parkinson's Research Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeURWeE5DbDk5MEdQcVBreGlKejhGa2V3R1hXVjVqVDduNjlucDhOc1VHeDRJV2had2tDQ2RPM1lIZ051OUx4VWxHblJnMl9tRzZFVFFmdVhNNmpZamhXWlQydnhFaFowMHNTaW5yeVdvN2hfNno4Yjk0WjRIM0Q3NkN5UkxyUk5UVnlXMWNkM1YzcEdTNVcxcmdzTXhVRzJXclF6d0JCOWVoWlRhX195eXBjaW9OaS15RER5R3FocFdUQkVTb0dfbzBtQU1zcmJ5d3pTdmRWZTVwYl9BX3JlUndaUjMtUdIB6wFBVV95cUxPa0R1dnZSNzdnNmxFVG9uS0htQl9xVUc3WlZOTnJROFRSamJ2eUdWZHBoYUlTbVdkMG1INFFXQnh1ZUxDanhWZkZEcU83RjZsNElBaUkwbmpETlRyY2w4dlZuR0w4XzZmRWNBenpaaVZVM2dKZzRvaFFsaVJyLUc0YVZkOXY3TTBnREl3RGlRSFQ5Um5jVlVvNTJxWmEyaFFFMU1GOGlLZXZlQy1NLUtBSDJ3dnNFSjh1MXJfVWdQZmxmSFpSSnh5eW9wSlJ1VU1fUjZjSmdGSlJpTGRRRU5ielE3LXQyUmVtd0tZ?oc=5",
+   "published": "2026-06-26T07:00:00Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "136babf0f4cd6b8b",
    "company": "LB Pharmaceuticals",
    "title": "LBRX Forecast — Price Target — Prediction for 2027 - TradingView",
@@ -26322,6 +26784,17 @@
    "summary": "NMRA Forecast — Price Target — Prediction for 2027 TradingView",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xMnJ6dzk0Y0xmNlJINERqTEZQUmI2MEpnemdqOU9VSlJZZ2N2NEwwY0kzb2F2anFPWkJIbDNnaEsyUU5zR3JsM3plTWNxWlVac0pZM0cxTVV5Wmo0bGUwZTViNkluYk5abTFfRDYweXUzOU5sLWFjZlBn?oc=5",
    "published": "2026-06-25T19:01:53Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e92ae337990cf03d",
+   "company": "Gain Therapeutics",
+   "title": "GANX Forecast — Price Target — Prediction for 2027 - TradingView",
+   "summary": "GANX Forecast — Price Target — Prediction for 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSQjNsUmxuQ1NEZ0NQOHV0b1EyVXJJazdDOGJGdUtnUzUtMnRJS1paZkFOX2g1NzdVaDBmOHgyTEhCVEZpYWtHZ01SWUV4WktkZ3E4Tkoxb183cFN2Q0RNc21VRVV1Ums2cTZBRUNsaVAwUDFETHJHemJR?oc=5",
+   "published": "2026-06-25T16:45:05Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -28967,6 +29440,17 @@
    "first_seen": null
   },
   {
+   "id": "5962dcab24622f9f",
+   "company": "Gain Therapeutics",
+   "title": "Biogen, Denali pull plug on Parkinson’s program after mid-stage flop - BioSpace",
+   "summary": "Biogen, Denali pull plug on Parkinson’s program after mid-stage flop BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWUNxUEpQXzhfRTQ4MjRoejZocWNpVldCTFFqS3BzeEx5eHdEVlM0SGNKZjRycHdBUUFaRFBMaXNwQ3J0UmZkX0M0ZnV1RTR5ZFpCMmRjbXV4eTVKZnBsQi0zc2NSZ29hYWZTOUwtOXltVmRjZ0FwZ2kweG90dTNTMldhZ1hmM3I1aVFWdzJSanlqQ0J0UzRQc19BUUEtRFpHNWRVYjFlVFI0VVRt?oc=5",
+   "published": "2026-05-22T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c50276a5e423d43e",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "#NCT06229210 - J&J Clinical Trials",
@@ -29150,6 +29634,17 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWpYSi1fZGU3b21uOWQyQkhkVXZheHhueldGbV9WTnlpUnV6V0lWaFFFTVdpUWt6WFkxZW1OSHJmOEFYcE51Z0N4UlJKX2xSQkhzbHBCWFpqWVVpU1V6REcyb1FpcmlGbWk0STM2SFBPdFdGbk4wNUkxaklyd1BhQk12MVcwblZyZFZMVWFsMUtqYmlpTU8xemVEb0JNUmc?oc=5",
    "published": "2026-05-21T07:00:00Z",
    "outlet": "NeurologyLive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5e837f584682c63b",
+   "company": "Gain Therapeutics",
+   "title": "3 Parkinson's Biotech Stocks Analysts Think Are Wildly Mispriced - Yahoo Finance",
+   "summary": "3 Parkinson's Biotech Stocks Analysts Think Are Wildly Mispriced Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV20xMVlKTWh0aDVncjcyNDlhZDhPenY4cWV3UkZLb0RBYURucmhXOWNNZko3UDNLSTRHY2hLM19jUzZKYzJRMXVXcTNWeFdUWnRNRHU0dTVsSUFuT0RyWFp4aFdDdmFCdnRqMGtXc0pCSnpkT1lNams5Y3pMTzItd2c5WnFrcFRnbUtpRVJhYWZnUUdkZ0l6TS1BSURJVVBQbkVEMUdHdUU?oc=5",
+   "published": "2026-05-21T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -30459,6 +30954,17 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSS1xQmFiVGVuVjZKcG1uUVBqM21leUQ1OURPbFFmTU9KVEM3TURxbE03VVVGZWRYNUMwMEVDcU1SQ2FCNnZaenMtenl5X2pGT2U0em5HRXVwSjVjVVRpN1UxcjA2N2FSeGhjMnYyNkwwcnEwekNOZXFrcGp5a19zM3E2Q2NwbmRhY2lfbmQtVXBEM3pu?oc=5",
    "published": "2026-05-04T07:00:00Z",
    "outlet": "Pharma Voice",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "210709b1896a3ff5",
+   "company": "Gain Therapeutics",
+   "title": "3 US Biotechs Developing Parkinson’s Therapies - Yahoo Finance",
+   "summary": "3 US Biotechs Developing Parkinson’s Therapies Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ3JLV2UxajlKWHBtVlRBOFVPUGk5MHllT2xIRVhDVVV1cVdmeUlQd1pHbzBTLUt3aHBHRlBLS3dqY0p2Rko1QmltcEgxeGdWT2Y2UzJFMFZNcHl6TjNrOUpGTE9YSF9DQl9OQXJCR29EUWlidjJSSU5jejRaVmdXZXZXMGVxeXNvQVNBa2RhSzlJX1pSajdlaU9DWVJTa0xzNFJualF3?oc=5",
+   "published": "2026-05-04T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -32289,6 +32795,17 @@
    "first_seen": null
   },
   {
+   "id": "ba150365f95732c8",
+   "company": "Gain Therapeutics",
+   "title": "Satu Kuure is looking for treatments for a rare metabolic disorder with Swiss company Gain Therapeutics - Helsinki.fi",
+   "summary": "Satu Kuure is looking for treatments for a rare metabolic disorder with Swiss company Gain Therapeutics Helsinki.fi",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcllnSHU4V2c3V3B6SFh1Q1puMmg3QzE4UmRFR2FDOHVsMDZYWmVLeTJrbXl2ajV6X2w5c3lObWllS3RCX0swSUIzSTdHUDA3NmpnTnR6dURCMTNKV0hTMDVoQlhuVGJ5UEdkd29yMjBlaUNxVW9pZnJkZnZuc2FOaGlseGZUMEg3bnpQLVRmdkxnb2NKaVZfeDl3T1dWYlIxN19VMjUzLTZaQzhXZW5YS2ZsR2ZVVFJnQVllLTNGNEg4aWp4WWNpS2gyMlJLREx0NWdHT3RkWG9Lc3YyTzVUMThfenB4SF93cUpDbWkwN2Nwa2lQN1VIUnFGd1k?oc=5",
+   "published": "2026-04-01T12:37:48Z",
+   "outlet": "Helsinki.fi",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6fc86d324cd7bb51",
    "company": "Alkermes",
    "title": "Alkermes Announces Initiation of Phase 3 Brilliance Studies Evaluating Alixorexton for the Treatment of Narcolepsy Type 1 and Type 2 - Alkermes",
@@ -33411,6 +33928,17 @@
    "first_seen": null
   },
   {
+   "id": "312e8abb048bcb47",
+   "company": "Gain Therapeutics",
+   "title": "Parkinson’s therapy shows promise for motor function: Trial data - Parkinson's News Today",
+   "summary": "Parkinson’s therapy shows promise for motor function: Trial data Parkinson's News Today",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEVzLUhFdGZCdWtnVGRPRFpSR25mRTcybWFwbXp2NDlZQUJyQkdHd05BcTBuZko5MlZpNlFOSExnTkJfSHFyYkphLU0weVNsQXdCZGVNZkl1WDViZkNBaTJtVTd2T3p5X0d5Ym9jX203eGd3c3ducjhwWnpSSFhwbUc1Um5oX2o4R0NuakRpdzIwLUV4cUQ5OEF1a0Y?oc=5",
+   "published": "2026-03-23T07:00:00Z",
+   "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "424e8d1b9eb91646",
    "company": "Roche",
    "title": "Prothena Partners Present Data Supporting Next Generation Treatments for Parkinson’s and Alzheimer’s Disease at AD/PD™ 2026 - Business Wire",
@@ -33660,6 +34188,17 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFpmdkYzaWotWGJMb0lleVVGY0lZOVRpMlhPbFc3RGdUTmpOYzF4czBqcmxkc1VvZUNCUFFqX0ZfTjM3WllwNWE0ZjEtb2ZoWXhPY0pONUhUWE8yZlFYVkU4ODFGWWhMbG1paHprZVJxazVzSnhualFZNlJobDZhMXBWeTJreUh1UU01TVJiZXNyWm00NWVZTktxSWRwR2M?oc=5",
    "published": "2026-03-18T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "75daf4125158b0db",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Inc (NASDAQ: GANX) Share Price, GANX Stock News, GANX Share Price & Updates - kalkine.ca",
+   "summary": "Gain Therapeutics Inc (NASDAQ: GANX) Share Price, GANX Stock News, GANX Share Price & Updates kalkine.ca",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95QXgxenpKb0hQTGpBbkJSWXg4UmtKR0MzMWIwNGl0UjFaYzhvTGtlTXVKVmg3S0ZUZWRSUXhuT2NUVjVhLU1zWTVQNjVQSk0x?oc=5",
+   "published": "2026-03-17T22:56:30Z",
+   "outlet": "kalkine.ca",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -35787,6 +36326,17 @@
    "first_seen": null
   },
   {
+   "id": "a46e9806655d4c07",
+   "company": "Gain Therapeutics",
+   "title": "5 Investigational Therapies That Could Change the Parkinson’s Landscape - BioSpace",
+   "summary": "5 Investigational Therapies That Could Change the Parkinson’s Landscape BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGRCUlV1Tkdid09RZFhicUw1SGI4ZlZZT0VPVHg4YXRCRGxEQTRzZDVZZjhRWTFXTDRtT204d0VWMWRIVkJkeFktTzJzaVJrdjBGSElRcUxjRG1LSXlZb0FucG5xTEJONWdDTnpQVjBxV1BCS1FtNjliejExaDI5LUEyYmFRSE9LUkdaM2p4MWdtYTlkcU5jVExpTWh0RklCMWRMS2gyRnJEeTZhUVR1RjRB?oc=5",
+   "published": "2026-01-26T08:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3e91c58219a28782",
    "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
    "title": "Assessing Ventyx Biosciences (VTYX) Valuation After Sharp Share Price Momentum And A High P/B Multiple - Yahoo Finance",
@@ -36213,6 +36763,17 @@
    "published": "2026-01-13T08:00:00Z",
    "outlet": "The Globe and Mail",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "0fa2083c0ab3c15e",
+   "company": "Gain Therapeutics",
+   "title": "Early trial data suggest GT-02287 may ease Parkinson’s symptoms - Parkinson's News Today",
+   "summary": "Early trial data suggest GT-02287 may ease Parkinson’s symptoms Parkinson's News Today",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTDhxTXdma1ZHNjlod2liYWNXOFplbEVGVjR6elJmbWdZRXNTY1ViU1pwR1o0NDF2TjdQS1I3WDBPc1JTU3h3UHdsNGJDbVdSR2tPMmhDVFpQalNSOXN0X3hBNV94NEhJWGkwUVhYbDBEc1VrLTFoc0MxV2hzbHUwSTlLWHpyRlhiVXRUZ0JzT2ktYTRJM2JPdmw0Zw?oc=5",
+   "published": "2026-01-13T08:00:00Z",
+   "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -37514,6 +38075,17 @@
    "first_seen": null
   },
   {
+   "id": "4636dd5ace128c35",
+   "company": "Gain Therapeutics",
+   "title": "GT-02287 boosts enzyme activity in Parkinson’s brain: Trial data - Parkinson's News Today",
+   "summary": "GT-02287 boosts enzyme activity in Parkinson’s brain: Trial data Parkinson's News Today",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDBWekUzQ1hFdWpCXzM5RTRGWVhDNjVQZjR4VGdibWN4UUdDLVdHMjRvV2xSYTR0d3AzckVvMEtTTUVPbTVRSThOVWtzdWFRcHp3c0JqVkN5QjdwdFRBa2Z5SVhjaGFqNUpFMVpvZm5yN1hoU2RrcWxGV0lfcGFBejdQbV9KZ293VHdMUmcyVXFDdmNibUplWmxHc211UQ?oc=5",
+   "published": "2025-12-23T08:00:00Z",
+   "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "30b00b4b02b7ce73",
    "company": "Zambon",
    "title": "Zambon Biotech announces first patient dosed in Phase 3b ADIP clinical study of IPX203 in Parkinson’s disease - Zambon",
@@ -37841,6 +38413,17 @@
    "published": "2025-12-14T06:53:28Z",
    "outlet": "Denali Therapeutics",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "39cf8a282ffacac9",
+   "company": "Gain Therapeutics",
+   "title": "AI and Physics-Based Modeling Identifies a New Parkinson’s Disease Drug - www.the-scientist.com",
+   "summary": "AI and Physics-Based Modeling Identifies a New Parkinson’s Disease Drug www.the-scientist.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHVnRkRESW8tMkhGYmZia0prc1lrZHRlbEZFbFdjUXNLVmxRZm91Yk1RcU5ZQkFQLXJLWmNidjdyU05zZUFiNmlsdXlTcHRYT0R3ekpYYm9rUjBYQnlMU0RpS005OS12V3pVVkVKejhMZThUZ2wtVmxfM3pNcVRkMmhoYkpnR3EwaWpwTWtpaTY5TGsycm1TWnBkblAzbUEwY2JNeUVkbHZ5c2s?oc=5",
+   "published": "2025-12-13T08:00:00Z",
+   "outlet": "www.the-scientist.com",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
