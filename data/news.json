@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:28:00Z",
+ "updated": "2026-11-22T03:19:57Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1764,6 +1764,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "d8d10a289a205816",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio, Inc. (ANVS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Annovis Bio, Inc. (ANVS) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyUDlUaGxyRk9yNGtacEc1Q2pRaTdLb2xrczVoczd5UGR4OEw5dmdFQTVFekpNdEJGZUJjc1ZvVXlOX05NVmh1dUJ3eWtvVF83cGc?oc=5",
+   "published": "2026-11-20T22:54:23Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T03:17:37Z"
+  },
+  {
    "id": "e95e3fd188a1ecfb",
    "company": "International Stem Cell Corp (ISCO)",
    "title": "International Stem Cell 3Q 2026: Revenue $147K, EPS $1.4 — 10-Q Summary - TradingView",
@@ -2026,17 +2037,6 @@
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
-   "id": "d8d10a289a205816",
-   "company": "Annovis Bio",
-   "title": "Annovis Bio, Inc. (ANVS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Annovis Bio, Inc. (ANVS) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyUDlUaGxyRk9yNGtacEc1Q2pRaTdLb2xrczVoczd5UGR4OEw5dmdFQTVFekpNdEJGZUJjc1ZvVXlOX05NVmh1dUJ3eWtvVF83cGc?oc=5",
-   "published": "2026-11-20T13:35:23Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T03:17:37Z"
   },
   {
    "id": "e1b4372eadfc79ec",
