@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:04:25Z",
+ "updated": "2026-11-22T17:52:35Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -3612,17 +3612,6 @@
    "first_seen": "2026-11-21T07:43:31Z"
   },
   {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZzZV9wcG9yMkJkbTJidXVtdUkxV0lvZzZoNlZQUGduMkt4LVAzbmVvSm5kLWE5Z0lWajJiNmlCdm5FSzc5U2J4b0NMbURnTHNtWHdiVndINjdScnV3Y2JEcGVwUWpPYjFPYzd3dWNHWE1vc3JPMnNveGhvMjZVVlc1TU03eHp0cGxYaXNySG5MN2w1ZW1Gc2pFU2N2OVZkQkxXV3pZQ3l4UWVNRTBORHVzYw?oc=5",
-   "published": "2026-11-19T00:49:03Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
    "id": "d0312c4cb0ad9d03",
    "company": "Alkermes",
    "title": "A Look at Alkermes PLC (ALKS) After 3.1% Gain -- GF Value $33.66 vs Price $46.85 - GuruFocus",
@@ -4985,6 +4974,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
+  },
+  {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXNEbDlMM0Y2cFpJWS1nYkRseld1MXJxdE53QTlMNUpDZzMyLTVtOUFIODdOTmVyc1R5ajNXeXpHX2tjVEs3aHdNa0U3ZHdjZWdfQU5uQlY1eDRYc1FNZ0RxTkFSNTNVUmx0TGx3dUszbzAtRHE1Q2lUUnVGd3pnVFVBM3dVYmFuTVNOckZ1ZFNkVWstYkxGazAxX2RZbVhTSjJ2b3pvdVFJSGRoUWxGUEtHUQ?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "dba55f65da807efc",
@@ -8210,17 +8210,6 @@
    "first_seen": null
   },
   {
-   "id": "38c0e02e355a8cfe",
-   "company": "BioVie",
-   "title": "BioVie Invited to Present Data on Bezisterim in Parkinson’s Disease at the AD/PD2027 International Conference on Alzheimer's & Parkinson’s Diseases - Yahoo Finance",
-   "summary": "BioVie Invited to Present Data on Bezisterim in Parkinson’s Disease at the AD/PD2027 International Conference on Alzheimer's & Parkinson’s Diseases Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWpqbV84THVPTnBXX1pxSVZ3MlFfUTZyNmMxaHl0N2Nna3hQeU5DWWZ0LVhaaDE5enpsZmQ3YnpucW14YzRCUjJDTXFlSWI4Z3NtMUllY205V0lneGhoakczc2tsVU1NUVdCVGZwdF9odjk2VldUMVIwMDZVNUo2LWpULThrMHpMeEx5MzB5WmVWeXlnUUU5YmR6Q1JtMjhK?oc=5",
-   "published": "2026-11-10T13:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "afe4710c5e826490",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson's drug improved mania symptoms by Day 3 in a second study. - Stock Titan",
@@ -8261,6 +8250,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVk4V09HQmdVVjFsODIyWE9pc0laWGl3UFN5RkhxTTBGTHF0ZGNCTDJ4WnR6UUN5RmxFM18yT2VRZ2hwWjB5SGtlSWE0VUxUS2tmbUlIQWxrNDZnbVBGUmhoTlRDTDg3MG1OZkd5cF9HclItcmcwZUZBOEtMcnl5MUhENGZveDFIRlVNTy1fd2g2UFlCMnVJeV9CbUlZVEFsS0VIUnBtUU9pNVp0TzVzMU80SG9ZdUtDenppM1dpV01qcjhp?oc=5",
    "published": "2026-11-10T09:08:09Z",
    "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "38c0e02e355a8cfe",
+   "company": "BioVie",
+   "title": "BioVie Invited to Present Data on Bezisterim in Parkinson’s Disease at the AD/PD2027 International Conference on Alzheimer's & Parkinson’s Diseases - Yahoo Finance",
+   "summary": "BioVie Invited to Present Data on Bezisterim in Parkinson’s Disease at the AD/PD2027 International Conference on Alzheimer's & Parkinson’s Diseases Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWpqbV84THVPTnBXX1pxSVZ3MlFfUTZyNmMxaHl0N2Nna3hQeU5DWWZ0LVhaaDE5enpsZmQ3YnpucW14YzRCUjJDTXFlSWI4Z3NtMUllY205V0lneGhoakczc2tsVU1NUVdCVGZwdF9odjk2VldUMVIwMDZVNUo2LWpULThrMHpMeEx5MzB5WmVWeXlnUUU5YmR6Q1JtMjhK?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -21505,6 +21505,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0EyTVdlbGUzM1oxLWhYRzcwSlBtMWlvbzJIbHM4ZHBWaVlkWXh3RXpiV0RoRFU3aVdjWlVVQXR3OWNUSUtfT1VFVGMtNF9rdUFUQ09senZvSUxXQVl4T2lMV1lUUGRBNUJpSVZGMmhPbk8xc2UxTnJXN21uUjdRNEQxVmFOWWVlazhOdm9JUjh1b1FCVGI5dkU0UzVsV2czOGlEaVZjTUV3cjJxdXRIcEVQYm5LTFk2dlFDR3hnY3pKY1E?oc=5",
    "published": "2026-08-21T07:00:00Z",
    "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "21d0bded66b08e6d",
+   "company": "Supernus",
+   "title": "Indivior's Supernus Merger Could Broaden Its Growth Engine in 2026 - Yahoo Finance",
+   "summary": "Indivior's Supernus Merger Could Broaden Its Growth Engine in 2026 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzFqUG43MWkwcjdmLWYyY3NvQVNVeFNScm55WG1IU0pwdWhFSHpaM0V5ZzBycjU0NjdBdl92NTJ4dnhwSDFoeHpXYVByVVcyYVVPeUtRYzBqZUR6bE56TlJaaElfYWViYmp2dF9CN245blQ2cm9YOWp1UWFmS0lwV085cWFWNTRNMm5mZFFyZ1FJNGt1RDZBSGJvSEYtM0Y5Y1E?oc=5",
+   "published": "2026-08-21T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -38709,6 +38720,17 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVUNNbWNHOS1kRGJNTDFIdkluWDVUVTMzZWZMaHcwa1dSSWhnenBVNFlPNTJBY3U5Wkg0UGxMQmdwbUVkMnZtTzZWaVFjV053VEc1SjZxd2JSYUFWemZnM3lYZ2NnUFlyLTVIT0RhRXEwRE1sZU9OOVNqb3ZpcFZ6OVBwdlRfaXpLZkIxaE1PTlprVldjRFc5Q1oybGFsdHRnUEUwY3pXRnQ3cTFrMlFwQVppQkdIY2fSAb4BQVVfeXFMUGRfdGRjRmpZNDdzX3dEWHVEVWx2b1BCenRRVDRseUhILUhwU2ZKWEg2V2pwNkp4WmktWkttVWpXbFVlYWJLXy05R1VhWU1aUFlPQmFQLXR6RXh6RlRVTVhtd1NXeXVmMkQtWWRMbS0yeHpmSFVTT0pCa1M3dGJMN1cxeTlUUG0xQlM5Q3MyTDBMa2w4RDZheDlsQWZ3NUdxak1BUnEtdzJKN2hWWVhfRFp6eW9KdDN5aGpkYXNWQQ?oc=5",
    "published": "2026-01-09T08:00:00Z",
    "outlet": "Indian Pharma Post",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c1720d230ad96d15",
+   "company": "Supernus",
+   "title": "Our Science - Indivior",
+   "summary": "Our Science Indivior",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hRW12Z1Mzcm1WbG0zTHF2ZzhqaU1fZHFER3N2aTNfNXM4ekRNYTRrbU1JejdLMDFQcHR5dmJGbkpXaGoydFZucEZ5NWc?oc=5",
+   "published": "2026-01-08T12:54:21Z",
+   "outlet": "Indivior",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
