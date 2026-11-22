@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:21:42Z",
+ "updated": "2026-11-22T00:06:13Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2919,17 +2919,6 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
-   "id": "15aab8800f95d92b",
-   "company": "Filament Health",
-   "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New United States Patent, Extending the Broadest Natural Psilocybin Patent Estate - Yahoo Finance",
-   "summary": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New United States Patent, Extending the Broadest Natural Psilocybin Patent Estate Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUlZxbEVvenQ0d1hNUFVrM2ZULVpuS1hrT0E4UmtnMU5mREhQRnZaelFDd21LRFRBd1hKUGNITXJ5N3BwTXBjNFJTMHd4aF90MDc4SV9mOTJkdk5hQjFOM2pBekU1SEd1MVhoVFM5RjFVZWxYODR4Mkk1NC1EVURjQ19ZdFhjSzB3b3lpV3hZUVhndUFobTdfTmR4Yw?oc=5",
-   "published": "2026-11-19T13:09:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "6488aef13035bbf4",
    "company": "Filament Health",
    "title": "A natural psychedelic drug candidate supports more than 80 studies. Its maker gained a new U.S. patent. - Stock Titan",
@@ -3148,6 +3137,17 @@
    "outlet": "StockInvest.us",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T23:21:42Z"
+  },
+  {
+   "id": "9fbc78eed84909c1",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
+   "summary": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ0lNbXpmZ0Z1VFF6WktkLTRKOGZUMk5QOW12bjM1LXd0NXdyT2xscXBzVlktbnJRLTFvYWJ0a3VLSG5FWHU2Tw?oc=5",
+   "published": "2026-11-19T08:00:00Z",
+   "outlet": "StockInvest.us",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "8b4254665a7d3e03",
@@ -3502,17 +3502,6 @@
    "first_seen": null
   },
   {
-   "id": "23ff1e67be4dfbd6",
-   "company": "Gain Therapeutics",
-   "title": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WVnZ6cF81TFpzd0NFcXBSSDUzNDVCNklQMGpsYjZrcnBrSzQySEFxT1VOYVo0bjB1U3N1VnV5MXIyWVNWcDFYUjVIZzIxWEh2RlE?oc=5",
-   "published": "2026-11-18T15:21:35Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "253ab459c5560286",
    "company": "Novartis",
    "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
@@ -3762,6 +3751,17 @@
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGhsSTVOOEIxR2ZtY0p6WFFqZTQwLWtiNDgzMjl2N2VLMjlCRG1jX3U4NUNGVTlGYW85YzhfRTVDNDIwMm04cVJCcjlvQUcyem9fenFMTTNncjdrZENKb3JHR1FWRE1JSzFQVzdxMDZSdHZOc3ZqVkllUGpwa1NXRnBn?oc=5",
    "published": "2026-11-18T08:12:42Z",
    "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e45baad90109f273",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma (HLP) Stock Fair Value Rises After HLP003 Phase 3 Analyst Revisions - Yahoo Finance",
+   "summary": "Helus Pharma (HLP) Stock Fair Value Rises After HLP003 Phase 3 Analyst Revisions Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQU5Bc0k3Y1VPeGYtZEF2RFZMUmlVRVdFWUU1QV9YWERtZ0VoVktKZ2JkMzFtU1RKZjVFSnJpMGVFeUVuaVl2U3Jkc3VpeDViTVRjWWxpRlR3bEJ3OXp6djhhUjRsLWxOZDdHRklRRVJybjlpZ29LUVVCbzhjQWRCdGFOdXZ0SU5adkNXN2sySE5LSVJ0ay1R?oc=5",
+   "published": "2026-11-18T08:12:42Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4140,6 +4140,17 @@
    "first_seen": null
   },
   {
+   "id": "0aa6a71f09bd9116",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Why Did Helus Pharma (NASDAQ:HELP) Close Down 13.5% After a Phase 3 Depression Win? - kalkine.ca",
+   "summary": "Why Did Helus Pharma (NASDAQ:HELP) Close Down 13.5% After a Phase 3 Depression Win? kalkine.ca",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVVFydzlINXFTd3RLOWR5OEZMRWFlRWZUbE1faHFzd0JZUXh5TlJ6d0JqSmpIX2c5UXlpQUtqajZOYkEtUmpxT3pIa1lTMVJCMEJsekhUQ3ptY3ZEcmZ0TlBld3B3S0VPN1VHSUtDRVdCRkdXaWg2RjRkRFRTVzZtU2RYdXM4Z1JlLUNPZlNHTV9QWTREZzZrTkZocGFCcVlkUUF4WEE3Wl83VkppOXdLU1Zn?oc=5",
+   "published": "2026-11-17T18:21:00Z",
+   "outlet": "kalkine.ca",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "2395f8db700bfca1",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences (NDQ:NBIX): The Market Still Values It Like An INGREZZA-Only Company, But Consensus Sees Something Much Bigger - Stocks Down Under",
@@ -4360,6 +4371,17 @@
    "first_seen": null
   },
   {
+   "id": "d2377858a73c1368",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio receives second positive safety review for AD trial By Investing.com - Investing.com UK",
+   "summary": "Annovis Bio receives second positive safety review for AD trial By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmRiQUJKcmM4Z2p6TUhqSjFQajdpMGdfYm9jLTJ3ZzdtZXl4S3dNVEMzREdsZ2hta240LUduMFNEUWVTNG1ReUdwWEkzNGlPb2tpLVVGaXUxM1ZoZjR3eHU5RFhkZGtwVmM2R2FIcnU4dU5tYUpvWjFpT1V6WmVlVExRaUFnVFA2eWxWZnNRcG5WaV9NUlEwMFFJUk16YktLZW5OeEt4eVdFT09jcGlMRnVkbEczQTl3Q2o0U0lUVXpYUQ?oc=5",
+   "published": "2026-11-17T13:06:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8c20d26899231cd9",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRX Pharmaceuticals (NRXP) Reports Q3 Revenue Miss Amid Commercial Launch and FDA Approval - GuruFocus",
@@ -4459,6 +4481,17 @@
    "first_seen": null
   },
   {
+   "id": "50dd461e21c252e2",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "HELP: Strong Phase 3 Data Keeps The Repricing Case Intact - Simply Wall St",
+   "summary": "HELP: Strong Phase 3 Data Keeps The Repricing Case Intact Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQd0Z1dkhWcTQ1cHQ5R2hldDZTU3JMdXZQYVVraFpPaTI0ZkRJeVVtaG5FaG9ZTG81OGFzNzNQcmxBOGY5SHZJY181cVd1ZDFEN0F0Q2hOOUR1VDZjZXdYQjFLYVFfVkQ0MUZPM05qQ2hBTUptbThKWmhSTmxlQUNfUlIwQzIzVThZY3FkeWhrUGt3U0hZQlRyUGhVWkVkcFQ4RnNsVjgxNFdIeWRwUW1SbUxMQTlEQUI4a0tQOF9nOHhGZzF3S0UyYmFOa2swT2thdlpmUzVmM3VEOHctQWNaMnYtaFY1ZVdfOEcyR3lsZXNuVDl0dUlCRnpuRmp2cVJjcWdncWZLbXpweHNWZGd6U1lTWHVSeHRtWE1Tc3o1OGplREdOcHpQMUpjX0VQcjd6TWtlZ1hsbzNPV0R0ZmRWS0RLUkI1NF9uY040TEhtdElRQkFVYXh3Ujg2R3l2Y09pelFIS2J5U0QzNUstaXk1NVBianVINHNUUnV1cEhGLTFDSWdBNmROZ0JFcXFfRFFSSzNQaw?oc=5",
+   "published": "2026-11-17T11:50:22Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6d61a4f7c386a235",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRX Pharmaceuticals Inc reports results for the quarter ended September 30 - Earnings Summary - TradingView",
@@ -4536,17 +4569,6 @@
    "first_seen": "2026-11-20T00:26:37Z"
   },
   {
-   "id": "9fbc78eed84909c1",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
-   "summary": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? StockInvest.us",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ0lNbXpmZ0Z1VFF6WktkLTRKOGZUMk5QOW12bjM1LXd0NXdyT2xscXBzVlktbnJRLTFvYWJ0a3VLSG5FWHU2Tw?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "StockInvest.us",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "dba55f65da807efc",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Stock Price Forecast. Should You Buy VNDA? - StockInvest.us",
@@ -4576,6 +4598,17 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0lBdDdGaGV2LTg0TEdQdFFYX1Y2OU5hanBkXzUtVFdZXzBDZzh6X24wWnZVaUp1ekVabUV0ZWlSVURERmRlX0EzVVdmNlA5YlhqOXdjOEJWS2tpdVJ5Qm43RDZYU3JRMWNOQzdMNUMtc1hrWEx4SXpxa2NNbjFhZzJObFFWR0R3MDUxdEFqUQ?oc=5",
    "published": "2026-11-17T08:00:00Z",
    "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "012541caeedc3e11",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus' HLP003 hits Phase 3 APPROACH primary endpoint in major depressive disorder - Dealroom",
+   "summary": "Helus' HLP003 hits Phase 3 APPROACH primary endpoint in major depressive disorder Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcndlWm5ENXNkc0luWlFDQ2ZsSmI3cUZPeUltT3hPYjI4eHA2emp6d0Zkd3lMcEU5ejVOanNNMXZ6SzZva1ZYVG56SmRFWVlyYk1QSnFReElqR2RHRHRXd2s0Zm45Rnh3cmllOVNHd29GbmptYi01TmhhS21uMVZDRFhaQ3RDYnNPTVZfZjVJbVVRZjNTbkpWakxMeFpvbDZWS0dkTm9SRy1MY2k4cnNRSTVzMm8?oc=5",
+   "published": "2026-11-17T07:22:01Z",
+   "outlet": "Dealroom",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5350,6 +5383,17 @@
    "first_seen": null
   },
   {
+   "id": "63faad6f5b4504f8",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Why Is HELP Stock Rising Today? - TradingView",
+   "summary": "Why Is HELP Stock Rising Today? TradingView",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjJIWWszZS1nNGZCbVNmUVkwelljMEtLY0hTNy1jSzRoYWlfMGdCRG5fNy1FczQzX2pnUkJDcWJkLTNZOVMwNWpTc0dES2luS09zLVdHZXBpYUdUaVFITmJjNEl6V01Eakg4dWYtMjJzcVZaTGZTeVFoZWtFV1VGSVlUd0VfX05DQ3ZRNVluZVhHTmk0WEE?oc=5",
+   "published": "2026-11-16T13:50:12Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "649e36ccffeb9ad7",
    "company": "MapLight Therapeutics",
    "title": "MapLight Therapeutics (MPLT) adds no securities in resale update covering up to 13.2M shares. - Stock Titan",
@@ -5368,6 +5412,17 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXQ5Rm9nWXoxSDhwY1llNzJOdjN4cXpXelNnOTVuOVNIZl9Xd1RqU2QzTmU5UDVPTDM3YWhZbWZaQ1dyb0RZaFFiRGhOaEc4S1JnVjgyNzNjMmQzZFQ5NTU2Z2dvSUszcEdReVo2TFVnNjhQbkpJYnpKc1dlQlRsS1BKc0xLOEVpM1dQVHdYcjJFU0ZEaGlYd01MWW1LanVlQjV6WA?oc=5",
    "published": "2026-11-16T13:39:58Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f4b9833e6ae2155b",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study, shares jump - Yahoo! Finance Canada",
+   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study, shares jump Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbzRfZjJDQV9zWWpLcmRNM2VYSERWYkMxRFBtbExCbVRia2VjaFh1d2RHLXN3YkF2c1l2THZUaGdwMlZNekZVdGJWZ0NvOVRHanlVS1R3WnMwTGVWYlVtZFZVUnNJSDZXNHpiSVhzTVU5azByaV9BNnhCdmNFallKTDZ1QVBPUDRnLXdlLUEzbWg0VG81?oc=5",
+   "published": "2026-11-16T13:39:58Z",
+   "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5467,6 +5522,17 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ055M2NPX1Atb1pfLUk3Wm1XTjFBOGowVnRxVXFlaEM5MEE5aGNKZUJDYXp5R3RnUXFOa0lxeGNacDZkUGR1NF96RTBlaElPeTNpVEV6dmMwWDB4VEI4cDJ4QTJWN2d5SkZMMFVVTG5VWldkYlZBd013TlZmZGxmSWM3VW1MVzBfaFFoVGdJaW10X0Rra0RBanVsWkFEcnBJSUJPd0xzbzRmV2dr?oc=5",
    "published": "2026-11-16T13:02:58Z",
    "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4d6ec863874d3027",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma stock tumbles 21% despite positive trial results By Investing.com - Investing.com South Africa",
+   "summary": "Helus Pharma stock tumbles 21% despite positive trial results By Investing.com Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2JQTmVUaGQ2VkN3dzYxOVNSQ09FY2Q4LXNRaWE2OG0zSUJpclVvMUg2TTM3RzNTelB1bzgzakJTOFVBakdtdVhOTFhwRjFLMEtjZVJHQzctTEh3M1hnT3VTLUI0dkhxRE1FT1ZkWXViY2NCdzBoakR2Rkk1WXFkeWRuWU9ydDVwdHUxejNOR1pCOWNaNEdXOEhOcV80TkxWVVNwbERLcnZOeGdJTmxEX09ma0V4RjQ?oc=5",
+   "published": "2026-11-16T13:02:29Z",
+   "outlet": "Investing.com South Africa",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5658,6 +5724,17 @@
    "first_seen": null
   },
   {
+   "id": "dcc340615ad24ee7",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study - TradingView",
+   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV0t2N3ppaEdiWldhZldmM1ZsRlQwOUxvYU1fejc2bUF1ODh2b3JZb1JMY0lZM1RKdkVsOVcxS09uZzFXQndFZnpJZThhTDBOSFFQMDBSai1xUy1uZEJxZEtJRDcxT0stdlhqUTZ5QlNwYTNYQm0yaUVlbVRWMlJNVUdKczJMSzRMbk9NMjluYUJfTGFFTFppN3BtTjdWZ3dXaUNJNTVheWxERGZmemJFVG9SMFJ2THVRSW9zTTZDRGNYWmlXZ2Z5by1DbWxOSDE5T3hxQ0RfWVk?oc=5",
+   "published": "2026-11-16T12:08:30Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6fb078a466cab2c3",
    "company": "Minerva Neurosciences",
    "title": "NERV: Minerva Neurosciences Inc filed SEC Form 8-K: Regulation FD... - Quantisnow",
@@ -5665,17 +5742,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTU3dXlwOWg2TV9BckMxTFk0SjhIa0l3cXJoSUxwTmhmejFiZENlZFI0OWVxcGRlS01BZ3Q4MjdfXzF2Y25fQkZrQi12R3A1c0hycXVTRlhINUJBV2xXcWtSMGN0QlAyeUs3dEljV1lUX2ZVaFVvVXd4elYxOURUSTdoY0diLVhWZkFyOF9aZTljcFc4R1lWaURlNU9jRUFQSkxRV2pldWkxdVV3Z0ZkWXl3?oc=5",
    "published": "2026-11-16T12:06:51Z",
    "outlet": "Quantisnow",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "dcc340615ad24ee7",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study - TradingView",
-   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaExXUVRDRlRRWkRmRVJyXzMxUW9VMWFKandBVGRjSnEyS052Q2JTcDFFaXVHS3FSUTlKQ3RTR2JmVFBUbVI2SE9EUllIU2gzUWtwcjNOR2gtbFRucUhqTVBIRHNyZDU1Vi14cUpTYnRLWUQ1QTVLZFlCc0FKN0ctU00zUE1RT2hwT21XRFlEQl9GUWxGdWc0dEFIWlhlcXFiT1pjV1lHQzZwZkNIQ09nX1RkSFM0Y1VJV0NheVZIWUZPTlRxOXEyWmtNX0lWZTBHX0R3QjRVN3Q?oc=5",
-   "published": "2026-11-16T12:02:02Z",
-   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -5688,6 +5754,17 @@
    "published": "2026-11-16T12:00:53Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "7d6a05ff7c403a86",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma (HELP) schedules depression study results webcast for November 16 at 8 a.m. EDT. - Stock Titan",
+   "summary": "Helus Pharma (HELP) schedules depression study results webcast for November 16 at 8 a.m. EDT. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUJkR0V4VEtKWTBaYnZLc2Y4Z0RCdjRaYWZubVltOHFjamNBSUpnUFJ6S1pweU5Ydm5KbGxTOTREVkVRVVNUUFllSUNTdGRuZlpLS3RGRGRxZWdkSXlsdjA0dVExU09wWnB2NVRwS0FlTFNqWnQ1cnBrS1RzLWkwaXNtLXhhM1lmb083emNXbmkxSGVhUGNzdnJJUW9PVlMxWE9nUk95cE9sM2hnNUFWQVJn?oc=5",
+   "published": "2026-11-16T11:32:21Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -6043,6 +6120,17 @@
    "first_seen": null
   },
   {
+   "id": "8b97449d19858e85",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to Host Webcast on Topline Phase 3 APPROACH Study Results for HLP003 in Major Depressive Disorder - Quiver Quantitative",
+   "summary": "Helus Pharma to Host Webcast on Topline Phase 3 APPROACH Study Results for HLP003 in Major Depressive Disorder Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLWdhQTFqa0tFSW40U1BFUVlvZ0NlRTNvcXB0d0RiNHRUUGlldlFqdzZrb3VaVkM1VUxUcG9FcHo2VmY5VUt6UkFvSnc0WDc4VW1RMU02V0l1bXVOWHFadTZlbVNQdUZINjhDQUZfQkxRby1EWHhHRHBvR0k4ZnE5Q3g1VldGMkxHZ1VWZDNodmkxRm14bmtqemkwYVBsZjIxaWp3S2NmZ1B5MVhGM2tMU1BJMEJ2dGJiVWlNOWE1b0dyaVpnYXBsS2NDQjkySXBpMGVjQlU0QXZKN00?oc=5",
+   "published": "2026-11-15T17:10:00Z",
+   "outlet": "Quiver Quantitative",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7c47c94eb2c3b92b",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder on November 16, 2026 - Sun, 11/15/2026 - 12:00 - Helus Pharma",
@@ -6051,6 +6139,28 @@
    "published": "2026-11-15T17:00:16Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "666b533133adba76",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to Present Topline Results from Phase 3 - GlobeNewswire",
+   "summary": "Helus Pharma to Present Topline Results from Phase 3 GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNSm55XzgxYUJEbEpOa3Q5cGNGT2Z4cDlEYmotSkN6VlZsRHhoTVpiakN3cDA3eGRzNmdZQXNJaVlneEx3Vno4THdiSV9kQjFBQnkxSTFmWW00NlU5enlHbE85WkY0ckR3dzgwcWVMSlQtMWpteGNzM1RrS3JPNHhtYUFIT3htcW84Mm9td1IzLWNENTFoNkR3Mml3YWRLY09HMGF5TWlSUHdVNTVNYS1HSjVaM0ZlNlZMVXh5WlJXNzd5TFY5XzN5MkVpRkN0NDNMWGFwZEVMdFlmem8xVnQtNFJuZWlaZzh3MUx6WDJWNkRaR0s0SWNMbHptLVFNVzdpbjMzV0EtNVJwV0Q1RXNpbGJkanF5TFdHZ05vZ2NjZElJQXRMa2QzTnlFYnhCV0RkUmZxNHFRblYzaWZ5Tl9xYnZhaEpmSmxLcDNOelRGUQ?oc=5",
+   "published": "2026-11-15T17:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0a117f67e2da8670",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder on November 16, 2026 - lincolnjournal.com",
+   "summary": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder on November 16, 2026 lincolnjournal.com",
+   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPOUpTTm8tb0w4ZUctc1JfNnBENVVPYlcxdmVtRlJIUmxNWEZ3aFp0VjZ5UGhZTVZ3eHlSdTktLVB3Z0tHaEpuN3FoYVZxRVVmUWZVdVVhd0tSWW82bUlDcWVBMy1ad2xIUldFVGU3d1NYeGZqY2JBMmdBdGh3cFRiQm9VOGpMcjNDZFkwandpN05DY0hiQW14VnVGdEtXUGFWc2NaTUE3ZFpYbFJRcnItWnlDbWF3QWNwQzk1Umt2RXROT0p0eGJRS2F3LVdEZkkxdDFhMkpMV0RoNzNFSzM0RWxrSFhqSkMyYXZZUDVzY0lEcGljWmNwVlhoQ2czaHZNS1NmT1JBNnNxdktzUjY0WFdvSXJzQl9FaDJ0UmhyWW9hUVhWM3RkN1I3WVVMeU93c3hPWi1B?oc=5",
+   "published": "2026-11-15T17:00:00Z",
+   "outlet": "lincolnjournal.com",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -8683,6 +8793,17 @@
    "first_seen": null
   },
   {
+   "id": "c227cbb1a7c6d337",
+   "company": "Annovis Bio",
+   "title": "Form 424B5 Annovis Bio, Inc. - StreetInsider",
+   "summary": "Form 424B5 Annovis Bio, Inc. StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMklZdUREdnRHR0NSYUJSdE1fbmpGbmRSYzJNUlZHZVlybV81b3J0RmdMWjQzc2gzaVhRcFpqZjlibWtlbnBaa3BpNnhPZmN2SEZwekN1TXZfMXYzeUZ1M2YzVlBCdzZOX2NqU3dyaGFoR1BCMzFlODBUQ3VkQlNaU2dOZWZUVzZYNWpYYVhsMA?oc=5",
+   "published": "2026-11-05T22:14:54Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "5c22e9ada5452190",
    "company": "Compass Pathways",
    "title": "Compass Pathways Announces New Employee Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
@@ -9486,17 +9607,6 @@
    "first_seen": null
   },
   {
-   "id": "7233144eb0f88b4b",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon to Present at Upcoming Investor Conferences - Xenon Pharmaceuticals",
-   "summary": "Xenon to Present at Upcoming Investor Conferences Xenon Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTdSRGhuRzg4RmVqaDRxaGZYekNFd190bHRGUDI5Q216VFdsekRZSDRXR3doN25ZLVpNUGl4cFFBcWtEMVFzQkhlQlBhV2tVaExsTTYxaDczbmdoaGkyQU9KMEowUHNuaE4xY2JybThhQ0FCb1hTRE1lNlRObzhNYVp6RUdFUF8ycVF1WHpvX2lvOGJrR3pmby1lOWZ6ZWo4aWNzRHBSdFR6NkRqSW9fSEhNVWw?oc=5",
-   "published": "2026-11-03T21:01:38Z",
-   "outlet": "Xenon Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "cec5629737d7fed7",
    "company": "Alkermes",
    "title": "Alkermes to Present at Upcoming Investor Conferences - Alkermes",
@@ -9647,6 +9757,17 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcmJnYkNCVjIxbThnMVI1VmZGdVFtSWRQUGVYTDMtR3YxVWd4U2lfaUdQaEV5aWMxWjZac2xyWnJRenUyRmE1OFJaNURLRkNlRmVrc1VKYlZ1eHRSVGZGa0c1Vkp0N1BzWXVfdllwT29lckFfMTNjcHlZck4zNFdka0tBVk1wYS1JZW84UlgxXzgxcEE0MUs3ckY1aFlzbGZ5MFk4Sk00VnZxYkVWZV9mWjlRQ0ZFMnU3X0xrN3llU2ZFVklQZm16RjN5dGhLWFVMcGVKZUFB?oc=5",
    "published": "2026-11-03T09:02:27Z",
    "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "7233144eb0f88b4b",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Present at Upcoming Investor Conferences - Xenon Pharmaceuticals",
+   "summary": "Xenon to Present at Upcoming Investor Conferences Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTdSRGhuRzg4RmVqaDRxaGZYekNFd190bHRGUDI5Q216VFdsekRZSDRXR3doN25ZLVpNUGl4cFFBcWtEMVFzQkhlQlBhV2tVaExsTTYxaDczbmdoaGkyQU9KMEowUHNuaE4xY2JybThhQ0FCb1hTRE1lNlRObzhNYVp6RUdFUF8ycVF1WHpvX2lvOGJrR3pmby1lOWZ6ZWo4aWNzRHBSdFR6NkRqSW9fSEhNVWw?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -10616,6 +10737,17 @@
    "published": "2026-11-02T08:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "06c53c332b17d40e",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Investor Presentation - Xenon Pharmaceuticals",
+   "summary": "Investor Presentation Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSlhXRWJTSmlvT3hYQnlXTjZibWIxUnpCUDM5eXBJQXBKMktBWUsyN2hKRno3ZkRnUnZWYkpDVklrTWx1cW05RTh0SHVUMHBuYW1jaGxmWUVxemYybFFjdzlfY0ZOT20zQzJEcy1mRTczVnZmdmJHSjAyTFdNMmZ3NzZ4Q2lZOS1QRmxv?oc=5",
+   "published": "2026-11-02T08:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -15316,6 +15448,17 @@
    "first_seen": null
   },
   {
+   "id": "91d1d68621c949d5",
+   "company": "Resilient Pharmaceuticals (ex-Lykos)",
+   "title": "Lykos Therapeutics - MDMA Therapy at the FDA - yespress.io",
+   "summary": "Lykos Therapeutics - MDMA Therapy at the FDA yespress.io",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ba1lib0dKRmZycGZCQkdOZkg1elVYQnVZdGVNVnpiS2VRMHQ2WlZINl96SUZiUk9PQXR2SUFwY3VKckZkOHlUOWN5UWFxbUE?oc=5",
+   "published": "2026-09-29T08:21:16Z",
+   "outlet": "yespress.io",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
    "id": "4e456a8038bd38b8",
    "company": "iRegene Therapeutics",
    "title": "iRegene's NouvSight001 Cleared for US and China RP Trials - BioPharm International",
@@ -16644,6 +16787,17 @@
    "published": "2026-09-20T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b0c61e55e42baf38",
+   "company": "Neuphoria Therapeutics",
+   "title": "Form DEFA14A for Neuphoria Therapeutics INC filed 09/18/2026 - Neuphoria Therapeutics",
+   "summary": "Form DEFA14A for Neuphoria Therapeutics INC filed 09/18/2026 Neuphoria Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGFYTmc3RUZNb2g4eTFXN2M0TEVtTVd0TW14eURtUlhnbTlicU1sVXVtQ2dIZU5PYVo2LXc5S1J5NUFxY1ZUUS0yNkZMOTBTZHFPQUU4WFJybV9YNDZnRzVlalBySDQyUmVFWG9nX1J4MUo2czBKYjgzU3l3anRuN2Vn?oc=5",
+   "published": "2026-09-19T08:07:26Z",
+   "outlet": "Neuphoria Therapeutics",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -19109,6 +19263,17 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": null
+  },
+  {
+   "id": "15aab8800f95d92b",
+   "company": "Filament Health",
+   "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New United States Patent, Extending the Broadest Natural Psilocybin Patent Estate - Yahoo Finance",
+   "summary": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New United States Patent, Extending the Broadest Natural Psilocybin Patent Estate Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0JWYVFPT3RhZVZicWVvSW5VcW9HN3hPY21pb2x6azVSR2dZUDhTVHJYcy0zVlVsUWtNYW04NWxFZ200SEpjbVpuSFcycnREdjVjam5nSkphd1A4THVxMlBpLWIzRmFqMU1oS0szOU1vSVJXNnNQTjRMZUpKMzNxTTFjRFJxY2lfR0ppZlpJTHIzMVRfTXh2VWRxYw?oc=5",
+   "published": "2026-08-27T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "92f43fb3b076280f",
@@ -21627,6 +21792,17 @@
    "published": "2026-08-06T07:00:00Z",
    "outlet": "BioBuzz",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "885cb080b39e7bf0",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Reports Q2 2026 Financial Results and Provides Business Update - Xenon Pharmaceuticals",
+   "summary": "Xenon Reports Q2 2026 Financial Results and Provides Business Update Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVm9HRE85OUpCZng5bWJNaDJzSEdzV0RuN0lFSl9CbGF5VVBka0RVQkg3RmNBODFVLUhPQWI3UTZfM3ZaV25rYkRRNkNNYTZzXzl0VmZWSGRsTlZHUHVaUGU2MkJMUk1CS0NKbHlFZHU5MkRCdk5mREwwYXhZTTZXd3pjVTJZdlh0enp4Yk84eVRRcjZmWXJXSUp0eE1QZnNFd2w0UDA5Y2NGcW9vcUl0Y1c1bld5UnNpYmdQS0gzLWpkb2MzdzRkbXFR?oc=5",
+   "published": "2026-08-06T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -24574,6 +24750,17 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmVvQzdZcFJWOVlzRm1RR0FybzFCNEVqaVhHWlkycFViOUxzZG1GakZTUEQtZnh5N1ZVWHlUY3BiakZ4d01sbG9KM0d6bWhTeXFmMnNvR1VWVHhva2RidDBJWDliWWxSQ1M0czNfMTFzZXluR280RVFpNV9CZ2FFZTJ3VTFCek05NmI5aXFHd21rQmpUUXdPOS1ZSy0zRGpZc1V0NW90LUgtUFFVTXU5YU1fQnBFWUI2SWtCRjRySnFYNVZYWkVLYUIwLUhONVBrVmZzbGVhYjVKbWl2YmFN?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4ad5f0b3dbd0a39a",
+   "company": "Eli Lilly",
+   "title": "Lilly Strikes $3.8 Billion Deal for Psychedelic Drugmaker - Bloomberg.com",
+   "summary": "Lilly Strikes $3.8 Billion Deal for Psychedelic Drugmaker Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdldiRTNWVWdoTkJ5dW5RZldrV3JPZHo4Wm04OGVha0tWQktLcVd6NUVNanViOXp2TVN6ZkV1NWJlNmZHNEpSSGl0QmpORW10VkZxTjV0Z1VvdDZkQVhwLXNCMU40c2hIa2hOZFlRcmV4bGdNVFBBQ2lGa1BsT2g1MUpBb2EzaTh5TmVCT1IwYVF4X3hWSWZ2WkF0NlBUUlZGd3N2QWxSajhWRTZCelRpbU10Smo?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Bloomberg.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -32157,6 +32344,17 @@
    "first_seen": null
   },
   {
+   "id": "f60bf52035efffd4",
+   "company": "Eli Lilly",
+   "title": "New Data Reveal Oral NLRP3 Inhibitor Significantly Reduces Systemic Inflammation in Obesity - Pharmacy Times",
+   "summary": "New Data Reveal Oral NLRP3 Inhibitor Significantly Reduces Systemic Inflammation in Obesity Pharmacy Times",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXh0U251bXRCYnNBTTl1OXE5akxIdjZKZjdfdXVYOWFFMGZOVTNwbjB5ZTdCU1BCcmJxcEx6dW41cmVPdEZDdFlMQVBXcjBXaTZzcDBsQkdCY2FvOVEwbFhjUmFOQndpZl94eTdOMHhLR1RQSHBwU1U3Qm1IQXYxTG5IaXlLbkRGWGNjMzlZNXY2Sl9BNUlic3REMDF0d0d1LTlITVRhU1pVZDFsY0hGWmhjSGw2VGNZOFF2ZTJQRTQxRXFV?oc=5",
+   "published": "2026-03-30T07:00:00Z",
+   "outlet": "Pharmacy Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "32afadf0191d3ba7",
    "company": "Transcend Therapeutics",
    "title": "Otsuka grows in neuroplastogens with $1.225bn Transcend buy - pharmaphorum",
@@ -33573,6 +33771,17 @@
    "published": "2026-03-09T07:00:00Z",
    "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1aff01fd451cb219",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Announces Positive Topline Data from Phase 3 X-TOLE2 Study of Azetukalner in Focal Onset Seizures (FOS) - Xenon Pharmaceuticals",
+   "summary": "Xenon Announces Positive Topline Data from Phase 3 X-TOLE2 Study of Azetukalner in Focal Onset Seizures (FOS) Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFZpN1pFdzY4TmNTNXlXcHVjWXUyNkZGSzh6WmkzLVJIbllsZllGcXVmOC1PZ29ObG5BUjNTVmJoWHRoeVE4U2tYNTVVWHplRUlyOWcwaEU0Z1E2MlZXYk9CZHpNT0p6ZEpnNUZfdlljYWYtWHY2MGZPS2I2WGY1UVphR1FjbThMZExtcnQtN0tVeEloOXFFN3RtdXhGZFVRV2Q3dFZpeFM1emt1YXM5M3RXd0NLLXk3M1IydW43Ny1zcWU3SEFN?oc=5",
+   "published": "2026-03-09T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -36819,6 +37028,17 @@
    "outlet": "Psychiatric Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
+  },
+  {
+   "id": "23ff1e67be4dfbd6",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Gain Therapeutics, Inc. (GANX) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJZTIzejNIVm92M2xaODVDNmR1Z3Nzd0piRkd4Vzg1N1R4Zk9PMWVNd2k5NE53NjNGYk1sOU5FVzk3bGNNb1QzUjYtNXVMMkxVRTdOVDBSenMxcnc3TnNyZk13?oc=5",
+   "published": "2025-12-29T02:07:32Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "8015f20a7bfe062a",
