@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:16:02Z",
+ "updated": "2026-11-22T22:59:54Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -7143,17 +7143,6 @@
    "first_seen": null
   },
   {
-   "id": "fc68d4ef785582ca",
-   "company": "Teva",
-   "title": "Teva CEO 'proud' of pipeline buzz as innovative-generics hybrid rolls out 1st R&D day - Fierce Pharma",
-   "summary": "Teva CEO 'proud' of pipeline buzz as innovative-generics hybrid rolls out 1st R&D day Fierce Pharma",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1ZfQzNTMlRLVkJEUDQ0YjZWQ2Y5bGFOWXRvNzhNcjJaNEJnaEM0NW01endvQ0ctWkF2alRJQzFnVTlyWTdmdkNlNU1najZhNC1mUFVQV21MdzYwdDRTMlNWV1BvcWRoYmR3aUlOYmYzTVlVTmpDdHEzZ1U0S0dtamRDSktnbUd0QVRMZnVKZnc1QV9GRWZ2ZThReWc2eFRyMWJLNFU5QV9iNzh6c28zY2pn?oc=5",
-   "published": "2026-11-13T16:16:14Z",
-   "outlet": "Fierce Pharma",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "c2479cf2cdb9791e",
    "company": "Alkermes",
    "title": "Alkermes Exclusivity Extension for Lybalvi Offsets Alixorexton Pricing Adjustment, RBC Says - marketscreener.com",
@@ -7271,6 +7260,17 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92dVRmQThnNDZEelZrYXlIeENleW8wVHhMZ0JWSWQ0RUNTb1puUUdMZVVBUWFmWk55aERBWEhqd0cwRXRvZmRiVjBISEJHak50NjdkLXBvWlBnZU1RbUNDaFU5VVFZcHVVOTFjR3p3?oc=5",
    "published": "2026-11-13T09:33:58Z",
    "outlet": "scanx.trade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fc68d4ef785582ca",
+   "company": "Teva",
+   "title": "Teva CEO 'proud' of pipeline buzz as innovative-generics hybrid rolls out 1st R&D day - Fierce Pharma",
+   "summary": "Teva CEO 'proud' of pipeline buzz as innovative-generics hybrid rolls out 1st R&D day Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1ZfQzNTMlRLVkJEUDQ0YjZWQ2Y5bGFOWXRvNzhNcjJaNEJnaEM0NW01endvQ0ctWkF2alRJQzFnVTlyWTdmdkNlNU1najZhNC1mUFVQV21MdzYwdDRTMlNWV1BvcWRoYmR3aUlOYmYzTVlVTmpDdHEzZ1U0S0dtamRDSktnbUd0QVRMZnVKZnc1QV9GRWZ2ZThReWc2eFRyMWJLNFU5QV9iNzh6c28zY2pn?oc=5",
+   "published": "2026-11-13T08:00:00Z",
+   "outlet": "Fierce Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10630,6 +10630,17 @@
    "first_seen": null
   },
   {
+   "id": "4b95a4cac85e9d97",
+   "company": "Idorsia",
+   "title": "Breakthrough Therapy Designation granted by the FDA for daridorexant in pediatric insomnia disorder - GlobeNewswire",
+   "summary": "Breakthrough Therapy Designation granted by the FDA for daridorexant in pediatric insomnia disorder GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVy05TFNSSlMxRVBBWlNGWHlrQjVMSzlhSnFRV3lGTUZpUmg3d0RXQ2xOLWpsU3lhVmxHbFRoaEY4c28yRTFDUlFfU1EtM01heDlYZG5uWU5TLVdwZjBqT1RidUlqYWhjbTNhd24yV1lXM0ZUYnZIcmRYV0R3MDQ2enJSa2U3MUxKSzJJcjUzb0RjUHk1cWdXWUV4Q3BGMDJIeDBtX0pEajFEWWVCR1NnRmFzSXhnemI1ejFuZmI5bnlpNVhkb2tsbTk4NUlWbW1aN01tY3Q3S1JRYkpJQlpvLWNzLW1EWFpHdXFCWlNpU2YwVnJ5anpETUdncGVKaHhK?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "aa94d8a73b860333",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
@@ -10802,6 +10813,17 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcmJnYkNCVjIxbThnMVI1VmZGdVFtSWRQUGVYTDMtR3YxVWd4U2lfaUdQaEV5aWMxWjZac2xyWnJRenUyRmE1OFJaNURLRkNlRmVrc1VKYlZ1eHRSVGZGa0c1Vkp0N1BzWXVfdllwT29lckFfMTNjcHlZck4zNFdka0tBVk1wYS1JZW84UlgxXzgxcEE0MUs3ckY1aFlzbGZ5MFk4Sk00VnZxYkVWZV9mWjlRQ0ZFMnU3X0xrN3llU2ZFVklQZm16RjN5dGhLWFVMcGVKZUFB?oc=5",
    "published": "2026-11-03T09:02:27Z",
    "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "680ad54b9e67e931",
+   "company": "Supernus",
+   "title": "Supernus Pharmaceuticals Legacy Events - Supernus Pharmaceuticals",
+   "summary": "Supernus Pharmaceuticals Legacy Events Supernus Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
+   "published": "2026-11-03T08:10:20Z",
+   "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -12262,7 +12284,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -12518,6 +12540,17 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZFpXVUd4S09NdDJPSWVVOXRyQXczNFFZZHItWjU1cThzVVVtTWFNMkVqNmRjc2pMcHdSQWRSNjQxNDhSNXlQQV85U3U4MnJCM05jWUphbzFsSGlfekFqbHJ1Z0JQYzV2V3RtWWZMUC1pcTM5Skk0enFTb25kR01zdW50UjVDUDRqSVFBOGJzR3ZiRmdpT1FHejA0LVZlenNMaVpXV3A5N0FQb19aV3BsZWFCdkRlMVlLZGxudUlUMGdkNU5oRm9UaUhoaUdDcUhtVThZR0Fn?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6f0c965764112d8e",
+   "company": "Idorsia",
+   "title": "Idorsia Q3FY26 Results: QUVIVIQ sales up 54% YoY, loss narrows - scanx.trade",
+   "summary": "Idorsia Q3FY26 Results: QUVIVIQ sales up 54% YoY, loss narrows scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTGhnaWV5WWxXemQ1cGptS2xvWmtNNVJaVkxMVDJ3anNXLTllLWVJNmNEVzI1bk1iRlZhVnVndWlJejFCbEJ0dWl1TllpYTJQdW4tRlMyN2Fsakk2R2RkUkt5aDlreW1XZUZhZ0w3SkdEa2JQakR2bHcwMndQYjA2VWJYeWgxbmtTd3h3RTRmRVVydjdkd0hkb1FfcHNvVGVnYkJ1TEZyZ1NwWkp3djU4ci1fMmNnSVE?oc=5",
+   "published": "2026-10-29T06:51:39Z",
+   "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14011,7 +14044,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGFUbVF4WlEtdno3dzZxUmxzOWdXMHIxM3c0c0FnLTJqN0VvaEpqTjNGTmNaOVpOUWlRSU9jS2tWX3hpeEV3Qm96R180UFVYVTcwZ0VZaEptd1BxT3dmLXlaS0dTT0REUjg2QkpFNnZBdzJMcXdvNkYyaXZHTHhrUUpna2lXNUVCRDRNSFExLUdwMzVERWtnbmJZQVJ3ajZEdWJtWGM3dTdpY0JEOTJXTUVkcTNUNEtIQTMwMHdjRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxZm0tN3FPTkVuazVGa2s3bXQtMHpIeTNoLVc0ckJ5d2YxdnZCNEkxZGx0WWFham9ldTVtbFV0aVRJRFF1a3czaFFMRVhPNUE?oc=5",
    "published": "2026-10-21T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -14366,6 +14399,17 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
    "published": "2026-10-20T07:00:00Z",
    "outlet": "The New York Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9d8ad7835e6a9180",
+   "company": "BioVie",
+   "title": "BioVie showcases Long COVID and Parkinson’s data at ANA2026, with findings in Annals of Neurology - Proactive financial news",
+   "summary": "BioVie showcases Long COVID and Parkinson’s data at ANA2026, with findings in Annals of Neurology Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWHViNFJwR3JVMUtvdFhqTVNUWkRWaXBNNVpUdGsxald3YXBpNDJBYXkyamZRTVYza0VOb1NXUlJuajNqUElxeTRlSS00RmNOQzdDc0VhWVVXZW9kb1NOZzhJVkdPRkhBMDZsVDVyTnNLLTVHbFlSVDlITWFlSlVQSTFVOVUybW1uM3Y5OVF2QnNleTlpWDlzR1pFcVd5X3E2dENBczk1YTJzVkxVQWJHbmJzNncyM212Q0ZOaEJXOEU0dS1Ocm5lU1dvN2RlM3dXMmJxQ1ZOREZpRi1PaE00Ylc4ODNRdzBkU2Q5X1JpalUzb1NzMHFPZkFvVQ?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "Proactive financial news",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14729,6 +14773,17 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVVNSmNmTTJtM2J5d0kzZGt2MmQ0MHRfTmVjeDFBTFpXUEVDbm1ZVzJsLTlET1gxU3NrWWE5N3RIT2IyMHZvY0xpZlByYWhTTXlEUWphaVo4OXZidTYyZXhxUzI0bm9IemJ5eU9iNFZQdHlSR2hMd3hpWEQtbGpod3U5M3JUQmE3Tng0Sk9vbTJmb0dCM3RyYzNKLWZQNGdJTEtaRA?oc=5",
    "published": "2026-10-15T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b8ad954e0a2524e9",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Says Experimental Anxiety Treatment Misses Primary Endpoint - Benzinga",
+   "summary": "Vanda Pharmaceuticals Says Experimental Anxiety Treatment Misses Primary Endpoint Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWnJIRlNfZjJyMDM0Qk40OVdITlJMMEozeW5OZWw0aHEtNXRPVEV5b25Yem00eEpLRkYxWkNFM3lJOVRlT0x2QTJSOTJIZkRaM1YzelFUb01ZYUpocEhObHQ1V3dqQ3ZicVRVSzVrQlQwYnQtOUFYMVJSQzBLOHJFRlpfV3lULWVDeWNJLVdwcWNwTFZuYlozTGJ3V1NUOWIteGEzcmdIN1JieDlCLXB3c0NTbkhVemhCU1BGOHlJWFZxSVlWeWdiODltaWhFdktDZ0IyaA?oc=5",
+   "published": "2026-10-15T07:00:00Z",
+   "outlet": "Benzinga",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -23269,6 +23324,17 @@
    "first_seen": null
   },
   {
+   "id": "ded78401fa6f25d4",
+   "company": "Idorsia",
+   "title": "Idorsia acknowledges the DEA proposal to reclassify dual - GlobeNewswire",
+   "summary": "Idorsia acknowledges the DEA proposal to reclassify dual GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOR3RheDNPR0hEY1lwM3FwNVpqTThpV3V6QTlZVWI5d0w2VF91Y3BXT3FQX2xqdVBVbF9VNmJCQU8tZTFDRk5PaXRIS1dRZVV4UUZ2NWJIWnhVbl9FWEctTUs0ejNsUGFlT3l3Sy1iX2s1dkdIZWt4LS1LaHlPS2g2ZHhlRmdvUktKdndVZ0FfcUpNWGhyeHByR1h6VXhsZW1KRkZOeFctaG4tOXBzNVljSE5tUjBUTURucjlBQlp4TmlPQlRTd0hlME9iVi15WUZNN1BjYU12MFByZVdkcU9NVHRsaXY5M3owOXo1OGNVSGUwLVZobHNta2ptSUx2a25udDJqNl9qLVBySC14MUVCazV2ODlDb1ZBZFE?oc=5",
+   "published": "2026-08-11T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e4e338ee2fbe2fb7",
    "company": "Minerva Neurosciences",
    "title": "Remy Luthringer, PhD - Minerva Neurosciences",
@@ -25421,6 +25487,17 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGtYdVBnUUlKaEZrckgtd3NSYTZnZ1dNdmFISVoydzg5bjFPM25Bc0xWT0ZwTzJsa25wU3hRVEtmM1E3MkZ3YUxhdERHUVBtSmw5LWtybmc2UDdCY2NieG9pN1NqRWo5eTRxQkdqdDBjWHM3UEhxbFhlQVVRVVY3NmN5d1AyOUczbmtxeklDWUxMVEpfaFBVaWdQcU1EOThURUN5dWJoTQ?oc=5",
    "published": "2026-07-27T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e9708279b98f5a4f",
+   "company": "Neumora Therapeutics",
+   "title": "Neumora Therapeutics plans NMRA-215 IND filing in Q4 2026 - scanx.trade",
+   "summary": "Neumora Therapeutics plans NMRA-215 IND filing in Q4 2026 scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0s5a25oSGZhM1JKOC1ZMURHQUlfWW81em1WdEhySW9admZLRFJHMjc5SUhkcl9FQ1V3YnFtczZwS0hjVEo4RmJ5MnZFZHRtcFNjQXZ3YVJVa1pac213SzM1TXpnM0twYkR5YzdQRmhfSWk5Z09DTG03eGxKci1kRVBPYm5fRHRjZ1NMWDYxOFg0NmRfRHNza2dnZk45N01FTEdqSVVETE5SNEZZUmJiMGVMT3M?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -38457,6 +38534,17 @@
    "published": "2026-01-27T08:00:00Z",
    "outlet": "GlobeNewswire",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "7c5ceebd7b8145c4",
+   "company": "Idorsia",
+   "title": "Global expansion of Idorsia’s QUVIVIQ continues with EMS partnership for Latin America - Yahoo Finance UK",
+   "summary": "Global expansion of Idorsia’s QUVIVIQ continues with EMS partnership for Latin America Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdEZ3Wkd3UDllamF0QTBabEdZYnoxX0hJRmN1Yk90UlBjTjZNb3NiNnV1em5vY2daNlR1SU5CRkRueWRRcXA5WW8wTXVfTVVUcmdhM2ZKczUzdFhoYzR6UHN4THBEeU5qckw0Z3hBc3BiUE03VWw2clIyV0ZCV2ZkWEhCZnlqM1hnMFJsNjQ1NVRZb2tkNHc?oc=5",
+   "published": "2026-01-27T08:00:00Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
