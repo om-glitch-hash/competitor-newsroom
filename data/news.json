@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:39:19Z",
+ "updated": "2026-11-22T19:35:13Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "c805cff20b8bae13",
+   "company": "Novartis",
+   "title": "Associate Director, Applied AI (FDE) - Novartis",
+   "summary": "Associate Director, Applied AI (FDE) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGNSOWhNejcyb3FkdVJmMnpxME5JZDZTQzQwejZaSGE3RDZKRkYwT2h2MzY4TFVsQlFqLTZlWThpb25wemd3SkVQOTQzSGpTb2RXelZjVWlnMTFDZWYzbUdyQy01Z0U4bWxtMkNSdDhTaWJtWVloSVljbjVINnpfOWx3bjhoYzRCbWpRYXUzSFdPQmpocDExRWdhSHppMUhhSDhQaVQxa3Q?oc=5",
+   "published": "2026-11-22T18:58:53Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-22T16:16:19Z"
+  },
+  {
    "id": "73516352a92a3881",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value - Simply Wall St",
@@ -1674,17 +1685,6 @@
    "outlet": "Stocks Down Under",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-22T18:39:19Z"
-  },
-  {
-   "id": "c805cff20b8bae13",
-   "company": "Novartis",
-   "title": "Associate Director, Applied AI (FDE) - Novartis",
-   "summary": "Associate Director, Applied AI (FDE) Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGNSOWhNejcyb3FkdVJmMnpxME5JZDZTQzQwejZaSGE3RDZKRkYwT2h2MzY4TFVsQlFqLTZlWThpb25wemd3SkVQOTQzSGpTb2RXelZjVWlnMTFDZWYzbUdyQy01Z0U4bWxtMkNSdDhTaWJtWVloSVljbjVINnpfOWx3bjhoYzRCbWpRYXUzSFdPQmpocDExRWdhSHppMUhhSDhQaVQxa3Q?oc=5",
-   "published": "2026-11-22T15:55:27Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-22T16:16:19Z"
   },
   {
    "id": "6b8e30f786b162d5",
@@ -3546,6 +3546,17 @@
    "first_seen": "2026-11-21T21:55:17Z"
   },
   {
+   "id": "78404066652acad9",
+   "company": "Alterity Therapeutics",
+   "title": "ATHE Stock Price and Chart — NASDAQ:ATHE - TradingView",
+   "summary": "ATHE Stock Price and Chart — NASDAQ:ATHE TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SWtnb0JCTy1OeWFlenpVQzB5bnN4QkU1akdrS1I4YlhvaEV0X3B2SThEWGtqYnlCQnFPVnVoX0luXzVnLXFGWU5lZmpiR2dBNVp2U0oySkRET2Jf?oc=5",
+   "published": "2026-11-19T02:12:03Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b61dd6651cd77733",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com - Investing.com Canada",
@@ -5002,7 +5013,7 @@
    "company": "Novartis",
    "title": "Brand Manager – Oncology & Neuroscience - Novartis",
    "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXNEbDlMM0Y2cFpJWS1nYkRseld1MXJxdE53QTlMNUpDZzMyLTVtOUFIODdOTmVyc1R5ajNXeXpHX2tjVEs3aHdNa0U3ZHdjZWdfQU5uQlY1eDRYc1FNZ0RxTkFSNTNVUmx0TGx3dUszbzAtRHE1Q2lUUnVGd3pnVFVBM3dVYmFuTVNOckZ1ZFNkVWstYkxGazAxX2RZbVhTSjJ2b3pvdVFJSGRoUWxGUEtHUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUNySXI4SVdpNHBFNGo2OEJ5TU5pcTZZM2VIVjY1aUFNcGV1NG5KYS05NkJkNVdzRzRlS1Z4QW9xQVVKX0RfcmdtNTlvcGRJYmlYM1FtZ2piRjFHbms3dVB4RDRpaW9MSUtUaGVEenJ1MVdsNVBCSW5RWHdMUlhYYUhXcGZBdmt2em95d0JJaHI5amJ6dkFmcTBkQlJiOVdGMGN4M1RNVkZHQ1ZzVksxRVBHWQ?oc=5",
    "published": "2026-11-17T08:00:00Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
@@ -6465,8 +6476,8 @@
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics, Inc. (RAPP) options chain - Yahoo Finance Australia",
    "summary": "Rapport Therapeutics, Inc. (RAPP) options chain Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcVdlZTJvaTZHelVkZlAzRzVqZzhMMDZzcHc2cC1KbGkzcmIwcktNMU5XSjRGTVlfdzlUXzYyZjJscGRXY1BuNWhCRmgwWWpiUTVYa0VxcTdiREV0N2pUdnBGT1REZlkzNFVISFRRRjhPelhQNGc4S0JFb0Rzd0k0bXJ0R1lQV1JPQ2hNaXUxcXJtdw?oc=5",
-   "published": "2026-11-16T05:27:04Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS3VPNGE5MmwtaFlCdjNQS3pZZzJqaW45cnZMZGtoY2hOaHRhUnJPXy1HaGl4MmFIY0JIV2w4WXRxWTJqbzV0ZWVYYkFZTVRjVnVIOHY3b2N4azdHVUR0dnlvZFZER1FMNXVIQkY4VFZnU2dVRmVJZzVkUjhKUmFtc1ZSQW1MT2thWHRJTnFkWGJydw?oc=5",
+   "published": "2026-11-16T05:34:00Z",
    "outlet": "Yahoo Finance Australia",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -6601,6 +6612,17 @@
    "published": "2026-11-15T20:02:29Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "25c7a45efe477e2e",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Announces Positive Topline Results from Phase 3 APPROACH Study evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder | Helus Pharma - Helus Pharma",
+   "summary": "Helus Pharma Announces Positive Topline Results from Phase 3 APPROACH Study evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder | Helus Pharma Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0JhQkZrRFJWeWdWYjhUcjN3YVVIYTR5elVLdGxUMFh1Zkh6WVNyclJrQk95SzNVRUI2djJrRW1yS1dCRzZmbWpFWlJVM2x2bEVHR2RMS2czbU5zMHZxYlduY095MmNaYi04TFEtS1FSVHZRR0hTWFdCR2F6TGJwTTlaTVBrdElLYlpBV0tCa3JIUXpfUk8wSnVNbWZRR3hBam9oUVp6b1ZIZktqYnlaWm9FRldhcHo2eWUw?oc=5",
+   "published": "2026-11-15T20:02:29Z",
+   "outlet": "Helus Pharma",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -7429,17 +7451,6 @@
    "first_seen": null
   },
   {
-   "id": "6918394752212453",
-   "company": "Annovis Bio",
-   "title": "Annovis Bio Granted U.S. Patent Covering New Crystalline Form of Buntanetap - GlobeNewswire",
-   "summary": "Annovis Bio Granted U.S. Patent Covering New Crystalline Form of Buntanetap GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRUlZdFNUaHkzOTJUT2pJeUl0QUk5Q3Z2VkYzOU1mbWdMSlZmSlc2dWhaRnV6TlhBUUtpbGlmdm5nbm9LZHVwWXpmUXRqNHRPc0RjaFBJODc4UHdJb1BNQWVYdFdmazh1ekNqSl9UelRCWVZhUXJFTjg5YU9NZmZxY19TRHBldzRzaTVSQWMtR0I0eDctR3pjSzlmQ292TmcwQ0lyWEozZjREZWdhX1AzZDRCamRyM1RRMjRFaGo2NXVPbGlma2h3czlnYklRNkpDTmg2Ni1iWXZLQUVOdmlF?oc=5",
-   "published": "2026-11-12T13:00:00Z",
-   "outlet": "GlobeNewswire",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "8d21cf4363143ff3",
    "company": "Alkermes",
    "title": "Alkermes and Teva reach settlement on LYBALVI patent litigation - Investing.com",
@@ -7458,17 +7469,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT19fOFBERi0yUmxBSGdORmkwNngwMkgtMExsTGhnelJoTmVKNmk0NlN2RG9HUjJraHRQV3NnX1BDY1dOeGRjZ2ZXOHJYM0pibE9OSXZENW4xWm54aGpfbXdyRVFoZ2lhLUV6V1NVN1RPUFZCTEtKMzBlY3E5QUZEV0xmalpCYm53TDFjS1FSeTA5N0tUNjczWHNvS3Y2bUd4V2R2VG1WZzlZX3M?oc=5",
    "published": "2026-11-12T12:19:12Z",
    "outlet": "Pluang",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "82381d054cc91c9e",
-   "company": "Alterity Therapeutics",
-   "title": "Alterity chief executive David Stamler will speak at a virtual healthcare conference Nov. 19. - Stock Titan",
-   "summary": "Alterity chief executive David Stamler will speak at a virtual healthcare conference Nov. 19. Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUUNNWVdnSXlfZUdJVURGZXlIdWEtLVJ0WVMyRVNXNUFvUnJpTTNienpKZmxDQUktSWFuSVN3RXdxeHJmVDNvU1hZZ21iQ1RPbG1ZQ3phM0dWVTA5bUN1dTRlM3JzQmE5Nm9sY01zTk9XRTFVUy13aks2V0cyZFhZTXdYSlVOVV8tNkloSkp2Q1B4OGZQSnNNSEIxVnpPU0J2RlRqQktHVXJlQV9WdW9rLUppZlY?oc=5",
-   "published": "2026-11-12T12:05:00Z",
-   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7513,6 +7513,28 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6918394752212453",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Granted U.S. Patent Covering New Crystalline Form of Buntanetap - GlobeNewswire",
+   "summary": "Annovis Bio Granted U.S. Patent Covering New Crystalline Form of Buntanetap GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRUlZdFNUaHkzOTJUT2pJeUl0QUk5Q3Z2VkYzOU1mbWdMSlZmSlc2dWhaRnV6TlhBUUtpbGlmdm5nbm9LZHVwWXpmUXRqNHRPc0RjaFBJODc4UHdJb1BNQWVYdFdmazh1ekNqSl9UelRCWVZhUXJFTjg5YU9NZmZxY19TRHBldzRzaTVSQWMtR0I0eDctR3pjSzlmQ292TmcwQ0lyWEozZjREZWdhX1AzZDRCamRyM1RRMjRFaGo2NXVPbGlma2h3czlnYklRNkpDTmg2Ni1iWXZLQUVOdmlF?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "82381d054cc91c9e",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity chief executive David Stamler will speak at a virtual healthcare conference Nov. 19. - Stock Titan",
+   "summary": "Alterity chief executive David Stamler will speak at a virtual healthcare conference Nov. 19. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUUNNWVdnSXlfZUdJVURGZXlIdWEtLVJ0WVMyRVNXNUFvUnJpTTNienpKZmxDQUktSWFuSVN3RXdxeHJmVDNvU1hZZ21iQ1RPbG1ZQ3phM0dWVTA5bUN1dTRlM3JzQmE5Nm9sY01zTk9XRTFVUy13aks2V0cyZFhZTXdYSlVOVV8tNkloSkp2Q1B4OGZQSnNNSEIxVnpPU0J2RlRqQktHVXJlQV9WdW9rLUppZlY?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9233,6 +9255,17 @@
    "first_seen": null
   },
   {
+   "id": "17e19b83e55d85ff",
+   "company": "BioVie",
+   "title": "BioVie Presents New Biomarker Data from the ADDRESS-LC - GlobeNewswire",
+   "summary": "BioVie Presents New Biomarker Data from the ADDRESS-LC GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNZXBCSW8xeHBlT3VzNW1NM3hKa19IV3BxOUtxa1RDQjVMQlEzVnMtak5RNlRFMzI5T2xCRVRfZV9zVTQ1UjFxZkthV0IxQkxHS3hsLXltTUFZQTZodXNYUEN2UG1HWG5ZRFVLSzdzSUhwMUxWbjNQMXdTbWVVZTc5N09jRlE2VnRnc19pcGt6YjhnZHlRa3c4Z0VHclgya1cxT3QzOUVpYnNSRFlGTjNIWVJmeU1maFp0a050MFBHbngzeE9HdkluRVhkQWg3VDQwSHd3MjFlWG1PdG1sNGtmcHhlc1kzTmFfdEYwMHFCZzZVNHUwekZKOXIydmE5RW9PX1BlYndjVlV1ZFpwWkwxUWJpeWJQVXZRZGlZdXNIN2M4N1pCbWxWZ3FILTdLZw?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1fa920bb008d38cf",
    "company": "Incannex Healthcare",
    "title": "Firsthand Findings: How Incannex Is Designing Trials That Support Regulatory Approval - Clinical Leader",
@@ -10505,6 +10538,17 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVkJLcmRYVmRIb2tuNWFrV2hpWEFaVjRld2xkbEh1SEFFWkVsdklNREpkVm9iWjR2eEwwTFhkZkY4M3IzQVlXRTQ0b182eTlIcFMyc1FPek54M2plRnZ6THIwQlp5TW5jT2xDV0pTNUFZUXM1VUtQaW0yNUFCRnNiX2wtYWZYWFdyT1hWVkNXLV8xazFNUlZJSExRUWQ5YUFUaW13clRKUkUyd0tiVDRtMzVPS2tKT2VBaTZ2Tk5OaWRveDlPUVJ2bFQxNmdCQ21rRVVhOE9LUQ?oc=5",
    "published": "2026-11-04T08:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "820772395c9185a7",
+   "company": "Alterity Therapeutics",
+   "title": "ATH and RCE advance late-stage trials - The Australian",
+   "summary": "ATH and RCE advance late-stage trials The Australian",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVmdhMFprRjhvVzN1MGZNNDZlSEoxa2xSZ2FFRjR4WWtnNWF2OEdBeEhCclJOZmpRWHdQU3UxZlEyMDFjSVlPeHYzaFpqZ2txR2wxLTFRYjVkcnJkbnI4MmU5RGdINEVJMW1VV0ZrWTlSV25SOXkxYlBrVnhNM2VreGRmclJhRGUwbGs0blNnNGV4X1Fiajk1Mndza0xHUXh4Z3cxWE1nZzU5YUhfNm9Xd0NqOEUwRnhvYmFfcHBMRGJBS2t6WEdFdzJLSHV3VHdxN2ZpaDVGVFgxUVk2TG5JS2V5YXFoc01RQmZGWm9zSXN3b0tZNFRmaElvU1hSeGtrY0pqSm9YN2I?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "The Australian",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17318,6 +17362,17 @@
    "first_seen": null
   },
   {
+   "id": "ee6adf3952f6214c",
+   "company": "Filament Health",
+   "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Expands Supply Agreement with the University of Chieti-Pescara for PEX010 in the TEMPO Clinical Trial of Psilocybin for Treatment-Resistant Depression in Italy - TMX Newsfile",
+   "summary": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Expands Supply Agreement with the University of Chieti-Pescara for PEX010 in the TEMPO Clinical Trial of Psilocybin for Treatment-Resistant Depression in Italy TMX Newsfile",
+   "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOSmlWQzAzNXRwcGdOMVFLWFJiN3VSaFNfQlBsYl9YUllpVWJCNm9PMEM2QzI0b1pTU2JwWWdrNTg3STZ2X3htVENvTkxZWmlYTHFlcEhQV21FVXdGVk4wUzh3QmRuVWtTZWhFSExUeS12eU9GMDV0aFVnUmlhWHcwbmhJRTA1M2FnSHFNcFltX3U5dFZlR0xHOGdyT2FzXzlJTmgxZHJRTjZTX2lFbHhlLUVxTlRzV1A5YXdiS3k0eHJoZThSQVVFcW9mSWxkTzl3ZVZtNnlxeXBzRnF3MDdMT0NUWVNIcGVNamNXXzFFSzYySjFhV3ROdXNPelVlSzdHQUQwU2EwbHdPRFpwNXNRY2F1bXFpZTVWS3U1ZlpXTE9XeURxQkZCOTBDZ0FzZVpCZkNqVFVYOHJJUkw3UGQxYnpqcHhxT2Z0Vy1jTVphcmVIVzdFZ3VqUkhVWWs2M25rRnhBNnFzX0U5RGVRU1BielA2dmR1alNyRlU0?oc=5",
+   "published": "2026-09-25T07:00:00Z",
+   "outlet": "TMX Newsfile",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e51c162b1684797c",
    "company": "Transcend Therapeutics",
    "title": "Blake Mandell - BioSpace",
@@ -19338,6 +19393,17 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRDd3UjdlWEFPeTd5bWpOT3pxdFF3UmpIVGVQQXhaZ1Z4blBfV2FoWVdrbXIzc3ZTNHJTYkxyblZ6eGtpY1pQTEJ3eHJ3Y0pQYUdYUWpTTFdCaDlXVmxRUlNmWFljdE1FT2hxRVo3RnlmaTFBVVZKZnhGaVROZnAzWVNuUmtaVmxVeDhtOWp2VE0wd3c4OFJIbVVmTHJlV0ZZUlh3?oc=5",
    "published": "2026-09-15T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "44327b31deb0eff2",
+   "company": "BioVie",
+   "title": "What's Going On With BioVie Stock on Tuesday? - BioVie (NASDAQ:BIVI) - Benzinga",
+   "summary": "What's Going On With BioVie Stock on Tuesday? - BioVie (NASDAQ:BIVI) Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWURteDNlYUhzbE5HV1BkYWtWc3pPWlhRQXlDM3R1Sm45TmZOSkMyektaMFM5OF96T0RpeFRXaER4LUI5aGJFd1BuU3BscWJxX1VIV05JamliY3JxQ3NBdXY1NWZYNk1TRlFyUlFzSXhTQXdzTTBCNlEwWHVGOXR3UHpiZnQtS2REcF9wNWRKVkZlNHF6THFVV1FpWHhUbUx4?oc=5",
+   "published": "2026-09-15T07:00:00Z",
+   "outlet": "Benzinga",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22737,6 +22803,17 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEpENXkxZXFaNWdlWHhkU3pGRC01ZGFpZm5rV3ZMZ0J5VUszMGNFVzBHbXEyTVFVektPRTdzT2RobmtrUlk3alVWa3hmYmZOT24zdjZ5SjNqM2R5VkRkSGVrTl9uSzRQVmFrUXZKc21PeWhyT2JlcHVmZy1mMHdlVzM2cVB0RngzN1Q2VGl6S1lsVl9ib3dBRXJjbHJZdHlHQWc?oc=5",
    "published": "2026-08-12T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b831f58f5df2d66b",
+   "company": "BioVie",
+   "title": "Why BioVie (BIVI) Stock Is Up Today - Moomoo",
+   "summary": "Why BioVie (BIVI) Stock Is Up Today Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTGUtNDVDWmJlOUJqVGhkbzZ1M3NqWk96VmhIVFdacDQyNm1xdVMzcjA0a19VN3FGTFFQZDljbEJZMjlVeHE0Z3lJNTNUZjM2dUdXdHRwMG9RNVAwMkxZTzA1clhCcUtnU09YM1RIdHpuTW5qWnhsMmJGSVZXcklDbw?oc=5",
+   "published": "2026-08-12T07:00:00Z",
+   "outlet": "Moomoo",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -27357,6 +27434,17 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVVzbkJ4azZqOWxaSUZfWnhvSFRPVTZJTWtVeXd1bkIxY2pnanpWajlaQjRNTV90NnR1bnU0SlJMU2tLeU1McVBtTGJnWUNYeVJLVnhaYmlwRHltaXJkQTViX0Fhc1NVdFFDNV9QendfX29zT3BhLVdhVU9qSjU2aVQyU1JOUnhTb3pFYVBNZWk3eXRqbUxpZWwxMjhsQQ?oc=5",
    "published": "2026-07-06T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "401feb650936004f",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics clears key FDA hurdle for ATH434 Phase 3 pathway - Proactive financial news",
+   "summary": "Alterity Therapeutics clears key FDA hurdle for ATH434 Phase 3 pathway Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQejZhX0lZX2hJUFhONU9tUERJS1VaTXhIeTZXdHBJM01aTDl1LUR2TXFGQ0hUTEkyVmYtaWZVM0pqRjB0SlVQSndDbWpXbE1uaTF1THdmZ0ZxTmltek5iZGZMV3B0ZDVVdm5iM1dEOEhuZmlxaUVvazlldjB4T3ktMThkVU5fakhHZmtkLVlNbkRXdGlZWDk3QXpFRjAyRENxa0dzR0U1SzMxLXFtSW5pbUl2ZTNaWUVzWnRBWkVCQW82ZGY5bjdQOHZGUXl5aWlxbUV5Sndtb0Q?oc=5",
+   "published": "2026-07-06T07:00:00Z",
+   "outlet": "Proactive financial news",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
