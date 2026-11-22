@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:17:39Z",
+ "updated": "2026-11-22T22:16:02Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1659,7 +1659,7 @@
    "title": "Associate Director, Applied AI (FDE) - Novartis",
    "summary": "Associate Director, Applied AI (FDE) Novartis",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGNSOWhNejcyb3FkdVJmMnpxME5JZDZTQzQwejZaSGE3RDZKRkYwT2h2MzY4TFVsQlFqLTZlWThpb25wemd3SkVQOTQzSGpTb2RXelZjVWlnMTFDZWYzbUdyQy01Z0U4bWxtMkNSdDhTaWJtWVloSVljbjVINnpfOWx3bjhoYzRCbWpRYXUzSFdPQmpocDExRWdhSHppMUhhSDhQaVQxa3Q?oc=5",
-   "published": "2026-11-22T18:58:53Z",
+   "published": "2026-11-22T22:01:34Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-22T16:16:19Z"
@@ -2402,17 +2402,6 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
-   "id": "691cbe167b0d5423",
-   "company": "Vanda Pharmaceuticals",
-   "title": "VNDA: Vanda Pharmaceuticals Inc. filed SEC Form 8-K: Entry into a Material Definitive Agreement - Quantisnow",
-   "summary": "VNDA: Vanda Pharmaceuticals Inc. filed SEC Form 8-K: Entry into a Material Definitive Agreement Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNUVJWXhVRFFkN3BLclJSQmtRVTlxaFRvdTUzWVZ0Z2M4Yi1OVTdjXzRHeWpydjJiQ0loaGdKSmo0Y2s3djRtSkU0Ni14NmhmcHNzN25hSHB6cV81NEVNeVJmeTNjVUMyOU5DTHZYd2FWNTB0UlBCNTI3NEhpOTJBNkM4V2x1MEk2MV9pRFpGU0pMNDB5Yl9nWnhMX2tVZS0wQ3c?oc=5",
-   "published": "2026-11-20T12:30:08Z",
-   "outlet": "Quantisnow",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "905267d166b60c13",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals settles patent dispute over Hetlioz LQ generic - StreetInsider",
@@ -2455,6 +2444,17 @@
    "outlet": "Investing.com UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T15:29:13Z"
+  },
+  {
+   "id": "691cbe167b0d5423",
+   "company": "Vanda Pharmaceuticals",
+   "title": "VNDA: Vanda Pharmaceuticals Inc. filed SEC Form 8-K: Entry into a Material Definitive Agreement - Quantisnow",
+   "summary": "VNDA: Vanda Pharmaceuticals Inc. filed SEC Form 8-K: Entry into a Material Definitive Agreement Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkN3YWlGTVE5anN6bzctdGFsaE43MUxUQzJJeU90MmlGRkhDdDJOWnZDRUFhbnVzS0FkV1R3REpucFVZT3ZueWdSLWllRWxMMTk5NFNJdkdjTDJVZXRCbmItTFBDUmVpYmpwdHZNZGg1bDFlR29Gd1gtM1ZfUm5HWDJnUXlEN1BLRFFHYWJ6eVNGZWxuMl9BVXBLRXo?oc=5",
+   "published": "2026-11-20T12:15:20Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "a256c3cbf1b8a8ee",
@@ -3326,17 +3326,6 @@
    "first_seen": "2026-11-20T00:26:37Z"
   },
   {
-   "id": "5387829c160b8770",
-   "company": "Supernus",
-   "title": "Pricing Disclosures - Supernus Pharmaceuticals",
-   "summary": "Pricing Disclosures Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50b2tydHpNaGpHN1JxWmxtSXFqdFFZazA3blhabjMyU3JPV2Rfa3hTaFk4VG1TU1YtZklkemdGU09ISlpXc1VTZVlwSGtzMmtXbzA5czVROA?oc=5",
-   "published": "2026-11-19T10:22:12Z",
-   "outlet": "Supernus Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "5367341abfae51b0",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (R7E0.DU) valuation measures and financial statistics - Yahoo Finance UK",
@@ -3476,6 +3465,17 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZl95OFRYNnQ2VnhJLTZldDBNaGxaa09wVmZRclp5YmhTUUlPSkROODRBc1Baend5OHNHbktfcVV2M01WbVAtaFMyU2x4RzFPWlFWZlhpOUhBY3J6QlExRVJHY0dMdGNFbTRTNUpCLTFZajhhdXVwNUVuemVxUjRJT0JJTUk2QVdPeGY3RjJqbFlkeWY4TVh0bVlfemljdFFmWl9vbkxpa25scl9ZaTNKQXhTcWZOYU9oeEpGNGczME5hN1FXZjllYmU2RmdiMmR2WFBGTlozbXYtOGwtd21BMkhWM1o?oc=5",
    "published": "2026-11-19T08:00:00Z",
    "outlet": "The Globe and Mail",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "dba55f65da807efc",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Stock Price Forecast. Should You Buy VNDA? - StockInvest.us",
+   "summary": "Vanda Pharmaceuticals Stock Price Forecast. Should You Buy VNDA? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQVlJkZUpnYlVlRkV3YnJZTUJKdGtrZVBvTWJpSFU5a2VYbmFmNXhGUXhRbEJ2R2NvMFk2LWNJRk9QQ0gzQ2NLbA?oc=5",
+   "published": "2026-11-19T08:00:00Z",
+   "outlet": "StockInvest.us",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -4104,6 +4104,17 @@
    "published": "2026-11-18T08:12:42Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5387829c160b8770",
+   "company": "Supernus",
+   "title": "Pricing Disclosures - Supernus Pharmaceuticals",
+   "summary": "Pricing Disclosures Supernus Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50b2tydHpNaGpHN1JxWmxtSXFqdFFZazA3blhabjMyU3JPV2Rfa3hTaFk4VG1TU1YtZklkemdGU09ISlpXc1VTZVlwSGtzMmtXbzA5czVROA?oc=5",
+   "published": "2026-11-18T08:00:00Z",
+   "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -5051,17 +5062,6 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
-   "id": "dba55f65da807efc",
-   "company": "Vanda Pharmaceuticals",
-   "title": "Vanda Pharmaceuticals Stock Price Forecast. Should You Buy VNDA? - StockInvest.us",
-   "summary": "Vanda Pharmaceuticals Stock Price Forecast. Should You Buy VNDA? StockInvest.us",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQVlJkZUpnYlVlRkV3YnJZTUJKdGtrZVBvTWJpSFU5a2VYbmFmNXhGUXhRbEJ2R2NvMFk2LWNJRk9QQ0gzQ2NLbA?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "StockInvest.us",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
   },
   {
    "id": "9f871b718e8894b8",
@@ -6094,6 +6094,17 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2dsQjJUQThha3pSYlhpbk9MaHdFM2wxWjJBSHBoVmJIUDBVajFDSlgtRHlaY080dmc3NklFWGZkR1gwYWozSmd5d25LMldVWDBjaHhKcWNmXzJMVDlqVWZsUGxvWHF1NkVMUFRCcEJENkVxV2JoUWdXRk9WSS12Q2J2aE1IRkNVN2RIa2JXeTB4eklRY3p3RXZ3MmpEOUl6SUE4XzlISWhLd09vYWViSmRLdw?oc=5",
    "published": "2026-11-16T13:00:00Z",
    "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c8daee37c661a8fa",
+   "company": "Teva",
+   "title": "U.S. FDA Approves IGALMI® as First At-Home Acute Treatment for Agitation Associated with Schizophrenia, Schizoaffective Disorder, or Bipolar I or II Disorder in Adults - Yahoo Finance",
+   "summary": "U.S. FDA Approves IGALMI® as First At-Home Acute Treatment for Agitation Associated with Schizophrenia, Schizoaffective Disorder, or Bipolar I or II Disorder in Adults Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFZqNDlkUXh4LW5RNjB2YlJKVnVTQS1HZFFHOWlQMHdZUnZVSGxCbmNMUWtCdF9XVm02a082cFg3ZFNKUnJtaWRndmQwS0J1aFB3U2xJZnFfdVdqLTNucmg3MkdmVnB1bE05UVF4bGxBdjZtUW05d0dfQzhKQS1OdmZYaXFYbU1PLV9NWnFwYVJZdw?oc=5",
+   "published": "2026-11-16T13:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15767,6 +15778,17 @@
    "first_seen": null
   },
   {
+   "id": "c0a869c1baf603b0",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Announces Schedule of Data Presentations at MSToronto2026 - TG Therapeutics",
+   "summary": "TG Therapeutics Announces Schedule of Data Presentations at MSToronto2026 TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3N0cXZHYVA1cXJLWVBVb19KajlNRjExeVBiSGJqdGdheGJGUE84WWVYOXVzbFk1T1RTaTF0YjRTX1Baa3pBd1NsNFYwN2tLTFoxdTBHQ200bi1sUl9UU3JEUWJZYzdnZlFabEZtLWtQVm1MSzBYeW5PUUhXdjVQakZnYlFjblR5MDFSNTN3WThRTUdvM1BHWE5vZDd6UVgxd194aURHZ1FKQXRsQVNaa193ZmRhUDZUdlE?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "1edaf5ba7f41e3be",
    "company": "Novartis",
    "title": "Value & Access TA Head Immunology & Neuroscience, APMA - Novartis",
@@ -21949,6 +21971,17 @@
    "first_seen": null
   },
   {
+   "id": "8d8ee051852f19c3",
+   "company": "Sensorium Therapeutics",
+   "title": "Sensorium Therapeutics Announces SNTX-2643 Phase 1a Data to Be Presented at Psych Congress 2026 - PR Newswire",
+   "summary": "Sensorium Therapeutics Announces SNTX-2643 Phase 1a Data to Be Presented at Psych Congress 2026 PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYnBxT0JzOEFfVldqR2MzaEgxdzFSeW5JOTNpU1psQ1h4Y1hFOG03YktSLWt6b3IzaUhlcGFVZ0hPVlk5aG9NLXNXa0pWeWktN0U5VDZONlF4SC1lVGVxQWJOQnNEMkVvVTNlZkV2RG55bUxrck4xWWJGWkV4UEYxTVVHVEdYWUpKQVpFX1BHelhESlRxVEtFYTUzR1ZBdVRQMFJlZGpxMVVxbnlFa3Jocmt0cXRUQlhHQkdySHBLYk9OZ0NBVmV5d0NwQ1ZFdVI2YjM3QzI5YUdULUxYTEU1Z1A4TlUwZw?oc=5",
+   "published": "2026-08-19T07:00:00Z",
+   "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4a7e095b5576df01",
    "company": "Annovis Bio",
    "title": "Annovis Bio Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
@@ -24714,7 +24747,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -25674,6 +25707,17 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVJNQ1BkZW42aUtBV1V6YzRCM1BFWnFBT0lDbU1paEZkUGtFUzVKa3ppWFdDaGU1WDhuWEdWYVRUamVxYlpOOWVyOFFuT3pMOGV2U1NvLXJQODJod20yak5RcGVkb2RseHBwazBieFVLdm9HQmZMdHBTZEdtRTJ2QXZRS2JINW9KS1hiRzZrR1R6ejBfTTU0NlRBTWhBUk9vYmRqQzIxeWNUelR3MXFFMVlKU0FsUGd0S082LXpuNkxqc1dhVTU4dlQ0YmZhOHc?oc=5",
    "published": "2026-07-23T07:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "15531dc5f449dda1",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Announces Completion of Enrollment and - GlobeNewswire",
+   "summary": "Serina Therapeutics Announces Completion of Enrollment and GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPSUtUd0w3ZHBhUnZzZ2E2bm1LX2lEX0djcmdxTkZpSnlqQ09NZW9XWXpydTBST2F6clI0MG9VZ05FQmUyYzVOTllaQ1dGbFByN2NUMGZuTDhoNU10VzB4YkhfNFAyOW9IQUluWHlwY2F6bGEwYWZhSF84QmtnMTJ4RnR5RlhldXA2UjB5TnhqS3ZVWEpuNmxuSXJsZGtGRjNkdEFSV1Q1NUtZMnJMLWxQWVV1Ry0tMXE3dDU3R09xeDBXbEs4Ry1FeGhUcnJTR0M0cFlxZkctd3F2YzZoMmNlR0dZSE5FZ3REX0pCdVhZLXd6YVpiQ1RVeDVDaEhMbkFBN1RUNzJxRXZlRnJtMFN6MmhZclVab0NaUnRPcTlDMjhKSGhVRHJXazZETVJpQlh3b3ZLMVo4Z0k1M1V3Nmc?oc=5",
+   "published": "2026-07-23T07:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -31607,6 +31651,17 @@
    "first_seen": null
   },
   {
+   "id": "3622b002c251c800",
+   "company": "Vanda Pharmaceuticals",
+   "title": "How The Vanda Pharmaceuticals (VNDA) Investment Story Is Shifting With BYSANTI And Nereus - Yahoo Finance",
+   "summary": "How The Vanda Pharmaceuticals (VNDA) Investment Story Is Shifting With BYSANTI And Nereus Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSm01azI2RkNOVFFSTERqRTdkaV84UHNmTDZ2bW94Ny1fc0VCOEkwV21KNFcwYjRwQXB0WHZQd3hpSnFyOVNzRnZFdG1rRy1OV29uYnlFZzhnS1JnakR6Z1lWVHRjbl9ERXVHbkhORkRkdUZhZ2R5Mzdxd2dIYXJMdEt0bm1vVmRqa3dDQ0ZEOE1ISjBYMW52SjUyVTd4Ry1XNERQTFpRN2JEcncx?oc=5",
+   "published": "2026-05-17T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "973aeae4d8b1a428",
    "company": "Suven Pharmaceuticals",
    "title": "Suven Secures Two product patents in China and Russia - Suven Life Sciences",
@@ -32146,6 +32201,17 @@
    "first_seen": null
   },
   {
+   "id": "bb7818a788be075c",
+   "company": "Filament Health",
+   "title": "Red Light Holland Highlights Publication of Randomized Clinical Trial Showing a Single Dose of Psilocybin Reduced Cocaine Use, with Filament Health Holding the Exclusive License to the Data and Intellectual Property - TMX Newsfile",
+   "summary": "Red Light Holland Highlights Publication of Randomized Clinical Trial Showing a Single Dose of Psilocybin Reduced Cocaine Use, with Filament Health Holding the Exclusive License to the Data and Intellectual Property TMX Newsfile",
+   "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOUTdDckdONDRCa2J4UHlpUzJrbDlPZXRGTHB2NlduZldZRVhVRzYydzVqV29DVWlucXRFOVppME9sOFpPWmxXZ053WXR2TTMwcXFYaGwzQWQ1Yzlmdkk2Q2l6MVY2UzdqemxPQlF3SDljUHczSlZ5OWQ0R0k3MkFEUVRDT2hZcXV1dFYxTnlFd3lpNTlGVFM3Y0V3eGZYRkE4MkJ6cGROVXdJalJ1ZDg4LWpxR0ZQZHlwd29XUElwUzR2THVaakF1enVhaERFNmh2LXhpMXVEMXVFVEo1aV8yWll3OWtNM2tyZGoyVU5RZHc1X09YWUdDMUg0U3VzQmxfaUpOQmFQUXNXMzMyVDVrVmM0Q3FaUlNYT3VYNVZydy1GdDhVZHp1dTl1QW1Ja19mQ1BNazZIWTFiSzZKSjctdGg0QmRLT1RsT3ZIUnVGdTV0UmNZMm1zbGlqa2N6X3RraVc2Mkc4SGl3cTMxckt0SzRYUWg?oc=5",
+   "published": "2026-05-08T11:44:04Z",
+   "outlet": "TMX Newsfile",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1256ee19145231f0",
    "company": "Newronika",
    "title": "About Newronika | Setting the New Standard of Care in Neuromodulation - Newronika",
@@ -32663,6 +32729,17 @@
    "first_seen": null
   },
   {
+   "id": "11c3b1b9832d8e34",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Announces Initiation of - GlobeNewswire",
+   "summary": "NRx Pharmaceuticals (Nasdaq:NRXP) Announces Initiation of GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZGVlclhIclNjS0ZTajRZUllWdkgwang2R091bHN3TUhDLWxrZ2xxUGpRdndhaFJJWUFEdTliRWhtVFhBNnp1RGcwQUhpTGJMUGowNHhDYmVwQnhBTVQyeVhyMExOVEczWjNjTUpOZWUzTDhVRDRNcF9MWm16SnY2MENJcGQ4YWNGM1dQV3ZtM1JhQXlTSmJpYXdtbVB5dks5VFdzQVd4NnRKRUJNY1BLRE5VenNFbjJIS3dJdXU0R3BxZ2dVWWloT2hGdDFyZGtZUzVZUFVUcDJTd1JWWENMc29BdDlOOU16cEZVLTIzbXFmQjJkWGhCYTFfSHV3RGhiVUx1Ujh0NTBYbHJsS1o3QQ?oc=5",
+   "published": "2026-05-05T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8e25004a50c70c31",
    "company": "Seaport Therapeutics",
    "title": "GlyphAllo, a Novel, Orally Bioavailable Prodrug of Allopregnanolone, Induces an EEG Profile Consistent with GABAA Positive Allosteric Modulation in Healthy Volunteers",
@@ -32813,6 +32890,17 @@
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNb2l5M3BDNkJXZUw4cUpVa0U1dDlpczc1V0ZlUHNPbjNRRWRITjJpeHk4QUhaZHNoLWtXVnlaTUxvUy0tN2tBSEFBaTFDX0ZQNXBXMWhjVFVGRE5uT3A0enlYV0l0SUMwd0xuNkhhVjUwZ1pSbVRON2htWmEwRVJydC1mWHd3SEkzdnhPWTMzNW16ZjBIZFdLb1REbnJ0cUtNdWxXLVNlZGtSUHllRG1YR0xGcmJwT3gteE1jRl9uSU9UeVkwTVlHT05vWFg4aWEyWi1NWm5aajhVaHRYSVNJWnFPQ1RjeXE5MjI3bzc2aVRUZjBFNVJqYzNUTDE2RDQ?oc=5",
    "published": "2026-05-04T07:00:00Z",
    "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ad7bef380fb9d799",
+   "company": "Vanda Pharmaceuticals",
+   "title": "D.C.'s Vanda Pharmaceuticals launches first new prescription motion sickness drug in decades - The Business Journals",
+   "summary": "D.C.'s Vanda Pharmaceuticals launches first new prescription motion sickness drug in decades The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZWdxYTNlT1A1S0lwZFJYWkFPTkNOejhIR1F3cEpHWTFDOThIcmQ0X0VnRW9HMUJVM0Y4T202UDNuelhwZ2UyWF9RNUpHTDd5WTY4ck9MSG5fb2dFUktub01QM1JzNlhTaDNobzFoaEctejh1bWUzaXloVnRwaUROUWFxM1FkZmxQZk1WQ2lDeVlfREU5ZzB5VVdfN3JiTTZYR1lVeXB6bw?oc=5",
+   "published": "2026-05-04T07:00:00Z",
+   "outlet": "The Business Journals",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -33140,6 +33228,17 @@
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Athens Open 2026 Overview | WTA Official - WTA Tennis",
    "summary": "Vanda Pharmaceuticals Athens Open 2026 Overview | WTA Official WTA Tennis",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDVDI1TWNGVU9QcVdSVTZxTU9EcG9zaHNfVTZIZWRiYjFTampzSTkzQmppaE5MVUcwbnpxLVA4dFNycnZMeWVtNzdvdXNPc2I3R2VmUWc0b0c0VWt6TXR3d1RFc2U?oc=5",
+   "published": "2026-04-29T13:33:24Z",
+   "outlet": "WTA Tennis",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4cab59a1af158b40",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Athens Open 2026 Overview - WTA Tennis",
+   "summary": "Vanda Pharmaceuticals Athens Open 2026 Overview WTA Tennis",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDVDI1TWNGVU9QcVdSVTZxTU9EcG9zaHNfVTZIZWRiYjFTampzSTkzQmppaE5MVUcwbnpxLVA4dFNycnZMeWVtNzdvdXNPc2I3R2VmUWc0b0c0VWt6TXR3d1RFc2U?oc=5",
    "published": "2026-04-29T13:33:24Z",
    "outlet": "WTA Tennis",
@@ -37741,6 +37840,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0daQUJwR3JUSXQyZEtPeVZsQVpwelVBZkt4eTMxdkFJSVFKMktpaVBheUstd05PTllsVFNVMVp6TjlyUXlPOHJPSm9ONVpxVXBJdFp5Sm1FYlpnUV81d0Q4UjFVTGNCb1hvVVNIa2RZd0lfVl91VlRaYlQybGNLUXZRRDVzQWYwVXVBbEk2aFFwaDB2bGcxd1B1dE96bjMtdkpfTWphYnR6eDJiNVhfeTdiUGVnb3RYWndj?oc=5",
    "published": "2026-02-16T08:00:00Z",
    "outlet": "Newron Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "6ed0ecabbb07b0c9",
+   "company": "Supernus",
+   "title": "Consumer Health Data Privacy Policy - Supernus Pharmaceuticals",
+   "summary": "Consumer Health Data Privacy Policy Supernus Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wU1lWQTRWckdkekkxZUpDTE5iRF9vVlM0X2oyV1ZuR2w0WER5QnF3NDVUc1ZRZXZIWkZMLUNTVms5a1NxbF84M3ZkaHBtRTNNbW5lejlrMFd4OVpsWFdjQnpJRGIxTW02b1ZVNA?oc=5",
+   "published": "2026-02-16T08:00:00Z",
+   "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },

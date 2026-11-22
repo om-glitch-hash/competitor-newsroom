@@ -48,10 +48,10 @@
   "checked": "2026-11-21T00:02:36Z"
  },
  "Supernus": {
-  "feed": "https://news.google.com/rss/search?q=%22Supernus%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Asupernus.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://ir.supernus.com/news-releases\", null, null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T22:16:02Z"
  },
  "Johnson & Johnson (incl. Intra-Cellular)": {
   "feed": "https://news.google.com/rss/search?q=%22Johnson+%26+Johnson%22+%28%22lenrispodun%22+OR+%22ITI-1284%22+OR+%22Caplyta%22+OR+%22lumateperone%22+OR+%22seltorexant%22+OR+%22aticaprant%22+OR+%22Parkinson%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22bipolar%22+OR+%22anxiety%22+OR+%22Intra-Cellular%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -165,7 +165,7 @@
   "feed": "https://news.google.com/rss/search?q=S.Biomedics+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"S.Biomedics Parkinson\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T22:16:02Z"
  },
  "Aspen Neuroscience": {
   "feed": "https://aspenneuroscience.com/feed/",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-22T21:17:39Z"
+  "checked": "2026-11-22T22:16:02Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=%22Zambon%22+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -274,7 +274,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Herantis%22+OR+%22HER-096%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://herantis.com/\", null, \"\\\"Herantis\\\" OR \\\"HER-096\\\"\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T22:16:02Z"
  },
  "Aprix": {
   "feed": "https://news.google.com/rss/search?q=Aprix+PSX-001&hl=en-US&gl=US&ceid=US:en",
@@ -398,16 +398,16 @@
   "checked": "2026-11-21T00:02:36Z"
  },
  "Protagenic Therapeutics": {
-  "feed": "https://news.google.com/rss/search?q=%22Protagenic+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Aprotagenic.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.protagenic.com/news\", null, null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T22:16:02Z"
  },
  "Ananda Scientific": {
   "feed": "https://news.google.com/rss/search?q=%22Ananda+Scientific%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://anandascientific.com/\", null, \"\\\"Ananda Scientific\\\"\", null]",
-  "checked": "2026-11-21T19:31:43Z"
+  "checked": "2026-11-22T22:16:02Z"
  },
  "Neurala Biosciences": {
   "feed": "https://news.google.com/rss/search?q=%22Neurala+Biosciences%22+OR+%22NBX-100%22&hl=en-US&gl=US&ceid=US:en",
@@ -554,10 +554,10 @@
   "checked": "2026-11-21T00:02:36Z"
  },
  "TG Therapeutics": {
-  "feed": "https://news.google.com/rss/search?q=%22TG+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Atgtherapeutics.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://ir.tgtherapeutics.com/news-releases\", null, null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T22:16:02Z"
  },
  "Spinogenix": {
   "feed": "https://www.spinogenix.com/news/feed",
@@ -596,10 +596,10 @@
   "checked": "2026-11-21T00:02:36Z"
  },
  "Suven Pharmaceuticals": {
-  "feed": "https://news.google.com/rss/search?q=%22Suven+Pharmaceuticals%22+%28%22ropanicant%22+OR+%22SUVN-911%22+OR+%22depression%22+OR+%22CNS%22+OR+%22psychiatry%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Asuven.com+%28%22ropanicant%22+OR+%22SUVN-911%22+OR+%22depression%22+OR+%22CNS%22+OR+%22psychiatry%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.suven.com/\", null, null, [\"ropanicant\", \"SUVN-911\", \"depression\", \"CNS\", \"psychiatr\"]]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T22:16:02Z"
  },
  "Roche": {
   "feed": "https://news.google.com/rss/search?q=%22Roche%22+%28%22prasinezumab%22+OR+%22Parkinson%22+OR+%22synuclein%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -629,7 +629,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Britannia+Pharmaceuticals%22+OR+%22APO-go%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.britannia-pharm.com/\", null, \"\\\"Britannia Pharmaceuticals\\\" OR \\\"APO-go\\\"\", null]",
-  "checked": "2026-11-22T16:16:19Z"
+  "checked": "2026-11-22T22:16:02Z"
  },
  "BioVie": {
   "feed": "https://news.google.com/rss/search?q=%22BioVie%22+OR+%22bezisterim%22&hl=en-US&gl=US&ceid=US:en",
