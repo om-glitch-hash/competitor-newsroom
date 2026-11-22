@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:35:13Z",
+ "updated": "2026-11-22T20:28:55Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1698,17 +1698,6 @@
    "first_seen": "2026-11-22T12:44:54Z"
   },
   {
-   "id": "ca3e33074f65c11c",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
-   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
-   "published": "2026-11-22T08:50:18Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T15:29:13Z"
-  },
-  {
    "id": "8376a6018acce474",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics, Inc. (19X.DE) stock major holders - Yahoo Finance Australia",
@@ -2070,6 +2059,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T21:13:37Z"
+  },
+  {
+   "id": "ca3e33074f65c11c",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
+   "published": "2026-11-20T19:15:40Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T15:29:13Z"
   },
   {
    "id": "c17435afc147177f",
@@ -3645,6 +3645,17 @@
    "first_seen": "2026-11-21T07:43:31Z"
   },
   {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZzZV9wcG9yMkJkbTJidXVtdUkxV0lvZzZoNlZQUGduMkt4LVAzbmVvSm5kLWE5Z0lWajJiNmlCdm5FSzc5U2J4b0NMbURnTHNtWHdiVndINjdScnV3Y2JEcGVwUWpPYjFPYzd3dWNHWE1vc3JPMnNveGhvMjZVVlc1TU03eHp0cGxYaXNySG5MN2w1ZW1Gc2pFU2N2OVZkQkxXV3pZQ3l4UWVNRTBORHVzYw?oc=5",
+   "published": "2026-11-19T00:49:03Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
    "id": "d0312c4cb0ad9d03",
    "company": "Alkermes",
    "title": "A Look at Alkermes PLC (ALKS) After 3.1% Gain -- GF Value $33.66 vs Price $46.85 - GuruFocus",
@@ -3720,6 +3731,17 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "7480e82e2c8dde4e",
+   "company": "Novartis",
+   "title": "Account Manager, Neuroscience - Novartis",
+   "summary": "Account Manager, Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDI5QXVWdDFqb3I0R0FWT05lMVFSY3FpTXdJUjBwU3c2bjhkZDA4bjZ0NmNIdmVMRGRPWHF5aE5BQlQxOEpjRGJGRGtZUTFzbjMtOWphVzV6WFRRUHlhNmxscGJhZW9WNkpfRTBBNnhvVnZ0VU5Bb1RvX1RtQmI0RG5tNUxjVTFvUFpISjN6NHN3VlVDZ01EM2wyMG81TnEyRHVxWEwwUVZ2UQ?oc=5",
+   "published": "2026-11-18T21:45:24Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
   },
   {
    "id": "aa234c9c0e2a60bf",
@@ -3808,17 +3830,6 @@
    "outlet": "Coinbase",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
-   "published": "2026-11-18T15:14:53Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "ae43ecd6c96a7fd5",
@@ -4180,6 +4191,17 @@
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVVRQdlRVVVpkZi1nM05COGh5Sm1TbUoyd2J4N3piOVNzMm5vTnAyQ3I4M0JoMzctMV9kcWpqcUJWTWhmbW1NbnFxajZHZ3J5azc2WmkxNnZ6dUltejJzbmF2M1NIVG5ESzNZRm1TbXRNZk15R0V2YUw1VlFQVDU0aUF5dzJ6aG0tYXV4MmlTakhJRDhBWkY4Y2Jwa000dEFnMDN4OThqNFNGM1h4RXRTZlRLdjU3SEViVHpSLU9CQzNnVnhrcmdXV3h1OVdpVHVKbG9kaEVZRGRQTTZqaU9ycFpDSVZRaU1GbkNwaF9rdFlWRmE3cnZVTDhKZEgzdG9KX3JwR2ozQW1iZjJCS2tUSTQ2NjU?oc=5",
    "published": "2026-11-18T02:56:46Z",
    "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUTREX2JPNVU0cHBhZTVEazJjUXNXSEMwVGo5WjFRZXF6RXU1TU9Sa1VvRjN0VV85VmtHRVhNM21ZQURFN3U5MkdZOFRZOVJTVzBtSmdTRkx2ZFJUQ1RlTlF4Ti0zU2NaTFBvalBjNXMwYzZVNExLTU5IQlU1YmRMdHk0YUNhTV9XNEhCQ09xekpNc0o2Rl9VOVo4YXl4azh6VHlWNUd2ZHI5VUVUT3hrbHJYT0FMcWVjTlg5d1pNdWxSREI3anZtaE96TFhFdw?oc=5",
+   "published": "2026-11-18T02:10:41Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
@@ -5009,17 +5031,6 @@
    "first_seen": "2026-11-20T00:26:37Z"
   },
   {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUNySXI4SVdpNHBFNGo2OEJ5TU5pcTZZM2VIVjY1aUFNcGV1NG5KYS05NkJkNVdzRzRlS1Z4QW9xQVVKX0RfcmdtNTlvcGRJYmlYM1FtZ2piRjFHbms3dVB4RDRpaW9MSUtUaGVEenJ1MVdsNVBCSW5RWHdMUlhYYUhXcGZBdmt2em95d0JJaHI5amJ6dkFmcTBkQlJiOVdGMGN4M1RNVkZHQ1ZzVksxRVBHWQ?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
    "id": "dba55f65da807efc",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Stock Price Forecast. Should You Buy VNDA? - StockInvest.us",
@@ -5115,6 +5126,17 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpaGdfT1VoSEttelozSVNiRWlwTUZGaFE3cUJtUEozcy1tQ3Z0QnRQVlNKOFZmUW1oZFhuRkxnbUJQa1dRakg1cC15UEIxbW81cXF4VmhBVzhva01DTVVTQQ?oc=5",
    "published": "2026-11-17T03:14:49Z",
    "outlet": "CoinGecko",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "46237a0fdba8d68f",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics announces $100 million at-the-market equity program By Investing.com - Investing.com Nigeria",
+   "summary": "MapLight Therapeutics announces $100 million at-the-market equity program By Investing.com Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTUZyUFhZcXZ0STBJWTBiQkJ3QTRDRG52MHpTY1F6V1NVNnNFYTBtblVsNEhHVkZCUFZ5RWprQWNUTnFlektlMk5xeXN6akJ1ejdMeW1aTV9vNUtJNFJEWWpjd2RGUTlOR3d2QThXa2VaUW4wNDY1aWdQamJ1RTBqcGRfZmhRUjFuOVpaR0hvd2QxZEkwSjcyY0Zva05mZlJ0N1FNZjlkWnU4U251ZFlkMlBWTWdmYWZqZ25JUFZFXzBROXY3TUhieF9nUQ?oc=5",
+   "published": "2026-11-17T02:59:16Z",
+   "outlet": "Investing.com Nigeria",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6131,6 +6153,17 @@
    "first_seen": null
   },
   {
+   "id": "a88fc6eb047917f2",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma reports positive phase 3 trial results for HLP003 By Investing.com - Investing.com Canada",
+   "summary": "Helus Pharma reports positive phase 3 trial results for HLP003 By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkl5T3B5OWc1Z0toOVBwRjd5eExLaE0wQ3BRRkpDQXVSTHpZVXp3bUpaRzI4a2Q0S1NJOFk1YW5QVGZ5cTY0QmpNUkVvREtlbXFHVXpHRnhQeTY4aWVsLTZfX0lhUm5PSWZlRmZJaWV3R3pjSTROUWJmZlpRRlBhTGhWTXlEUk9ISFU2Qk91NEhuY2xxdHJPaUZQRlpMZGV3S1UxUk0wSjRxTXVTZVh5RFo5MjZzc3NaN0JXdHVJUjc?oc=5",
+   "published": "2026-11-16T12:27:21Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "9ffc6a095c665b10",
    "company": "MapLight Therapeutics",
    "title": "MPLT: MapLight Therapeutics Inc. filed SEC Form 8-K: Results of... - Quantisnow",
@@ -6721,6 +6754,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qNnRubG1BdkJNdUdIUlVRbjczUlRZTm5JTEZNa0NjTE55TDZzZnhVeUlJTjFxWGwyeXI3TnR0TTZBYXJvbWVWUHZYRE1GLW82?oc=5",
    "published": "2026-11-15T14:23:52Z",
    "outlet": "kalkine.co.uk",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e01b4ff818d5b275",
+   "company": "MapLight Therapeutics",
+   "title": "Form 144 MapLight Therapeutics For: 15 November By Investing.com - Investing.com Canada",
+   "summary": "Form 144 MapLight Therapeutics For: 15 November By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRTlJcDVnWGhMOFBubVRPV2xnV1dpZzY3Y3diT2pxNmFBMndvRmxZenBxcC1NX2oyREVMMW1FZnc5My1WT1NOalgtdlZwNE85U0xaUFNJaW1iZGNhWkp5eTg2ZlpzaFhXRW1YOWNIdmFMRU9LTDZhbmlTTUVUSDFQZ3FrenlleDE5TkcwNW1PR1U1VDBmZDBjUGY4VWxNM3BqSVNHZ0hSeTNNRjA?oc=5",
+   "published": "2026-11-15T12:13:03Z",
+   "outlet": "Investing.com Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7712,17 +7756,6 @@
    "published": "2026-11-11T23:15:02Z",
    "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "7480e82e2c8dde4e",
-   "company": "Novartis",
-   "title": "Account Manager, Neuroscience - Novartis",
-   "summary": "Account Manager, Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDljdUQwbFBCZlotb0FlcUxhUHlxWTFoUDZ0T1pIMXBKU3pJVDNxMkcxRFhtbm54OHlfTmkzRHl0akRYcnlXdWVfamxqekJ3dXZWdEMxN1RKa3JmQ3BCUUZ0R0Y4ZjdGRUtZVHZLNUF4SHJ1RGhIcERQNTJDdTVYNnRrR1NYRHVpVDJsT2k4LVpYWWZNdEJldjBYeFZJemQ5LVY5dTFVaHFwZw?oc=5",
-   "published": "2026-11-11T22:29:45Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -10549,6 +10582,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVmdhMFprRjhvVzN1MGZNNDZlSEoxa2xSZ2FFRjR4WWtnNWF2OEdBeEhCclJOZmpRWHdQU3UxZlEyMDFjSVlPeHYzaFpqZ2txR2wxLTFRYjVkcnJkbnI4MmU5RGdINEVJMW1VV0ZrWTlSV25SOXkxYlBrVnhNM2VreGRmclJhRGUwbGs0blNnNGV4X1Fiajk1Mndza0xHUXh4Z3cxWE1nZzU5YUhfNm9Xd0NqOEUwRnhvYmFfcHBMRGJBS2t6WEdFdzJLSHV3VHdxN2ZpaDVGVFgxUVk2TG5JS2V5YXFoc01RQmZGWm9zSXN3b0tZNFRmaElvU1hSeGtrY0pqSm9YN2I?oc=5",
    "published": "2026-11-04T08:00:00Z",
    "outlet": "The Australian",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e99e0a4fefc53613",
+   "company": "AC Immune",
+   "title": "AC Immune Third Quarter 2026 Financial and Corporate Update - Yahoo Finance",
+   "summary": "AC Immune Third Quarter 2026 Financial and Corporate Update Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc05uWXBMNmVJYmxFX3VNcDNaNWhOamFzOGhLWjV6dm9zUng3Y2VHN2swTldESVFSclBBVDVNNkg0ekxRMmFOeW5sZzBxaVNOSU9DbnhVOFFMOEV6TTdWQ3NlX2RBMlVlbDV2Z3B1ajNvaE1ONWx5c29PRldWeEZmOUlLY1FvLUdLZjFUY084cWlyWk0?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -19892,6 +19936,17 @@
    "first_seen": null
   },
   {
+   "id": "4693250d78ac549b",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to Participate at the Morgan Stanley 24th Annual Global Healthcare Conference in New York - Thu, 09/10/2026 - 07:30 - Helus Pharma",
+   "summary": "Helus Pharma to Participate at the Morgan Stanley 24th Annual Global Healthcare Conference in New York - Thu, 09/10/2026 - 07:30 Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTS11bm9qTk55OW5mSmxPOGxtb3d6NUc3c25MNjhBNXRtM2g4NVhuWHBZTHlXVjJYMnJnaXpEUTVhbEhpRlBYZkoxSnE1eXNLRFc5Q2FpOVpCX1F5eXAteTFyaDVyYnBwdU41TW9PZ0ltUDdkczhlNjUzbThEYVlVc3hReXIwdXpVam9zVFJYcllRN1lpMFhzRW5KajUzTzhzbUpTOG1GS2dOa09td0RzMXJjZnU?oc=5",
+   "published": "2026-09-10T07:00:00Z",
+   "outlet": "Helus Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "5c77583c6aa41c54",
    "company": "Newron Pharmaceuticals",
    "title": "Newron secures €5.5M tranche in €38M push for schizophrenia drug trials - Dealroom",
@@ -21747,6 +21802,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXZVZzWlpZT3ZCS0diaHdTbXNDM2ZwdzhQS1JWS1UwU18wcG11aHNPYmxsUkZxbXpSU19ZUzVwSU04R0kycWFDQWhaZ1drUlgteXBVTlRxR0FLYmx3d3ZaNk00bDU1bmVLSXVZOTJySQ?oc=5",
    "published": "2026-08-20T07:00:00Z",
    "outlet": "medwatch.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c91d4f4040da4d61",
+   "company": "AC Immune",
+   "title": "AC Immune shares rise after encouraging early Phase 1 data for ACI-19764 - Yahoo Finance",
+   "summary": "AC Immune shares rise after encouraging early Phase 1 data for ACI-19764 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGNFYTR6UmZTX0hQU3A3c1dpcmNaMDk0Wjh2Nm5VdVQ0bElDZmd0XzFhRlAzMnBfdW0yd3B3RGVNdk1zb1drUUM0NVRwZmNlY0s5SGdBTHNNYWhldm1hdDVuTDVPMU92T1RuN09DaWFCUy12bll5c2NXR0dzaXJvRUMweFI3MV9XSE1oYlV3YkhicmZuMmJ4dmtR?oc=5",
+   "published": "2026-08-20T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -31211,6 +31277,17 @@
    "first_seen": null
   },
   {
+   "id": "c0a31d1b6b0a5f0a",
+   "company": "Biogen",
+   "title": "BIIB, DNLI Stocks Edge Lower After Hours: Parkinson’s Drug Misses Key Goals In Trial - Yahoo Finance",
+   "summary": "BIIB, DNLI Stocks Edge Lower After Hours: Parkinson’s Drug Misses Key Goals In Trial Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFdUdXRXOXJtYnRfSUVpV2I3X2h5VVdkNjQwbGJ0eXZCSnpQb1o0eFJZWWtUXzBaakFobEl0VGJDM194N2lpcUFSb3RhUnVOQk9CaWplOUlNZUdpWU5iaDlzbDJlWnBtYnhRd1l4ZmhqekdkT0xMVHlod25qY0kxNEFOTFNmNTFQUEN3bTlhZmNldmhOWERrUkk3NEg?oc=5",
+   "published": "2026-05-21T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f55fa8a51da78b45",
    "company": "Incannex Healthcare",
    "title": "Cookie Notice - Incannex Healthcare",
@@ -39190,7 +39267,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - Eli Lilly",
    "summary": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0MHZlRnFhQUVIclZpX19KdS00Rk1kX2R5SERTa3ZqT3FhMDNWc083ckYtRnZsaWt4eTM1ZDlHZWdjUi1GazVwTlJnZHdEdjNKMUk0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjdwYWFSNE1WN3JMRkFzUnk5NGk4cWo3N05TMGhrdHphaFJDajVYeUZDRnR3TG43Q0ZXUm1lZXN6QXM4LURmWldsX1NkaWgyY3R5VWpjd2Z4RmZOY1ZuZWZ3NjNYLUVYUm5NdHg0dFVURlpMbnY1dU5mUVJtV0lOLUVlNEk2U0RDMklxSXNrcEVIUW8yUWNYeE05TUZQOWhVMXhvaFZfaWdwbXJYUlVOUGZ4Z2h3UXA5?oc=5",
    "published": "2026-01-07T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
