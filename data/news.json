@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:24:07Z",
+ "updated": "2026-11-22T02:28:00Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2479,6 +2479,17 @@
    "first_seen": "2026-11-21T20:17:55Z"
   },
   {
+   "id": "3f30c64cdcd04eb7",
+   "company": "Neurocrine Biosciences",
+   "title": "Form 4 Neurocrine Biosciences Inc: Gary A. Lyons (Director) For: 17 November - Investing.com UK",
+   "summary": "Form 4 Neurocrine Biosciences Inc: Gary A. Lyons (Director) For: 17 November Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWncwRGUyWi1GTkF0ek0wTWZ5TURQaGRfLW9XYU5sTlFGLWp4S214UFJCSEpudU5uWEJNRzFRWHVNTV9DNEtYRGZUTnpiRXQ4WTJWRmhrelI4MGpkQlljXy1oMERyWjR6bEs2cFp3LTFGTHh0cXhkNFEzUHY1d01fdEhtRmxuLUxhZnVMalRpejVDaWR5bWNPOWNkNjd4V0pqQ0J3Mm1nOE5NOXBtM3VYQURSa1pxdkIyY2lHWi15aHZXemJETmlEQnUxUGE?oc=5",
+   "published": "2026-11-19T21:36:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T02:28:00Z"
+  },
+  {
    "id": "4ca86f9ca7d8bc74",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Launches Ketamine Sales, Targets January Shipments - MyChesCo",
@@ -4037,6 +4048,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNdVk5V0JaRVF5VDRnaVpTYjdBRmJkVm1VQ0NGOTZjWFZDbkRvOUpvcDhKblN4SWtGMEFSdkJVOFBjS2xTTm1BNEpEV1E2YnlNV1RjUE1aM0xUWHdCdjJ3X1p3dDkyUXlEUy1IdEpQWmNtemkxZzJvNkpDYkZDa0twTUR5YkFfaGx5RG5iWGVwS0I0eENDVXdtc2Z2UVAyeUxyUVBtbFRIbFFwMTdFdzQzZGIwcHVjOS1lTlV4ZUJUS1ZBRXF4UGtTUXUxcEN0dEo0VjlVaFRFODk5aVM1dTA3TzJGSXZ2VmdDc00xajlncTZuVHA0OXFFbUlxR1Vsa3NKX2pXbDN6dWxOTTdKWWw2LWY4NFB0amtEbVI3RHliUEJ6eE5GVTVtS0JNcw?oc=5",
    "published": "2026-11-17T21:15:09Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "657f9e80e78532fb",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Presents Clinical Data from Phase 1b Study of Rexaceract and Preclinical Data from Novel GCase Modulator GT-04686 - Yahoo Finance",
+   "summary": "Gain Therapeutics Presents Clinical Data from Phase 1b Study of Rexaceract and Preclinical Data from Novel GCase Modulator GT-04686 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZkZjVTBBRmF3Tl85dGhmSUMwek5VLWMzRlY0ZVZ6Ry0xUndGZmpHVkkyRVhrTjVrOWF2TktLRkJHVnE4N2dIYnhKcG9ZMlotZkV2aGhwR3YyVnlrYXlyb3hZMFZzZ0hOZkZSeUx4R0Z4bU04MEEzaVg5bVc0bENmNGRKaDJSZ0Q2VWM4Qjh6ckNVUnU2cU1xdUduTE9YRVgwTDNr?oc=5",
+   "published": "2026-11-17T21:15:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7205,6 +7227,17 @@
    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOC1xLXJYNDNYczdtYXg0UE5MSGxfNzZtV3lEOEh3R1RHQXBWNlhwU202cWV3TFFBeHFUcFp5ZjluR0s0dG5YdE9fSGhqQW1zQ0pxZEY5LWI5NEZKb1RuQzloak1UQ0Z0dkpQdDRWRjVqbnJid2xuVElDcjJYMjNBdGREYjQ5Q1pWN1lOaTlvQXk3VlFpa0JvRXdFR2lwb2ZfQWpHUjdDM0FFcGtsYnNud2dhQktpUGMyMnJBRi1uTDZvemE1QkRZajhfQkVjM09ubFpGS1VWek9rT0E5T2YtLU5DTUJZN0c5b19QcUYxOUhhRV9Ma09VUnZRaFZaMGd0T3Ixak9Rc2Y0ZDVSQk4wOA?oc=5",
    "published": "2026-11-11T13:31:48Z",
    "outlet": "The Joplin Globe",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "506cc5f655e7a4c2",
+   "company": "Lundbeck",
+   "title": "Lundbeck CEO plays down margin pressure from Vyepti’s success - MedWatch",
+   "summary": "Lundbeck CEO plays down margin pressure from Vyepti’s success MedWatch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DVFNTWjhiY3hfcEVoLUh6eUZRYXo3Mjg1T0VGSDB4RTk4ZkNxc0VieGNJYTVJM3Boa0tHdk5rRlRDVnVSVlVqdGFhc1hYUzlDazh5bk8zY2dwR0Y5VVVQUzA3NHRrMWVORU9MaTRpSQ?oc=5",
+   "published": "2026-11-11T12:47:42Z",
+   "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11147,6 +11180,17 @@
    "first_seen": null
   },
   {
+   "id": "93f44ea17ba27d59",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Why is NRX Pharmaceuticals stock surging today? - Investing.com",
+   "summary": "Why is NRX Pharmaceuticals stock surging today? Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFRnR09laGkyTHhudTFuNjMwRVVfbHcyTk9UbUpDT3JiZXNlbzBRNGdFdjN2WGs4bjJkTmZqVkxqbUE0R1BxX2VGRWxQcVdOeDRiYUJrRGZRYU5pM3FpNjRhYzJSaVdIUmtyY00yekU4Q3BKS3NlUV9DRTBpSEtaUFpKZmRVdkU2Wjh5WU1qeGhSQnNiWVhvUmdSclhCOFdxOWtzX0ljU1p2aGR1?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dacf5d1be1dbbfba",
    "company": "Supernus",
    "title": "0001356576-26-000051 - 10-Q - Supernus Pharmaceuticals",
@@ -12243,6 +12287,17 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON3BtcTV5N2lscUs3Yy1yVE5xZktTX0JmUTI2b3lLTEh3bnZ1M3FMQ05IRXEtQUJyUEZMQmtLTmVCRjNIajJnS3FkT1BmN0NQdHM5ODRsbmZMLUswbXdmRS10RFdIOU1lS2JiZGx4OUhVYzZMVmIwOXJDMWwzeVFsZzJtTFhzNHhpVEFKV0RQT3lHa3FLcFBjMUl3dDloUDNZVzBRUm54M3l0VUw2RlZvTUFBRUlBZTRtSFFHbw?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "05acee1f6cee5051",
+   "company": "Lundbeck",
+   "title": "Pivotal epilepsy data overshadow Lundbeck’s upcoming earnings - MedWatch",
+   "summary": "Pivotal epilepsy data overshadow Lundbeck’s upcoming earnings MedWatch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwTzloM19Xb0J5SnlMWmZnUExsLWR1aGpTaE81MjZaSS1sUVl1VFVlbDNwTFpXMEdaQk16b0FxRXJzSzVWSkNpVlZmazVtZlRwWTNaSng0TUJhZ05ObGVscmZhNjVKcHFHQURNSWlQMA?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14733,6 +14788,17 @@
    "first_seen": null
   },
   {
+   "id": "b841c4cf259f58f5",
+   "company": "Lundbeck",
+   "title": "Oral D1/D2 Agonist Lu AF28996 Increases Good ON-Time in Phase 1b Advanced PD Study, Phase 2 DARE2 Trial Begins - NeurologyLive",
+   "summary": "Oral D1/D2 Agonist Lu AF28996 Increases Good ON-Time in Phase 1b Advanced PD Study, Phase 2 DARE2 Trial Begins NeurologyLive",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVW96OG1CV2l3QjZucXpZVVpRWHhyM3IwY25nbDl0cV9fZXFrLUJJVGprMFVmSUF4bGFXWC1KWDVtSWFpMUpmdXBPa3FhSk5ITjNsQjR2clltY3ZZUzdLbUVDaXJCVUcwQTE2ak96REFSaTl1SFY1LTY5WFdCX3FmZXQxVGlxT3hsRzRRdXVPVkhHRjRvbmw1blhjS2hjdkFTSTFzUnpXdWJTZ1JDSElBWHJBZW9wdDNQdV8tOHM5Z2lXanR6RldzeGkzQnRPUWlWZEpIdGttZmE?oc=5",
+   "published": "2026-10-07T07:00:00Z",
+   "outlet": "NeurologyLive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "0bca950b36ee40cf",
    "company": "Novartis",
    "title": "Medical Science Liaison – Neuroscience - Novartis",
@@ -14839,6 +14905,28 @@
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeWo2TmplZFFEbVptMkNmN2hQRzdIQXl1VVhYNnhsVUt0VVZjUWFGYy1ydkFJNWU4ZFZnSmFIVTNmVmdqSEFiRWlpb2NhU0RRaW5tcnpxb1hLOXVKZktHS3RBcW5SSGxER1F5Y3MweGx3T1BabXZ1QmRwV2RQeS1kMWY3NWs3SThBVVpZNk5Rc0tlbEgxLTVSWHFCSVpJNVVFLUV1d2w5UUp3U2Noa3hXMVBCT1RTUEtoWUlQOVBDZTRmYzNWUUY1aGxsX0hGQjE0cThyZVZtT1RNckNIUGR2XzNJUlJKaTQ?oc=5",
    "published": "2026-10-06T07:00:00Z",
    "outlet": "www.marketscreener.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2e815c512a7bfbbc",
+   "company": "Lundbeck",
+   "title": "Lundbeck’s Lu AF28996 gains 2+ hours daily ON-time in Parkinson’s Phase Ib - The Clinical Trial Vanguard",
+   "summary": "Lundbeck’s Lu AF28996 gains 2+ hours daily ON-time in Parkinson’s Phase Ib The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa05GX011ZFNHRDlhN1NPbFhGOGRoLUwxTG1aS3YzeGdzYTZwd3o5a1lOYktncXo4OFpYZUJZVEZxaUI4UWN5aWNkZnpOQVlVWnVuS3lYRy1Kd3ZYWmU3TGlNcmIwaE1IRXdnc1loa1R0QWZ4Mms2SHhSbnZnWV9LS2tYWUU4c0lQX0d5Y1BPOEY4SmQ2blRLMFQ1eXBvMm8tQVJCMFpkVzVNeWFqTFJsYWZDZDhMQQ?oc=5",
+   "published": "2026-10-06T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5f4391a9a8f772ea",
+   "company": "Lundbeck",
+   "title": "Lundbeck reports positive data for Parkinson's candidate - medwatch.com",
+   "summary": "Lundbeck reports positive data for Parkinson's candidate medwatch.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EX3hXNkkwaXU2V25NYVhpV2M0S0JUbW42d0Y1NXhaN3FhQWNHSEx6Q2JxVzktRkgxVXJONk50OUJaZ2hFM0NXUUpIZFNVQlRybFE0ODNUbWEzX0IybU9WMldjZ2F1dExWcGJZVVNkYw?oc=5",
+   "published": "2026-10-06T07:00:00Z",
+   "outlet": "medwatch.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15063,6 +15151,28 @@
    "first_seen": null
   },
   {
+   "id": "8d99d4fd470c5ac5",
+   "company": "Lundbeck",
+   "title": "Lundbeck presents Phase Ib data for Lu AF28996 in advanced Parkinson's disease, as Phase II trial begins - Yahoo Finance",
+   "summary": "Lundbeck presents Phase Ib data for Lu AF28996 in advanced Parkinson's disease, as Phase II trial begins Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUZDa0dNaDkzc3R1RGhvNy03bVhnZkdYTm5aaDVPSzRtQm5TUC01bFh6aC05ZUwwLWEtQms0WXM1T0FjVEI4ZEJFRWctXzNsb3Fkc3hwQ1pUckt1MnBacDRVdDhUSjV2X0JGQTUtWU01ZUxmYjRGenRyODFOOFVPYW9sQ2Nzd1VTSkpQTkpLQlNpUDFKRWc0?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "65007150fc9628cf",
+   "company": "Lundbeck",
+   "title": "H. Lundbeck A/S (HLUN_A) Shares Phase Ib Data; Starts Phase II - TradingView",
+   "summary": "H. Lundbeck A/S (HLUN_A) Shares Phase Ib Data; Starts Phase II TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeEZuRnFDRXBkLTIxZ0FJVVVSM1dwM1pEcXNWWlRTWGQ1NWlvYm9FbkgwOHdUWXMzcjczVjk1YVdHYTVER1pBRGVHM3M5ZFYxZ05ra3BUa2ItVFJwaUdyeVpPcXdTbVJlRktmT0gxMXhmNTh3VlVYMXRvVzZHUmgyd0lkWDBTQm14dWh0dkZMd0ZBOTBNTk9faEFzVy1XX19ySkhaZXBPQk9rT0lFdDQ4dWs0S0JYN2s0RUJjbg?oc=5",
+   "published": "2026-10-05T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "60ac05e9ee393c77",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (Nasdaq:HELP) - Stock Analysis - Simply Wall St",
@@ -15125,6 +15235,17 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWk05MXRjNXRNOHJoc29UM2R5TnBfckd3SXFheFNwRG1FSmg3V1ZoNVczcjVlV2lWSGtzWmhHUVEwdVNHbUxhY3ZJR1ZlUWpIeXctaGFPdHY4a2NmVldEMU9hRjJOUmpTQUgtOW1wSUFEdERCakVlTTlfRTNCTm95N205OFBTRXgyMWRlSUpKSkxpVUtqdjJFbEpoRGNXOFNqX012RFg2R09IYTFnbmxGNk56YlFIbDNCQ2poWTVCQTVsY0NWcGFDUWFEdUZrZXZOMzFWbW43T28wQQ?oc=5",
    "published": "2026-10-02T07:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2e0932d6a6a8b70e",
+   "company": "Lundbeck",
+   "title": "Lundbeck presents MSA trial baseline data, Lu AF28996 Phase Ib results at MDS 2026 - The Clinical Trial Vanguard",
+   "summary": "Lundbeck presents MSA trial baseline data, Lu AF28996 Phase Ib results at MDS 2026 The Clinical Trial Vanguard",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFAyOVJPQmU5TGlYQjJldXhobll2cS1VSkVkcnR0OVdPRnI0bkthaDlVRU9tVmstQWJjZ2lqVkxpRGdibE1zYUYyVVduTDByV1hsVGMtMUVvVWc0aGxLNC1CeVZReUJmTmZGUmtFd3llZkVRS1I4NkQzY3pOMXRLcU9tTkstQTNMTGJ6bWFqdkJEVnJ4ZUVkRDBKSmpPdi1NN2pnRGtMX0xlQWtzejVhMVFzV1dsVkdzX0l3bmVURThFdk0?oc=5",
+   "published": "2026-10-02T07:00:00Z",
+   "outlet": "The Clinical Trial Vanguard",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15463,6 +15584,17 @@
    "company": "Resilient Pharmaceuticals (ex-Lykos)",
    "title": "Lykos Therapeutics - MDMA Therapy at the FDA - yespress.io",
    "summary": "Lykos Therapeutics - MDMA Therapy at the FDA yespress.io",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ba1lib0dKRmZycGZCQkdOZkg1elVYQnVZdGVNVnpiS2VRMHQ2WlZINl96SUZiUk9PQXR2SUFwY3VKckZkOHlUOWN5UWFxbUE?oc=5",
+   "published": "2026-09-29T08:21:16Z",
+   "outlet": "yespress.io",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "4eed5115c77543ef",
+   "company": "Resilient Pharmaceuticals (ex-Lykos)",
+   "title": "Lykos Therapeutics - yespress.io",
+   "summary": "Lykos Therapeutics yespress.io",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ba1lib0dKRmZycGZCQkdOZkg1elVYQnVZdGVNVnpiS2VRMHQ2WlZINl96SUZiUk9PQXR2SUFwY3VKckZkOHlUOWN5UWFxbUE?oc=5",
    "published": "2026-09-29T08:21:16Z",
    "outlet": "yespress.io",
@@ -19848,6 +19980,17 @@
    "first_seen": null
   },
   {
+   "id": "3bd80b9a2ab7e410",
+   "company": "Lundbeck",
+   "title": "Lundbeck continues neuroscience evolution as CEO keeps company ‘punching above its weight’ - Fierce Pharma",
+   "summary": "Lundbeck continues neuroscience evolution as CEO keeps company ‘punching above its weight’ Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0EyTVdlbGUzM1oxLWhYRzcwSlBtMWlvbzJIbHM4ZHBWaVlkWXh3RXpiV0RoRFU3aVdjWlVVQXR3OWNUSUtfT1VFVGMtNF9rdUFUQ09senZvSUxXQVl4T2lMV1lUUGRBNUJpSVZGMmhPbk8xc2UxTnJXN21uUjdRNEQxVmFOWWVlazhOdm9JUjh1b1FCVGI5dkU0UzVsV2czOGlEaVZjTUV3cjJxdXRIcEVQYm5LTFk2dlFDR3hnY3pKY1E?oc=5",
+   "published": "2026-08-21T07:00:00Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3a9f131f4193f474",
    "company": "LB Pharmaceuticals",
    "title": "LB Pharmaceuticals Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
@@ -19958,6 +20101,17 @@
    "first_seen": null
   },
   {
+   "id": "cf3d18299ee153e5",
+   "company": "Lundbeck",
+   "title": "Lundbeck faces an uncertain future as CEO bets on strong pipeline - medwatch.com",
+   "summary": "Lundbeck faces an uncertain future as CEO bets on strong pipeline medwatch.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXZVZzWlpZT3ZCS0diaHdTbXNDM2ZwdzhQS1JWS1UwU18wcG11aHNPYmxsUkZxbXpSU19ZUzVwSU04R0kycWFDQWhaZ1drUlgteXBVTlRxR0FLYmx3d3ZaNk00bDU1bmVLSXVZOTJySQ?oc=5",
+   "published": "2026-08-20T07:00:00Z",
+   "outlet": "medwatch.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e5c428e103496fbe",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "For many people living with depression, “fine” may not mean “well” - Johnson & Johnson",
@@ -20020,6 +20174,28 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekZ3ZzE0MmpkSC1FLURRMkpVcldLQW9iWi1TbHB3N1NWdDhNSWlEYnJJYmJ5Q3N4UXlEUDdXYzYzeUZSNkhfSW40Nlo0Tl9valJlSmNmMEFmMGFSVVR4RGEya1Y5YmlmZjE4N1EtWHExUUV2eTVFY19lY3RBVm5GWjdWejl2b1NJN2JiN2pyellsV2hEV2xBRENJN29oWEoyOGJRYlc1aDZkVVI1M3l6Z3gtQm1lWHhzT0E0Y0E1NGFtS28?oc=5",
    "published": "2026-08-19T07:00:00Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "62880f982d3e2717",
+   "company": "Lundbeck",
+   "title": "Lundbeck's CEO urges calm amid increased competition for its best-selling product: “We are well prepared” - medwatch.com",
+   "summary": "Lundbeck's CEO urges calm amid increased competition for its best-selling product: “We are well prepared” medwatch.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0QTB4S01WTFBzODBNbkQ0VGZ6Mktoejdfdk5MalR2WW1TVWxyR3MtZEJuQXNTMVVTbkpIa294MTIwWHVZX2tfTmJWQ0lMLVJEamFDOHNIUS1TY0tOMmZFOFo4VHpRWmliN1hETFNWbw?oc=5",
+   "published": "2026-08-19T07:00:00Z",
+   "outlet": "medwatch.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "be7c8caaa43efaea",
+   "company": "Lundbeck",
+   "title": "Lundbeck grows by 16% – two key products drive growth - MedWatch",
+   "summary": "Lundbeck grows by 16% – two key products drive growth MedWatch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zMDJsLVpQRTRCMUFxMFY2Y1dsdC01N3NHMENSZWZYSWVqSXB3aThDOGVCLWcwa1Q4Y0ZBQXpPb0VLTWRTVF9wMmtYOVd6M2tVTVV6SF9kN2FETVg2NW80YVZqSG44WEFBVUxBOEhNMA?oc=5",
+   "published": "2026-08-19T07:00:00Z",
+   "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20196,6 +20372,17 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYkQ2N3N4RnFMSndJRXpSUkxfWTU3bzNIZ1lNN2gteW1Nb0lKMHBYTFhiSWJyRGJqendGOThjcm15ektBVWNJcjYxVThodW1DcW56MDNSOTN5NE03TElMUW83T2JpcFA0VkhYNzZvVUFvb09aQTc1T2lyLWoxWkE5bHYwQTJZaWJIc3IzZHVsNGdaNm1kWHc?oc=5",
    "published": "2026-08-17T07:00:00Z",
    "outlet": "Nasdaq",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "adf899a00e3afb59",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRX Pharmaceuticals reports $18.0M net loss for first half 2026, $26.7M cash on hand - TradingView",
+   "summary": "NRX Pharmaceuticals reports $18.0M net loss for first half 2026, $26.7M cash on hand TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcWRldGdrRWZmVmZPbm5yZzNHYnZfOUx2M2RqNE83WnhTVFJkX2NlMTJzajVLWXlPMGZXdExFX09zQllSUG16eU1DaXlQYkg2OHlaTGNGTVIzTGlBcV9vTW16a3lMUzI2dlFyVDVkLUxOeDFEdGFhd09zTlYyN0ZVdEFrZ3lGaFRvU0lwb1V2NDZSaHVBU0FWak1ENkFqd3dWMmtpQUZyZm5ucjNQT3ZBa0ZFMzRNVFg3Mkl1Z1Fjd1d4b0ZhaTBTVG5COUV5MlVJNktWakJPZEZRUW8?oc=5",
+   "published": "2026-08-17T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -26195,6 +26382,17 @@
    "first_seen": null
   },
   {
+   "id": "af9796edf8de9151",
+   "company": "Lundbeck",
+   "title": "Tarek Samad takes on task of delivering on Lundbeck's R&D - pharmaphorum",
+   "summary": "Tarek Samad takes on task of delivering on Lundbeck's R&D pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeE5VSzN0YS0wME40MjFLUW1qRnhEUXdacGVUZHBGUkxfYUNpMHRIUmdPMWJiWldxcHFQUnNtODBJd01pWHBHcEFRZmZQTEU0b2NUTkpEUHNmd0JULWl3V0xySzV0WlRTX0kycUFsRF9ZeFp1LWNFakZ4TkdBaENUcEd3?oc=5",
+   "published": "2026-06-25T07:00:00Z",
+   "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "c7d04dc43c79ba02",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma™ Announces US$50 Million Underwritten Offering - Wed, 06/24/2026 - 06:01 - Helus Pharma",
@@ -27149,6 +27347,17 @@
    "published": "2026-06-12T07:00:00Z",
    "outlet": "EquityBulls",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fdd4adc74f7046de",
+   "company": "S.Biomedics",
+   "title": "Korean biotech S.Biomedics reports 24-month Parkinson’s trial data for TED-A9 - 더파마뉴스",
+   "summary": "Korean biotech S.Biomedics reports 24-month Parkinson’s trial data for TED-A9 더파마뉴스",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uajVfWTBzbHJQbGhoOHk1X09DX1ZsVVh2dWZJTWMyNzQzMl9UdFdpZDFQci1xMGJKWkVZVDQwUGUzLUZpblFTWGtGdTdSVGVzT2NJOFdZUE1PaHBacE9iNWZpUXpfSzUybTloTXpzVXlKeGlKbjJOdWw5XzJKQVE?oc=5",
+   "published": "2026-06-12T07:00:00Z",
+   "outlet": "더파마뉴스",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
@@ -28193,6 +28402,17 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzNkaEhXTF9YQ2Q2Y0p6c1RPbVdGUUU2YXA1bVlQeFAtYmNvenp0b3RWSXBRWGUyeVA2ZVRRMmNXRDRSREV4MkREUGlmT2ZzTktOVHo3Ui1CLXRELXFTLXNHTjVGMDFrY2tJYUJkY3pHT3YtQWN0VTBIbVJyTzhfcTJSQ0V6V3lWY203U1d2Y2JsVWl0TFE?oc=5",
    "published": "2026-05-27T07:00:00Z",
    "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "abfd10200965e5d2",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq: NRXP) Subsidiary HOPE Therapeutics Becomes First Commercial Site to Deploy Zeta Surgical's FDA-Cleared Zeta TMS Navigation System - Yahoo Finance",
+   "summary": "NRx Pharmaceuticals (Nasdaq: NRXP) Subsidiary HOPE Therapeutics Becomes First Commercial Site to Deploy Zeta Surgical's FDA-Cleared Zeta TMS Navigation System Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXM4ZlhXS3lsdEJoRXdnRFB2ek9yRzh5M21mcHhGQWl1UVlval9KVDhHMmZuZjhLRVRXODFvTmFnWE9PYlRubjZvYTllbFZfd2l5MGJDNm1NNldIRVY4WFZvOWFaTUs0cDI5bFNtT1RmckVNbkdPeDFXQlB6MG9sSlYwRDJuUkVoLXBDMHF2bFRBRm9vWkhESl8wLVRkbmEzODRRcVF4eWNHSE5JcDFaXw?oc=5",
+   "published": "2026-05-27T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -30243,6 +30463,17 @@
    "first_seen": null
   },
   {
+   "id": "82d07eabe13ab5ae",
+   "company": "Lundbeck",
+   "title": "Look out Rexulti, Axsome's Auvelity has its nod for Alzheimer's agitation - Fierce Pharma",
+   "summary": "Look out Rexulti, Axsome's Auvelity has its nod for Alzheimer's agitation Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0R5eW02aHBoVWpkbEdtUGUzNG9IZC1BajM4ZFUzVGRrb3d5SkJyX09jNzl0MS1LWUJkSG5UbDJOSmtLOTRxekl1MGJJSzdCY1JwTTlOVU5NdEdyVGtzLVVTcDJELV9BeUg4NFZBZlRSZUUzTFdsNWVxb3JIOVZ1UVhmN2lwSTRuQm9mb3pFeU1kUG5pTFdGTmpManFzTG9pQTBWS1pTUEhYcDho?oc=5",
+   "published": "2026-05-01T07:00:00Z",
+   "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4c6f4fb7928c6991",
    "company": "Seaport Therapeutics",
    "title": "Seaport Therapeutics Announces Pricing of Upsized Initial Public Offering",
@@ -31482,6 +31713,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82ak5yZ010OTJYUEduVDBWSXdJQ2I2OVhWWFVpRW8zbGcxSmt4dmYyeW5WZ2l4VEhVbTZlcDltcURsVnN6X1hrdHJ5SHlqbHd4cEJZUFlCckdqeUk5WVktazRCNWo0TmlmRkhKYUhPVQ?oc=5",
    "published": "2026-04-14T07:00:00Z",
    "outlet": "medwatch.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "74d64ceeb28ef78a",
+   "company": "Lundbeck",
+   "title": "The Mechanism and Promise Behind Lu AF28996 in Advanced Parkinson Disease: Johannes Streffer, MD - NeurologyLive",
+   "summary": "The Mechanism and Promise Behind Lu AF28996 in Advanced Parkinson Disease: Johannes Streffer, MD NeurologyLive",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2ZkakQ0RXJiN3RxOUpJeVlNUW1xQjZJX3Zma2s4VFE3TGNkR29pVnJtQW45TTFEczB5ZE5sTUd0S3o0bVhYQnJ5ZmVTdzNMUGZFNVZkUWxBZXoxbXo3NVFfNXV3bXZfME51M0lteklwNXI0MlVMV0tTTWVhUFhIN0RfRkx5LVp4WFRldE9zbmJvVGh1SkxVd1JTUFhTRmd0NkJEWXhDa3dCOU1peGUtSVRLcXhSUQ?oc=5",
+   "published": "2026-04-13T07:00:00Z",
+   "outlet": "NeurologyLive",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -34013,6 +34255,17 @@
    "published": "2026-03-04T08:00:00Z",
    "outlet": "TradingView",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "446776dc8a4d4222",
+   "company": "Lundbeck",
+   "title": "Otsuka Pharmaceutical Canada Inc. and Lundbeck Canada Inc. secure public reimbursement of ABILIFY ASIMTUFII - BioSpace",
+   "summary": "Otsuka Pharmaceutical Canada Inc. and Lundbeck Canada Inc. secure public reimbursement of ABILIFY ASIMTUFII BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVUpmRTNmaGg4UFFLdi1PNDlGelpEcnNZUmxiNy0yWkVPY2MySmhHNld5bW4xdndTSlZVR3I4UTJSNzF4dFFIZl85VkRzWkhIQUE5Q0ZwcXhlM01PLVFSNlZEb0t5RjVwVl9kTEt0dGs1TnVPTDh6T3JpZV9hTFN6VDg4N29XWTZlQ2lkZDhTcGJHbjFNdTZrbGdWN2h1ajNqVFBDWGlWRGNGRFd6QVg4aEJib1B5c1BSNV9ST25xY3l2UWM2NnFVTmk2TUY1N2g3SGlUQzhpbUFVNmxaQ1E?oc=5",
+   "published": "2026-03-04T08:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
