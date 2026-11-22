@@ -105,7 +105,7 @@
   "feed": "https://news.google.com/rss/search?q=Vertero+VT-5006&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Vertero VT-5006\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T16:16:19Z"
  },
  "IRLAB Therapeutics": {
   "feed": "https://irlab.se/feed/",
@@ -135,7 +135,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Neuron23%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.neuron23.com/news\", null, null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T16:16:19Z"
  },
  "Abli Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=Abli+Therapeutics+risvodetinib&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-22T15:27:52Z"
+  "checked": "2026-11-22T16:16:19Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=%22Zambon%22+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -359,7 +359,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Usona+Institute%22+OR+%22Usona%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.usona.org/news/\", null, \"\\\"Usona Institute\\\" OR \\\"Usona\\\"\", null]",
-  "checked": "2026-11-22T09:32:06Z"
+  "checked": "2026-11-22T16:16:19Z"
  },
  "Alzamend Neuro": {
   "feed": "https://ir.alzamend.com/news-events/press-releases/rss",
@@ -482,10 +482,10 @@
   "checked": "2026-11-21T00:02:36Z"
  },
  "Neurocrine Biosciences": {
-  "feed": "https://news.google.com/rss/search?q=%22Neurocrine+Biosciences%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Aneurocrine.gcs-web.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://neurocrine.gcs-web.com/news-releases\", null, null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T16:16:19Z"
  },
  "Reviva Pharmaceuticals": {
   "feed": "https://revivapharma.com/feed/",
@@ -629,19 +629,19 @@
   "feed": "https://news.google.com/rss/search?q=%22Britannia+Pharmaceuticals%22+OR+%22APO-go%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.britannia-pharm.com/\", null, \"\\\"Britannia Pharmaceuticals\\\" OR \\\"APO-go\\\"\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T16:16:19Z"
  },
  "BioVie": {
   "feed": "https://news.google.com/rss/search?q=%22BioVie%22+OR+%22bezisterim%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.biovie.com/news\", null, \"\\\"BioVie\\\" OR \\\"bezisterim\\\"\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T16:16:19Z"
  },
  "Novartis": {
-  "feed": "https://news.google.com/rss/search?q=%22Novartis%22+%28%22GXV813%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22psychiatry%22+OR+%22neuroscience%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Anovartis.com+%28%22GXV813%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22psychiatry%22+OR+%22neuroscience%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.novartis.com/news/news-archive\", null, null, [\"GXV813\", \"depression\", \"schizophrenia\", \"psychiatr\", \"neuroscience\"]]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-22T16:16:19Z"
  },
  "Incannex Healthcare": {
   "feed": "https://news.google.com/rss/search?q=%22Incannex+Healthcare%22&hl=en-US&gl=US&ceid=US:en",

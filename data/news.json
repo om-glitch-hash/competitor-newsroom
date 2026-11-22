@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:27:52Z",
+ "updated": "2026-11-22T16:16:19Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "c805cff20b8bae13",
+   "company": "Novartis",
+   "title": "Associate Director, Applied AI (FDE) - Novartis",
+   "summary": "Associate Director, Applied AI (FDE) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGNSOWhNejcyb3FkdVJmMnpxME5JZDZTQzQwejZaSGE3RDZKRkYwT2h2MzY4TFVsQlFqLTZlWThpb25wemd3SkVQOTQzSGpTb2RXelZjVWlnMTFDZWYzbUdyQy01Z0U4bWxtMkNSdDhTaWJtWVloSVljbjVINnpfOWx3bjhoYzRCbWpRYXUzSFdPQmpocDExRWdhSHppMUhhSDhQaVQxa3Q?oc=5",
+   "published": "2026-11-22T15:55:27Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-22T16:16:19Z"
+  },
+  {
    "id": "6b8e30f786b162d5",
    "company": "Usona Institute",
    "title": "Similarly Situated? Anonymous Citizen Petition Takes Aim at Usona’s Psilocybin Application - Psychedelic Alpha",
@@ -1828,6 +1839,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T10:23:20Z"
+  },
+  {
+   "id": "b3ffa2f042b7f5f1",
+   "company": "Axsome Therapeutics",
+   "title": "META_TITLE_QUOTE - Yahoo Finance",
+   "summary": "META_TITLE_QUOTE Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsV0NHamJ1WHB4NnJkaUtvd0VacUh3bWFJR3A3RHNqVldhbldOUzA3Q0h3MUg1WmhPU1h2LU0tQXZPZ3pGOE1oLU1QdVVTUQ?oc=5",
+   "published": "2026-11-21T06:32:27Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T16:16:19Z"
   },
   {
    "id": "e4bdfcc3f83ebeaf",
@@ -6615,6 +6637,17 @@
    "first_seen": null
   },
   {
+   "id": "917a8c04432e399a",
+   "company": "MapLight Therapeutics",
+   "title": "Form 144 MapLight Therapeutics For: 15 November By Investing.com - Investing.com Nigeria",
+   "summary": "Form 144 MapLight Therapeutics For: 15 November By Investing.com Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0JCVVZyY2wxaE5maHVNS3hLY0FBY3BuMzh4Qml5bmxxemM4N0lDWVZIRFRGVmN6NEhqVnBtM1hSckpJQ2QxZlN2aFY5blVhbjUxanlyeUxlLVRMQzE4ZFRMUXlid2JRZHBSaEhOX1hBYU1pMDRWZnBLd3c5UThqZnE1YmNDN1ZVUVRERXFKZ3pkR1ZjMVgzQTFFbWt3QzRoSlkzcDNHUklJUUE?oc=5",
+   "published": "2026-11-15T11:34:43Z",
+   "outlet": "Investing.com Nigeria",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8b7caf699d864639",
    "company": "Xenon Pharmaceuticals",
    "title": "How Wider Losses At Xenon Pharmaceuticals (XENE) Have Changed Its Investment Story - Simply Wall St",
@@ -7561,6 +7594,17 @@
    "first_seen": null
   },
   {
+   "id": "7480e82e2c8dde4e",
+   "company": "Novartis",
+   "title": "Account Manager, Neuroscience - Novartis",
+   "summary": "Account Manager, Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDljdUQwbFBCZlotb0FlcUxhUHlxWTFoUDZ0T1pIMXBKU3pJVDNxMkcxRFhtbm54OHlfTmkzRHl0akRYcnlXdWVfamxqekJ3dXZWdEMxN1RKa3JmQ3BCUUZ0R0Y4ZjdGRUtZVHZLNUF4SHJ1RGhIcERQNTJDdTVYNnRrR1NYRHVpVDJsT2k4LVpYWWZNdEJldjBYeFZJemQ5LVY5dTFVaHFwZw?oc=5",
+   "published": "2026-11-11T22:29:45Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "e9d51e1631e74f28",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics at stifel 2026 healthcare conference: cash-rich push - Investing.com",
@@ -8111,6 +8155,28 @@
    "first_seen": null
   },
   {
+   "id": "e2b853982eef6f24",
+   "company": "Novartis",
+   "title": "LEQVIO® (inclisiran) in the Real World | Novartis Pro Portal - Novartis",
+   "summary": "LEQVIO® (inclisiran) in the Real World | Novartis Pro Portal Novartis",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXJNYnJ6NTd6eXl1WkNCakk2TXJnQ1NMeEZ1T3ZTSGMweEY2T1ViMkZZdmF4aVpvbmNtTVN1SHBZRXR6UFgzUTBYbndPZEFETkR1NUk5cjRWRWQyNjVrbVpDYS1DMVhzM0Mza1BuS3k1N3RyYWRWN21pOXVhTTlXQURER1RSQQ?oc=5",
+   "published": "2026-11-10T12:36:28Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c832ce7bff3c867d",
+   "company": "Teva",
+   "title": "FDA Tentative Approval for OLANZAPINE AND SAMIDORPHAN issued to TEVA PHARMACEUTICALS INC - Quantisnow",
+   "summary": "FDA Tentative Approval for OLANZAPINE AND SAMIDORPHAN issued to TEVA PHARMACEUTICALS INC Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOVI0bnZzZzZYR2VxeXd4UUI1UUFoUkpRTWFzbUdtZlR2TUFhejNRc2IxN0x1OThtWkZvUnpTNmZCQzlUSkNNRWdXazEyZEh4OGlKbmtVMXQtMHl0eEhNTmlSR2pWWERpR0NxQkRGT2ZtYmJGdUgtd1VoZ2hjYTg1a09OcWtOSHlZeXg2REJpR3ZpR2NOVGlVczkwaEhUYTIwVnY2c2I4ejM4cmo3ZEJUUg?oc=5",
+   "published": "2026-11-10T11:01:10Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "cd2d87741550cb99",
    "company": "LB Pharmaceuticals",
    "title": "LB Pharmaceuticals Inc $LBRX Shares Newly Acquired by Candriam S.C.A. - MarketBeat",
@@ -8371,6 +8437,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWt2bTN4bU56aXNhWmFFV2NuUkdLczB3UmVmVXFnWFpRcGRzYnBWNVRYSXhYekJTeWcwbFlxMTFvNC1LM1M2cUl5aEdlVzhpNzlvZS0ycm5ycElPbWZzNEVaZkZaS2lQMzZrT0NfMVBabFJBaUtqX2VQcWROLUFGYnhCV0hKNU4w?oc=5",
    "published": "2026-11-10T02:08:00Z",
    "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "33e35f648cf82972",
+   "company": "Novartis",
+   "title": "LEQVIO® (inclisiran) Quality and Outcomes Framework Indicators | Novartis Pro Portal - Novartis",
+   "summary": "LEQVIO® (inclisiran) Quality and Outcomes Framework Indicators | Novartis Pro Portal Novartis",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTmFNTXJNaGdDbXRpaWdBai1Sa2VvcGRIRG10LUptUFF5X0QzaFBTUUJ0ZEV3QmgteWVvVG1CUlFQTmlFbVcyS3VOUEtjamJHS0pGMVBIYWFtSjI2XzM1VDhzb25ibUZKMXAtNUJVa3lraWpvSUU4b2ktVXB0bE9wVVJpOHBwMkh0ZGhTeUpYYXZOa2JHUlE?oc=5",
+   "published": "2026-11-10T00:34:22Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -9035,6 +9112,28 @@
    "first_seen": null
   },
   {
+   "id": "bb5042ad738db570",
+   "company": "Supernus",
+   "title": "Supernus undervalued after Indivior merger, says Bank of America - Yahoo Finance",
+   "summary": "Supernus undervalued after Indivior merger, says Bank of America Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjA1UHJISUdDcXA1SDBTcjZzNTMtdFUzZDNzUGY1MEh0Qk9DOUI5Sjd2MVZrMXI1T2tCQzVabnNpY0VEV1VXQ3kwVWJ5emhjUHFobWxmYmdoeElTYWNNd0hWdkdvMElFdExSc0drWnR0RWsyaWhzZG1yZ2R0UWgwSE1Jb09uU1QtQ2VfVS1xYURRTVEyMFlqb1RFamNldVJaRzhDag?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "03db84c5249a551e",
+   "company": "Denali Therapeutics",
+   "title": "Weekly Recap: AVLAYAH tops Q3 guidance and DNL151 development ends - TradingView",
+   "summary": "Weekly Recap: AVLAYAH tops Q3 guidance and DNL151 development ends TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORE5yQzF0SUp6dHdaaUd6bFNSd2FxSmk5UXlNZTFNM3kyRTNJRkhaTjBSUHhINHVsenZGUERpcmhJaGY2b1ZsamhCVUFpaS1SWUhKcGZ6TExkclY3QkF2QVVMNTVlVWtZVmh0clBXc1FId2hXZm8wcGpGRV85bUZKNDNMN1hzQkZROEc0bktJU3BFYkd0LU40anVjaDV1RGpwUHlMM2E5RGlYaVNBVFc2aGRLSXBsckdYMUd1b3ZvNGVqUnh4RWc?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1fa920bb008d38cf",
    "company": "Incannex Healthcare",
    "title": "Firsthand Findings: How Incannex Is Designing Trials That Support Regulatory Approval - Clinical Leader",
@@ -9471,17 +9570,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRTlKcGpJYlUzOWx1eTNELVJTMi0xcmhkOFJtRjNGUWlhb1IwT0VlWjNweDd1SkVZbFdpdzdBUm4wSnNxdEQwMlVUNDVEeVpDLWUyaTd5SDcxLWExbVpQeTU3aGJzYTA?oc=5",
    "published": "2026-11-06T06:10:28Z",
    "outlet": "Annovis Bio",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "7480e82e2c8dde4e",
-   "company": "Novartis",
-   "title": "Account Manager, Neuroscience - Novartis",
-   "summary": "Account Manager, Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTlGUFdEYS1lUDZ0TEFSdGNBbXBqM3Vwc3Y2cVdrQnROUTdmbm8zZWVueEZaOGE5aTBMMVF4MGkyLUpoVUMtZFNJbmxaWHpCNno5UXpuMGZ6d0U4bGpLM3l6cGpJZGFJQTlkY2VnRjdGb19uVE1weUVScFNhTHFEaXUteDRVWEFaNDBiWVhRVXFBeFpmNFp3Q0pTcGpRUVM3cU94TkZlMWxqZw?oc=5",
-   "published": "2026-11-06T03:43:27Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -10333,6 +10421,17 @@
    "first_seen": null
   },
   {
+   "id": "2964af61e0b69b9c",
+   "company": "Novartis",
+   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
+   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEtfRkQzN1dHWWlDRjJRMlNDQ3htOUs3SjlnYnRqbURsM09HMFctWnZCOGFnWTdlZjA0bno3NzJHaW9IdzlZX1Y3Wm1TRHl3SDlLb2F3OHpkTlVla2I5dFJSUTgwVWc4bFVTWklERHVHa2lzM3RGbUc0c2NLQTFGM09RQTF0OEF2S3oycy1YMnRGSTFPRDExMzJxSUE0TjhfeW9IQ3Q1emNoVGxCZlR6clA0Q0o4STFhWl90R0E3dG5MZzREcnUwMndpMnA?oc=5",
+   "published": "2026-11-03T18:44:07Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "2669f52c21077c64",
    "company": "Neumora Therapeutics",
    "title": "Why Did Neumora (NASDAQ:NMRA) Jump 15.07% and SeaStar Medical Gain 12.76% on November 3, 2026? - Kalkine",
@@ -10373,17 +10472,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWktsMkk2YU9vdmNJNmFkMEs2YmVIbm9Kb1BoY2p3R0U2V051WndHajAtSVlsTzdzelR0ZHZkSEYybGdGenJnazh3a1N1NUZaOHRqb0VoMHB5UDdLdWpYSDlXSEp2V1lmdUxnVnY0TlhrdVd5bTNua082cUQ5UkREZW5tb3NsVjN2U0lEa29nWjk2cUV4VUtMTEdpWW8?oc=5",
    "published": "2026-11-03T16:01:40Z",
    "outlet": "Helus Pharma",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "2964af61e0b69b9c",
-   "company": "Novartis",
-   "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
-   "summary": "Sales Representative Neuroscience (German speaking part) Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNlJOSnBqeHdnUW85OHNEYkIxMEZtcU11YVR0N0JhTUwyd3lHZHNIZ0F1bWZuVUxLNE5MUzJWNHBvNHRyRFpxOHF2cEFmN0F2ZlN1cUhYLWN3emp3YmtoRWFQOTFSSm1WOE5RU2xFWmZjUHJDOFdZem95ZHJmTFlISTBYRHFkYldRQUVoUjVUaVlGM3lla3l3Yk5WaDJEX3FvTzZ4RGJubGIyMjVaQjFodnlOYVd1NDF1QzRLeWlsclN6cm9pdWJHcHIzV2Y?oc=5",
-   "published": "2026-11-03T15:54:58Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -10967,6 +11055,17 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBucGlobVJKRmpidjRtYzdCeVhMVDhMOVBucmVCRWlqLTFLUXUxcUc4MzA1UldkY1Y2V2dZeUVCUnJmT1RycFVIbzUtWnA2elZmeWNkUWN5QjM?oc=5",
    "published": "2026-11-03T08:00:00Z",
    "outlet": "tokenpost.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e2e060e73858b0f3",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
+   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkVBd1kyN2w1aVY3LXp4VTBhZ1l6QTNPRnlzQl9JbERCeWw3Z1pHYnY3WGVDYUphWXJJT1RJRHljcXRKOFVqSUNiTHpILW1VQ2hTa2R6dWFhQVpKYVlUNE9sMmgtQmFaeHFKZHpzZ25JZlNsSkk2NTRzRFpoZ0NESE9TV3F2SGRMQUQtZ1U2QmZLeF8teFhBUTdFbkRrZC1aQmg3NXdpM2haeFY2WXlV?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15437,6 +15536,17 @@
    "first_seen": null
   },
   {
+   "id": "0bca950b36ee40cf",
+   "company": "Novartis",
+   "title": "Medical Science Liaison – Neuroscience - Novartis",
+   "summary": "Medical Science Liaison – Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeHQtWEdrdkNEUVNrZmlxYVpWMHhNdTJIZ21pM25DUUx2cUMtandtNHRFNUpWYXZoSlcwQnNxMnJTNlNSY2xTeXpPS0ViNHVPNUhvTVNxZ2V4QkhrbElrWm55cUFwRUQxWnFfTllXemtSNnF0cUVVOF9QYVdyMS1sSk1PRkE1YzduSE5SRGFKeEh1UTFsWnRYY1JvNGpKNnFsTkJ6dXZCTjBRTzdhQ0RRa01iUWw?oc=5",
+   "published": "2026-10-07T23:13:21Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "0d3e8e2abb798513",
    "company": "Novartis",
    "title": "Neuroscience Territory Account Specialist – New Orleans - Novartis",
@@ -15643,17 +15753,6 @@
    "published": "2026-10-07T07:00:00Z",
    "outlet": "NeurologyLive",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "0bca950b36ee40cf",
-   "company": "Novartis",
-   "title": "Medical Science Liaison – Neuroscience - Novartis",
-   "summary": "Medical Science Liaison – Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREFvT2ZFZmhxY3l3SnJOV3JhcEg1dmhobXcyNDFYRl9uSk94V0tQam1GLUs3Zi1GYzFlay1JZlRoV0o0aTZFa09MMnZRTGVvdVBBQUNCamc5dUgxWmlVb2hQOGRCLWhqTGtndldEc1dZX21WaTRhSEQ0OUxmSXRNaGJrUGNwZ0F0aGJ6MGo4X09UUVN6N3RCSGNCOU1fZ3k2NmJ2X0dUWXp5QWh0WklaYnpxUlQ?oc=5",
-   "published": "2026-10-06T12:46:42Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -20255,17 +20354,6 @@
    "first_seen": null
   },
   {
-   "id": "e2e060e73858b0f3",
-   "company": "Axsome Therapeutics",
-   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
-   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHJHV3l3OXA1bS1vWl92V1ZDMG85MmcxMWQ4V2xfRnRrVHR0SkI3UjhHd1NKdTJFTGFzLV9MQTlJbWhpTXR3LVFRdzF4Nk1ZYzAwQnFDZGxZaDdGY3FKc0pBb2ROczl3UHRBNlJCaEpubjhBaDFpYzJNaWtpZS1lNlg2OEs5U2s0eGh2anRhLUhfNkdDeFVGWnF2VzJGazRMUnJ3VlJZNzN5RFZmZlRR?oc=5",
-   "published": "2026-09-02T07:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "07d8ee97f0104ed5",
    "company": "Sensorium Therapeutics",
    "title": "Mass General Brigham study finds chronic pain linked to altered skull bone marrow activity - EurekAlert!",
@@ -24651,6 +24739,17 @@
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdWwxQ0wyYlJQYWFVcktxR3o4N3dqckU0WTlXMnBKM1B5T3RmUHZJaWZ0WUxHMExKS0dQVVZHQkdwaEl3RVBnN0x1UDlZdUJBbHVqYUpHcnFqMnotTVdVd256TGRIQ2x1cXdZWEhNSFlqZ3lDejdvSndiaGFwMEZTcXU1QnVPb0Z3UXo0WC1TeThkU2JkVEV2OTduY2xGcGtvQVdLM2ljQjA5eXdPMVMwNm95azFoSUhReGN1YzYtWUd5UkE5UV9DUGZmaGhJYU5ncUV5Q3NSNlFMcmNkYVpqaXg5dXBHQkxLcUw40gHwAUFVX3lxTE1heWlkQ0ZXb2lLdTYtYlJRajEtTmFrWFl2QVZGZG9QaURGeE4xUUlEc3ZrT3pvemVDNmpycUNYSGxMMDVBNmI0SWZ1bGxXQl9pRWJadm5IWURLS2haWlV5ZUpvbHA4OGFMWWRIeTZOcjF5enNtNklBLXBYZDFQVlJBT1VIZVkxbnFCbFFOc3JfTHFxaUpmbnFDX3RQVXpNclRuMzlaUVlnSGxPQ1RzSUpVamR1UWZnd0VYZ2tQTktxeGVQNmJoZGttcjVSYVZ4YzJrYTR4clpnamtuNXZQZmxHX0NFM2szS0RFWlhsbTRtVw?oc=5",
    "published": "2026-07-28T07:00:00Z",
    "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "20c55f787247684a",
+   "company": "Remepy",
+   "title": "Training app paired with levodopa eases Parkinson’s symptoms - Parkinson's News Today",
+   "summary": "Training app paired with levodopa eases Parkinson’s symptoms Parkinson's News Today",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFhlaHJ4aUVCQWNZSmx3eEVSUVFKMXdQYnhrMC1Ecnp4UmV1LXN2bFNzcEpuN0FGX1MwRnhzNWFwYkQ0TzRKbTJLNG5sV2tpbWgyNGJ2ZnNuaGlsTlBBOE1OaXJLV1VraExJaUdaNEdNV3N1TkFyMDNvWHZMUElYTmNkWVVJaXhpS0RxWnAzLWxBbkpvQTNB?oc=5",
+   "published": "2026-07-28T07:00:00Z",
+   "outlet": "Parkinson's News Today",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -31222,6 +31321,17 @@
    "first_seen": null
   },
   {
+   "id": "d48eb399ee9491c2",
+   "company": "Remepy",
+   "title": "The Israeli startups to watch out for in 2026 - CTech",
+   "summary": "The Israeli startups to watch out for in 2026 CTech",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HMVFnZUl1NlJEOVd4SFllLVRWTkJsVzlNNGxjdGI2NVVDR19mQk04STUwdGR5d3Zva1J3N2xrOFNmYmo1bjZmRjJmOGJPTk9TRUFIYi1ZOXJpZ0NuT1RUZmxsZlExYzdE?oc=5",
+   "published": "2026-05-13T07:00:00Z",
+   "outlet": "CTech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "36ee5b3efb4657e5",
    "company": "Novartis",
    "title": "Medical Advisor - Neuroscience - Novartis",
@@ -37492,6 +37602,17 @@
    "first_seen": null
   },
   {
+   "id": "248cb80487db9943",
+   "company": "Lundbeck",
+   "title": "Lundbeck expects revenue growth of 5-8% in 2026 - medwatch.com",
+   "summary": "Lundbeck expects revenue growth of 5-8% in 2026 medwatch.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tRml2X251emxlT0dmbk1ZQ0lZNnFWWHYtNlNsTDRlbS1JNFhVaFdDVWRzUkJqcHRzQ0hTemZ1Qzg0OXRveFJNWmplSmxQSDhJNDhZdV9xMl9mbHZlczBYaS1XNFk2dDh1QUk2S3hRTQ?oc=5",
+   "published": "2026-02-04T08:00:00Z",
+   "outlet": "medwatch.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b07b63ba769b5dc4",
    "company": "AC Immune",
    "title": "AC IMMUNE SA (ACIU) Stock Price: Nov 18 Close $2.10 - Gotrade",
@@ -38313,6 +38434,17 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQzBST2dGb2FrRUF5SjZST01vbUgxa1E5c2V6MG0taUVDcUNvV3FMeld2V1N0N2p0Rk1TbFVNR3duZUE5d0dyMGhUU202OUhVTUY2dU56WS1Qb09aNFZabFJnY0tlaHVDRHR5OVEyTEltT29rOWV5N2Q3SkExdkw5UjZVZ2Zyb2FZR3o2VGszaE1ESFBrVmhoYm0yNUtNd0xRMGc?oc=5",
    "published": "2026-01-12T08:00:00Z",
    "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "dc655a608210e390",
+   "company": "Reunion Neuroscience",
+   "title": "Reunion Neuroscience Announces Program Updates and Highlights Anticipated 2026 Milestones - Yahoo Finance",
+   "summary": "Reunion Neuroscience Announces Program Updates and Highlights Anticipated 2026 Milestones Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDFVdDFXSEhwSVJ6WlI2cmhWOVg5eVgtbmFESXdScDRrbzY4WGVvX2tCNDV0Z0VMQV82VmVUUXVZVGdCczFJTm5nN0VoMXFHUjktLTl0a24xa1d2ZkpIby1aa3JVaXROMGRmdFlETWkyVVJZcUllaE9Xb0tqVHR6dHo1bExzWWs2bXhNYzZVR214RWJfa25v?oc=5",
+   "published": "2026-01-12T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },

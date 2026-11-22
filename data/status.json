@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:27:52Z",
+ "updated": "2026-11-22T16:16:19Z",
  "sources": [
   {
    "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
@@ -10,7 +10,7 @@
    "items": 2,
    "latest": "2026-11-19T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "NeuroDerm",
@@ -21,7 +21,7 @@
    "items": 2,
    "latest": "2026-11-20T14:52:33Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Supernus",
@@ -32,7 +32,7 @@
    "items": 38,
    "latest": "2026-11-20T11:30:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Dizlin Pharmaceuticals",
@@ -40,10 +40,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Dizlin%22+OR+%22Infudopa%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 1,
+   "items": 2,
    "latest": "2026-09-28T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Amneal",
@@ -54,7 +54,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Zambon",
@@ -65,7 +65,7 @@
    "items": 6,
    "latest": "2026-11-15T10:15:51Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Serina Therapeutics",
@@ -73,10 +73,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Serina+Therapeutics%22+OR+%22SER-252%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 14,
+   "items": 13,
    "latest": "2026-11-13T11:48:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Stada",
@@ -87,7 +87,7 @@
    "items": 1,
    "latest": "2026-03-17T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Medtronic",
@@ -98,7 +98,7 @@
    "items": 1,
    "latest": "2026-11-04T13:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Boston Scientific",
@@ -109,7 +109,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Abbott",
@@ -120,7 +120,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Newronika",
@@ -131,7 +131,7 @@
    "items": 3,
    "latest": "2026-10-07T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Insightec",
@@ -142,7 +142,7 @@
    "items": 7,
    "latest": "2026-09-08T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "NeuroOne Medical Technologies",
@@ -153,7 +153,7 @@
    "items": 9,
    "latest": "2026-11-03T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Sumitomo Pharma",
@@ -164,7 +164,7 @@
    "items": 2,
    "latest": "2026-07-15T05:30:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "BlueRock Therapeutics",
@@ -175,7 +175,7 @@
    "items": 3,
    "latest": "2026-09-30T10:00:01Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Britannia Pharmaceuticals",
@@ -186,7 +186,7 @@
    "items": 0,
    "latest": null,
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "UCB",
@@ -197,7 +197,7 @@
    "items": 1,
    "latest": "2026-01-09T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Merz Therapeutics (Inbrija, ex-Acorda)",
@@ -208,7 +208,7 @@
    "items": 17,
    "latest": "2026-10-08T18:59:21Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "IRLAB Therapeutics",
@@ -219,7 +219,7 @@
    "items": 8,
    "latest": "2026-10-15T10:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
@@ -227,10 +227,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Johnson+%26+Johnson%22+%28%22lenrispodun%22+OR+%22ITI-1284%22+OR+%22Caplyta%22+OR+%22lumateperone%22+OR+%22seltorexant%22+OR+%22aticaprant%22+OR+%22Parkinson%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22bipolar%22+OR+%22anxiety%22+OR+%22Intra-Cellular%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 11,
+   "items": 12,
    "latest": "2026-11-21T10:10:32Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Cerevance",
@@ -241,7 +241,7 @@
    "items": 17,
    "latest": "2026-10-08T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Kyowa Kirin",
@@ -252,7 +252,7 @@
    "items": 0,
    "latest": null,
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Pharma Two B",
@@ -263,7 +263,7 @@
    "items": 1,
    "latest": "2026-01-27T08:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Annovis Bio",
@@ -274,7 +274,7 @@
    "items": 23,
    "latest": "2026-11-21T16:30:55Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Biogen",
@@ -285,7 +285,7 @@
    "items": 17,
    "latest": "2026-10-05T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Denali Therapeutics",
@@ -293,10 +293,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Denali+Therapeutics%22+%28%22BIIB122%22+OR+%22DNL151%22+OR+%22LRRK2%22+OR+%22Parkinson%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 13,
+   "items": 24,
    "latest": "2026-11-16T20:12:55Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Lundbeck",
@@ -304,10 +304,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Lundbeck%22+%28%22Lu+AF28996%22+OR+%22Parkinson%22+OR+%22Rexulti%22+OR+%22brexpiprazole%22+OR+%22schizophrenia%22+OR+%22depression%22+OR+%22PTSD%22+OR+%22anxiety%22+OR+%22psychiatry%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 3,
-   "latest": "2026-10-30T07:00:00Z",
+   "items": 21,
+   "latest": "2026-11-11T12:47:42Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Gain Therapeutics",
@@ -318,7 +318,7 @@
    "items": 19,
    "latest": "2026-11-18T07:24:43Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "AC Immune",
@@ -329,7 +329,7 @@
    "items": 22,
    "latest": "2026-11-11T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "BioVie",
@@ -340,7 +340,7 @@
    "items": 27,
    "latest": "2026-11-10T13:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Vertero",
@@ -348,21 +348,22 @@
    "feed": "https://news.google.com/rss/search?q=Vertero+VT-5006&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (no newsroom found)",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "latest": "2026-10-30T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Neuron23",
    "site": "https://www.neuron23.com/news",
    "feed": "https://news.google.com/rss/search?q=%22Neuron23%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
-   "ok": true,
-   "items": 6,
-   "latest": "2026-09-11T01:26:41Z",
+   "ok": false,
+   "items": 0,
+   "latest": null,
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z",
+   "error": "feed unreachable or empty"
   },
   {
    "company": "Arvinas",
@@ -373,7 +374,7 @@
    "items": 9,
    "latest": "2026-11-03T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Brenig Therapeutics",
@@ -384,7 +385,7 @@
    "items": 4,
    "latest": "2026-06-22T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Abli Therapeutics",
@@ -395,7 +396,7 @@
    "items": 6,
    "latest": "2026-08-07T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "NRG Therapeutics",
@@ -406,7 +407,7 @@
    "items": 10,
    "latest": "2026-10-23T15:58:40Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
@@ -417,7 +418,7 @@
    "items": 15,
    "latest": "2026-04-07T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Remepy",
@@ -425,10 +426,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Remepy%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 27,
+   "items": 30,
    "latest": "2026-11-02T08:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "IO Therapeutics",
@@ -439,7 +440,7 @@
    "items": 1,
    "latest": "2026-03-17T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Alterity Therapeutics",
@@ -447,10 +448,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Alterity+Therapeutics%22+OR+%22ATH434%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 26,
+   "items": 25,
    "latest": "2026-11-20T11:03:27Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Roche",
@@ -458,10 +459,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Roche%22+%28%22prasinezumab%22+OR+%22Parkinson%22+OR+%22synuclein%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 16,
-   "latest": "2026-10-20T07:00:00Z",
+   "items": 9,
+   "latest": "2026-10-06T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "S.Biomedics",
@@ -472,7 +473,7 @@
    "items": 3,
    "latest": "2026-11-09T00:01:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Aspen Neuroscience",
@@ -483,7 +484,7 @@
    "items": 10,
    "latest": "2026-09-23T20:46:30Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Unixell",
@@ -494,7 +495,7 @@
    "items": 4,
    "latest": "2026-07-03T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "XellSmart",
@@ -502,10 +503,10 @@
    "feed": "https://news.google.com/rss/search?q=XellSmart+Parkinson&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (no newsroom found)",
    "ok": true,
-   "items": 6,
+   "items": 5,
    "latest": "2026-10-27T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "iRegene Therapeutics",
@@ -516,7 +517,7 @@
    "items": 10,
    "latest": "2026-10-05T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "International Stem Cell Corp (ISCO)",
@@ -527,7 +528,7 @@
    "items": 7,
    "latest": "2026-11-20T22:21:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Kenai Therapeutics",
@@ -538,7 +539,7 @@
    "items": 7,
    "latest": "2026-11-18T13:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "iCamuno",
@@ -549,7 +550,7 @@
    "items": 2,
    "latest": "2026-07-02T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Shanghai Xinzhi",
@@ -560,7 +561,7 @@
    "items": 0,
    "latest": null,
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z",
+   "checked": "2026-11-22T16:16:19Z",
    "error": "feed unreachable or empty"
   },
   {
@@ -572,7 +573,7 @@
    "items": 11,
    "latest": "2026-06-06T20:20:21Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "AskBio (Bayer)",
@@ -583,7 +584,7 @@
    "items": 2,
    "latest": "2026-04-20T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Prevail Therapeutics (Lilly)",
@@ -594,7 +595,7 @@
    "items": 7,
    "latest": "2026-10-20T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Regeneron",
@@ -605,7 +606,7 @@
    "items": 1,
    "latest": "2026-03-24T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Herantis Pharma",
@@ -613,10 +614,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Herantis%22+OR+%22HER-096%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 12,
-   "latest": "2026-11-16T13:05:33Z",
+   "items": 9,
+   "latest": "2026-11-12T09:55:31Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Definium Therapeutics (formerly MindMed)",
@@ -627,7 +628,7 @@
    "items": 10,
    "latest": "2026-11-09T21:01:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Otsuka",
@@ -638,7 +639,7 @@
    "items": 1,
    "latest": "2026-09-24T01:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Helus Pharma (ex-Cybin)",
@@ -649,7 +650,7 @@
    "items": 60,
    "latest": "2026-11-18T08:12:42Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Reunion Neuroscience",
@@ -657,10 +658,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Reunion+Neuroscience%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 8,
+   "items": 9,
    "latest": "2026-06-18T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Luye Pharma",
@@ -671,7 +672,7 @@
    "items": 5,
    "latest": "2026-11-19T14:22:43Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Aprix",
@@ -682,7 +683,7 @@
    "items": 0,
    "latest": null,
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Engrail Therapeutics",
@@ -693,7 +694,7 @@
    "items": 1,
    "latest": "2026-07-31T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "GABA Therapeutics",
@@ -704,7 +705,7 @@
    "items": 0,
    "latest": null,
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "AtaiBeckley (Atai Beckley)",
@@ -712,10 +713,10 @@
    "feed": "https://news.google.com/rss/search?q=%22AtaiBeckley%22+OR+%22Atai+Beckley%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 32,
+   "items": 33,
    "latest": "2026-09-11T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Incannex Healthcare",
@@ -726,7 +727,7 @@
    "items": 10,
    "latest": "2026-10-11T02:14:47Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Protagenic Therapeutics",
@@ -734,10 +735,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Protagenic+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 17,
-   "latest": "2026-11-17T22:04:23Z",
+   "items": 16,
+   "latest": "2026-11-17T21:43:01Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Cynaptec Pharmaceuticals",
@@ -748,7 +749,7 @@
    "items": 1,
    "latest": "2026-01-13T08:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Sensorium Therapeutics",
@@ -759,7 +760,7 @@
    "items": 4,
    "latest": "2026-09-29T23:21:23Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Arcadia Medicine",
@@ -770,7 +771,7 @@
    "items": 1,
    "latest": "2026-03-06T08:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Usona Institute",
@@ -778,10 +779,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Usona+Institute%22+OR+%22Usona%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 34,
+   "items": 60,
    "latest": "2026-11-22T12:10:49Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Transcend Therapeutics",
@@ -792,7 +793,7 @@
    "items": 25,
    "latest": "2026-09-24T07:56:58Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Compass Pathways",
@@ -803,7 +804,7 @@
    "items": 10,
    "latest": "2026-11-19T11:30:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Alzamend Neuro",
@@ -814,7 +815,7 @@
    "items": 7,
    "latest": "2026-09-16T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Resilient Pharmaceuticals (ex-Lykos)",
@@ -825,7 +826,7 @@
    "items": 15,
    "latest": "2026-10-27T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Neuphoria Therapeutics",
@@ -836,7 +837,7 @@
    "items": 6,
    "latest": "2026-09-19T08:07:26Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Palisades Therapeutics",
@@ -847,7 +848,7 @@
    "items": 2,
    "latest": "2026-11-19T14:58:01Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Idorsia",
@@ -858,7 +859,7 @@
    "items": 20,
    "latest": "2026-11-04T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Honeybrains Biotech",
@@ -869,7 +870,7 @@
    "items": 2,
    "latest": "2026-02-02T08:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Boehringer Ingelheim",
@@ -880,7 +881,7 @@
    "items": 6,
    "latest": "2026-06-10T15:19:22Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Ananda Scientific",
@@ -891,7 +892,7 @@
    "items": 0,
    "latest": null,
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Corcept Therapeutics",
@@ -902,7 +903,7 @@
    "items": 2,
    "latest": "2026-08-21T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Neurala Biosciences",
@@ -913,7 +914,7 @@
    "items": 0,
    "latest": null,
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Filament Health",
@@ -924,7 +925,7 @@
    "items": 21,
    "latest": "2026-11-19T13:09:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Axsome Therapeutics",
@@ -932,10 +933,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Axsome+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 60,
-   "latest": "2026-11-22T07:56:37Z",
+   "items": 30,
+   "latest": "2026-11-21T07:45:37Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Bristol Myers Squibb (Karuna)",
@@ -946,7 +947,7 @@
    "items": 2,
    "latest": "2026-11-18T14:10:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Eli Lilly",
@@ -957,7 +958,7 @@
    "items": 26,
    "latest": "2026-11-19T19:40:14Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
@@ -968,7 +969,7 @@
    "items": 22,
    "latest": "2026-11-17T15:15:30Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Alto Neuroscience",
@@ -979,7 +980,7 @@
    "items": 10,
    "latest": "2026-11-10T21:05:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Neumora Therapeutics",
@@ -990,7 +991,7 @@
    "items": 15,
    "latest": "2026-11-19T05:14:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Alkermes",
@@ -998,21 +999,22 @@
    "feed": "https://news.google.com/rss/search?q=%22Alkermes%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 5,
-   "latest": "2026-11-15T16:19:22Z",
+   "items": 4,
+   "latest": "2026-11-03T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Neurocrine Biosciences",
    "site": "https://neurocrine.gcs-web.com/news-releases",
-   "feed": "https://news.google.com/rss/search?q=%22Neurocrine+Biosciences%22&hl=en-US&gl=US&ceid=US:en",
-   "method": "news search (newsroom not indexed)",
-   "ok": true,
-   "items": 44,
-   "latest": "2026-11-20T00:11:51Z",
+   "feed": "https://news.google.com/rss/search?q=site%3Aneurocrine.gcs-web.com&hl=en-US&gl=US&ceid=US:en",
+   "method": "newsroom via Google News (site:)",
+   "ok": false,
+   "items": 0,
+   "latest": null,
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z",
+   "error": "feed unreachable or empty"
   },
   {
    "company": "Xenon Pharmaceuticals",
@@ -1023,7 +1025,7 @@
    "items": 20,
    "latest": "2026-11-02T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Reviva Pharmaceuticals",
@@ -1034,7 +1036,7 @@
    "items": 10,
    "latest": "2026-11-13T01:13:20Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Vanda Pharmaceuticals",
@@ -1045,7 +1047,7 @@
    "items": 29,
    "latest": "2026-11-20T00:23:48Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Autobahn Therapeutics",
@@ -1056,7 +1058,7 @@
    "items": 10,
    "latest": "2026-09-21T12:05:59Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Rapport Therapeutics",
@@ -1064,10 +1066,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Rapport+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 60,
+   "items": 23,
    "latest": "2026-11-22T08:50:18Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "MapLight Therapeutics",
@@ -1078,7 +1080,7 @@
    "items": 20,
    "latest": "2026-11-16T15:10:57Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "LB Pharmaceuticals",
@@ -1086,10 +1088,10 @@
    "feed": "https://news.google.com/rss/search?q=%22LB+Pharmaceuticals%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 60,
-   "latest": "2026-11-17T20:50:06Z",
+   "items": 21,
+   "latest": "2026-11-17T08:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Newron Pharmaceuticals",
@@ -1100,7 +1102,7 @@
    "items": 13,
    "latest": "2026-10-09T07:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Teva",
@@ -1108,10 +1110,10 @@
    "feed": "https://news.google.com/rss/search?q=%22Teva%22+%28%22Uzedy%22+OR+%22olanzapine%22+OR+%22TEV-749%22+OR+%22Igalmi%22+OR+%22BXCL501%22+OR+%22schizophrenia%22+OR+%22bipolar%22+OR+%22psychiatry%22%29&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 20,
-   "latest": "2026-11-16T21:45:35Z",
+   "items": 60,
+   "latest": "2026-11-21T02:10:11Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Tortugas Neuroscience",
@@ -1122,7 +1124,7 @@
    "items": 7,
    "latest": "2026-10-13T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Tonix Pharmaceuticals",
@@ -1133,7 +1135,7 @@
    "items": 10,
    "latest": "2026-11-09T12:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "TG Therapeutics",
@@ -1141,10 +1143,10 @@
    "feed": "https://news.google.com/rss/search?q=%22TG+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
    "method": "news search (newsroom not indexed)",
    "ok": true,
-   "items": 27,
+   "items": 29,
    "latest": "2026-11-22T07:12:24Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Minerva Neurosciences",
@@ -1155,7 +1157,7 @@
    "items": 17,
    "latest": "2026-11-19T08:00:00Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Spinogenix",
@@ -1166,7 +1168,7 @@
    "items": 6,
    "latest": "2026-07-29T01:21:59Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Suven Pharmaceuticals",
@@ -1177,18 +1179,18 @@
    "items": 6,
    "latest": "2026-08-12T07:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Novartis",
    "site": "https://www.novartis.com/news/news-archive",
-   "feed": "https://news.google.com/rss/search?q=%22Novartis%22+%28%22GXV813%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22psychiatry%22+OR+%22neuroscience%22%29&hl=en-US&gl=US&ceid=US:en",
-   "method": "news search (newsroom not indexed)",
+   "feed": "https://news.google.com/rss/search?q=site%3Anovartis.com+%28%22GXV813%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22psychiatry%22+OR+%22neuroscience%22%29&hl=en-US&gl=US&ceid=US:en",
+   "method": "newsroom via Google News (site:)",
    "ok": true,
-   "items": 7,
-   "latest": "2026-11-03T08:00:00Z",
+   "items": 32,
+   "latest": "2026-11-22T15:55:27Z",
    "verify": false,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   },
   {
    "company": "Seaport Therapeutics",
@@ -1199,7 +1201,7 @@
    "items": 10,
    "latest": "2026-10-14T11:00:00Z",
    "verify": true,
-   "checked": "2026-11-22T15:27:52Z"
+   "checked": "2026-11-22T16:16:19Z"
   }
  ]
 }
