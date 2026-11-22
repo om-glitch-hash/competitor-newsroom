@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:44:54Z",
+ "updated": "2026-11-22T13:44:03Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1685,6 +1685,17 @@
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-22T07:43:05Z"
+  },
+  {
+   "id": "64f4e880c77a07ed",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics, Inc. (GANX) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+   "summary": "Gain Therapeutics, Inc. (GANX) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12bnI0c1MtaDBibWZTMklITzYtaUVKRzF5ZTJFRkJZQ0pYQzlBdUF1dUgtNTZNTThqWXJWbXloTktKTnkxakQ0N212RHhmQnhWWkdQeWhZRVRFSTd6M21mcnJ3?oc=5",
+   "published": "2026-11-21T23:41:47Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T13:44:03Z"
   },
   {
    "id": "fff3f4ad0da9ee12",
@@ -7077,17 +7088,6 @@
    "first_seen": null
   },
   {
-   "id": "4c762f31cdb25a15",
-   "company": "Gain Therapeutics",
-   "title": "Gain Therapeutics: this analyst just chopped his target - Cantech Letter",
-   "summary": "Gain Therapeutics: this analyst just chopped his target Cantech Letter",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeEZBZU4wUkY0QXBENEgtclRiZG9fUzY5SUM2R3B2MUxmYjBTT2ZhV09IUXdsN3cyZk9CTjJScHFCZHA5amtMbFRsVnNHaFZqc01PdlhxRGlWcU13YnlsbkQtZ3RTZktEVE9jdmliS3ZnRW1Nc1NCOW9Ca3ItNzdWem4xYjYtaUxpaGtDU0VhS1RxREJTRmtwY9IBngFBVV95cUxOYUtTMTVlY1NBOTgyM0tXbXJoMlpqekxpakhvLVY2d0Z3czc1Q1MwVndWSG9URzJtaGxTejExRTF0TmdtNGxXWWl4WHpiMzBhYVVXbjhfM045SGptYlIxb0h4bkNDaUVjeTZaUWJjNWtSbFdXdU9nU2V1d3RsZjhXZk5SUjJvSXBWYjVNczRVaTJsbUZWZEw2dUVCMjJPdw?oc=5",
-   "published": "2026-11-13T01:57:59Z",
-   "outlet": "Cantech Letter",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "3d9b2534581ef9b3",
    "company": "Reviva Pharmaceuticals",
    "title": "Reviva Reports Third Quarter 2026 Financial Results and Recent Business Highlights",
@@ -7359,6 +7359,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4c762f31cdb25a15",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics: this analyst just chopped his target - Cantech Letter",
+   "summary": "Gain Therapeutics: this analyst just chopped his target Cantech Letter",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeEZBZU4wUkY0QXBENEgtclRiZG9fUzY5SUM2R3B2MUxmYjBTT2ZhV09IUXdsN3cyZk9CTjJScHFCZHA5amtMbFRsVnNHaFZqc01PdlhxRGlWcU13YnlsbkQtZ3RTZktEVE9jdmliS3ZnRW1Nc1NCOW9Ca3ItNzdWem4xYjYtaUxpaGtDU0VhS1RxREJTRmtwYw?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "Cantech Letter",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10934,6 +10945,17 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVNIdXM3SnJHWXJqelVkeTMybktEdnRJWDZvWHh5WVUtTDZ4eUdSWmpRVGNreFdzY1hBRjN3ZkJjSzAwZ0pEdDFqcHREWm1jSU9kOWFyQkJETXNMOGZFel9WY3k2QkNPQW1USnljT3FuMHQyTnk2Q2dUZ3FEb0N4dk83SjZaQjVNME14MEpWQ3pEWGVkWDdrMGRtTm8?oc=5",
    "published": "2026-11-03T08:00:00Z",
    "outlet": "Drug Store News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1ae16c20f2199ffa",
+   "company": "Arvinas",
+   "title": "Arvinas Starts ARV-6723 Dosing, Reports $558.9 Million in Liquidity - tokenpost.com",
+   "summary": "Arvinas Starts ARV-6723 Dosing, Reports $558.9 Million in Liquidity tokenpost.com",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBucGlobVJKRmpidjRtYzdCeVhMVDhMOVBucmVCRWlqLTFLUXUxcUc4MzA1UldkY1Y2V2dZeUVCUnJmT1RycFVIbzUtWnA2elZmeWNkUWN5QjM?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "tokenpost.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20871,6 +20893,17 @@
    "first_seen": null
   },
   {
+   "id": "bfd0659e91c3fa4e",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics to Participate at H.C. Wainwright 28th Annual Global Investment Conference - Yahoo Finance",
+   "summary": "Gain Therapeutics to Participate at H.C. Wainwright 28th Annual Global Investment Conference Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1MxUUR4VjRlRlVIaENfOHB2MWFsQWxtVG1aTmh3cmZZUkdKMXd3dUc4STdGRVZPN3J6N29oS25QSDZNbEw5VTFYTi1WZDVIYVV2aHUwLXdhZXl5Z0tYdldvdG5MVnBsZ1NaNWRIZWVLQU9YUzk3bnBVZjFZUDdZYWwzRzVsejBUM3V1dU05WFFaLXR0T1JRTmJn?oc=5",
+   "published": "2026-08-25T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ea1a1433ae29d229",
    "company": "Filament Health",
    "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Signs Letter of Intent with Darmiyan, Inc. to Explore Use of FDA De Novo Authorized BrainSee(R) AI Platform in Early Alzheimer's Disease Trial Design - Filament Health",
@@ -21802,6 +21835,17 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjQ5MjlfbHNoU25xLVJoMDc2Nm82dGV2ekp3S3c5S3B5VXdIYllYVWIyUEwwcTBGVXRsbHVnbHlLN01UQUJ6NTRvanRGM3Bzbzlsdk1EYzZsOVBOa2ExRVVCLTRwYXJWWTMzQkZwYjBEODYxeEVadWFPdkc0cHRWZUcwTzUwUURNMm1WSmJRdzhGd2VwX2FESWdSeEJHUQ?oc=5",
    "published": "2026-08-14T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0d0a68bea7424cca",
+   "company": "Neurocrine Biosciences",
+   "title": "Prader-Willi experts flag safety risks linked to Neurocrine's rare disease drug - Reuters",
+   "summary": "Prader-Willi experts flag safety risks linked to Neurocrine's rare disease drug Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUHpjZ3JJLW02dWN5c1Z3N1hXUExHN1czcGxvRnR0bEQ4WHp0YzFOWlQ2Y193UmxNcl9BLTJHbnFDd0VpUS1INDN6d1EyYnFBUFlGaTJlOUFlUG5HWDA0ZE05dk9NVlEtQmlCazhJQlY2UVByZ1B2R3ZJZEJ4VHFGV3FLNmE0MTVBNk1EMGV5X3ZGRG5NbkR3SnZ0RmtURTRxSDMya3g5VEpybzF2ZzIxa3cyaDR3d3RuV3k3V2xGWVk2YzVraHYw?oc=5",
+   "published": "2026-08-14T07:00:00Z",
+   "outlet": "Reuters",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -31486,6 +31530,17 @@
    "first_seen": null
   },
   {
+   "id": "9ed26d73fe035fd5",
+   "company": "Filament Health",
+   "title": "Red Light Holland Highlights Publication of Randomized Clinical Trial Showing a Single Dose of Psilocybin Reduced Cocaine Use, with Filament Health Holding the Exclusive License to the Data and Intellectual Property - Investing News Network",
+   "summary": "Red Light Holland Highlights Publication of Randomized Clinical Trial Showing a Single Dose of Psilocybin Reduced Cocaine Use, with Filament Health Holding the Exclusive License to the Data and Intellectual Property Investing News Network",
+   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNR2xicU5Md1R1al81aHdiaVhpazJ1Z1NpenBIbkVadE5SQVVDUTNFVUNhTlFWUGJOalN1TFZ3dm85dENqelJwakdLTVE4MUktQzVMbWZ5SDFlZjB5d0F4UzdPdlM5TUdnbHNESlhObks5TlRFdU51SGoxTC1Uck82MzhQR1lZejhCYXJkTGRRWm5QNWVYQXYwRUZ0M3dNcXlVdmNtTVhtcHhaYzQzMHlNNXAtVDFaZnJfRkFCclpiQ3VyTWROVjJ0TWI4OW9HZnZQeVdCN2pjTE40T0ZtYW9KM3l6UERSaUlTYVhsR0J5VVFuOUM1NjRPR0J3TTJnMTdjbUNaVEZNbVF3ZnBBSTlmSEpFeUZwMldXcXAzUWtyeUgyeThOeWhfWENHekZzZU9PWk1meXNJaG1La1E4TGxsTWFtdUl4b1FReFBJ?oc=5",
+   "published": "2026-05-08T07:00:00Z",
+   "outlet": "Investing News Network",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "53f5fcecce560016",
    "company": "Eli Lilly",
    "title": "A clinical trial for people who have irritable bowel syndrome with diarrhea (IBS-D) - Lilly Trials",
@@ -31922,6 +31977,17 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0JPWWxFMFJOenRhUzNsQTg5VnhjTVVqM0xfX2dQZVBBSWdhMGZsc2dNUi1wUTJQVmkzQ3Q3OC1uSHpCUll1WXVnOGhJb0NJb1lzd1N2VUh4akxpRHc3SWQweUZMYVNZTm5xX1BXamFqdUFjemlCZTlsbWNScmxjMVdhMTVldngxQUhFRU53bmIzTk9PSG1KVmJ5RGk3MFUtVU5OZFNJTFV6OFRyUE1n?oc=5",
    "published": "2026-05-05T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5cda437624fefd64",
+   "company": "Gain Therapeutics",
+   "title": "3 US Biotechs Developing Parkinson’s Therapies - Simply Wall St",
+   "summary": "3 US Biotechs Developing Parkinson’s Therapies Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYnFkN3lXWHJtd0JqSHEta1h0ZGsxYm9CX1FSS1Z4cTUtbmNaY3pxZnczaEpKbm9BMkI3YzJORDNxSENtcFlHUXRXNDF6M2FVSVNBdGJkNE9CQ3BybmlwbDBMdG00Q1VVS2JJWnB1TmJod2NWNEh4RkM5QmJKVDlHYXBfc0tuNmFfcDl4eUNnbDJUNmZzRldLR2Z5UUxQRXVVdU1KTWpoSVotRVEyMXNlRjdaZWxtR0YtaENId1lUWTIwYUZJaGF4Q0p6azRiZ0p2X3fSAdcBQVVfeXFMTk9LNlVaTnFZNUZNUU9ZUEF4NENUNElKXzlBS3ZURWlVNGc4R09RSjJvektOWklySWI3bm8tNHRTbl90Z1hDaTRYOV9fdVZHQVRzVC03ejYxSlVBTmlyMkVvSC1wcmk1S29WREp3YzB5c185TzBveWVERzVoUHJiRVd2VEc1b0NVZVRvbHVrTndaaDZma0RUa1FDX2k5Sm9JbzJQMEJZMUtoSWNrUzN6bkx6Q3drODUyMktZRjE0MGJYc09kRkctOEk2ZUdHVk03MXpKLWNyT3c?oc=5",
+   "published": "2026-05-05T07:00:00Z",
+   "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
