@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:43:05Z",
+ "updated": "2026-11-22T08:33:36Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1808,6 +1808,17 @@
    "first_seen": "2026-11-21T02:27:19Z"
   },
   {
+   "id": "e1b4372eadfc79ec",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson (JNJ) Stock Price, Quote, News & History - Benzinga",
+   "summary": "Johnson & Johnson (JNJ) Stock Price, Quote, News & History Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QTDlmU3pOSjVmTktCa2tWSktJUjhMSkdjaUk4Z0swcDk5T0htYXFlMzl1RURuZWtMdzd6S0ZkMDJCaV9CS3BSTlN3?oc=5",
+   "published": "2026-11-21T00:49:00Z",
+   "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T13:53:47Z"
+  },
+  {
    "id": "7e6bdf058635be55",
    "company": "Annovis Bio",
    "title": "Annovis Raises $21M to Fund Pivotal Alzheimer’s Trial Readout - MyChesCo",
@@ -2125,17 +2136,6 @@
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
-   "id": "e1b4372eadfc79ec",
-   "company": "Johnson & Johnson (incl. Intra-Cellular)",
-   "title": "Johnson & Johnson (JNJ) Stock Price, Quote, News & History - Benzinga",
-   "summary": "Johnson & Johnson (JNJ) Stock Price, Quote, News & History Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QTDlmU3pOSjVmTktCa2tWSktJUjhMSkdjaUk4Z0swcDk5T0htYXFlMzl1RURuZWtMdzd6S0ZkMDJCaV9CS3BSTlN3?oc=5",
-   "published": "2026-11-20T13:26:42Z",
-   "outlet": "Benzinga",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T13:53:47Z"
   },
   {
    "id": "9729ad31f5b50e12",
@@ -3287,6 +3287,17 @@
    "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
    "summary": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? StockInvest.us",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ0lNbXpmZ0Z1VFF6WktkLTRKOGZUMk5QOW12bjM1LXd0NXdyT2xscXBzVlktbnJRLTFvYWJ0a3VLSG5FWHU2Tw?oc=5",
+   "published": "2026-11-19T08:00:00Z",
+   "outlet": "StockInvest.us",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "87d81ed8b82a9d1e",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Stock Price Forecast. Should You Buy ATHE? - StockInvest.us",
+   "summary": "Alterity Therapeutics Stock Price Forecast. Should You Buy ATHE? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nSmIteC1SbGxTdnhsUE1nMzNpUExVVnNOMFJ0OHJVa29URThLR0gxU2pTSVY3bTlhQ2l2N1J0SS1uRmIzVnlyTw?oc=5",
    "published": "2026-11-19T08:00:00Z",
    "outlet": "StockInvest.us",
    "method": "news search (newsroom not indexed)",
@@ -6989,17 +7000,6 @@
    "first_seen": null
   },
   {
-   "id": "c9cd2be2f98f4f2d",
-   "company": "Serina Therapeutics",
-   "title": "Serina Therapeutics 3Q 2026: Revenue $125K, EPS ($0.31) — 10-Q Summary - TradingView",
-   "summary": "Serina Therapeutics 3Q 2026: Revenue $125K, EPS ($0.31) — 10-Q Summary TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVDg2dzM1WS1ESkhiLW5xMWhhUHJtb1JqVUgwU1k2ZXFJZldTN20wQXdlTnRqcUhyR1dMNUozSmxOZFBSdHp6VkhWaExCdzc2ZG0zYmNUeU5nbEpxeHRabHJDNUl6dnEyT29SZkJ0b2Nmd2RrSWFXaVBUOWUwR1lLa0JWdG1kaUNXVGxzV2V0eVBuQm54OEFad1BwRWRQRUx4ZDM5eGNrcnZvdkRXNk03SERwRm14RmVTMHBHMjVJdy1oQQ?oc=5",
-   "published": "2026-11-12T21:21:01Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "2b102621f3e1102d",
    "company": "Serina Therapeutics",
    "title": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates - GlobeNewswire",
@@ -7183,6 +7183,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c9cd2be2f98f4f2d",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics 3Q 2026: Revenue $125K, EPS ($0.31) — 10-Q Summary - TradingView",
+   "summary": "Serina Therapeutics 3Q 2026: Revenue $125K, EPS ($0.31) — 10-Q Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVDg2dzM1WS1ESkhiLW5xMWhhUHJtb1JqVUgwU1k2ZXFJZldTN20wQXdlTnRqcUhyR1dMNUozSmxOZFBSdHp6VkhWaExCdzc2ZG0zYmNUeU5nbEpxeHRabHJDNUl6dnEyT29SZkJ0b2Nmd2RrSWFXaVBUOWUwR1lLa0JWdG1kaUNXVGxzV2V0eVBuQm54OEFad1BwRWRQRUx4ZDM5eGNrcnZvdkRXNk03SERwRm14RmVTMHBHMjVJdy1oQQ?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17197,6 +17208,17 @@
    "first_seen": null
   },
   {
+   "id": "3160104aebdfe80a",
+   "company": "Filament Health",
+   "title": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New Canadian Patent, Extending the Broadest Natural Psilocybin Patent Estate - Yahoo Finance",
+   "summary": "Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health Issued New Canadian Patent, Extending the Broadest Natural Psilocybin Patent Estate Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaEVGOWI0Q3JiVU5WWXM1Q29MbE9FZ2NuS3QwMjNjT2ItdnpCSjFXV3BwQXgwd3pSemkwSkhBSW52aUp1VnpLZjh6Y242NzNTcjJORjdhaVp2bl9MeUFmUzdKeXI2QkJMelFXTENRYVlWdmR3TmlUZjB2MHN4ZnZpcHNvZkhuT0ZVU2J3UTZ1NXZrdGFwT2NoUXZUQQ?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4f8f09394db92992",
    "company": "LB Pharmaceuticals",
    "title": "LBRX: LB Pharmaceuticals Inc Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
@@ -18227,6 +18249,17 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSG1PeEtXeDN0RXRoRTFtQkxfbWFKdkNVekVnbjdwQ0NyU0FsdmF5dWdOa2tjQmkzM2xhY00yMkw1NG9UQklSMm9LdkwxQXJoMkZJZ3pNSEFSMTByX3dJRGpzcGEzUGc0YTRlNWJlWTFuYlplRTJKby1WS09LNWhVa2NTMFRVQzJJdTVSS2R0NnFxTnV4MVlRZTZjbHpYQTRXY1VwWTB6WQ?oc=5",
    "published": "2026-09-16T07:00:00Z",
    "outlet": "MedCity News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "07742d6af07f33fe",
+   "company": "Remepy",
+   "title": "Remepy appoints Eran Harary as Chief Medical Officer - CTech",
+   "summary": "Remepy appoints Eran Harary as Chief Medical Officer CTech",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sLWVtb1NxcXRNbDhSY2xHQVE1NkxmZ1hxMzA5UDN2OGRaanNkS0VoeGt0OE1QUVdtRGdFNERtbDNCbmdfak5wcjVKS3lqVTNSRmlhUFBiemZvbzdjVS1UQ1RfR3UzZ0pv?oc=5",
+   "published": "2026-09-16T07:00:00Z",
+   "outlet": "CTech",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -26613,6 +26646,17 @@
    "first_seen": null
   },
   {
+   "id": "e297635ecdcbef48",
+   "company": "Alterity Therapeutics",
+   "title": "Jones Trading initiates Alterity Therapeutics stock with buy rating By Investing.com - Investing.com UK",
+   "summary": "Jones Trading initiates Alterity Therapeutics stock with buy rating By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUmpCMkVjY2ZKTjFudkU5UnNXeERJSERYUjAyZDgxWlJfTjI3c0VxSG4xcFhBekttV093QmZzSU1zZU5DN1pNdFUyR29mcXNmeHRPeUtnbEJUWjA1QjdSYWx4SUFHQ3hwSFBENjB6NkNHWWVoajhjcWxGWjVrN3llb0JnZm5ZYncwaFZyanZLTEhpeW9kOU44cmxEWWNadG5qZzRrWF9vNGZVRUpVdlNPdjRoZ2ZvUXJLMHhjM0dVbzdCM1hZd3N0TG1mZEVFTnZEaUdrVFpOTQ?oc=5",
+   "published": "2026-06-29T07:00:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "113a41e71d68bd0e",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Draws | WTA Official - WTA Tennis",
@@ -26709,6 +26753,17 @@
    "published": "2026-06-27T06:28:15Z",
    "outlet": "neurocrine.gcs-web.com",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e50fdda67f3a0850",
+   "company": "Minerva Neurosciences",
+   "title": "NERV Forecast — Price Target — Prediction for 2027 - TradingView",
+   "summary": "NERV Forecast — Price Target — Prediction for 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uR0pwSHFYVXlFM0RERGN0YUFnbGpJaXI2RW5Xd1Znd2t3b05mTlU3U3Z1d2I3aXVlRHlJSm9uUENXRVFDdjB1ZFBTMlVqOEpaQ1YyeEdKUTJ6VC1NZ3ZCTGhfRVNsSmhaVkUyTml2b0JCU3pFcjQ4WXFR?oc=5",
+   "published": "2026-06-26T20:40:09Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
