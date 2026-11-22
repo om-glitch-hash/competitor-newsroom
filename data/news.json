@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:23:58Z",
+ "updated": "2026-11-22T11:13:47Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1764,6 +1764,17 @@
    "first_seen": "2026-11-21T08:33:06Z"
   },
   {
+   "id": "31b5fd9d6f3f814c",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics, Inc. (AXSM) Stock Price, News, Quote & History - Yahoo Finance",
+   "summary": "Axsome Therapeutics, Inc. (AXSM) Stock Price, News, Quote & History Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsV0NHamJ1WHB4NnJkaUtvd0VacUh3bWFJR3A3RHNqVldhbldOUzA3Q0h3MUg1WmhPU1h2LU0tQXZPZ3pGOE1oLU1QdVVTUQ?oc=5",
+   "published": "2026-11-21T06:32:27Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T10:23:20Z"
+  },
+  {
    "id": "e4bdfcc3f83ebeaf",
    "company": "MapLight Therapeutics",
    "title": "Maplight Therapeutics (NASDAQ:MPLT) Stock Rating Raised to Sell at Wall Street Zen - MarketBeat",
@@ -2072,17 +2083,6 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
-   "id": "31b5fd9d6f3f814c",
-   "company": "Axsome Therapeutics",
-   "title": "Axsome Therapeutics, Inc. (AXSM) Stock Price, News, Quote & History - Yahoo Finance",
-   "summary": "Axsome Therapeutics, Inc. (AXSM) Stock Price, News, Quote & History Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsV0NHamJ1WHB4NnJkaUtvd0VacUh3bWFJR3A3RHNqVldhbldOUzA3Q0h3MUg1WmhPU1h2LU0tQXZPZ3pGOE1oLU1QdVVTUQ?oc=5",
-   "published": "2026-11-20T16:02:15Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T10:23:20Z"
-  },
-  {
    "id": "eb0b4102b7d46b79",
    "company": "Supernus",
    "title": "SUPN Initiates Coverage On Wells Fargo -- Rating Set to Overweig - GuruFocus",
@@ -2345,6 +2345,17 @@
    "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "0021abc68c1b2b37",
+   "company": "Supernus",
+   "title": "Wells Fargo initiates Supernus Pharmaceuticals stock at overweight By Investing.com - Investing.com UK",
+   "summary": "Wells Fargo initiates Supernus Pharmaceuticals stock at overweight By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZHdiaG9fMC1UdFNPQ1ZNQjJRcXR5TFJvbUh1bXAteDh6bDVHRW5lTnhYZ2lpZ1FPaWFWU2l2T1J5bzZzc1M1LUNVb0Rld0RRNzFVNkRST19MTGlsSll6LUJOaGJObnR4dlVyaW5KVWlIY2dpYVg3Y2FWY3BzWEpfVVBVNWp4c19DdU5yMmJEb3dUZGpISk9qWHgzTkh0UDlZaEx1RFNYZ0R0YVBaeUstRnhKUTJNQUtxdWx6Q1A1M1h4eDZZbFE?oc=5",
+   "published": "2026-11-20T11:30:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T11:13:47Z"
   },
   {
    "id": "d650cfd1e5b7c2c7",
@@ -6054,6 +6065,17 @@
    "first_seen": null
   },
   {
+   "id": "dcc340615ad24ee7",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study - TradingView",
+   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV0t2N3ppaEdiWldhZldmM1ZsRlQwOUxvYU1fejc2bUF1ODh2b3JZb1JMY0lZM1RKdkVsOVcxS09uZzFXQndFZnpJZThhTDBOSFFQMDBSai1xUy1uZEJxZEtJRDcxT0stdlhqUTZ5QlNwYTNYQm0yaUVlbVRWMlJNVUdKczJMSzRMbk9NMjluYUJfTGFFTFppN3BtTjdWZ3dXaUNJNTVheWxERGZmemJFVG9SMFJ2THVRSW9zTTZDRGNYWmlXZ2Z5by1DbWxOSDE5T3hxQ0RfWVk?oc=5",
+   "published": "2026-11-16T12:08:30Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6fb078a466cab2c3",
    "company": "Minerva Neurosciences",
    "title": "NERV: Minerva Neurosciences Inc filed SEC Form 8-K: Regulation FD... - Quantisnow",
@@ -6061,17 +6083,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTU3dXlwOWg2TV9BckMxTFk0SjhIa0l3cXJoSUxwTmhmejFiZENlZFI0OWVxcGRlS01BZ3Q4MjdfXzF2Y25fQkZrQi12R3A1c0hycXVTRlhINUJBV2xXcWtSMGN0QlAyeUs3dEljV1lUX2ZVaFVvVXd4elYxOURUSTdoY0diLVhWZkFyOF9aZTljcFc4R1lWaURlNU9jRUFQSkxRV2pldWkxdVV3Z0ZkWXl3?oc=5",
    "published": "2026-11-16T12:06:51Z",
    "outlet": "Quantisnow",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "dcc340615ad24ee7",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study - TradingView",
-   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaExXUVRDRlRRWkRmRVJyXzMxUW9VMWFKandBVGRjSnEyS052Q2JTcDFFaXVHS3FSUTlKQ3RTR2JmVFBUbVI2SE9EUllIU2gzUWtwcjNOR2gtbFRucUhqTVBIRHNyZDU1Vi14cUpTYnRLWUQ1QTVLZFlCc0FKN0ctU00zUE1RT2hwT21XRFlEQl9GUWxGdWc0dEFIWlhlcXFiT1pjV1lHQzZwZkNIQ09nX1RkSFM0Y1VJV0NheVZIWUZPTlRxOXEyWmtNX0lWZTBHX0R3QjRVN3Q?oc=5",
-   "published": "2026-11-16T12:02:02Z",
-   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6358,6 +6369,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSG9YcmhGeFBFWmZlakd4RGtaSGtfZ1J2VUJtMWVhYm5YSFpicVE3UHJLcVFnSk9TT1VEbTBsNlZydkF5SlMtc3dXaUY2QTAxSWdMTEhZSVZrNVRoaFllVFFOcmVQMkFadlV2LTdWejZhaERzN2FqODFvRjVsVlpMQ2xrRnJpb0t4US0wSFlob3YzWWQtRnZEaExrMUZXNGtrTW53cFNnM2R3SExTc0YzcE10d01xMTVSYnFZSzZYbnI?oc=5",
    "published": "2026-11-16T03:25:47Z",
    "outlet": "Investing.com South Africa",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "95271295461202fc",
+   "company": "International Stem Cell Corp (ISCO)",
+   "title": "Form 4 International Stem Cell Corp: Paul V. Maier (Director) For: 11 September By Investing.com - Investing.com India",
+   "summary": "Form 4 International Stem Cell Corp: Paul V. Maier (Director) For: 11 September By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV3UyamY0bWVqSHhxWkFHSGNVSzI4ZWU5N3JnLVhtMEVtYlp0dDJObFJvRVh4azEzZUpBUTI3S2JDemgwNUJ0UnRzQTFaZXVJQnhpTURTVVlqaGtwV1lLWlJwajhVVnYzZVlCb21qX1JPSko5R05LaExYNlNKQjJ6ZlBNRzRhT3A1NVE5T01mQm9KWDlyWGQxNHlONHlndkJKY01JR1FKMmZXVEd3YWttZUx3ZGhNUEc2d2pqbTN3bWNyLUJSdkFlWlhKeUNEcUIx?oc=5",
+   "published": "2026-11-16T02:15:57Z",
+   "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12980,6 +13002,17 @@
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTjd5dllsRmo2VUJJN1E3RTJMWmFTS0dmazhVcENmc0IwQmhWRTVNZTVwNmFheFU2RUZfb1hOU0wzNUxaeE1WemNOaW1DU1JFYXpyM0FhRXNrSU1xVmI4eWdyQzM2UWtGTldIWFVyRklQS1dtcFU2N2FxU3JjRWZGZERzNF9yQUVMcE1wYVVMM1JXUFNsQWNJd3h0bm9kcVBvZU1vUWFiZzVZcUVwY0tRRms3bW1heEZaMi0yclIyYU9DckplZUx5Z0xPLVhaSUdzM0hyb1h6ZS1KQnhTVnhkTTVCSTB0aWNTWFo3Tjd5bU82VEhJQXJmVW00NkVwd3g4US0zTHdZcVlxT1hK?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "85ecabe9cb5903e6",
+   "company": "NeuroOne Medical Technologies",
+   "title": "NeuroOne Featured in New York Post on OneRF® Patient’s Remarkable Journey to Overcome Debilitating Facial Pain - Yahoo Finance",
+   "summary": "NeuroOne Featured in New York Post on OneRF® Patient’s Remarkable Journey to Overcome Debilitating Facial Pain Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQanFLdVdhUXhyYWVNUFVvS1dNSGx2Ui1hTUc1czRhSnc3X2M1YVpLc1FIanRPdDhVLUNyN19wUTF4NVhDTkE5YzNQZUViV2VnU1lpZzBaYWsxR0ZER0RGTDZOWHE3V1U5TDY4S21hUmw0T0JST3pVXzdPZFRmdS1icDF0UVgtbzZ4TXJJcml1ZUpDSWNPSGdHLWpR?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -24710,6 +24743,17 @@
    "first_seen": null
   },
   {
+   "id": "a9abca3bf5e5532f",
+   "company": "Neumora Therapeutics",
+   "title": "Neumora Therapeutics Reports Favorable NMRA-215 Toxicology Results with Planned Clinical Advancement in 2026 - Yahoo Finance",
+   "summary": "Neumora Therapeutics Reports Favorable NMRA-215 Toxicology Results with Planned Clinical Advancement in 2026 Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGtYdVBnUUlKaEZrckgtd3NSYTZnZ1dNdmFISVoydzg5bjFPM25Bc0xWT0ZwTzJsa25wU3hRVEtmM1E3MkZ3YUxhdERHUVBtSmw5LWtybmc2UDdCY2NieG9pN1NqRWo5eTRxQkdqdDBjWHM3UEhxbFhlQVVRVVY3NmN5d1AyOUczbmtxeklDWUxMVEpfaFBVaWdQcU1EOThURUN5dWJoTQ?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "47a5fa5baa6aa7cd",
    "company": "Regeneron",
    "title": "WSJ Spotlights George Yancopoulos: ‘The Scientist With 1,000 Patents Fueling a Drug Powerhouse’ - The National Herald",
@@ -26840,6 +26884,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlF0VzFIdmhRRjZNbFh2TXppeGhJVTlLb212YkJrZWU1MmNvUW5EOThNNDJ6cTYyWVVFckJERURRUkVMdVRhQ3FWZHE4TC04VjkwMFFWVmc4NllRQmNKRGdlT0Zlbm9PbWtoUmNNUG5sRHJFSlNxalI4c0JiZE9rNm83ZjRnNzE0VkgwXzdkbzMzTW1ibk8takkxMTZjZVRWTkNscHNDOV84dw?oc=5",
    "published": "2026-07-06T07:00:00Z",
    "outlet": "Parkinson's News Today",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b41b2a45154633cb",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley (ATAI) Draws Takeover Talk From A Major U.S. Drugmaker - Yahoo Finance",
+   "summary": "AtaiBeckley (ATAI) Draws Takeover Talk From A Major U.S. Drugmaker Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVVzbkJ4azZqOWxaSUZfWnhvSFRPVTZJTWtVeXd1bkIxY2pnanpWajlaQjRNTV90NnR1bnU0SlJMU2tLeU1McVBtTGJnWUNYeVJLVnhaYmlwRHltaXJkQTViX0Fhc1NVdFFDNV9QendfX29zT3BhLVdhVU9qSjU2aVQyU1JOUnhTb3pFYVBNZWk3eXRqbUxpZWwxMjhsQQ?oc=5",
+   "published": "2026-07-06T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
