@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:24:11Z",
+ "updated": "2026-11-22T07:43:05Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "bd970dc26b9f8fd5",
+   "company": "TG Therapeutics",
+   "title": "Did TG Therapeutics' 116% Run Pass You By? What The Bulls Got Right - Simply Wall St",
+   "summary": "Did TG Therapeutics' 116% Run Pass You By? What The Bulls Got Right Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZEtySEQ3ekx6N2ZGMmZLaFlkWE14Z3NoQk9BLWkxYnphUllUVndVcEtNa1NXSWNfMkdJUXRZelJxUTFpX0VMZW43eUlKUXcwVzdNREZSd1FqcnBReURCM083M01iWnQzRDBTNlZialNOUTJNS1dtZDFMMUFiVHdCRVVoWmRnYlJoUFZNbkRLT2FpSHRMVy1XRmNFRzhudUdybFNFR0xrTnFPTHMySDBHQkt4WFRxd295aVVENzVhMUtCSUwza2szNFNGTzc4Z182cU5JQ1NvZ0piTzlJdnZNNE40RdIB6AFBVV95cUxPZlBHaUdfZFU0QUV2ZEVhaklwVWE3OUIwMWtFMFA1QzJVSUJQQ2Y0WDEyMGVtWGRYR0VnSGRMMnJoMS1uc093aFhOUV9oSExJdHVuWHlWSlUyb2k1emVDOC1QUlFPVHZ5blVxOEdZZHBVTGRjSDBLd0JSNWxueTlhWm9taVJGVGstcVF2dlI3TXNwS05kRm53Q2hVbDVCNl9qbHJwdlRCekhUSXllc19SMjAwdGwwNlFwTGItVVc3c3k4eHJwNDZOVXEwcDBUOERFRFhqVEZaQk9wUHBETkd3WVVJNVV5RUdW?oc=5",
+   "published": "2026-11-22T07:12:24Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-22T07:43:05Z"
+  },
+  {
    "id": "fff3f4ad0da9ee12",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (R7E0.DU) Seasonal returns chart - Yahoo Finance Australia",
@@ -2462,7 +2473,7 @@
    "title": "Neurocrine Biosciences director Gary Lyons sells $2.47M in shares - Investing.com",
    "summary": "Neurocrine Biosciences director Gary Lyons sells $2.47M in shares Investing.com",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQmN5dU5hV0QtckU1V0lOS3VyWTFuQ01XSV9CN2pkUXJVRWxEZWJScHpIRF9MTXR1ZFlvRzlCR0pjaXJkWENPeDNqd3I2b3l6Y2xmSXlvbHBGXzh5UEdTdk9tMFpTUndsejdZWEI1ZkU2WFUtTDNOQkNTVTh1Y2o1dWxhaUFiaXJWSGNWVUZONnhoOUNMN3VRZHdnUGQ0WEVXRUlBbm5pTC1DZmZQdDZLeUxMMGpRSm1XUkdlYjl0bldBamx5RGdV?oc=5",
-   "published": "2026-11-20T00:15:40Z",
+   "published": "2026-11-20T00:15:39Z",
    "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T03:17:37Z"
@@ -5922,6 +5933,17 @@
    "first_seen": null
   },
   {
+   "id": "dcc340615ad24ee7",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study - TradingView",
+   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV0t2N3ppaEdiWldhZldmM1ZsRlQwOUxvYU1fejc2bUF1ODh2b3JZb1JMY0lZM1RKdkVsOVcxS09uZzFXQndFZnpJZThhTDBOSFFQMDBSai1xUy1uZEJxZEtJRDcxT0stdlhqUTZ5QlNwYTNYQm0yaUVlbVRWMlJNVUdKczJMSzRMbk9NMjluYUJfTGFFTFppN3BtTjdWZ3dXaUNJNTVheWxERGZmemJFVG9SMFJ2THVRSW9zTTZDRGNYWmlXZ2Z5by1DbWxOSDE5T3hxQ0RfWVk?oc=5",
+   "published": "2026-11-16T12:08:30Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6fb078a466cab2c3",
    "company": "Minerva Neurosciences",
    "title": "NERV: Minerva Neurosciences Inc filed SEC Form 8-K: Regulation FD... - Quantisnow",
@@ -5929,17 +5951,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTU3dXlwOWg2TV9BckMxTFk0SjhIa0l3cXJoSUxwTmhmejFiZENlZFI0OWVxcGRlS01BZ3Q4MjdfXzF2Y25fQkZrQi12R3A1c0hycXVTRlhINUJBV2xXcWtSMGN0QlAyeUs3dEljV1lUX2ZVaFVvVXd4elYxOURUSTdoY0diLVhWZkFyOF9aZTljcFc4R1lWaURlNU9jRUFQSkxRV2pldWkxdVV3Z0ZkWXl3?oc=5",
    "published": "2026-11-16T12:06:51Z",
    "outlet": "Quantisnow",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "dcc340615ad24ee7",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study - TradingView",
-   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaExXUVRDRlRRWkRmRVJyXzMxUW9VMWFKandBVGRjSnEyS052Q2JTcDFFaXVHS3FSUTlKQ3RTR2JmVFBUbVI2SE9EUllIU2gzUWtwcjNOR2gtbFRucUhqTVBIRHNyZDU1Vi14cUpTYnRLWUQ1QTVLZFlCc0FKN0ctU00zUE1RT2hwT21XRFlEQl9GUWxGdWc0dEFIWlhlcXFiT1pjV1lHQzZwZkNIQ09nX1RkSFM0Y1VJV0NheVZIWUZPTlRxOXEyWmtNX0lWZTBHX0R3QjRVN3Q?oc=5",
-   "published": "2026-11-16T12:02:02Z",
-   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6568,6 +6579,17 @@
    "published": "2026-11-14T10:12:24Z",
    "outlet": "Helus Pharma",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8ed8d69ae1a0ab17",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics (AXSM) Stock May Be Undervalued Following Strong Revenue Growth - Simply Wall St",
+   "summary": "Axsome Therapeutics (AXSM) Stock May Be Undervalued Following Strong Revenue Growth Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUktEZUE5cUhXbFFRcjFLZWhBdHlYazVrc0s1eGFvMUpIQUpUbjYzcmltaGRaLVV4aWU3aG5tV1hlLWdiWXZxMkJmcWU3QWF4WmMwMnczSWF0NUt4VnJiU2s3T3dFQVE5VDYxVlJQOWFISXJyOEw0WEJXSUdDUjVpb0swSEkyWm9qSWk1Q1JKQUJNMVJTMlg5eUlrX3NReVEyM2k0U0RFQnFPSkZWbEg3ZE42QVFleWVySVNjVWltQ1p2RkJGdXo3SV9EN3h5TThTU2RQR2hyVkgwVVpjSFdnVU5rWXIweEnSAewBQVVfeXFMTV91bXltTW9FazhPWnNEOWNsSUVLTVducnpyREN2SmJKY3NRTVd1T1ZTTmZPem1TNF9nZXhNZmNnVUR4TW1TTlVwc1hITTA2Unk0TG9RdVNIQVpCMlRGLVBRcHZyUmkxMWY1a01lcWRmWVhrM3hra2VrTFVnMmhSRlRfWkJkVTZZaEhzcGlhX3NwQzdyd0FoYnlzRVl3YjVuYkY0eHVJVXVHMEhXSV9TVmVJOExwZEliVHBxNWtYclRPbXlpZ1NNRWhIdW5NZlBBWVpiTXEwSVFlQ1pUOW9OQV9iZ1dJNlJWSmNlT3E?oc=5",
+   "published": "2026-11-14T09:33:35Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -10586,17 +10608,6 @@
    "first_seen": null
   },
   {
-   "id": "9489248f601fe3ab",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences Q3 revenue jumps 41% on strong INGREZZA, CRENESSITY, VYKAT XR demand - TradingView",
-   "summary": "Neurocrine Biosciences Q3 revenue jumps 41% on strong INGREZZA, CRENESSITY, VYKAT XR demand TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGNNcHdHYjUwWVNMMm1FVExRa0MxbkpoOXVWZkFSYkZnWHNrYjZLY0dvLWxqdGY3WElhOXNBR0VhTWhQZ295SXNvejFuUnF3N1A2enVCcGgwaVpwQ05tTlgzRlpUQ1JVTzNtRFJLNXQzZVJJUDdqMGxVRmh5VERlSnFHWTIxZ0xPRW0ycVlyaGZvcFdTM0Q4eC1fRWVxTEFVWDdOU0ROdF9EdzRNNko3WmR5eHZnSHNhakRUUHl3WHlHbGtxUGdTeXFhOTZWbHJlTVZnbVFLLTR1dkkyZ3oxb19WVUpmZUVNVWlkMFNUdw?oc=5",
-   "published": "2026-11-02T21:59:04Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "eeb6d185bfc68b8f",
    "company": "Supernus",
    "title": "Form S-8 POS for Supernus Pharmaceuticals INC filed 11/02/2026 - Supernus Pharmaceuticals",
@@ -10681,6 +10692,17 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRmVxZ3ZWNDJJcXJpNlBqSjBodjI4bHFaSVhnV3lUOU14YzlfRGFNU25mTlpUVGlqeXVUUUY2NXpiVktTR20wUS16a2NBMGoxVWd6SENCZGhIUS1CM1NKR19IZHZ4SDB3Nm1hWHJhQ3VRc1c4YzhNN3R5SkNJeURvUVFrdVhjWk1BM1JvVmo3U1JDRnpMMFRWYkRxcUFWem5mVzE1dUNCRVpRRXZIN2Z4blE5OUJLU2hWb1NNNXd1VkN6bENQOUctRFJRcTg?oc=5",
    "published": "2026-11-02T09:26:00Z",
    "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9489248f601fe3ab",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences Q3 revenue jumps 41% on strong INGREZZA, CRENESSITY, VYKAT XR demand - TradingView",
+   "summary": "Neurocrine Biosciences Q3 revenue jumps 41% on strong INGREZZA, CRENESSITY, VYKAT XR demand TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGNNcHdHYjUwWVNMMm1FVExRa0MxbkpoOXVWZkFSYkZnWHNrYjZLY0dvLWxqdGY3WElhOXNBR0VhTWhQZ295SXNvejFuUnF3N1A2enVCcGgwaVpwQ05tTlgzRlpUQ1JVTzNtRFJLNXQzZVJJUDdqMGxVRmh5VERlSnFHWTIxZ0xPRW0ycVlyaGZvcFdTM0Q4eC1fRWVxTEFVWDdOU0ROdF9EdzRNNko3WmR5eHZnSHNhakRUUHl3WHlHbGtxUGdTeXFhOTZWbHJlTVZnbVFLLTR1dkkyZ3oxb19WVUpmZUVNVWlkMFNUdw?oc=5",
+   "published": "2026-11-02T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12214,6 +12236,17 @@
    "first_seen": null
   },
   {
+   "id": "6267c625b1ad4596",
+   "company": "Idorsia",
+   "title": "Idorsia reports accelerating QUVIVIQ growth, advances key value drivers, and reaffirms full-year financial guidance - Yahoo Finance",
+   "summary": "Idorsia reports accelerating QUVIVIQ growth, advances key value drivers, and reaffirms full-year financial guidance Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWEt1UGRhdTEtblpncm1kV2pWQ1l5WlpJYWlSd0Z2cmJjWUIzbENUU2xHNjdBTmExWFQ3eUswdHdHSVdHaVgtUHM3SmstUlpjMXNnOWFJTnR5LWdqX1UxZUExem9KUXJWMW9fdktsXy1nQk5wSDU3dHpJRHJCQV95cE9xYWFkRVFyRFlOdy1iSnBfazI3QVloYUxXOC1QVm0xZDhPajZvSQ?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "716d08e6b36dcaf1",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics, Inc. Estimates – NASDAQ:RAPP - TradingView",
@@ -12639,6 +12672,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMUQwaHVmZm1TdTdHaS1lRUVzMmV1SjNRSDZ1UnhvamtuR0NZUW9yb2Q2aHlTSV9nT0tQWGhEVnNiWHdLek5ibF9Mdm5icHFOTEI0M0pKbjd1dng0eDhMaFprOVliUEtzcXg5QTlGQTZYdDdiV0JoMVFDQmN0WW1LS0dKV2dSYkdnckxObWhxWGlJNGhlUllSeVduVnRCb1hTV29XQVd6aE9MTTg1WWJBc20taTRVNzZQYTVkT21NeXQ?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "18de03960f4282ee",
+   "company": "Idorsia",
+   "title": "Idorsia seeks US label update for QUVIVIQ daytime functioning benefits – first patients enrolled in Dari-Dream - GlobeNewswire",
+   "summary": "Idorsia seeks US label update for QUVIVIQ daytime functioning benefits – first patients enrolled in Dari-Dream GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTjd5dllsRmo2VUJJN1E3RTJMWmFTS0dmazhVcENmc0IwQmhWRTVNZTVwNmFheFU2RUZfb1hOU0wzNUxaeE1WemNOaW1DU1JFYXpyM0FhRXNrSU1xVmI4eWdyQzM2UWtGTldIWFVyRklQS1dtcFU2N2FxU3JjRWZGZERzNF9yQUVMcE1wYVVMM1JXUFNsQWNJd3h0bm9kcVBvZU1vUWFiZzVZcUVwY0tRRms3bW1heEZaMi0yclIyYU9DckplZUx5Z0xPLVhaSUdzM0hyb1h6ZS1KQnhTVnhkTTVCSTB0aWNTWFo3Tjd5bU82VEhJQXJmVW00NkVwd3g4US0zTHdZcVlxT1hK?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20306,6 +20350,17 @@
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNb2U1eVVjUWd2RWFnTGhzcFplUHJLU2Foa3I3VFhqRC1hanFOTVVUbVl6MExwN3BlX3I2ZkFfOUE2ckdWaWdsQkhwa2kzTVJDalNMczVKb1RZSDd6YXBjRnVFMFBlY0w1SlBKdmh4UU5Ea0V5czZXMXB2NGdhbnk3cWVrb3JUaXlvbTFOTU9IaWZmSEtYR0lMSGRYU0JpWE5HeFNYODB3Sk5hblc4YjJJM0t5U0FyQnFXeVVKalRndDNnNnloWnlGWmhrYm44RkJub0lZQlBxaXpuUndOZFRBemFNSzM0YzZvc0Z5VVdjLVdYVDVGS1piU1hWTkxUcjlma1FOQw?oc=5",
    "published": "2026-08-22T07:00:00Z",
    "outlet": "NeurologyLive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c9a14d8ca100e528",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences: 'House Full Of Options' - Seeking Alpha",
+   "summary": "Neurocrine Biosciences: 'House Full Of Options' Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV1RKZTN4UGdJU19hRGVGaWJlRXhvNDM2SE9lTW9GOWdWR3ZDYzhXaWFlZWJGOERCZlh4LUkxM2R1TktoT1RNZllYRGMwdFFoRUNqZVc5M0NqTGlhSVJLMTI0cU1MWkFvVktNM25RSGNfMEZjb0ZxOVl5dHdMMUR3RlVXdXl3LUtnemRyemd3?oc=5",
+   "published": "2026-08-22T07:00:00Z",
+   "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -28494,6 +28549,17 @@
    "first_seen": null
   },
   {
+   "id": "bfadc4b9e0dec0a5",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Is AtaiBeckley’s BPL-003 Phase 3 Launch Altering The Investment Case For AtaiBeckley (ATAI)? - Yahoo Finance",
+   "summary": "Is AtaiBeckley’s BPL-003 Phase 3 Launch Altering The Investment Case For AtaiBeckley (ATAI)? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNlNqR0tuT3FRR05IUE1ZOGNxekQ4NVo4eWtPZG9YRURQYnZrdEpwZ1FSeWRpMklqZi05YmVISjE4TXluS3RFbkdUZl9YcVpNc05ndDFLU3E3ODdJdkNRQzBaM0JOekNWckQ3ak5BUU5ib3BaOGItTHlheVVaTzB0OU55WlJXaVVoY1lCSnV1ckhIRFFCOHpqSkdDOEY?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "edd2c7ba36f555b6",
    "company": "Arvinas",
    "title": "2026 Archives - Page 2 of 2 - Arvinas",
@@ -30636,6 +30702,17 @@
    "published": "2026-05-07T07:00:00Z",
    "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "315c2b2be0014e90",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Reports Q1 2026 Financial Results and Provides Business Update - Xenon Pharmaceuticals",
+   "summary": "Xenon Reports Q1 2026 Financial Results and Provides Business Update Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUXRKdUU1NmdIazZpangycERmTVFETTEtWW84VTR2S09qSEo5ZmpraFBNNWhOYmItMHpaVUVuN1ZmR3o1ZXZ4aXBfZHFFa0R1ZGFsQkdJM1hUWUFOc1hIRV9ybi0zeHV0WWNjZFp3c0RyQ0g4S3Y5SzZ5VTVSRXJKZm1FZ29KU1ZzVHpfQngtN3RFRHI4Z2VsaTluOGF5TE0zQld1d3VuSVdCeXBFWjZwRUVNaFFsbEYzRk8yWjNYOFFHRDlJY0VjaHVn?oc=5",
+   "published": "2026-05-07T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -34585,6 +34662,17 @@
    "published": "2026-03-10T07:00:00Z",
    "outlet": "Novartis",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e6dc724f3b4b6d12",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Pharmaceuticals Announces Pricing of Upsized $650.0 Million Public Offering - Xenon Pharmaceuticals",
+   "summary": "Xenon Pharmaceuticals Announces Pricing of Upsized $650.0 Million Public Offering Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRFp3RW1DakdidWtIT19Gc1lVdnhTVDZ2QkYtUlhCRGJKanhFaFJSRERxWjdoLVc0ajFhMWNKVzJYcjNlZ3RFRnRfNFNSanZQOVZYWmR2Rm9hRnRlckh4dWFhcEYwOWtXenhKUjdKQkVPSTJEQTFnOGpwVmdvd2pCaXRxSS1KOE44SENhWndYUHlCeGxhbm92dER0SDZPRXlvdE40QURPcnd6UWtObkpwbjN5TlU0UVd5SzJscjI0WDhNRS0yN2g1RQ?oc=5",
+   "published": "2026-03-10T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
