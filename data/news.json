@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:16:31Z",
+ "updated": "2026-11-23T19:30:45Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -17039,6 +17039,17 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDlTVllnckRHbWh6VkRqSTNnY3dQMXA0aFg0QVlrSW1MX1k1T21BQjkzaVY3eEZpZ2k1Z3lHQjdUdnNPUWJha1FKUGUtSmVKWnB1WmlaT1pJNTJrWDVMdTY1YjdZT2F4V3ZHODlwNTZvR3lTQk9nSHpLcVI1Z1RBUTRiVVlaU0lYNXFhNy1oR18?oc=5",
    "published": "2026-10-06T07:00:00Z",
    "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "21146ea320c258cd",
+   "company": "NeuroDerm",
+   "title": "Parkinson's Disease Market Poised for Expansion During the Forecast Period (2026-2036) Amid JUVMO Approval and Emerging Therapeutic Innovations | DelveInsight - PR Newswire",
+   "summary": "Parkinson's Disease Market Poised for Expansion During the Forecast Period (2026-2036) Amid JUVMO Approval and Emerging Therapeutic Innovations | DelveInsight PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQQjJPcmtIN2JOenp3VExTdWtHTzlWbTJxRlFsb1BqM2pKdWlHWXdBRDJCNHZZeVNFTmhwVzl0Zzg5WG1IMFdQaUFSVFhtbnlNQzJBNkg0T085SXBUMHFsM01XYXF6RVJfdE5RQ09vSlpqdndTV2RSTDlaQVlrczVlb3JZQjhoM2lreERKamJnMThBVldKc2dtb0pmVW51YURxcUU1VHZQdnIycW9GN21scFZOZnBGdkV2bllsSkMxZHFEeTBIaW5mYTRRQWRFQkFQWHF6Sjk5VHdJLVVoRVAzVHlJTmtYTzBIaE0tVGw1SU5sMFBJVHRRSnJhVFBrSTN6WWRuYmJGdWdwWGpLQkRvRmpqNFNoOFBadV9LcWFoSjI4ejJvb1N0eTRSX3c1TEk0TmQ0?oc=5",
+   "published": "2026-10-06T07:00:00Z",
+   "outlet": "PR Newswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
