@@ -165,7 +165,7 @@
   "feed": "https://news.google.com/rss/search?q=S.Biomedics+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"S.Biomedics Parkinson\", null]",
-  "checked": "2026-11-22T22:16:02Z"
+  "checked": "2026-11-23T05:11:00Z"
  },
  "Aspen Neuroscience": {
   "feed": "https://aspenneuroscience.com/feed/",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-23T03:57:02Z"
+  "checked": "2026-11-23T05:11:00Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -506,10 +506,10 @@
   "checked": "2026-11-21T00:02:36Z"
  },
  "Filament Health": {
-  "feed": "https://news.google.com/rss/search?q=%22Filament+Health%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Afilament.health&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://filament.health/news/\", null, null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-23T05:11:00Z"
  },
  "Bristol Myers Squibb (Karuna)": {
   "feed": "https://news.bms.com/rss/pressrelease.aspx",
