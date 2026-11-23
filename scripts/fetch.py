@@ -308,7 +308,7 @@ def build_items(company: dict, entries: list[dict] | None, choice: dict) -> tupl
 # ------------------------------------------------------------------ ClinicalTrials.gov
 CTGOV = "https://clinicaltrials.gov/api/v2/studies"
 TRIALS_FILE = DATA / "trials.json"
-TRIALS_EVERY_HOURS = 6        # trials change slowly; checking every 6 hours is plenty
+TRIALS_EVERY_HOURS = 1        # ClinicalTrials.gov publishes changes once a day, so hourly catches them promptly
 TRIALS_SINCE = "2024-01-01"   # only trials updated on ClinicalTrials.gov since this date
 NEW_TRIAL_DAYS = 14           # a trial first posted within this many days counts as new
 CT_FIELDS = ("NCTId,BriefTitle,OverallStatus,Phase,LeadSponsorName,Condition,InterventionName,"
