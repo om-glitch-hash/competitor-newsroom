@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:37:33Z",
+ "updated": "2026-11-23T10:45:40Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1665,6 +1665,17 @@
    "first_seen": "2026-11-23T09:37:33Z"
   },
   {
+   "id": "b20295679f90981a",
+   "company": "Newron Pharmaceuticals",
+   "title": "Why is Newron Pharmaceuticals stock rallying today? - Investing.com",
+   "summary": "Why is Newron Pharmaceuticals stock rallying today? Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2s0MHpWcS1tLU0wRFRwYWdiZVBPQ0loUjk5WThROE9VUlVEX0NMYUdzd2JWa1plRGNrSERubjk0ZE82ak1GeURyZzhnNUJxNS1aWGNxWTNHTDJMUm5tNk5NeDdIMVBETDZnb1M1SnNQWUJZU1JDUno3a3prbF8xMG5yS2czZG1ERU9TN1lmRk93eUdsaGxLaHYwT0Vkbk9VTFQyZUJXWGVYWWFmWWVUWEpR?oc=5",
+   "published": "2026-11-23T09:03:23Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T10:45:40Z"
+  },
+  {
    "id": "70994fda22ca02a1",
    "company": "Annovis Bio",
    "title": "How Does Annovis Bio's FDA Safety Data Agreement Advance Buntanetap Toward an NDA Filing? - Kalkine",
@@ -1718,6 +1729,17 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-23T01:52:08Z"
+  },
+  {
+   "id": "34164a033fc431b7",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) options chain – Yahoo Finance - Yahoo Finance Singapore",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) options chain – Yahoo Finance Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcUQ4TjVaeHhwWGxvdlhrclZXbTduVE15OXltNVg3d2tDOXh1MklWaUJMS3c2a3pUWDN2YU9jV05UMW1rZ3lHTDdONUdHN2RMT3B5Rk9vbzNOLXpvcFVHNHlzOW9mTmJUX1JjcUtiWDR5THM1blFXLXpEZVU1Q2xNV3V0NHVUWHJ2ekdfM3RYQkJkUQ?oc=5",
+   "published": "2026-11-23T01:30:52Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T10:45:40Z"
   },
   {
    "id": "c805cff20b8bae13",
@@ -2180,6 +2202,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T15:29:13Z"
+  },
+  {
+   "id": "c17435afc147177f",
+   "company": "Novartis",
+   "title": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) - Novartis",
+   "summary": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMW5hN25TV3ByYUtjdU10elBCbkROb2t0WU1NWUU2b1BoV0d6blVsSnRXS2hOVmlmUE83UlVCU0Y4QWlOWl9UV2tPWWVuT0xrS2cyRnJuTXhTNzdZOXRRN1R6aU9TaTJuTndyYlYyU3pySkhTaVpScmRpZ3FTVEtOSGJwUlF0NFJQc2txZmVORnVYYmV3bFpfbGo0aXllTUkxTEtlVGlCQ3JtTnZJQk9fTHhpZzhadFhvbWZLNUtVTDZ6ZXJzam1kNXdpSGhWdGs3dGEzR0pWVWs3Nlk?oc=5",
+   "published": "2026-11-20T18:52:34Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T12:04:08Z"
   },
   {
    "id": "a7a16c263be1cb6f",
@@ -2886,17 +2919,6 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
-   "id": "65dd0db142ff438d",
-   "company": "Eli Lilly",
-   "title": "Tools to Screen for Unhealthy Alcohol Use - Eli Lilly",
-   "summary": "Tools to Screen for Unhealthy Alcohol Use Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNVBaWjY4c1BjQU02clJxYkE3RTl3N0MydHNTbTUtYWNnVmM2NlBsem1sTm1sMjN6ZlNsRWNMMjM3TmppdVpNQ1NSc3FiTkNFX2oybDY5S2RUVHhoR1BfNENmcEVTcE5DUGg0TWsyenlsSFZtbDRsVWZkVGNUYjF3a1ZvdzgzeUJ1X01lLXNfTm1TdnZXTkpab1NyM2ZTVXVBT29QWERhc3BUSnpseThXcE5WZDFxS0xkcXF6bTdZR29ucVJ1cE5JNHpSS1B2bF9YSlVBRFZFc19CdkxrYi1wZDRIclBReW03alJVcXFPZ1F4ZURnV1NrdE1n?oc=5",
-   "published": "2026-11-19T19:40:14Z",
-   "outlet": "Eli Lilly",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-20T09:02:35Z"
-  },
-  {
    "id": "d1f9d2ba8ae96567",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Vice President, Clinical Science (Neuroscience), Beerse - Johnson & Johnson Careers",
@@ -3049,6 +3071,17 @@
    "outlet": "Johnson & Johnson Careers",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-20T08:00:26Z"
+  },
+  {
+   "id": "65dd0db142ff438d",
+   "company": "Eli Lilly",
+   "title": "Tools to Screen for Unhealthy Alcohol Use - Eli Lilly",
+   "summary": "Tools to Screen for Unhealthy Alcohol Use Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkpSaEw1dTMwdmFNUnh3YVVHUE01SFpzbVlHV2RiaFJKVUdjbWd5U0dyUVp0MXhGamg0ekZEbjc4RnVJZ3d1YmtOR0NxM3lpNDBzU09WMEhyQnhZa29kTm5CX2RSYVhhS0VRY0E5d0wwZG5RU3BrTnpldU00WW5EQWY1eDZhbTFGc0ZHSUZRM2hsNnVORExyWW1kam1LdmdVcEE?oc=5",
+   "published": "2026-11-19T17:06:18Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-20T09:02:35Z"
   },
   {
    "id": "6595a2fd843d3642",
@@ -3535,17 +3568,6 @@
    "first_seen": "2026-11-21T11:58:34Z"
   },
   {
-   "id": "c17435afc147177f",
-   "company": "Novartis",
-   "title": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) - Novartis",
-   "summary": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) Novartis",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMWJ4T2txTl9kRl9OY2FaRUFNN01wZGxPUzlCVWdaNTVraFZ2Q1NGendVYjJudFF5X1JFS05fcXNOWUFTelNZRzByMTk5TmJ2cDdDdHptbkt0dUpGcGt2cEE0Tmt5ZEljWDZjdjJRVW9fTnRvN3VVd0FzMWZRd29KV2l4SnpUUG5tOEd6Y3Z0bDh5eFIwYlhib21pQXRfSkp2dXRmbVlsNzVDYk55amVoNFVZdXQ3Ukt3c2xfLW1oWmo4eXFoMm9fU2J0bmZDVkctcnFSa1YtZ01JYms?oc=5",
-   "published": "2026-11-19T08:00:00Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-20T12:04:08Z"
-  },
-  {
    "id": "9fbc78eed84909c1",
    "company": "Minerva Neurosciences",
    "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
@@ -3775,6 +3797,17 @@
    "outlet": "TipRanks",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T07:43:31Z"
+  },
+  {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZzZV9wcG9yMkJkbTJidXVtdUkxV0lvZzZoNlZQUGduMkt4LVAzbmVvSm5kLWE5Z0lWajJiNmlCdm5FSzc5U2J4b0NMbURnTHNtWHdiVndINjdScnV3Y2JEcGVwUWpPYjFPYzd3dWNHWE1vc3JPMnNveGhvMjZVVlc1TU03eHp0cGxYaXNySG5MN2w1ZW1Gc2pFU2N2OVZkQkxXV3pZQ3l4UWVNRTBORHVzYw?oc=5",
+   "published": "2026-11-19T00:49:03Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "d0312c4cb0ad9d03",
@@ -5161,17 +5194,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
-  },
-  {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUNySXI4SVdpNHBFNGo2OEJ5TU5pcTZZM2VIVjY1aUFNcGV1NG5KYS05NkJkNVdzRzRlS1Z4QW9xQVVKX0RfcmdtNTlvcGRJYmlYM1FtZ2piRjFHbms3dVB4RDRpaW9MSUtUaGVEenJ1MVdsNVBCSW5RWHdMUlhYYUhXcGZBdmt2em95d0JJaHI5amJ6dkFmcTBkQlJiOVdGMGN4M1RNVkZHQ1ZzVksxRVBHWQ?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "9f871b718e8894b8",
@@ -10861,6 +10883,17 @@
    "first_seen": null
   },
   {
+   "id": "a8d5e6b4efb512a2",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. reports results for the quarter ended September 30 - Earnings Summary - TradingView",
+   "summary": "Rapport Therapeutics, Inc. reports results for the quarter ended September 30 - Earnings Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWWJzNUg5aEZ5LUJsUzR2WElDV1VtOW9FYV94bGhOSUk2cjZmNFhTWVpueUt2MHE0ejczNlNtNktZbTFnN0hVVUYwNE5HcmRtck14OUVHY0piZk5qQUttLXY2Y3Y3bmVuWnVEZ1didVNlUHM2SldKakxUR1d3d2dCRi1helVpX2YtX3ZJVU1Pa3Vob3BDc3NBZ2RPNWFzT0k0X2tJQUxjTW9DeWQ5VWN3UU1BT3h1VFJqMnhBY3hOUU54d2ZZbUtNNlVHUHREdmdueG44VEF6M2dWTWhOZ2lLLTNwOHhJa3Z1OG8tbktMOXF6TTRf?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "aa94d8a73b860333",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
@@ -11543,6 +11576,17 @@
    "first_seen": null
   },
   {
+   "id": "e2e060e73858b0f3",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
+   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkVBd1kyN2w1aVY3LXp4VTBhZ1l6QTNPRnlzQl9JbERCeWw3Z1pHYnY3WGVDYUphWXJJT1RJRHljcXRKOFVqSUNiTHpILW1VQ2hTa2R6dWFhQVpKYVlUNE9sMmgtQmFaeHFKZHpzZ25JZlNsSkk2NTRzRFpoZ0NESE9TV3F2SGRMQUQtZ1U2QmZLeF8teFhBUTdFbkRrZC1aQmg3NXdpM2haeFY2WXlV?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dd359d86190e407a",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals Legacy SEC Filings - Supernus Pharmaceuticals",
@@ -12075,7 +12119,7 @@
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update - GlobeNewswire",
    "summary": "Axsome Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQM1N2LVo1emVtN3VsNXpLU2d6YzNBNThXU0lQYTdYUl9wOFRPbnBmdHI3VFJYUGdKcmN4SklyOE5vT2Z6SGZjSG90c0dPSDNsOW5HN3BFVGJmUnpueVRUUExvOXRqa3lnTjB6bXU5VUtNX0o4YXV0bVVfQ1VIZzJwQ1U0eWlNMEROR0NiWV8wSG9aMzNvNjlLUVpsNGJQcGFld3RZcEN2eHNWZWUyRHZWOFdjVXlhb0tlcXpQSGJJT1hTRkg1TUloc3RrRmNSSWFrcGhpMFNoUnZ2RXAtSGh5VExqU1BmS1Zzb1VYMkNTWUF0azZvNHBXY19rc1dTQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa1Bpb2RBNWlnS0gybmRFM3lPQkZsUTM1cVhUbUhDYVlrNW5yTmc4R0xienhqWGlxQ1BCQlh4bXZwd2ZXWEc0MkxEeDBXSlRFcFd5VXFlTFZSUUlyYnR6dUctXzBwUUpfanZMTnlwbEtHU2kweDZYdDVPdllSZFdENEdKSWd6dFNYSHc5STl6c3BTYnNPNGlRSjlmMlpqU29mbV93VzNXaF9ZY2Z6VnN4ZDRmU1RJeUUtOS1BUExVbW1iRTdPMVFpb0NCQy0tRXk0M3k5Y05SbTZIczJEbXRILWlWUUcwczg5TWV0UklzRGlHamp4eGljcA?oc=5",
    "published": "2026-11-02T08:00:00Z",
    "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
@@ -12526,7 +12570,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -14040,6 +14084,17 @@
    "first_seen": null
   },
   {
+   "id": "f66b8addf10917fd",
+   "company": "TG Therapeutics",
+   "title": "First Clinical Evaluation of an Allogeneic CD19- Directed CAR T-Cell Therapy in Progressive Multiple Sclerosis: Initial Results From the Phase 1 TG-Azercel-101 Study - TG Therapeutics",
+   "summary": "First Clinical Evaluation of an Allogeneic CD19- Directed CAR T-Cell Therapy in Progressive Multiple Sclerosis: Initial Results From the Phase 1 TG-Azercel-101 Study TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNb2NGbWgzYXNpSmVwdFd4cWwxWEJSRmVMSURIbzREajBrc0tuRWljTDNqOWJuNGtwaFhLUGJRWmFFZEY5M1N0OGxreTlWSk93VE56Y011emtnUTdoUDNjbzlKdGFfeDJ2Q2VCZUtFbDJYOXpPTk5veFB4TGljNGFmVk5waG95OEdzeGhmbml0LW9HTXBPUlhWNGoxcDZEdVdDSmNQM19sVWNuNF9QTEh5QXZPQ0dmYlFwd0VqUGVMd0lUc1BOMnBBU0xMamZ5MXp2MkpuUG1EUUxPdnZPU3cyX3lJYWZ0MnlXTDFPa1pFOHk2Q2dwWGt5dk8zdkZoZW9mdTBCY29jc1FsSkJDTzRfRXViY3doSnZuREFyT0Y2TWNKbGxfWVNKMHJHckQ1Nnh4Nmc?oc=5",
+   "published": "2026-10-23T07:00:00Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "f8e39737db6b6623",
    "company": "Newron Pharmaceuticals",
    "title": "Newron Completes Enrollment of Pivotal Phase 3 ENIGMA-TRS 1 Study - TMCnet",
@@ -14286,7 +14341,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxZm0tN3FPTkVuazVGa2s3bXQtMHpIeTNoLVc0ckJ5d2YxdnZCNEkxZGx0WWFham9ldTVtbFV0aVRJRFF1a3czaFFMRVhPNUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGFUbVF4WlEtdno3dzZxUmxzOWdXMHIxM3c0c0FnLTJqN0VvaEpqTjNGTmNaOVpOUWlRSU9jS2tWX3hpeEV3Qm96R180UFVYVTcwZ0VZaEptd1BxT3dmLXlaS0dTT0REUjg2QkpFNnZBdzJMcXdvNkYyaXZHTHhrUUpna2lXNUVCRDRNSFExLUdwMzVERWtnbmJZQVJ3ajZEdWJtWGM3dTdpY0JEOTJXTUVkcTNUNEtIQTMwMHdjRQ?oc=5",
    "published": "2026-10-21T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -15059,6 +15114,17 @@
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWnJIRlNfZjJyMDM0Qk40OVdITlJMMEozeW5OZWw0aHEtNXRPVEV5b25Yem00eEpLRkYxWkNFM3lJOVRlT0x2QTJSOTJIZkRaM1YzelFUb01ZYUpocEhObHQ1V3dqQ3ZicVRVSzVrQlQwYnQtOUFYMVJSQzBLOHJFRlpfV3lULWVDeWNJLVdwcWNwTFZuYlozTGJ3V1NUOWIteGEzcmdIN1JieDlCLXB3c0NTbkhVemhCU1BGOHlJWFZxSVlWeWdiODltaWhFdktDZ0IyaA?oc=5",
    "published": "2026-10-15T07:00:00Z",
    "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3e7fe3cbb00b00ed",
+   "company": "Rapport Therapeutics",
+   "title": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target - Moomoo",
+   "summary": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1FfaExBZkFyNmFDSUZaV2FDdXctTHM0X09XWEhDaGhCdzV3dXJydXRpLUhkdlNNTG91VW54T0w0TGc3V0NXS1VUVmtDQlFfQWktOFVlVVRMVmo0ZjBBS1k4MHZFM1ZtTkIxUDU1WUx5MVF1bm4yYTMyVzJjQzV0ejlJUl9qQXpWMVhnU3V1aWdrdDNIUEdtUy1DZGdFcHhEdVBkaXluSGp0UQ?oc=5",
+   "published": "2026-10-15T07:00:00Z",
+   "outlet": "Moomoo",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -21124,17 +21190,6 @@
    "first_seen": null
   },
   {
-   "id": "e2e060e73858b0f3",
-   "company": "Axsome Therapeutics",
-   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
-   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHJHV3l3OXA1bS1vWl92V1ZDMG85MmcxMWQ4V2xfRnRrVHR0SkI3UjhHd1NKdTJFTGFzLV9MQTlJbWhpTXR3LVFRdzF4Nk1ZYzAwQnFDZGxZaDdGY3FKc0pBb2ROczl3UHRBNlJCaEpubjhBaDFpYzJNaWtpZS1lNlg2OEs5U2s0eGh2anRhLUhfNkdDeFVGWnF2VzJGazRMUnJ3VlJZNzN5RFZmZlRR?oc=5",
-   "published": "2026-09-02T07:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "07d8ee97f0104ed5",
    "company": "Sensorium Therapeutics",
    "title": "Mass General Brigham study finds chronic pain linked to altered skull bone marrow activity - EurekAlert!",
@@ -25231,7 +25286,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -26738,7 +26793,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - Eli Lilly",
    "summary": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92T3ZmNng2MVhya3ZjX1EwZUNDMWlsLWI0Tmd0cEJFU3A4N3FRWjdWTnpoZVpRc3NIWU5ISDNkSzMzSHVKekFxdFNnRktsV0UyanhN?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS280WDZmcXhMU2J5MmdnQ0hKejh0X1prSWN3MDJUTko1NG1lSENxWXlLN1lfUGNVMDUtQktXYzVLd0p1c3A2WjdCUW9jUWw0OWhIek5DdlR2WTBCYmtXYWpOTTFWMnBCZjRDNzduTl9BTDlWWlJPdWc4eUd2emlJNnYzUmc3VUd5NU5OZmwxajlRMXdwTTdpZXNYUDFXeTctMTVmWnBnXzhlMk5yTjBwbFh1SF82b3BSM29tMnVhNTYyeFU?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
@@ -31461,6 +31516,17 @@
    "published": "2026-05-26T07:00:00Z",
    "outlet": "Moneycontrol.com",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "383e64bc4f021b6b",
+   "company": "TG Therapeutics",
+   "title": "Ublituximab significantly improves patient-reported outcomes: results from the phase 4 observational study ENABLE - TG Therapeutics",
+   "summary": "Ublituximab significantly improves patient-reported outcomes: results from the phase 4 observational study ENABLE TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV1VqSzlEbXE4eUxSaHNfa09BanZ4SlJpYXVva1hNaF9MZThhcnBaOFNlWThkSGtWeWxOWDBvODNtYVlRRnZyeEhfbC1RdVpWUTEyNEdZbFR1aDV5bFM1RlNHNF9kOXpSQjdFTDE4Z3ozbDBPZWdQTDhKMXJBNEFWSl9xZzlEcXVoTkNiQ045THpuQk4tcVVxa0V0bWk2SWNyRi1wT2NrUXgwY28wQjBrQ3pfWklNak9hVWVIMXJEQjgzSGpVZW4tZGpMM28tOE51aEp0VTllUmdacG9VMExvdXZ0c0tlZ1hsZk9oOURn?oc=5",
+   "published": "2026-05-26T07:00:00Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -36498,6 +36564,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1dXWVo3U1FMSWRqUHlucFh6cWxrdG9tUWh4TDNFaXdnZDhpLWp1LVVyYnFJZGVkMXhIbDZ6M0NvVzRZZF9EV3dvNm1hbFBwOEdlV2ItS2NtbElXeHdHckh1ZndXclUxQldXcVRMMkNFQlNKc0NWNWtIYzRvN3NsSEsxZGhfWDZyUjRKUEV2X0ZWV21IcG10LXMtUWtzb3BPcmNhbTZYcDY?oc=5",
    "published": "2026-03-24T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c1d2d3a26a6181f5",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Reports Full-Year 2025 - GlobeNewswire",
+   "summary": "NRx Pharmaceuticals (Nasdaq:NRXP) Reports Full-Year 2025 GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb1lMalV2RkJoSDAzWURVaVc1S250dHRHdGpaeUFULUJydm9oazEzQlZwREdSendfMVNmTW5YWFJZSFpCX19oR0lUN0tNMGFsQ3F0dHlMUDFkdDZ3UFpWOFJldUJ2OE9mVjlncUVEb3JtVWZQQnZ2ZzNZdXZqeTFJYTNFeEN6WDhNMU1FQlZ2SE95bkJ1RlZBQ1Q0T01XdjJ5TC16bWo5VVRrY1BESzBwclZ3aGJEUDY2R2lnNlFyT1Y1d2hRSEZ4Vk1YRktNX2pya1E0OUduRW8xTTc4Uk54bjNtNEV5X0ZYd0ZiaG8xNzV6dnJlZl9iTmVxcnFheC1jOTNld3M0LUt1NjdzWWhya2xna1U1LTA?oc=5",
+   "published": "2026-03-24T07:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
