@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:11:00Z",
+ "updated": "2026-11-23T06:19:34Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1653,6 +1653,17 @@
   }
  },
  "items": [
+  {
+   "id": "8c073fe05eb5cc19",
+   "company": "Newron Pharmaceuticals",
+   "title": "EQS-News: Newron Strengthens Evenamide Intellectual Property Portfolio - finanzen.ch",
+   "summary": "EQS-News: Newron Strengthens Evenamide Intellectual Property Portfolio finanzen.ch",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDZfZ0tkMTNWVzZYMDNvUElVQzZKb3ZTb3FjMnRtcW1XdGFTd08ya1ZpbEtmYWRKUHczOUNKc3hkUDc5R3RFUm41eW1tUnQwTy12NzhWNktFREQ0TEpfODZlTWt6eWRCZ09jZ3JFb1ZCN3RZbTNaVWZDeHV3aGZFQnd2RC1BUHZIT0ZGU3ZrYzd2cGpQS2kwUjdkem9QSEQ4UUZEWGVZdC1iRmpDb2VlWGNCNzc1STRUZ0Q1elJ6MUY?oc=5",
+   "published": "2026-11-23T06:06:53Z",
+   "outlet": "finanzen.ch",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T06:19:34Z"
+  },
   {
    "id": "7b47d2af4731599a",
    "company": "Novartis",
@@ -7770,6 +7781,17 @@
    "first_seen": null
   },
   {
+   "id": "e8e8e4642649273d",
+   "company": "Gain Therapeutics",
+   "title": "Roth MKM Maintains Gain Therapeutics(GANX.US) With Buy Rating, Cuts Target Price to $5 - Moomoo",
+   "summary": "Roth MKM Maintains Gain Therapeutics(GANX.US) With Buy Rating, Cuts Target Price to $5 Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDM5eTM1ZGlGM2Z2MkVWaUJ6cW9zTHZjam9kcVZYMDJFbmNsUUdhRTRuUWtVSHg3NFZZSHVsSFNGY2hCR3hsNlhpcmc0QmJBMi12Sml5dWFnM3F5eUhGRkdrdG9yYm1XU0pWZzR6cU5KRFZtbVlfeGZURmVkYUZwWFA3VHQxOGpwdkZoUkFHZ08welZfOXE2RDA4dHROa2FNcTBsTmlIVXQ3TmtX?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "59f49190b8e0f05a",
    "company": "Incannex Healthcare",
    "title": "Incannex Healthcare Q1 2027 Earnings Date and Estimates - MarketBeat",
@@ -11396,17 +11418,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBucGlobVJKRmpidjRtYzdCeVhMVDhMOVBucmVCRWlqLTFLUXUxcUc4MzA1UldkY1Y2V2dZeUVCUnJmT1RycFVIbzUtWnA2elZmeWNkUWN5QjM?oc=5",
    "published": "2026-11-03T08:00:00Z",
    "outlet": "tokenpost.com",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "e2e060e73858b0f3",
-   "company": "Axsome Therapeutics",
-   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
-   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkVBd1kyN2w1aVY3LXp4VTBhZ1l6QTNPRnlzQl9JbERCeWw3Z1pHYnY3WGVDYUphWXJJT1RJRHljcXRKOFVqSUNiTHpILW1VQ2hTa2R6dWFhQVpKYVlUNE9sMmgtQmFaeHFKZHpzZ25JZlNsSkk2NTRzRFpoZ0NESE9TV3F2SGRMQUQtZ1U2QmZLeF8teFhBUTdFbkRrZC1aQmg3NXdpM2haeFY2WXlV?oc=5",
-   "published": "2026-11-03T08:00:00Z",
-   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20923,6 +20934,17 @@
    "published": "2026-09-02T11:00:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "e2e060e73858b0f3",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
+   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHJHV3l3OXA1bS1vWl92V1ZDMG85MmcxMWQ4V2xfRnRrVHR0SkI3UjhHd1NKdTJFTGFzLV9MQTlJbWhpTXR3LVFRdzF4Nk1ZYzAwQnFDZGxZaDdGY3FKc0pBb2ROczl3UHRBNlJCaEpubjhBaDFpYzJNaWtpZS1lNlg2OEs5U2s0eGh2anRhLUhfNkdDeFVGWnF2VzJGazRMUnJ3VlJZNzN5RFZmZlRR?oc=5",
+   "published": "2026-09-02T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
