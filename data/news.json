@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:07:16Z",
+ "updated": "2026-11-23T19:11:18Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -7737,17 +7737,6 @@
    "first_seen": null
   },
   {
-   "id": "5ef16c9e125395dd",
-   "company": "Serina Therapeutics",
-   "title": "Serina Therapeutics Reports $7.9M Q3 Net Loss; SER-252 Advances to Cohort 2 - TradingView",
-   "summary": "Serina Therapeutics Reports $7.9M Q3 Net Loss; SER-252 Advances to Cohort 2 TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRFRzUTFCcGZPSlF1dDA5MndEd0tidlY4QXR2dlE2OVhuVkRtUkZ5UTRPbDZRMWctdDFLOS1LUlV2Nmg4S1VhY0hHdHhXa0p4TWhDR0FfanJxMEZMbTNhS01fS3haNkUyaTlabWNVeWFVRXItMHdVVk5URnA1OEc4b3ZhcVVPdnZSLXZjYnRiMFJVZ19qeHBPZkZMbGJVcjVzZXBZUExlOUV0ZmxWNXRUd0hWZnpneGphMnNvQ1ZsblRBSVVaSWRUXzhVYU5mai1a?oc=5",
-   "published": "2026-11-12T21:28:50Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "2f11add56e46dfe2",
    "company": "Serina Therapeutics",
    "title": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates - Quantisnow",
@@ -7953,6 +7942,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5ef16c9e125395dd",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Reports $7.9M Q3 Net Loss; SER-252 Advances to Cohort 2 - TradingView",
+   "summary": "Serina Therapeutics Reports $7.9M Q3 Net Loss; SER-252 Advances to Cohort 2 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRFRzUTFCcGZPSlF1dDA5MndEd0tidlY4QXR2dlE2OVhuVkRtUkZ5UTRPbDZRMWctdDFLOS1LUlV2Nmg4S1VhY0hHdHhXa0p4TWhDR0FfanJxMEZMbTNhS01fS3haNkUyaTlabWNVeWFVRXItMHdVVk5URnA1OEc4b3ZhcVVPdnZSLXZjYnRiMFJVZ19qeHBPZkZMbGJVcjVzZXBZUExlOUV0ZmxWNXRUd0hWZnpneGphMnNvQ1ZsblRBSVVaSWRUXzhVYU5mai1a?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
