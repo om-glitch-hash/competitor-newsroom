@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:19:34Z",
+ "updated": "2026-11-23T08:03:38Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,28 @@
  },
  "items": [
   {
+   "id": "70994fda22ca02a1",
+   "company": "Annovis Bio",
+   "title": "How Does Annovis Bio's FDA Safety Data Agreement Advance Buntanetap Toward an NDA Filing? - Kalkine",
+   "summary": "How Does Annovis Bio's FDA Safety Data Agreement Advance Buntanetap Toward an NDA Filing? Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYloxQ2E1eXpXSjBBLTdMR3ozT25GQ3RrRUt4NExMbTN0ZFFfWlk5NGdVdHhtakFsdGxoX2xlalVtUlJzOWdiN2EtOURncFY5NGN6c3pNMFg3SHl6OVpTQ0pvVmhzblZ2U3Q4X1hqQU5LX3pUSlE3aklsa2tnb2d3aTE0N19kTGlicEZ1ZDk5SFQwamxGakFJcllFVHdOSHhDbUZYNlA1V1M1ZmJlbWtUcUEySW4tS3ptX28xb1hDLW9YbzJt?oc=5",
+   "published": "2026-11-23T07:34:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T08:03:38Z"
+  },
+  {
+   "id": "39446c838e66367d",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron’s Evenamide Patent Protection Reaches 2044 in Europe - TipRanks",
+   "summary": "Newron’s Evenamide Patent Protection Reaches 2044 in Europe TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFYzTE1HRVNxN01EMm1URWREakhTejZsTDY4RHBIeW0weXF3b2Z3WGtja3FWVjFSNjFiQ3Y4aFpPNjNsQXB0cTVYaFhjTnFuQktOMU41ellpcGE0UHhFdDBUVFNORWZBdllEREN3czdLUEQ5S0hGWUs4SHd5VlFKR2E3YkJIcHd3Ukx6cW5McmFqQjhNUElpR0R1aklmTjNyVF9uRGtFS0JxcnFQWTJj?oc=5",
+   "published": "2026-11-23T06:34:45Z",
+   "outlet": "TipRanks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T08:03:38Z"
+  },
+  {
    "id": "8c073fe05eb5cc19",
    "company": "Newron Pharmaceuticals",
    "title": "EQS-News: Newron Strengthens Evenamide Intellectual Property Portfolio - finanzen.ch",
@@ -1663,6 +1685,17 @@
    "outlet": "finanzen.ch",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T06:19:34Z"
+  },
+  {
+   "id": "642da37b74d4fbbc",
+   "company": "Novartis",
+   "title": "Twice-yearly* Leqvio® (inclisiran) reduced cardiovascular event risk in first outcomes study of an siRNA therapy in ASCVD - Novartis",
+   "summary": "Twice-yearly* Leqvio® (inclisiran) reduced cardiovascular event risk in first outcomes study of an siRNA therapy in ASCVD Novartis",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2xNaVVwQTk2cTU2aFFmOHRFVzZVNmVScjlTbzZtM2tUTTFRcFllQ1lEYWFNRUhVbEpTUkdWYnc1T2hGM2U2MVV3RC1KQjM1QVN4T2RxdWJ6SFI5TzRhek96bUJfdlZDVk5vMlF6cHc4VWVrVm1LeVhQNU91azE1b21HLUN5Mkd2cDBzTUpJZnd5ZjRYYW1pM08wd1lacFU2cmVHZ291TkJuQzhNWkc5bVVGZ0R0TXBLOE1BemxQbjM3Q245UURPMzRkVnp5MmJHcmVYLWtvNnBEdi1TOUZscllpV0g?oc=5",
+   "published": "2026-11-23T06:00:00Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-23T08:03:38Z"
   },
   {
    "id": "7b47d2af4731599a",
@@ -5581,6 +5614,17 @@
    "first_seen": null
   },
   {
+   "id": "d89a7d7fd69d8c13",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Ransomware Attack by N0n - SOCRadar",
+   "summary": "Vanda Pharmaceuticals Ransomware Attack by N0n SOCRadar",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGlRRDRuTW4tLVRLLXZqdUFFR21LUk0zOGpaZWhPOXcyd1FRYWdNaURVRndBWWdaSzR5QXhuaWFMMnJGYWtvWDZuaGFCbk9SXzhOSkp6SlpSS1c1X1B6OWl3aHpGZzBFSXFxZndfMjdocXF6TzltRGdPNGNVVXZacW1Rb0FBb2M4eHZNS2NhVWhicTVTYkp1ZmNhdGhVZw?oc=5",
+   "published": "2026-11-16T16:14:29Z",
+   "outlet": "SOCRadar",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e09a7a5f515b6a89",
    "company": "Teva",
    "title": "FDA clears Teva's IGALMI as first at-home agitation treatment in schizophrenia and bipolar disorder - Dealroom",
@@ -8694,6 +8738,17 @@
    "first_seen": null
   },
   {
+   "id": "524ef39b0bbeae5f",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Form 8-K for Xenon Pharmaceuticals INC filed 11/09/2026 - Xenon Pharmaceuticals",
+   "summary": "Form 8-K for Xenon Pharmaceuticals INC filed 11/09/2026 Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmlldzhJdjdWOFdVRDZhazBTQ3ZlWG4xMTFBRmIwVUNlNldPRTBJRGJaUWpBRWU2RWR0Zk9QVWFFR2o4MlhFR213Umlnc1NhV3J5enFscVN6SzViZ3I1N2JqUzFsQmRQVFFSaDBGQWNPNnh5LWYwQlNVemM2WlJmU3ZWM2lyaGFvZk80?oc=5",
+   "published": "2026-11-10T04:13:57Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "a146619b24b8c743",
    "company": "Xenon Pharmaceuticals",
    "title": "Xenon Pharmaceuticals Q3 Earnings Call Highlights - TradingView",
@@ -8712,6 +8767,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWt2bTN4bU56aXNhWmFFV2NuUkdLczB3UmVmVXFnWFpRcGRzYnBWNVRYSXhYekJTeWcwbFlxMTFvNC1LM1M2cUl5aEdlVzhpNzlvZS0ycm5ycElPbWZzNEVaZkZaS2lQMzZrT0NfMVBabFJBaUtqX2VQcWROLUFGYnhCV0hKNU4w?oc=5",
    "published": "2026-11-10T02:08:00Z",
    "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "7cef88586a3fdb64",
+   "company": "Xenon Pharmaceuticals",
+   "title": "0001193125-26-453521 | 8-K - Xenon Pharmaceuticals",
+   "summary": "0001193125-26-453521 | 8-K Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWt2bTN4bU56aXNhWmFFV2NuUkdLczB3UmVmVXFnWFpRcGRzYnBWNVRYSXhYekJTeWcwbFlxMTFvNC1LM1M2cUl5aEdlVzhpNzlvZS0ycm5ycElPbWZzNEVaZkZaS2lQMzZrT0NfMVBabFJBaUtqX2VQcWROLUFGYnhCV0hKNU4w?oc=5",
+   "published": "2026-11-10T02:08:00Z",
+   "outlet": "Xenon Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -11422,6 +11488,17 @@
    "first_seen": null
   },
   {
+   "id": "e2e060e73858b0f3",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
+   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkVBd1kyN2w1aVY3LXp4VTBhZ1l6QTNPRnlzQl9JbERCeWw3Z1pHYnY3WGVDYUphWXJJT1RJRHljcXRKOFVqSUNiTHpILW1VQ2hTa2R6dWFhQVpKYVlUNE9sMmgtQmFaeHFKZHpzZ25JZlNsSkk2NTRzRFpoZ0NESE9TV3F2SGRMQUQtZ1U2QmZLeF8teFhBUTdFbkRrZC1aQmg3NXdpM2haeFY2WXlV?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dd359d86190e407a",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals Legacy SEC Filings - Supernus Pharmaceuticals",
@@ -12343,6 +12420,17 @@
    "published": "2026-10-30T07:00:00Z",
    "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "54ec92c4ab0cec79",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSmJpcWZTZjY2VXpyQkh5UHBPYzQtd0NVS09CV2ZEY3dEd0pfdjJobG5HUmhQazN2aGRUWlhrWmdLb0Fja3hsdzl5YXRMTVJVQVJET21Mbm41RThtSkd0RTlIdXRBV3lkWlRZRktQVEtTd2NmY2JOdnJNOVdkckdpelZJZk5KSVhodDQwZEVsdXIyVFp2aXhlV2dvYW9NaGFBekZ4NWFsTjIyRHZRdFh4R0dXNFVFX3dTbnBpQ3RlM1R5T181MlhoaE5TX1E?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -16236,6 +16324,17 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVW96OG1CV2l3QjZucXpZVVpRWHhyM3IwY25nbDl0cV9fZXFrLUJJVGprMFVmSUF4bGFXWC1KWDVtSWFpMUpmdXBPa3FhSk5ITjNsQjR2clltY3ZZUzdLbUVDaXJCVUcwQTE2ak96REFSaTl1SFY1LTY5WFdCX3FmZXQxVGlxT3hsRzRRdXVPVkhHRjRvbmw1blhjS2hjdkFTSTFzUnpXdWJTZ1JDSElBWHJBZW9wdDNQdV8tOHM5Z2lXanR6RldzeGkzQnRPUWlWZEpIdGttZmE?oc=5",
    "published": "2026-10-07T07:00:00Z",
    "outlet": "NeurologyLive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ed1fcd33b6b9a3df",
+   "company": "Roche",
+   "title": "Alector soars as Roche licenses Parkinson's therapy for up to $1.27 billion - pharma.economictimes.indiatimes.com",
+   "summary": "Alector soars as Roche licenses Parkinson's therapy for up to $1.27 billion pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaWNJQklueU1KLU5WTG9vRW1UT2lGTjBwWWRJUWJTZGRvZ2NVUGktWHZINUY4cUh2SXJaa21LbkJaQlNYVE0tWEt3UEFQWFgzdGJxWk81Z1NFR3MtVi1wRWV4RkhsN2hBNmJZc2JPRDc2dDR5S3ZYQmRVdEJZcGR2LVE5Zmd4dnY3ak9yc3RPWVZrTVdycmttaVhXWmVLSkxnaTZId2dKN042Q0hvc1Q0SWEwTEVTUUI1Q1p1Rjk2S0pOc1RKcG9OaFJoTVZ3UTlrUXpzMmd4Rm5xNDk2YlNnQzJB0gHmAUFVX3lxTE9PMGk0Z04wWUdqQWJyU0hYbk03OERFSUNmVnVUVkFLVW5iQkVkcFBwVXM4UkRPSUw0cDdLRGpWM0g1azhVVENaVW5fUk5RRW5lR0JEZXNWVTBvaVBuZnZCTVdjT3BKemo1SlZFcWRoVkdLSXk1T3VHSE4zUkpvRnRUcDd4a1JINWxfR2dFZ1NmT2szQTFiQVBkMl9jUFllUTNlbVM3eDFTN2VYbGYyN2RlcWJKSzVleUVTb19OOVVPZW1Wc19BM25VWlFrU1BQQVJtdmY3WGktODNVa2FHOGpHMGppV2xR?oc=5",
+   "published": "2026-10-07T07:00:00Z",
+   "outlet": "pharma.economictimes.indiatimes.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20937,17 +21036,6 @@
    "first_seen": null
   },
   {
-   "id": "e2e060e73858b0f3",
-   "company": "Axsome Therapeutics",
-   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
-   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHJHV3l3OXA1bS1vWl92V1ZDMG85MmcxMWQ4V2xfRnRrVHR0SkI3UjhHd1NKdTJFTGFzLV9MQTlJbWhpTXR3LVFRdzF4Nk1ZYzAwQnFDZGxZaDdGY3FKc0pBb2ROczl3UHRBNlJCaEpubjhBaDFpYzJNaWtpZS1lNlg2OEs5U2s0eGh2anRhLUhfNkdDeFVGWnF2VzJGazRMUnJ3VlJZNzN5RFZmZlRR?oc=5",
-   "published": "2026-09-02T07:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "07d8ee97f0104ed5",
    "company": "Sensorium Therapeutics",
    "title": "Mass General Brigham study finds chronic pain linked to altered skull bone marrow activity - EurekAlert!",
@@ -21220,17 +21308,6 @@
    "published": "2026-08-29T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "54ec92c4ab0cec79",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Xenon Pharmaceuticals Inc.",
-   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Xenon Pharmaceuticals Inc.",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXd2NFhVWEVubHpNWkxObWhpOFdya0FRS0ZNWkkzX2NzT1l4T0xZQ05NSlF5eHdNNkJuVVdWOFgyOWRWcjJhM3dsM0JPanhYb3hDSVNBUmU0NjZPdUhrT21zajFxMF94UTE0dkxYai1idUNhbkpIb1F4MDAzY3Z6UGJhTjZ1aG1MVl9MRkhOS3YzaFhWdFphN2ZOcTlyeXpQeHdQRmdxTG1oS2ZDUDNxS1ZmQWc4RHVfTFE2UEhLeG1tTGphbmFBTGFnaDY?oc=5",
-   "published": "2026-08-28T07:00:00Z",
-   "outlet": "Xenon Pharmaceuticals Inc.",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -21801,17 +21878,6 @@
    "summary": "Jennifer Buell, Ph.D. Protagenic Therapeutics",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOemFxWjFHVUtFTVJ4cTctZEZFdWV5NWhTV3ZvSkpPeE9xc1lkSml0UDI1dlZXaE9NS2l3SzdpU19wbGtWOTlYSjluUndwc3hGRDdzSg?oc=5",
    "published": "2026-08-23T05:53:12Z",
-   "outlet": "Protagenic Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "d45c9127ff193dfe",
-   "company": "Protagenic Therapeutics",
-   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
-   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rbEJYVVpIYU9xX1VZa28wOTdDRUxIdkFrMTdCT1VDUS1OYnRNbmdvWTZlenY3Mk5XSXlQNVprTFNIWDNOc2pxSzZhUkExYklscVE?oc=5",
-   "published": "2026-08-23T05:44:04Z",
    "outlet": "Protagenic Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -24299,6 +24365,17 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGo2MEZqV2RmZDh4LU9hc25iMnBGUG1ORkdweGdkMXU0dkhHZE5lbzliVHJmMFBxaFhTMXVHbzJyalhkS2M1bjRLSGJxX1R3UXZTcmw2b0REOFNQdGY2ejczLUs0dnJuMVphV2lfZ1puRE5hdEFKbGlfQmhjRV9UazJwczB3NC03cEowaUpObGxZYXdfZ29fUGI3MzJPUQ?oc=5",
    "published": "2026-08-05T07:00:00Z",
    "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "80a38aa9ac3514d5",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Inc. Q2 2026 Earnings Call Summary - Yahoo Finance",
+   "summary": "Vanda Pharmaceuticals Inc. Q2 2026 Earnings Call Summary Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkFQV0RabTZfRmlHakJzd1A1ZVFGZHJnLVY5Zk0xZmNTNUNfMnRIdjhSdUh4UXR5d0d2bS1EdU9qVlVNZEVZMTFBZlVpcjR6MzdvLW10WXZtSy0wZG9fQ1dqbHdOczNZX1NwZUtPVWw5NGh5bDROZm10cmNhVll2Z1NIZWpkV0FSSG9paW1rbHpxZ0dMeUxXMEFR?oc=5",
+   "published": "2026-08-05T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -28017,6 +28094,17 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0T1BOdGp2TlZ2ci1veEJvZ2xIYUpGOHY4MXU4SWFMd01wQmVCWDRUWk5zR01semlXUklIQW04UVFNRDRzZXpGTFIzNDFDZWFYYm85QzhObFItTWNXUUIycHVic2FuWWFfQ2preTFpTHo?oc=5",
    "published": "2026-07-03T07:00:00Z",
    "outlet": "Labiotech.eu",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "98a21c6c3d18ae72",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Here’s Why H.C. Wainwright Remains a Buy on Vanda Pharmaceuticals (VNDA) - Yahoo Finance",
+   "summary": "Here’s Why H.C. Wainwright Remains a Buy on Vanda Pharmaceuticals (VNDA) Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcU9DUXpBcVRYZEpvV3dWR0pndmJ0S08zY0JCS0RRdHZfMFBMNzJtTGwtY3pHXzBQRHdYbWhDUGJ5YWJNMXcwcHJ4NGJNSGEyRjZWcjRlX2k2anJ6ZGliZktSYlFQZHh1dDhkVDZNN2F5SlpKVEZ5WkFvMkV5YVAzQmF4Y3BXVUpOcFlVN3QyS2Q?oc=5",
+   "published": "2026-07-03T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -32146,6 +32234,17 @@
    "first_seen": null
   },
   {
+   "id": "d45c9127ff193dfe",
+   "company": "Protagenic Therapeutics",
+   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
+   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxeDQtN0l6ZERYZ2RGbVBlZGY4TzJmS3VfS2RvVEFZOTc5ZF9ObFVRUGVpNnZmUExOYlBlTGxFcHpZUWFKTWxLY24wVmV0cDMtMld5a25LTQ?oc=5",
+   "published": "2026-05-15T01:07:39Z",
+   "outlet": "Protagenic Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "600abf3b3ece2bda",
    "company": "Incannex Healthcare",
    "title": "Incannex Healthcare Officially Commences DReAMzz Clinical Study for IHL-42X in Obstructive Sleep Apnea - Incannex Healthcare",
@@ -33726,6 +33825,17 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODAzeDcxa3FycUo2WFkxY1RDN0xKVWxOdmxWZ3lGUUFhWEZzSmpSWWp5UmU4UGlhM3hXLVRvQS1mWDV0ckpRb0pNUGxMNFlfTVVhdGdDaUJNRTNaT3Nad3N5cm1YMF9VMXEyWld6cmMtamJIWGZTX2RyNVZEbEFzOWxQNnJGZWJtbmx0VDlvb1lNU1BPdGJJa0t0UGZwQ2Nkbm95SA?oc=5",
    "published": "2026-04-29T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6f58b2d44332212c",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals announces the publication of \"Efficacy and Safety of Imsidolimab for Generalized Pustular Psoriasis\" in NEJM Evidence - BioSpace",
+   "summary": "Vanda Pharmaceuticals announces the publication of \"Efficacy and Safety of Imsidolimab for Generalized Pustular Psoriasis\" in NEJM Evidence BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVmpGZkJYZ2NXSTRuN0VqNVBvc2VxVW9BRG1LMThaUTExUVZHdnI3V3U3alNwc1g5U0NrWlF5YlA5cUdjcnpTNjU5b041YksyLVpyZUtrYnBWQlk0d2Y0MDV1YzhUYThfUlVSOWRieHRFQ3JNRTM1aGhSTVhRcFFMbm1iMDNXRkt0REwxcXRGVUliWVZueFIxSlUyUHdzbVlsZE1YMElqNkk3YWhaSjJMZFhMNUZEbndfaUlvdXVWMlRmeWhMRV9xZkZWNDFDTkxZZHgwUzBKZk9vckNvV0ZHUEJIZFFXdHRXWmN3ajYtOGpkNHozUmlZanRCSDcxb0xicmxOM3JpU0s?oc=5",
+   "published": "2026-04-29T07:00:00Z",
+   "outlet": "BioSpace",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -36876,6 +36986,17 @@
    "first_seen": null
   },
   {
+   "id": "f5c8a6ff4275de8e",
+   "company": "Usona Institute",
+   "title": "Feed - Psychedelic Alpha",
+   "summary": "Feed Psychedelic Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80WmZuX3J4MnF2S0pXM0FLLWNSdXBoVzl5SEltRy1NUDV6MU5CcXZ5ampwT05EaVZPalZNWk9OVTQ2clRnTTd2SGpn?oc=5",
+   "published": "2026-03-12T11:19:44Z",
+   "outlet": "Psychedelic Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e2f8412aa87cc8b0",
    "company": "Alkermes",
    "title": "Alkermes Announces Inaugural Alkermes Pathways APN Research Awards™ Program - Alkermes",
@@ -37222,6 +37343,17 @@
    "title": "Xenon Announces Positive Topline Data from Phase 3 X-TOLE2 Study of Azetukalner in Focal Onset Seizures (FOS) - Xenon Pharmaceuticals",
    "summary": "Xenon Announces Positive Topline Data from Phase 3 X-TOLE2 Study of Azetukalner in Focal Onset Seizures (FOS) Xenon Pharmaceuticals",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFZpN1pFdzY4TmNTNXlXcHVjWXUyNkZGSzh6WmkzLVJIbllsZllGcXVmOC1PZ29ObG5BUjNTVmJoWHRoeVE4U2tYNTVVWHplRUlyOWcwaEU0Z1E2MlZXYk9CZHpNT0p6ZEpnNUZfdlljYWYtWHY2MGZPS2I2WGY1UVphR1FjbThMZExtcnQtN0tVeEloOXFFN3RtdXhGZFVRV2Q3dFZpeFM1emt1YXM5M3RXd0NLLXk3M1IydW43Ny1zcWU3SEFN?oc=5",
+   "published": "2026-03-09T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "ef4aaf70990f5592",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Pharmaceuticals Announces Proposed Public Offering - Xenon Pharmaceuticals",
+   "summary": "Xenon Pharmaceuticals Announces Proposed Public Offering Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUHM4eWdIUFJPU0ZxLVIwVzFDNmVoMWsxRk5EdndDU1gxc3Y2THlOQ3dtOGdfSU80VUFMNDNaQVNnX3NzTGFGQjJnc3FiR3JIbXVnenhGSzE3LTJ6cHdPVkxEUHJha2M5cGRGODBQWWxvR0Y1eFc4VThDa2ZwdjhnOEhlbjZjMTJlMWFKaVVGTlZ2WV9BdnNRYVJfNHZsSUxkckxOOFphYXZmYWtGd29VSWdfdUJXRy1nUElOUzZJRmhJZHg2ZVE?oc=5",
    "published": "2026-03-09T07:00:00Z",
    "outlet": "Xenon Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
