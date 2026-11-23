@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:57:05Z",
+ "updated": "2026-11-23T18:59:04Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1740,6 +1740,17 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T11:36:55Z"
+  },
+  {
+   "id": "c86a15c59a76cdc9",
+   "company": "Neumora Therapeutics",
+   "title": "Weekly Recap: Q3 loss narrows, funding needed and FDA obesity filing - TradingView",
+   "summary": "Weekly Recap: Q3 loss narrows, funding needed and FDA obesity filing TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUkJxMGtRR2Q3d3pqc19EaTVXbVc4aTNYcnVpSDVNalZ2dzlQcUtScXM1bVNsSkRlZHZCcDhUZU1XTE9NRWZPUERyQmZXcEpoX0t5dFpSaTVXVnF0YllQRi1lOHpDbXh6UHhJNjhjVkl2RFBKdXV4di1aTXV5WmhSSmh6ZWYxQ3NMVEI3SUdITVItWmhaYU41UW12dDFmXzdWUUE0NVo5SDhESEViRVVGWFJCTTZNdW9KVUR2RmR2dEdTY3dHZlNr?oc=5",
+   "published": "2026-11-23T11:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T18:59:04Z"
   },
   {
    "id": "158099220884cfa9",
