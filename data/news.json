@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:20:22Z",
+ "updated": "2026-11-23T16:29:25Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1663,6 +1663,17 @@
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T15:20:22Z"
+  },
+  {
+   "id": "627ce128bd735a5c",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma stock price target maintained at $70 by H.C. Wainwright By Investing.com - Investing.com India",
+   "summary": "Helus Pharma stock price target maintained at $70 by H.C. Wainwright By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3p2LUJRLWZxYjR0Zm9renkwRVZyR0JDNmVqYlVWdHdjM3BtNFNnVVRpUVN2bUNlOG1DbmN3TUVwNXhJdVBfT1ZjVDhhYjhrMU5IXzBjY3YxX3ZJYXBLYl85NDVEV0RIN3owTjE1S2JQLWVRd3VBQ1oxRlEwaXRabWxlbjEzcWZ6SFdrWWdMeng0WVM5WndwUzlvSnI4YkpLeENuOVlIbWRYVXpvY21GZ3o2ejQtaWltZl9XMmpIRmtJSXRB?oc=5",
+   "published": "2026-11-23T12:14:47Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T16:29:25Z"
   },
   {
    "id": "5735f8455f58a2c6",
@@ -6494,6 +6505,17 @@
    "first_seen": null
   },
   {
+   "id": "7bb2f6c8ae1c56fd",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma reports positive phase 3 trial results for HLP003 By Investing.com - Investing.com India",
+   "summary": "Helus Pharma reports positive phase 3 trial results for HLP003 By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVRSN3JjemhWOEs5RktYM2p2aGpXcU9KZTV3WTVrT3pRTmNsWFNVYVBSMUVOUHE0R2lCQkplMG05a0hoWHFuTXVneElpR2pydlBvLUNpSWVqNmNvdHltbUUwZFBPc0ZWVXQyV2NjbDc0eU02R0FCRmZFQmFESDBRMTZHSEtQR1d1OEEtUmZXMXlHZkpwSnFJemN5TlhVM19QREVjSC02Y0d6cW9oU1hmZzRrOVNrQmtZem02czlSMHQ?oc=5",
+   "published": "2026-11-16T12:17:34Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "9e9983c7efbad0d6",
    "company": "Axsome Therapeutics",
    "title": "Axsome at UBS Global Biopharma Conference 2026: growth buildout continues - Investing.com",
@@ -10239,9 +10261,20 @@
    "title": "Alkermes Showcases Research From Psychiatry and Sleep Portfolios at the Neuroscience Education Institute Fall Congress - Alkermes",
    "summary": "Alkermes Showcases Research From Psychiatry and Sleep Portfolios at the Neuroscience Education Institute Fall Congress Alkermes",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFpZUklqNUREaTdxOFNqOTNTRnlOUDFkTGZibWUyb0ozdFRJRWx3T0R1ZmpESTVMRWJVSmZDWUFUZ0ZWdmpSZ2llYjMzMXFMUU1yNmM4cXViUnQ1NkVWU3BpSGdPVkxwcXdId25QVHVEMVdpWGtKSF8wS09TejVkVnJ2UUtDWkhaaGpNSUNVRllPN2s0ekxNVVlzZ1ZuSzJYR2lKMjRxUjdtd29HSG1LSmFXZXh5QndrenhTUzgzOFlpUQ?oc=5",
-   "published": "2026-11-05T12:01:09Z",
+   "published": "2026-11-05T12:06:12Z",
    "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "1893541e34fd928a",
+   "company": "Herantis Pharma",
+   "title": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design - The Manila Times",
+   "summary": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUFUNlBXaUo3MFU1SVJzSWlnR29SSVdFVGFnT3VOOUQwVnBQcG16S0RhWDFqS3Q0U1lybUc2b0UwbVc5TGQ5dW1EZnFvWExrcXplTFl2NXAzcGJuUmk1ZlhZbFZPbTc1MktXS3M3cXU5cUdHSDc1Ni1RMU8yRGFhcmZsTkpwd1pzb2xvcVV5ZHFyMXd3NXpLZ0hBdEFWclI0dkNrWHl5TWZOZl91ZThuV25VLWZrcFBOOFlaNEd1ZDRoZk44d3B0cXdtaGFYbUlPY2pJRkRkeUpyUlRYVWY3TmNJb0xLVDZJekg5UExnNnh5N1FF0gH6AUFVX3lxTE5OMHN2aVJjaXZRWFl4RVZHZDMtY1RNVm9ET0h2c2puc1puUE15cnRsQkpMRWpCRzliWEp2SmxDOVFFbmdvQ0otRjZOUFV1b0VtRHhLNld4SUxPOHdTMTJLVmE2YUtNRThSOFNYM2M1UElUaFFTQ0hicGVOdlNlSG9OUkNpRHMxdFNwWDRrUDNwUWdiYkJiTVh2SV90S2ZiQmlaV1p3QmRjbHUyOHVfMUdUcGxBVnZLVlM3blM1UWlGV1BLalVQcTRvUVRVb212ejF5QU5MRUVFcWVWaldMSWlOXy1GS21iNHdYTmhraG9CNncwRHBGTWN2d1E?oc=5",
+   "published": "2026-11-05T12:05:42Z",
+   "outlet": "The Manila Times",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -10263,17 +10296,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVFYNGRteUJDR214ZmFFNGlmalozbFdVZFRianFyc1dGZHpBd1haVXF0MXZLSTVET2dDTTNfVXV0bnl6Z2VfN2xKZ1ZiRmdtTTVjQnVEZkN2N0FlMGZMWkJfOGtnczhmQ2tpX3pkdEQ4UFVnd1JwaDB2eXJhWlBUUkZ3X2trMmRh?oc=5",
    "published": "2026-11-05T08:40:07Z",
    "outlet": "AllSci",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "1893541e34fd928a",
-   "company": "Herantis Pharma",
-   "title": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design - The Manila Times",
-   "summary": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUFUNlBXaUo3MFU1SVJzSWlnR29SSVdFVGFnT3VOOUQwVnBQcG16S0RhWDFqS3Q0U1lybUc2b0UwbVc5TGQ5dW1EZnFvWExrcXplTFl2NXAzcGJuUmk1ZlhZbFZPbTc1MktXS3M3cXU5cUdHSDc1Ni1RMU8yRGFhcmZsTkpwd1pzb2xvcVV5ZHFyMXd3NXpLZ0hBdEFWclI0dkNrWHl5TWZOZl91ZThuV25VLWZrcFBOOFlaNEd1ZDRoZk44d3B0cXdtaGFYbUlPY2pJRkRkeUpyUlRYVWY3TmNJb0xLVDZJekg5UExnNnh5N1FF0gH6AUFVX3lxTE5OMHN2aVJjaXZRWFl4RVZHZDMtY1RNVm9ET0h2c2puc1puUE15cnRsQkpMRWpCRzliWEp2SmxDOVFFbmdvQ0otRjZOUFV1b0VtRHhLNld4SUxPOHdTMTJLVmE2YUtNRThSOFNYM2M1UElUaFFTQ0hicGVOdlNlSG9OUkNpRHMxdFNwWDRrUDNwUWdiYkJiTVh2SV90S2ZiQmlaV1p3QmRjbHUyOHVfMUdUcGxBVnZLVlM3blM1UWlGV1BLalVQcTRvUVRVb212ejF5QU5MRUVFcWVWaldMSWlOXy1GS21iNHdYTmhraG9CNncwRHBGTWN2d1E?oc=5",
-   "published": "2026-11-05T08:00:00Z",
-   "outlet": "The Manila Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10516,6 +10538,17 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlhzTEJGNURGSklGM05Bb0szX1M0aXBXUTJYcFdLR01ialR0bDE3SmFGVGJIcGJEV3d0R29ZVG1nQ2VBdkc5a3FEdlZkRmQ5RVVQSkdyaUtZT3JwNnBfNk1IUDdYVW5jSk9JZHBMc1UyZkJXc2VPQ1RGX19QdWRCXzE5VG14Mjk2LXFWQXdlSjd4QWFTSEVKSDJEVnFyNk0tbXdUSEsyY1AxYThsNkxlLVppeFVyT0Q1MmtlcmR5dGxVSmFJeVhlUQ?oc=5",
    "published": "2026-11-05T08:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "53332634217d492d",
+   "company": "Insightec",
+   "title": "Insightec - 2026 Funding Rounds & List of Investors - Tracxn",
+   "summary": "Insightec - 2026 Funding Rounds & List of Investors Tracxn",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWk2M1ViaTB5bnJlWkVfcWhubWhRMTBwSVNJX0Vqd0Raemkyc0VwNld0VnNBaHpUY3ZzLXQwY1JqXzRhZGhjUG5mekZTSDlEYlA1NmlUZTVXZVFKQ0twcXJlclYzN2x6cVVOWlVaUGlnbXlBdDZSSVNvZlY5blJ0Y1V5dWUyckNNLTJoc01OeWdvdkpuZjQ4cGkwZ1NzSzFVUmJEWk5JbEIxQkRK?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "Tracxn",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15386,7 +15419,7 @@
    "company": "Corcept Therapeutics",
    "title": "Here's Why You Should Add ANRO Stock to Your Portfolio Now - TradingView",
    "summary": "Here's Why You Should Add ANRO Stock to Your Portfolio Now TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTGFLaTBBMDgzbUUxamRhNmxYd1BtbDRfdXlMZ2tvLWZLempmM3RPS3FHSHdqdm1vRTBUOGNJX1djS0UwZ3BLYTZ2YmU0M1FVbEtobl96VFJEZUJ6MjRxTEhIQVZuVDRNekEybWlVc0J3UXZEVDdmQ0FFWkhfaGZFWlB4aXV0LWZwMHp0MldMeUNnX01nY0RBZzU0U19COGZ0cWRYLWtLenJSdVdnSXpDWExyRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb2l0NlJlOHpBRFRpT0JDdW9tYzlOUzVnVlBnZnotODhfTkNkcHZfZk9xODVHdkMyY3NWWnpEdXhzRkxfVndYa0xfM1dLVndfSHZTN2dyMUZHQm83cldZQXYwNnlBOEZWZy1NR3hJUC1vVnlYdU9yVUw4V25kZmp0aUpqWFNydzZfLTB6RHU2ZTRkMm1haldYRXhDUHg5TW1Bdnc1TkJIak44UmxidkNHTVBxOFQ?oc=5",
    "published": "2026-10-14T07:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
@@ -20684,6 +20717,17 @@
    "first_seen": null
   },
   {
+   "id": "cf039306cb9d5d8c",
+   "company": "Insightec",
+   "title": "Insightec spinout Lotus Neuro launches brain drug delivery platform - AllSci",
+   "summary": "Insightec spinout Lotus Neuro launches brain drug delivery platform AllSci",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVcwMEZKSHR6VlFhalpXTnRhd05fODBZYUx2SFkzTkMxU2o4Ym9CZkR2bThCTWpkUTNWMjdSQklXb2FHVkJZa0Y2ekg4UVdmREg0R29ncExPN3IzRFRGRjQtY0EtYlV2Z1lMMjB1V0ZLLTI3NEJXR3N1MV83MW1fQWJVQXR2ZmJC?oc=5",
+   "published": "2026-09-10T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "5c77583c6aa41c54",
    "company": "Newron Pharmaceuticals",
    "title": "Newron secures €5.5M tranche in €38M push for schizophrenia drug trials - Dealroom",
@@ -20823,6 +20867,17 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXBjYS1WcVd1THY2N254OGR2Mml1UTZWaGoyRmN6VVEzQnhmcElMTThUa1NDZEtZbWdUWjBQLVp6ajlnRml4MGIwLXp3TU5ic3E1em9tTUFkb2hpREFfYnBieTQ5UW5IbUZwMHpRd2ZPbElqZ2taY1hFQW51b3NjRF9TUHU1aTZXTTRaamJRUkotYnhMWWxsSC1GbjBfSVljMzhSVUNrUGJ0aHp0T2VzWXpYUUk?oc=5",
    "published": "2026-09-09T07:00:00Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4397201426105b65",
+   "company": "Insightec",
+   "title": "Lotus Neuro Launches to Deliver the Next Generation of Therapies Across the Blood-Brain Barrier - BioSpace",
+   "summary": "Lotus Neuro Launches to Deliver the Next Generation of Therapies Across the Blood-Brain Barrier BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS19jT1pBSFZfd2VjWjhROGpwaUlBOExrb3RvRzk1dzFFMXBYSTRrNmcyT05hZTk5cVhOMmlRSFhyYWVtMTN5Q3lxMUdkU3VGTzNhaHZDODhJOVBzcl81cE5iSUtRcDlTSGVUbG1ZTXpMMmloLUpHSU93N3FfZHNDdy1EZ2tfSkVTWmlSRjlBWWFHLTlUSUFVR1RWY19ZcDd1cGo5MHoxa1JmRHQzRWtFalBzUVp4TDU5NzEySHJ1WDYzdXdRd0pVWG9RSE5IR24t?oc=5",
+   "published": "2026-09-09T07:00:00Z",
+   "outlet": "BioSpace",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22230,6 +22285,17 @@
    "summary": "Jennifer Buell, Ph.D. Protagenic Therapeutics",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOemFxWjFHVUtFTVJ4cTctZEZFdWV5NWhTV3ZvSkpPeE9xc1lkSml0UDI1dlZXaE9NS2l3SzdpU19wbGtWOTlYSjluUndwc3hGRDdzSg?oc=5",
    "published": "2026-08-23T05:53:12Z",
+   "outlet": "Protagenic Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "d45c9127ff193dfe",
+   "company": "Protagenic Therapeutics",
+   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
+   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rbEJYVVpIYU9xX1VZa28wOTdDRUxIdkFrMTdCT1VDUS1OYnRNbmdvWTZlenY3Mk5XSXlQNVprTFNIWDNOc2pxSzZhUkExYklscVE?oc=5",
+   "published": "2026-08-23T05:44:04Z",
    "outlet": "Protagenic Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -24611,6 +24677,17 @@
    "first_seen": null
   },
   {
+   "id": "af8e90f08fa4086c",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon to Report Q2 2026 Financial Results on August 6, 2026 - Xenon Pharmaceuticals",
+   "summary": "Xenon to Report Q2 2026 Financial Results on August 6, 2026 Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmN2anNhRWZOemJEMzYxUVI4alU5WHVnS0NCNm14bXRZTGRhZ3FQdFdqNUlkRU14Wm9ObzNla1BkNDhjejEyVDYtWG11T0lFZVZrRUh4VklUTjNSS00zbmlaWGh0SnFkS1pGc1BvMWc3WjhSWHR4TkNBVzJ0SHEyZmdLS2dta05xTWxKRmtQdk1GYUNOVmZoYzJrLUNZNVVWNWsyTVp6cllRSEJmT0VtMWdvVFl4S09vUmpEZ3RB?oc=5",
+   "published": "2026-08-06T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "08baa1c3d8a5f303",
    "company": "Novartis",
    "title": "Sales Representative, Neuroscience- Central & South Area - Novartis",
@@ -25663,6 +25740,17 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMDJQRmVFWXhyTWVVTTc0UWtIOEF3NVM5ZklTOHpId3VmSDlmbUh5c0RTSmxETTRNdWozNnlHX0t4VS11V2lOMG9mNHF1enlsSDlrOUIxc21RdjJfU2tzb0g4QXp3d3VTSEczelA2NzJuSkIyQVlRQXUtZENHTkpqNDZOSHVmNVdYUkJuQTRlLTBXbkVYSUZOMC1KYWNwbDA?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "551e73e09d39845e",
+   "company": "Insightec",
+   "title": "Insightec Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+   "summary": "Insightec Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdmdkSXJ6UE5JekU1Q2NlQVV4dlFsRE5HckQ4bDdZQnVjMThXSG91bVpCS05HRndCaExjNjZYaW1odWp0U1FzWmNrWTZEZE9uUUkwRDQtSkxZc3NSMlhDcGlENUFnbE1i?oc=5",
+   "published": "2026-07-29T05:09:35Z",
+   "outlet": "Revelio Labs",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -29033,6 +29121,17 @@
    "first_seen": null
   },
   {
+   "id": "9b85f29445244311",
+   "company": "Insightec",
+   "title": "Groundbreaking Israeli treatment uses sound waves to eliminate opioid cravings in 20 minutes - All Israel News",
+   "summary": "Groundbreaking Israeli treatment uses sound waves to eliminate opioid cravings in 20 minutes All Israel News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVZiR09LZ1ZwUkc4RG9rZmhVRVdrMlBMaWZ5eGdROExzOE5EbFptWXRjckltakRBYWJzWC1VNkhleHhxa1J5RV9Ea0NLVHhwZ2trWjRqLXBBWVFwYkRJanBYODA2T0w0Yzl1cW1XMjNicHFWWGlEOE1YRFh3V2VGY0laOTRSQ3pTOTg2SG4xLVpKUTNlbks1RGRObG01YWE2VlNhWlR1aDJxNy1ITUVKcVA5NDdoT2xCcXc?oc=5",
+   "published": "2026-06-28T07:00:00Z",
+   "outlet": "All Israel News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "58ec0b705353c492",
    "company": "Newronika",
    "title": "Senior Clinical Scientist, Adaptive Deep Brain Stimulation (aDBS) - Newronika",
@@ -29579,6 +29678,28 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObHNLQUNVT3drdjdQaF9JMFpySWc1RGxsN0NCOXZpVU1HT3JabUVlVWVHNlQ1WEYxQzFPMk9vbEFVYk1yakpKa2J0WWx0YVRIMk1NT0dOQ0FXMExfVWFfcVVKQnNEcHBCNWZTVFcwcFNPelVhNVFwdWlmUUVTSXBzclJxUWZkYTRMUW9RS05qNlJtYVlJMnlnMXlTSjlXOFlWbE4yMW5CbG1RSDQwTThfMVVCUnhOLXRLM0xidg?oc=5",
    "published": "2026-06-23T07:00:00Z",
    "outlet": "EquityBulls",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c3921f59489f2cf8",
+   "company": "Insightec",
+   "title": "Brain surgery without the scalpel - Fast Company",
+   "summary": "Brain surgery without the scalpel Fast Company",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwMGhsbXdYUUJWNmhJT1RYZ195WHdxZ2MxNG1nc0RmNFlYUDhFRzVKYzUtdl9DNVZEWFdjM2NybGZJUXZnY2EzLUpMbXZjUlFPVnN0SWhPQkhJc2lHbVRCQ0E0bGVnWjhmTTc3VnZDMDB6MzljWFVzam53?oc=5",
+   "published": "2026-06-23T07:00:00Z",
+   "outlet": "Fast Company",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a9dee7cbcb24ff5b",
+   "company": "Insightec",
+   "title": "Israeli breakthrough: man addicted to painkillers detoxes in 20 minutes with sound waves - Ynetnews",
+   "summary": "Israeli breakthrough: man addicted to painkillers detoxes in 20 minutes with sound waves Ynetnews",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xUWRqU1pJTHdjcjUwcEFBU3U5SE0weTRIVmlHSVNTa19EOTlvNEIzV0xNMGNDZ0drTTgyN3hiWksxWHJucTF6aFMxYlJreGtYaThnRHRLaHZEYzNaamhJd0JhcmZJeWRFZUE?oc=5",
+   "published": "2026-06-23T07:00:00Z",
+   "outlet": "Ynetnews",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -32671,17 +32792,6 @@
    "published": "2026-05-15T06:47:07Z",
    "outlet": "Being Patient",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "d45c9127ff193dfe",
-   "company": "Protagenic Therapeutics",
-   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
-   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxeDQtN0l6ZERYZ2RGbVBlZGY4TzJmS3VfS2RvVEFZOTc5ZF9ObFVRUGVpNnZmUExOYlBlTGxFcHpZUWFKTWxLY24wVmV0cDMtMld5a25LTQ?oc=5",
-   "published": "2026-05-15T01:07:39Z",
-   "outlet": "Protagenic Therapeutics",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -38889,6 +38999,17 @@
    "first_seen": null
   },
   {
+   "id": "56db7503c0ea6c4c",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Nature Medicine Publishes Helus Pharma’s Randomized, Placebo-Controlled Phase 2a Trial of SPL026 in Major Depressive Disorder - Tue, 02/17/2026 - 07:30 - Helus Pharma",
+   "summary": "Nature Medicine Publishes Helus Pharma’s Randomized, Placebo-Controlled Phase 2a Trial of SPL026 in Major Depressive Disorder - Tue, 02/17/2026 - 07:30 Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWFZZmtqbk83YW50UE1IX2dDOHRid2FBM2NhcWJuR1YxeDdtam9LWDRlZkRxMElUWUpZS2YzalJLM0lzUTNfYjdqWU1BTHdUYk80SmpVWmFBaHdWa3hGMFhRRHVvR2ZjVV9MWjJSbVZDLVE1NTRWU3J0bW95Y0x3VmtfMFA1LThackFRbmtQOWFrNWhhOWJFeVlrRW9KSzZxUGtTQnFtWEhhNGJRNWdYQXhCTDU?oc=5",
+   "published": "2026-02-17T08:00:00Z",
+   "outlet": "Helus Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fbe8c2d6c13eaadb",
    "company": "Supernus",
    "title": "Privacy Policy - Supernus Pharmaceuticals",
@@ -39480,6 +39601,17 @@
    "published": "2026-01-29T08:00:00Z",
    "outlet": "BioSpace",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "cd19dc2ae1882e47",
+   "company": "Insightec",
+   "title": "Secretary Kennedy Appoints New Chair and Ten New Members to Federal Alzheimer’s Advisory Council - HHS.gov",
+   "summary": "Secretary Kennedy Appoints New Chair and Ten New Members to Federal Alzheimer’s Advisory Council HHS.gov",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVRseloxb3JFNFR2MU9hVm4zaHhkMmhpUm9xTjM5QlFwbFV0YkxHWkh3aFMyVUhTUU9zMVZEdmhUR2tvUjlDYnlXR3VoclZWa3FhcDZubzFjU2JOajJfc2haRnduUjVUVVhETTNZOUc3ckJJZWlrR2h4cEVOYVJLRjZOajZ3eVUxMWJfMDRJVVN5czBpZ0Y1RjVKVFRpQjBydExyZy0xZ19wbzl1eXUxMTIwZVg?oc=5",
+   "published": "2026-01-29T08:00:00Z",
+   "outlet": "HHS.gov",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -42483,6 +42615,17 @@
    "published": "2025-11-26T08:00:00Z",
    "outlet": "The Clinical Trial Vanguard",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "1025a68156a14f8b",
+   "company": "Insightec",
+   "title": "Glioblastoma Clinical Trial: Focused Ultrasound Blood-Brain Barrier Opening is Safe, Provides Possible Survival Benefit | Newswise - Newswise",
+   "summary": "Glioblastoma Clinical Trial: Focused Ultrasound Blood-Brain Barrier Opening is Safe, Provides Possible Survival Benefit | Newswise Newswise",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTWhPRl9Ub0dVdmtWOWdVMVFWNTBLWXQwdWh2dmZEMGhaeVBQYzFhZWhWVUF4ZlZDc1l3b2R3MGVmMm9td2VzOWRjV1puT1Zrd2QwS3E5YmhjUWFuUWR2QXBDOEppTGItLXlKVnlSU2d5ZmNPN1drOHFJbVJMV0JacldMWlQ3MHozVzF1RkdsZXRqWk5nZ0QwRm1WN1BsZ09ZNUg2N0Z6Y20wakhuVHRMblIzYUpaQWZqb1JwbTd3V3luaEtQQnRvODdVS1lxejEyM3pBSmp4ejljN0hnd09LQm5wakFwQdIB5gFBVV95cUxPTWhPRl9Ub0dVdmtWOWdVMVFWNTBLWXQwdWh2dmZEMGhaeVBQYzFhZWhWVUF4ZlZDc1l3b2R3MGVmMm9td2VzOWRjV1puT1Zrd2QwS3E5YmhjUWFuUWR2QXBDOEppTGItLXlKVnlSU2d5ZmNPN1drOHFJbVJMV0JacldMWlQ3MHozVzF1RkdsZXRqWk5nZ0QwRm1WN1BsZ09ZNUg2N0Z6Y20wakhuVHRMblIzYUpaQWZqb1JwbTd3V3luaEtQQnRvODdVS1lxejEyM3pBSmp4ejljN0hnd09LQm5wakFwQQ?oc=5",
+   "published": "2025-11-26T08:00:00Z",
+   "outlet": "Newswise",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
