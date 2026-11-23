@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:08:24Z",
+ "updated": "2026-11-23T15:20:22Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "9558d96fe513a7e8",
+   "company": "Teva",
+   "title": "Teva's Mixed SMA Signals: Should You Stay Invested or Exit the Stock? - TradingView",
+   "summary": "Teva's Mixed SMA Signals: Should You Stay Invested or Exit the Stock? TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVlDcU44Z0pycHo2bGxHRkx4cmhnVUprOFliaHlPdTJpbVJFRFFmWGJoZ0t6N0FySDhFaW1ZZ1hPMzF1aktoTm1NSElUQWpaYk5kOFd5ZUZhdGk1OFlFYTdMOGF3c0wxVmplY3BJa3FKUUE3VV9PVWZRTlZ2RWNUOFd2cTFqNkhKcFFPcS1pSjNVbzZid1dxMHRmRERUTmg1WVNiY1BtcVN2ZlViOVNYSDZya3ZhdldOM2NyWFNnb1E?oc=5",
+   "published": "2026-11-23T12:18:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T15:20:22Z"
+  },
+  {
    "id": "5735f8455f58a2c6",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma stock price target maintained at $70 by H.C. Wainwright - Investing.com UK",
@@ -2286,7 +2297,7 @@
    "title": "Annovis wins patent on Alzheimer’s drug through 2044 - Longevity.Technology",
    "summary": "Annovis wins patent on Alzheimer’s drug through 2044 Longevity.Technology",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOTkxX25SaFdnbEN2aGViVnlLU2hjdXZOQXJPeHJzdFVaTE92a2NvYkhHTU0yY0lEVko5WF9IZzlrOEhnYVB3amZyaHd1YnU3SWZlMG5Ncm9pVmFTYzk0Tjl2YnRYRExLemJwQ1pEMlhvYXVWVnpKVHhZN3FNbUdDbGI3NmVLb1FwSHJic09qSQ?oc=5",
-   "published": "2026-11-20T18:12:03Z",
+   "published": "2026-11-20T18:12:21Z",
    "outlet": "Longevity.Technology",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
@@ -3137,6 +3148,17 @@
    "outlet": "Johnson & Johnson Careers",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-20T08:00:26Z"
+  },
+  {
+   "id": "a4d7e730ab4eab09",
+   "company": "Annovis Bio",
+   "title": "PRISM MarketView Highlights Four Small Caps Working on Alzheimer’s... - Quantisnow",
+   "summary": "PRISM MarketView Highlights Four Small Caps Working on Alzheimer’s... Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVG5aR3lXZFoxbEt2N1gwODI0aGVHZzNmUlgzbmJnTnhKcEduTXVlUTZnT2l0TWt5N0xPQmcyMW9zcUlMaXdFRlBDWHBFVkJSSElhd2VtREliWmN0ekJtMkJYUDRZcDJPd1R1QVVLa1puVDItR3NJNV9YWVd4VGE0MkpiUTJqVWRqNXkzOHktRnVKUjE1TjFZOHBIQXNmUnVYY0p5djBvTU1VWS1QWWs1bF9mcXBNT0E?oc=5",
+   "published": "2026-11-19T17:15:11Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "65dd0db142ff438d",
@@ -4019,6 +4041,17 @@
    "first_seen": null
   },
   {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
+   "published": "2026-11-18T15:14:53Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
    "id": "ae43ecd6c96a7fd5",
    "company": "Novartis",
    "title": "Novartis ranks first place in 2026 Access to Medicine Index - Novartis",
@@ -4433,17 +4466,6 @@
    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPX29LTzliUjRrVTVfQWxaSnJnRzA5TjVtYXp6ak5UdTU3cVV2X3Z4RHR5ZDNMdkl3Ym56OGdjcHVRRTJZSDVtM2d4ZnBnZ3JUNHdCWmI0UUlRV0drVzJaRnRvazJycG9NcTZrUW8tUUNNeF9FdENsWTBHa0RONWJHQm9wb1BTbC1MZlp5UDZDQm5qa3NrejNQaTVCNWtMbW9zaERIWGxoMHI4VmtuMk1seWdpUGt0ZHdNaWNpYXc2cXNTRnZXa1FOdVJ4NjNpVEhDTG9OYlVxMjJWSnhWeHRqYmFhZ1dKNUh3Zk1sRjhfWlJEekVraDYycVVLU3ZxV1Q1MUZESTljUUlaZGxFUUItSVgzdHFIVDNrREJJQlJ3cFVRdUk2amI3NmVKTWtzZw?oc=5",
    "published": "2026-11-18T00:09:40Z",
    "outlet": "Gain Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0lGQ0FqTURCUi1idEpKc0Z5ek01RWx6UlVoREdVUjMtSmp5bG5nejd5NnNVS29vSU43WEpLRkMxMG01M2g5dmgyZnAzZnUyb0NUbUYtUmV4dHphV1hHMGFnN2pVakFDcW40MjJzemlEWE9FckRvUkdqdUNEU0Qzal9ERk5xMDFCY3gwV2dZYmhWbjRORXlNYVdDUmZHd1lfb1VhTVM4bGdCa1hmSE9uLUJha0tLNXJZSkF1dTA3T0sxdFZJRmc?oc=5",
-   "published": "2026-11-17T23:58:40Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
@@ -6384,6 +6406,17 @@
    "first_seen": null
   },
   {
+   "id": "08544b61879507d1",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma stock tumbles 21% despite positive trial results By Investing.com - Investing.com Nigeria",
+   "summary": "Helus Pharma stock tumbles 21% despite positive trial results By Investing.com Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDAzalJ1RUpHNkZYSmJvTUZtQ1BIUk91cElRQlNSNEExV2hNU3Y0Z3p3aWMxZ1ZUV0VTUUJTN0ZSNi1xYXcwRmItQ0EwNEhwVk9oZmluQ0M2VmM4VF9jMTlKd3lZOWJmRlA3VUU2RzdzdXZmN2tsUWZfdjhteFlFMTBpR0RLcF9CcW9JeDMwNjRYN2FkVTZvVzF5dzZBOE5SYnloMFJEV0RicHFPd0Q2ZWxXMGZtcFk?oc=5",
+   "published": "2026-11-16T12:41:52Z",
+   "outlet": "Investing.com Nigeria",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4a8beaf9f4675720",
    "company": "MapLight Therapeutics",
    "title": "MapLight Therapeutics 3Q 2026: EPS ($0.97) — 10-Q Summary - TradingView",
@@ -7975,6 +8008,17 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDM5eTM1ZGlGM2Z2MkVWaUJ6cW9zTHZjam9kcVZYMDJFbmNsUUdhRTRuUWtVSHg3NFZZSHVsSFNGY2hCR3hsNlhpcmc0QmJBMi12Sml5dWFnM3F5eUhGRkdrdG9yYm1XU0pWZzR6cU5KRFZtbVlfeGZURmVkYUZwWFA3VHQxOGpwdkZoUkFHZ08welZfOXE2RDA4dHROa2FNcTBsTmlIVXQ3TmtX?oc=5",
    "published": "2026-11-12T08:00:00Z",
    "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c1003c5128f4980c",
+   "company": "Annovis Bio",
+   "title": "A patent protects a new form of an experimental Alzheimer’s treatment through 2044. - Stock Titan",
+   "summary": "A patent protects a new form of an experimental Alzheimer’s treatment through 2044. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdkNyQ0JIZWhnUTNCWXNHQUdZMFAwQnVsaU1jNEg1R0w1emNGVFNwVGZTZ3JpU1VvT2FOLWpaMjVtOE9UTGhFdl96NWcwNzNDa2tfaWJUYTNvZndQeUs2ZC15dVlXMWhEVVZJM054QlR0Q0dqVU1NOXZJeDR1U21GMXdTNGhONkR4emlWd3hUYzlNRGh5SFFpZ0Q3Qmc2TlQ4TmMxSzl4ZDgyTTRWYnUxaDVBUlhsb25GdlE?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10113,6 +10157,17 @@
    "first_seen": null
   },
   {
+   "id": "ffb5e5d502b7a111",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals director Charles Duncan buys $38,093 in stock By Investing.com - Investing.com India",
+   "summary": "Vanda Pharmaceuticals director Charles Duncan buys $38,093 in stock By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOU5vVm1KTUNBRC00Zkp5Ni0tM0ZhaU41akxlRnp0VVVYUjNtVWs2T2l1MEJrdWRwVGFlZFFwbjJzUWhTYm5vb0FOOXRmNjdQd1JVc0hwUE1zSC12aFRKZlZPN3RJOG96ZS1uSHk1T2dyUmE5bGZXWkpTa0RlS3dncXRtVk1fMFpIa2ZWTjlibHVWU3FJZHlqdXlrLWMwanphejhBZGJNb0tpZURjTXFieVJQbWUzblpFWDBuYlRzcDFua050?oc=5",
+   "published": "2026-11-05T21:58:13Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "5c22e9ada5452190",
    "company": "Compass Pathways",
    "title": "Compass Pathways Announces New Employee Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
@@ -10179,17 +10234,6 @@
    "first_seen": null
   },
   {
-   "id": "1893541e34fd928a",
-   "company": "Herantis Pharma",
-   "title": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design - The Manila Times",
-   "summary": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUFUNlBXaUo3MFU1SVJzSWlnR29SSVdFVGFnT3VOOUQwVnBQcG16S0RhWDFqS3Q0U1lybUc2b0UwbVc5TGQ5dW1EZnFvWExrcXplTFl2NXAzcGJuUmk1ZlhZbFZPbTc1MktXS3M3cXU5cUdHSDc1Ni1RMU8yRGFhcmZsTkpwd1pzb2xvcVV5ZHFyMXd3NXpLZ0hBdEFWclI0dkNrWHl5TWZOZl91ZThuV25VLWZrcFBOOFlaNEd1ZDRoZk44d3B0cXdtaGFYbUlPY2pJRkRkeUpyUlRYVWY3TmNJb0xLVDZJekg5UExnNnh5N1FF0gH6AUFVX3lxTE5OMHN2aVJjaXZRWFl4RVZHZDMtY1RNVm9ET0h2c2puc1puUE15cnRsQkpMRWpCRzliWEp2SmxDOVFFbmdvQ0otRjZOUFV1b0VtRHhLNld4SUxPOHdTMTJLVmE2YUtNRThSOFNYM2M1UElUaFFTQ0hicGVOdlNlSG9OUkNpRHMxdFNwWDRrUDNwUWdiYkJiTVh2SV90S2ZiQmlaV1p3QmRjbHUyOHVfMUdUcGxBVnZLVlM3blM1UWlGV1BLalVQcTRvUVRVb212ejF5QU5MRUVFcWVWaldMSWlOXy1GS21iNHdYTmhraG9CNncwRHBGTWN2d1E?oc=5",
-   "published": "2026-11-05T12:05:42Z",
-   "outlet": "The Manila Times",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "583ca0bdcaab79f9",
    "company": "Alkermes",
    "title": "Alkermes Showcases Research From Psychiatry and Sleep Portfolios at the Neuroscience Education Institute Fall Congress - Alkermes",
@@ -10219,6 +10263,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVFYNGRteUJDR214ZmFFNGlmalozbFdVZFRianFyc1dGZHpBd1haVXF0MXZLSTVET2dDTTNfVXV0bnl6Z2VfN2xKZ1ZiRmdtTTVjQnVEZkN2N0FlMGZMWkJfOGtnczhmQ2tpX3pkdEQ4UFVnd1JwaDB2eXJhWlBUUkZ3X2trMmRh?oc=5",
    "published": "2026-11-05T08:40:07Z",
    "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1893541e34fd928a",
+   "company": "Herantis Pharma",
+   "title": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design - The Manila Times",
+   "summary": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUFUNlBXaUo3MFU1SVJzSWlnR29SSVdFVGFnT3VOOUQwVnBQcG16S0RhWDFqS3Q0U1lybUc2b0UwbVc5TGQ5dW1EZnFvWExrcXplTFl2NXAzcGJuUmk1ZlhZbFZPbTc1MktXS3M3cXU5cUdHSDc1Ni1RMU8yRGFhcmZsTkpwd1pzb2xvcVV5ZHFyMXd3NXpLZ0hBdEFWclI0dkNrWHl5TWZOZl91ZThuV25VLWZrcFBOOFlaNEd1ZDRoZk44d3B0cXdtaGFYbUlPY2pJRkRkeUpyUlRYVWY3TmNJb0xLVDZJekg5UExnNnh5N1FF0gH6AUFVX3lxTE5OMHN2aVJjaXZRWFl4RVZHZDMtY1RNVm9ET0h2c2puc1puUE15cnRsQkpMRWpCRzliWEp2SmxDOVFFbmdvQ0otRjZOUFV1b0VtRHhLNld4SUxPOHdTMTJLVmE2YUtNRThSOFNYM2M1UElUaFFTQ0hicGVOdlNlSG9OUkNpRHMxdFNwWDRrUDNwUWdiYkJiTVh2SV90S2ZiQmlaV1p3QmRjbHUyOHVfMUdUcGxBVnZLVlM3blM1UWlGV1BLalVQcTRvUVRVb212ejF5QU5MRUVFcWVWaldMSWlOXy1GS21iNHdYTmhraG9CNncwRHBGTWN2d1E?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "The Manila Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10450,6 +10505,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2RWUGVCdXFfelBTY3ZqOXFuVnc3QnBZeE43dmlTbmZzTERiV0MyM3ltUk8tRGRkOEpmMzlsMU5wZmU0WEhQRDE0d3dxXzJUWktod2FwSFpjazFIR0Fad0N5czFQNVptQnN4Y3FrcTBXNWhaTzdzYk5TdGhEOWstSDR2QjZJcF9vcG5mVV84aXNfSkFhWHQ0bUhQVWVZdUZQaFdzbkpFeHU?oc=5",
    "published": "2026-11-05T08:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3708b38ada2d1e23",
+   "company": "Annovis Bio",
+   "title": "Annovis Announces Pricing of $21.0 Million Public Offering - GlobeNewswire",
+   "summary": "Annovis Announces Pricing of $21.0 Million Public Offering GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlhzTEJGNURGSklGM05Bb0szX1M0aXBXUTJYcFdLR01ialR0bDE3SmFGVGJIcGJEV3d0R29ZVG1nQ2VBdkc5a3FEdlZkRmQ5RVVQSkdyaUtZT3JwNnBfNk1IUDdYVW5jSk9JZHBMc1UyZkJXc2VPQ1RGX19QdWRCXzE5VG14Mjk2LXFWQXdlSjd4QWFTSEVKSDJEVnFyNk0tbXdUSEsyY1AxYThsNkxlLVppeFVyT0Q1MmtlcmR5dGxVSmFJeVhlUQ?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17054,6 +17120,17 @@
    "first_seen": null
   },
   {
+   "id": "d804269d1dad6adc",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio, Inc. (ANVS) Stock Price Prediction for 2026, 2030-2040 - Traders Union",
+   "summary": "Annovis Bio, Inc. (ANVS) Stock Price Prediction for 2026, 2030-2040 Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rakQ3UVpaZXFIV2xLNm11U1F3SzNSS21vWkpLU3JDZ2o4Z0xXeWJENlpUd2lEVmNPdXdEOUFoeVMzeVNOaXhNV0wxTVl1eVJqZWVTREprRVVjVzhPNm5hSTdFZUU?oc=5",
+   "published": "2026-10-01T11:15:20Z",
+   "outlet": "Traders Union",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "eb9c2fd4b9a13cb7",
    "company": "Arvinas",
    "title": "Arvinas to Present Novel Biomarker Data from the Phase 1 Clinical Trial for ARV-102, a PROTAC LRRK2 Degrader, at the 2026 International Congress of Parkinson’s Disease and Movement Disorders - Arvinas",
@@ -18711,6 +18788,17 @@
    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPQTNkMzF2cnZ6Z1ZSRFUyUFlVei1uVUZ5RnNSMkwwd2dZbHhSMHhmakVkeU52bEFENnM3M0U3TTd6U0UzVEdGQlhodVhHYWdGYnozOFdQUWs0cmp0LW1UeU5zcnppWklDeUNOeG5oTFgycjhaam9nZVJxaVJNUV9mZ3JyMjlfUlgtcXIteHpBQWlQMUFxWm4wb3VkOWpnQjlLaUZmM0JIWkZSc0VYeE9YSG1HRS1VemFBMHV6ZF9tTndZWldpbllsY2pjZDNKVXVZQzMxNUYtaG91ZHh6VTZGZHVoQ3Q3VXhNcXN1dFRxNnptRFRUNW0yNXhHbUNKbndXYnJtYnkweFBleTVsenRoNlVsTE1wenpP?oc=5",
    "published": "2026-09-22T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d65e492439753b03",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "JNJ's Caplyta Shows Benefit in Bipolar 1 Related Mania Study - Yahoo Finance",
+   "summary": "JNJ's Caplyta Shows Benefit in Bipolar 1 Related Mania Study Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUs4QXY3QU5xakNmWVBwNmlWYTRDT2MwVE04amNBejl0OElDa0lZSG5qd0ZoRWxTTUxoejR3YldHUER2TEo2Ym05cUJ6OUFELVBLVy1BNzA2Y1ZoY2l2WXJnX2k3ZEJ4WDY1b1VfTHNYYXMydTFPUi1RVGtWSVNPbGZZVjh2YVNBVmNtVjI2SUdjdXZiUU1pcWQxTQ?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22142,17 +22230,6 @@
    "summary": "Jennifer Buell, Ph.D. Protagenic Therapeutics",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOemFxWjFHVUtFTVJ4cTctZEZFdWV5NWhTV3ZvSkpPeE9xc1lkSml0UDI1dlZXaE9NS2l3SzdpU19wbGtWOTlYSjluUndwc3hGRDdzSg?oc=5",
    "published": "2026-08-23T05:53:12Z",
-   "outlet": "Protagenic Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "d45c9127ff193dfe",
-   "company": "Protagenic Therapeutics",
-   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
-   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rbEJYVVpIYU9xX1VZa28wOTdDRUxIdkFrMTdCT1VDUS1OYnRNbmdvWTZlenY3Mk5XSXlQNVprTFNIWDNOc2pxSzZhUkExYklscVE?oc=5",
-   "published": "2026-08-23T05:44:04Z",
    "outlet": "Protagenic Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -27724,6 +27801,28 @@
    "first_seen": null
   },
   {
+   "id": "28ed8cfcc9e1a703",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J sees Spravato sales surge as psychedelic competitors loom - BioSpace",
+   "summary": "J&J sees Spravato sales surge as psychedelic competitors loom BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWkzVTdpYkkxemt2LUlxMjlRR25oM05fdXVnd0xQT2Y3RGc2Njk5ZV8zTFA4cFBKMHNONmlxTGZ2djBCRW1naGczbThTbkhOVUdQdTJCSnNfeUdsTXNHQ2hkalp3d0w1aU53WHJXUzIzenM3MC13TmNfQW5kVXBuTko2TTVyWGFTN185TWpyVkN6aDFLSnBwQTd5Zw?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8516e5e0dadbaa10",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly Buys Psychedelics Maker Atai Beckley for $2.8 Billion to Develop DMT-Like Depression Drug - Yahoo Finance",
+   "summary": "Eli Lilly Buys Psychedelics Maker Atai Beckley for $2.8 Billion to Develop DMT-Like Depression Drug Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGNXUDRWZldSUW9XVmlLOXEybE5Db19UMTZkakZRbnpKZXFuRW9UQmxOelRGdG0xWWlHTXlENWJ3MUNjV2VTZzdadlVlZEFKTklXaURZT1dLLVRtUFBEazYzbjUzVW1vSjdSdVV1UnZEWmtuV3JhQzlFTnRQRnNid0NFOEJKYkx6Z20wa0Rob3NZcldDYkxjSFF3?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6aaca477a3374ca9",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics Announces FDA Acceptance of New Drug Application for AXS-12 for the Treatment of Cataplexy in Narcolepsy - July 15, 2026 - axsometherapeuticsinc.gcs-web.com",
@@ -29984,6 +30083,17 @@
    "title": "Neumora Stock Plunges 49% After Late-Stage Depression Drug Failure - Yahoo Finance",
    "summary": "Neumora Stock Plunges 49% After Late-Stage Depression Drug Failure Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVhUTkl6blVTYm5qczl2dXEyRHJHMjFmQlpFVTFKeDJLQndGNHI2MzNRYlRBTDFVYm1yZGlnbC1ZU3NybUljbjh0RGhtV2ZhNkFZczRzOVZmT2Q3R1JYX3g2OG1JbV85bk1FNG1qdUlLLWFJRkRJdXB6YXlJWThVa0daeVNDbTZxM3hVQUZ4Uk9JYUtfRVE?oc=5",
+   "published": "2026-06-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8bd60d69524ad545",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Wall Street Bullish on AtaiBeckley (ATAI), Here’s Why - Yahoo Finance",
+   "summary": "Wall Street Bullish on AtaiBeckley (ATAI), Here’s Why Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFQyY19qZ0lSVGR2TDU0WXB5VWptYTdSdjFYUkppdmNtall0cHY4TUZBTnpjanpPYTFTLTdhbXV6NFExa1VGeWV2Q3lGdy1ScTJTSzBiMFdOci1XMXp1SlRYQzIxVXVaU0gtOGtXaFk5VTUtNDlwWHQ1U3JsRDlhTFA5Zk5QWU4zak1ScWQ2UFBpV3lVa3pLbmF4enl4a0FRRDBR?oc=5",
    "published": "2026-06-16T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -32561,6 +32671,17 @@
    "published": "2026-05-15T06:47:07Z",
    "outlet": "Being Patient",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d45c9127ff193dfe",
+   "company": "Protagenic Therapeutics",
+   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
+   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxeDQtN0l6ZERYZ2RGbVBlZGY4TzJmS3VfS2RvVEFZOTc5ZF9ObFVRUGVpNnZmUExOYlBlTGxFcHpZUWFKTWxLY24wVmV0cDMtMld5a25LTQ?oc=5",
+   "published": "2026-05-15T01:07:39Z",
+   "outlet": "Protagenic Therapeutics",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -35926,6 +36047,17 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWZheWxhMkI3SGdsZmVvZWtnVTdJdU1pNURxdTNBSjJkU3ltNmtFazNHejJZc3pwVm9MR1A0cHVnY0NudWtyYXNmUGNKcXRLaG1iYzlvS2lQaVF0QzVrUmFYbnhVZ1FjbXQ3M0pUYmdobE1RRXFPRnkxN2xtZnpGelIzRzV6OEpNOHRxNTlQMWFOWGhMNjE1MGkxRmY?oc=5",
    "published": "2026-03-31T07:00:00Z",
    "outlet": "BioPharma Dive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9c328b7ce4c16e51",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka Pharmaceutical to acquire Transcend Therapeutics in $700M deal - Crain's New York",
+   "summary": "Otsuka Pharmaceutical to acquire Transcend Therapeutics in $700M deal Crain's New York",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmM2alhCWVZkMV94TDFvZFJBajlZdjdOcUJTeVBRU2tiWHZDOHRhcVlOTE5qa1BlZktkUmVEQnRUOE04QlJGaXRiby1WX3FzUnNCcWFZSWlUQkZWc3ByY1hvbE5SSXdtWG56TVlyOGtKRmJlQ290Z0F0OUh6QlVBUkJVaFk4VS1yMHpueUE1c2Z0dEk4MHJLZzFUb1MzOU5kMmlrNXk2SnhvR2FtdGtQZGhR?oc=5",
+   "published": "2026-03-31T07:00:00Z",
+   "outlet": "Crain's New York",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
