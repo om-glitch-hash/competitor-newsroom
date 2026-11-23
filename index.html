@@ -90,6 +90,7 @@ td .warn{color:var(--warn);font-weight:600}
   <span class="meta" id="updated">Loading…</span>
   <nav class="tabs" role="tablist">
     <button role="tab" aria-selected="true" data-tab="news">News</button>
+    <button role="tab" aria-selected="false" data-tab="trials">Trials</button>
     <button role="tab" aria-selected="false" data-tab="companies">Companies</button>
     <button role="tab" aria-selected="false" data-tab="sources">Sources</button>
   </nav>
@@ -135,6 +136,25 @@ td .warn{color:var(--warn);font-weight:600}
 
     <p class="count" id="count"></p>
     <div id="feed"></div>
+  </section>
+
+  <!-- TRIALS -->
+  <section id="tab-trials" class="hidden">
+    <p class="note">Trials on ClinicalTrials.gov for each tracked asset, updated every 6 hours (trials updated since <span id="tr-since">2024</span>). <b>NEW</b> = first posted in the last 14 days. <b>CHANGED</b> = status or primary completion date changed in the last 14 days. New registrations and changes also appear in the News feed. Search terms per company are in <code>companies.yaml</code> under <code>trials:</code>.</p>
+    <div class="filters">
+      <select id="tr-program" aria-label="Program"><option value="">All programs</option><option>Polyamine</option><option>Yoda</option><option>Valine</option></select>
+      <select id="tr-company" aria-label="Company"><option value="">All companies</option></select>
+      <select id="tr-status" aria-label="Status">
+        <option value="active">Active (not yet recruiting, recruiting, active, enrolling)</option>
+        <option value="">All statuses</option>
+        <option value="done">Completed / terminated / withdrawn / suspended</option>
+      </select>
+      <input type="search" id="tr-q" placeholder="Search drug, NCT, condition, sponsor…">
+      <label class="chk"><input type="checkbox" id="tr-recent"> New or changed (14 days)</label>
+      <button class="btn" id="tr-export">Export CSV</button>
+    </div>
+    <p class="count" id="tr-count"></p>
+    <table id="tr-table"><thead><tr><th>Company · matched on</th><th>Trial</th><th>Phase</th><th>Status</th><th>Sponsor</th><th>Primary completion</th><th>Updated</th></tr></thead><tbody></tbody></table>
   </section>
 
   <!-- COMPANIES -->
@@ -290,7 +310,9 @@ td .warn{color:var(--warn);font-weight:600}
       const bust = '?t=' + Date.now();
       const [n, s] = await Promise.all([fetch('data/news.json'+bust).then(r=>r.json()), fetch('data/status.json'+bust).then(r=>r.json()).catch(()=>({sources:[]}))]);
       NEWS = n; STATUS = s;
-      $('#updated').textContent = `Updated ${rel(NEWS.updated)} · ${new Date(NEWS.updated).toLocaleString()} · refreshes automatically`;
+      const tr = await fetch('data/trials.json'+bust).then(r=>r.ok?r.json():null).catch(()=>null);
+      if (tr) { TRIALS = tr; if (first) populateTrialFilters(); renderTrials(); }
+      $('#updated').textContent = `Updated ${rel(NEWS.updated)} · ${new Date(NEWS.updated).toLocaleString()} · updates automatically`;
       if (first) populateFilters();
       renderAll();
     }catch(e){
@@ -327,7 +349,7 @@ td .warn{color:var(--warn);font-weight:600}
   });
   document.querySelectorAll('nav.tabs button').forEach(b => b.onclick = () => {
     document.querySelectorAll('nav.tabs button').forEach(x=>x.setAttribute('aria-selected', x===b));
-    ['news','companies','sources'].forEach(t => $('#tab-'+t).classList.toggle('hidden', t!==b.dataset.tab));
+    ['news','trials','companies','sources'].forEach(t => $('#tab-'+t).classList.toggle('hidden', t!==b.dataset.tab));
   });
   $('#export').onclick = () => {
     const rows = filtered();
@@ -340,6 +362,59 @@ td .warn{color:var(--warn);font-weight:600}
     a.download = `competitor-news-${new Date().toISOString().slice(0,10)}.csv`; a.click();
   };
 
+
+  // ---------------- Trials
+  let TRIALS = {trials:{}};
+  const ACTIVE = new Set(['NOT_YET_RECRUITING','RECRUITING','ENROLLING_BY_INVITATION','ACTIVE_NOT_RECRUITING']);
+  const DONE = new Set(['COMPLETED','TERMINATED','WITHDRAWN','SUSPENDED']);
+  const prettyStatus = s => (s||'').replace(/_/g,' ').toLowerCase().replace(/^./, c=>c.toUpperCase());
+  const daysAgo = d => d ? (Date.now() - new Date(d).getTime())/864e5 : 1e9;
+  function trialRows(){
+    const prog = $('#tr-program').value, co = $('#tr-company').value, stf = $('#tr-status').value;
+    const q = $('#tr-q').value.trim().toLowerCase(), recentOnly = $('#tr-recent').checked;
+    return Object.values(TRIALS.trials||{}).filter(t => {
+      if (co && !t.companies.includes(co)) return false;
+      if (prog && !t.companies.some(c => listsFor(c).some(l => l.program===prog))) return false;
+      if (stf==='active' && !ACTIVE.has(t.status)) return false;
+      if (stf==='done' && !DONE.has(t.status)) return false;
+      const isNew = daysAgo(t.first_posted) <= 14, changed = (t.changes||[]).some(c => daysAgo(c.date) <= 14);
+      if (recentOnly && !isNew && !changed) return false;
+      if (q && !`${t.nct} ${t.title} ${t.sponsor} ${t.conditions.join(' ')} ${t.interventions.join(' ')} ${t.matched.join(' ')} ${t.companies.join(' ')}`.toLowerCase().includes(q)) return false;
+      return true;
+    }).sort((a,b) => (b.last_update||'').localeCompare(a.last_update||''));
+  }
+  function renderTrials(){
+    const rows = trialRows();
+    $('#tr-count').textContent = `${rows.length} trial${rows.length===1?'':'s'}`;
+    $('#tr-table tbody').innerHTML = rows.slice(0, 800).map(t => {
+      const isNew = daysAgo(t.first_posted) <= 14;
+      const recentChanges = (t.changes||[]).filter(c => daysAgo(c.date) <= 14);
+      const chTip = recentChanges.map(c => `${c.field}: ${c.field==='Status'?prettyStatus(c.from):c.from} → ${c.field==='Status'?prettyStatus(c.to):c.to}`).join('; ');
+      return `<tr>
+        <td><b>${esc(t.companies.join(', '))}</b><br><span style="color:var(--ink-3)">${esc(t.matched.join(', '))}</span></td>
+        <td>${isNew?'<span class="badge-new">NEW</span>':''}<a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.nct)}</a> ${esc(t.title)}<br><span style="color:var(--ink-3)">${esc(t.conditions.slice(0,3).join(', '))}${t.enrollment?` · n=${t.enrollment}`:''}</span></td>
+        <td style="white-space:nowrap">${esc(t.phase||'–')}</td>
+        <td>${esc(prettyStatus(t.status))}${recentChanges.length?`<br><span class="badge-new" style="background:var(--warn)" title="${esc(chTip)}">CHANGED</span><br><span style="color:var(--ink-3);font-size:12px">${esc(chTip)}</span>`:''}</td>
+        <td>${esc(t.sponsor)}</td>
+        <td style="white-space:nowrap">${esc(t.primary_completion||'–')}</td>
+        <td style="white-space:nowrap">${esc(t.last_update||'–')}</td></tr>`;
+    }).join('') || '<tr><td colspan="7" style="text-align:center;color:var(--ink-3)">No trials match these filters.</td></tr>';
+  }
+  function populateTrialFilters(){
+    const cos = [...new Set(Object.values(TRIALS.trials||{}).flatMap(t => t.companies))].sort();
+    $('#tr-company').innerHTML = '<option value="">All companies</option>' + cos.map(c=>`<option>${esc(c)}</option>`).join('');
+    if (TRIALS.since) $('#tr-since').textContent = TRIALS.since;
+  }
+  ['#tr-program','#tr-company','#tr-status','#tr-recent'].forEach(id => $(id).addEventListener('change', renderTrials));
+  $('#tr-q').addEventListener('input', renderTrials);
+  $('#tr-export').onclick = () => {
+    const q = v => `"${String(v??'').replace(/"/g,'""')}"`;
+    const cols = ['nct','title','companies','matched','phase','status','sponsor','conditions','enrollment','start','primary_completion','first_posted','last_update','url'];
+    const csv = [cols.join(',')].concat(trialRows().map(t => cols.map(c => q(Array.isArray(t[c]) ? t[c].join('; ') : t[c])).join(','))).join('\n');
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob(['\ufeff'+csv], {type:'text/csv'}));
+    a.download = `competitor-trials-${new Date().toISOString().slice(0,10)}.csv`; a.click();
+  };
   load(true);
   setInterval(() => load(false), 5*60_000);   // pick up new runs without a page reload
 })();

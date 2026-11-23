@@ -7,6 +7,7 @@
 #   keywords  (optional) Only keep items that mention one of these words. Use for big,
 #             diversified companies (J&J, Lilly, Medtronic...) so the feed isn't flooded.
 #   verify    true = website not confirmed when the list was built; check data/status.json
+#   trials    ClinicalTrials.gov search: terms (drug names/codes), sponsor, condition
 #   lists     Where the company appears: program, list, priority (1 = High, 2 = Medium, 3 = Low), assets
 #
 # To add a company: copy a block, edit it, commit. The next run (within 15 min) picks it up.
@@ -19,16 +20,19 @@ companies:
   # No RSS feed and Google News doesn't index the PDF releases, so read the news page directly
   scrape: {item: "a[href*='/en/news/']", title: ".news_tx", date: ".date"}
   keywords: [ND0612, Onerji, NeuroDerm, Parkinson, levodopa]
+  trials: {terms: ["ND0612"]}
   lists:
     - {program: Polyamine, list: List A, priority: 1, assets: "ND0612 / Onerji"}
     - {program: Polyamine, list: List B, priority: 2, assets: "ND0612"}
 - name: NeuroDerm
   site: https://neuroderm.com/
   verify: true
+  trials: {terms: ["ND0612"]}
   lists:
     - {program: Polyamine, list: List A, priority: 1, assets: "ND0612 / Onerji"}
 - name: Supernus
   site: https://ir.supernus.com/news-releases
+  trials: {terms: ["SPN-830", "Onapgo", "Gocovri", "SPN-820", "SPN-821", "NV-5138", "zuranolone", "brexanolone"]}
   lists:
     - {program: Polyamine, list: List A, priority: 1, assets: "Onapgo"}
     - {program: Polyamine, list: List B, priority: 1, assets: "Gocovri, Apokyn"}
@@ -39,11 +43,13 @@ companies:
   site: https://www.dizlin.com/
   verify: true
   search: '"Dizlin" OR "Infudopa"'
+  trials: {terms: ["DIZ101", "DIZ102", "Infudopa"]}
   lists:
     - {program: Polyamine, list: List A, priority: 1, assets: "DIZ101, DIZ102"}
 - name: Amneal
   site: https://investors.amneal.com/news-and-events/press-releases/default.aspx
   keywords: [Crexont, Rytary, Ongentys, Parkinson, carbidopa, levodopa, opicapone]
+  trials: {terms: ["IPX203", "Crexont", "Rytary", "opicapone"]}
   lists:
     - {program: Polyamine, list: List A, priority: 1, assets: "Crexont"}
     - {program: Polyamine, list: List B, priority: 1, assets: "Rytary, Crexont"}
@@ -51,11 +57,13 @@ companies:
 - name: Zambon
   site: https://www.zambon.com/en/media
   keywords: [Hopledo, Crexont, Parkinson, levodopa, Xadago, safinamide]
+  trials: {terms: ["IPX203", "Hopledo", "safinamide"]}
   lists:
     - {program: Polyamine, list: List A, priority: 1, assets: "Hopledo"}
 - name: Serina Therapeutics
   site: https://serinatherapeutics.com/
   search: '"Serina Therapeutics" OR "SER-252"'
+  trials: {terms: ["SER-252"]}
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "SER-252"}
 - name: Stada
@@ -66,44 +74,53 @@ companies:
 - name: Medtronic
   site: https://news.medtronic.com/
   keywords: [Parkinson, DBS, deep brain, BrainSense, Percept, adaptive]
+  trials: {sponsor: "Medtronic", condition: "Parkinson"}
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "DBS"}
 - name: Boston Scientific
   site: https://news.bostonscientific.com/
   keywords: [Parkinson, DBS, deep brain, Vercise, neuromodulation]
+  trials: {sponsor: "Boston Scientific", condition: "Parkinson"}
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "DBS"}
 - name: Abbott
   site: https://abbott.mediaroom.com/
   keywords: [Parkinson, DBS, deep brain, Liberta, Infinity, neuromodulation]
+  trials: {sponsor: "Abbott", condition: "Parkinson"}
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "DBS"}
 - name: Newronika
   site: https://www.newronika.com/
   verify: true
+  trials: {sponsor: "Newronika"}
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "DBS"}
 - name: Insightec
   site: https://insightec.com/news/
+  trials: {sponsor: "Insightec", condition: "Parkinson"}
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "Focused ultrasound (Exablate)"}
 - name: NeuroOne Medical Technologies
   site: https://nmtc1.com/
+  trials: {sponsor: "NeuroOne"}
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "RF ablation"}
 - name: Sumitomo Pharma
   site: https://www.sumitomo-pharma.com/news/
   keywords: [Parkinson, Amchepry, iPS, cell therapy, raguneprocel, ulotaront, psychiatric]
+  trials: {terms: ["CT1-DAP001", "DSP-1083", "raguneprocel"], sponsor: "Sumitomo", condition: "Parkinson"}
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "Amchepry (cell therapy)"}
 - name: BlueRock Therapeutics
   site: https://www.bluerocktx.com/news/
+  trials: {terms: ["bemdaneprocel", "BRT-DA01"]}
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "Bemdaneprocel (cell therapy)"}
 - name: Britannia Pharmaceuticals
   site: https://www.britannia-pharm.com/
   verify: true
   search: '"Britannia Pharmaceuticals" OR "APO-go"'
+  trials: {sponsor: "Britannia Pharmaceuticals"}
   lists:
     - {program: Polyamine, list: List A, priority: 2, assets: "Intraduodenal"}
 
@@ -111,174 +128,207 @@ companies:
 - name: UCB
   site: https://www.ucb.com/newsroom
   keywords: [Parkinson, Neupro, rotigotine, UCB0022, minzasolmin, glovadalen]
+  trials: {terms: ["rotigotine", "UCB0022", "glovadalen", "minzasolmin", "UCB0599"]}
   lists:
     - {program: Polyamine, list: List B, priority: 1, assets: "Neupro (marketed); UCB0022 (pipeline)"}
 - name: Merz Therapeutics (Inbrija, ex-Acorda)
   site: https://www.merztherapeutics.com/news/
   keywords: [Inbrija, Parkinson, levodopa]
   verify: true
+  trials: {terms: ["Inbrija", "CVT-301"]}
   lists:
     - {program: Polyamine, list: List B, priority: 1, assets: "Inbrija"}
 - name: IRLAB Therapeutics
   site: https://www.irlab.se/en/news/
+  trials: {terms: ["mesdopetam", "IRL790", "pirepemat", "IRL752", "IRL757"], sponsor: "IRLAB"}
   lists:
     - {program: Polyamine, list: List B, priority: 1, assets: "Mesdopetam, linepemat"}
 - name: Johnson & Johnson (incl. Intra-Cellular)
   site: https://www.jnj.com/media-center/press-releases
   keywords: [lenrispodun, ITI-1284, Caplyta, lumateperone, seltorexant, aticaprant, Parkinson, depression, schizophrenia, bipolar, anxiety, Intra-Cellular, psychiatry, neuroscience]
+  trials: {terms: ["lenrispodun", "ITI-214", "ITI-1284", "lumateperone", "seltorexant", "aticaprant"]}
   lists:
     - {program: Polyamine, list: List B, priority: 1, assets: "Lenrispodun"}
     - {program: Yoda, list: GAD, priority: 1, assets: "ITI-1284"}
     - {program: Valine, list: Valine, priority: 1, assets: "Caplyta, seltorexant, aticaprant"}
 - name: Cerevance
   site: https://www.cerevance.com/news
+  trials: {terms: ["solengepras", "CVN424"]}
   lists:
     - {program: Polyamine, list: List B, priority: 1, assets: "Solengepras (CVN424)"}
 - name: Kyowa Kirin
   site: https://www.kyowakirin.com/media_center/news_releases/
   keywords: [Nourianz, istradefylline, Parkinson]
+  trials: {terms: ["istradefylline"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Nourianz"}
 - name: Pharma Two B
   site: https://www.pharma2b.com/
   verify: true
   search: '"Pharma Two B" OR "P2B001"'
+  trials: {terms: ["P2B001"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "P2B001"}
 - name: Annovis Bio
-  site: https://www.annovisbio.com/press-release
+  site: https://www.annovisbio.com/press-releases
+  trials: {terms: ["buntanetap", "ANVS401", "posiphen"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Buntanetap"}
 - name: Biogen
   site: https://investors.biogen.com/news-releases
   keywords: [BIIB122, DNL151, LRRK2, Parkinson]
+  trials: {terms: ["BIIB122", "DNL151"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "BIIB122 / DNL151 (with Denali)"}
 - name: Denali Therapeutics
   site: https://investors.denalitherapeutics.com/news-releases
   keywords: [BIIB122, DNL151, LRRK2, Parkinson]
+  trials: {terms: ["BIIB122", "DNL151"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "DNL151 / BIIB122 (with Biogen)"}
 - name: Lundbeck
   site: https://www.lundbeck.com/global/media/media-releases
   keywords: [Lu AF28996, Parkinson, Rexulti, brexpiprazole, schizophrenia, depression, PTSD, anxiety, psychiatr]
+  trials: {terms: ["Lu AF28996", "brexpiprazole"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Lu AF28996"}
     - {program: Valine, list: Valine, priority: 1, assets: "Rexulti (with Otsuka)"}
 - name: Gain Therapeutics
   site: https://www.gaintherapeutics.com/news
+  trials: {terms: ["GT-02287"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "GT-02287 / Rexaceract"}
 - name: AC Immune
   site: https://www.acimmune.com/news/
   keywords: [ACI-7104, AC-7104, Parkinson, synuclein]
+  trials: {terms: ["ACI-7104"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "ACI-7104"}
 - name: BioVie
   site: https://www.biovie.com/news
   search: '"BioVie" OR "bezisterim"'
+  trials: {terms: ["bezisterim", "NE3107"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Bezisterim"}
 - name: Vertero
   site: null
   search: "Vertero VT-5006"
   verify: true
+  trials: {terms: ["VT-5006"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "VT-5006"}
 - name: Neuron23
   site: https://www.neuron23.com/news
+  trials: {terms: ["NEU-411"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "NEU-411"}
 - name: Arvinas
   site: https://ir.arvinas.com/news-releases
   keywords: [ARV-102, LRRK2, Parkinson, neuroscience]
+  trials: {terms: ["ARV-102"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "ARV-102"}
 - name: Brenig Therapeutics
   site: https://www.brenigtx.com/
   verify: true
   search: '"Brenig Therapeutics" OR "BT-267"'
+  trials: {terms: ["BT-267"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "BT-267"}
 - name: Abli Therapeutics
   site: null
   search: "Abli Therapeutics risvodetinib"
   verify: true
+  trials: {terms: ["risvodetinib", "IkT-148009"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Risvodetinib"}
 - name: NRG Therapeutics
   site: https://nrgtherapeutics.com/
   verify: true
+  trials: {terms: ["NRG5051"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "NRG5051"}
 - name: Ventyx Biosciences (acquired by Lilly, Mar 2026)
   site: null
   search: '"VTX3232" OR "VTX-3232" OR "Ventyx"'
+  trials: {terms: ["VTX3232"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "VTX-3232"}
 - name: Remepy
   site: https://www.remepy.com/
   verify: true
+  trials: {sponsor: "Remepy"}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Hybridopa"}
 - name: IO Therapeutics
   site: null
   search: "IO Therapeutics IRX4204"
   verify: true
+  trials: {terms: ["IRX4204"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "IRX4204"}
 - name: Alterity Therapeutics
   site: https://alteritytherapeutics.com/
   search: '"Alterity Therapeutics" OR "ATH434"'
+  trials: {terms: ["ATH434"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "ATH434"}
 - name: Roche
   site: https://www.roche.com/media/releases
   keywords: [prasinezumab, Parkinson, synuclein]
+  trials: {terms: ["prasinezumab", "RO7046015"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Prasinezumab"}
 - name: S.Biomedics
   site: null
   search: "S.Biomedics Parkinson"
   verify: true
+  trials: {terms: ["TED-A9"], sponsor: "S.Biomedics"}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy"}
 - name: Aspen Neuroscience
   site: https://aspenneuroscience.com/news/
+  trials: {terms: ["ANPD001"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy (ANPD001)"}
 - name: Unixell
   site: null
   search: "Unixell Parkinson"
   verify: true
+  trials: {sponsor: "Unixell"}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy"}
 - name: XellSmart
   site: null
   search: "XellSmart Parkinson"
   verify: true
+  trials: {sponsor: "XellSmart"}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy"}
 - name: iRegene Therapeutics
   site: null
   search: "iRegene Therapeutics"
   verify: true
+  trials: {terms: ["NouvNeu001"], sponsor: "iRegene"}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy (NouvNeu001)"}
 - name: International Stem Cell Corp (ISCO)
   site: https://internationalstemcell.com/
   verify: true
+  trials: {terms: ["ISC-hpNSC"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy"}
 - name: Kenai Therapeutics
   site: https://www.kenaitx.com/
   verify: true
+  trials: {terms: ["RNDP-001"], sponsor: "Kenai"}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy"}
 - name: iCamuno
   site: null
   search: "iCamuno"
   verify: true
+  trials: {sponsor: "iCamuno"}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy"}
 - name: Shanghai Xinzhi
@@ -291,26 +341,31 @@ companies:
   site: https://oryoncell.com/
   verify: true
   search: '"Oryon Cell" OR "Oryon Cell Therapies"'
+  trials: {sponsor: "Oryon"}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Cell therapy"}
 - name: AskBio (Bayer)
   site: https://www.askbio.com/news/
   keywords: [Parkinson, AB-1005, GDNF]
+  trials: {terms: ["AB-1005"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Gene therapy (AB-1005)"}
 - name: Prevail Therapeutics (Lilly)
   site: https://www.prevailtherapeutics.com/
   verify: true
+  trials: {terms: ["PR001", "LY3884961"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Gene therapy (PR001)"}
 - name: Regeneron
   site: https://investor.regeneron.com/news-releases
   keywords: [Parkinson, synuclein, LRRK2]
+  trials: {sponsor: "Regeneron", condition: "Parkinson"}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Injectables"}
 - name: Herantis Pharma
   site: https://herantis.com/
   search: '"Herantis" OR "HER-096"'
+  trials: {terms: ["HER-096"]}
   lists:
     - {program: Polyamine, list: List B, priority: 2, assets: "Injectables (HER-096)"}
 
@@ -319,6 +374,7 @@ companies:
   site: https://ir.mindmed.co/news-events/press-releases
   search: "Definium DT120"
   verify: true
+  trials: {terms: ["MM120", "MM-120", "DT120", "lysergide"]}
   lists:
     - {program: Yoda, list: GAD, priority: 1, assets: "MM120 / DT120 (lysergide tartrate)"}
     - {program: Yoda, list: PTSD, priority: 1, assets: "DT120"}
@@ -326,6 +382,7 @@ companies:
 - name: Otsuka
   site: https://www.otsuka.co.jp/en/company/newsreleases/
   keywords: [ulotaront, Rexulti, brexpiprazole, centanafadine, anxiety, PTSD, schizophrenia, depression, psychiatr]
+  trials: {terms: ["ulotaront", "SEP-363856", "brexpiprazole", "centanafadine"]}
   lists:
     - {program: Yoda, list: GAD, priority: 1, assets: "Ulotaront"}
     - {program: Yoda, list: PTSD, priority: 2, assets: "Rexulti (discontinued; CRL Sep 2025)"}
@@ -333,28 +390,33 @@ companies:
 - name: Helus Pharma (ex-Cybin)
   site: https://ir.helus.com/news-releases
   search: '"Helus Pharma"'
+  trials: {terms: ["CYB003", "CYB004", "HLP003", "HLP004", "SPL026"]}
   lists:
     - {program: Yoda, list: GAD, priority: 1, assets: "CYB004 / HLP004"}
     - {program: Valine, list: Valine, priority: 2, assets: "SPL026, HLP003, HLP004"}
 - name: Reunion Neuroscience
   site: https://reunionneuro.com/news/
+  trials: {terms: ["RE104", "luvesilocin"]}
   lists:
     - {program: Yoda, list: GAD, priority: 1, assets: "RE104 (luvesilocin)"}
 - name: Luye Pharma
   site: https://www.luye.cn/lvye_en/news.php
   keywords: [toludesvenlafaxine, anxiety, depression, Ruoxinlin]
   verify: true
+  trials: {terms: ["toludesvenlafaxine", "ansofaxine", "LY03005"]}
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "Toludesvenlafaxine HCl"}
 - name: Aprix
   site: null
   search: "Aprix PSX-001"
   verify: true
+  trials: {terms: ["PSX-001"]}
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "PSX-001"}
 - name: Engrail Therapeutics
   site: https://engrail.com/news/
   search: '"Engrail Therapeutics" OR "ENX-102" OR "ENX-205"'
+  trials: {terms: ["ENX-102", "ENX-205", "ENX-104"]}
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "ENX-102"}
     - {program: Yoda, list: PTSD, priority: 2, assets: "ENX-205"}
@@ -362,21 +424,25 @@ companies:
   site: https://www.gabatx.com/
   verify: true
   search: '"GABA Therapeutics" OR "GRX-917"'
+  trials: {terms: ["GRX-917"]}
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "GRX-917 (deuterated etifoxine)"}
 - name: AtaiBeckley (Atai Beckley)
   site: https://ir.ataibeckley.com/news-releases
   search: '"AtaiBeckley" OR "Atai Beckley"'
+  trials: {terms: ["EMP-01", "BPL-003", "VLS-01"]}
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "EMP-01 (SAD)"}
     - {program: Valine, list: Valine, priority: 2, assets: "BPL-003 (with Lilly)"}
 - name: Incannex Healthcare
   site: https://www.incannex.com/news/
+  trials: {sponsor: "Incannex"}
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "Psilocybin"}
 - name: Protagenic Therapeutics
   site: https://www.protagenic.com/news
   verify: true
+  trials: {terms: ["PT00114", "PT-00114"]}
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "PT-00114"}
     - {program: Yoda, list: PTSD, priority: 2, assets: "PT-00114"}
@@ -384,24 +450,28 @@ companies:
   site: null
   search: "Cynaptec L-130"
   verify: true
+  trials: {sponsor: "Cynaptec"}
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "L-130"}
 - name: Sensorium Therapeutics
   site: https://www.sensoriumtx.com/
   verify: true
   search: '"Sensorium Therapeutics" OR "SENS-01"'
+  trials: {terms: ["SENS-01"]}
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "SENS-01"}
 - name: Arcadia Medicine
   site: null
   search: "Arcadia Medicine AM-1002 MDMA"
   verify: true
+  trials: {terms: ["AM-1002"]}
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "AM-1002"}
 - name: Usona Institute
   site: https://www.usona.org/news/
   verify: true
   search: '"Usona Institute" OR "Usona"'
+  trials: {sponsor: "Usona"}
   lists:
     - {program: Yoda, list: GAD, priority: 2, assets: "Psilocybin"}
     - {program: Yoda, list: PTSD, priority: 2, assets: "Psilocybin"}
@@ -409,15 +479,18 @@ companies:
 - name: Transcend Therapeutics
   site: https://www.transcendtherapeutics.com/
   verify: true
+  trials: {terms: ["TSND-201", "methylone"]}
   lists:
     - {program: Yoda, list: PTSD, priority: 1, assets: "TSND-201 (methylone)"}
 - name: Compass Pathways
   site: https://ir.compasspathways.com/news-releases
+  trials: {terms: ["COMP360"]}
   lists:
     - {program: Yoda, list: PTSD, priority: 1, assets: "COMP360 (psilocybin)"}
     - {program: Valine, list: Valine, priority: 1, assets: "COMP360 (psilocybin)"}
 - name: Alzamend Neuro
   site: https://www.alzamend.com/news/
+  trials: {sponsor: "Alzamend"}
   lists:
     - {program: Yoda, list: PTSD, priority: 1, assets: "AL001 (lithium)"}
     - {program: Valine, list: Valine, priority: 2, assets: "AL001"}
@@ -425,33 +498,39 @@ companies:
   site: null
   search: "Resilient Pharmaceuticals MDMA"
   verify: true
+  trials: {terms: ["MDMA"], condition: "PTSD"}
   lists:
     - {program: Yoda, list: PTSD, priority: 1, assets: "MDMA"}
 - name: Neuphoria Therapeutics
   site: https://neuphoriatx.com/
   verify: true
+  trials: {terms: ["BNC210"]}
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "BNC210"}
 - name: Palisades Therapeutics
   site: null
   search: "Palisades Therapeutics PT-150"
   verify: true
+  trials: {terms: ["PT150", "PT-150"]}
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "PT-150"}
 - name: Idorsia
   site: https://www.idorsia.com/media/news-details
   keywords: [daridorexant, PTSD, Quviviq, psychiatr]
+  trials: {terms: ["daridorexant"], condition: "PTSD"}
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "Daridorexant (ACT-541468)"}
 - name: Honeybrains Biotech
   site: null
   search: '"Honeybrains" OR "HB-1 PTSD"'
   verify: true
+  trials: {sponsor: "Honeybrains"}
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "HB-1 (telmisartan + verapamil)"}
 - name: Boehringer Ingelheim
   site: https://www.boehringer-ingelheim.com/media/press-releases
   keywords: [BI 1358894, BI-1358894, BI 1569912, PTSD, schizophrenia, depression, psychiatr, iclepertin]
+  trials: {terms: ["BI 1358894", "BI 1569912", "iclepertin"]}
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "BI-1358894"}
     - {program: Valine, list: Valine, priority: 3, assets: "BI 1358894, BI 1569912"}
@@ -459,137 +538,166 @@ companies:
   site: https://anandascientific.com/
   verify: true
   search: '"Ananda Scientific"'
+  trials: {sponsor: "Ananda Scientific"}
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "Liquid Structure CBD"}
 - name: Corcept Therapeutics
   site: https://ir.corcept.com/news-releases
   keywords: [CORT-108297, CORT108297, PTSD, psychiatr]
+  trials: {terms: ["CORT108297"]}
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "CORT-108297"}
 - name: Neurala Biosciences
   site: null
   search: '"Neurala Biosciences" OR "NBX-100"'
   verify: true
+  trials: {terms: ["NBX-100"]}
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "NBX-100"}
 - name: Filament Health
   site: https://filament.health/news/
   verify: true
+  trials: {terms: ["PEX010"]}
   lists:
     - {program: Yoda, list: PTSD, priority: 2, assets: "PEX010 (psilocybin)"}
 
 # ---------------- Valine ----------------
 - name: Axsome Therapeutics
   site: https://axsometherapeuticsinc.gcs-web.com/news-releases
+  trials: {terms: ["solriamfetol", "AXS-05", "Auvelity"]}
   lists:
     - {program: Valine, list: Valine, priority: 1, assets: "Solriamfetol, Auvelity"}
 - name: Bristol Myers Squibb (Karuna)
   site: https://news.bms.com/news
   keywords: [KarXT, Cobenfy, xanomeline, schizophrenia, psychiatr, Alzheimer's disease psychosis, bipolar]
+  trials: {terms: ["KarXT", "xanomeline", "Cobenfy"]}
   lists:
     - {program: Valine, list: Valine, priority: 1, assets: "KarXT (Cobenfy)"}
 - name: Eli Lilly
   site: https://investor.lilly.com/news-releases
   keywords: [brenipatide, BPL-003, Atai, psychiatr, depression, schizophrenia, alcohol, Prevail, Parkinson, Ventyx, VTX3232]
+  trials: {terms: ["brenipatide", "BPL-003"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Brenipatide (GLP-1); BPL-003 (with Atai Beckley)"}
 - name: NRx Pharmaceuticals (Hope Therapeutics)
   site: https://ir.nrxpharma.com/news-events/press-releases
+  trials: {terms: ["NRX-100", "NRX-101"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "NRX-100, NRX-101"}
 - name: Alto Neuroscience
   site: https://investors.altoneuroscience.com/news-releases
+  trials: {terms: ["ALTO-100", "ALTO-101", "ALTO-203", "ALTO-300"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "ALTO-100, -101, -203, -300"}
 - name: Neumora Therapeutics
   site: https://ir.neumoratx.com/news-releases
+  trials: {terms: ["navacaprant", "NMRA-140"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Navacaprant"}
 - name: Alkermes
   site: https://investor.alkermes.com/news-releases
+  trials: {terms: ["Lybalvi", "ALKS 7290", "samidorphan"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Lybalvi, ALKS 7290"}
 - name: Neurocrine Biosciences
   site: https://neurocrine.gcs-web.com/news-releases
+  trials: {terms: ["NBI-1070770", "osavampator", "NBI-1065845", "direclidine", "NBI-1117568"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "NBI-1070770, osavampator, direclidine"}
 - name: Xenon Pharmaceuticals
   site: https://investor.xenon-pharma.com/news-releases
+  trials: {terms: ["azetukalner", "XEN1101"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Azetukalner (XEN-1101)"}
 - name: Reviva Pharmaceuticals
   site: https://revivapharma.com/news/
+  trials: {terms: ["brilaroxazine", "RP5063"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Brilaroxazine"}
 - name: Vanda Pharmaceuticals
   site: https://vandapharmaceuticalsinc.gcs-web.com/news-releases
+  trials: {terms: ["milsaperidone", "iloperidone", "Bysanti"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Fanapt, Bysanti (milsaperidone)"}
 - name: Autobahn Therapeutics
   site: https://www.autobahntx.com/news
   verify: true
+  trials: {terms: ["ABX-002", "elunetirom"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Elunetirom (ABX-002)"}
 - name: Rapport Therapeutics
   site: https://investors.rapportrx.com/news-releases
+  trials: {terms: ["RAP-219"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "RAP-219"}
 - name: MapLight Therapeutics
   site: https://maplighttherapeutics.gcs-web.com/news-releases
   rss: https://maplighttherapeutics.gcs-web.com/rss/news-releases.xml
+  trials: {terms: ["ML-007", "ML-007C-MA"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "ML-007C-MA (M1/M4 agonist)"}
 - name: LB Pharmaceuticals
   site: https://www.lbpharma.us/
   verify: true
+  trials: {terms: ["LB-102"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "LB-102"}
 - name: Newron Pharmaceuticals
   site: https://www.newron.com/news-and-media/regulatory-news
   search: '"Newron" OR "evenamide"'
+  trials: {terms: ["evenamide"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Evenamide"}
 - name: Teva
   site: https://www.tevapharm.com/news-and-media/latest-news/
   keywords: [Uzedy, olanzapine, TEV-749, Igalmi, BXCL501, schizophrenia, bipolar, psychiatr]
+  trials: {terms: ["TEV-749", "BXCL501", "TV-46000", "Uzedy"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Igalmi; Uzedy; TEV-'749 (olanzapine LAI)"}
 - name: Tortugas Neuroscience
   site: null
   search: "Tortugas Neuroscience obuprazine"
   verify: true
+  trials: {terms: ["obuprazine", "TRTL-107", "HS-10380"]}
   lists:
     - {program: Valine, list: Valine, priority: 2, assets: "Obuprazine / TRTL-107 / HS-10380"}
 - name: Tonix Pharmaceuticals
   site: https://ir.tonixpharma.com/news-events/press-releases
+  trials: {terms: ["TNX-4300", "TNX-102"]}
   lists:
     - {program: Valine, list: Valine, priority: 3, assets: "TNX-4300 ((S)-tianeptine), TNX-102"}
 - name: TG Therapeutics
   site: https://ir.tgtherapeutics.com/news-releases
+  trials: {terms: ["ublituximab"]}
   lists:
     - {program: Valine, list: Valine, priority: 3, assets: "Briumvi (ublituximab)"}
 - name: Minerva Neurosciences
   site: https://ir.minervaneurosciences.com/news-releases
+  trials: {terms: ["roluperidone", "MIN-101"]}
   lists:
     - {program: Valine, list: Valine, priority: 3, assets: "Roluperidone (MIN-101)"}
 - name: Spinogenix
   site: https://www.spinogenix.com/news
   verify: true
+  trials: {terms: ["SPG302", "SPG-302"]}
   lists:
     - {program: Valine, list: Valine, priority: 3, assets: "Tazbentetol (SPG-302)"}
 - name: Suven Pharmaceuticals
   site: https://www.suven.com/
   keywords: [ropanicant, SUVN-911, depression, CNS, psychiatr]
   verify: true
+  trials: {terms: ["ropanicant", "SUVN-911"]}
   lists:
     - {program: Valine, list: Valine, priority: 3, assets: "Ropanicant (SUVN-911)"}
 - name: Novartis
   site: https://www.novartis.com/news/news-archive
   keywords: [GXV813, depression, schizophrenia, psychiatr, neuroscience]
+  trials: {terms: ["GXV813"]}
   lists:
     - {program: Valine, list: Valine, priority: 3, assets: "GXV813"}
 - name: Seaport Therapeutics
   site: https://www.seaporttx.com/news
   verify: true
+  trials: {terms: ["SPT-300", "GlyphAllo", "SPT-348"]}
   lists:
     - {program: Valine, list: Valine, priority: 3, assets: "GlyphAllo (SPT-300), Glyph2BLSD (SPT-348)"}
