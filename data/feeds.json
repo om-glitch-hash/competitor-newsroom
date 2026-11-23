@@ -226,13 +226,13 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-23T00:27:46Z"
+  "checked": "2026-11-23T01:52:08Z"
  },
  "Zambon": {
-  "feed": "https://news.google.com/rss/search?q=%22Zambon%22+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.zambon.com/en/media\", null, null, [\"Hopledo\", \"Crexont\", \"Parkinson\", \"levodopa\", \"Xadago\", \"safinamide\"]]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-23T01:52:08Z"
  },
  "Oryon Cell Therapies": {
   "feed": "https://news.google.com/rss/search?q=%22Oryon+Cell%22+OR+%22Oryon+Cell+Therapies%22&hl=en-US&gl=US&ceid=US:en",
