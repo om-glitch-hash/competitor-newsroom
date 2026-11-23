@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:59:04Z",
+ "updated": "2026-11-23T19:02:25Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -3579,6 +3579,17 @@
    "first_seen": null
   },
   {
+   "id": "52d4b70628d23aef",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "New trial registered: Lumateperone Monotherapy Versus Usual Antidepressant Treatment for First-Episode Depression",
+   "summary": "NCT07948031 · Ph 4 · Not yet recruiting · Sultan Qaboos University · Major Depressive Disorder",
+   "link": "https://clinicaltrials.gov/study/NCT07948031",
+   "published": "2026-11-19T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-23T19:02:25Z"
+  },
+  {
    "id": "f6f7250fe06dbcaf",
    "company": "Luye Pharma",
    "title": "Luye Pharma’s Ruoxinlin Approved for Generalized Anxiety Disorder in China - TipRanks",
@@ -4237,6 +4248,17 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T21:13:01Z"
+  },
+  {
+   "id": "ad7751778496a9ec",
+   "company": "Resilient Pharmaceuticals (ex-Lykos)",
+   "title": "New trial registered: MDMA-Assisted Couple Psychotherapy for PTSD in First Responders: A Phase I Feasibility Study (PACT-MDMA)",
+   "summary": "NCT07944781 · Ph 1 · Not yet recruiting · Jeremie Richard · Post-Traumatic Stress Disorder",
+   "link": "https://clinicaltrials.gov/study/NCT07944781",
+   "published": "2026-11-18T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-23T19:02:25Z"
   },
   {
    "id": "4d66c7c588b7d9c2",
@@ -7539,6 +7561,17 @@
    "first_seen": null
   },
   {
+   "id": "0861621c2f70d72e",
+   "company": "Merz Therapeutics (Inbrija, ex-Acorda)",
+   "title": "New trial registered: Advanced Imaging-Guided Standard Versus Dose-Intensified Radiation Therapy for the Treatment of Newly Diagnosed Glioblastoma, SAGA 2.0 Trial",
+   "summary": "NCT07935889 · Ph 3 · Recruiting · Mayo Clinic · Glioblastoma, IDH-Wildtype",
+   "link": "https://clinicaltrials.gov/study/NCT07935889",
+   "published": "2026-11-13T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-23T19:02:25Z"
+  },
+  {
    "id": "f823ebb69ff5b0c8",
    "company": "Serina Therapeutics",
    "title": "What Are the Next Steps for Serina Therapeutics' (NYSEAM:SER) SER-252 Parkinson's Study? - Kalkine",
@@ -7821,6 +7854,17 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWZOUjR6STZrbmRza0VWV2hzekZUS0toeUZUWTdGTmNDdUY5LU9mYW5WTlBrbFVuUG43VmVmV2NvX2lObmdhMWItaXQ3TG9jTU1oa3pOVmg0YV9iRnotS2J1czVIam4xZGdtNVZEclFqWTJObDBSTUoxaFNPa2Q5MTRZMVhaMDlXQ3c?oc=5",
    "published": "2026-11-12T15:52:22Z",
    "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "81fca1dd182ab61f",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals at Stifel 2026 Healthcare Conference 2026: pipeline, cash By Investing.com - Investing.com India",
+   "summary": "LB Pharmaceuticals at Stifel 2026 Healthcare Conference 2026: pipeline, cash By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVVhrS1ZOT2lka01JZjVhMFBpTmpwWXU4TDY2N2RyUXdFNWV5c0JTcDBuXzdKOElLMGQwVjJRUGZ6QzZTQVZNMUw3UlZVaDR0eURZdEFQbTNONUFFSkpsZEVycnpTZGVrMnF5cDYxRFRPN05FNTNmNXpTUkJ3SlJBUlAtRzVFaU9fbTQ2WldTanE5ZVowYjUwZXVBTnctajlha3FJY0lpanRadFAwWUc1WG1MQV9pWW40WDA0RWZEVmJKOXZxVGswYmNwTjJacWdC?oc=5",
+   "published": "2026-11-12T14:54:42Z",
+   "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8716,6 +8760,28 @@
    "first_seen": null
   },
   {
+   "id": "0266d0052533e228",
+   "company": "Eli Lilly",
+   "title": "New trial registered: A Study of Brenipatide in Participants With Major Depressive Disorder",
+   "summary": "NCT07928245 · Ph 2 · Recruiting · Eli Lilly and Company · Major Depressive Disorder",
+   "link": "https://clinicaltrials.gov/study/NCT07928245",
+   "published": "2026-11-10T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-23T19:02:25Z"
+  },
+  {
+   "id": "ddab637557f65213",
+   "company": "Eli Lilly",
+   "title": "New trial registered: A Study of Brenipatide (LY3537031) Comparing Two Formulations in Healthy Adults",
+   "summary": "NCT07927309 · N/A · Not yet recruiting · Xavier University of Louisiana. · Diabetes (DM), Foot Ulcer Due to Type 2 Diabetes Mellitus, Neuropathic Diabetic Ulcer - Foot",
+   "link": "https://clinicaltrials.gov/study/NCT07927309",
+   "published": "2026-11-10T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-23T19:02:25Z"
+  },
+  {
    "id": "cd2d87741550cb99",
    "company": "LB Pharmaceuticals",
    "title": "LB Pharmaceuticals Inc $LBRX Shares Newly Acquired by Candriam S.C.A. - MarketBeat",
@@ -9230,6 +9296,17 @@
    "published": "2026-11-09T12:00:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "ff717631098b2811",
+   "company": "Merz Therapeutics (Inbrija, ex-Acorda)",
+   "title": "New trial registered: Magnetic-Resonance Guided Focused Ultrasound Pallidothalamic Tractotomy for Parkinson's Disease",
+   "summary": "NCT07925086 · N/A · Not yet recruiting · Research Center of Neurology, Russia · Parkinson Disease (PD)",
+   "link": "https://clinicaltrials.gov/study/NCT07925086",
+   "published": "2026-11-09T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
    "first_seen": null
   },
   {
@@ -10311,17 +10388,6 @@
    "first_seen": null
   },
   {
-   "id": "1893541e34fd928a",
-   "company": "Herantis Pharma",
-   "title": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design - The Manila Times",
-   "summary": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUFUNlBXaUo3MFU1SVJzSWlnR29SSVdFVGFnT3VOOUQwVnBQcG16S0RhWDFqS3Q0U1lybUc2b0UwbVc5TGQ5dW1EZnFvWExrcXplTFl2NXAzcGJuUmk1ZlhZbFZPbTc1MktXS3M3cXU5cUdHSDc1Ni1RMU8yRGFhcmZsTkpwd1pzb2xvcVV5ZHFyMXd3NXpLZ0hBdEFWclI0dkNrWHl5TWZOZl91ZThuV25VLWZrcFBOOFlaNEd1ZDRoZk44d3B0cXdtaGFYbUlPY2pJRkRkeUpyUlRYVWY3TmNJb0xLVDZJekg5UExnNnh5N1FF0gH6AUFVX3lxTE5OMHN2aVJjaXZRWFl4RVZHZDMtY1RNVm9ET0h2c2puc1puUE15cnRsQkpMRWpCRzliWEp2SmxDOVFFbmdvQ0otRjZOUFV1b0VtRHhLNld4SUxPOHdTMTJLVmE2YUtNRThSOFNYM2M1UElUaFFTQ0hicGVOdlNlSG9OUkNpRHMxdFNwWDRrUDNwUWdiYkJiTVh2SV90S2ZiQmlaV1p3QmRjbHUyOHVfMUdUcGxBVnZLVlM3blM1UWlGV1BLalVQcTRvUVRVb212ejF5QU5MRUVFcWVWaldMSWlOXy1GS21iNHdYTmhraG9CNncwRHBGTWN2d1E?oc=5",
-   "published": "2026-11-05T12:05:42Z",
-   "outlet": "The Manila Times",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "986adaac5b77ddae",
    "company": "Insightec",
    "title": "Job opportunity: CAM Clinical Sales – Senior Manager of AGM - Insightec",
@@ -10340,6 +10406,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVFYNGRteUJDR214ZmFFNGlmalozbFdVZFRianFyc1dGZHpBd1haVXF0MXZLSTVET2dDTTNfVXV0bnl6Z2VfN2xKZ1ZiRmdtTTVjQnVEZkN2N0FlMGZMWkJfOGtnczhmQ2tpX3pkdEQ4UFVnd1JwaDB2eXJhWlBUUkZ3X2trMmRh?oc=5",
    "published": "2026-11-05T08:40:07Z",
    "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1893541e34fd928a",
+   "company": "Herantis Pharma",
+   "title": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design - The Manila Times",
+   "summary": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUFUNlBXaUo3MFU1SVJzSWlnR29SSVdFVGFnT3VOOUQwVnBQcG16S0RhWDFqS3Q0U1lybUc2b0UwbVc5TGQ5dW1EZnFvWExrcXplTFl2NXAzcGJuUmk1ZlhZbFZPbTc1MktXS3M3cXU5cUdHSDc1Ni1RMU8yRGFhcmZsTkpwd1pzb2xvcVV5ZHFyMXd3NXpLZ0hBdEFWclI0dkNrWHl5TWZOZl91ZThuV25VLWZrcFBOOFlaNEd1ZDRoZk44d3B0cXdtaGFYbUlPY2pJRkRkeUpyUlRYVWY3TmNJb0xLVDZJekg5UExnNnh5N1FF0gH6AUFVX3lxTE5OMHN2aVJjaXZRWFl4RVZHZDMtY1RNVm9ET0h2c2puc1puUE15cnRsQkpMRWpCRzliWEp2SmxDOVFFbmdvQ0otRjZOUFV1b0VtRHhLNld4SUxPOHdTMTJLVmE2YUtNRThSOFNYM2M1UElUaFFTQ0hicGVOdlNlSG9OUkNpRHMxdFNwWDRrUDNwUWdiYkJiTVh2SV90S2ZiQmlaV1p3QmRjbHUyOHVfMUdUcGxBVnZLVlM3blM1UWlGV1BLalVQcTRvUVRVb212ejF5QU5MRUVFcWVWaldMSWlOXy1GS21iNHdYTmhraG9CNncwRHBGTWN2d1E?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "The Manila Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -41958,6 +42035,17 @@
    "first_seen": null
   },
   {
+   "id": "8e2c3cd524b8b1ed",
+   "company": "Insightec",
+   "title": "Insightec Spins Out Lotus Neuro to Advance Drug Delivery Across the Blood-Brain Barrier - Applied Radiology",
+   "summary": "Insightec Spins Out Lotus Neuro to Advance Drug Delivery Across the Blood-Brain Barrier Applied Radiology",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQlFDZXRCRWNFeG1hcTJKZXpRNlhpLU5aUUUxcFNDM004cGF0VGRteGFtV3VFaU9LN21JQVoyUi1jNWgtaE8xV0dVWFhYU3I0UmRmMGJ4WnhBWU56ZFFMYklEU3o0c3hYMjhYQnF4cUoxbUxWX2c1eEFvb01DVC1GNDhqUDY0MnRERExoYXhvVFEzeFg2WjRNNVFveGFRVEJIdEVIVV9WSjNoNDF2R3p4b05pSG1zV0NJbkZuNnRyM2xfLVE?oc=5",
+   "published": "2025-12-17T08:00:00Z",
+   "outlet": "Applied Radiology",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8bad09bafde7a450",
    "company": "Annovis Bio",
    "title": "Annovis to Host Corporate Update Webinar on January 28, 2026 - Annovis Bio",
@@ -42274,6 +42362,17 @@
    "published": "2025-12-09T08:00:00Z",
    "outlet": "PR Newswire",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fbec3175d9bfe8ac",
+   "company": "Annovis Bio",
+   "title": "Alzheimer's poster - CTAD 2025 - Annovis Bio",
+   "summary": "Alzheimer's poster - CTAD 2025 Annovis Bio",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uMXBmVnNmbEcybnhidUEwRHN0clRnR2IwejhHMWdKaVUzdUlIR0tNYzYzenRvOVdfeF9IUUMtT0hZV21YMFdYR29tU09BMGJyY2d0RHY4UkNScUxtT2RTYXM4MXpzWWhKbUNIT0lULXZ1R3dFU0tUUVpR?oc=5",
+   "published": "2025-12-09T00:45:44Z",
+   "outlet": "Annovis Bio",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -42835,6 +42934,17 @@
    "published": "2025-11-24T08:00:00Z",
    "outlet": "medRxiv",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7067f83f4c982d2d",
+   "company": "Annovis Bio",
+   "title": "Annovis Announces Two Presentations at the CTAD 2025 Conference - Annovis Bio",
+   "summary": "Annovis Announces Two Presentations at the CTAD 2025 Conference Annovis Bio",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORk9Rd0VON0RWcjBzTmQzQ0I1eGp0b0h4TkRFNnhienhyODNfT1dOVDBvQUtNNXBUSmdrSGI3QmxvZjJ0UXlSTjNCV0RMTGw1MzU3SjUtMV9qdVZBZWpKaTBqMDBBaWpfOW9oeDlwcGNQaUVpd2hZUkpiSUdHRHRQVjFLdnl3Mm9hWnhkSDhVc2JOa2phNExQd3Bxb2VfUWpxbDMtaF9uYw?oc=5",
+   "published": "2025-11-24T08:00:00Z",
+   "outlet": "Annovis Bio",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   }
  ]
