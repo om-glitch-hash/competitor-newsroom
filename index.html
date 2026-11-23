@@ -140,7 +140,7 @@ td .warn{color:var(--warn);font-weight:600}
 
   <!-- TRIALS -->
   <section id="tab-trials" class="hidden">
-    <p class="note">Trials on ClinicalTrials.gov for each tracked asset, checked every hour; ClinicalTrials.gov itself publishes changes once a day (trials updated since <span id="tr-since">2024</span>). <b>NEW</b> = first posted in the last 14 days. <b>CHANGED</b> = status or primary completion date changed in the last 14 days. New registrations and changes also appear in the News feed. Search terms per company are in <code>companies.yaml</code> under <code>trials:</code>.</p>
+    <p class="note">Trials on ClinicalTrials.gov for each tracked asset, checked every hour; ClinicalTrials.gov itself publishes changes once a day (trials updated since <span id="tr-since">2024</span>). <b>NEW</b> = first posted in the last 14 days. <b>CHANGED</b> = status or primary completion date changed in the last 14 days. New registrations and changes also appear in the News feed.</p>
     <div class="filters">
       <select id="tr-program" aria-label="Program"><option value="">All programs</option><option>Polyamine</option><option>Yoda</option><option>Valine</option></select>
       <select id="tr-company" aria-label="Company"><option value="">All companies</option></select>
@@ -154,7 +154,7 @@ td .warn{color:var(--warn);font-weight:600}
       <button class="btn" id="tr-export">Export CSV</button>
     </div>
     <p class="count" id="tr-count"></p>
-    <table id="tr-table"><thead><tr><th>Company · matched on</th><th>Trial</th><th>Phase</th><th>Status</th><th>Sponsor</th><th>Primary completion</th><th>Updated</th></tr></thead><tbody></tbody></table>
+    <table id="tr-table"><thead><tr><th>Company · matched on</th><th>Trial</th><th>Phase</th><th>Status</th><th>What changed</th><th>Sponsor</th><th>Primary completion</th><th>Updated</th></tr></thead><tbody></tbody></table>
   </section>
 
   <!-- COMPANIES -->
@@ -383,22 +383,42 @@ td .warn{color:var(--warn);font-weight:600}
       return true;
     }).sort((a,b) => (b.last_update||'').localeCompare(a.last_update||''));
   }
+  const shortDate = d => d ? new Date(d.length===10 ? d+'T12:00:00Z' : d).toLocaleDateString(undefined,{day:'numeric',month:'short',year:'numeric'}) : '';
+  function fmtChange(c){
+    const v = x => c.field==='Status' ? prettyStatus(x) : x;
+    return `${c.field}: ${v(c.from)} → ${v(c.to)}`;
+  }
+  // "What changed": the latest tracked change (badged if within 14 days), or the new registration
+  function whatChanged(t, isNew, recentChanges){
+    const all = t.changes || [];
+    const parts = [];
+    if (recentChanges.length) parts.push('<span class="badge-new" style="background:var(--warn)">CHANGED</span>');
+    if (all.length){
+      const latest = all.slice().sort((a,b)=>b.date.localeCompare(a.date));
+      const sameDay = latest.filter(c => c.date.slice(0,10)===latest[0].date.slice(0,10));
+      parts.push(sameDay.map(c => esc(fmtChange(c))).join('<br>'));
+      parts.push(`<span style="color:var(--ink-3);font-size:12px">${esc(shortDate(latest[0].date))}${all.length>sameDay.length?` · ${all.length-sameDay.length} earlier change${all.length-sameDay.length===1?'':'s'}`:''}</span>`);
+      return parts.join('<br>');
+    }
+    if (isNew) return `New registration<br><span style="color:var(--ink-3);font-size:12px">first posted ${esc(shortDate(t.first_posted))}</span>`;
+    return '<span style="color:var(--ink-3)">–</span>';
+  }
   function renderTrials(){
     const rows = trialRows();
     $('#tr-count').textContent = `${rows.length} trial${rows.length===1?'':'s'}`;
     $('#tr-table tbody').innerHTML = rows.slice(0, 800).map(t => {
       const isNew = daysAgo(t.first_posted) <= 14;
       const recentChanges = (t.changes||[]).filter(c => daysAgo(c.date) <= 14);
-      const chTip = recentChanges.map(c => `${c.field}: ${c.field==='Status'?prettyStatus(c.from):c.from} → ${c.field==='Status'?prettyStatus(c.to):c.to}`).join('; ');
       return `<tr>
         <td><b>${esc(t.companies.join(', '))}</b><br><span style="color:var(--ink-3)">${esc(t.matched.join(', '))}</span></td>
         <td>${isNew?'<span class="badge-new">NEW</span>':''}<a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.nct)}</a> ${esc(t.title)}<br><span style="color:var(--ink-3)">${esc(t.conditions.slice(0,3).join(', '))}${t.enrollment?` · n=${t.enrollment}`:''}</span></td>
         <td style="white-space:nowrap">${esc(t.phase||'–')}</td>
-        <td>${esc(prettyStatus(t.status))}${recentChanges.length?`<br><span class="badge-new" style="background:var(--warn)" title="${esc(chTip)}">CHANGED</span><br><span style="color:var(--ink-3);font-size:12px">${esc(chTip)}</span>`:''}</td>
+        <td>${esc(prettyStatus(t.status))}</td>
+        <td>${whatChanged(t, isNew, recentChanges)}</td>
         <td>${esc(t.sponsor)}</td>
         <td style="white-space:nowrap">${esc(t.primary_completion||'–')}</td>
         <td style="white-space:nowrap">${esc(t.last_update||'–')}</td></tr>`;
-    }).join('') || '<tr><td colspan="7" style="text-align:center;color:var(--ink-3)">No trials match these filters.</td></tr>';
+    }).join('') || '<tr><td colspan="8" style="text-align:center;color:var(--ink-3)">No trials match these filters.</td></tr>';
   }
   function populateTrialFilters(){
     const cos = [...new Set(Object.values(TRIALS.trials||{}).flatMap(t => t.companies))].sort();
@@ -409,8 +429,10 @@ td .warn{color:var(--warn);font-weight:600}
   $('#tr-q').addEventListener('input', renderTrials);
   $('#tr-export').onclick = () => {
     const q = v => `"${String(v??'').replace(/"/g,'""')}"`;
-    const cols = ['nct','title','companies','matched','phase','status','sponsor','conditions','enrollment','start','primary_completion','first_posted','last_update','url'];
-    const csv = [cols.join(',')].concat(trialRows().map(t => cols.map(c => q(Array.isArray(t[c]) ? t[c].join('; ') : t[c])).join(','))).join('\n');
+    const cols = ['nct','title','companies','matched','phase','status','what_changed','sponsor','conditions','enrollment','start','primary_completion','first_posted','last_update','url'];
+    const val = (t, c) => c==='what_changed' ? (t.changes||[]).map(ch => `${shortDate(ch.date)}: ${fmtChange(ch)}`).join('; ')
+                         : Array.isArray(t[c]) ? t[c].join('; ') : t[c];
+    const csv = [cols.join(',')].concat(trialRows().map(t => cols.map(c => q(val(t, c))).join(','))).join('\n');
     const a = document.createElement('a');
     a.href = URL.createObjectURL(new Blob(['\ufeff'+csv], {type:'text/csv'}));
     a.download = `competitor-trials-${new Date().toISOString().slice(0,10)}.csv`; a.click();
