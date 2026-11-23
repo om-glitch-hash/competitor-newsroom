@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:52:08Z",
+ "updated": "2026-11-23T02:52:22Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2616,7 +2616,7 @@
    "title": "Communication Specialist - Novartis",
    "summary": "Communication Specialist Novartis",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQko2TlZzVk95SXViS1RFS3ZiRThaWjAtbmxPVDQzTjBmS2ZfdldZOHBWc0RNYmJkMGppcGN0akFaSTVSRlRzbkYtQ2ZmSjIzOV90d3R2VWpDQTdXNDY1bnhiTE51LTJwSmx4TnQyckdqcmRvbEl0NUJ3eTQzOGZiVlg5MDVfLWtDQzhhVDhpcE4yam1zRUI0TWctM1A?oc=5",
-   "published": "2026-11-20T03:15:46Z",
+   "published": "2026-11-20T03:15:45Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-20T15:26:15Z"
@@ -3786,17 +3786,6 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
-   "id": "7480e82e2c8dde4e",
-   "company": "Novartis",
-   "title": "Account Manager, Neuroscience - Novartis",
-   "summary": "Account Manager, Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDI5QXVWdDFqb3I0R0FWT05lMVFSY3FpTXdJUjBwU3c2bjhkZDA4bjZ0NmNIdmVMRGRPWHF5aE5BQlQxOEpjRGJGRGtZUTFzbjMtOWphVzV6WFRRUHlhNmxscGJhZW9WNkpfRTBBNnhvVnZ0VU5Bb1RvX1RtQmI0RG5tNUxjVTFvUFpISjN6NHN3VlVDZ01EM2wyMG81TnEyRHVxWEwwUVZ2UQ?oc=5",
-   "published": "2026-11-18T21:45:24Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
   },
   {
    "id": "aa234c9c0e2a60bf",
@@ -7836,6 +7825,17 @@
    "first_seen": null
   },
   {
+   "id": "7480e82e2c8dde4e",
+   "company": "Novartis",
+   "title": "Account Manager, Neuroscience - Novartis",
+   "summary": "Account Manager, Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDljdUQwbFBCZlotb0FlcUxhUHlxWTFoUDZ0T1pIMXBKU3pJVDNxMkcxRFhtbm54OHlfTmkzRHl0akRYcnlXdWVfamxqekJ3dXZWdEMxN1RKa3JmQ3BCUUZ0R0Y4ZjdGRUtZVHZLNUF4SHJ1RGhIcERQNTJDdTVYNnRrR1NYRHVpVDJsT2k4LVpYWWZNdEJldjBYeFZJemQ5LVY5dTFVaHFwZw?oc=5",
+   "published": "2026-11-11T22:29:45Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "e9d51e1631e74f28",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics at stifel 2026 healthcare conference: cash-rich push - Investing.com",
@@ -11367,6 +11367,17 @@
    "first_seen": null
   },
   {
+   "id": "e2e060e73858b0f3",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
+   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkVBd1kyN2w1aVY3LXp4VTBhZ1l6QTNPRnlzQl9JbERCeWw3Z1pHYnY3WGVDYUphWXJJT1RJRHljcXRKOFVqSUNiTHpILW1VQ2hTa2R6dWFhQVpKYVlUNE9sMmgtQmFaeHFKZHpzZ25JZlNsSkk2NTRzRFpoZ0NESE9TV3F2SGRMQUQtZ1U2QmZLeF8teFhBUTdFbkRrZC1aQmg3NXdpM2haeFY2WXlV?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dd359d86190e407a",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals Legacy SEC Filings - Supernus Pharmaceuticals",
@@ -11880,6 +11891,17 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGZHalppaFlIMWViYlN6bTZCaUlGQjA1a3dYNEl1eTRvNWduUkZta3g2c2pRSnpDTlRSM2ozX1BGSGRwcXFrc05fNENfTlR4M3FuVUUtUzUtdTJYcFE5LWlSZlg3enJnWFVic2szY01rbUQzRnM3VkVuNWt5UFJYdmh2SWdrdHd5UVBCTGFXZVVpNy1EZThtSTFvNlk?oc=5",
    "published": "2026-11-02T08:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fa35715559e9a32e",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update - GlobeNewswire",
+   "summary": "Axsome Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQM1N2LVo1emVtN3VsNXpLU2d6YzNBNThXU0lQYTdYUl9wOFRPbnBmdHI3VFJYUGdKcmN4SklyOE5vT2Z6SGZjSG90c0dPSDNsOW5HN3BFVGJmUnpueVRUUExvOXRqa3lnTjB6bXU5VUtNX0o4YXV0bVVfQ1VIZzJwQ1U0eWlNMEROR0NiWV8wSG9aMzNvNjlLUVpsNGJQcGFld3RZcEN2eHNWZWUyRHZWOFdjVXlhb0tlcXpQSGJJT1hTRkg1TUloc3RrRmNSSWFrcGhpMFNoUnZ2RXAtSGh5VExqU1BmS1Zzb1VYMkNTWUF0azZvNHBXY19rc1dTQQ?oc=5",
+   "published": "2026-11-02T08:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14598,6 +14620,17 @@
    "published": "2026-10-17T08:28:09Z",
    "outlet": "UCB",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "55099c20d62cbf0b",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley (ATAI) Stock May Be Fully Priced Given Its Balance Sheet - Yahoo Finance",
+   "summary": "AtaiBeckley (ATAI) Stock May Be Fully Priced Given Its Balance Sheet Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmRjY0F6dTZ4ZklGS3JQT2xkU21IWTE4Njk5Tm1IbHl4dHNoNGtFOFR4YzdMTC1Qd3hjSkRQWHF3TkZWSmNKVWF6ai1JcWdiR3hLZ0JucGtaWkZBX01BSE1GM1hCTnRkN1V4bU5CS2VseGpnbUlkLXU3VXdENnRpb2Fnem1KckxoYUE1NnhzaV81bERKTjVHLVQ5QXJUQQ?oc=5",
+   "published": "2026-10-17T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -20835,17 +20868,6 @@
    "published": "2026-09-02T11:00:00Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "e2e060e73858b0f3",
-   "company": "Axsome Therapeutics",
-   "title": "Axsome Therapeutics to Participate in Upcoming Investor Conferences - Yahoo Finance",
-   "summary": "Axsome Therapeutics to Participate in Upcoming Investor Conferences Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHJHV3l3OXA1bS1vWl92V1ZDMG85MmcxMWQ4V2xfRnRrVHR0SkI3UjhHd1NKdTJFTGFzLV9MQTlJbWhpTXR3LVFRdzF4Nk1ZYzAwQnFDZGxZaDdGY3FKc0pBb2ROczl3UHRBNlJCaEpubjhBaDFpYzJNaWtpZS1lNlg2OEs5U2s0eGh2anRhLUhfNkdDeFVGWnF2VzJGazRMUnJ3VlJZNzN5RFZmZlRR?oc=5",
-   "published": "2026-09-02T07:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -34665,6 +34687,17 @@
    "first_seen": null
   },
   {
+   "id": "4b1726efe06126ff",
+   "company": "Axsome Therapeutics",
+   "title": "Is Axsome Therapeutics (AXSM) Still Attractively Priced After Its 72% One-Year Surge - Yahoo Finance",
+   "summary": "Is Axsome Therapeutics (AXSM) Still Attractively Priced After Its 72% One-Year Surge Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHgtMHluM0NFTHgtUV9seF9pQ3hKaEtnRDdjS0wxNzR4SDU2Wlg2aVF1bGx2Y0ZWWS1Ma1Y4cHphQjFiMU5qdU1SdElTcGdpSF83ako5cFFRQV9KaWF4aHFTZWk2U090ZmlCR1Z2ZHQtd3FHUllXaWlxWnFpMWYyNmN4OWs0eW1BeW5mOE9pOG9neVlEenJtWEZXQTVpV2JaWFlTekRVQWZ3MGJL?oc=5",
+   "published": "2026-04-12T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3407003707688914",
    "company": "Stada",
    "title": "World Parkinson's Day 2026 - STADA",
@@ -37389,6 +37422,17 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzFTNnc5TzlPUktnbWV4US1lSXZCVjkyX1BKck96cUJDdkFrWm1iV2xIWmNrT2dtWVBMQmY0SDZtWThtYVVHNWhGcWJlTWFJMXpsalF4SUUtbzFSV1hoRDd2aDVLcEJhc0R2c3RKNHExYWZ1WEVuNVgwTXlSLTIzVG81R0lqSzAwWEpqc3pkT1JtNE9JbzJZcnV3N21FNDBSWGxiLWF2Rkp6d2dQ?oc=5",
    "published": "2026-02-27T08:00:00Z",
    "outlet": "Neurology Advisor",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8279587e4afec6d1",
+   "company": "NeuroDerm",
+   "title": "After CHMP nod, Moderna CEO applauds EU's 'rigorous scientific review' - Fierce Pharma",
+   "summary": "After CHMP nod, Moderna CEO applauds EU's 'rigorous scientific review' Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcC1rZEV2TUJSdGMxSWt1N3QxS1pWRVgydjMxb3hLMDhxRDF2ZkFfVTNKaU41c3UtUVpteUNGYlNOXzlVODF6ODZjTlFQc3JCSG1mMG1hQUw1dG9QNWIzZWg1NFhNYUFfVElNcm9XTVhDelhFWmtMVWl3Ymd6SWxxTG5yWXp2eTFybG9tOU1fM3VDM29NbE5vSHA4N1ZtVHl5dzMwaA?oc=5",
+   "published": "2026-02-27T08:00:00Z",
+   "outlet": "Fierce Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
