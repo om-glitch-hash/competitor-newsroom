@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:28:56Z",
+ "updated": "2026-11-23T18:22:44Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -5977,6 +5977,17 @@
    "first_seen": null
   },
   {
+   "id": "d023ba4aedb616fa",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics Enters Agreement for $100 Million Stock Offering - TipRanks",
+   "summary": "MapLight Therapeutics Enters Agreement for $100 Million Stock Offering TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUNUb2NZY2RLanRWSUYtZEE3QWZmZTR4VnJWWTBKcHRIai1vRmkyWHFIMDFGVVlLZDVpSFZuWWd5UjJzaGtIZ1FPRjhlRDVIZ0ZKR1Nrb1pmMEVIMXlqZ1RhVVZ2dTlqMnQ4d1M4Z1cwVGNoU3Q4eUdDZVptMjdObXEwQ1Z2RVJmY2NwYS1sODlzMF9VdXZTZ0Zac1lwRmwyZlZycFJMdUt5VldlVWlYYTZfaU8wTjIycDlqQy1B?oc=5",
+   "published": "2026-11-16T14:49:31Z",
+   "outlet": "TipRanks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "04cefdf26cbdd26b",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals: Post-merger priorities center on CNS growth products, pipeline investment and selective business development - TradingView",
@@ -9882,6 +9893,17 @@
    "first_seen": null
   },
   {
+   "id": "d0effc479babeb6b",
+   "company": "Usona Institute",
+   "title": "Race for FDA-approved psychedelics heats up; Compass lawsuit will go to trial; How does psilocybin affect mouse behavior? - The Microdose",
+   "summary": "Race for FDA-approved psychedelics heats up; Compass lawsuit will go to trial; How does psilocybin affect mouse behavior? The Microdose",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yS0ZWX3ROR2VtVHAwNldlNXBWbGhZNVNhNVhHbFYxRV9RTHZlYUo0RkR4c0sxXzNtMGYtR0dGdUl6UFNfMm5hUWU3YWxCZEJDblJDZ0VfdXlLSndkbWx1ZnJLdjJMSndGT29taVRhR3AyeTljd3NVREp3?oc=5",
+   "published": "2026-11-06T16:30:51Z",
+   "outlet": "The Microdose",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "0967ecb2ed29833f",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Inc (VM4.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
@@ -9889,6 +9911,17 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16THVqS2lCb01Xb2U0MGYxR19CMDhYb1k1RDdBZjR6YjNlRW1Qc3NZYnFiWmtQSDNILW5EN05jTFN5aHlqOGx2RE5lTUFUQ0NZQlNQdEE1blZJU2RqVzZMZEdqYng?oc=5",
    "published": "2026-11-06T15:06:11Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "dc8c469fe7b75dc3",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences reports Q3 2026 results; ... - Pluang",
+   "summary": "Minerva Neurosciences reports Q3 2026 results; ... Pluang",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenFZSjNCMWZqeWdyWDJPS0tXOFp4d0E5VFc0d3NOQ2ZBSHd4em5OVzNYdkt1MHFYbnNvYVVZQmxZV29hV21kdU1ralZqY1N3VWZFcVpWVDNaRmhyZTFHTlJyZUYxOHFlOVcwdnVtV242X2x0SjJoZXlGbEhLeG02U1ZDc3RmZTFTRUczeHJGc3F2aGtQRlJWZw?oc=5",
+   "published": "2026-11-06T14:56:33Z",
+   "outlet": "Pluang",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10014,17 +10047,6 @@
    "first_seen": null
   },
   {
-   "id": "d0effc479babeb6b",
-   "company": "Usona Institute",
-   "title": "Race for FDA-approved psychedelics heats up; Compass lawsuit will go to trial; How does psilocybin affect mouse behavior? - The Microdose",
-   "summary": "Race for FDA-approved psychedelics heats up; Compass lawsuit will go to trial; How does psilocybin affect mouse behavior? The Microdose",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yS0ZWX3ROR2VtVHAwNldlNXBWbGhZNVNhNVhHbFYxRV9RTHZlYUo0RkR4c0sxXzNtMGYtR0dGdUl6UFNfMm5hUWU3YWxCZEJDblJDZ0VfdXlLSndkbWx1ZnJLdjJMSndGT29taVRhR3AyeTljd3NVREp3?oc=5",
-   "published": "2026-11-06T08:00:00Z",
-   "outlet": "The Microdose",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "7428e654e6c8e472",
    "company": "Herantis Pharma",
    "title": "Herantis: Trial preparations progressing and production scaled up - Inderes",
@@ -10120,17 +10142,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnFYUTNnNDAyU2ZOMlZSY2J5THVLMXJybEljUFQwaFlPdS1TYkZ1THZKRHRqUUthalc4VUVpcWF5cXNvdmR4QXppaHkzZ2ctVDNjMVExTWhsa2lpTU44ekVnYUlONUNrSFc3bThZOENfdjJKbi10c0hZYmZfM3ZVWDA0UC1nY1R3amFpN3kxdWlDakhSakptUER3X2xLNzVpT0s0dDFqdXlLeEZQYXYySFBfblQ2RWNQVVZpUG9WQ1ZzbzA?oc=5",
    "published": "2026-11-06T08:00:00Z",
    "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "dc8c469fe7b75dc3",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences reports Q3 2026 results; ... - Pluang",
-   "summary": "Minerva Neurosciences reports Q3 2026 results; ... Pluang",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenFZSjNCMWZqeWdyWDJPS0tXOFp4d0E5VFc0d3NOQ2ZBSHd4em5OVzNYdkt1MHFYbnNvYVVZQmxZV29hV21kdU1ralZqY1N3VWZFcVpWVDNaRmhyZTFHTlJyZUYxOHFlOVcwdnVtV242X2x0SjJoZXlGbEhLeG02U1ZDc3RmZTFTRUczeHJGc3F2aGtQRlJWZw?oc=5",
-   "published": "2026-11-06T08:00:00Z",
-   "outlet": "Pluang",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14139,6 +14150,17 @@
    "first_seen": null
   },
   {
+   "id": "3a32de58e91b698d",
+   "company": "Stada",
+   "title": "CapVest completes acquistion of Stada - PEI Private Equity",
+   "summary": "CapVest completes acquistion of Stada PEI Private Equity",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbElSNmNzTlhaZm9hWjZmcU5kWVhGT2xaaXYzWTlGOTNmMEZjQmlZMGFPbENhcTlMbDEwZFkzOW5uUDA2dzEzX1VjakdNRVloTGlrRnVFNHAtMDRsOGNTSjVXa0xXRTFGLWFoZmF2R0FaQS1lOGtxcVRHUEhlOWNoVzVISk9UZWVh?oc=5",
+   "published": "2026-10-23T18:03:58Z",
+   "outlet": "PEI Private Equity",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "0ec405086b96fd99",
    "company": "Minerva Neurosciences",
    "title": "Where is Minerva Neurosciences’ corporate headquarters? - Minerva Neurosciences",
@@ -14927,6 +14949,17 @@
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWHViNFJwR3JVMUtvdFhqTVNUWkRWaXBNNVpUdGsxald3YXBpNDJBYXkyamZRTVYza0VOb1NXUlJuajNqUElxeTRlSS00RmNOQzdDc0VhWVVXZW9kb1NOZzhJVkdPRkhBMDZsVDVyTnNLLTVHbFlSVDlITWFlSlVQSTFVOVUybW1uM3Y5OVF2QnNleTlpWDlzR1pFcVd5X3E2dENBczk1YTJzVkxVQWJHbmJzNncyM212Q0ZOaEJXOEU0dS1Ocm5lU1dvN2RlM3dXMmJxQ1ZOREZpRi1PaE00Ylc4ODNRdzBkU2Q5X1JpalUzb1NzMHFPZkFvVQ?oc=5",
    "published": "2026-10-20T07:00:00Z",
    "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c5b60bfe30b708f5",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport pares early gains as Citi reviews mid-stage trial win for lead asset - Seeking Alpha",
+   "summary": "Rapport pares early gains as Citi reviews mid-stage trial win for lead asset Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzhwWGNyQ0h2ZkxGbmNoa3piVjFFSkdVc1ZoVHlnR3QtREE4WU5wUFd3UmRZZGloSUljU3AwcjJXc1hSNm9MU21zU2JtYnNWbXlvd09RTk1QeDdaYmRGM1RqVnFhM0pjTS1PUDZJY2VHWWZZZTc0eXV0ZGRlb3Q5eE9hVDE?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -28362,6 +28395,17 @@
    "first_seen": null
   },
   {
+   "id": "adf0da5e167aa103",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA? - Psychedelic Alpha",
+   "summary": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA? Psychedelic Alpha",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSGM4X0ZxWlRWTjRvWTNpWk9sRzZad3ZReEJfMHQyWWhRcndja2hrSEl2ZEtOYUZjcjgySnJPdlVfNVdMclk2NmxtU1NtS1BlaUs5UEVrWmRoUVczNE9oOGtPLTVlR2Z3N2t4X2VFWEdjaC1ETGs4Z25jQkQxdXhMcjluZHFIVHZMRXRTSmJuQUFETmhoTUZURmFmOTROSjh4Q3FKTkh3Zng4QTZoY181M252LVRUX21qVmwyUU5nVWNvc1VGdHoxcHBtTXZ2RHJ5UWNXUWlyUW5IN1czMTZkTTJ3?oc=5",
+   "published": "2026-07-08T07:00:00Z",
+   "outlet": "Psychedelic Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "ecdaa74463bc086b",
    "company": "NeuroOne Medical Technologies",
    "title": "Advancing Neuroscience - NeuroOne",
@@ -28488,6 +28532,17 @@
    "title": "Alterity Therapeutics Receives FDA End-of-Phase 2 Meeting Minutes Confirming Registrational Pathway for ATH434 in Multiple System Atrophy - Yahoo Finance",
    "summary": "Alterity Therapeutics Receives FDA End-of-Phase 2 Meeting Minutes Confirming Registrational Pathway for ATH434 in Multiple System Atrophy Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlFSQU41S2FYS1RLN2tNSGNBbXVlb1VtdTljZ190cmI4YkNUbHdWdjZHSUdXQzloMUdVaXhqNDk0SjFVSkhNNWotLUNTVFJHeGdPLWRhOW1ldURpbk5rNEphVVdmaW4xdEhOTEs1X1RuUWtjcGlGczc4QjIxVlN1czY1amxGeGRIMUZsZ0YyWk9EYmt2MnR5cDB1b3h5cGZW?oc=5",
+   "published": "2026-07-07T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c97fbeb5830f8613",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley (ATAI) Stock Could Be Overvalued Following Phase 2b Dosing Update - Yahoo Finance",
+   "summary": "AtaiBeckley (ATAI) Stock Could Be Overvalued Following Phase 2b Dosing Update Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVlHOWgxVVlaLXNER2lzRURPN1dTa0ticW1oWTd1OWdoVVFGbjlCRDJaemNFZmZjM1dsSkxERmRGSHl3QVBkeGMzelNOZVVjYnM3Vk5xYkxBeWFTZVpuNzhOcjFoZVNjOC16NTFpSUUwZ0xRdVJtemdpT2U4R1ItbHhEMWFmZTNmaG10anZSeXVWQUxQRDhoTk9zVDlUMkxoX0xqVWRfOA?oc=5",
    "published": "2026-07-07T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -39692,6 +39747,17 @@
    "first_seen": null
   },
   {
+   "id": "7c5ceebd7b8145c4",
+   "company": "Idorsia",
+   "title": "Global expansion of Idorsia’s QUVIVIQ continues with EMS partnership for Latin America - Yahoo Finance UK",
+   "summary": "Global expansion of Idorsia’s QUVIVIQ continues with EMS partnership for Latin America Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdEZ3Wkd3UDllamF0QTBabEdZYnoxX0hJRmN1Yk90UlBjTjZNb3NiNnV1em5vY2daNlR1SU5CRkRueWRRcXA5WW8wTXVfTVVUcmdhM2ZKczUzdFhoYzR6UHN4THBEeU5qckw0Z3hBc3BiUE03VWw2clIyV0ZCV2ZkWEhCZnlqM1hnMFJsNjQ1NVRZb2tkNHc?oc=5",
+   "published": "2026-01-28T08:00:00Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bb1949658088f679",
    "company": "Teva",
    "title": "How Schizophrenia Guided My Career into Clinical Social Work - Teva Pharmaceuticals",
@@ -39722,17 +39788,6 @@
    "published": "2026-01-27T08:00:00Z",
    "outlet": "GlobeNewswire",
    "method": "news search (no newsroom found)",
-   "first_seen": null
-  },
-  {
-   "id": "7c5ceebd7b8145c4",
-   "company": "Idorsia",
-   "title": "Global expansion of Idorsia’s QUVIVIQ continues with EMS partnership for Latin America - Yahoo Finance UK",
-   "summary": "Global expansion of Idorsia’s QUVIVIQ continues with EMS partnership for Latin America Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdEZ3Wkd3UDllamF0QTBabEdZYnoxX0hJRmN1Yk90UlBjTjZNb3NiNnV1em5vY2daNlR1SU5CRkRueWRRcXA5WW8wTXVfTVVUcmdhM2ZKczUzdFhoYzR6UHN4THBEeU5qckw0Z3hBc3BiUE03VWw2clIyV0ZCV2ZkWEhCZnlqM1hnMFJsNjQ1NVRZb2tkNHc?oc=5",
-   "published": "2026-01-27T08:00:00Z",
-   "outlet": "Yahoo Finance UK",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -41448,6 +41503,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjJBT2tLTnFxTEctUE5ZV19KaUhwa29vb3pOcllRbU1RMlYwVWpWYWJIVjB0elRjTUpHcHQzUjhscGxuRzBKRElIN09IRTlBOWlQMjB1STdkZzhQMldoS2ZuVWxHeWZobkpmU3hteXVLVVJEb09oTjNsQUlkRU02N05NaG1kQ2MwRU1uZ2pyNW81TVdObW43UUNPX0NSMHpvODhpSkd6WXlYeHFnUElzeG1JMzVKZGVWVXVv?oc=5",
    "published": "2026-01-02T08:00:00Z",
    "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4d8904f9a44728a8",
+   "company": "Corcept Therapeutics",
+   "title": "FDA rejects Corcept’s cortisol-targeting drug for Cushing’s syndrome - Endpoints News",
+   "summary": "FDA rejects Corcept’s cortisol-targeting drug for Cushing’s syndrome Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVNSVF85LURySFJORFdTdHFZTlQzU0k1TjBDQm5JeHQ0UkJZUlozSDctXzFsaUpqUzZ0T2NrNDNyZUVEMnNZalZlRjJKRlU3MG55aXZsbmVBck1MUktJbE9WTVBESDhXUUFuRHg3NEdwenVPOG5UR3NHYUY5RFBaTm1uVExYZW5ueXIyM1ROUzVodmd1?oc=5",
+   "published": "2026-01-02T08:00:00Z",
+   "outlet": "Endpoints News",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
