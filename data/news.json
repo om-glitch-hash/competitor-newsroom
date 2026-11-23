@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:30:45Z",
+ "updated": "2026-11-23T20:25:09Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1773,6 +1773,17 @@
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T18:59:04Z"
+  },
+  {
+   "id": "85d8ce9a41396711",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Weekly Recap: Q3 revenue rises and HOPE treats first robotic TMS patients - TradingView",
+   "summary": "Weekly Recap: Q3 revenue rises and HOPE treats first robotic TMS patients TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPamRxc09nX2p1anVCekF5aGIwZHd1WmJIc01WNFpPSUFVTTVuMHQzNU1KSmdPbWJzM3ZERGxVbXhLTDdKNWV2dVgyZkFUTlh4LU82NlJxWGJlekM2M2pPTk1TX3lpWGhULWFoWHhZeVJqR01Nd1NTMG0yb1ptRHc0NkJHcVUtSk1vVDVVVk41WXlSYUxoNXp3Q1pDLWh0N1JXdW9NR0VhdTBFZzJMX0x1eE50bDBXbUJfRHMtdVhTVGlrWUtxWEpuSEJycldid00?oc=5",
+   "published": "2026-11-23T11:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T20:25:09Z"
   },
   {
    "id": "158099220884cfa9",
@@ -3601,6 +3612,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "f8610e278d56f6f0",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Guggenheim raises Helus Pharma stock price target on trial data By Investing.com - Investing.com UK",
+   "summary": "Guggenheim raises Helus Pharma stock price target on trial data By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUw1a0NKaGtNN0Fybk9fYXNOZHlzTTJFZEFXekF1dzAxX0Y4UUFDNHVpWnhVQVF6V0JTem1ZTlFzdVJBUVNYRWZaUVVtZ2h3ZzBKUk45QnhIUFVad1lmMTRpU0IyQVgtOVBreTZWR2UwUlBFcTRpNTUyTlhCYnVBd2d5OW1sdU5BX0xiOFlNTGdqMDZBYTJLX0xrRndZWWtSRUFsdVgzc1FpcGN3TXlKU050enh6Q3NHWURSRE5ORHdxZw?oc=5",
+   "published": "2026-11-19T12:14:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d910f78684c06ac8",
    "company": "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)",
    "title": "Tanabe Pharma Announces Wind-Down of Operations at Its Wholly Owned Subsidiary NeuroDerm Ltd.",
@@ -4155,8 +4177,8 @@
    "company": "Novartis",
    "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
    "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
-   "published": "2026-11-18T15:14:53Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTE4M3BhNENxOU1wdUxmcC1QUjIwbWg0N3dnbmZEYW8tdGtHVXRYNXlvcGkwLS1yQ3FVOV9QS0FuNTZGb3VzTXVjbXF3aGxkT3o1LWdwY28yYTNoam9GeC1aMVJ5TjV3bll5YkxXRExnMXp4MHo5S0JGY1lub29BcGx1MmdKdjdRbFNjM0ZiZ1pOa3NzU1VkWGROaWFxQ05odG9NOXhBNUJEMFVOSTFCZE5DdVlqdzB1TXhSaHQ4dE9aRmRkMjUwVjJ6dnpCdw?oc=5",
+   "published": "2026-11-18T15:15:27Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
@@ -5255,7 +5277,7 @@
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Third Quarter 2026 Financial Results and Provides Corporate Update - GlobeNewswire",
    "summary": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Third Quarter 2026 Financial Results and Provides Corporate Update GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWjNfZFAxdmRNMXFGR25wajRrZzQ2a1dhXzBhLVJaWXZZbXA2d1FZU2xvN0ZaMzhoN1IwcUFVbDJ5Tmc2NlFuRXRmNlU0b2ZvcmdHWEcxc0NlaXpjMnk2LXliSHAxSlVtRV9fZFVETEhHVFJwN3BFdWJNbzJkdXhfS09zdlA3MDhWbzIteHBVbDNWTU9XVWpjdHVZX21RU0hEa1hIcHUwRElnRHpKaGZLR0dyVUFzc09Oa0R5b3BlT01WRWJrU3YwakR4Q2VmUW5LSEd6ZThYUTlFdnpITEZ0MjYxN0M4c0hGUE1FZ2RFZnJoYlUxQlh4MjZHQndEcmRicTJlNnk3S3AzZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPOUtBMFZiWllxSmdOUkhydTZFWUtwQmhLSTZ4TWstQWdrTmFaWW1YaTd0TmlGbzZvMDFzc1VGRW5iY0ZlX0M0VjlzMUt6azFoMHBPUy1wdmM4VjFVZUtNMXRwMWxWT283MTFMNjRFV2FVZnBNVGtLdDQ5bDFNaXZpWVVFNlZFTVZaVVp6dDc5RHFYcGl6WGxkMTBvMFhtMWZkNWJWQ2lUYkFNcjk5LWh2VzI3bUpxWHhwc2FIVDFESXJXOGk5MUtpcHFmdkgwMnN0SldaTGtJMmpIc3kwaGNIVWZYNFNscFlNUEs2QlFtSTVHZmNZbUotRGdHRFpVOGZtdlQ0UEphLWFwb1ZEZXc?oc=5",
    "published": "2026-11-17T12:18:51Z",
    "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
@@ -8848,6 +8870,17 @@
    "first_seen": "2026-11-23T19:02:25Z"
   },
   {
+   "id": "c832ce7bff3c867d",
+   "company": "Teva",
+   "title": "FDA Tentative Approval for OLANZAPINE AND SAMIDORPHAN issued to TEVA PHARMACEUTICALS INC - Quantisnow",
+   "summary": "FDA Tentative Approval for OLANZAPINE AND SAMIDORPHAN issued to TEVA PHARMACEUTICALS INC Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOVI0bnZzZzZYR2VxeXd4UUI1UUFoUkpRTWFzbUdtZlR2TUFhejNRc2IxN0x1OThtWkZvUnpTNmZCQzlUSkNNRWdXazEyZEh4OGlKbmtVMXQtMHl0eEhNTmlSR2pWWERpR0NxQkRGT2ZtYmJGdUgtd1VoZ2hjYTg1a09OcWtOSHlZeXg2REJpR3ZpR2NOVGlVczkwaEhUYTIwVnY2c2I4ejM4cmo3ZEJUUg?oc=5",
+   "published": "2026-11-10T11:01:10Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "cd2d87741550cb99",
    "company": "LB Pharmaceuticals",
    "title": "LB Pharmaceuticals Inc $LBRX Shares Newly Acquired by Candriam S.C.A. - MarketBeat",
@@ -8855,17 +8888,6 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVk4V09HQmdVVjFsODIyWE9pc0laWGl3UFN5RkhxTTBGTHF0ZGNCTDJ4WnR6UUN5RmxFM18yT2VRZ2hwWjB5SGtlSWE0VUxUS2tmbUlIQWxrNDZnbVBGUmhoTlRDTDg3MG1OZkd5cF9HclItcmcwZUZBOEtMcnl5MUhENGZveDFIRlVNTy1fd2g2UFlCMnVJeV9CbUlZVEFsS0VIUnBtUU9pNVp0TzVzMU80SG9ZdUtDenppM1dpV01qcjhp?oc=5",
    "published": "2026-11-10T09:08:09Z",
    "outlet": "MarketBeat",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "c832ce7bff3c867d",
-   "company": "Teva",
-   "title": "FDA Tentative Approval for OLANZAPINE AND SAMIDORPHAN issued to TEVA PHARMACEUTICALS INC - Quantisnow",
-   "summary": "FDA Tentative Approval for OLANZAPINE AND SAMIDORPHAN issued to TEVA PHARMACEUTICALS INC Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOVI0bnZzZzZYR2VxeXd4UUI1UUFoUkpRTWFzbUdtZlR2TUFhejNRc2IxN0x1OThtWkZvUnpTNmZCQzlUSkNNRWdXazEyZEh4OGlKbmtVMXQtMHl0eEhNTmlSR2pWWERpR0NxQkRGT2ZtYmJGdUgtd1VoZ2hjYTg1a09OcWtOSHlZeXg2REJpR3ZpR2NOVGlVczkwaEhUYTIwVnY2c2I4ejM4cmo3ZEJUUg?oc=5",
-   "published": "2026-11-10T08:00:00Z",
-   "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10443,17 +10465,6 @@
    "first_seen": null
   },
   {
-   "id": "1893541e34fd928a",
-   "company": "Herantis Pharma",
-   "title": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design - The Manila Times",
-   "summary": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUFUNlBXaUo3MFU1SVJzSWlnR29SSVdFVGFnT3VOOUQwVnBQcG16S0RhWDFqS3Q0U1lybUc2b0UwbVc5TGQ5dW1EZnFvWExrcXplTFl2NXAzcGJuUmk1ZlhZbFZPbTc1MktXS3M3cXU5cUdHSDc1Ni1RMU8yRGFhcmZsTkpwd1pzb2xvcVV5ZHFyMXd3NXpLZ0hBdEFWclI0dkNrWHl5TWZOZl91ZThuV25VLWZrcFBOOFlaNEd1ZDRoZk44d3B0cXdtaGFYbUlPY2pJRkRkeUpyUlRYVWY3TmNJb0xLVDZJekg5UExnNnh5N1FF0gH6AUFVX3lxTE5OMHN2aVJjaXZRWFl4RVZHZDMtY1RNVm9ET0h2c2puc1puUE15cnRsQkpMRWpCRzliWEp2SmxDOVFFbmdvQ0otRjZOUFV1b0VtRHhLNld4SUxPOHdTMTJLVmE2YUtNRThSOFNYM2M1UElUaFFTQ0hicGVOdlNlSG9OUkNpRHMxdFNwWDRrUDNwUWdiYkJiTVh2SV90S2ZiQmlaV1p3QmRjbHUyOHVfMUdUcGxBVnZLVlM3blM1UWlGV1BLalVQcTRvUVRVb212ejF5QU5MRUVFcWVWaldMSWlOXy1GS21iNHdYTmhraG9CNncwRHBGTWN2d1E?oc=5",
-   "published": "2026-11-05T12:05:42Z",
-   "outlet": "The Manila Times",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "986adaac5b77ddae",
    "company": "Insightec",
    "title": "Job opportunity: CAM Clinical Sales – Senior Manager of AGM - Insightec",
@@ -10472,6 +10483,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVFYNGRteUJDR214ZmFFNGlmalozbFdVZFRianFyc1dGZHpBd1haVXF0MXZLSTVET2dDTTNfVXV0bnl6Z2VfN2xKZ1ZiRmdtTTVjQnVEZkN2N0FlMGZMWkJfOGtnczhmQ2tpX3pkdEQ4UFVnd1JwaDB2eXJhWlBUUkZ3X2trMmRh?oc=5",
    "published": "2026-11-05T08:40:07Z",
    "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1893541e34fd928a",
+   "company": "Herantis Pharma",
+   "title": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design - The Manila Times",
+   "summary": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUFUNlBXaUo3MFU1SVJzSWlnR29SSVdFVGFnT3VOOUQwVnBQcG16S0RhWDFqS3Q0U1lybUc2b0UwbVc5TGQ5dW1EZnFvWExrcXplTFl2NXAzcGJuUmk1ZlhZbFZPbTc1MktXS3M3cXU5cUdHSDc1Ni1RMU8yRGFhcmZsTkpwd1pzb2xvcVV5ZHFyMXd3NXpLZ0hBdEFWclI0dkNrWHl5TWZOZl91ZThuV25VLWZrcFBOOFlaNEd1ZDRoZk44d3B0cXdtaGFYbUlPY2pJRkRkeUpyUlRYVWY3TmNJb0xLVDZJekg5UExnNnh5N1FF0gH6AUFVX3lxTE5OMHN2aVJjaXZRWFl4RVZHZDMtY1RNVm9ET0h2c2puc1puUE15cnRsQkpMRWpCRzliWEp2SmxDOVFFbmdvQ0otRjZOUFV1b0VtRHhLNld4SUxPOHdTMTJLVmE2YUtNRThSOFNYM2M1UElUaFFTQ0hicGVOdlNlSG9OUkNpRHMxdFNwWDRrUDNwUWdiYkJiTVh2SV90S2ZiQmlaV1p3QmRjbHUyOHVfMUdUcGxBVnZLVlM3blM1UWlGV1BLalVQcTRvUVRVb212ejF5QU5MRUVFcWVWaldMSWlOXy1GS21iNHdYTmhraG9CNncwRHBGTWN2d1E?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "The Manila Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20790,6 +20812,17 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0lKRjJlVXVhQnRaVFI5Y0pQZVVuTUpYS0pwNkQ1X1lFMnpGakl3TlZHRXo2bXNRSkFjTWxBQ2dzTDhGRDNKSTJtOWdZeGVlU28xSGliLU1mUHZsdUFEVnI0aGhCUVJhSG5JMVV4bFVfaFVPRW5SSzJra0RQZlg0eTJDZG5wbDJLN2JXV2thNHhjYnZiand0Wlg2bDhzMmluck5OZlBsNmRkOUV1RnA3RnRQaFBXSXFNdDA4Y2t4XzNhSVByRHhR?oc=5",
    "published": "2026-09-11T07:00:00Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "562758a0ab48d645",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals Subsidiary HOPE Therapeutics Begins Training and Deployment of Zeta Surgical's FDA-Cleared Robotic TMS System - Investing News Network",
+   "summary": "NRx Pharmaceuticals Subsidiary HOPE Therapeutics Begins Training and Deployment of Zeta Surgical's FDA-Cleared Robotic TMS System Investing News Network",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM2tjcDhfQThELUxlRXVlWHdmUlZ1T3hqUXpvUEtIWTQyS1pOOUZzZ0FBNm1xaGc5bU9DdUhMalNRck12SUJOalE3bHdTTHVBTWtVeWxoYnZpRGxkdmNVTGZtbjh4R3QySWw5ZTJjbmhBUE5XeGt0WThoRVUyLXZqeWtyY0t5Z0RiNnNnQ0c2d3JYMUk5LTZlTmJnZmx5YUlkdV9ZMWU2UUwzeTUtM21ZbnJ5bDNoNlhzZGJVOEF1UnNITVJOcXBZVmY2S1k4YllIbEVHY1JwR3ZWVGRrelMteGRoM2RBczNrRHg4dw?oc=5",
+   "published": "2026-09-11T07:00:00Z",
+   "outlet": "Investing News Network",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
