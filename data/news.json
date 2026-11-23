@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:29:25Z",
+ "updated": "2026-11-23T17:28:56Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1653,6 +1653,17 @@
   }
  },
  "items": [
+  {
+   "id": "521218b6eefd95f5",
+   "company": "Teva",
+   "title": "Medincell shares rebound 4.5%, supported by Teva's Uzedy sales - Idéal Investisseur",
+   "summary": "Medincell shares rebound 4.5%, supported by Teva's Uzedy sales Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnBYb0NyZlNDTHpRZW1pVmhRYjQwdkg5VTZEQzRrOUpkOENlY2VIXzRySUhEWTFsdHNvS3VQT2dtV2ZubzJldmNESWt3REdPdTRUbUp5aGRkNnY1aVhUQ2x6bi1fc2NaVDRVaW4yM2FPVGdMdVlCX1lXXzhIU29pT2RUcFVjeDd3Z19zUndSajRHOGhKeHZCR1ZfdGJMYkpUb21tRk50Q0FJbGdjdnlfWkN6T3o1NkVxZzhn?oc=5",
+   "published": "2026-11-23T16:54:00Z",
+   "outlet": "Idéal Investisseur",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-23T17:28:56Z"
+  },
   {
    "id": "9558d96fe513a7e8",
    "company": "Teva",
@@ -6439,6 +6450,17 @@
    "first_seen": null
   },
   {
+   "id": "9273f0327101340d",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma stock tumbles 21% despite positive trial results By Investing.com - Investing.com UK",
+   "summary": "Helus Pharma stock tumbles 21% despite positive trial results By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb05GX0JYUjlsUEppU0I4bVl3dzhIZGh2MWgxT25vMGNWSnRTTU5lcWtDUS0zcFNUU0R1Z1ZEejU5WThtSUFNZG0xazRuUDlLa3FnNUttYmx3eHc4WHYySHVqamh3dXlxQnZLcV9wbzlfUmhDc0JRMmtVMlNla3VJNzhxRnMyTV9JTmhoRGoyVjVLVHZYYkd1eGgtbWZqRUFmVkJ6d2tqTFFkRVh1SHRfQUF1RlhubUU?oc=5",
+   "published": "2026-11-16T12:38:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f2d078bc8cac4b6a",
    "company": "MapLight Therapeutics",
    "title": "With no revenue to date, MapLight Therapeutics (MPLT) posts a wider nine-month loss. - Stock Titan",
@@ -11103,17 +11125,6 @@
    "first_seen": null
   },
   {
-   "id": "cec5629737d7fed7",
-   "company": "Alkermes",
-   "title": "Alkermes to Present at Upcoming Investor Conferences - Alkermes",
-   "summary": "Alkermes to Present at Upcoming Investor Conferences Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSk0zcHd2X09aVUtqYy1kYWVtdXY3V3hjTGR1WWwxOEt1bmwzOVROeHRoaGxlcWpFRXJhUHVVbk1VcVVnSHNGcEtDWDRVUmVkVk9WbXVPdHpCWEJwcmJ6WGtabXlfNTA1TDlnRk5MMXRMWjY5bkJUTWNKTlFoTmVsSVZtX0tzVTNEQUZSbUU1RzRtSHVJNnZqbzNwWXI2UTA2UUtOaDlKT2szZXBHXzJ4MQ?oc=5",
-   "published": "2026-11-03T21:00:21Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "2964af61e0b69b9c",
    "company": "Novartis",
    "title": "Sales Representative Neuroscience (German speaking part) - Novartis",
@@ -11253,6 +11264,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "cec5629737d7fed7",
+   "company": "Alkermes",
+   "title": "Alkermes to Present at Upcoming Investor Conferences - Alkermes",
+   "summary": "Alkermes to Present at Upcoming Investor Conferences Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSk0zcHd2X09aVUtqYy1kYWVtdXY3V3hjTGR1WWwxOEt1bmwzOVROeHRoaGxlcWpFRXJhUHVVbk1VcVVnSHNGcEtDWDRVUmVkVk9WbXVPdHpCWEJwcmJ6WGtabXlfNTA1TDlnRk5MMXRMWjY5bkJUTWNKTlFoTmVsSVZtX0tzVTNEQUZSbUU1RzRtSHVJNnZqbzNwWXI2UTA2UUtOaDlKT2szZXBHXzJ4MQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -15151,6 +15173,17 @@
    "first_seen": null
   },
   {
+   "id": "1b6e3dc738756caa",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics CMO Erin Foff sells $124,068 in stock - Investing.com",
+   "summary": "MapLight Therapeutics CMO Erin Foff sells $124,068 in stock Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc21kWkw0dGZud3JpWjBFYkF0M3l3UnNsRDBzaC15b0pfYkR0VFBodVVLU2x6Zi1YNkRNWmdMcmVTNjF5QzdubnBVeDh5c2RjdjZCNVBCdnpCTThYTXAtU2NyRkJSUWpsa2tRY3pqQ3FjRGc3VW8yWUxGMTVWUFVOcktYMGt4T2U3TEZORjZqMWE3N3Z5VDNuMUw4TnZPUGU1Y01hMnd6VVl0eVBQeUw2bi1rb19XcG9abmcyYkF5cw?oc=5",
+   "published": "2026-10-16T07:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "73adcca3dd8db313",
    "company": "NRG Therapeutics",
    "title": "Parkinson’s Disease Therapeutics Conference 2026",
@@ -17348,6 +17381,17 @@
    "published": "2026-10-01T07:00:00Z",
    "outlet": "Investing.com UK",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "37b65d593eee1b77",
+   "company": "Eli Lilly",
+   "title": "Obesity: Causes, Health Risks & Diagnosis | Lilly India - Eli Lilly",
+   "summary": "Obesity: Causes, Health Risks & Diagnosis | Lilly India Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xMjhZSmFPQnhJLXVGdDhMTUQ1Vk5LMGhsQzZjSFg3bjdfRUpwTDdvb0dfYUFHNFlMRW16UkVQd0xiZEtYZGY5WmNJQWFLU204dThwNEdxVUZ2eEVBWGNZ?oc=5",
+   "published": "2026-09-30T14:43:47Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -36474,6 +36518,17 @@
    "title": "Idorsia’s daridorexant delivers outstanding results in a Phase 2 study in children with insomnia disorder - Yahoo Finance",
    "summary": "Idorsia’s daridorexant delivers outstanding results in a Phase 2 study in children with insomnia disorder Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaHZSdnVWSklUX1oxVTlQdDlEZWxyVDNvcGIyNDBmNkpOOEhJTDdyV21KYVlxcjZLTTdDcFdRY2NhcUlNS3FUUTlZOWNYLW0tdnNWUW5WcExhdTJYd1FwX0hDUXNCaWszZUZPa0xOdmJZMHBoVldrdlFhaGdRRnFCcTFUR19NRkRaeXY0aWt5Wk9Ob2wtbWlueno5MTJVeWMtNFk3TGlfX3h2eEdGRFFNR3lhWDJtWnlxb1E?oc=5",
+   "published": "2026-03-29T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "edb5a02c4a8e784c",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (NASDAQ:NRXP) Is In A Good Position To Deliver On Growth Plans - Yahoo Finance",
+   "summary": "NRx Pharmaceuticals (NASDAQ:NRXP) Is In A Good Position To Deliver On Growth Plans Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnRaUlZlaUxjaU5iME53RXpVV2ZxczNpdmhoN29PUnJVQU55S0hWUy1ZcHE0SEcwM0ktYnFIbUhRd3JRSC1vNXJZYjBSVE1mMHlNd212akl2RUp3dDUxbnlXYm5DcThHX3kwYjNWanEtNHVYVjB2NVBhaVNaUVpFWEZoQ3A2QVBKcGtBMF80cEozTXVXS2ZVbm5ONTgwT29rSXNB?oc=5",
    "published": "2026-03-29T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
