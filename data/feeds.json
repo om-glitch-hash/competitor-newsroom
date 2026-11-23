@@ -51,7 +51,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Asupernus.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://ir.supernus.com/news-releases\", null, null, null]",
-  "checked": "2026-11-22T22:16:02Z"
+  "checked": "2026-11-23T12:46:16Z"
  },
  "Johnson & Johnson (incl. Intra-Cellular)": {
   "feed": "https://news.google.com/rss/search?q=%22Johnson+%26+Johnson%22+%28%22lenrispodun%22+OR+%22ITI-1284%22+OR+%22Caplyta%22+OR+%22lumateperone%22+OR+%22seltorexant%22+OR+%22aticaprant%22+OR+%22Parkinson%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22bipolar%22+OR+%22anxiety%22+OR+%22Intra-Cellular%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -129,7 +129,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Brenig+Therapeutics%22+OR+%22BT-267%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.brenigtx.com/\", null, \"\\\"Brenig Therapeutics\\\" OR \\\"BT-267\\\"\", null]",
-  "checked": "2026-11-22T11:55:56Z"
+  "checked": "2026-11-23T12:46:16Z"
  },
  "Neuron23": {
   "feed": "https://news.google.com/rss/search?q=%22Neuron23%22&hl=en-US&gl=US&ceid=US:en",
@@ -141,7 +141,7 @@
   "feed": "https://news.google.com/rss/search?q=Abli+Therapeutics+risvodetinib&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Abli Therapeutics risvodetinib\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-23T12:46:16Z"
  },
  "Kyowa Kirin": {
   "feed": "https://news.google.com/rss/search?q=%22Kyowa+Kirin%22+%28%22Nourianz%22+OR+%22istradefylline%22+OR+%22Parkinson%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-23T11:36:55Z"
+  "checked": "2026-11-23T12:46:16Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -401,13 +401,13 @@
   "feed": "https://news.google.com/rss/search?q=site%3Aprotagenic.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.protagenic.com/news\", null, null, null]",
-  "checked": "2026-11-22T22:16:02Z"
+  "checked": "2026-11-23T12:46:16Z"
  },
  "Ananda Scientific": {
   "feed": "https://news.google.com/rss/search?q=%22Ananda+Scientific%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://anandascientific.com/\", null, \"\\\"Ananda Scientific\\\"\", null]",
-  "checked": "2026-11-22T22:16:02Z"
+  "checked": "2026-11-23T12:46:16Z"
  },
  "Neurala Biosciences": {
   "feed": "https://news.google.com/rss/search?q=%22Neurala+Biosciences%22+OR+%22NBX-100%22&hl=en-US&gl=US&ceid=US:en",
@@ -428,10 +428,10 @@
   "checked": "2026-11-21T00:02:36Z"
  },
  "Axsome Therapeutics": {
-  "feed": "https://news.google.com/rss/search?q=%22Axsome+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Aaxsometherapeuticsinc.gcs-web.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://axsometherapeuticsinc.gcs-web.com/news-releases\", null, null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-23T12:46:16Z"
  },
  "Compass Pathways": {
   "feed": "https://ir.compasspathways.com/rss/pressrelease.aspx",
@@ -470,10 +470,10 @@
   "checked": "2026-11-21T00:02:36Z"
  },
  "Alkermes": {
-  "feed": "https://news.google.com/rss/search?q=%22Alkermes%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Aalkermes.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://investor.alkermes.com/news-releases\", null, null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-23T12:46:16Z"
  },
  "Alterity Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=%22Alterity+Therapeutics%22+OR+%22ATH434%22&hl=en-US&gl=US&ceid=US:en",
@@ -485,7 +485,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Aneurocrine.gcs-web.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://neurocrine.gcs-web.com/news-releases\", null, null, null]",
-  "checked": "2026-11-22T16:16:19Z"
+  "checked": "2026-11-23T12:46:16Z"
  },
  "Reviva Pharmaceuticals": {
   "feed": "https://revivapharma.com/feed/",
@@ -653,7 +653,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Amerztherapeutics.com+%28%22Inbrija%22+OR+%22Parkinson%22+OR+%22levodopa%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.merztherapeutics.com/news/\", null, null, [\"Inbrija\", \"Parkinson\", \"levodopa\"]]",
-  "checked": "2026-11-22T00:06:13Z"
+  "checked": "2026-11-23T12:46:16Z"
  },
  "Ventyx Biosciences (acquired by Lilly, Mar 2026)": {
   "feed": "https://news.google.com/rss/search?q=%22VTX3232%22+OR+%22VTX-3232%22+OR+%22Ventyx%22&hl=en-US&gl=US&ceid=US:en",
