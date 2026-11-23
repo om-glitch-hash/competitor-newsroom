@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:41:30Z",
+ "updated": "2026-11-23T00:27:46Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -3755,17 +3755,6 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
-   "id": "7480e82e2c8dde4e",
-   "company": "Novartis",
-   "title": "Account Manager, Neuroscience - Novartis",
-   "summary": "Account Manager, Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDI5QXVWdDFqb3I0R0FWT05lMVFSY3FpTXdJUjBwU3c2bjhkZDA4bjZ0NmNIdmVMRGRPWHF5aE5BQlQxOEpjRGJGRGtZUTFzbjMtOWphVzV6WFRRUHlhNmxscGJhZW9WNkpfRTBBNnhvVnZ0VU5Bb1RvX1RtQmI0RG5tNUxjVTFvUFpISjN6NHN3VlVDZ01EM2wyMG81TnEyRHVxWEwwUVZ2UQ?oc=5",
-   "published": "2026-11-18T21:45:24Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "aa234c9c0e2a60bf",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc. (NASDAQ: HELP) Share Price, HELP Stock News, HELP Share Price & Updates - kalkine.ca",
@@ -3852,6 +3841,17 @@
    "outlet": "Coinbase",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
+  },
+  {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlk1VlZZLXZCaG9Kb3lhQmNuRElUeGlta2hVTl9hdk9sa2RWUmxvenFoSHQyQVVFUGVqVjVVcWFWYm9PQ1lyTmJnaGdTR3lxUlVsdy1Wdi1DMlowN3RkSG9zek9scVIycUpHX1F0a2dsNC13N0V3QTJCOWdnZjZ2RFVMdmZ4Z0tZTmVUYW16cDg5bkd3QzF5RExrclVKalo3WGZHNFRKZ3ZUZlo2bUtERlZnU1VpT3I4NndfTmRDd2Q1VXRyUGh5WkRtM3VMQQ?oc=5",
+   "published": "2026-11-18T15:14:53Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "ae43ecd6c96a7fd5",
@@ -4224,17 +4224,6 @@
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVVRQdlRVVVpkZi1nM05COGh5Sm1TbUoyd2J4N3piOVNzMm5vTnAyQ3I4M0JoMzctMV9kcWpqcUJWTWhmbW1NbnFxajZHZ3J5azc2WmkxNnZ6dUltejJzbmF2M1NIVG5ESzNZRm1TbXRNZk15R0V2YUw1VlFQVDU0aUF5dzJ6aG0tYXV4MmlTakhJRDhBWkY4Y2Jwa000dEFnMDN4OThqNFNGM1h4RXRTZlRLdjU3SEViVHpSLU9CQzNnVnhrcmdXV3h1OVdpVHVKbG9kaEVZRGRQTTZqaU9ycFpDSVZRaU1GbkNwaF9rdFlWRmE3cnZVTDhKZEgzdG9KX3JwR2ozQW1iZjJCS2tUSTQ2NjU?oc=5",
    "published": "2026-11-18T02:56:46Z",
    "outlet": "Helus Pharma",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUTREX2JPNVU0cHBhZTVEazJjUXNXSEMwVGo5WjFRZXF6RXU1TU9Sa1VvRjN0VV85VmtHRVhNM21ZQURFN3U5MkdZOFRZOVJTVzBtSmdTRkx2ZFJUQ1RlTlF4Ti0zU2NaTFBvalBjNXMwYzZVNExLTU5IQlU1YmRMdHk0YUNhTV9XNEhCQ09xekpNc0o2Rl9VOVo4YXl4azh6VHlWNUd2ZHI5VUVUT3hrbHJYT0FMcWVjTlg5d1pNdWxSREI3anZtaE96TFhFdw?oc=5",
-   "published": "2026-11-18T02:10:41Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
@@ -7789,6 +7778,17 @@
    "published": "2026-11-11T23:15:02Z",
    "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7480e82e2c8dde4e",
+   "company": "Novartis",
+   "title": "Account Manager, Neuroscience - Novartis",
+   "summary": "Account Manager, Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDljdUQwbFBCZlotb0FlcUxhUHlxWTFoUDZ0T1pIMXBKU3pJVDNxMkcxRFhtbm54OHlfTmkzRHl0akRYcnlXdWVfamxqekJ3dXZWdEMxN1RKa3JmQ3BCUUZ0R0Y4ZjdGRUtZVHZLNUF4SHJ1RGhIcERQNTJDdTVYNnRrR1NYRHVpVDJsT2k4LVpYWWZNdEJldjBYeFZJemQ5LVY5dTFVaHFwZw?oc=5",
+   "published": "2026-11-11T22:29:45Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -14535,6 +14535,17 @@
    "first_seen": null
   },
   {
+   "id": "800355903bc459a5",
+   "company": "Palisades Therapeutics",
+   "title": "Palisades Therapeutics Highlights a Shared Inflammatory Mechanism Across Chronic Diseases in Frontiers in Pharmacology - EIN Presswire",
+   "summary": "Palisades Therapeutics Highlights a Shared Inflammatory Mechanism Across Chronic Diseases in Frontiers in Pharmacology EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUDFUZ1FVbTN0MVJtVnZfYlRucEpOYzFVellXOVRiWnFDT1FQQ0s4NWdPYnlRT2l0TlRGY1VpSmxMTE1kTFNLLS1oSFpQekJ4NXdpUExuWENhbzlKSmpvdHRmNDFNaXNoOFJEMUt0cHROaHNXdDZfY01MRXFWZ21tVEw5X1dTeUJrNlU0b0hveWJTaUJpa19yWllKMHNCX2xTdDlLWm9vSVRTOENuTU5pMnZwZHd3Y1ktNTBEazhxNDV4REFkY0JEY2NxVHNuUDVQVnNIZGdNQ01RelAxLVhxN2Q3NWRVZkd3M2NIOTNPRVV6SWM3WWxSNg?oc=5",
+   "published": "2026-10-19T07:00:00Z",
+   "outlet": "EIN Presswire",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
    "id": "cec8dc6614ee73f2",
    "company": "XellSmart",
    "title": "New Progress -- XellSmart Unveiled Phase I Results of Off-the-Shelf Parkinson's Disease Cell Therapy at MDS & Completed Blinded Phase II Enrollment - PR Newswire",
@@ -15181,6 +15192,17 @@
    "published": "2026-10-12T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7e5f2e8a87b8e774",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Announces Publication of Five-Year Comparative Analysis of BRIUMVI Versus Ocrelizumab and Ofatumumab in Relapsing Multiple Sclerosis - October 12, 2026 - TG Therapeutics",
+   "summary": "TG Therapeutics Announces Publication of Five-Year Comparative Analysis of BRIUMVI Versus Ocrelizumab and Ofatumumab in Relapsing Multiple Sclerosis - October 12, 2026 TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NbVZURk9BYV9maWNNR2tMd2REcEMtRHprSTBiYnRyTnpHcmtjWjVVSVI5M09oeXcweXVUMV83SWZJMVVmaVk2cnR5TlFMYmUwV3NMY0owZw?oc=5",
+   "published": "2026-10-12T07:00:00Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -15841,6 +15863,17 @@
    "published": "2026-10-08T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "91c778ba24727b1d",
+   "company": "Sensorium Therapeutics",
+   "title": "Jacob Hooker - CEO & Co-Founder, Sensorium Therapeutics - yespress.io",
+   "summary": "Jacob Hooker - CEO & Co-Founder, Sensorium Therapeutics yespress.io",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NQWhrZmZSZFJ1NkUydFhSMGd5R2VfUnYwUmZKa2QxcEF2SVRtSExrUGZ6S0FMWDBuUFBtYjVCcmtoS1BGTG13?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "yespress.io",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -41493,17 +41526,6 @@
    "published": "2025-11-24T08:00:00Z",
    "outlet": "medRxiv",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "67724f21c11bf5e0",
-   "company": "Denali Therapeutics",
-   "title": "Press Releases - Denali Therapeutics",
-   "summary": "Press Releases Denali Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QejZfeVZIaG01WnpGc05rYUx3bWtWWFcwbHBrWlA5X1hsUGxjbm4zb3hpbUp4dU1tT2hjMk0tT2VLdzEyYUkzV2FWY1Z6VXNWYzF3TGpSa19KZmxkQzVsNHFIQThFZw?oc=5",
-   "published": "2025-11-23T00:16:59Z",
-   "outlet": "Denali Therapeutics",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   }
  ]
