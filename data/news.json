@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:15:56Z",
+ "updated": "2026-11-23T19:16:31Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1663,6 +1663,17 @@
    "outlet": "Idéal Investisseur",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T17:28:56Z"
+  },
+  {
+   "id": "bc9b99b92fc39619",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Surviving lung cancer: Why having the right care team is so crucial - Johnson & Johnson",
+   "summary": "Surviving lung cancer: Why having the right care team is so crucial Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbEFmbHZjZ1dET1M0Q09qRWVJRjZhOUJ3bV9vR2tEQ1dlSEYtVGhLY1d6c1MzcVd4ci1uNnNVSXVjTFVBWHlrMnBlS05BY2h3dmRrNmVka2ZMUjNuN1pfam9ORGtxYXZrSkdlZjQwR3BVMm91blNpdWJ6bzc4Qm5JMjdYSQ?oc=5",
+   "published": "2026-11-23T14:23:54Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-23T19:16:31Z"
   },
   {
    "id": "2fb083e6b1630a5b",
@@ -25579,17 +25590,6 @@
    "first_seen": null
   },
   {
-   "id": "35549e69bf75b68b",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences (NBIX) Lifts INGREZZA Guidance, Is The Pullback A Bargain? - Yahoo Finance",
-   "summary": "Neurocrine Biosciences (NBIX) Lifts INGREZZA Guidance, Is The Pullback A Bargain? Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXVuWmREa2gzc05MSnlKaklDdDhxR2VmMlRhTHZISTljb3RlaU0tRUJYYm5XRTJFSmJtXzBaekdDQ3J4VmNwak9RaExicm9haHR0U3VNU3JBRG1oYVp4amZNT0pwWHV2YUNERkIzbE5vaWZhR3VJN2JuSGdWVl9VVzBLM19ralM4N3hmZGdpNW5ka3RPRnJhdWFjbm1OU1ZfTmVYUUlB?oc=5",
-   "published": "2026-08-01T07:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "0eeef32fcee5361a",
    "company": "NeuroOne Medical Technologies",
    "title": "StereoCED™ — - NeuroOne",
@@ -25598,6 +25598,17 @@
    "published": "2026-07-31T13:46:42Z",
    "outlet": "NeuroOne",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "35549e69bf75b68b",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences (NBIX) Lifts INGREZZA Guidance, Is The Pullback A Bargain? - Yahoo Finance",
+   "summary": "Neurocrine Biosciences (NBIX) Lifts INGREZZA Guidance, Is The Pullback A Bargain? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXVuWmREa2gzc05MSnlKaklDdDhxR2VmMlRhTHZISTljb3RlaU0tRUJYYm5XRTJFSmJtXzBaekdDQ3J4VmNwak9RaExicm9haHR0U3VNU3JBRG1oYVp4amZNT0pwWHV2YUNERkIzbE5vaWZhR3VJN2JuSGdWVl9VVzBLM19ralM4N3hmZGdpNW5ka3RPRnJhdWFjbm1OU1ZfTmVYUUlB?oc=5",
+   "published": "2026-07-31T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
