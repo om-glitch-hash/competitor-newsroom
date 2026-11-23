@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-23T21:20:07Z"
+  "checked": "2026-11-23T22:20:59Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -497,7 +497,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Axenon-pharma.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://investor.xenon-pharma.com/news-releases\", null, null, null]",
-  "checked": "2026-11-22T12:44:54Z"
+  "checked": "2026-11-23T22:20:59Z"
  },
  "Vanda Pharmaceuticals": {
   "feed": "https://news.google.com/rss/search?q=%22Vanda+Pharmaceuticals%22&hl=en-US&gl=US&ceid=US:en",
@@ -641,7 +641,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Anovartis.com+%28%22GXV813%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22psychiatry%22+OR+%22neuroscience%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.novartis.com/news/news-archive\", null, null, [\"GXV813\", \"depression\", \"schizophrenia\", \"psychiatr\", \"neuroscience\"]]",
-  "checked": "2026-11-22T16:16:19Z"
+  "checked": "2026-11-23T22:20:59Z"
  },
  "Incannex Healthcare": {
   "feed": "https://news.google.com/rss/search?q=%22Incannex+Healthcare%22&hl=en-US&gl=US&ceid=US:en",
