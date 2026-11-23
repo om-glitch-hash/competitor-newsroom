@@ -305,6 +305,159 @@ def build_items(company: dict, entries: list[dict] | None, choice: dict) -> tupl
     return items, status
 
 
+# ------------------------------------------------------------------ ClinicalTrials.gov
+CTGOV = "https://clinicaltrials.gov/api/v2/studies"
+TRIALS_FILE = DATA / "trials.json"
+TRIALS_EVERY_HOURS = 6        # trials change slowly; checking every 6 hours is plenty
+TRIALS_SINCE = "2024-01-01"   # only trials updated on ClinicalTrials.gov since this date
+NEW_TRIAL_DAYS = 14           # a trial first posted within this many days counts as new
+CT_FIELDS = ("NCTId,BriefTitle,OverallStatus,Phase,LeadSponsorName,Condition,InterventionName,"
+             "StartDate,PrimaryCompletionDate,LastUpdatePostDate,StudyFirstPostDate,EnrollmentCount")
+
+
+def ct_search(params: dict) -> list[dict] | None:
+    """Run one ClinicalTrials.gov search (all pages, up to 1,000 trials). None = request failed."""
+    studies, token = [], None
+    for _ in range(5):
+        p = dict(params)
+        p.update({"pageSize": 200, "fields": CT_FIELDS,
+                  "filter.advanced": f"AREA[LastUpdatePostDate]RANGE[{TRIALS_SINCE},MAX]"})
+        if token:
+            p["pageToken"] = token
+        try:
+            r = session.get(CTGOV, params=p, timeout=30)
+            r.raise_for_status()
+            d = r.json()
+        except Exception:
+            return None
+        studies += d.get("studies", [])
+        token = d.get("nextPageToken")
+        if not token:
+            break
+        time.sleep(0.3)
+    return studies
+
+
+def pretty(status: str) -> str:
+    return (status or "").replace("_", " ").capitalize()
+
+
+def ct_record(study: dict) -> dict:
+    ps = study.get("protocolSection", {})
+    ident, st = ps.get("identificationModule", {}), ps.get("statusModule", {})
+    design = ps.get("designModule", {})
+    nct = ident.get("nctId", "")
+    return {
+        "nct": nct,
+        "title": ident.get("briefTitle", ""),
+        "status": st.get("overallStatus", ""),
+        "phase": ", ".join(p.replace("PHASE", "Ph ").replace("EARLY_Ph 1", "Early Ph 1").replace("NA", "N/A")
+                           for p in design.get("phases", [])),
+        "sponsor": ps.get("sponsorCollaboratorsModule", {}).get("leadSponsor", {}).get("name", ""),
+        "conditions": ps.get("conditionsModule", {}).get("conditions", [])[:6],
+        "interventions": [i.get("name", "") for i in ps.get("armsInterventionsModule", {}).get("interventions", [])][:6],
+        "enrollment": design.get("enrollmentInfo", {}).get("count"),
+        "start": st.get("startDateStruct", {}).get("date"),
+        "primary_completion": st.get("primaryCompletionDateStruct", {}).get("date"),
+        "first_posted": st.get("studyFirstPostDateStruct", {}).get("date"),
+        "last_update": st.get("lastUpdatePostDateStruct", {}).get("date"),
+        "url": f"https://clinicaltrials.gov/study/{nct}",
+    }
+
+
+def update_trials(companies: list[dict]) -> list[dict]:
+    """Refresh data/trials.json and return news items for new trials and trial changes."""
+    cfg = {c["name"]: c["trials"] for c in companies if c.get("trials")}
+    sig = hashlib.sha1(json.dumps([cfg, TRIALS_SINCE], sort_keys=True).encode()).hexdigest()
+    prev = load_json(TRIALS_FILE, {"updated": None, "trials": {}})
+    if (prev.get("sig") == sig and prev.get("updated")
+            and datetime.fromisoformat(prev["updated"].replace("Z", "+00:00"))
+            > now - timedelta(hours=TRIALS_EVERY_HOURS)):
+        return []                                   # checked recently, nothing to do
+    old = prev.get("trials", {})
+    first_run = not old
+    found: dict[str, dict] = {}
+    status, failed = {}, set()
+
+    for name, t in cfg.items():
+        queries = []
+        for term in t.get("terms", []):
+            q = {"query.intr": term}
+            if t.get("condition"):
+                q["query.cond"] = t["condition"]
+            queries.append((term, q))
+        if t.get("sponsor"):
+            q = {"query.spons": t["sponsor"]}
+            if t.get("condition"):
+                q["query.cond"] = t["condition"]
+            queries.append((f"sponsor: {t['sponsor']}", q))
+        ok, count = 0, 0
+        for label, q in queries:
+            studies = ct_search(q)
+            time.sleep(0.3)
+            if studies is None:
+                continue
+            ok += 1
+            for s in studies:
+                rec = ct_record(s)
+                if not rec["nct"]:
+                    continue
+                cur = found.setdefault(rec["nct"], dict(rec, companies=[], matched=[]))
+                if name not in cur["companies"]:
+                    cur["companies"].append(name)
+                    count += 1
+                if label not in cur["matched"]:
+                    cur["matched"].append(label)
+        if ok < len(queries):
+            failed.add(name)
+        status[name] = {"queries": len(queries), "ok": ok, "trials": count}
+
+    # If a company's searches failed this time, keep its trials from last time
+    for nct, rec in old.items():
+        if nct not in found and any(c in failed for c in rec.get("companies", [])):
+            found[nct] = rec
+
+    stamp = iso(now)
+    events = []
+    recent = (now - timedelta(days=NEW_TRIAL_DAYS)).strftime("%Y-%m-%d")
+    for nct, rec in found.items():
+        before = old.get(nct)
+        rec["changes"] = (before or {}).get("changes", [])
+        rec["first_seen"] = before.get("first_seen") if before else (None if first_run else stamp)
+        if before is None:
+            if rec["first_posted"] and rec["first_posted"] >= recent:
+                events.append((rec, f"New trial registered: {rec['title']}", rec["first_posted"]))
+            continue
+        for field, label in (("status", "Status"), ("primary_completion", "Primary completion")):
+            if before.get(field) and rec.get(field) and before[field] != rec[field]:
+                change = {"date": stamp, "field": label, "from": before[field], "to": rec[field]}
+                rec["changes"] = (rec["changes"] + [change])[-10:]
+                old_v, new_v = (pretty(before[field]), pretty(rec[field])) if field == "status" else (before[field], rec[field])
+                events.append((rec, f"Trial {label.lower()} changed {old_v} \u2192 {new_v}: {rec['title']}", None))
+
+    TRIALS_FILE.write_text(json.dumps({"updated": stamp, "sig": sig, "since": TRIALS_SINCE,
+                                       "trials": found, "status": status},
+                                      ensure_ascii=False, indent=1), encoding="utf-8")
+
+    items = []
+    for rec, title, date in events:
+        published = (datetime.fromisoformat(date).replace(hour=12, tzinfo=timezone.utc)
+                     if date and len(date) == 10 else now)
+        others = rec["companies"][1:]
+        detail = " \u00b7 ".join(x for x in [rec["nct"], rec["phase"], pretty(rec["status"]), rec["sponsor"],
+                                          ", ".join(rec["conditions"][:3]),
+                                          ("also tracked under " + ", ".join(others)) if others else ""] if x)
+        company = rec["companies"][0]          # one feed item per trial event
+        items.append({
+            "id": hashlib.sha1(f"{company}|{rec['nct']}|{title}".encode()).hexdigest()[:16],
+            "company": company, "title": title, "summary": detail, "link": rec["url"],
+            "published": iso(published), "outlet": "", "method": "ClinicalTrials.gov",
+            "new_days": NEW_TRIAL_DAYS,
+        })
+    print(f"trials: {len(found)} found, {len(events)} new/changed, {len(failed)} companies with failed searches")
+    return items
+
+
 def main() -> int:
     DATA.mkdir(exist_ok=True)
     companies = yaml.safe_load((ROOT / "companies.yaml").read_text(encoding="utf-8"))["companies"]
@@ -315,6 +468,12 @@ def main() -> int:
 
     with ThreadPoolExecutor(max_workers=16) as pool:
         results = list(pool.map(lambda c: process(c, cache), companies))
+    try:
+        trial_items = update_trials(companies)
+    except Exception as exc:                    # never let trials break the news update
+        print(f"trials skipped: {exc}")
+        trial_items = []
+    results.append((trial_items, None))
 
     stamp = iso(now)
     new_count = 0
@@ -326,7 +485,8 @@ def main() -> int:
             else:
                 # Only recent items count as "new"; a backfill from a newly added
                 # or newly fixed source shouldn't flood everyone's unread count.
-                recent = not it["published"] or it["published"] >= iso(now - timedelta(days=NEW_DAYS))
+                window = it.pop("new_days", NEW_DAYS)
+                recent = not it["published"] or it["published"] >= iso(now - timedelta(days=window))
                 it["first_seen"] = stamp if (recent and not first_run) else None
                 existing[it["id"]] = it
                 new_count += 1 if it["first_seen"] else 0
@@ -342,8 +502,9 @@ def main() -> int:
     NEWS_FILE.write_text(json.dumps({"updated": stamp, "companies": meta, "items": items},
                                     ensure_ascii=False, indent=1), encoding="utf-8")
     FEEDS_FILE.write_text(json.dumps(cache, indent=1), encoding="utf-8")
-    STATUS_FILE.write_text(json.dumps({"updated": stamp, "sources": [s for _, s in results]},
+    STATUS_FILE.write_text(json.dumps({"updated": stamp, "sources": [s for _, s in results if s is not None]},
                                       indent=1), encoding="utf-8")
+    results = [r for r in results if r[1] is not None]
     ok = sum(1 for _, s in results if s["ok"])
     print(f"{ok}/{len(results)} sources OK, {len(items)} items, {new_count} new")
     return 0
