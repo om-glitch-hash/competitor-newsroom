@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:02:25Z",
+ "updated": "2026-11-23T19:07:16Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -10388,6 +10388,17 @@
    "first_seen": null
   },
   {
+   "id": "1893541e34fd928a",
+   "company": "Herantis Pharma",
+   "title": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design - The Manila Times",
+   "summary": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUFUNlBXaUo3MFU1SVJzSWlnR29SSVdFVGFnT3VOOUQwVnBQcG16S0RhWDFqS3Q0U1lybUc2b0UwbVc5TGQ5dW1EZnFvWExrcXplTFl2NXAzcGJuUmk1ZlhZbFZPbTc1MktXS3M3cXU5cUdHSDc1Ni1RMU8yRGFhcmZsTkpwd1pzb2xvcVV5ZHFyMXd3NXpLZ0hBdEFWclI0dkNrWHl5TWZOZl91ZThuV25VLWZrcFBOOFlaNEd1ZDRoZk44d3B0cXdtaGFYbUlPY2pJRkRkeUpyUlRYVWY3TmNJb0xLVDZJekg5UExnNnh5N1FF0gH6AUFVX3lxTE5OMHN2aVJjaXZRWFl4RVZHZDMtY1RNVm9ET0h2c2puc1puUE15cnRsQkpMRWpCRzliWEp2SmxDOVFFbmdvQ0otRjZOUFV1b0VtRHhLNld4SUxPOHdTMTJLVmE2YUtNRThSOFNYM2M1UElUaFFTQ0hicGVOdlNlSG9OUkNpRHMxdFNwWDRrUDNwUWdiYkJiTVh2SV90S2ZiQmlaV1p3QmRjbHUyOHVfMUdUcGxBVnZLVlM3blM1UWlGV1BLalVQcTRvUVRVb212ejF5QU5MRUVFcWVWaldMSWlOXy1GS21iNHdYTmhraG9CNncwRHBGTWN2d1E?oc=5",
+   "published": "2026-11-05T12:05:42Z",
+   "outlet": "The Manila Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "986adaac5b77ddae",
    "company": "Insightec",
    "title": "Job opportunity: CAM Clinical Sales – Senior Manager of AGM - Insightec",
@@ -10406,17 +10417,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVFYNGRteUJDR214ZmFFNGlmalozbFdVZFRianFyc1dGZHpBd1haVXF0MXZLSTVET2dDTTNfVXV0bnl6Z2VfN2xKZ1ZiRmdtTTVjQnVEZkN2N0FlMGZMWkJfOGtnczhmQ2tpX3pkdEQ4UFVnd1JwaDB2eXJhWlBUUkZ3X2trMmRh?oc=5",
    "published": "2026-11-05T08:40:07Z",
    "outlet": "AllSci",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "1893541e34fd928a",
-   "company": "Herantis Pharma",
-   "title": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design - The Manila Times",
-   "summary": "Herantis Pharma: newly published clinical evidence validates HER-096 Phase 2 study design The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUFUNlBXaUo3MFU1SVJzSWlnR29SSVdFVGFnT3VOOUQwVnBQcG16S0RhWDFqS3Q0U1lybUc2b0UwbVc5TGQ5dW1EZnFvWExrcXplTFl2NXAzcGJuUmk1ZlhZbFZPbTc1MktXS3M3cXU5cUdHSDc1Ni1RMU8yRGFhcmZsTkpwd1pzb2xvcVV5ZHFyMXd3NXpLZ0hBdEFWclI0dkNrWHl5TWZOZl91ZThuV25VLWZrcFBOOFlaNEd1ZDRoZk44d3B0cXdtaGFYbUlPY2pJRkRkeUpyUlRYVWY3TmNJb0xLVDZJekg5UExnNnh5N1FF0gH6AUFVX3lxTE5OMHN2aVJjaXZRWFl4RVZHZDMtY1RNVm9ET0h2c2puc1puUE15cnRsQkpMRWpCRzliWEp2SmxDOVFFbmdvQ0otRjZOUFV1b0VtRHhLNld4SUxPOHdTMTJLVmE2YUtNRThSOFNYM2M1UElUaFFTQ0hicGVOdlNlSG9OUkNpRHMxdFNwWDRrUDNwUWdiYkJiTVh2SV90S2ZiQmlaV1p3QmRjbHUyOHVfMUdUcGxBVnZLVlM3blM1UWlGV1BLalVQcTRvUVRVb212ejF5QU5MRUVFcWVWaldMSWlOXy1GS21iNHdYTmhraG9CNncwRHBGTWN2d1E?oc=5",
-   "published": "2026-11-05T08:00:00Z",
-   "outlet": "The Manila Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11323,6 +11323,17 @@
    "first_seen": null
   },
   {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
+   "published": "2026-11-03T12:12:08Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -11372,17 +11383,6 @@
    "title": "Alkermes to Present at Upcoming Investor Conferences - Alkermes",
    "summary": "Alkermes to Present at Upcoming Investor Conferences Alkermes",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSk0zcHd2X09aVUtqYy1kYWVtdXY3V3hjTGR1WWwxOEt1bmwzOVROeHRoaGxlcWpFRXJhUHVVbk1VcVVnSHNGcEtDWDRVUmVkVk9WbXVPdHpCWEJwcmJ6WGtabXlfNTA1TDlnRk5MMXRMWjY5bkJUTWNKTlFoTmVsSVZtX0tzVTNEQUZSbUU1RzRtSHVJNnZqbzNwWXI2UTA2UUtOaDlKT2szZXBHXzJ4MQ?oc=5",
-   "published": "2026-11-03T08:00:00Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
    "published": "2026-11-03T08:00:00Z",
    "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
