@@ -39,7 +39,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Dizlin%22+OR+%22Infudopa%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.dizlin.com/\", null, \"\\\"Dizlin\\\" OR \\\"Infudopa\\\"\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-23T19:15:56Z"
  },
  "NeuroOne Medical Technologies": {
   "feed": "https://news.google.com/rss/search?q=%22NeuroOne+Medical+Technologies%22&hl=en-US&gl=US&ceid=US:en",
@@ -54,10 +54,10 @@
   "checked": "2026-11-23T12:46:16Z"
  },
  "Johnson & Johnson (incl. Intra-Cellular)": {
-  "feed": "https://news.google.com/rss/search?q=%22Johnson+%26+Johnson%22+%28%22lenrispodun%22+OR+%22ITI-1284%22+OR+%22Caplyta%22+OR+%22lumateperone%22+OR+%22seltorexant%22+OR+%22aticaprant%22+OR+%22Parkinson%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22bipolar%22+OR+%22anxiety%22+OR+%22Intra-Cellular%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Ajnj.com+%28%22lenrispodun%22+OR+%22ITI-1284%22+OR+%22Caplyta%22+OR+%22lumateperone%22+OR+%22seltorexant%22+OR+%22aticaprant%22+OR+%22Parkinson%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22bipolar%22+OR+%22anxiety%22+OR+%22Intra-Cellular%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.jnj.com/media-center/press-releases\", null, null, [\"lenrispodun\", \"ITI-1284\", \"Caplyta\", \"lumateperone\", \"seltorexant\", \"aticaprant\", \"Parkinson\", \"depression\", \"schizophrenia\", \"bipolar\", \"anxiety\", \"Intra-Cellular\", \"psychiatry\", \"neuroscience\"]]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-23T19:15:56Z"
  },
  "Biogen": {
   "feed": "https://news.google.com/rss/search?q=%22Biogen%22+%28%22BIIB122%22+OR+%22DNL151%22+OR+%22LRRK2%22+OR+%22Parkinson%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-23T19:12:28Z"
+  "checked": "2026-11-23T19:15:56Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -482,10 +482,10 @@
   "checked": "2026-11-21T00:02:36Z"
  },
  "Neurocrine Biosciences": {
-  "feed": "https://news.google.com/rss/search?q=site%3Aneurocrine.gcs-web.com&hl=en-US&gl=US&ceid=US:en",
-  "method": "newsroom via Google News (site:)",
+  "feed": "https://news.google.com/rss/search?q=%22Neurocrine+Biosciences%22&hl=en-US&gl=US&ceid=US:en",
+  "method": "news search (newsroom not indexed)",
   "sig": "[\"https://neurocrine.gcs-web.com/news-releases\", null, null, null]",
-  "checked": "2026-11-23T12:46:16Z"
+  "checked": "2026-11-23T19:15:56Z"
  },
  "Reviva Pharmaceuticals": {
   "feed": "https://revivapharma.com/feed/",
@@ -551,7 +551,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Newron%22+OR+%22evenamide%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.newron.com/news-and-media/regulatory-news\", null, \"\\\"Newron\\\" OR \\\"evenamide\\\"\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-23T19:15:56Z"
  },
  "TG Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=site%3Atgtherapeutics.com&hl=en-US&gl=US&ceid=US:en",
