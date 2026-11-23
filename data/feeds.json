@@ -72,10 +72,10 @@
   "checked": "2026-11-21T00:02:36Z"
  },
  "Annovis Bio": {
-  "feed": "https://news.google.com/rss/search?q=%22Annovis+Bio%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
-  "sig": "[\"https://www.annovisbio.com/press-release\", null, null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "feed": "https://news.google.com/rss/search?q=site%3Aannovisbio.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
+  "sig": "[\"https://www.annovisbio.com/press-releases\", null, null, null]",
+  "checked": "2026-11-23T18:42:26Z"
  },
  "Denali Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=%22Denali+Therapeutics%22+%28%22BIIB122%22+OR+%22DNL151%22+OR+%22LRRK2%22+OR+%22Parkinson%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-23T18:22:44Z"
+  "checked": "2026-11-23T18:42:26Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
