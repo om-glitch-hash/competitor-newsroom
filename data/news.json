@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:33:34Z",
+ "updated": "2026-11-24T16:47:07Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1735,8 +1735,8 @@
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Manager, Scientific Operations, Titusville - Johnson & Johnson Careers",
    "summary": "Manager, Scientific Operations, Titusville Johnson & Johnson Careers",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlMydWJfcXNKYmFCd0YwQjZoYlNtOWtWUGN4VkdqTXNXQTEwOWpESG05WVpidWFIbEpfQzhMTUZNbWtJTDI3TnZDcjVVdXF6b1pJUXNUY3NJVEhIcTJCUWtsQXZxOFFzZk1ZN0V2U1JFV3c4ZkFfZHhqNVFkREJocy1sTGQ?oc=5",
-   "published": "2026-11-24T13:19:13Z",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY0lYUmIxb3JDUzZOVmFFQ0tTVERSektObkdRQWRCQV9tSmF0UGdjd0VSUzR5bFJvN3puQjFXSW9WX1E5U0lHQ1BTb2tCX3p5aC1FeVNlMHdNbHlwTWdLZDVuNnFFZHNrY0dqcFJLZjMya3lCcGY0MmxrRURjOWhlOA?oc=5",
+   "published": "2026-11-24T13:21:13Z",
    "outlet": "Johnson & Johnson Careers",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-24T14:28:23Z"
@@ -5442,8 +5442,8 @@
    "company": "MapLight Therapeutics",
    "title": "Canaccord Genuity maintains MapLight Therapeutics at Buy, keeps price target at $21 - TradingView",
    "summary": "Canaccord Genuity maintains MapLight Therapeutics at Buy, keeps price target at $21 TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcFd6ekQ5NmtTMGRRNnR0ekdUWVdhRk44N3FSWFRZT19ybFVxU3pBMGZ5dWx2SG1iMUZLTHZHdEdnTVd0a2lXTzFtZ1c5R2xSMzM5UTRkcklhS0lHMnVFaFpjc3NLTjR4aHhLajN5TjJKLWw4Q3ViQ3g0dl9BbU9sVGNuVW5fV005VkZXMFhUaDNFWElOZDgwbVlpd21TS2hHcm1uNllrVVI3MklVeWkzN2N1amtKZDItbkt3dGlFdlJsSHJxLXQ2UFZWVjAxQm1HSUFFZjJYZWhocGc?oc=5",
-   "published": "2026-11-17T15:26:42Z",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSi1QeUhXODVfbzRTRVU4Z1Y4OGt2ekppUUMwUGhST1Q5S2pMYm1YZlNZb1hncHAzcElrVU13aFowOFpEY1lSTTBINS1tbzFOZHBkQ19hX0ZKT1FDRFR3MEo5anJfRUtUaDQ3X1Rad3VVRlE1aEhJd2Y5bVE2dlgzdG5sb012bTdfSzJUbjlnY3NrUjFYZmhnRGhEXzZkeERRcnNNalVvV1lHNU5xZFpuZFFDTnRDVlRfYUZpWEg4cWVjYWlwTzNBaFBWWGxkUmY4bDBDSnZ4R0pUVjg?oc=5",
+   "published": "2026-11-17T15:29:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T15:26:15Z"
@@ -5764,6 +5764,17 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2RmZDkyWWtEdlhPNG0zR0lvWDNqWGZmOUJyallYTWswSm5NcTNaUFAyQlNuUm5ud0UxRTI2NHRFR01xLUExd0RsaHRNQ01vdS0tWWpWMF9JUEprS3V1eDl3elZURHNGaDBaRm9uanB2VTk4QVhrdERBVmZCcEpkSFptekkydmxna2JkMl9oWktvbnRySnJqTUZtTHBuWkxFUkFFa1YxaTFSY3Y4YjFaV2hTdFJTOHR5R3JuUUJpRmo5SHFYb1RxVA?oc=5",
    "published": "2026-11-17T12:12:30Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e3d6a25165be35fb",
+   "company": "Neumora Therapeutics",
+   "title": "Guggenheim cuts Neumora stock price target on obesity program outlook By Investing.com - Investing.com India",
+   "summary": "Guggenheim cuts Neumora stock price target on obesity program outlook By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTC1NMzZWSGV5a1FEUWJ1cEdrUmx4UW1oRW9qSGtTc0o3amdTT2Y2RU5JcEFfVEJZaDZ0R0RWRTJUYnZvR1FjZGJtYVZ5VzdVMWFrcktiNDJ5VThNY0tKbnRjT3kydXdwSEpUQnpmQWN6ckVvZGxaZ2dPNlpzVGt3cko4REFnWHFaRi1oaUpMbzJMbXRaWTgwQzAxV1pQOTNwRWdGcjBHdUdobTB6UjEwdm4xdE51TVFZTnVBQmIyTHRFVXNRcHpwc01R?oc=5",
+   "published": "2026-11-17T12:09:20Z",
+   "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9750,6 +9761,17 @@
    "first_seen": null
   },
   {
+   "id": "6f9005d5b167cd6d",
+   "company": "MapLight Therapeutics",
+   "title": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. - Stock Titan",
+   "summary": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWZ3bWd4c3hxQXp0N2RLQ29SS3o2eGt0UkNBaGxhckdrSmpjVU1oQzExVmczYTY3dWRDbnJPalBER3ptdThxZXBYNWNKaExyWS1BV0p0MlpudkY2V29xQ0g5ODF5ZmdrQUNnNXpvSUhEUkE2UXZ3VGU4SzRFRTJLMXp5ejVSQVNzZzR0N1dadmdvV3hCODI5SW5yRVVMN3ZEOV9EYlVWdl9ueDNMaFFDcjh1bw?oc=5",
+   "published": "2026-11-09T21:05:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "54179aab96c92a0c",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics Reports Third Quarter 2026 Financial Results and Recent Highlights",
@@ -9944,17 +9966,6 @@
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRDdWN2pNX3ZBSjhqbGlvcjA4cjkzaG84VHFvVmZyUFRRaWExekppc1lVZUlRS3p5YTRsanlfR1dDOVBvYkJ5N3I5eUJxUldiQU53cUxLWDRYN1I4bXhUUnFWemZZRmVvZzRLcUtBUmdyZmdDbUlLdUxUcWFBYVE3N2s5OTRFdzZjOW5wVFJfRFdXN244ZFU0b1BfVEhfa2t0eWRqa3JvRWRwQ1B4Tk5OVGZhbXhrWTBvTng3V2paZXpfRjM4cDVrYmhzOU9kNnQ4RVFiZnRzeTRFcmlFbzVaQmp4QkVhXy01RUhuNU1iYlZ4SW5xWElQZ0pxclZudWNTT1E?oc=5",
    "published": "2026-11-09T10:23:04Z",
    "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "6f9005d5b167cd6d",
-   "company": "MapLight Therapeutics",
-   "title": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. - Stock Titan",
-   "summary": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWZ3bWd4c3hxQXp0N2RLQ29SS3o2eGt0UkNBaGxhckdrSmpjVU1oQzExVmczYTY3dWRDbnJPalBER3ptdThxZXBYNWNKaExyWS1BV0p0MlpudkY2V29xQ0g5ODF5ZmdrQUNnNXpvSUhEUkE2UXZ3VGU4SzRFRTJLMXp5ejVSQVNzZzR0N1dadmdvV3hCODI5SW5yRVVMN3ZEOV9EYlVWdl9ueDNMaFFDcjh1bw?oc=5",
-   "published": "2026-11-09T08:00:00Z",
-   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10619,17 +10630,6 @@
    "first_seen": null
   },
   {
-   "id": "d0effc479babeb6b",
-   "company": "Usona Institute",
-   "title": "Race for FDA-approved psychedelics heats up; Compass lawsuit will go to trial; How does psilocybin affect mouse behavior? - The Microdose",
-   "summary": "Race for FDA-approved psychedelics heats up; Compass lawsuit will go to trial; How does psilocybin affect mouse behavior? The Microdose",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yS0ZWX3ROR2VtVHAwNldlNXBWbGhZNVNhNVhHbFYxRV9RTHZlYUo0RkR4c0sxXzNtMGYtR0dGdUl6UFNfMm5hUWU3YWxCZEJDblJDZ0VfdXlLSndkbWx1ZnJLdjJMSndGT29taVRhR3AyeTljd3NVREp3?oc=5",
-   "published": "2026-11-06T16:30:51Z",
-   "outlet": "The Microdose",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "0967ecb2ed29833f",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Inc (VM4.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
@@ -10725,6 +10725,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNlJBTjBIcUVLUjVIejRheGNhOFlrRDlmcmQ4andUQVRLT3h4WVNSbTZEM3AyaEcwYThGUEw2VmdjUnNfbHZTTEFLckJUaEE1cnhKakZmbU1lcENYQVQ5ck5tbkFlR2dscWxGOUdQZVJFRFNFVG4xSlJSRk0wZkhZZlRJd3AxWTg4R0pOcDBKY1pncU9ZLXFIRk9vakdtNE9ZWTd1OW4yaTZPVFplaHpGSzBOZkR3UHlQSDI0?oc=5",
    "published": "2026-11-06T10:31:00Z",
    "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d0effc479babeb6b",
+   "company": "Usona Institute",
+   "title": "Race for FDA-approved psychedelics heats up; Compass lawsuit will go to trial; How does psilocybin affect mouse behavior? - The Microdose",
+   "summary": "Race for FDA-approved psychedelics heats up; Compass lawsuit will go to trial; How does psilocybin affect mouse behavior? The Microdose",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yS0ZWX3ROR2VtVHAwNldlNXBWbGhZNVNhNVhHbFYxRV9RTHZlYUo0RkR4c0sxXzNtMGYtR0dGdUl6UFNfMm5hUWU3YWxCZEJDblJDZ0VfdXlLSndkbWx1ZnJLdjJMSndGT29taVRhR3AyeTljd3NVREp3?oc=5",
+   "published": "2026-11-06T08:00:00Z",
+   "outlet": "The Microdose",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11983,6 +11994,17 @@
    "first_seen": null
   },
   {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
+   "published": "2026-11-03T12:12:08Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -12023,17 +12045,6 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
-   "published": "2026-11-03T08:00:00Z",
-   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -12801,7 +12812,7 @@
    "company": "Usona Institute",
    "title": "CMPS, HELP Stocks On Track For Worst Day In Months On Competitive FDA Psychedelic Race Fears - TradingView",
    "summary": "CMPS, HELP Stocks On Track For Worst Day In Months On Competitive FDA Psychedelic Race Fears TradingView",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZmZiZHc1YXl6S1Btak43dW1EZWpoWTEyZ2ZIOGVfdHZ2VVZ2X01KMXQ0d2x5QnYtNUUtckFrUXhJcVhTWmxsbnhqdGFDV3BxN1h1X04yVVBSRC15M3NXRklhdXNtX2YyYW92Zm0wMGJsV2htdHJUd1BkQ1gtYWJhRWxQMm45X0FCRzNZTll2dW9rUFdxSy1FSFZDS09NSHlzbkMwWXJnaTBMWWNCWjBkSUhTMllUWkd6N0FVUEhiYzQteDVEei1RM2lMa2tlNVRZWFFieERzdUVWX2RlcF90QWhZRkVwX0hGTXBFRkdfVEVzT0dmdlBwSFdFbnMxWUI3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQXzNVdjFUY28zcnNtSUZOSzdvV0tTNjJocmF2ajlDWjBZQ2U5NDRZQU1sYkw3N3hRd3JoWTlOVmM4dzlWWG9HVFp2cnFtWldhOWdldldmeDJsMk12b3NSVUljTXNjbVNiYnZlaGtJQWY0MWNnSVlKUVpqbWpPSWNWMWtvamJ6RkNfaDN1RkI2azNkUGVCbS11R0dYTmxQTnNTRzNjT0ozbTNLdlptdGtoSHVsd3pTYlczaFdwMW5fbGwtTUNYVFhjVkh0VktiQU45YzNRMWFVZTcyc3RoUjgxeTZGR3lKWnM?oc=5",
    "published": "2026-11-02T08:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
@@ -13582,7 +13593,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -22257,6 +22268,17 @@
    "first_seen": null
   },
   {
+   "id": "bc1e0104ff1d7b63",
+   "company": "BioVie",
+   "title": "BioVie advances Parkinson’s Phase 3 development program with FDA engagement - Proactive financial news",
+   "summary": "BioVie advances Parkinson’s Phase 3 development program with FDA engagement Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeVFJZEE4aFRETXpqX3JISkhrOURvVUFaSGEzVWJXeDdNcHRSeHg1c0g3d3NPNHA1VFJXQzdnenhjcGstZTVRc2JvSXk0X01QbXNZdUh3YU9MX1RPcDRGZ0ExSTZHc2lXbmZ4NDB2N011OEZVd3oxbWRvT0YwZ2hiRnFuMDVUMWphQmllOXZGOW91ei1rZG1OZThOUFJhREJybENITEtHX3NOdlh6WEpxRV8xQjlYN1FhcEg4UlRheUhxWEVkd0J2bnNoYjMydWtfQUYxbDRpMmszV3RfNnU4?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d08ab66bdfae19bb",
    "company": "Newronika",
    "title": "AlphaDBS System - Newronika",
@@ -22561,6 +22583,17 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0pPN0Utc3BhaGg4ZWNNdGEweEhmRHFlM0ZWMHZTRTRqdXYtdzZRWTJJSXVjRzBBUUNBVlVoSGxhcUphVVZ6N21Xclc5ZjVzX2YwRlF1TFVuUExGcHJUdHB0UFFNNmJYLTRtOWljc3phRGRYbGpkaWw5cDlzS0lNWEl5QUZ6aXh5ZnVwQUhZSENoaWFKa25rT2FZSXhpQQ?oc=5",
    "published": "2026-09-03T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "29514c741ec45985",
+   "company": "Lundbeck",
+   "title": "Lundbeck moves from rebuilding to “scaling phase”, Jefferies says - medwatch.com",
+   "summary": "Lundbeck moves from rebuilding to “scaling phase”, Jefferies says medwatch.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wa0xqLW9Lb3ZuWWZxSFl4OUI4dFV0S2NIR2tydWtIeVJ4Y0FRLUhOV1ZhNXJ4ak0ybHhvZGlKNTdaY1l3RGd1SVlOeExSLWpXUGsyRzZQbEs2M0JMc2RJRHpxMVhNYmlRbW5HS1ZGZw?oc=5",
+   "published": "2026-09-03T07:00:00Z",
+   "outlet": "medwatch.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -42046,6 +42079,17 @@
    "first_seen": null
   },
   {
+   "id": "0e6c2a06f9d57d73",
+   "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
+   "title": "Lilly buys Ventyx in $1.2bn deal to tackle chronic inflammation - BioXconomy",
+   "summary": "Lilly buys Ventyx in $1.2bn deal to tackle chronic inflammation BioXconomy",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWnI3SmJFUkh2aGNEeVJocTdxYWRPSW1ZUm5IMUpyd1lMZVlHS0VQODc2bGpISVZQbzdaNlo2dUZfUnVzeHk5aFZGU3R3dzVCUVU4eUk5R0RMWnQzd2wwekhCa0haNkFoMnVYVFR2bmZJamkydHI0US1KYWFnMjdaalB3c3FaRHFTbGdFZEpNZGZUTTc0aG9MWDVwcEhTMzVUb1E?oc=5",
+   "published": "2026-01-08T17:15:09Z",
+   "outlet": "BioXconomy",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
    "id": "c1720d230ad96d15",
    "company": "Supernus",
    "title": "Our Science - Indivior",
@@ -42299,6 +42343,17 @@
    "first_seen": null
   },
   {
+   "id": "bf3c7e2a27a54d9e",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc. (HELP) News, Articles, Events & Latest Updates - Stocktwits",
+   "summary": "Helus Pharma Inc. (HELP) News, Articles, Events & Latest Updates Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hWEhWa3hYNGlWaldlbUdxQmF4NmttMk84aDAtM1hkekM1SFNveHo2OHBMRkJqZ25KUUtzc1BLTkRsb2hPR2VNNTkzZk5ORVd2?oc=5",
+   "published": "2026-01-07T08:10:20Z",
+   "outlet": "Stocktwits",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1668d1886e6d0c7f",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics Announces Accelerated Initiation of RAP-219 Phase 3 Program, Expansion of Epilepsy Portfolio, and Continued Progress Across the Pipeline - Rapport Therapeutics",
@@ -42538,6 +42593,17 @@
    "published": "2026-01-07T08:00:00Z",
    "outlet": "Pharmafile",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "40ff03e28a131626",
+   "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
+   "title": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - PR Newswire",
+   "summary": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTdQNkxGeGxORjhINFBUb3JCNVh0SnB4LTVBaUo0VUR1eVYxTGVPbHplNlM2T0Y3eVNtakJFdXZEOVRUQkxUazZlczVfVUs1S3dRaTlqX0oxNUNqT0VTcFl5NklJS2lZYjR5NjJ4VV8ySDU5cXYwUElBRU1jWnlUajl1NW9XT19WaTBWcDJGUldMMUMyOFhLYlNLTTN6VkU1d0FXX0FYeHNHdjBMZDhMc19JRDB6TnVOUkUtWmoyY2F4OWQzNkZfYllONHA3b1JsdnBrRE5sYmtqQ1U5M2ptbzl6aXk3SkZKcDRWeVQ4VQ?oc=5",
+   "published": "2026-01-07T08:00:00Z",
+   "outlet": "PR Newswire",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
