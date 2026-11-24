@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:28:23Z",
+ "updated": "2026-11-24T15:33:34Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1735,8 +1735,8 @@
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Manager, Scientific Operations, Titusville - Johnson & Johnson Careers",
    "summary": "Manager, Scientific Operations, Titusville Johnson & Johnson Careers",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY0lYUmIxb3JDUzZOVmFFQ0tTVERSektObkdRQWRCQV9tSmF0UGdjd0VSUzR5bFJvN3puQjFXSW9WX1E5U0lHQ1BTb2tCX3p5aC1FeVNlMHdNbHlwTWdLZDVuNnFFZHNrY0dqcFJLZjMya3lCcGY0MmxrRURjOWhlOA?oc=5",
-   "published": "2026-11-24T13:21:13Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlMydWJfcXNKYmFCd0YwQjZoYlNtOWtWUGN4VkdqTXNXQTEwOWpESG05WVpidWFIbEpfQzhMTUZNbWtJTDI3TnZDcjVVdXF6b1pJUXNUY3NJVEhIcTJCUWtsQXZxOFFzZk1ZN0V2U1JFV3c4ZkFfZHhqNVFkREJocy1sTGQ?oc=5",
+   "published": "2026-11-24T13:19:13Z",
    "outlet": "Johnson & Johnson Careers",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-24T14:28:23Z"
@@ -1784,6 +1784,17 @@
    "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T13:06:45Z"
+  },
+  {
+   "id": "663d15a31443949a",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport to Present New Long-Term Open-Label Safety Data in Focal Onset Seizures and Analyses of Seizure Severity and Burden at the 2026 AES Annual Meeting - WBOC TV",
+   "summary": "Rapport to Present New Long-Term Open-Label Safety Data in Focal Onset Seizures and Analyses of Seizure Severity and Burden at the 2026 AES Annual Meeting WBOC TV",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYmFJaVJzeXRNdlZJN1pvVW1zX2Z0MEdvYjVDZG9kM1JCVWYzX1JSOWlfazVIY3Y2S2t5NFlVNV81LUlJYzRPcGV5c3dST0JLQnlyNk5OZnhSYUJNU2tSNkJEZno1Q3RFeW1hdTJiRlRXVEpIVlM3M2xQMTBNWnZjNnRwZHd4RnRiUlZkVFVrejFwZVYxZHFSaU9hTGF0VTJnaE1TRzV6eExJSHFKNjVFaGxWWXh6SkpkMV9hS1ZjdV9VamZENHNzdkxMX2duVVB2XzU0aGhsaXBZR3IwTGNuUDNiX2RGTjQtMDVtMFQ0YlJOYk1UX3M5WDFkT3BNQ1BXYjk3V0ROTGZNSjVZVVZ6RWJjaw?oc=5",
+   "published": "2026-11-24T12:00:00Z",
+   "outlet": "WBOC TV",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T15:33:34Z"
   },
   {
    "id": "e802e6d629eb711c",
@@ -8474,6 +8485,17 @@
    "first_seen": null
   },
   {
+   "id": "840bb9adcb226723",
+   "company": "Incannex Healthcare",
+   "title": "IXHL Q1'27 Earnings: EPS estimate is (0.51) USD - TradingView",
+   "summary": "IXHL Q1'27 Earnings: EPS estimate is (0.51) USD TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFNUNzFKZWNUM0JzdGx0THhmbktYelNCOUVmV1pXbUY2R3FmRlpCdUlIYnN3Y2w0MDdWWjg4c2w4NnFKR2FNZGxucld3RWxOcW9CaUFmc2tJNVR0allkRFh2V0pRN2JXaGZWQWgzNERNcS1qTWNQUnlsMEtwZVJTcXhTT1N4SmtCeDVPNHVqS2pqZkRSa2VlTXdRUThqODEybzlEV1BYbnAxQQ?oc=5",
+   "published": "2026-11-12T12:00:05Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f040d368a6d004e1",
    "company": "Xenon Pharmaceuticals",
    "title": "Analysts Offer Insights on Healthcare Companies: Xenon (XENE), Veeva Systems (VEEV) and Liquidia Technologies (LQDA) - The Globe and Mail",
@@ -11961,17 +11983,6 @@
    "first_seen": null
   },
   {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
-   "published": "2026-11-03T12:12:08Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -12012,6 +12023,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -12551,6 +12573,17 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zdnptN2gxMlBkY1p2MzU1aDFJQl9wUkt4WTQzSEx3VWlDNDIwZzUzYzFicTE3Umw0YWFUWHhGTi10czRKdm8tdzJTd3VMQ3lGanRuVjFuYVVrMVBu?oc=5",
    "published": "2026-11-03T08:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f76ebec6ab0a5f2f",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics (SER) Edges 1.08% Lower to $1.83 as Shares Drift Toward Lower End of Range - Donchian Channel - siam.in",
+   "summary": "Serina Therapeutics (SER) Edges 1.08% Lower to $1.83 as Shares Drift Toward Lower End of Range - Donchian Channel siam.in",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLVpFNnNxZ2pmTmRlbnBkdm95MjBTUG53RGtSbDROVThBSlMyeC1JMmZRUURsUG52QTJXVmdRUFBuTmxhbTM4LVFkejVsbGIxU0ZTaUowbHcyZ09IOGIyRVJVbFpGNV9MZWJZWmdVamhydjQyc2VtX1ZqUHZEMWlwZFRjQzlmMXhGaUpTajkxMGdRQWViaEFTYlhsaG5QN0txdHJESkhNNFhhR2lVbDBNRi1hRWFBWFRVanhvbUpfTjBRazBvTFBJZWl2X3E?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "siam.in",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16064,17 +16097,6 @@
    "first_seen": null
   },
   {
-   "id": "3e7fe3cbb00b00ed",
-   "company": "Rapport Therapeutics",
-   "title": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target - Moomoo",
-   "summary": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1FfaExBZkFyNmFDSUZaV2FDdXctTHM0X09XWEhDaGhCdzV3dXJydXRpLUhkdlNNTG91VW54T0w0TGc3V0NXS1VUVmtDQlFfQWktOFVlVVRMVmo0ZjBBS1k4MHZFM1ZtTkIxUDU1WUx5MVF1bm4yYTMyVzJjQzV0ejlJUl9qQXpWMVhnU3V1aWdrdDNIUEdtUy1DZGdFcHhEdVBkaXluSGp0UQ?oc=5",
-   "published": "2026-10-15T17:35:40Z",
-   "outlet": "Moomoo",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "e665b7b7fa138903",
    "company": "Roche",
    "title": "Playing walking soccer may help people with Parkinson's disease - www.brainhealth.com",
@@ -16116,6 +16138,17 @@
    "published": "2026-10-15T10:00:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "3e7fe3cbb00b00ed",
+   "company": "Rapport Therapeutics",
+   "title": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target - Moomoo",
+   "summary": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1FfaExBZkFyNmFDSUZaV2FDdXctTHM0X09XWEhDaGhCdzV3dXJydXRpLUhkdlNNTG91VW54T0w0TGc3V0NXS1VUVmtDQlFfQWktOFVlVVRMVmo0ZjBBS1k4MHZFM1ZtTkIxUDU1WUx5MVF1bm4yYTMyVzJjQzV0ejlJUl9qQXpWMVhnU3V1aWdrdDNIUEdtUy1DZGdFcHhEdVBkaXluSGp0UQ?oc=5",
+   "published": "2026-10-15T07:00:00Z",
+   "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -19320,17 +19353,6 @@
    "first_seen": null
   },
   {
-   "id": "eda59f58d62a00e5",
-   "company": "Eli Lilly",
-   "title": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. - Lilly Trials",
-   "summary": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. Lilly Trials",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJOXc3XzMyUzdqVjc3U2ltOGpkVGZVVTAybXFBZ3p1SUlaRGQ1dlpoNVE0a0gwV21zWjFXdHdlREtEbENXZ1ozNFNGOTNhZlY4dTZrWFhB?oc=5",
-   "published": "2026-09-23T21:43:04Z",
-   "outlet": "Lilly Trials",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "eac2527b6b37b402",
    "company": "Aspen Neuroscience",
    "title": "Bratt-Leal et al. 2026, Cell Stem Cell",
@@ -21678,7 +21700,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Participate in the H.C. Wainwright 28th Annual Global Investment Conference - TG Therapeutics",
    "summary": "TG Therapeutics to Participate in the H.C. Wainwright 28th Annual Global Investment Conference TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nYVJILUlDX2s0a2ZqVE1OUHBlUGNiX2NGSlI1dFNpU0RreWJzRm8wcGJWUEJuZWxkVmt0elN4VWU4azNRNVFCU3JaM0N2ejBiTTVwRXFrWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9CQ3p4bHNGeFpBb0lwc0VOZC13ejNWcmlneU04WTdKbDlWd0hHMy1Eb1JJWnI3NjktaEUzVlp3czBGenhyU19ya3Jnbld6ZExhR1RwTVpPdDFUUFVWSU5iRGtIeTlBcTFzWXNqOHlrY1B5RENrT2ctY1JacnRUX3E2a0ppV1NCUmtkcEZHcldrUlRDTDg5NGt2R2w3OHZnLVNGQXBGTlVkZUxmQ2J4XzExbzVCLTJBM0JyN0VlR1BrT2s?oc=5",
    "published": "2026-09-10T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -22220,6 +22242,17 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUktdmJLMEEtMFk2dDVJR1hkcTE2ZU5ROUZKZV9Jek9vY2xkNXhvekozUHhSSXR6T1YzVzBVdWRJaHhmX1lsYkprRFMyZktrQ21RbndBdENoZXMxNU5pcmJBRE4tTmt2cWR3aVJkMWEtb0JSSk90TnJKNEZ2RUE2N0o3NjAtTEZOOVhMVmN4QTZyZG9sbmRXbmVB?oc=5",
    "published": "2026-09-08T07:00:00Z",
    "outlet": "Investing News Network",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6907a0f89c6b23d1",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Reports Subscription for EUR 5.5 Million of Shares - GlobeNewswire",
+   "summary": "Newron Reports Subscription for EUR 5.5 Million of Shares GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQMzFjb0xvMXlQc1lpR2ZIV2d1T2JJRzdyaWxsLWhrUWZORTRyWEpiV1UzR0h6VFg4SGwtRllkT3MzbndiY1NxWVNBUFUwX1ljaTVudWJfbHRXaXlJSkhoYzJMV0JCWXRwWlRlazN2SzdYbHJrb3BmZWdSUVBqbElMTS1oZ1drV3ZiYW5Da0w3Z1BrM3ozN3M1d2k0UlFKbXZWQktvaTRWUWRBdWdNU0RBRjUxU3hQQ1pMNktyMUFFQ09DQTZnSVgzcnF1QjBfcHMyRGtfNGtGclNqZE40MzhIS3FyaVRkUlJLbHVaRTY0NG9tQ0tJN0JPaVZnTkF1a21yeHN5bmJITmgzSk4zQV8tOFp4bXdPcXhWMXMtYkJXNm1MZ1A4S1lpc0xJMlJsYUZTV1lvRzJNdjFpWmN4Vm1KTUFXbnFTdWpIQkE0b19pWUlNZw?oc=5",
+   "published": "2026-09-08T07:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -23440,6 +23473,17 @@
    "summary": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. (RENEW-MDD- 2) Lilly Trials",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Rd3hTT0gxV0c2dFlnLXZiUWxiWHZTSVd2RHQ0SDNlVWZaTS1idGFEVVY1YnZUVXhLbTF6elFGbVNOM0xWM1R6TGNoVloxM2RiUHpHZzZB?oc=5",
    "published": "2026-08-22T08:19:24Z",
+   "outlet": "Lilly Trials",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "eda59f58d62a00e5",
+   "company": "Eli Lilly",
+   "title": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. - Lilly Trials",
+   "summary": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. Lilly Trials",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QTTlPQUpBUVpQQ21LTnlRc1ZjZnlBUUNteE5KS1F3aDhNdmU3Z0NQUkEzSWJIQ0VsSkZMSTNSa01KaE1SOUdXcmZBa0dSX2VNZzR0Mzd3?oc=5",
+   "published": "2026-08-22T08:19:22Z",
    "outlet": "Lilly Trials",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -29854,6 +29898,17 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQejZhX0lZX2hJUFhONU9tUERJS1VaTXhIeTZXdHBJM01aTDl1LUR2TXFGQ0hUTEkyVmYtaWZVM0pqRjB0SlVQSndDbWpXbE1uaTF1THdmZ0ZxTmltek5iZGZMV3B0ZDVVdm5iM1dEOEhuZmlxaUVvazlldjB4T3ktMThkVU5fakhHZmtkLVlNbkRXdGlZWDk3QXpFRjAyRENxa0dzR0U1SzMxLXFtSW5pbUl2ZTNaWUVzWnRBWkVCQW82ZGY5bjdQOHZGUXl5aWlxbUV5Sndtb0Q?oc=5",
    "published": "2026-07-06T07:00:00Z",
    "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "dff5c6136aed88b3",
+   "company": "Incannex Healthcare",
+   "title": "Price to earnings forward of Incannex Healthcare Inc. – NASDAQ:IXHL - TradingView",
+   "summary": "Price to earnings forward of Incannex Healthcare Inc. – NASDAQ:IXHL TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMzdTQ1ZzS1h3WjZIYW5wVWw3RmRsY29TU01VSlMtaW9DalBRX2VobEtIc29pV3Rmd0J5SmVtMWlQajZlU05WRnAtRmc0ZW9WWlFSSUlGTXNHZ0lTZFBXTGYxNDFMUnltRUhCR0x6aDdnQ0ppck8yWl9ZZFhZcHZfZzhEbUxETHQzTmktcFhtOWtBdllQSUR0R3pIWjQ0NE53OXc?oc=5",
+   "published": "2026-07-06T05:44:08Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
