@@ -205,10 +205,10 @@
   "checked": "2026-11-19T17:11:01Z"
  },
  "Gain Therapeutics": {
-  "feed": "https://news.google.com/rss/search?q=%22Gain+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Againtherapeutics.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.gaintherapeutics.com/news\", null, null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-24T07:08:19Z"
  },
  "iCamuno": {
   "feed": "https://news.google.com/rss/search?q=iCamuno&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-24T05:58:33Z"
+  "checked": "2026-11-24T07:08:19Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -602,10 +602,10 @@
   "checked": "2026-11-22T22:16:02Z"
  },
  "Roche": {
-  "feed": "https://news.google.com/rss/search?q=%22Roche%22+%28%22prasinezumab%22+OR+%22Parkinson%22+OR+%22synuclein%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Aroche.com+%28%22prasinezumab%22+OR+%22Parkinson%22+OR+%22synuclein%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.roche.com/media/releases\", null, null, [\"prasinezumab\", \"Parkinson\", \"synuclein\"]]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-24T07:08:19Z"
  },
  "AC Immune": {
   "feed": "https://news.google.com/rss/search?q=%22AC+Immune%22+%28%22ACI-7104%22+OR+%22AC-7104%22+OR+%22Parkinson%22+OR+%22synuclein%22%29&hl=en-US&gl=US&ceid=US:en",

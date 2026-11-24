@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:58:33Z",
+ "updated": "2026-11-24T07:08:19Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "a0b0a8544c450aa6",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron strengthens evenamide intellectual property portfolio - News-Medical",
+   "summary": "Newron strengthens evenamide intellectual property portfolio News-Medical",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0hNd3dud3BVOVZtSVpDY1pXNHRROEowLXp6WTRheFdtbUZRYzFSdnR0ODFvUXBaM1B6TlgtV19wQUM4MUN6VmNhT0EzZURiX2ZheFF1YUp4anZDNllPa2VZbmEyTXF3Y3gxSExwdlR2TmtMQi1TbnBpN0o3aFFsdlBKV0xwbzRkTC1GdWtrT1Q1Ml84TEFSLVNmQlQ4dHlEX3R5WGF3R0hidkhB?oc=5",
+   "published": "2026-11-24T05:59:00Z",
+   "outlet": "News-Medical",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T07:08:19Z"
+  },
+  {
    "id": "b3c1216522e0fe9e",
    "company": "MapLight Therapeutics",
    "title": "Director George Pavlov Buys 20,000 Shares of MapLight Therapeuti - GuruFocus",
@@ -1973,12 +1984,23 @@
    "first_seen": "2026-11-23T08:03:38Z"
   },
   {
+   "id": "055b21f3ece10160",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron’s Evenamide European Patent Clears Opposition Period - TipRanks",
+   "summary": "Newron’s Evenamide European Patent Clears Opposition Period TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQW85M0l5Zmh5NWp5Y2QtRXhGdzBPdFkwaVhtX1RnV0dlOFVJVHZwVTFFOFNSYWt1QzdMaERCTmJEVXhaNHhobjZ1RldVSVo0Yk5ERmFSRHFITUdnaVZSS0dqX1NjWDhVcXJ2N3g2UjVtN3RxZjZseFlhdE9QaHNMMFhmdnl4eW9RVm1oLWlveG82Mnl6RW9vbVdPRjBuUmdqQnNXQ2ZhYTJlT3NULUpj?oc=5",
+   "published": "2026-11-23T06:34:44Z",
+   "outlet": "TipRanks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T07:08:19Z"
+  },
+  {
    "id": "39446c838e66367d",
    "company": "Newron Pharmaceuticals",
    "title": "Newron’s Evenamide Patent Protection Reaches 2044 in Europe - TipRanks",
    "summary": "Newron’s Evenamide Patent Protection Reaches 2044 in Europe TipRanks",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFYzTE1HRVNxN01EMm1URWREakhTejZsTDY4RHBIeW0weXF3b2Z3WGtja3FWVjFSNjFiQ3Y4aFpPNjNsQXB0cTVYaFhjTnFuQktOMU41ellpcGE0UHhFdDBUVFNORWZBdllEREN3czdLUEQ5S0hGWUs4SHd5VlFKR2E3YkJIcHd3Ukx6cW5McmFqQjhNUElpR0R1aklmTjNyVF9uRGtFS0JxcnFQWTJj?oc=5",
-   "published": "2026-11-23T06:34:45Z",
+   "published": "2026-11-23T06:32:36Z",
    "outlet": "TipRanks",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T08:03:38Z"
@@ -9497,17 +9519,6 @@
    "first_seen": null
   },
   {
-   "id": "6f9005d5b167cd6d",
-   "company": "MapLight Therapeutics",
-   "title": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. - Stock Titan",
-   "summary": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWZ3bWd4c3hxQXp0N2RLQ29SS3o2eGt0UkNBaGxhckdrSmpjVU1oQzExVmczYTY3dWRDbnJPalBER3ptdThxZXBYNWNKaExyWS1BV0p0MlpudkY2V29xQ0g5ODF5ZmdrQUNnNXpvSUhEUkE2UXZ3VGU4SzRFRTJLMXp5ejVSQVNzZzR0N1dadmdvV3hCODI5SW5yRVVMN3ZEOV9EYlVWdl9ueDNMaFFDcjh1bw?oc=5",
-   "published": "2026-11-09T21:05:00Z",
-   "outlet": "Stock Titan",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "54179aab96c92a0c",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics Reports Third Quarter 2026 Financial Results and Recent Highlights",
@@ -9702,6 +9713,17 @@
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRDdWN2pNX3ZBSjhqbGlvcjA4cjkzaG84VHFvVmZyUFRRaWExekppc1lVZUlRS3p5YTRsanlfR1dDOVBvYkJ5N3I5eUJxUldiQU53cUxLWDRYN1I4bXhUUnFWemZZRmVvZzRLcUtBUmdyZmdDbUlLdUxUcWFBYVE3N2s5OTRFdzZjOW5wVFJfRFdXN244ZFU0b1BfVEhfa2t0eWRqa3JvRWRwQ1B4Tk5OVGZhbXhrWTBvTng3V2paZXpfRjM4cDVrYmhzOU9kNnQ4RVFiZnRzeTRFcmlFbzVaQmp4QkVhXy01RUhuNU1iYlZ4SW5xWElQZ0pxclZudWNTT1E?oc=5",
    "published": "2026-11-09T10:23:04Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6f9005d5b167cd6d",
+   "company": "MapLight Therapeutics",
+   "title": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. - Stock Titan",
+   "summary": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWZ3bWd4c3hxQXp0N2RLQ29SS3o2eGt0UkNBaGxhckdrSmpjVU1oQzExVmczYTY3dWRDbnJPalBER3ptdThxZXBYNWNKaExyWS1BV0p0MlpudkY2V29xQ0g5ODF5ZmdrQUNnNXpvSUhEUkE2UXZ3VGU4SzRFRTJLMXp5ejVSQVNzZzR0N1dadmdvV3hCODI5SW5yRVVMN3ZEOV9EYlVWdl9ueDNMaFFDcjh1bw?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10637,6 +10659,17 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlg5eGJ1UVhLeGxjQnZsQkxFbTJLeXhsbG9yUUt6ZEx3VWVsbXlDdmItRGU1d2VBZzlaZ3I5ckplcGFzSWFHN0tnemtZWmdoUnZpMnlFMmlLZGMxSWtLdDk3X2hzWV9tb09qWmQyb1F0TmMzeUlPdk1xYWZIVXBrUkpoUGJwbTViaXlHWVY1ZHNSb0lRMXlWMDdaekkxVkxjaGc?oc=5",
    "published": "2026-11-06T08:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5e16566fec2b2ee9",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals (LBRX) Institutional Ownership 2026 $LBRX - MarketBeat",
+   "summary": "LB Pharmaceuticals (LBRX) Institutional Ownership 2026 $LBRX MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ISGlvdXl4T09MbnN3YnJ6ZkQzYXJ2WDJsNl9VZWlsNHhxZjYwSzFRSS1vZzhaMzNCS29YNVNWb2p1V3UwTkJvaXhhZC1lLUlVQm5VcnQ1Um1VcENBdnREUmdvZVVFN1pER2FDbldlZ2pCNkRyQjRvMDB3?oc=5",
+   "published": "2026-11-06T08:00:00Z",
+   "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11697,12 +11730,12 @@
    "first_seen": null
   },
   {
-   "id": "e3fe4e1b0b5419a6",
+   "id": "65bc17bd4c26969f",
    "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
-   "published": "2026-11-03T12:12:08Z",
+   "title": "Third Quarter 2026 Financial Results & Business Update - Alkermes",
+   "summary": "Third Quarter 2026 Financial Results & Business Update Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdXB3N3ZyczBlek9pM1E5RTRLR0RxUE94UC1zamdQMFA2LUEyMWEwMHhpU0RPR1p2akQyWUtBWjNPaE1sMlhhZ29RcHljY2FITWhabTdEN3dSOXliYXJDclM0U1RBMTJocnA1ZHlFRlFpN3ZQZ1NYZmhvc3g0Z3hrb21Gdi1jdw?oc=5",
+   "published": "2026-11-03T12:47:08Z",
    "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -11748,6 +11781,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -15730,6 +15774,17 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc21kWkw0dGZud3JpWjBFYkF0M3l3UnNsRDBzaC15b0pfYkR0VFBodVVLU2x6Zi1YNkRNWmdMcmVTNjF5QzdubnBVeDh5c2RjdjZCNVBCdnpCTThYTXAtU2NyRkJSUWpsa2tRY3pqQ3FjRGc3VW8yWUxGMTVWUFVOcktYMGt4T2U3TEZORjZqMWE3N3Z5VDNuMUw4TnZPUGU1Y01hMnd6VVl0eVBQeUw2bi1rb19XcG9abmcyYkF5cw?oc=5",
    "published": "2026-10-16T07:00:00Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "eaac6096e935db47",
+   "company": "MapLight Therapeutics",
+   "title": "What date does MapLight Therapeutics, Inc.'s (MPLT) report Earnings - Earnings Calendar & Announcement - Zacks Investment Research",
+   "summary": "What date does MapLight Therapeutics, Inc.'s (MPLT) report Earnings - Earnings Calendar & Announcement Zacks Investment Research",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yUXJGVHkwVXZUdUJZLXZYR2JnNzJWcWkwalZWajNEb1g5X2lYWmdyeTlhZlZZVHdUbGRWVWxjNzQwbVA2UGRNOS1PWjZ2ektSNW5hbEd4RDVkbzJoR0NuLU1vZTl2R0NHVWFF?oc=5",
+   "published": "2026-10-16T07:00:00Z",
+   "outlet": "Zacks Investment Research",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -21304,7 +21359,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Participate in the H.C. Wainwright 28th Annual Global Investment Conference - TG Therapeutics",
    "summary": "TG Therapeutics to Participate in the H.C. Wainwright 28th Annual Global Investment Conference TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nYVJILUlDX2s0a2ZqVE1OUHBlUGNiX2NGSlI1dFNpU0RreWJzRm8wcGJWUEJuZWxkVmt0elN4VWU4azNRNVFCU3JaM0N2ejBiTTVwRXFrWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9CQ3p4bHNGeFpBb0lwc0VOZC13ejNWcmlneU04WTdKbDlWd0hHMy1Eb1JJWnI3NjktaEUzVlp3czBGenhyU19ya3Jnbld6ZExhR1RwTVpPdDFUUFVWSU5iRGtIeTlBcTFzWXNqOHlrY1B5RENrT2ctY1JacnRUX3E2a0ppV1NCUmtkcEZHcldrUlRDTDg5NGt2R2w3OHZnLVNGQXBGTlVkZUxmQ2J4XzExbzVCLTJBM0JyN0VlR1BrT2s?oc=5",
    "published": "2026-09-10T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -23033,6 +23088,17 @@
    "summary": "Jennifer Buell, Ph.D. Protagenic Therapeutics",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOemFxWjFHVUtFTVJ4cTctZEZFdWV5NWhTV3ZvSkpPeE9xc1lkSml0UDI1dlZXaE9NS2l3SzdpU19wbGtWOTlYSjluUndwc3hGRDdzSg?oc=5",
    "published": "2026-08-23T05:53:12Z",
+   "outlet": "Protagenic Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "d45c9127ff193dfe",
+   "company": "Protagenic Therapeutics",
+   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
+   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rbEJYVVpIYU9xX1VZa28wOTdDRUxIdkFrMTdCT1VDUS1OYnRNbmdvWTZlenY3Mk5XSXlQNVprTFNIWDNOc2pxSzZhUkExYklscVE?oc=5",
+   "published": "2026-08-23T05:44:04Z",
    "outlet": "Protagenic Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -25161,6 +25227,17 @@
    "first_seen": null
   },
   {
+   "id": "0db1341807489cf0",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Progresses Krabbe Disease Program and Provides Scientific Update - Gain Therapeutics",
+   "summary": "Gain Therapeutics Progresses Krabbe Disease Program and Provides Scientific Update Gain Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT3I0MVgyXzNqQ3ZGOVZMVUJaZUwyaGwxajhydTlTX21WZG42a3dqVTA5OHd4UGNoUjVuQXJxV2NwOVB6Y1BhcndHT083N1JJcmt0dndISkduVjVyeXQ0YTJZX19tU1l4NlNWME9NMWEwYW5rQ1U0Z1BVZXR4TTRyVlJUYlI1YkVQd2lzMXQ1bWtUbU0xeGZqOVFZZU5sZXczUmZKbF9tUWNmMVVENFA2YzMyZFNxeXl2RGd0Y2hGeXVybHNPOGRET21LNHRFNUVHeUJYWGlHb25HQVp4a3FOSnBpS2JMMGFoR0lTag?oc=5",
+   "published": "2026-08-08T13:39:56Z",
+   "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "11adc51237db5337",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics (ASX:ATH) CEO David Stamler on upcoming milestones - YouTube",
@@ -27060,6 +27137,17 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0s5a25oSGZhM1JKOC1ZMURHQUlfWW81em1WdEhySW9admZLRFJHMjc5SUhkcl9FQ1V3YnFtczZwS0hjVEo4RmJ5MnZFZHRtcFNjQXZ3YVJVa1pac213SzM1TXpnM0twYkR5YzdQRmhfSWk5Z09DTG03eGxKci1kRVBPYm5fRHRjZ1NMWDYxOFg0NmRfRHNza2dnZk45N01FTEdqSVVETE5SNEZZUmJiMGVMT3M?oc=5",
    "published": "2026-07-27T07:00:00Z",
    "outlet": "scanx.trade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e7cf4290a3bec213",
+   "company": "MapLight Therapeutics",
+   "title": "MPLT Stock Plunges 73% — Wipes Out Over $1B In Market Cap After Trial Miss On Once-Daily Dose - Yahoo Finance",
+   "summary": "MPLT Stock Plunges 73% — Wipes Out Over $1B In Market Cap After Trial Miss On Once-Daily Dose Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEh2TDJnaHpSUG5uanUtRWFFa3F4MnVVc0xhclJqY1pJcXdFNzFrcmRlMGxvVVJlNW9UaU9MRFpzNV9xWVVvMFpYMWZtVkFCQlVvdU5RUE93S2hMQjNGTHRBVHpKZDA0N3dKWlA2aFZnV1k1dHlXWFQ5b3F3ZFhQNTI5QS1GTTNNTkt1cHRBX3JhUQ?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -30309,6 +30397,17 @@
    "first_seen": null
   },
   {
+   "id": "faf1e875a4e03142",
+   "company": "Protagenic Therapeutics",
+   "title": "Timothy Wright - Protagenic Therapeutics",
+   "summary": "Timothy Wright Protagenic Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55Mjh1RzV0N0lYOVBaUDQ5MU5ncW1oZTRPZ0U0RWVqaUlCcFV6UjNYXzVIalhFOGlHaXNSN1VhWFpBLWlxYk9peHgzX0FVVTJuUDRxZA?oc=5",
+   "published": "2026-06-25T10:10:55Z",
+   "outlet": "Protagenic Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "f6ec842c85e66fd5",
    "company": "Incannex Healthcare",
    "title": "Incannex Secures U.S. Patent Grant for IHL-42X in Obstructive Sleep Apnea - Incannex Healthcare",
@@ -31464,6 +31563,17 @@
    "first_seen": null
   },
   {
+   "id": "fce751edce6c9c04",
+   "company": "Gain Therapeutics",
+   "title": "GAIN THERAPEUTICS - Gain Therapeutics",
+   "summary": "GAIN THERAPEUTICS Gain Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXhMc2lJaXMxNWM2TmR1UW1Femd5SkgtR0lOMWtqNk9YRlRpZzhnbXY2OWV5bElXVDFDajVuSXNuTHUyVG11Qm5xSDZXWXE4bFFMc0FSM2RXeGlxTzVWaWxHVmVRNVZ4TDBaejRTMGFfY0txTW1UZXBfNE1zOGtNaVgxV1ZmTGJ4c2Q0Xzhjc3FzdWM?oc=5",
+   "published": "2026-06-11T23:49:23Z",
+   "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "4bcb6bcb6d085707",
    "company": "AC Immune",
    "title": "AC Immune to Receive Research Grant from Goradia Family for Development of ACI-7104 in Parkinson’s Disease - AC Immune SA",
@@ -32608,6 +32718,17 @@
    "first_seen": null
   },
   {
+   "id": "fd696c08ebeac3b6",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Presents Positive Interim Data from Phase 1b Clinical Study of GT-02287 at 3rd International GBA1 Meeting 2026 - Gain Therapeutics",
+   "summary": "Gain Therapeutics Presents Positive Interim Data from Phase 1b Clinical Study of GT-02287 at 3rd International GBA1 Meeting 2026 Gain Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNOHZtS3FfekxGWWdIRURRWV9QWU9BcXBzbHFnQ0E5WUZOMEs0bmRfV2p0WGg4ejROaGd6NlNkMmJJMU1RV01iTnNHRFZoOFp5UE0wUndiMXZrRzF3bjhkZUF4QzdEa0JoOWRRU193U0tOaHJWR3o1T2ZzSlRTUzRubkg0VlZ5dmo2a2FwbE1waG1SUXdTZDVPeXhlWXA3NnpKV05USlB5dElxNkNGZEVRUWpuVkdDSUZzXy1MQ3UyWnNOd0RHTXRpRklzN3JBMzh0aHU4NC15bVBlWW1tSlBoTm1UYkRaUmxPZlg3Wk93bkM1dmJrcnFzVzcyeE9jZkktM3pGVktJMzdBazJBbzFQWE1tNnBMZXp3T2tGdTdLd2Z0bmMzWlVVSkJ3?oc=5",
+   "published": "2026-05-26T16:49:18Z",
+   "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "be1a5392a0371fe1",
    "company": "Gain Therapeutics",
    "title": "GANX - Gain Therapeutics Inc Stock Price and Quote - Finviz",
@@ -33672,17 +33793,6 @@
    "published": "2026-05-15T06:47:07Z",
    "outlet": "Being Patient",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "d45c9127ff193dfe",
-   "company": "Protagenic Therapeutics",
-   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
-   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxeDQtN0l6ZERYZ2RGbVBlZGY4TzJmS3VfS2RvVEFZOTc5ZF9ObFVRUGVpNnZmUExOYlBlTGxFcHpZUWFKTWxLY24wVmV0cDMtMld5a25LTQ?oc=5",
-   "published": "2026-05-15T01:07:39Z",
-   "outlet": "Protagenic Therapeutics",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -36810,6 +36920,17 @@
    "first_seen": null
   },
   {
+   "id": "ee89aea9cfe64896",
+   "company": "Arvinas",
+   "title": "How The Arvinas (ARVN) Story Is Evolving As 2026 Neurology Catalysts Approach - Yahoo Finance",
+   "summary": "How The Arvinas (ARVN) Story Is Evolving As 2026 Neurology Catalysts Approach Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUE4cEs5am9YOWZhR2M5aEdfY3JIYThtanlUVndlRFNVU21tTmNtUVVlVnNZWG8tNkZwa2o4REVNNVNVekE5WXA4LW1FVEpwQlI0MU1Qa1Y0bFI5SjhJUkRGUXl4RWZ2YjNwLVhxbm5HOFMwdnNUTmxwdlhJbWYwVWZ0d0dzZDl5ZExHWUFzV20xZ1BLb2VpQkRaVUg3dw?oc=5",
+   "published": "2026-04-04T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f7690511eca05f12",
    "company": "Denali Therapeutics",
    "title": "Denali Therapeutics Regains Full Rights to Investigational Therapy DNL593 (PTV:PGRN) for GRN-related Frontotemporal Dementia (FTD-GRN) - Denali Therapeutics",
@@ -37665,6 +37786,17 @@
    "published": "2026-03-26T18:43:38Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "4eab2c9a67da3209",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Reports Financial Results for the Fourth Quarter and Year End 2025 and Provides Corporate Update - Gain Therapeutics",
+   "summary": "Gain Therapeutics Reports Financial Results for the Fourth Quarter and Year End 2025 and Provides Corporate Update Gain Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQNlRXcHhFNjl3aWs4TFJfdDJLNHdITnV4WENHV00zOUhLUjhySHJJZjNSSlE4SXBKVWNtR3JFT2VRVk1XZFdLbk54a3RSNG52Vk5VSS10X3dnNXFDaFVvM3ppNG1lR0VLcEVQZGpSVUFvR295dFgzd1piSGxDeTZmb1FLbmMxQTBtUFlFWW5ldDZqQUhKSThDQ3I2VVhQWFJQRXdaUlJ5MmlJdy1pTWV2ZE52anBVYUtuQXAzd21OQmdSOVFzNUFtTVQ3dTUtcFJfZEVvRXBFV1d1dVNhZnczVmloMjVQbUgyQ2lMLVZJdVFOcEZoQWpkM2xTR1RKOU1yWFlhYUNoTk1UaVFzSHhIa2ZiaDYxMFU?oc=5",
+   "published": "2026-03-26T13:33:17Z",
+   "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -38918,17 +39050,6 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUHM4eWdIUFJPU0ZxLVIwVzFDNmVoMWsxRk5EdndDU1gxc3Y2THlOQ3dtOGdfSU80VUFMNDNaQVNnX3NzTGFGQjJnc3FiR3JIbXVnenhGSzE3LTJ6cHdPVkxEUHJha2M5cGRGODBQWWxvR0Y1eFc4VThDa2ZwdjhnOEhlbjZjMTJlMWFKaVVGTlZ2WV9BdnNRYVJfNHZsSUxkckxOOFphYXZmYWtGd29VSWdfdUJXRy1nUElOUzZJRmhJZHg2ZVE?oc=5",
    "published": "2026-03-09T07:00:00Z",
    "outlet": "Xenon Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "fce751edce6c9c04",
-   "company": "Gain Therapeutics",
-   "title": "GAIN THERAPEUTICS - Gain Therapeutics",
-   "summary": "GAIN THERAPEUTICS Gain Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHI1SEN6VFNXV3gtZERTRWpMS1A1b3JCNDhjbkJZeUJUMm1pdTF5WEVyRWl1SnlSQjJ3N3hScU9EcEpjNWlJbjFqdmRNcXBTNk1zbHQtdklNYkwxc183SFVoQ3lGTEZwOGN6eVVFMi1LREVnbjZOazd3b2JoOWxHR0UwYzBqZDZsWlBFRmY5OVVFc1lG?oc=5",
-   "published": "2026-03-09T06:23:56Z",
-   "outlet": "Gain Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -41731,7 +41852,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - Eli Lilly",
    "summary": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0MHZlRnFhQUVIclZpX19KdS00Rk1kX2R5SERTa3ZqT3FhMDNWc083ckYtRnZsaWt4eTM1ZDlHZWdjUi1GazVwTlJnZHdEdjNKMUk0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjdwYWFSNE1WN3JMRkFzUnk5NGk4cWo3N05TMGhrdHphaFJDajVYeUZDRnR3TG43Q0ZXUm1lZXN6QXM4LURmWldsX1NkaWgyY3R5VWpjd2Z4RmZOY1ZuZWZ3NjNYLUVYUm5NdHg0dFVURlpMbnY1dU5mUVJtV0lOLUVlNEk2U0RDMklxSXNrcEVIUW8yUWNYeE05TUZQOWhVMXhvaFZfaWdwbXJYUlVOUGZ4Z2h3UXA5?oc=5",
    "published": "2026-01-07T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
@@ -41819,7 +41940,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Participate in the 44th Annual J.P. Morgan Healthcare Conference - TG Therapeutics",
    "summary": "TG Therapeutics to Participate in the 44th Annual J.P. Morgan Healthcare Conference TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43cUpJQ0hxNi1DRmZ5QTVvODRMaElBbE1jQWx0UG1WTXU0WnZwTnIyMG1SLXc5OVlMc2l1OW4wSlZ6MVRnTFY5QTFOZ0h3TXZnMHZxZkZrOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVENhT1FWTVFLSG5IWnRRbTd5QXpIbGU4QkZQSDVJek1CV1Z4YTVKMU10ckk1bWN5Y21jZWUzamU5bUxLanZ3YVlpMlp0SjQ0UUNHSlFsY3BRVUxqRmg2eDVMSjRXMXpwT0dEa2Q3MTJ6YTcyc3lhNVkwVFZXOVVkcHVZT2xyb0oyNjJLaHdfbGJXd2lIb215WU1yTmZQTXBKRm0xYmI2NTRXUEczMjdUd2dwLXBLRUhzVVY2cVBUeUtEXzg?oc=5",
    "published": "2026-01-07T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
