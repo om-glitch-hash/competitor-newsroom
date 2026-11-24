@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:40:18Z",
+ "updated": "2026-11-24T23:33:22Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "ba2b28579f8f084f",
+   "company": "Herantis Pharma",
+   "title": "Herantis raises €15M to fund Parkinson's Phase 2 trial - Dealroom",
+   "summary": "Herantis raises €15M to fund Parkinson's Phase 2 trial Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRms3eFlmcGNkX1RqNEpnNERjbDU4Y2ZGOTJFRWNhNG5QYlVReUZQQ0RvUUxqYmVSVlZCUXBwZzlkSEF4cUFSWjVkX0t5UFVTUEhXMDZzYnNPWTJ6WFlORVVtbTVYZDlFVWF5OXZoZFJJT3QyWnpyeVFrcVZOUlg3MFU5dlRVSlNZNkpkc2xFeVQ?oc=5",
+   "published": "2026-11-24T23:16:01Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T23:33:22Z"
+  },
+  {
    "id": "dfc5b8085e7f92af",
    "company": "MapLight Therapeutics",
    "title": "Selling shareholders can resell stock, but MapLight Therapeutics (MPLT) gets none of the proceeds. - Stock Titan",
@@ -1669,8 +1680,8 @@
    "company": "BioVie",
    "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 - Quantisnow",
    "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW0tSy14WnZhZ2kwZE9LRXZvY0pfNFBkeWhlZWRrZzhROVJDYms2WkJxeVdxOE9FNlBvVFM4M0JEZXZzV2JReG9XTnNVOFpMTE1KZWFVcFI2WmFfektONmFkQVB3WDJvRjVVbHk3TjNGcDNjVldhbXdfLWxQNWYzdEloNXZQNm1zNk1iSWRfMVVuVWFkMnc?oc=5",
-   "published": "2026-11-24T21:31:24Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEF0QnBuc3RrRUtRaUhEcGVmbExKTlBNT1RnZUlHejdKbW84a3E0VERuQTRMcUtvb1FXQXYzQjlHWENUWEZONzZQV2VTNWlEcEo3MUNFb0lfTmxWekszMXhLMkFHT3FMb2E5Qm9rdkRqeVhOeWl5NzdNRGZOMC1qRkNrenpYc3F2QXIxcHZqR1pwajF1ZHZTeTdTaw?oc=5",
+   "published": "2026-11-24T21:30:49Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T21:39:02Z"
@@ -1867,8 +1878,8 @@
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Manager, Scientific Operations - Johnson & Johnson Careers",
    "summary": "Manager, Scientific Operations Johnson & Johnson Careers",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWN0eGk0dUUwdFhnRHRlNGRtNmEtUlI3UUt2RUV6S1k2VFA1NGpteWgyVlR3RFdHbUtfRHhBRGNkVjFjVE5sY2YtYzR3MTZ6SDlVeWJSUm5zVlZKcTV6ZE42Nm1EMFROd0doaFFtWFAxZDZxMExrWEpJWTNwelduWUI0YTQ?oc=5",
-   "published": "2026-11-24T13:19:10Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObjhNVGxnODNhUVA4bVhnV2pnbmQtdDBudXNjbE8tUTE1alZrZmZwQzFra1Q1S1BXb0lEZ3NkdVI3eFZTUzhSSElwM0Mzd3hCUm9HX0ZtaS1hbmVZX01TSWZLVm03N0NYMWRvMC1XY25WNDA4VE1PM3c1bXYycEJBS3dXcDE?oc=5",
+   "published": "2026-11-24T13:21:13Z",
    "outlet": "Johnson & Johnson Careers",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-24T14:28:23Z"
@@ -2450,7 +2461,7 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value - Simply Wall St",
    "summary": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjU3SjJzVTN2WHRDbnBhUnFmYnpfT1pTeFNUZmxjOGZoZHdXYUgySE92ak40SXJJd3NPV3BFNG1iRnoyVm1BTmZjdGdGYWIxVmVQMGMtOTJPZFFLTlM0T2N0bU91UXBUSmRWaGEwTV8wblctdVU0a0c3RWc0NFRKWXlUX1Qwb3p1MkViQnU1WFJoVUVCclNZWGlDNEMxd2E2OFZ0VWNzNkNUdDRFOWtZckZnam9xeXpLaUtpZC1SeDdUNWt2THl2VDdzZzdjTDFMelNteTdzM0ZjRm45c1Bv0gHkAUFVX3lxTFBveWVoSWpTRXM0WU5OOXdaZnlsdWRzRXVOSGwwOW1CSEx5cVZuWWctMFFMM05oVWN4ckJCVjRfeTUtUWNaY0pIbFJlR0NQNFQ3RUxUcHFpNF9mQkNqWmxJbXdzWmdxQTFsNy0wNHdzT3hIN3R4Y2huRlFxOVF6OGxtQk1Mc0JPcnBkQWZOV1NOaVFKRkJkcWhkTG1La3hXNXFNZG5yNkh5elp0WUJWMFB6RmJxMTVoQ0Uwckh1MjVUX1ZyX0pHX3RfRzdEbU05UG1jcUFWY0tkMVFndEJfckplNHBMWg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3llaElqU0VzNFlOTjl3WmZ5bHVkc0V1TkhsMDltQkhMeXFWbllnLTBRTDNOaFVjeHJCQlY0X3k1LVFjWmNKSGxSZUdDUDRUN0VMVHBxaTRfZkJDalpsSW13c1pncUExbDctMDR3c094SDd0eGNobkZRcTlRejhsbUJNTHNCT3JwZEFmTldTTmlRSkZCZHFoZExtS2t4VzVxTWRucjZIeXpadFlCVjBQekZicTE1aENFMHJIdTI1VF9Wcl9KR190X0c3RG1NOVBtY3FBVmNLZDFRZ3RCX3JKZTRwTFrSAeQBQVVfeXFMUG95ZWhJalNFczRZTk45d1pmeWx1ZHNFdU5IbDA5bUJITHlxVm5ZZy0wUUwzTmhVY3hyQkJWNF95NS1RY1pjSkhsUmVHQ1A0VDdFTFRwcWk0X2ZCQ2pabEltd3NaZ3FBMWw3LTA0d3NPeEg3dHhjaG5GUXE5UXo4bG1CTUxzQk9ycGRBZk5XU05pUUpGQmRxaGRMbUtreFc1cU1kbnI2SHl6WnRZQlYwUHpGYnExNWhDRTBySHUyNVRfVnJfSkdfdF9HN0RtTTlQbWNxQVZjS2QxUWd0Ql9ySmU0cExa?oc=5",
    "published": "2026-11-22T18:07:48Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -6432,7 +6443,7 @@
    "company": "MapLight Therapeutics",
    "title": "MAPLIGHT THERAPEUTICS ($MPLT) Releases Q3 2026 Earnings - Quiver Quantitative",
    "summary": "MAPLIGHT THERAPEUTICS ($MPLT) Releases Q3 2026 Earnings Quiver Quantitative",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVFacmxPZUtsX2E0cXhwN0pHRVd6Wk01QzdCZzdMSU9ieGJEZktKNmhQcEVwVmRYRTBOa0xJb1YtUGd3QnVNNXZrMnM4RlpDMy1UTzZIOHlFV2pPRlM0cG5rcEVkS0hFemxzdlNrTFFpaGVjVlJOS0JUb1NjZDJyd0Jld2daRk5DN3dsZW9jZ2JBQTMxenh2Mm9n?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDRqeVlHTVVsZmQ2UDh0dXhHNWoxRXUtQWhQb3NNTDdJc2JqSHE1OE5RMkdhRWxhQ3B2X1VEX194Y2g4M0UyekZweHd1dlFaQW92OE55eEFZOUdCUW80cGVjYUNDOEJCaVlpTDVnMTJIU2R4aXhZTzFscmpDN2Z1YnBUWVFLTVBOS3QtMmhkRWpWQQ?oc=5",
    "published": "2026-11-16T20:35:00Z",
    "outlet": "Quiver Quantitative",
    "method": "news search (newsroom not indexed)",
@@ -6458,6 +6469,17 @@
    "published": "2026-11-16T18:54:00Z",
    "outlet": "Kalkine Media",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3439e394fc186c23",
+   "company": "Supernus",
+   "title": "SEC Filings - Supernus Pharmaceuticals",
+   "summary": "SEC Filings Supernus Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQemY3aTQtZlF1NGJGVFF1TXFsekUtZEtQQV9ZWlFVZ2hxaHRHSG9ULXhhaGdVTjZsbms0dmNJb0dydmcyNGJqSEltcy1Ka1ZlTFBuUG9VRllPTlFBMTVUUWtqZUtrZ1M4UW9wSlhKMkV0OTV6NmNwdkYta0cxenhWdHptVU12UHFnY19PZ0VzYlpxTEdSLWd6cnRqQ0swOWZTbkpicDZRYzYwTXBWMmFXNXpiNkR6RUh5ZktzV0I4b1hUZG5EM1dJeUlzRUdRaUR6eWN3ZXdvZWczeWlnVTBIcXc4dm5uVXBvZG1lUEhDM2VGcjVNZTdKSnQ4ZWVHZHlrRTRiOUZuNzBQOVJu?oc=5",
+   "published": "2026-11-16T18:35:21Z",
+   "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -6633,17 +6655,6 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVVUVzFmamVMeTh6aGQ4U3A0OWJVSzZqLTcza000YzMyQzcwX0hUUVE2TS1ja1l3S2hFWUZ2ZUhROEwzZmhDeGtYT09scTVCaV9rdVB0RmVLcEtHQnFDdERVY2tMeGVmTVRKdHVDT290S1U2dkhQaU5jeVoxU2t3LVA5eEttY0NDTnRMM3VvdmJZZnNlejdocnppWFBpXzhZVGc?oc=5",
    "published": "2026-11-16T16:00:02Z",
    "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "643006d0226ed6b9",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus psychedelic depression drug succeeds in trial amid safety scrutiny - Reuters",
-   "summary": "Helus psychedelic depression drug succeeds in trial amid safety scrutiny Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkdPdDRUeThYeHNJc0xISUc3V0draDBJcHd2YzlvSmQzTUlmVXI2S2Y1cVdxRlJsbTdKYkdtaU9tYUQ1bER3d0Uyd1ZfQlkwdnRfdVpSeFpZUktKNkt3d21oN2VORkJuZnMyRVNiUk5kbTRlOU52YXRBUE5sQnptZmlzWFpuUFNwYUozaHlOVDNXWmlYWllrWkRDVnRBSGgxd3FhOXVDMm1ZcU90czlPRHNjaW1LRkdueENmUWRhUGFBeURZdVFXUElMcUg2Z3ZENjFZUXJ3?oc=5",
-   "published": "2026-11-16T15:54:27Z",
-   "outlet": "Reuters",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7550,6 +7561,17 @@
    "first_seen": null
   },
   {
+   "id": "4b9d32c409a859b5",
+   "company": "Neurocrine Biosciences",
+   "title": "Should You Buy Neurocrine Biosciences Stock For Its Cash? - Trefis",
+   "summary": "Should You Buy Neurocrine Biosciences Stock For Its Cash? Trefis",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHN0czJnblNUOFJudTVPLXl3bi0yaF80X3VPbFZCNDNqY2E1QjAtZGxFOTNJSHZvSEsxbFJhVVAyX0xtUkhkeTJkdzU4M2RndWlRLWRqbWtHdEE5ZGZPbVFQbElVYVlmeUM2bDNvZFpuN1kwU1RQNkdZcE43RXBCeEYxZ3hkRkhkS1BjTHdoZlJnanJ6SlMzeFNUNW1JeExFMTE0N1QyaHJrWlA1Y09CWUJrU3A2UVhB?oc=5",
+   "published": "2026-11-16T09:43:32Z",
+   "outlet": "Trefis",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4e878e0ac2266ea1",
    "company": "Alkermes",
    "title": "Alkermes CEO Flags Six Clinical Readouts in 12 Months, LUMRYZ Filing Ahead - TradingView",
@@ -7579,6 +7601,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "643006d0226ed6b9",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus psychedelic depression drug succeeds in trial amid safety scrutiny - Reuters",
+   "summary": "Helus psychedelic depression drug succeeds in trial amid safety scrutiny Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkdPdDRUeThYeHNJc0xISUc3V0draDBJcHd2YzlvSmQzTUlmVXI2S2Y1cVdxRlJsbTdKYkdtaU9tYUQ1bER3d0Uyd1ZfQlkwdnRfdVpSeFpZUktKNkt3d21oN2VORkJuZnMyRVNiUk5kbTRlOU52YXRBUE5sQnptZmlzWFpuUFNwYUozaHlOVDNXWmlYWllrWkRDVnRBSGgxd3FhOXVDMm1ZcU90czlPRHNjaW1LRkdueENmUWRhUGFBeURZdVFXUElMcUg2Z3ZENjFZUXJ3?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Reuters",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7623,17 +7656,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUThUX01fS0tSOXlNTHNWZmp0SG1NTWVPQ3R1Q21ibjZoMWtZU2hqZUQ1TmIwNWQ2VzV4N3JrcmtkeWtWMWtreWh4VWdvSndpZjNyWHBnU3V6UHhtd0RZUTZ2TE1ydFk3MDBHdEZfM1lLMWt0dE1QVVppS3BFTzdtNktkQVRSdWlScmR5Q1B0RE0yQVE5bkwxT084NElud3VLVmQyWHktT1UzdTZLcW4tc1F4V0MtcGNURWlSTmhwMzRXWi0xM2NWbU54Yw?oc=5",
    "published": "2026-11-16T08:00:00Z",
    "outlet": "BioSpace",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "4b9d32c409a859b5",
-   "company": "Neurocrine Biosciences",
-   "title": "Should You Buy Neurocrine Biosciences Stock For Its Cash? - Trefis",
-   "summary": "Should You Buy Neurocrine Biosciences Stock For Its Cash? Trefis",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHN0czJnblNUOFJudTVPLXl3bi0yaF80X3VPbFZCNDNqY2E1QjAtZGxFOTNJSHZvSEsxbFJhVVAyX0xtUkhkeTJkdzU4M2RndWlRLWRqbWtHdEE5ZGZPbVFQbElVYVlmeUM2bDNvZFpuN1kwU1RQNkdZcE43RXBCeEYxZ3hkRkhkS1BjTHdoZlJnanJ6SlMzeFNUNW1JeExFMTE0N1QyaHJrWlA1Y09CWUJrU3A2UVhB?oc=5",
-   "published": "2026-11-16T08:00:00Z",
-   "outlet": "Trefis",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10036,17 +10058,6 @@
    "first_seen": null
   },
   {
-   "id": "6f9005d5b167cd6d",
-   "company": "MapLight Therapeutics",
-   "title": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. - Stock Titan",
-   "summary": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWZ3bWd4c3hxQXp0N2RLQ29SS3o2eGt0UkNBaGxhckdrSmpjVU1oQzExVmczYTY3dWRDbnJPalBER3ptdThxZXBYNWNKaExyWS1BV0p0MlpudkY2V29xQ0g5ODF5ZmdrQUNnNXpvSUhEUkE2UXZ3VGU4SzRFRTJLMXp5ejVSQVNzZzR0N1dadmdvV3hCODI5SW5yRVVMN3ZEOV9EYlVWdl9ueDNMaFFDcjh1bw?oc=5",
-   "published": "2026-11-09T21:05:00Z",
-   "outlet": "Stock Titan",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "54179aab96c92a0c",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics Reports Third Quarter 2026 Financial Results and Recent Highlights",
@@ -10241,6 +10252,17 @@
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRDdWN2pNX3ZBSjhqbGlvcjA4cjkzaG84VHFvVmZyUFRRaWExekppc1lVZUlRS3p5YTRsanlfR1dDOVBvYkJ5N3I5eUJxUldiQU53cUxLWDRYN1I4bXhUUnFWemZZRmVvZzRLcUtBUmdyZmdDbUlLdUxUcWFBYVE3N2s5OTRFdzZjOW5wVFJfRFdXN244ZFU0b1BfVEhfa2t0eWRqa3JvRWRwQ1B4Tk5OVGZhbXhrWTBvTng3V2paZXpfRjM4cDVrYmhzOU9kNnQ4RVFiZnRzeTRFcmlFbzVaQmp4QkVhXy01RUhuNU1iYlZ4SW5xWElQZ0pxclZudWNTT1E?oc=5",
    "published": "2026-11-09T10:23:04Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6f9005d5b167cd6d",
+   "company": "MapLight Therapeutics",
+   "title": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. - Stock Titan",
+   "summary": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWZ3bWd4c3hxQXp0N2RLQ29SS3o2eGt0UkNBaGxhckdrSmpjVU1oQzExVmczYTY3dWRDbnJPalBER3ptdThxZXBYNWNKaExyWS1BV0p0MlpudkY2V29xQ0g5ODF5ZmdrQUNnNXpvSUhEUkE2UXZ3VGU4SzRFRTJLMXp5ejVSQVNzZzR0N1dadmdvV3hCODI5SW5yRVVMN3ZEOV9EYlVWdl9ueDNMaFFDcjh1bw?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11279,6 +11301,17 @@
    "first_seen": null
   },
   {
+   "id": "6813b4bcd57e18ff",
+   "company": "BioVie",
+   "title": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal - Dealroom",
+   "summary": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmpBRENzYjRGQnV5NTJPMHNTeFA2U1JEbXJKRXVFajBvZGJkTi1TcmREMWJrQm9YbGYwMzNLOGhIdHowTEhkNDNELTRtSVN4UWJJU05XemZPV1NpYUJkVm9EcDhhamxCY01oRURINVJHTUZaWFc2TUZCaDM3Y2VaZVY1YWFPeEFoeEF6T2EtNF96SzdmTFQycjlzdVpJQlM2Wnc?oc=5",
+   "published": "2026-11-05T15:29:13Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "673f68f417e2b19e",
    "company": "Annovis Bio",
    "title": "Annovis Bio prices $21M public offering at $1.00 per share - StreetInsider",
@@ -11616,17 +11649,6 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnJyUVpDVDRpMXdjNF9mSDlHOEQxc0Y3UVQ4b2MyajducjE3a2tqVTlnT0J3c0pZTVBrV09pUHowYmJsS2pkWk8ySV8xa3dNdDB3TGZUVE5rc2swWE1mSGVxMVBONXhnVXhOY2RLUmRsTVBzd00xSjdvXzVpeDhHankySkk1QUloSzF5X0djRC1nUzRHM1M3ZVAzMHBxbnpRMEMzNTVlaTVqMTVhVHc?oc=5",
    "published": "2026-11-05T06:58:03Z",
    "outlet": "PEI Private Equity",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "6813b4bcd57e18ff",
-   "company": "BioVie",
-   "title": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal - Dealroom",
-   "summary": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmpBRENzYjRGQnV5NTJPMHNTeFA2U1JEbXJKRXVFajBvZGJkTi1TcmREMWJrQm9YbGYwMzNLOGhIdHowTEhkNDNELTRtSVN4UWJJU05XemZPV1NpYUJkVm9EcDhhamxCY01oRURINVJHTUZaWFc2TUZCaDM3Y2VaZVY1YWFPeEFoeEF6T2EtNF96SzdmTFQycjlzdVpJQlM2Wnc?oc=5",
-   "published": "2026-11-05T02:32:23Z",
-   "outlet": "Dealroom",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12280,6 +12302,17 @@
    "first_seen": null
   },
   {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
+   "published": "2026-11-03T12:12:08Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -12320,17 +12353,6 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
-   "published": "2026-11-03T08:00:00Z",
-   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13890,7 +13912,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -17754,6 +17776,17 @@
    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NQWhrZmZSZFJ1NkUydFhSMGd5R2VfUnYwUmZKa2QxcEF2SVRtSExrUGZ6S0FMWDBuUFBtYjVCcmtoS1BGTG13?oc=5",
    "published": "2026-10-08T07:00:00Z",
    "outlet": "yespress.io",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "694d45f6befbf5d3",
+   "company": "Alterity Therapeutics",
+   "title": "We Think Alterity Therapeutics (ASX:ATH) Needs To Drive Business Growth Carefully - Simply Wall St",
+   "summary": "We Think Alterity Therapeutics (ASX:ATH) Needs To Drive Business Growth Carefully Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWl9pdWxWZ3ZMOTRJd1lXMUFXeTlrRE5ycFQ3ZmRjVXBienFIMVAyNWZYTUlRc1lUYlgtYnJVbXFOYjFQbnJvOUJMSXRzcmI0dGlXeW5TV1pHYWRzUXZuU25ZVXNjUk1GN09lUDg3aTJsZ3JfdGFLcjh2eEk5M0xVR0hiMEc5M2N0emt3OWl2Z2M0R3FjLUx6aUFuNjRpT1RVTFZiWjd4Q0V4alZ5UWNwdkI4Q2xtSkJiMFVUMnRxQmNXOWtHTGZRVjR1ME1WNDFldTRtZDFJR2ZPZWtZdXk0Rjc5WmpoZnRSQmM5X0FHSdIB9AFBVV95cUxPODVIc2UwczZxUzJ6eUlESFdPZEpIZ3g0RmN2VGFXRzJxelRRT3dYbk5IclZNcmFISXoybTNhYzRKOWhLYmlJNkZSbHotSDlBSERaUkR5N1lWNHZzbHVPR0s3LWlid1ROME15NHdWRE54d2k5dU93Ny1EWmwzbHdzamhGRWZJVG5VelUzeS1xWkdXNFhCOUtfekZhVE1qeVFkWlpCUUoyUkRkTmszWC1UYWdEU2ROd1l2SHROUExickNld2ZLWFZQQ21JSUFneTZWREVJSUdUb0l1eGJmaFBHeHpSOEVaa0NjVFlsdDJNT1lHNUFB?oc=5",
+   "published": "2026-10-08T07:00:00Z",
+   "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -27211,7 +27244,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
