@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:06:45Z",
+ "updated": "2026-11-24T14:28:23Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,116 @@
  },
  "items": [
   {
+   "id": "4930feed9a498f4a",
+   "company": "Boston Scientific",
+   "title": "Trial primary completion changed 2027-06 → 2028-02: Automated Image-Guided Programming of Deep Brain Stimulation (DBS) for Parkinson's Disease",
+   "summary": "NCT07215481 · N/A · Not yet recruiting · Stanford University · Parkinson's Disease (PD)",
+   "link": "https://clinicaltrials.gov/study/NCT07215481",
+   "published": "2026-11-24T14:28:23Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-24T14:28:23Z"
+  },
+  {
+   "id": "97390616c2b7ca44",
+   "company": "Insightec",
+   "title": "Trial status changed Active not recruiting → Completed: ExAblate Pallidotomy for Medically-Refractory Dyskinesia Symptoms or Motor Fluctuations of Advanced Parkinson's Disease",
+   "summary": "NCT03319485 · N/A · Completed · InSightec · Parkinson Disease",
+   "link": "https://clinicaltrials.gov/study/NCT03319485",
+   "published": "2026-11-24T14:28:23Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-24T14:28:23Z"
+  },
+  {
+   "id": "25d562bc646ef283",
+   "company": "Eli Lilly",
+   "title": "Trial status changed Recruiting → Active not recruiting: A Study of Brenipatide in Participants With Moderate-to-Severe Alcohol Use Disorder",
+   "summary": "NCT07219966 · Ph 3 · Active not recruiting · Eli Lilly and Company · Alcohol Use Disorder",
+   "link": "https://clinicaltrials.gov/study/NCT07219966",
+   "published": "2026-11-24T14:28:23Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-24T14:28:23Z"
+  },
+  {
+   "id": "3a814b4bdb0c0bef",
+   "company": "TG Therapeutics",
+   "title": "Trial status changed Recruiting → Active not recruiting: A Study to Evaluate Pharmacokinetics (PK) and Safety of Subcutaneous (SC) Ublituximab Administered at Various Injection Sites and Relative Bioavailability Via Autoinjector (AI) Versus Syringe Subcutaneously in Participants With Multiple Sclerosis (MS)",
+   "summary": "NCT07503873 · Ph 2 · Active not recruiting · TG Therapeutics, Inc. · Multiple Sclerosis",
+   "link": "https://clinicaltrials.gov/study/NCT07503873",
+   "published": "2026-11-24T14:28:23Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-24T14:28:23Z"
+  },
+  {
+   "id": "a861a196066102ea",
+   "company": "TG Therapeutics",
+   "title": "Trial primary completion changed 2027-07-31 → 2027-03-31: A Study to Evaluate Pharmacokinetics (PK) and Safety of Subcutaneous (SC) Ublituximab Administered at Various Injection Sites and Relative Bioavailability Via Autoinjector (AI) Versus Syringe Subcutaneously in Participants With Multiple Sclerosis (MS)",
+   "summary": "NCT07503873 · Ph 2 · Active not recruiting · TG Therapeutics, Inc. · Multiple Sclerosis",
+   "link": "https://clinicaltrials.gov/study/NCT07503873",
+   "published": "2026-11-24T14:28:23Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-24T14:28:23Z"
+  },
+  {
+   "id": "4c68622ebe6d3b9f",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Announces Clinical Discussion on APPROACH Topline Results - TipRanks",
+   "summary": "Helus Pharma Announces Clinical Discussion on APPROACH Topline Results TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEZEbVRnQm9VUXlxaVp5b3RUOTNqR1F0NDJvS1ZSWlJQZWI2UVFRR1NGLWRZSkFfZGZ6T2xXck5Ec0xrdGpwS3Q3eURlOWtTd19HbHN5dFE0aXhUNVhrS2xFSnpKY1dRTWdYZ2RyWUtnUU90VnN0eU1UYlEtb2pYR1NsVjlaTGJCZlk4bmxFU0YtUklnVzVfTlE2MFBIeUVQb1FFUU55emRzVXdEWGJpaVFUVnVHVXZOOWttOE9QNA?oc=5",
+   "published": "2026-11-24T13:32:30Z",
+   "outlet": "TipRanks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T14:28:23Z"
+  },
+  {
+   "id": "c805cff20b8bae13",
+   "company": "Novartis",
+   "title": "Associate Director, Applied AI (FDE) - Novartis",
+   "summary": "Associate Director, Applied AI (FDE) Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGNSOWhNejcyb3FkdVJmMnpxME5JZDZTQzQwejZaSGE3RDZKRkYwT2h2MzY4TFVsQlFqLTZlWThpb25wemd3SkVQOTQzSGpTb2RXelZjVWlnMTFDZWYzbUdyQy01Z0U4bWxtMkNSdDhTaWJtWVloSVljbjVINnpfOWx3bjhoYzRCbWpRYXUzSFdPQmpocDExRWdhSHppMUhhSDhQaVQxa3Q?oc=5",
+   "published": "2026-11-24T13:25:14Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-22T16:16:19Z"
+  },
+  {
+   "id": "c493fe643b7c5eb5",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Manager, Scientific Operations, Titusville - Johnson & Johnson Careers",
+   "summary": "Manager, Scientific Operations, Titusville Johnson & Johnson Careers",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY0lYUmIxb3JDUzZOVmFFQ0tTVERSektObkdRQWRCQV9tSmF0UGdjd0VSUzR5bFJvN3puQjFXSW9WX1E5U0lHQ1BTb2tCX3p5aC1FeVNlMHdNbHlwTWdLZDVuNnFFZHNrY0dqcFJLZjMya3lCcGY0MmxrRURjOWhlOA?oc=5",
+   "published": "2026-11-24T13:21:13Z",
+   "outlet": "Johnson & Johnson Careers",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-24T14:28:23Z"
+  },
+  {
+   "id": "32c0f5f31c241a79",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Manager, Scientific Operations - Johnson & Johnson Careers",
+   "summary": "Manager, Scientific Operations Johnson & Johnson Careers",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWN0eGk0dUUwdFhnRHRlNGRtNmEtUlI3UUt2RUV6S1k2VFA1NGpteWgyVlR3RFdHbUtfRHhBRGNkVjFjVE5sY2YtYzR3MTZ6SDlVeWJSUm5zVlZKcTV6ZE42Nm1EMFROd0doaFFtWFAxZDZxMExrWEpJWTNwelduWUI0YTQ?oc=5",
+   "published": "2026-11-24T13:19:10Z",
+   "outlet": "Johnson & Johnson Careers",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-24T14:28:23Z"
+  },
+  {
+   "id": "54b541c2f111877c",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Announces Clinical Perspectives Discussion on APPROACH Topline Results for HLP003 - Quiver Quantitative",
+   "summary": "Helus Pharma Announces Clinical Perspectives Discussion on APPROACH Topline Results for HLP003 Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTU51TEJZcEtEYlhrdHJQOGFQS240NHZsYWtWaGptV25oa1RweG9HSjZfOE1MUHZQV0VEV3E2Mms3VGMxQlZ6VzVlc3Q3aE51S2I1SklkREt1dy1hR1BzejFYMzlJcGFTdVFuU2NwYzJ4eUdiSi1sdlpfZkZMOTllS2owZE9wQnlJV0Q2eFhMM3R0aFctS2owV0ZSUXRKQWtsQ0VZM3JOVnJFX0FudDRBd1drOHFqNVhCLU5EZlYyRUdQbDA5UWF2T1ZB?oc=5",
+   "published": "2026-11-24T12:42:00Z",
+   "outlet": "Quiver Quantitative",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T14:28:23Z"
+  },
+  {
    "id": "abc3733c888fe298",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders - Tue, 11/24/2026 - 07:30 - Helus Pharma",
@@ -1696,17 +1806,6 @@
    "outlet": "News-Medical",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T07:08:19Z"
-  },
-  {
-   "id": "c805cff20b8bae13",
-   "company": "Novartis",
-   "title": "Associate Director, Applied AI (FDE) - Novartis",
-   "summary": "Associate Director, Applied AI (FDE) Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGNSOWhNejcyb3FkdVJmMnpxME5JZDZTQzQwejZaSGE3RDZKRkYwT2h2MzY4TFVsQlFqLTZlWThpb25wemd3SkVQOTQzSGpTb2RXelZjVWlnMTFDZWYzbUdyQy01Z0U4bWxtMkNSdDhTaWJtWVloSVljbjVINnpfOWx3bjhoYzRCbWpRYXUzSFdPQmpocDExRWdhSHppMUhhSDhQaVQxa3Q?oc=5",
-   "published": "2026-11-24T01:20:09Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-22T16:16:19Z"
   },
   {
    "id": "b3c1216522e0fe9e",
@@ -5977,17 +6076,6 @@
    "first_seen": null
   },
   {
-   "id": "0b6b75cdf42e9303",
-   "company": "Teva",
-   "title": "FDA Approves Dexmedetomidine Sublingual Film as At-Home Agitation Therapy - The American Journal of Managed Care",
-   "summary": "FDA Approves Dexmedetomidine Sublingual Film as At-Home Agitation Therapy The American Journal of Managed Care",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbE1GRWh1N3lidTNYNnEzVGNnbTdDYUZaSlJpZEVLWU15dGpzMXRvYVVuQ0xRck13RTNPbHFOMWIxNFpyajF6MzVwdUlWcER0VU00eVp6cXhfYkxsNmo0TmM2SGN3YkpCd1hkQy1hdHNjZDZ1SlBDSlZrekpGcmN2M1lPbjlxdTJSa0swMUs5UWd3WWo2MVVBN042R1k2emp0?oc=5",
-   "published": "2026-11-16T21:45:35Z",
-   "outlet": "The American Journal of Managed Care",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "c4d241be894d1647",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "With $19.8M cash at Sept. 30, NRX Pharmaceuticals (NRXP) expects operating losses through at least year-end 2026. - Stock Titan",
@@ -6072,17 +6160,6 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVFacmxPZUtsX2E0cXhwN0pHRVd6Wk01QzdCZzdMSU9ieGJEZktKNmhQcEVwVmRYRTBOa0xJb1YtUGd3QnVNNXZrMnM4RlpDMy1UTzZIOHlFV2pPRlM0cG5rcEVkS0hFemxzdlNrTFFpaGVjVlJOS0JUb1NjZDJyd0Jld2daRk5DN3dsZW9jZ2JBQTMxenh2Mm9n?oc=5",
    "published": "2026-11-16T20:35:00Z",
    "outlet": "Quiver Quantitative",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "71fac392964d2330",
-   "company": "Denali Therapeutics",
-   "title": "‘Too good to be true’: Biotech company’s paper on Parkinson’s retracted for data manipulation - Retraction Watch",
-   "summary": "‘Too good to be true’: Biotech company’s paper on Parkinson’s retracted for data manipulation Retraction Watch",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmRxc0t5clFZRklTNE1Hd25wZ3czem4xM1FuRVlQVDNkR2czRk9SNDJvcE9zY1hVUy10R1gwbXN2UzMxdjdobnJSSlREVzVZbFBndHRtaTZmZjVIc1JrTDVVS0N3YlYzaWhBa2lDNURRR1dXaEk5TG1tV3NCbzE5TXJRN0ZDb0Z4RU9mQWFudmNOT21X?oc=5",
-   "published": "2026-11-16T20:12:55Z",
-   "outlet": "Retraction Watch",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -6435,17 +6512,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2RiTGVfYkRaLXJMUk5ERGVuUW52NkpvV05mVVo1LWw1M0QzcE1ydUloNkl2dEIxQk1Icm9HQVlJMVhvOW9JT2RLT0dIZHNFWlcwM21XZjZrVUhLWThMVndNSFg3dEtwMGthbmRhV1FfZS1RMEstdGR3eUtmcUJ4Qk44Snc5d2VKOHR1RjhIUlNsR2pBeURneVVfT09aNEZSeER6Sk9QR0FydEha?oc=5",
    "published": "2026-11-16T14:56:26Z",
    "outlet": "Psychedelic Alpha",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "4bd708763d6bd03d",
-   "company": "Teva",
-   "title": "US FDA approves at-home use of BioXcel's agitation drug - Reuters",
-   "summary": "US FDA approves at-home use of BioXcel's agitation drug Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVd4OEJUd09KSXFnWjdqRDhmZjlWdVdOMlJmNC1paThFS1JqNThuUEFpVl9xYlNYbmRNTDZCaWVtLWhnWnYzZm02WXViMmJXaFBmYmRZblBFdjlnRHBJWm5GZzBJRnMwOVphclM5MlJiT25ySHdWZllsRTdENnA2VWVvQkN2NmhEOTB6bGljc0w3LWdVSEd3X1o3eml2Zi1nTVktdGVtMA?oc=5",
-   "published": "2026-11-16T14:55:24Z",
-   "outlet": "Reuters",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7282,6 +7348,39 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0b6b75cdf42e9303",
+   "company": "Teva",
+   "title": "FDA Approves Dexmedetomidine Sublingual Film as At-Home Agitation Therapy - The American Journal of Managed Care",
+   "summary": "FDA Approves Dexmedetomidine Sublingual Film as At-Home Agitation Therapy The American Journal of Managed Care",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbE1GRWh1N3lidTNYNnEzVGNnbTdDYUZaSlJpZEVLWU15dGpzMXRvYVVuQ0xRck13RTNPbHFOMWIxNFpyajF6MzVwdUlWcER0VU00eVp6cXhfYkxsNmo0TmM2SGN3YkpCd1hkQy1hdHNjZDZ1SlBDSlZrekpGcmN2M1lPbjlxdTJSa0swMUs5UWd3WWo2MVVBN042R1k2emp0?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "The American Journal of Managed Care",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "71fac392964d2330",
+   "company": "Denali Therapeutics",
+   "title": "‘Too good to be true’: Biotech company’s paper on Parkinson’s retracted for data manipulation - Retraction Watch",
+   "summary": "‘Too good to be true’: Biotech company’s paper on Parkinson’s retracted for data manipulation Retraction Watch",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmRxc0t5clFZRklTNE1Hd25wZ3czem4xM1FuRVlQVDNkR2czRk9SNDJvcE9zY1hVUy10R1gwbXN2UzMxdjdobnJSSlREVzVZbFBndHRtaTZmZjVIc1JrTDVVS0N3YlYzaWhBa2lDNURRR1dXaEk5TG1tV3NCbzE5TXJRN0ZDb0Z4RU9mQWFudmNOT21X?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Retraction Watch",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4bd708763d6bd03d",
+   "company": "Teva",
+   "title": "US FDA approves at-home use of BioXcel's agitation drug - Reuters",
+   "summary": "US FDA approves at-home use of BioXcel's agitation drug Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVd4OEJUd09KSXFnWjdqRDhmZjlWdVdOMlJmNC1paThFS1JqNThuUEFpVl9xYlNYbmRNTDZCaWVtLWhnWnYzZm02WXViMmJXaFBmYmRZblBFdjlnRHBJWm5GZzBJRnMwOVphclM5MlJiT25ySHdWZllsRTdENnA2VWVvQkN2NmhEOTB6bGljc0w3LWdVSEd3X1o3eml2Zi1nTVktdGVtMA?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Reuters",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8672,6 +8771,17 @@
    "first_seen": null
   },
   {
+   "id": "7480e82e2c8dde4e",
+   "company": "Novartis",
+   "title": "Account Manager, Neuroscience - Novartis",
+   "summary": "Account Manager, Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDljdUQwbFBCZlotb0FlcUxhUHlxWTFoUDZ0T1pIMXBKU3pJVDNxMkcxRFhtbm54OHlfTmkzRHl0akRYcnlXdWVfamxqekJ3dXZWdEMxN1RKa3JmQ3BCUUZ0R0Y4ZjdGRUtZVHZLNUF4SHJ1RGhIcERQNTJDdTVYNnRrR1NYRHVpVDJsT2k4LVpYWWZNdEJldjBYeFZJemQ5LVY5dTFVaHFwZw?oc=5",
+   "published": "2026-11-11T22:29:45Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "e9d51e1631e74f28",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics at stifel 2026 healthcare conference: cash-rich push - Investing.com",
@@ -9178,17 +9288,6 @@
    "first_seen": null
   },
   {
-   "id": "c9586dcd8455cb7c",
-   "company": "Johnson & Johnson (incl. Intra-Cellular)",
-   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
-   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWFvOUhrNXVuTkVzb0FJb3RjY3B0TXRON2hYb3E2ZGNsaFVuQTg5V0ZfZnlFZzBGZU5DQmF2anVBMXR1cmVGRXRCXzRQcW1GeE1FYXF0UC1hckJILWktT1F1RVlsSXlRSHA3WnJjckFZeWh4cE9UWWYxZklSRjRjQnJLTDFFMlVLZUVlUUNkVkpRRlVYWDBHZEU5TF9WRzd4SXpRX0U5RU90d1h1OVhSOWkycHFNdnMtYXh2aFBaRG5Zb2pCS3h2ckRVVnJvaG1uX2lKOFdkRFNnSlNmYnp1Skd3dVN5dlE3TFZJNGhwTS03Y1pmNWFCMHNWWU9xU2pGM3ppRS1LVk5xZk9rdlBIVk1SeGR6NVVNb2Z4Qi1TUlhackhBRkZGbXY4S0pqZm5aa2xBQg?oc=5",
-   "published": "2026-11-10T19:28:38Z",
-   "outlet": "Johnson & Johnson",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "4f65926d99c176c6",
    "company": "MapLight Therapeutics",
    "title": "MPLT - MapLight Therapeutics Inc Forecast, Target Price - Finviz",
@@ -9296,6 +9395,17 @@
    "published": "2026-11-10T09:08:09Z",
    "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c9586dcd8455cb7c",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
+   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTkhvOGlxN2tNRGpzTGFCZHJ4bmYxUGtHWUd6SGNMN01JV1Q4VGh5dGhtb3c3MkVrWENUc2NQaXhJSkJ0amNfaHBiWEstaXo3SGt5YXg2Q1pNUEVZM1QzYTJaZXBJOXpaOFFlSWI4YzVrbHRuLThPV2NxQUZsNEk0bmdndWFsNkhzcnBUNmQ1dVV3aHZMQ2ZLQzIzNHdEVE9JbGJuN0VoXzZNNlFodEFEM1hNWjRKOGpLanB3U3k1dXZtTTU1Y1dMazlzZ3RhYTFlS2ZvenBoZGVraWlPcXppQ3ktN0FEdElvalhxb2R4ZW9vRDFIQ19Mc2hnYTZpTDJyVDltUmRUUXo1TEs1UmMxSA?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -10795,17 +10905,6 @@
    "first_seen": null
   },
   {
-   "id": "7480e82e2c8dde4e",
-   "company": "Novartis",
-   "title": "Account Manager, Neuroscience - Novartis",
-   "summary": "Account Manager, Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlU1OEZsbnBIeW1xMzdpYkJMOEx5bHcydUh2Y0ZjTTh4ZHVWcjZNczRzejBFa19CSUZxdFhrWF9BcEtXS25RTnI1U2JEcjhWcTROR0xIaHJMZWxKclZrSVlUeG1CTGNOejkybjlqNkhBOHNHaTlWb1c0UlRWc2QxeFEwQ3VPd2EtWXc1SnRTLWYxSGZwZTk2RUlXQ1ZtVlM2M3NuRmtIaHQ1Zw?oc=5",
-   "published": "2026-11-06T04:36:20Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "4d5c44b13d095411",
    "company": "Rapport Therapeutics",
    "title": "Technical Reactions to RAPP Trends in Macro Strategies - Stock Traders Daily",
@@ -10869,17 +10968,6 @@
    "published": "2026-11-05T15:52:49Z",
    "outlet": "Gain Therapeutics",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "6813b4bcd57e18ff",
-   "company": "BioVie",
-   "title": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal - Dealroom",
-   "summary": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmpBRENzYjRGQnV5NTJPMHNTeFA2U1JEbXJKRXVFajBvZGJkTi1TcmREMWJrQm9YbGYwMzNLOGhIdHowTEhkNDNELTRtSVN4UWJJU05XemZPV1NpYUJkVm9EcDhhamxCY01oRURINVJHTUZaWFc2TUZCaDM3Y2VaZVY1YWFPeEFoeEF6T2EtNF96SzdmTFQycjlzdVpJQlM2Wnc?oc=5",
-   "published": "2026-11-05T15:29:13Z",
-   "outlet": "Dealroom",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -11220,6 +11308,17 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnJyUVpDVDRpMXdjNF9mSDlHOEQxc0Y3UVQ4b2MyajducjE3a2tqVTlnT0J3c0pZTVBrV09pUHowYmJsS2pkWk8ySV8xa3dNdDB3TGZUVE5rc2swWE1mSGVxMVBONXhnVXhOY2RLUmRsTVBzd00xSjdvXzVpeDhHankySkk1QUloSzF5X0djRC1nUzRHM1M3ZVAzMHBxbnpRMEMzNTVlaTVqMTVhVHc?oc=5",
    "published": "2026-11-05T06:58:03Z",
    "outlet": "PEI Private Equity",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6813b4bcd57e18ff",
+   "company": "BioVie",
+   "title": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal - Dealroom",
+   "summary": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmpBRENzYjRGQnV5NTJPMHNTeFA2U1JEbXJKRXVFajBvZGJkTi1TcmREMWJrQm9YbGYwMzNLOGhIdHowTEhkNDNELTRtSVN4UWJJU05XemZPV1NpYUJkVm9EcDhhamxCY01oRURINVJHTUZaWFc2TUZCaDM3Y2VaZVY1YWFPeEFoeEF6T2EtNF96SzdmTFQycjlzdVpJQlM2Wnc?oc=5",
+   "published": "2026-11-05T02:32:23Z",
+   "outlet": "Dealroom",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -11862,6 +11961,17 @@
    "first_seen": null
   },
   {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
+   "published": "2026-11-03T12:12:08Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -11902,17 +12012,6 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
-   "published": "2026-11-03T08:00:00Z",
-   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13450,7 +13549,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -21179,6 +21278,17 @@
    "first_seen": null
   },
   {
+   "id": "87715e246cc620fc",
+   "company": "BioVie",
+   "title": "BioVie Plans Phase III Study After Long COVID Drug Shows Subgroup Signals - Scrip",
+   "summary": "BioVie Plans Phase III Study After Long COVID Drug Shows Subgroup Signals Scrip",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONjJTTG1jWUdTNkpNZnRIeDdveXQ0am96VW5nSG5zX1hNM3d1UzdoNGdqM3hvcGZfQk1ScGdMZjVfY2ZtamtLYW5vRUxRampWNWhzalo0M0ptMlRGNm1TYXVYRlVoQnVOb19ybmF1bHNlX2hVQi1kRTZyLXpub1FHcmZITGdYRnozTlNPcXl0dGlhVVVWT3lfeFFMcFNQa3JXMjlOeW5RN1UtcEFOenJzVjMyNWVHOVU3WUI0RjF4ZHp0cmNyeklXckVmYWpoUlZFYWttZVg5T3pzVExtWGdLcmZ1Ti1qNUd0VzhfV1U2TFFHUEk?oc=5",
+   "published": "2026-09-15T07:00:00Z",
+   "outlet": "Scrip",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b25b86d765b75a83",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics Announces Positive Topline Results from Phase 3 Panorama Study of DT120 ODT in Generalized Anxiety Disorder",
@@ -27416,6 +27526,17 @@
    "first_seen": null
   },
   {
+   "id": "7e67c4a79dee7e74",
+   "company": "Idorsia",
+   "title": "Idorsia advances global rollout of QUVIVIQ with Jamjoom Pharma partnership in Saudi Arabia and the Levant - Yahoo Finance UK",
+   "summary": "Idorsia advances global rollout of QUVIVIQ with Jamjoom Pharma partnership in Saudi Arabia and the Levant Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0wzMVdWRkJtc2VIV3VGSW56Vm5OcVdqaUYxTHNoRkVrdTJrMUNUOVBvTmlBTEN6RHZGQlNRdWRYMWJiOTRGMkpWZDdpWEFMdTJuR0k2UFZwNWY5NzNsXzY1ZEwyUVNpVUpSZDl0eXpyVzVRNXFCVWh5SW80UlViMEtvRWw4TE1uWXFnd1dtUG1ZZw?oc=5",
+   "published": "2026-07-26T07:00:00Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "cedfb350e34c08d7",
    "company": "Incannex Healthcare",
    "title": "Incannex Healthcare Inc. Revenue Breakdown – NASDAQ:IXHL - TradingView",
@@ -29253,6 +29374,17 @@
    "first_seen": null
   },
   {
+   "id": "776c4a8c5cb059cf",
+   "company": "Newronika",
+   "title": "Newronika Receives CE Mark for αDBS®, Advancing Its Mission to Make Adaptive Therapy the Standard of Care - PR Newswire",
+   "summary": "Newronika Receives CE Mark for αDBS®, Advancing Its Mission to Make Adaptive Therapy the Standard of Care PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa2dEMGlaNlc0OXJMa00xd3VfcGRIMUdrNWxyWHhHTDRMVmI0elVYZ0dEUHlFenNYRVJpYVhLTk1lajBRVk53Z1BJNi1JY2ZKaXRKZW1fM2N5QlJ1RVFuUGhWaGRaSVJYYmtFcUhmdWllVlJFVGZwRkVYWmRLdzhBMzlOTy13MGMycEJxYm5hdWloWEhfUDl3aUIxUjlFcTBfOEJGenlFdnJzQ3V3cGlUYVBReXZ3V2ItSXBUOWtLZXpSOFJmZ2FEcUI3Q080WUMzU3BFcmxCcVc2UjFiSjN1UUVzT0hyaDBlT1RoWFVWSQ?oc=5",
+   "published": "2026-07-14T07:00:00Z",
+   "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a6f3cf52ea2c9a42",
    "company": "Alto Neuroscience",
    "title": "Alto Neuroscience Announces Pricing of $100.0 Million Underwritten Registered Direct Offering of Common Stock",
@@ -29722,6 +29854,17 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQejZhX0lZX2hJUFhONU9tUERJS1VaTXhIeTZXdHBJM01aTDl1LUR2TXFGQ0hUTEkyVmYtaWZVM0pqRjB0SlVQSndDbWpXbE1uaTF1THdmZ0ZxTmltek5iZGZMV3B0ZDVVdm5iM1dEOEhuZmlxaUVvazlldjB4T3ktMThkVU5fakhHZmtkLVlNbkRXdGlZWDk3QXpFRjAyRENxa0dzR0U1SzMxLXFtSW5pbUl2ZTNaWUVzWnRBWkVCQW82ZGY5bjdQOHZGUXl5aWlxbUV5Sndtb0Q?oc=5",
    "published": "2026-07-06T07:00:00Z",
    "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0861bee607ae4d68",
+   "company": "Alterity Therapeutics",
+   "title": "ATHE Forecast — Price Target — Prediction for 2027 - TradingView",
+   "summary": "ATHE Forecast — Price Target — Prediction for 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcXFTa25jUFg5eU9idWxycS13R3JBSjlVNi1LVENrcGJKbTBRSDBkRlJzUkJ5ejVXeDV6TVYzT1piMC1uTmFqVXUxc3JSZGZsZ3FqNWg3elp5QjNDaUZQc3hqbi03MEVYT0dnTXV3ZHlUNDZjVDc2d0R2eS1CRjZLVUZBVXBOM1h1QThBVWZmaw?oc=5",
+   "published": "2026-07-05T21:55:33Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -41610,7 +41753,7 @@
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting - Johnson & Johnson",
    "summary": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUjI2blNPVV9UbElmUmI4TGZUR1h0OG12V1NjOHNOUk5GSzJ6VWNUR2FfOVBiSW9MZ1E3blVBVFFOMGphalE5dlRIczJKYkVSNEtCX3VkZThiT2RIUlVoWno0ZFdYVHA3U2JDRzV3NXFyRjNiVE9tcTBBT0gzZWhZWGQwTTVRLUxObjBFNVczb0REdVFWOWk1WUktRmZDbG1Lbm4xN3VCSGo1X3EtZTNOX1ZrdDVGeUpSSjZfQ0lXdGlwelZEbmdZUFN5cUh3dFlyTldfc0lFbEV3TWRlVVFiN1dKTG5seExoMmdKOUhPOFFIMmdZdTlYM3h6aENVWEtEa0N5Rk5abGpsc3dnV3dfUkUzRDNZempSZ3hxLU9hbE9VVi1aNjBHaUYzVkljUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdFBDQnpnOWpNczB2Y0YzcUNtSnNpa1ZfdnpYVWFGbTZaSjhfR1dIQTM3UEZFRDJLcjRnY09KS3NzMmtJWlJVeW93T0NNc2dESXpLb2JKd09YZUxsRU9LcDJsQ0c0ZTBVSkZVb0FxdkxIcFRUbldXaDBadzNpRURVWkdRSk00aEZuX3RwQzRvTHFFRDZRVUE3d0c1Y1pDTHV6emY3Sk82V1FwcnozSU42TzNJdm5VcXl0Sm1qdUJBYmRSVFN3TVkwTHYxdUhzeUJnUUxjd3l1UlpmRlc1U0VSdHJBbUZubWdwSEx3aGVDc09pX0FoUGQwbGFmVEZxT3pOSFR1WE5VeFM1UQ?oc=5",
    "published": "2026-01-13T08:00:00Z",
    "outlet": "Johnson & Johnson",
    "method": "newsroom via Google News (site:)",
