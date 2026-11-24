@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:53:55Z",
+ "updated": "2026-11-24T13:06:45Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,28 @@
  },
  "items": [
   {
+   "id": "abc3733c888fe298",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders - Tue, 11/24/2026 - 07:30 - Helus Pharma",
+   "summary": "Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders - Tue, 11/24/2026 - 07:30 Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXFDZE04OU1XR1JXWDk5bF9MM0NmMVhlRkRqaFRVdEhEWmhZWFBBb0xzX3AwZTMwYndrUXU3TlhmUmJfeWsxSFg1bEJrM3JtMkdHMDFSeFh6WV9CajJtMmlMc0pGRDFYR01uQzlTS0lGUVJiWlR0dHh4UGFOMnllRGdPTlliU2pGU0Y3LUNiTTVxdTJTYnVOUExCUVpnZW5aVTdTU21oR0doa0xLSGJuT3F0bERiQQ?oc=5",
+   "published": "2026-11-24T12:30:59Z",
+   "outlet": "Helus Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T13:06:45Z"
+  },
+  {
+   "id": "c49f4a716a734188",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport to Present New Long-Term Open-Label Safety Data in - GlobeNewswire",
+   "summary": "Rapport to Present New Long-Term Open-Label Safety Data in GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPNTZaYkJ5SHJKUmNZX3hjVnVEbnNXX2wwRjBhRTZDMW9wa0ZRdHdlSGdnT0V0YlZyYkszQk5sRDZnMFhrbEs0b21CX1ktckhEZG11VE9MazBCemY3RE9UQkF5M1ZEUzM3VzZuc25sUFJ6VlhJVWsxcGVPVS1mbmprNTh3TFpuUl91WVRjb0ljQUwta180M0w1ZkloZTk5REU1YUVPZ1ZtYmFaVjVyZDJWZUhtdmVYYndIMjlNNkcwV2lBVTV3REs1ZHVqOVQ3dTN2Nlk5RTBMN3ROdkp1UGVjMERVTmkxVExDMTduY05Wd0czRThjbHdyX0dyUkp0VDVMQXlfdE5ydUp0UENoRXZZWW1WNTRQSWpIM2h1SkhPSmtCRERPZHpyWnVhUWhjYnBhMHI2azJFTXJMUVJiM2JnX2VOVWlha3NjUXc?oc=5",
+   "published": "2026-11-24T12:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T13:06:45Z"
+  },
+  {
    "id": "e802e6d629eb711c",
    "company": "LB Pharmaceuticals",
    "title": "LB Pharmaceuticals (NASDAQ:LBRX) Stock Crosses Above 50-Day Moving Average - Should You Sell? - MarketBeat",
@@ -1845,7 +1867,7 @@
    "company": "Newron Pharmaceuticals",
    "title": "Newron Strengthens Evenamide Intellectual Property Portfolio - The Manila Times",
    "summary": "Newron Strengthens Evenamide Intellectual Property Portfolio The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2lxSmtXNzhTdFdfb0NhdmlTYnNoWTFNVFU5ZGpGMUVDQmdBOWFpSDZBdk56MDJfUWRhTjhyaWVOX3Y0UzFYZzhDLWxMZXNQa0Z5OFp1RTFMc2ZzZFhQbjhZU0xnRV9GTU5NSmVRNVJfUmxpYzVKanI3eU1kY0xKaF9CaElCRFIxUi1XY3g4RHVMQ2hESGg3ZXJ1UWlfU2x0bUx4b0xmNE9QNV9kOFpjVGxvUUljRlBfOWM2Q2FMN2ktbVNhX2tIWld1TlhHQWfSAdQBQVVfeXFMUDVZTTRZc0F6REJ0SmdwaUVpUlNGREJ6WHV3aWIzNWlBa1BDZ3dPSG45NGo0R2FUOTdMQ3lzUUxWSko1MDJUcnFCbnBmRmdFZzNkd2E5TjJ6dlpSMFdVNGl3S1ZqYjhpb0hSYXZqbVJEazJGM20tNk54Vkhha2lSMXBmZ1pyOHVsTlhvU21sRGJ4b3dVZm9SWkZzUW9aMkJPampQMGczWlNyYk5fVlR6RFMwOGpCTXoxa3A3Q2VJUWhtV0Vkb1ZXYmpWY3BCSkJaMkNMalg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVlNNFlzQXpEQnRKZ3BpRWlSU0ZEQnpYdXdpYjM1aUFrUENnd09Ibjk0ajRHYVQ5N0xDeXNRTFZKSjUwMlRycUJucGZGZ0VnM2R3YTlOMnp2WlIwV1U0aXdLVmpiOGlvSFJhdmptUkRrMkYzbS02TnhWSGFraVIxcGZnWnI4dWxOWG9TbWxEYnhvd1Vmb1JaRnNRb1oyQk9qalAwZzNaU3JiTl9WVHpEUzA4akJNejFrcDdDZUlRaG1XRWRvVldialZjcEJKQloyQ0xqWNIB1AFBVV95cUxQNVlNNFlzQXpEQnRKZ3BpRWlSU0ZEQnpYdXdpYjM1aUFrUENnd09Ibjk0ajRHYVQ5N0xDeXNRTFZKSjUwMlRycUJucGZGZ0VnM2R3YTlOMnp2WlIwV1U0aXdLVmpiOGlvSFJhdmptUkRrMkYzbS02TnhWSGFraVIxcGZnWnI4dWxOWG9TbWxEYnhvd1Vmb1JaRnNRb1oyQk9qalAwZzNaU3JiTl9WVHpEUzA4akJNejFrcDdDZUlRaG1XRWRvVldialZjcEJKQloyQ0xqWA?oc=5",
    "published": "2026-11-23T12:20:23Z",
    "outlet": "The Manila Times",
    "method": "news search (newsroom not indexed)",
@@ -6296,6 +6318,17 @@
    "first_seen": null
   },
   {
+   "id": "643006d0226ed6b9",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus psychedelic depression drug succeeds in trial amid safety scrutiny - Reuters",
+   "summary": "Helus psychedelic depression drug succeeds in trial amid safety scrutiny Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkdPdDRUeThYeHNJc0xISUc3V0draDBJcHd2YzlvSmQzTUlmVXI2S2Y1cVdxRlJsbTdKYkdtaU9tYUQ1bER3d0Uyd1ZfQlkwdnRfdVpSeFpZUktKNkt3d21oN2VORkJuZnMyRVNiUk5kbTRlOU52YXRBUE5sQnptZmlzWFpuUFNwYUozaHlOVDNXWmlYWllrWkRDVnRBSGgxd3FhOXVDMm1ZcU90czlPRHNjaW1LRkdueENmUWRhUGFBeURZdVFXUElMcUg2Z3ZENjFZUXJ3?oc=5",
+   "published": "2026-11-16T15:54:27Z",
+   "outlet": "Reuters",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "26c2f75da283812f",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus' chemically modified psychedelic hits key goals in phase 3 depression trial - Fierce Biotech",
@@ -7249,17 +7282,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "643006d0226ed6b9",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus psychedelic depression drug succeeds in trial amid safety scrutiny - Reuters",
-   "summary": "Helus psychedelic depression drug succeeds in trial amid safety scrutiny Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkdPdDRUeThYeHNJc0xISUc3V0draDBJcHd2YzlvSmQzTUlmVXI2S2Y1cVdxRlJsbTdKYkdtaU9tYUQ1bER3d0Uyd1ZfQlkwdnRfdVpSeFpZUktKNkt3d21oN2VORkJuZnMyRVNiUk5kbTRlOU52YXRBUE5sQnptZmlzWFpuUFNwYUozaHlOVDNXWmlYWllrWkRDVnRBSGgxd3FhOXVDMm1ZcU90czlPRHNjaW1LRkdueENmUWRhUGFBeURZdVFXUElMcUg2Z3ZENjFZUXJ3?oc=5",
-   "published": "2026-11-16T08:00:00Z",
-   "outlet": "Reuters",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8650,17 +8672,6 @@
    "first_seen": null
   },
   {
-   "id": "7480e82e2c8dde4e",
-   "company": "Novartis",
-   "title": "Account Manager, Neuroscience - Novartis",
-   "summary": "Account Manager, Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDljdUQwbFBCZlotb0FlcUxhUHlxWTFoUDZ0T1pIMXBKU3pJVDNxMkcxRFhtbm54OHlfTmkzRHl0akRYcnlXdWVfamxqekJ3dXZWdEMxN1RKa3JmQ3BCUUZ0R0Y4ZjdGRUtZVHZLNUF4SHJ1RGhIcERQNTJDdTVYNnRrR1NYRHVpVDJsT2k4LVpYWWZNdEJldjBYeFZJemQ5LVY5dTFVaHFwZw?oc=5",
-   "published": "2026-11-11T22:29:45Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "e9d51e1631e74f28",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics at stifel 2026 healthcare conference: cash-rich push - Investing.com",
@@ -9167,6 +9178,17 @@
    "first_seen": null
   },
   {
+   "id": "c9586dcd8455cb7c",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
+   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWFvOUhrNXVuTkVzb0FJb3RjY3B0TXRON2hYb3E2ZGNsaFVuQTg5V0ZfZnlFZzBGZU5DQmF2anVBMXR1cmVGRXRCXzRQcW1GeE1FYXF0UC1hckJILWktT1F1RVlsSXlRSHA3WnJjckFZeWh4cE9UWWYxZklSRjRjQnJLTDFFMlVLZUVlUUNkVkpRRlVYWDBHZEU5TF9WRzd4SXpRX0U5RU90d1h1OVhSOWkycHFNdnMtYXh2aFBaRG5Zb2pCS3h2ckRVVnJvaG1uX2lKOFdkRFNnSlNmYnp1Skd3dVN5dlE3TFZJNGhwTS03Y1pmNWFCMHNWWU9xU2pGM3ppRS1LVk5xZk9rdlBIVk1SeGR6NVVNb2Z4Qi1TUlhackhBRkZGbXY4S0pqZm5aa2xBQg?oc=5",
+   "published": "2026-11-10T19:28:38Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "4f65926d99c176c6",
    "company": "MapLight Therapeutics",
    "title": "MPLT - MapLight Therapeutics Inc Forecast, Target Price - Finviz",
@@ -9307,17 +9329,6 @@
    "published": "2026-11-10T08:00:00Z",
    "outlet": "Fierce Pharma",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "c9586dcd8455cb7c",
-   "company": "Johnson & Johnson (incl. Intra-Cellular)",
-   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
-   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTkhvOGlxN2tNRGpzTGFCZHJ4bmYxUGtHWUd6SGNMN01JV1Q4VGh5dGhtb3c3MkVrWENUc2NQaXhJSkJ0amNfaHBiWEstaXo3SGt5YXg2Q1pNUEVZM1QzYTJaZXBJOXpaOFFlSWI4YzVrbHRuLThPV2NxQUZsNEk0bmdndWFsNkhzcnBUNmQ1dVV3aHZMQ2ZLQzIzNHdEVE9JbGJuN0VoXzZNNlFodEFEM1hNWjRKOGpLanB3U3k1dXZtTTU1Y1dMazlzZ3RhYTFlS2ZvenBoZGVraWlPcXppQ3ktN0FEdElvalhxb2R4ZW9vRDFIQ19Mc2hnYTZpTDJyVDltUmRUUXo1TEs1UmMxSA?oc=5",
-   "published": "2026-11-10T08:00:00Z",
-   "outlet": "Johnson & Johnson",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -10780,6 +10791,17 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRTlKcGpJYlUzOWx1eTNELVJTMi0xcmhkOFJtRjNGUWlhb1IwT0VlWjNweDd1SkVZbFdpdzdBUm4wSnNxdEQwMlVUNDVEeVpDLWUyaTd5SDcxLWExbVpQeTU3aGJzYTA?oc=5",
    "published": "2026-11-06T06:10:28Z",
    "outlet": "Annovis Bio",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "7480e82e2c8dde4e",
+   "company": "Novartis",
+   "title": "Account Manager, Neuroscience - Novartis",
+   "summary": "Account Manager, Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlU1OEZsbnBIeW1xMzdpYkJMOEx5bHcydUh2Y0ZjTTh4ZHVWcjZNczRzejBFa19CSUZxdFhrWF9BcEtXS25RTnI1U2JEcjhWcTROR0xIaHJMZWxKclZrSVlUeG1CTGNOejkybjlqNkhBOHNHaTlWb1c0UlRWc2QxeFEwQ3VPd2EtWXc1SnRTLWYxSGZwZTk2RUlXQ1ZtVlM2M3NuRmtIaHQ1Zw?oc=5",
+   "published": "2026-11-06T04:36:20Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13428,7 +13450,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -14851,6 +14873,17 @@
    "published": "2026-10-23T15:58:40Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "84e86ccae4b3cf8b",
+   "company": "TG Therapeutics",
+   "title": "Careers 210 - MediaAnalytics-Reporting - TG Therapeutics",
+   "summary": "Careers 210 - MediaAnalytics-Reporting TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeGRsN04xMDY3SGlMaDd0THdGMW1BT0xHajQwbmI3dUczampmT2FkZnFrLUlfVXRjMEZEQ3BGVjNBWC10bGtrZ21uRWpXS3kzT2UyQzJmeEtWdlFNbHRlUkNuQl96dERIWXdEOEZEeFFmWkVaeld6UzhzZmVaUXFwaEEtek0xWG9sSkZBT1R3?oc=5",
+   "published": "2026-10-23T10:48:58Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -21535,7 +21568,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Participate in the H.C. Wainwright 28th Annual Global Investment Conference - TG Therapeutics",
    "summary": "TG Therapeutics to Participate in the H.C. Wainwright 28th Annual Global Investment Conference TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9CQ3p4bHNGeFpBb0lwc0VOZC13ejNWcmlneU04WTdKbDlWd0hHMy1Eb1JJWnI3NjktaEUzVlp3czBGenhyU19ya3Jnbld6ZExhR1RwTVpPdDFUUFVWSU5iRGtIeTlBcTFzWXNqOHlrY1B5RENrT2ctY1JacnRUX3E2a0ppV1NCUmtkcEZHcldrUlRDTDg5NGt2R2w3OHZnLVNGQXBGTlVkZUxmQ2J4XzExbzVCLTJBM0JyN0VlR1BrT2s?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nYVJILUlDX2s0a2ZqVE1OUHBlUGNiX2NGSlI1dFNpU0RreWJzRm8wcGJWUEJuZWxkVmt0elN4VWU4azNRNVFCU3JaM0N2ejBiTTVwRXFrWQ?oc=5",
    "published": "2026-09-10T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -26617,7 +26650,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -27490,17 +27523,6 @@
    "published": "2026-07-24T07:00:00Z",
    "outlet": "Sleep Review",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -29005,6 +29027,17 @@
    "title": "Eli Lilly Buys Psychedelics Maker Atai Beckley for $2.8 Billion to Develop DMT-Like Depression Drug - Yahoo Finance",
    "summary": "Eli Lilly Buys Psychedelics Maker Atai Beckley for $2.8 Billion to Develop DMT-Like Depression Drug Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGNXUDRWZldSUW9XVmlLOXEybE5Db19UMTZkakZRbnpKZXFuRW9UQmxOelRGdG0xWWlHTXlENWJ3MUNjV2VTZzdadlVlZEFKTklXaURZT1dLLVRtUFBEazYzbjUzVW1vSjdSdVV1UnZEWmtuV3JhQzlFTnRQRnNid0NFOEJKYkx6Z20wa0Rob3NZcldDYkxjSFF3?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "79a0e49abbdbd66b",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley Soars as Eli Lilly Agrees to $2.8 Billion Buyout - Yahoo Finance",
+   "summary": "AtaiBeckley Soars as Eli Lilly Agrees to $2.8 Billion Buyout Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTE5VXzh4R3YwbEF2a05CcHVwS0IyTUw5bnRfdW1UZlJsWE1MQmJoSWM5UndzMklTckVQaENBaWdnSUFWT0FLUG4wRG5tM1pKRnlqMjUwS2VUdXlsOGNQTmdyYS1kX2stVzk2aVNBbzQwQVgyVGxTVVg2R2lNZkxoMFY2dG85RjhXb05RN3dsMDRSblk0YlNobk1kSQ?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -41023,6 +41056,17 @@
    "first_seen": null
   },
   {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c2f1023df802267b",
    "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
    "title": "Lilly Establishes up to $1.9B Repertoire Deal in Second Immune Play of 2026 - BioSpace",
@@ -41566,7 +41610,7 @@
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting - Johnson & Johnson",
    "summary": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdFBDQnpnOWpNczB2Y0YzcUNtSnNpa1ZfdnpYVWFGbTZaSjhfR1dIQTM3UEZFRDJLcjRnY09KS3NzMmtJWlJVeW93T0NNc2dESXpLb2JKd09YZUxsRU9LcDJsQ0c0ZTBVSkZVb0FxdkxIcFRUbldXaDBadzNpRURVWkdRSk00aEZuX3RwQzRvTHFFRDZRVUE3d0c1Y1pDTHV6emY3Sk82V1FwcnozSU42TzNJdm5VcXl0Sm1qdUJBYmRSVFN3TVkwTHYxdUhzeUJnUUxjd3l1UlpmRlc1U0VSdHJBbUZubWdwSEx3aGVDc09pX0FoUGQwbGFmVEZxT3pOSFR1WE5VeFM1UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUjI2blNPVV9UbElmUmI4TGZUR1h0OG12V1NjOHNOUk5GSzJ6VWNUR2FfOVBiSW9MZ1E3blVBVFFOMGphalE5dlRIczJKYkVSNEtCX3VkZThiT2RIUlVoWno0ZFdYVHA3U2JDRzV3NXFyRjNiVE9tcTBBT0gzZWhZWGQwTTVRLUxObjBFNVczb0REdVFWOWk1WUktRmZDbG1Lbm4xN3VCSGo1X3EtZTNOX1ZrdDVGeUpSSjZfQ0lXdGlwelZEbmdZUFN5cUh3dFlyTldfc0lFbEV3TWRlVVFiN1dKTG5seExoMmdKOUhPOFFIMmdZdTlYM3h6aENVWEtEa0N5Rk5abGpsc3dnV3dfUkUzRDNZempSZ3hxLU9hbE9VVi1aNjBHaUYzVkljUQ?oc=5",
    "published": "2026-01-13T08:00:00Z",
    "outlet": "Johnson & Johnson",
    "method": "newsroom via Google News (site:)",
@@ -42127,7 +42171,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - Eli Lilly",
    "summary": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0MHZlRnFhQUVIclZpX19KdS00Rk1kX2R5SERTa3ZqT3FhMDNWc083ckYtRnZsaWt4eTM1ZDlHZWdjUi1GazVwTlJnZHdEdjNKMUk0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjdwYWFSNE1WN3JMRkFzUnk5NGk4cWo3N05TMGhrdHphaFJDajVYeUZDRnR3TG43Q0ZXUm1lZXN6QXM4LURmWldsX1NkaWgyY3R5VWpjd2Z4RmZOY1ZuZWZ3NjNYLUVYUm5NdHg0dFVURlpMbnY1dU5mUVJtV0lOLUVlNEk2U0RDMklxSXNrcEVIUW8yUWNYeE05TUZQOWhVMXhvaFZfaWdwbXJYUlVOUGZ4Z2h3UXA5?oc=5",
    "published": "2026-01-07T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
