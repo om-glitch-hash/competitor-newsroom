@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:37:51Z",
+ "updated": "2026-11-24T18:36:38Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "5ac9f50db7b9da1f",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics soars 22% as health care stocks gain momentum (MPLT:NASDAQ) - Seeking Alpha",
+   "summary": "MapLight Therapeutics soars 22% as health care stocks gain momentum (MPLT:NASDAQ) Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzFsQlRfTlVEWXk2YWJqc3hWczJEaU1zeDViOC1RMXBvbjZZWjlDd3hCNmM2VWZfVUp2QTZUSHZPb1NqRTRCLVh2c053UkJVdThkRy10WkVKM1FyUm9RRGIxN2p4eEhGU3FuNk1ZMHRJQWpMM3lqUFZub2ROZHVudlB5VTFKZU1wSDluOE1BNDQ4WlpibmlvMExfS2Vwb1JlVXlUV3JBYw?oc=5",
+   "published": "2026-11-24T18:22:34Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T18:36:38Z"
+  },
+  {
    "id": "8309a57125095ec4",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Nasdaq Composite Watch: Helus Pharma Inc. (CN:HELP) — Small Cap Growth Stock in Focus as clinical catalysts, development timelines and risk management - kalkine.ca",
@@ -1773,6 +1784,17 @@
    "outlet": "Quiver Quantitative",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T14:28:23Z"
+  },
+  {
+   "id": "b874ddcf47cbd17b",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics (NYSE American:SER) Jumps in a Small-Cap Biotech Bounce With No New Announcement - kalkine.com",
+   "summary": "Serina Therapeutics (NYSE American:SER) Jumps in a Small-Cap Biotech Bounce With No New Announcement kalkine.com",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGxvRXpKOU0zU1RpcHpWbW9UZnVDWGpqVElpVDU0WV9lWklaV3FRSGdzRWVpdnVlSGhsbnJrVVFqV1RYbkhRejYtZVBmSHh1RFRoMEhRODVuM0U2M0JxekhhWlV5eFkweTRQZGVYTl92X25lV3JkU3JqYXdreUg5dFB0YWZ4RlBCSF9JcjdUaVRMbGwxbF8ydWRHVjZMNThKQm5kM0ZiQ3R1anJYT1RnQlF2cFExaDZwblJzQjFNenJWcEtOVGkyS1JZb3E1UQ?oc=5",
+   "published": "2026-11-24T12:41:00Z",
+   "outlet": "kalkine.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T18:36:38Z"
   },
   {
    "id": "abc3733c888fe298",
@@ -2072,6 +2094,17 @@
    "first_seen": "2026-11-24T11:53:55Z"
   },
   {
+   "id": "19110408c1e9948a",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "H.C. Wainwright Reiterates Buy Rating on Helus Pharma (HELP) - StreetInsider",
+   "summary": "H.C. Wainwright Reiterates Buy Rating on Helus Pharma (HELP) StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkeE15dWlFdmhBSnllQmw4WnlPN0J6MVZMRngxTlhfV3RjY0w0ZHI5Rm5FZ3NEUXZxNG51UEd2WEVRU0htdVgwenV3emliNDRXbWcxLW5YZzg1VzAtbloxcEx0NDhnNFZROFBvSQ?oc=5",
+   "published": "2026-11-23T11:55:00Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T18:36:38Z"
+  },
+  {
    "id": "66f042f225ad6dd5",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "HC Wainwright & Co. maintains Helus Pharma at Buy, keeps price target at $70 - TradingView",
@@ -2263,7 +2296,7 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value - Simply Wall St",
    "summary": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjU3SjJzVTN2WHRDbnBhUnFmYnpfT1pTeFNUZmxjOGZoZHdXYUgySE92ak40SXJJd3NPV3BFNG1iRnoyVm1BTmZjdGdGYWIxVmVQMGMtOTJPZFFLTlM0T2N0bU91UXBUSmRWaGEwTV8wblctdVU0a0c3RWc0NFRKWXlUX1Qwb3p1MkViQnU1WFJoVUVCclNZWGlDNEMxd2E2OFZ0VWNzNkNUdDRFOWtZckZnam9xeXpLaUtpZC1SeDdUNWt2THl2VDdzZzdjTDFMelNteTdzM0ZjRm45c1Bv0gHkAUFVX3lxTFBveWVoSWpTRXM0WU5OOXdaZnlsdWRzRXVOSGwwOW1CSEx5cVZuWWctMFFMM05oVWN4ckJCVjRfeTUtUWNaY0pIbFJlR0NQNFQ3RUxUcHFpNF9mQkNqWmxJbXdzWmdxQTFsNy0wNHdzT3hIN3R4Y2huRlFxOVF6OGxtQk1Mc0JPcnBkQWZOV1NOaVFKRkJkcWhkTG1La3hXNXFNZG5yNkh5elp0WUJWMFB6RmJxMTVoQ0Uwckh1MjVUX1ZyX0pHX3RfRzdEbU05UG1jcUFWY0tkMVFndEJfckplNHBMWg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3llaElqU0VzNFlOTjl3WmZ5bHVkc0V1TkhsMDltQkhMeXFWbllnLTBRTDNOaFVjeHJCQlY0X3k1LVFjWmNKSGxSZUdDUDRUN0VMVHBxaTRfZkJDalpsSW13c1pncUExbDctMDR3c094SDd0eGNobkZRcTlRejhsbUJNTHNCT3JwZEFmTldTTmlRSkZCZHFoZExtS2t4VzVxTWRucjZIeXpadFlCVjBQekZicTE1aENFMHJIdTI1VF9Wcl9KR190X0c3RG1NOVBtY3FBVmNLZDFRZ3RCX3JKZTRwTFrSAeQBQVVfeXFMUG95ZWhJalNFczRZTk45d1pmeWx1ZHNFdU5IbDA5bUJITHlxVm5ZZy0wUUwzTmhVY3hyQkJWNF95NS1RY1pjSkhsUmVHQ1A0VDdFTFRwcWk0X2ZCQ2pabEltd3NaZ3FBMWw3LTA0d3NPeEg3dHhjaG5GUXE5UXo4bG1CTUxzQk9ycGRBZk5XU05pUUpGQmRxaGRMbUtreFc1cU1kbnI2SHl6WnRZQlYwUHpGYnExNWhDRTBySHUyNVRfVnJfSkdfdF9HN0RtTTlQbWNxQVZjS2QxUWd0Ql9ySmU0cExa?oc=5",
    "published": "2026-11-22T18:07:48Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -6428,17 +6461,6 @@
    "first_seen": null
   },
   {
-   "id": "2139aa103bf92716",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Serious adverse events mar robust efficacy data for Helus’ psychedelic in major depression - BioSpace",
-   "summary": "Serious adverse events mar robust efficacy data for Helus’ psychedelic in major depression BioSpace",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUThUX01fS0tSOXlNTHNWZmp0SG1NTWVPQ3R1Q21ibjZoMWtZU2hqZUQ1TmIwNWQ2VzV4N3JrcmtkeWtWMWtreWh4VWdvSndpZjNyWHBnU3V6UHhtd0RZUTZ2TE1ydFk3MDBHdEZfM1lLMWt0dE1QVVppS3BFTzdtNktkQVRSdWlScmR5Q1B0RE0yQVE5bkwxT084NElud3VLVmQyWHktT1UzdTZLcW4tc1F4V0MtcGNURWlSTmhwMzRXWi0xM2NWbU54Yw?oc=5",
-   "published": "2026-11-16T15:58:06Z",
-   "outlet": "BioSpace",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "643006d0226ed6b9",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus psychedelic depression drug succeeds in trial amid safety scrutiny - Reuters",
@@ -7381,6 +7403,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2139aa103bf92716",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Serious adverse events mar robust efficacy data for Helus’ psychedelic in major depression - BioSpace",
+   "summary": "Serious adverse events mar robust efficacy data for Helus’ psychedelic in major depression BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUThUX01fS0tSOXlNTHNWZmp0SG1NTWVPQ3R1Q21ibjZoMWtZU2hqZUQ1TmIwNWQ2VzV4N3JrcmtkeWtWMWtreWh4VWdvSndpZjNyWHBnU3V6UHhtd0RZUTZ2TE1ydFk3MDBHdEZfM1lLMWt0dE1QVVppS3BFTzdtNktkQVRSdWlScmR5Q1B0RE0yQVE5bkwxT084NElud3VLVmQyWHktT1UzdTZLcW4tc1F4V0MtcGNURWlSTmhwMzRXWi0xM2NWbU54Yw?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "BioSpace",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12016,17 +12049,6 @@
    "first_seen": null
   },
   {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
-   "published": "2026-11-03T12:12:08Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -12067,6 +12089,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13578,6 +13611,17 @@
    "first_seen": null
   },
   {
+   "id": "7f5f46e65c9d5189",
+   "company": "Neumora Therapeutics",
+   "title": "Neumora Therapeutics Received Notice of Noncompliance - TradingView",
+   "summary": "Neumora Therapeutics Received Notice of Noncompliance TradingView",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNby1hWDRhQTdlMWZ1YW43S0ZDYk5IaUw4Z0xGdkRpQ2x3RUM3UkhOUWlSTDU5d1BPQWdibUNQcV9FMnhzb0IzNlhpTUtpY1NJc2EtRkYtRGN3b3RwT1pRaG9CTDR3ZTJUSjh6bXk4X1JJQjJHT1JfVklSa3VZcGk4LW9OdFlQT3VTd1VFX0NnUkhGMjhFSmd6dmNVYmlMcHEwcUdFWHJYQVVERG1RNUZ1cHhqTFI0Zw?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dacf5d1be1dbbfba",
    "company": "Supernus",
    "title": "0001356576-26-000051 - 10-Q - Supernus Pharmaceuticals",
@@ -13626,7 +13670,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -15452,7 +15496,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxZm0tN3FPTkVuazVGa2s3bXQtMHpIeTNoLVc0ckJ5d2YxdnZCNEkxZGx0WWFham9ldTVtbFV0aVRJRFF1a3czaFFMRVhPNUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGFUbVF4WlEtdno3dzZxUmxzOWdXMHIxM3c0c0FnLTJqN0VvaEpqTjNGTmNaOVpOUWlRSU9jS2tWX3hpeEV3Qm96R180UFVYVTcwZ0VZaEptd1BxT3dmLXlaS0dTT0REUjg2QkpFNnZBdzJMcXdvNkYyaXZHTHhrUUpna2lXNUVCRDRNSFExLUdwMzVERWtnbmJZQVJ3ajZEdWJtWGM3dTdpY0JEOTJXTUVkcTNUNEtIQTMwMHdjRQ?oc=5",
    "published": "2026-10-21T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -19405,17 +19449,6 @@
    "published": "2026-09-24T01:00:00Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "eda59f58d62a00e5",
-   "company": "Eli Lilly",
-   "title": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. - Lilly Trials",
-   "summary": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. Lilly Trials",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJOXc3XzMyUzdqVjc3U2ltOGpkVGZVVTAybXFBZ3p1SUlaRGQ1dlpoNVE0a0gwV21zWjFXdHdlREtEbENXZ1ozNFNGOTNhZlY4dTZrWFhB?oc=5",
-   "published": "2026-09-23T21:43:04Z",
-   "outlet": "Lilly Trials",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -23577,6 +23610,17 @@
    "first_seen": null
   },
   {
+   "id": "eda59f58d62a00e5",
+   "company": "Eli Lilly",
+   "title": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. - Lilly Trials",
+   "summary": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. Lilly Trials",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QTTlPQUpBUVpQQ21LTnlRc1ZjZnlBUUNteE5KS1F3aDhNdmU3Z0NQUkEzSWJIQ0VsSkZMSTNSa01KaE1SOUdXcmZBa0dSX2VNZzR0Mzd3?oc=5",
+   "published": "2026-08-22T08:19:22Z",
+   "outlet": "Lilly Trials",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "0d12ac7a0e0c8fe4",
    "company": "Alterity Therapeutics",
    "title": "FDA Accepts Ecopipam NDA for Tourette Syndrome, Remlifanserin Receives Fast Track Designation for AD Psychosis, Alterity Reaches FDA Alignment on ATH434 - NeurologyLive",
@@ -23892,6 +23936,17 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGNFYTR6UmZTX0hQU3A3c1dpcmNaMDk0Wjh2Nm5VdVQ0bElDZmd0XzFhRlAzMnBfdW0yd3B3RGVNdk1zb1drUUM0NVRwZmNlY0s5SGdBTHNNYWhldm1hdDVuTDVPMU92T1RuN09DaWFCUy12bll5c2NXR0dzaXJvRUMweFI3MV9XSE1oYlV3YkhicmZuMmJ4dmtR?oc=5",
    "published": "2026-08-20T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5d6e7cc8dadbdf66",
+   "company": "Remepy",
+   "title": "Atlanta Falcons' $10.6B valuation, Crestline's $625M fund - Axios",
+   "summary": "Atlanta Falcons' $10.6B valuation, Crestline's $625M fund Axios",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGZKOUVidHJ3cVZ5dGZIbm9XMng4Rnk0Y0dYNzVfbTczN1pDSzYtQTZwWS1wMjBlS2REU2NObzRtZm44Yk1jTWpzVWUyVUNDak91TWRmMG5xZ0JOckRQVWFERGhsalhPYkd0cnJhcU04cGt3ZHF0Zi1Ubk1zbGlSQ3NsdHhtSGkwUzVRbUlvY3FJajFTQ3Nn?oc=5",
+   "published": "2026-08-20T07:00:00Z",
+   "outlet": "Axios",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -36168,6 +36223,17 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXpzZVhSTUQweG1CZUdDZHgwYXBrdDdNT0hadE52QnhPQVQ2dmlqRTRVTjFxR1N4TmlPaUw5QXJHLUdlTFNjWlI4d01NYWhiRGl3bFdlZEIzOVlIaE9fdnJnYVkxREVkSnhDa183cGhDRlItdW1YVXc5TlE0X2Z6WURhUmJhYlBqMDktX2stNnMtSFpPMTZCeG9rU0lwcjNiMUtJNnRUZ2RWeVlUQjdramFB?oc=5",
    "published": "2026-04-28T07:00:00Z",
    "outlet": "Medical Device Network",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a84f4e1a44aad0cf",
+   "company": "Remepy",
+   "title": "Google’s clinical director on AI challenges - STAT",
+   "summary": "Google’s clinical director on AI challenges STAT",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1ZSbnpaWWRvQ3NyLTk5YU5vQTlMS1hwaVJsaWs5VUN3UnRNTG5mUGhpdkdKVUtnYmtGZjNROGY1ZjdTcE5HejZabUJYMkZJNzdaR3BNY2x3aEhMWFo0Q1hQRTI3aENYV1h6OFlOVlZiVk42UmZpeC1DSTZYTGt6eHdKSkpBUXNOV1VFZ25LSWtRYi1Ibnphd1VDS2dHaTh2?oc=5",
+   "published": "2026-04-28T07:00:00Z",
+   "outlet": "STAT",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
