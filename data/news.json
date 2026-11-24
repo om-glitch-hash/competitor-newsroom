@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T08:36:08Z",
+ "updated": "2026-11-24T09:49:08Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1653,6 +1653,17 @@
   }
  },
  "items": [
+  {
+   "id": "e802e6d629eb711c",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals (NASDAQ:LBRX) Stock Crosses Above 50-Day Moving Average - Should You Sell? - MarketBeat",
+   "summary": "LB Pharmaceuticals (NASDAQ:LBRX) Stock Crosses Above 50-Day Moving Average - Should You Sell? MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOTZ4VE5IdzRleDc0UkZab0tWdWhTYXFpMEZraTdZNUVjZW1BdDZVZ3BkN0c3NXZpX0U2Mm1teTlWdC16WWE5eWx6TU56bWZMb2I2YzJYSDB0akg0VVVOYzVWUHQ4MmN0RmYxVGhTME9XQ0RWMG9fQ1F0Tnl2V09VbUh4OGRQQWdMZElfTFZfWWRadFFuejVvNnRPWFhqTldFREhkQXlyVFZXRElDeWZkTHVMRFRrZU1mVmxablNCREo2aFVfRlFtSEhNajd6c3ZzYjY4T3dxMEU4WVAybm1xZnFn?oc=5",
+   "published": "2026-11-24T09:46:26Z",
+   "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T09:49:08Z"
+  },
   {
    "id": "a0b0a8544c450aa6",
    "company": "Newron Pharmaceuticals",
@@ -7011,6 +7022,17 @@
    "first_seen": null
   },
   {
+   "id": "872ab3c35c7b0199",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus psychedelic depression drug succeeds in trial amid safety scrutiny - marketscreener.com",
+   "summary": "Helus psychedelic depression drug succeeds in trial amid safety scrutiny marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOel9Nck1mVHROX3pUSXhnVVZYcUhMN3FjbEQ0dzdJaElUeTBmZ0dGZHhqLWtvZVhDT3piVEJTODJ5bVM0V1hZZVdzczloVU5Xc3ZXM1p0YVNSZlljZ1BCOG94OExBekozRHZ0Tjk0SXA3XzdzTDZlWHpsZ0dxUzU0OUZBTzNuVjRWX09mMWxfNmIwRnh6TS1rQkdWeXBPaUpnNXFNODZLamNMV21TQnRnZ2E1WU40UVU4ZVZDRUNrdVpXUQ?oc=5",
+   "published": "2026-11-16T12:03:22Z",
+   "outlet": "marketscreener.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "3b10550e45e26e42",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Announces Positive Topline Results from Phase 3 APPROACH Study evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder - Mon, 11/16/2026 - 07:00 - Helus Pharma",
@@ -10333,6 +10355,17 @@
    "first_seen": null
   },
   {
+   "id": "dbf315926ff3c552",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "(icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide - Johnson & Johnson",
+   "summary": "(icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNS1BtLXdkZWo5VkNZazFxRHlYQUNrVHhUcDJDTWRKODI2ZUpnV2pVTng1Q19kZlk0VTFrb0ktVTJxUVlYbC15dlNKeE1kUVdPNVpkek82Yk51dmhvdENFSEFEbjlVaDlDNTdOTDRVeWxIVzdGblFidTJkakxfWW1wX0tIZ3VyZHVUSFE2bjB6TjdHY0JLY0tHOTQwREZOQW5LSmcweC10bXRBWmVhZXhxSUhHLWQtMWRBblcyVkRQZDVDSk1tbVVsbUN6SWNjMFV2Sll0WVJ3OF8xTUU2eW9pY095MW1NbjNYYXo4c3ZlRXVSVGVROENJWVlTcW1uTllRbHdkX3Q4X044dTNYUXpoYXZ0RmswaXhPOGM0dmMxQlFoTjN5a251QWFvaEdIWVV6N1VhaUI5LWRxQkg3R2xYQjJRTFpYT1lOV3FBMXRJaThuM1NZ?oc=5",
+   "published": "2026-11-07T08:00:00Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "eb53bdf562fd32b0",
    "company": "Protagenic Therapeutics",
    "title": "With no revenue, Protagenic (PTIX) faces a funding gap ahead of a planned drug application. - Stock Titan",
@@ -10748,6 +10781,17 @@
    "published": "2026-11-05T20:43:57Z",
    "outlet": "Investing.com South Africa",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3ca823a39e075956",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics Announces Late-Breakers and Poster Presentations at Upcoming Scientific Conferences - Gain Therapeutics",
+   "summary": "Gain Therapeutics Announces Late-Breakers and Poster Presentations at Upcoming Scientific Conferences Gain Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbzRwNkdIZ2ttQVE1dkNtWnRoLXF2Y2dibEh6STJwMmxxVVpWWXdPWHhSZUk5NDZ3Y19sbU5MUlRvMXN1SWdjRXc3aWtTVXNHVzJkbGYwLUh0VmhudFNzdFZUeHpTQlI3WDE2NFRDeTR2dlVmZkFjck5vWFh6d1pUR21LMnluUnYtc3ZuLVdwOW1nUlRITlF4eFVxblhwcmFMU1VBMVUtUkdmZl9CR3ktNXFtWUpkZFR4aUw1RWl6eEloMm9UTnZCLUVQckJJd0tHM3daLTB3c19LaTJwV1pNNXk2WHZVM0Y0eV9fb28tZ3IzaXBBQzNsZE5CVk1YYWx6WUFPb3F3?oc=5",
+   "published": "2026-11-05T15:52:49Z",
+   "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -11697,17 +11741,6 @@
    "first_seen": null
   },
   {
-   "id": "249a19d2c0547d55",
-   "company": "Alkermes",
-   "title": "0001193125-26-444507 | 10-Q - Alkermes",
-   "summary": "0001193125-26-444507 | 10-Q Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDVkMi1pcnFJazdPVkY0ckxoemZHSlVMeVROMkpmb1pwXzVUaXI5WnZoU2xReFZ0dnFkRS1vY28xSzFNUUVVOXdISzdVVGtIYWZYdUN5cDhoSXdNR1BfSDU5Tnd3dTE4YTdaVFQ4YzVmeHZHNGVWNm5YOXVHMUVNc1cxbFQ?oc=5",
-   "published": "2026-11-03T15:11:36Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "bc003426ac2c52aa",
    "company": "Novartis",
    "title": "Neuroscience Territory Account Specialist – St Louis - Novartis",
@@ -11747,17 +11780,6 @@
    "summary": "Third Quarter 2026 Financial Results & Business Update Alkermes",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdXB3N3ZyczBlek9pM1E5RTRLR0RxUE94UC1zamdQMFA2LUEyMWEwMHhpU0RPR1p2akQyWUtBWjNPaE1sMlhhZ29RcHljY2FITWhabTdEN3dSOXliYXJDclM0U1RBMTJocnA1ZHlFRlFpN3ZQZ1NYZmhvc3g0Z3hrb21Gdi1jdw?oc=5",
    "published": "2026-11-03T12:47:08Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
-   "published": "2026-11-03T12:12:08Z",
    "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -11803,6 +11825,28 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "249a19d2c0547d55",
+   "company": "Alkermes",
+   "title": "0001193125-26-444507 | 10-Q - Alkermes",
+   "summary": "0001193125-26-444507 | 10-Q Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDVkMi1pcnFJazdPVkY0ckxoemZHSlVMeVROMkpmb1pwXzVUaXI5WnZoU2xReFZ0dnFkRS1vY28xSzFNUUVVOXdISzdVVGtIYWZYdUN5cDhoSXdNR1BfSDU5Tnd3dTE4YTdaVFQ4YzVmeHZHNGVWNm5YOXVHMUVNc1cxbFQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13329,7 +13373,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -15833,17 +15877,6 @@
    "first_seen": null
   },
   {
-   "id": "3e7fe3cbb00b00ed",
-   "company": "Rapport Therapeutics",
-   "title": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target - Moomoo",
-   "summary": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1FfaExBZkFyNmFDSUZaV2FDdXctTHM0X09XWEhDaGhCdzV3dXJydXRpLUhkdlNNTG91VW54T0w0TGc3V0NXS1VUVmtDQlFfQWktOFVlVVRMVmo0ZjBBS1k4MHZFM1ZtTkIxUDU1WUx5MVF1bm4yYTMyVzJjQzV0ejlJUl9qQXpWMVhnU3V1aWdrdDNIUEdtUy1DZGdFcHhEdVBkaXluSGp0UQ?oc=5",
-   "published": "2026-10-15T17:35:40Z",
-   "outlet": "Moomoo",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "e665b7b7fa138903",
    "company": "Roche",
    "title": "Playing walking soccer may help people with Parkinson's disease - www.brainhealth.com",
@@ -15885,6 +15918,17 @@
    "published": "2026-10-15T10:00:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "3e7fe3cbb00b00ed",
+   "company": "Rapport Therapeutics",
+   "title": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target - Moomoo",
+   "summary": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1FfaExBZkFyNmFDSUZaV2FDdXctTHM0X09XWEhDaGhCdzV3dXJydXRpLUhkdlNNTG91VW54T0w0TGc3V0NXS1VUVmtDQlFfQWktOFVlVVRMVmo0ZjBBS1k4MHZFM1ZtTkIxUDU1WUx5MVF1bm4yYTMyVzJjQzV0ejlJUl9qQXpWMVhnU3V1aWdrdDNIUEdtUy1DZGdFcHhEdVBkaXluSGp0UQ?oc=5",
+   "published": "2026-10-15T07:00:00Z",
+   "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -16537,6 +16581,17 @@
    "first_seen": null
   },
   {
+   "id": "05fd87ce91260c0c",
+   "company": "Supernus",
+   "title": "0001539215-26-000010 - 4 - Supernus Pharmaceuticals",
+   "summary": "0001539215-26-000010 - 4 Supernus Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rbi1jLWd6c05sc25CS0plZFpsaE9GUjFSYU5qSW0yd3pvNEpidXVCLTVzcE5lY3RhWEc3aG14UDU0RTl2TVJXb1BJbDBBMHpPRDhUdnZjaUNPUFlTUDloTFdjNFY2ZlpOOFRHcTJMZkxjX1pFb1RsdQ?oc=5",
+   "published": "2026-10-10T20:26:11Z",
+   "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "2736c821b567be15",
    "company": "Teva",
    "title": "Israeli Pharma Giant Teva Wins FDA Approval for Monthly Schizophrenia Injection Weltruza - Haaretz",
@@ -16874,6 +16929,17 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tWUV6aXNkYzdjUXk0ZFV5a0ljRUE4OW9WdlpPR3ctam1jcHRZbEhvcW5xSUZLbG5Qd0xPR3hZcnpJOXhpdmRzVTZfUlRNTFIzeHQ0dDg2RUpwRVJ4NXVmQ0JmWEdXZDBmWHA4QlFsWDBERGtZVnk3NE53?oc=5",
    "published": "2026-10-08T18:59:21Z",
    "outlet": "Merz Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b6a443243cd0bd8b",
+   "company": "Gain Therapeutics",
+   "title": "Gain Therapeutics to Attend the 2026 Maxim Growth Summit - Gain Therapeutics",
+   "summary": "Gain Therapeutics to Attend the 2026 Maxim Growth Summit Gain Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVEhEbE1NaTZxRFRfMVVPZEtHUENvQlVRRC01VzhXUjFybFRkMzNBN0dfWXZtLV9BNmNGbVZKcTRZbkVaMFpNVFJGTUU5OTI3eFBxSndlMWxXMzdyU3l1SW8xWGhoQ3ctQV9ZNGFnV3pxVFlQQjc0WmFxdEpvTmRmQlNMMWRad0hsbjgtcXlrSFUxby0wQlZTbC1sVFMzZ20xd0Q5UjYzMzVqMUNqWjFVeU5NbzVrcXVpeGRPNGZ6THRZdXVnODc2R0NR?oc=5",
+   "published": "2026-10-08T14:33:17Z",
+   "outlet": "Gain Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -21088,6 +21154,17 @@
    "published": "2026-09-14T07:00:00Z",
    "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "42573fda45a55d87",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Striving for a cure for multiple myeloma: What HCPs need to know - Johnson & Johnson",
+   "summary": "Striving for a cure for multiple myeloma: What HCPs need to know Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xT0lkTFk0T2s0a2h1RTJ4ZHN4Wko1bmFZYXF4MDdjV2hMRk44QWlsbWR3Vk9QajFmUkZGdXViUzR2eUxxazZXcFNuSnRtN1B4TEZvVEx2SzVJOG1FMlZOLW5rRjk4SWN0Mmk5Y2RkQXpxT09KNVpZQ3BfcDB1UQ?oc=5",
+   "published": "2026-09-14T07:00:00Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -27328,6 +27405,17 @@
    "first_seen": null
   },
   {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
+   "published": "2026-07-23T09:38:46Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "cbddd078a7b989f3",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Announces Key Leadership Hiring, Promotions - neurocrine.gcs-web.com",
@@ -29404,6 +29492,17 @@
    "published": "2026-07-07T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5f66360eaa2e14bd",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "“We are in a golden age of cataract surgery” - Johnson & Johnson",
+   "summary": "“We are in a golden age of cataract surgery” Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04RkRadnlrenZiQndWR1ROM3lBOFNrUkZyQjJQZ2RsU0VQSGszMWNXZzNtdHVBY3dWQ0hLbmVXZ21HckZYN2lVc2JmV2VzcFotazQyLTRKSzRldE0ySDIybWJTT2JUQldqMnc?oc=5",
+   "published": "2026-07-07T07:00:00Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -34159,6 +34258,17 @@
    "first_seen": null
   },
   {
+   "id": "16b3942310076363",
+   "company": "Arvinas",
+   "title": "Arvinas: FDA Approval Validates The Platform, But Does Not Signal Near-Term Profitability - Seeking Alpha",
+   "summary": "Arvinas: FDA Approval Validates The Platform, But Does Not Signal Near-Term Profitability Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTnlneGMxeDRTcFhuZ01PdUN3dm1valF2bGg1SFM3SU1mcHcxbjZZWVZBcExLTVlXZDljd19FU2hhNmVxdnEtZDNZUlI2RzJGaTZMUmQzLVRoang2ZnNzcVB6M05NcFM1ZE9ZYzR2UkdVNGJ3aWVlbW03UWZBbVpQS2J6Y2lUNmZPcUR2RVhjYkloeHZYMjVRa21pUXJrNnNUWnJDM2JLaHFMa0N3a1dvOTBVcTdrc0JXMVBGQ01QZDRvMk9OeUdV?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "586be46e3d15697d",
    "company": "Reunion Neuroscience",
    "title": "Reunion Neuroscience to Present Full Data from RECONNECT Phase 2 Clinical Trial at Upcoming ASCP and APA Annual Meetings",
@@ -35640,6 +35750,17 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMkw0QlpsazhHMkh5cTRNa0dFcnNxU0NoM3pubEl1ZllKb2lWOTEwdTk3SFZPMHgxQUVwWWJ3eUpCcjhIaFNic3h4anJGN2hwNGRmcVp6UUlmRVhPOVhTTmR3Vm91Q1Q0ZWJDS2tGSHAwUlBEY0F4NFR1TWhRaTZBMFVZeGhEcmlwWkpaSzh6Vm1lMXpzTW5xdHQwbFZhUmc?oc=5",
    "published": "2026-04-28T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d5824a925d6fe3a3",
+   "company": "Remepy",
+   "title": "Merck KGaA and Remepy join forces to develop combo drug-digital therapies - Medical Device Network",
+   "summary": "Merck KGaA and Remepy join forces to develop combo drug-digital therapies Medical Device Network",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXpzZVhSTUQweG1CZUdDZHgwYXBrdDdNT0hadE52QnhPQVQ2dmlqRTRVTjFxR1N4TmlPaUw5QXJHLUdlTFNjWlI4d01NYWhiRGl3bFdlZEIzOVlIaE9fdnJnYVkxREVkSnhDa183cGhDRlItdW1YVXc5TlE0X2Z6WURhUmJhYlBqMDktX2stNnMtSFpPMTZCeG9rU0lwcjNiMUtJNnRUZ2RWeVlUQjdramFB?oc=5",
+   "published": "2026-04-28T07:00:00Z",
+   "outlet": "Medical Device Network",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -40594,6 +40715,17 @@
    "first_seen": null
   },
   {
+   "id": "d5aff604c5964cbe",
+   "company": "Novartis",
+   "title": "Q4 2025 results - Novartis",
+   "summary": "Q4 2025 results Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbkszV1R2REQxT3N6eTVORUF5R2hkZmlUQS1RSl8wMll3ZWxySmppVmh2Z3VOLUdaYjFRYUhiT0UtYXhoeC04Ql9mZy02cW1Gd1JWRlhXdnp4MlFrWmFyalg3OW1PX1JVeG5kUU9ISzJadEVZazhmQVJydmowQUJlVWxHbHlmaVlTN1E?oc=5",
+   "published": "2026-02-04T08:00:00Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "b07b63ba769b5dc4",
    "company": "AC Immune",
    "title": "AC IMMUNE SA (ACIU) Stock Price: Nov 18 Close $2.10 - Gotrade",
@@ -40778,17 +40910,6 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
-   "published": "2026-01-29T10:15:29Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -41896,7 +42017,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - Eli Lilly",
    "summary": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0MHZlRnFhQUVIclZpX19KdS00Rk1kX2R5SERTa3ZqT3FhMDNWc083ckYtRnZsaWt4eTM1ZDlHZWdjUi1GazVwTlJnZHdEdjNKMUk0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjdwYWFSNE1WN3JMRkFzUnk5NGk4cWo3N05TMGhrdHphaFJDajVYeUZDRnR3TG43Q0ZXUm1lZXN6QXM4LURmWldsX1NkaWgyY3R5VWpjd2Z4RmZOY1ZuZWZ3NjNYLUVYUm5NdHg0dFVURlpMbnY1dU5mUVJtV0lOLUVlNEk2U0RDMklxSXNrcEVIUW8yUWNYeE05TUZQOWhVMXhvaFZfaWdwbXJYUlVOUGZ4Z2h3UXA5?oc=5",
    "published": "2026-01-07T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
