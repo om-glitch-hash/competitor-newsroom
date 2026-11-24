@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:47:07Z",
+ "updated": "2026-11-24T17:37:51Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "8309a57125095ec4",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Nasdaq Composite Watch: Helus Pharma Inc. (CN:HELP) — Small Cap Growth Stock in Focus as clinical catalysts, development timelines and risk management - kalkine.ca",
+   "summary": "Nasdaq Composite Watch: Helus Pharma Inc. (CN:HELP) — Small Cap Growth Stock in Focus as clinical catalysts, development timelines and risk management kalkine.ca",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQR0Z2dGlqVkdxSVEtYnRvZE9LVkk0MFlpcVQzUG9VTkg2QVNBVnJGVjgydUE5eHFMY25qS2ZIUFBOZ3pQbU5WOXFMbU1XUDljODllWExabEJYN1VkNnhzNVhjOFZzTkUyODltRW5KSVNCdFBsQjlnYmFmY2hoRE9qUE81MHNVSWg0R2ZYWEhKUVowRTNDQ0JjNkhHRFMwSDNIN0dmUF9QcTRwcUlpYnRZbXpzSkRfTXJ0V2ZTMkJjWkp3d0VaSkM3NW5KSXowY0tIRTJfVzlRelVVUjNjMHlyTlZqMERQbkM2SHQtTk5EMFk2XzZIdTV4MnFqZjBmVmg3cnVuN3hTaFE?oc=5",
+   "published": "2026-11-24T16:47:00Z",
+   "outlet": "kalkine.ca",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T17:37:51Z"
+  },
+  {
    "id": "4930feed9a498f4a",
    "company": "Boston Scientific",
    "title": "Trial primary completion changed 2027-06 → 2028-02: Automated Image-Guided Programming of Deep Brain Stimulation (DBS) for Parkinson's Disease",
@@ -2268,6 +2279,17 @@
    "outlet": "Stocks Down Under",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-22T18:39:19Z"
+  },
+  {
+   "id": "c4dd0e822885e723",
+   "company": "Neurocrine Biosciences",
+   "title": "NEUROCRINE BIOSCIENCES INC SEC 10-K Report - TradingView",
+   "summary": "NEUROCRINE BIOSCIENCES INC SEC 10-K Report TradingView",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFEzaGtQR0FTZmU2dWRXQndnRS1icjhOcVk2LTltNWYzY25rLUNDcV9lOWxucHVUeUJFN3RRaDVSemprM3VxczF4TE83cXkwQVJKUGdkRjdOMUNlOWJnR2M3Q0FsRl9Ebjh1VmViRFBsQWFJaGVQdl9hUFV5bmpwWXdyY2FsNXlBQlhuYVh5VmJaZzFUdHFTdXZuVWt2MU9NYzBuRG5R?oc=5",
+   "published": "2026-11-22T18:02:08Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T17:37:51Z"
   },
   {
    "id": "5bd7a844be3f478f",
@@ -7330,17 +7352,6 @@
    "first_seen": null
   },
   {
-   "id": "4b9d32c409a859b5",
-   "company": "Neurocrine Biosciences",
-   "title": "Should You Buy Neurocrine Biosciences Stock For Its Cash? - Trefis",
-   "summary": "Should You Buy Neurocrine Biosciences Stock For Its Cash? Trefis",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHN0czJnblNUOFJudTVPLXl3bi0yaF80X3VPbFZCNDNqY2E1QjAtZGxFOTNJSHZvSEsxbFJhVVAyX0xtUkhkeTJkdzU4M2RndWlRLWRqbWtHdEE5ZGZPbVFQbElVYVlmeUM2bDNvZFpuN1kwU1RQNkdZcE43RXBCeEYxZ3hkRkhkS1BjTHdoZlJnanJ6SlMzeFNUNW1JeExFMTE0N1QyaHJrWlA1Y09CWUJrU3A2UVhB?oc=5",
-   "published": "2026-11-16T09:43:32Z",
-   "outlet": "Trefis",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "4e878e0ac2266ea1",
    "company": "Alkermes",
    "title": "Alkermes CEO Flags Six Clinical Readouts in 12 Months, LUMRYZ Filing Ahead - TradingView",
@@ -7370,6 +7381,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4b9d32c409a859b5",
+   "company": "Neurocrine Biosciences",
+   "title": "Should You Buy Neurocrine Biosciences Stock For Its Cash? - Trefis",
+   "summary": "Should You Buy Neurocrine Biosciences Stock For Its Cash? Trefis",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHN0czJnblNUOFJudTVPLXl3bi0yaF80X3VPbFZCNDNqY2E1QjAtZGxFOTNJSHZvSEsxbFJhVVAyX0xtUkhkeTJkdzU4M2RndWlRLWRqbWtHdEE5ZGZPbVFQbElVYVlmeUM2bDNvZFpuN1kwU1RQNkdZcE43RXBCeEYxZ3hkRkhkS1BjTHdoZlJnanJ6SlMzeFNUNW1JeExFMTE0N1QyaHJrWlA1Y09CWUJrU3A2UVhB?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Trefis",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8801,17 +8823,6 @@
    "published": "2026-11-11T23:15:02Z",
    "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "7480e82e2c8dde4e",
-   "company": "Novartis",
-   "title": "Account Manager, Neuroscience - Novartis",
-   "summary": "Account Manager, Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDljdUQwbFBCZlotb0FlcUxhUHlxWTFoUDZ0T1pIMXBKU3pJVDNxMkcxRFhtbm54OHlfTmkzRHl0akRYcnlXdWVfamxqekJ3dXZWdEMxN1RKa3JmQ3BCUUZ0R0Y4ZjdGRUtZVHZLNUF4SHJ1RGhIcERQNTJDdTVYNnRrR1NYRHVpVDJsT2k4LVpYWWZNdEJldjBYeFZJemQ5LVY5dTFVaHFwZw?oc=5",
-   "published": "2026-11-11T22:29:45Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -10934,6 +10945,17 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRTlKcGpJYlUzOWx1eTNELVJTMi0xcmhkOFJtRjNGUWlhb1IwT0VlWjNweDd1SkVZbFdpdzdBUm4wSnNxdEQwMlVUNDVEeVpDLWUyaTd5SDcxLWExbVpQeTU3aGJzYTA?oc=5",
    "published": "2026-11-06T06:10:28Z",
    "outlet": "Annovis Bio",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "7480e82e2c8dde4e",
+   "company": "Novartis",
+   "title": "Account Manager, Neuroscience - Novartis",
+   "summary": "Account Manager, Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlU1OEZsbnBIeW1xMzdpYkJMOEx5bHcydUh2Y0ZjTTh4ZHVWcjZNczRzejBFa19CSUZxdFhrWF9BcEtXS25RTnI1U2JEcjhWcTROR0xIaHJMZWxKclZrSVlUeG1CTGNOejkybjlqNkhBOHNHaTlWb1c0UlRWc2QxeFEwQ3VPd2EtWXc1SnRTLWYxSGZwZTk2RUlXQ1ZtVlM2M3NuRmtIaHQ1Zw?oc=5",
+   "published": "2026-11-06T04:36:20Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13545,6 +13567,17 @@
    "first_seen": null
   },
   {
+   "id": "aa3529846335e530",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Receives FDA Approval of - GlobeNewswire",
+   "summary": "NRx Pharmaceuticals (Nasdaq:NRXP) Receives FDA Approval of GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPS0VlN1lkYklPb0ktT0NvU1dRakoxZmlhazdWZmMxSmtuU0lDTnQ5WUF3cEtWZmpkaU1ldzJJazl3bk5zVGp6OWFEWS1za0tEamw1VU5hZll3UDFLRi0yX2V6RGxLMHlWUWI4dncxZENOM3phSVZyTlR6WnV5ME44M1pKTjhvNDUtbVRINmF0RXV0Sm9wTlcyT3pkS3dyNFZsTlIwVkhhQjB4MVlNUVpPYkFrQUpMZ09FeW5Ta2M4ZGJPcVZzcTVWcG5ua1Jsd3FuY1BCdWRMN0pKb0Fuem94WndvQ1VZZXRPU2FVemZta25kZWVkcklwdGZ5RHpfdk9QcngxU01pU3MxMnlWRFhqVzVxOWhEa29zenc?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dacf5d1be1dbbfba",
    "company": "Supernus",
    "title": "0001356576-26-000051 - 10-Q - Supernus Pharmaceuticals",
@@ -13593,7 +13626,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -15338,6 +15371,17 @@
    "first_seen": null
   },
   {
+   "id": "f689988878ed800b",
+   "company": "LB Pharmaceuticals",
+   "title": "Analysts Offer Insights on NA Companies: SpaceX (SPCX), Six Flags Entertainment Corporation (FUN) and LB Pharmaceuticals, Inc. (LBRX) - The Globe and Mail",
+   "summary": "Analysts Offer Insights on NA Companies: SpaceX (SPCX), Six Flags Entertainment Corporation (FUN) and LB Pharmaceuticals, Inc. (LBRX) The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNZUl4NHoxNmFMaVBWaG51bDlGaktQWDJQcmQ4YzdCTUNBTUNmZi11NlFGckprVmFGVl9fdjBLYnZTN2hSc1BSZUN1dHd4dWVtS193Wm1qdFpXdmZ6U1B0anVjWXBXeC12d0IxNkY3aUt0YUhxZnJsOUxPS2JGU0RaOHRiRG1HdjFGbXp3MUZwMlVUaVRrYndUOHA5ZXdCRGgwX0o5UFlfbXdoQllrWnNia3VMMGlNVlB4ZGNlbDNYQjg4QUxmMHZGdzh6R1pZUS10OTdmQlZ3dVJJWUdqYzhFcWRLODVDMVJ0bXdURTU5OGdYZkxmR2RFMnFNYUUxdll5YXFSM3lXNVl2cU9wenU1MEpLaEdCV3dOZ3FvUUNsWThIV0JoS19aT2x5THJVMU9q?oc=5",
+   "published": "2026-10-22T07:00:00Z",
+   "outlet": "The Globe and Mail",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fc81163acd32289e",
    "company": "Neumora Therapeutics",
    "title": "0001193125-26-161489 - Neumora",
@@ -15408,7 +15452,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl) Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGFUbVF4WlEtdno3dzZxUmxzOWdXMHIxM3c0c0FnLTJqN0VvaEpqTjNGTmNaOVpOUWlRSU9jS2tWX3hpeEV3Qm96R180UFVYVTcwZ0VZaEptd1BxT3dmLXlaS0dTT0REUjg2QkpFNnZBdzJMcXdvNkYyaXZHTHhrUUpna2lXNUVCRDRNSFExLUdwMzVERWtnbmJZQVJ3ajZEdWJtWGM3dTdpY0JEOTJXTUVkcTNUNEtIQTMwMHdjRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxZm0tN3FPTkVuazVGa2s3bXQtMHpIeTNoLVc0ckJ5d2YxdnZCNEkxZGx0WWFham9ldTVtbFV0aVRJRFF1a3czaFFMRVhPNUE?oc=5",
    "published": "2026-10-21T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -19364,6 +19408,17 @@
    "first_seen": null
   },
   {
+   "id": "eda59f58d62a00e5",
+   "company": "Eli Lilly",
+   "title": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. - Lilly Trials",
+   "summary": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. Lilly Trials",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJOXc3XzMyUzdqVjc3U2ltOGpkVGZVVTAybXFBZ3p1SUlaRGQ1dlpoNVE0a0gwV21zWjFXdHdlREtEbENXZ1ozNFNGOTNhZlY4dTZrWFhB?oc=5",
+   "published": "2026-09-23T21:43:04Z",
+   "outlet": "Lilly Trials",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "eac2527b6b37b402",
    "company": "Aspen Neuroscience",
    "title": "Bratt-Leal et al. 2026, Cell Stem Cell",
@@ -19614,6 +19669,17 @@
    "published": "2026-09-23T07:00:00Z",
    "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6e5caf860c4b7814",
+   "company": "Xenon Pharmaceuticals",
+   "title": "TD Cowen Novel Mechanisms in Neuropsychiatry & Epilepsy Summit - Xenon Pharmaceuticals",
+   "summary": "TD Cowen Novel Mechanisms in Neuropsychiatry & Epilepsy Summit Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLU9vcUpmQ2VSM2ZPQnh1VVBrVkk4UlI0SG9paDdJWGNUMTVZVExzNGZxeWIxSFlUUkZzLTBiclNsTFlvNGhYbnZYTWxpdmVhSm5rOUhuOFZtQ1hyTEFsUnQ3YVBZSDRTcDJRMXdKSG5lWXBobVFkUDBFX1BjYlBLZFBKUk9ER1VhYjhhR003ZURTNThNRjVqdTBvNWJNQnNsUEh5d1phaUR6aUlzTGExaGh3?oc=5",
+   "published": "2026-09-23T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -23506,17 +23572,6 @@
    "summary": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. (RENEW-MDD- 2) Lilly Trials",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Rd3hTT0gxV0c2dFlnLXZiUWxiWHZTSVd2RHQ0SDNlVWZaTS1idGFEVVY1YnZUVXhLbTF6elFGbVNOM0xWM1R6TGNoVloxM2RiUHpHZzZB?oc=5",
    "published": "2026-08-22T08:19:24Z",
-   "outlet": "Lilly Trials",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "eda59f58d62a00e5",
-   "company": "Eli Lilly",
-   "title": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. - Lilly Trials",
-   "summary": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. Lilly Trials",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QTTlPQUpBUVpQQ21LTnlRc1ZjZnlBUUNteE5KS1F3aDhNdmU3Z0NQUkEzSWJIQ0VsSkZMSTNSa01KaE1SOUdXcmZBa0dSX2VNZzR0Mzd3?oc=5",
-   "published": "2026-08-22T08:19:22Z",
    "outlet": "Lilly Trials",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -38027,6 +38082,17 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUE5ZmlMM0QxODJaTmZ6WEwwNFpzdmM2UUpFaDZWc1pKeWtmMVpHU21Yc3I5a2VDNVNrNmM1Ujl2WS1QaHNad1J5WlR3eXZYeFRFdEw0aEQ0WUhxV1BYaXQ3YUZJWEQ1RXB5SldwZGlqbXNrS0xkaFp6SFY3MkctQlpBYkNUZ0ZabnFUdFlneUtEcEJwMktYU2djclJjZEhQV1VsTGtDZm1FUkpEM3RkdHhiVQ?oc=5",
    "published": "2026-03-30T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d255e31a33a26266",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka to acquire PTSD drugmaker Transcend in $1.2B deal - BioWorld News",
+   "summary": "Otsuka to acquire PTSD drugmaker Transcend in $1.2B deal BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ3RxX3ZTTGtfNFpVVTlTb1ZIdTF2akZYSV9sNXc4UkxpYUctWjRzWDd0d2hOckwwVFZrTlRWWG1IRF9WQlAyQlVBM21QX1VEbk9RZy1xY0dZMkc5N0h1VWwwTlNzYzF0M01KdnFGTUV3NUpFR1dsUDRSWENrbFRYYWV5d0lzY0piSlhXZFY4YUNxOVhxXzNjY0Y2SQ?oc=5",
+   "published": "2026-03-30T07:00:00Z",
+   "outlet": "BioWorld News",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
