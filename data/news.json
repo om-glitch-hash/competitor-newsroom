@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:37:00Z",
+ "updated": "2026-11-24T21:39:02Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,72 @@
  },
  "items": [
   {
+   "id": "0d3697cb02551d54",
+   "company": "BioVie",
+   "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 - Quantisnow",
+   "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW0tSy14WnZhZ2kwZE9LRXZvY0pfNFBkeWhlZWRrZzhROVJDYms2WkJxeVdxOE9FNlBvVFM4M0JEZXZzV2JReG9XTnNVOFpMTE1KZWFVcFI2WmFfektONmFkQVB3WDJvRjVVbHk3TjNGcDNjVldhbXdfLWxQNWYzdEloNXZQNm1zNk1iSWRfMVVuVWFkMnc?oc=5",
+   "published": "2026-11-24T21:31:24Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T21:39:02Z"
+  },
+  {
+   "id": "b364f4efbd3e37ea",
+   "company": "BioVie",
+   "title": "After buying 2,500 shares, BioVie (BIVI) CEO Cuong V. Do holds 23,617 shares directly. - Stock Titan",
+   "summary": "After buying 2,500 shares, BioVie (BIVI) CEO Cuong V. Do holds 23,617 shares directly. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVURFYS1jZkZCMTFkVkR2cEF6Nng4QmdqRGxHeVh2emtkRnA3MmJtQ3pjV2Z2VkxyaXdSMjlwa1hXY2FGbm9hQmRZYmIwaDRueUE2djJrbGE2ZGxfdmZsUDFoa3NkdEhsMlNXTlZOM3R2UHNTU2d6N3l6OFNOVnZfc2dQd21VdWdFUnZXSC02UVJHQTl0WTRaV1FVTE9kcmYxeHhJRHYtVQ?oc=5",
+   "published": "2026-11-24T21:28:06Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T21:39:02Z"
+  },
+  {
+   "id": "9df1ae407b672f8d",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Stock options put the CEO of Vanda Pharmaceuticals (VNDA) over the 5% ownership threshold. - Stock Titan",
+   "summary": "Stock options put the CEO of Vanda Pharmaceuticals (VNDA) over the 5% ownership threshold. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPblcxOGtlSW9uenRUS3NEYVM1ODk4eXZwNjl2aUREZHlOa3FaeGMyaHoyaEd5aDFSX3Myazgzdm1tUXRKb0dOMnhLUW9HMURTWDZpLU5LRm1lN3ZwYXoxVFlMLUJ5NDlaOW1GTDFvbWJDd1hEWEJEQ2pOYnlpQmhXZkZ2emh3NDZ5V1lOWkVmVWxoMmpNVTAxa09fUlJPSVU1OE5oYjdaOFNGNElaa0hUM2xSWVFKOGFKVDFaMUVQc1JwSXBiYWZYbXNPRQ?oc=5",
+   "published": "2026-11-24T21:23:07Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T21:39:02Z"
+  },
+  {
+   "id": "95c2cc37336cfb32",
+   "company": "Alkermes",
+   "title": "9th Annual Evercore Healthcare Conference - Alkermes",
+   "summary": "9th Annual Evercore Healthcare Conference Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1pDdGZZN3FFbE1fMUVlRjlVNTNkbVZKQnA3anR4YksxSGdfZFNOQk5meElZUW45OU9lc2VuNE1RSkFId1U5czJhb3F5QURhYXhmbWJmMDZpMDFGeHZoN1pFVFJPcnlreUQxeGMtMzRrQ0xYVHp0RUVURlFqZWtyRUhhYTFneDhvNllUbXU5SWxrTTFIbU1j?oc=5",
+   "published": "2026-11-24T21:05:20Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-24T21:39:02Z"
+  },
+  {
+   "id": "b0dc6488ba3a609d",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals to Participate in December Investor Events - GlobeNewswire",
+   "summary": "LB Pharmaceuticals to Participate in December Investor Events GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWVfU1NoNXNYLTB5dXA2Ni1GV21uNFNRbm9rajJOU0gxUTU2elZiNWRpNDZUcDhBNllJYjdueEd3Vmo4ZHQ2QlpISlNpWmhTNHRGRDZyWXNWc2ZMb2dXbmg5b2xvZ3NtQUE0dnVwbzJLR1JnNURkeFhZQ1JCelJCcmpMWlZxM1RHc2sxdDRzNnhzSlNiNWlsVlRXV2Z1UGdYRWxxY1lQMzZkWVdFdGt3Z0RCOHZFZTBoM0lwNm5VeEF2MW1MS1hVckM1b01wZw?oc=5",
+   "published": "2026-11-24T21:05:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T21:39:02Z"
+  },
+  {
+   "id": "0866992b9d9920d4",
+   "company": "Alkermes",
+   "title": "Alkermes to Participate in the 9th Annual Evercore Healthcare Conference - Alkermes",
+   "summary": "Alkermes to Participate in the 9th Annual Evercore Healthcare Conference Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVVY0QVZXRk1DekdfblhTS2V1RVJ0LVRGRDVrbnB0SDBscU5lZWRsM1VEbmhpN2hackNadklJZVc2NW1tZ0FySUdXY0RCd0h6ajNJOWJoZFE4bFg0bllpT3N3SkNUcExoWXBZWEJKRHNQTlIxYndkTU1VQ3Q4WW5Db3h2TkZ4Yi11SThOd1N4dEpJS0YwWDB0MGYzNFRUVFNBR1NUZUV2T0VNVTlITkNPVkgxNHRfMzNTS19DNTRkSGVIY1BLWmc?oc=5",
+   "published": "2026-11-24T21:00:24Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-24T21:39:02Z"
+  },
+  {
    "id": "5ac9f50db7b9da1f",
    "company": "MapLight Therapeutics",
    "title": "MapLight Therapeutics soars 22% as health care stocks gain momentum (MPLT:NASDAQ) - Seeking Alpha",
@@ -2329,7 +2395,7 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value - Simply Wall St",
    "summary": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjU3SjJzVTN2WHRDbnBhUnFmYnpfT1pTeFNUZmxjOGZoZHdXYUgySE92ak40SXJJd3NPV3BFNG1iRnoyVm1BTmZjdGdGYWIxVmVQMGMtOTJPZFFLTlM0T2N0bU91UXBUSmRWaGEwTV8wblctdVU0a0c3RWc0NFRKWXlUX1Qwb3p1MkViQnU1WFJoVUVCclNZWGlDNEMxd2E2OFZ0VWNzNkNUdDRFOWtZckZnam9xeXpLaUtpZC1SeDdUNWt2THl2VDdzZzdjTDFMelNteTdzM0ZjRm45c1Bv0gHkAUFVX3lxTFBveWVoSWpTRXM0WU5OOXdaZnlsdWRzRXVOSGwwOW1CSEx5cVZuWWctMFFMM05oVWN4ckJCVjRfeTUtUWNaY0pIbFJlR0NQNFQ3RUxUcHFpNF9mQkNqWmxJbXdzWmdxQTFsNy0wNHdzT3hIN3R4Y2huRlFxOVF6OGxtQk1Mc0JPcnBkQWZOV1NOaVFKRkJkcWhkTG1La3hXNXFNZG5yNkh5elp0WUJWMFB6RmJxMTVoQ0Uwckh1MjVUX1ZyX0pHX3RfRzdEbU05UG1jcUFWY0tkMVFndEJfckplNHBMWg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3llaElqU0VzNFlOTjl3WmZ5bHVkc0V1TkhsMDltQkhMeXFWbllnLTBRTDNOaFVjeHJCQlY0X3k1LVFjWmNKSGxSZUdDUDRUN0VMVHBxaTRfZkJDalpsSW13c1pncUExbDctMDR3c094SDd0eGNobkZRcTlRejhsbUJNTHNCT3JwZEFmTldTTmlRSkZCZHFoZExtS2t4VzVxTWRucjZIeXpadFlCVjBQekZicTE1aENFMHJIdTI1VF9Wcl9KR190X0c3RG1NOVBtY3FBVmNLZDFRZ3RCX3JKZTRwTFrSAeQBQVVfeXFMUG95ZWhJalNFczRZTk45d1pmeWx1ZHNFdU5IbDA5bUJITHlxVm5ZZy0wUUwzTmhVY3hyQkJWNF95NS1RY1pjSkhsUmVHQ1A0VDdFTFRwcWk0X2ZCQ2pabEltd3NaZ3FBMWw3LTA0d3NPeEg3dHhjaG5GUXE5UXo4bG1CTUxzQk9ycGRBZk5XU05pUUpGQmRxaGRMbUtreFc1cU1kbnI2SHl6WnRZQlYwUHpGYnExNWhDRTBySHUyNVRfVnJfSkdfdF9HN0RtTTlQbWNxQVZjS2QxUWd0Ql9ySmU0cExa?oc=5",
    "published": "2026-11-22T18:07:48Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -4657,6 +4723,17 @@
    "first_seen": "2026-11-21T03:17:37Z"
   },
   {
+   "id": "192b6c0674d4a903",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Ranked Number 5 Fastest-Growing Company in North America on the 2026 Deloitte Technology Fast 500™ - TG Therapeutics",
+   "summary": "TG Therapeutics Ranked Number 5 Fastest-Growing Company in North America on the 2026 Deloitte Technology Fast 500™ TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ra212dGNxcHF1bnhMdS1mRVFfdFhVU0FGU0ZPY2pIa0w2ZkF5TWE4c3hmRTl0ZmtGTzU5d1BBcXV6TmNJZTl5Mndoc2lqdGNKeFpQQ1I0QQ?oc=5",
+   "published": "2026-11-18T16:17:17Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "86a75898cdb3ffcf",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences xStock Price, NBIXX Price, Live Charts, and Marketcap - Coinbase Spain - Coinbase",
@@ -4666,17 +4743,6 @@
    "outlet": "Coinbase",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTE4M3BhNENxOU1wdUxmcC1QUjIwbWg0N3dnbmZEYW8tdGtHVXRYNXlvcGkwLS1yQ3FVOV9QS0FuNTZGb3VzTXVjbXF3aGxkT3o1LWdwY28yYTNoam9GeC1aMVJ5TjV3bll5YkxXRExnMXp4MHo5S0JGY1lub29BcGx1MmdKdjdRbFNjM0ZiZ1pOa3NzU1VkWGROaWFxQ05odG9NOXhBNUJEMFVOSTFCZE5DdVlqdzB1TXhSaHQ4dE9aRmRkMjUwVjJ6dnpCdw?oc=5",
-   "published": "2026-11-18T15:15:27Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "ae43ecd6c96a7fd5",
@@ -5126,6 +5192,17 @@
    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPX29LTzliUjRrVTVfQWxaSnJnRzA5TjVtYXp6ak5UdTU3cVV2X3Z4RHR5ZDNMdkl3Ym56OGdjcHVRRTJZSDVtM2d4ZnBnZ3JUNHdCWmI0UUlRV0drVzJaRnRvazJycG9NcTZrUW8tUUNNeF9FdENsWTBHa0RONWJHQm9wb1BTbC1MZlp5UDZDQm5qa3NrejNQaTVCNWtMbW9zaERIWGxoMHI4VmtuMk1seWdpUGt0ZHdNaWNpYXc2cXNTRnZXa1FOdVJ4NjNpVEhDTG9OYlVxMjJWSnhWeHRqYmFhZ1dKNUh3Zk1sRjhfWlJEekVraDYycVVLU3ZxV1Q1MUZESTljUUlaZGxFUUItSVgzdHFIVDNrREJJQlJ3cFVRdUk2amI3NmVKTWtzZw?oc=5",
    "published": "2026-11-18T00:09:40Z",
    "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0lGQ0FqTURCUi1idEpKc0Z5ek01RWx6UlVoREdVUjMtSmp5bG5nejd5NnNVS29vSU43WEpLRkMxMG01M2g5dmgyZnAzZnUyb0NUbUYtUmV4dHphV1hHMGFnN2pVakFDcW40MjJzemlEWE9FckRvUkdqdUNEU0Qzal9ERk5xMDFCY3gwV2dZYmhWbjRORXlNYVdDUmZHd1lfb1VhTVM4bGdCa1hmSE9uLUJha0tLNXJZSkF1dTA3T0sxdFZJRmc?oc=5",
+   "published": "2026-11-17T23:58:40Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
@@ -6967,17 +7044,6 @@
    "first_seen": null
   },
   {
-   "id": "f43801aec7044a34",
-   "company": "Herantis Pharma",
-   "title": "European project backs Phase 2 trial of potential Parkinson’s therapy - Parkinson's News Today",
-   "summary": "European project backs Phase 2 trial of potential Parkinson’s therapy Parkinson's News Today",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlRCV2s4LXF0elVPQTRRSkp3OUN5bFFuOUNMWUxJSjIwLXVNLU5TQnIteEVpTUhVVGdyenhrOHBrdzlyRDdtMUtsR1BTOXNNdFRLb3k4UWZIaG5YNjRQNTM0Y2FMMThjTEdtTlEyQmVSaVhySWVjZlF1TGxBeTRDcjhTc19kVjU4RkFLMmlCU0U0aU9mRHoycEpmdDNtQQ?oc=5",
-   "published": "2026-11-16T13:05:33Z",
-   "outlet": "Parkinson's News Today",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "20d490bf8044415d",
    "company": "Serina Therapeutics",
    "title": "Serina Therapeutics, Inc. (SER) Tops Q3 EPS by 3c - StreetInsider",
@@ -7447,6 +7513,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f43801aec7044a34",
+   "company": "Herantis Pharma",
+   "title": "European project backs Phase 2 trial of potential Parkinson’s therapy - Parkinson's News Today",
+   "summary": "European project backs Phase 2 trial of potential Parkinson’s therapy Parkinson's News Today",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlRCV2s4LXF0elVPQTRRSkp3OUN5bFFuOUNMWUxJSjIwLXVNLU5TQnIteEVpTUhVVGdyenhrOHBrdzlyRDdtMUtsR1BTOXNNdFRLb3k4UWZIaG5YNjRQNTM0Y2FMMThjTEdtTlEyQmVSaVhySWVjZlF1TGxBeTRDcjhTc19kVjU4RkFLMmlCU0U0aU9mRHoycEpmdDNtQQ?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Parkinson's News Today",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9167,17 +9244,6 @@
    "first_seen": null
   },
   {
-   "id": "b9e9821bb4a03dcf",
-   "company": "AC Immune",
-   "title": "AC Immune to Present at Jefferies Global Healthcare Conference 2026 - Yahoo Finance UK",
-   "summary": "AC Immune to Present at Jefferies Global Healthcare Conference 2026 Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSHNUdTFBQmNFYkFVVjFiWmlCbkdPT3FJdlI0dThRTEF2Sk45NlZfRzVkZ0VCVjZSaXUxVF90LWF6U3NneUs0TTVyWUkzUjVENWRQN0x5MVZ0SFFOTkZpVHBMOUVRTXFlMlNMZ1l5Yi1aTDVKTEZ1X0tWeXI4SHJXTW9aemhhaU05OEY0?oc=5",
-   "published": "2026-11-11T12:00:00Z",
-   "outlet": "Yahoo Finance UK",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "c6ab6b9765f1e2d6",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "About 385,000 sharps injuries a year affect hospital staff; NRx sells ketamine in a needle-free vial. - Stock Titan",
@@ -9219,6 +9285,17 @@
    "published": "2026-11-11T08:33:38Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b9e9821bb4a03dcf",
+   "company": "AC Immune",
+   "title": "AC Immune to Present at Jefferies Global Healthcare Conference 2026 - Yahoo Finance UK",
+   "summary": "AC Immune to Present at Jefferies Global Healthcare Conference 2026 Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSHNUdTFBQmNFYkFVVjFiWmlCbkdPT3FJdlI0dThRTEF2Sk45NlZfRzVkZ0VCVjZSaXUxVF90LWF6U3NneUs0TTVyWUkzUjVENWRQN0x5MVZ0SFFOTkZpVHBMOUVRTXFlMlNMZ1l5Yi1aTDVKTEZ1X0tWeXI4SHJXTW9aemhhaU05OEY0?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -10194,7 +10271,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics Reports Third Quarter 2026 Financial Results and Raises Full-Year Revenue Guidance - TG Therapeutics",
    "summary": "TG Therapeutics Reports Third Quarter 2026 Financial Results and Raises Full-Year Revenue Guidance TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUFqWVNNNjBydDJfZUVsY1RwQmFaWTZoYUthZV9DaVVNcXRjd0o3eDhVVGVrMElPbzNVZlNoWDNheHFfbWV4QzBYUTRNbVdISGIzU3d2Y2pSYXFGbHBfUHJDZkRCTG5pYkVvWlJ6aDJsV3QzTFg2UXdHcVBxT0tUZ1RsdVppSllWX0hpS1RpcHhaTng0N1BPbXFpUUMzcFVFa2lEblJSYzFnaVY5Q19MYUN6Yzg5NW55TDZBRE5ObTA4bUdka2ZNbg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLLXpUaGxIMkxnYkpjVjhtcmxDQ3lQXzQ4Qmo4NjVoSGRhaGd1alZrT3dySDhoSVI2MnlaRm45N2VQdFRNc3dvTnduNGMzZVJONlhGM2x1TQ?oc=5",
    "published": "2026-11-09T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -12867,7 +12944,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LOW13MVl0Wlh1MkRyUU9Ub3RJT0FtLTZfTWxrbmxiRHBBQ09fSXZKcXh2TTQzSlhsWWpJM2pnUzd4Sm5qTTM4dS1ZMkwybndOOVdhSXhFMA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkpqVWUtT0tZMVVwS2NzMlhuZGVpMnl2ZFZUOTVUSllZRW9BQ2FkN2IzZHpOYkdSWk1nRHZTTlhIaGFEWjRlMTYzaVhpZVdQMDNXZGVEbEppOHVhRXJ6MEItUTEwN010ZzNkdEczazgxUlZlSUtBdmkzbkljc3pUdXZUcTZXZm04anBqck5kUkhkeG52SXF0d25ELU96c1Y1NUNXTUxyUG9LWlRrU3FiaExHVVRJY1JqXzZKag?oc=5",
    "published": "2026-11-02T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -15283,6 +15360,28 @@
    "first_seen": null
   },
   {
+   "id": "52d803e02b4c90f4",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 - TG Therapeutics",
+   "summary": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BQU5kZXRZUFpUWXFyckJzSm1lUno5cEprVjNJRlFtMGdreGlhTFA2dDFmU19nQWJkNVFPVGNHWG5DODNPQWJfRERjR3JwTDhzMkpiREhhOA?oc=5",
+   "published": "2026-10-23T07:00:00Z",
+   "outlet": "TG Therapeutics",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e0f39bb21bbe7029",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Announces Phase 1 Data Evaluating Azer-cel in Progressive Multiple Sclerosis in a Late-Breaking Oral Presentatio - TG Therapeutics",
+   "summary": "TG Therapeutics Announces Phase 1 Data Evaluating Azer-cel in Progressive Multiple Sclerosis in a Late-Breaking Oral Presentatio TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZNnlBNFB0NlVBQzVGNXI4c2lCZVJkN0hjM3Y0dmNQMWxyNDQ4SzloTUlJT1phUFRUcUtNNFpfU28tWDhHZk5heDJsR2ZhVHY4Rk1MaGl5aw?oc=5",
+   "published": "2026-10-23T07:00:00Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "f8e39737db6b6623",
    "company": "Newron Pharmaceuticals",
    "title": "Newron Completes Enrollment of Pivotal Phase 3 ENIGMA-TRS 1 Study - TMCnet",
@@ -15588,17 +15687,6 @@
    "published": "2026-10-21T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "52d803e02b4c90f4",
-   "company": "TG Therapeutics",
-   "title": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 - TG Therapeutics",
-   "summary": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHZHTnhTUEZCN2ZqeFpoUzRzbnFmNTdBYlMzLVUxclZJMXpsZThKenE4a0dSRkFPOHJVek1DaVdPU3Z0dHk5bUVhY1VFdUtmYzR1bDk2YWFWYUN2R21Nb2l3MGJlZml6NGhnNnZjMXFkM1dQY1RoTkVXSzh5YVhVOGx6Vi1QVlpteHRTYjdEa2s2S3ptbkxtZGxsREhOTENXb2pzT2VibWhmOUJtdlZ3dkx2eTBTTDJ0QmVkRUhNMmtEalU?oc=5",
-   "published": "2026-10-21T07:00:00Z",
-   "outlet": "TG Therapeutics",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -19507,6 +19595,17 @@
    "first_seen": null
   },
   {
+   "id": "eda59f58d62a00e5",
+   "company": "Eli Lilly",
+   "title": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. - Lilly Trials",
+   "summary": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. Lilly Trials",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJOXc3XzMyUzdqVjc3U2ltOGpkVGZVVTAybXFBZ3p1SUlaRGQ1dlpoNVE0a0gwV21zWjFXdHdlREtEbENXZ1ozNFNGOTNhZlY4dTZrWFhB?oc=5",
+   "published": "2026-09-23T21:43:04Z",
+   "outlet": "Lilly Trials",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "eac2527b6b37b402",
    "company": "Aspen Neuroscience",
    "title": "Bratt-Leal et al. 2026, Cell Stem Cell",
@@ -20046,6 +20145,17 @@
    "first_seen": null
   },
   {
+   "id": "306bbea2a5cea5d1",
+   "company": "Newron Pharmaceuticals",
+   "title": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 - TradingView",
+   "summary": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRG4wcDM5c2Y1NG44MjQ2TmlpYXRBSi1GM1A2REZpREhZUUQzcFBOYTVkTTE0a1d1a016VXpjUVRfbTNXa1ktY1dfYnBlV2ZSNjB5dzdqN1dmYlRUaEFVbklqV0tTeHZ5dXlrRHFXdE04LVB4UTQ5eU5uVzRJZzI2c2pDRElDSTBpSUFXVnQ5N0dSLWpxM2ExRzlqU2VhSlF0a2lCWFVjWkJsQmRKYTVlQWMyVW83dVlXWExGMVlkQzBDVDgxcHBWRW90dzNhYS1vamVkZVgzZjN4UlpHZXV5cnV2cUZ3WWxBdW1tbDl4SXdvX2pNUGpIRWRWMnNrQ1RkVzB2Y21DUmFmV2lha0Uw?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4f8f09394db92992",
    "company": "LB Pharmaceuticals",
    "title": "LBRX: LB Pharmaceuticals Inc Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
@@ -20065,17 +20175,6 @@
    "published": "2026-09-21T12:05:59Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "306bbea2a5cea5d1",
-   "company": "Newron Pharmaceuticals",
-   "title": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 - TradingView",
-   "summary": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 TradingView",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRG4wcDM5c2Y1NG44MjQ2TmlpYXRBSi1GM1A2REZpREhZUUQzcFBOYTVkTTE0a1d1a016VXpjUVRfbTNXa1ktY1dfYnBlV2ZSNjB5dzdqN1dmYlRUaEFVbklqV0tTeHZ5dXlrRHFXdE04LVB4UTQ5eU5uVzRJZzI2c2pDRElDSTBpSUFXVnQ5N0dSLWpxM2ExRzlqU2VhSlF0a2lCWFVjWkJsQmRKYTVlQWMyVW83dVlXWExGMVlkQzBDVDgxcHBWRW90dzNhYS1vamVkZVgzZjN4UlpHZXV5cnV2cUZ3WWxBdW1tbDl4SXdvX2pNUGpIRWRWMnNrQ1RkVzB2Y21DUmFmV2lha0Uw?oc=5",
-   "published": "2026-09-21T07:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -23687,17 +23786,6 @@
    "first_seen": null
   },
   {
-   "id": "eda59f58d62a00e5",
-   "company": "Eli Lilly",
-   "title": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. - Lilly Trials",
-   "summary": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. Lilly Trials",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QTTlPQUpBUVpQQ21LTnlRc1ZjZnlBUUNteE5KS1F3aDhNdmU3Z0NQUkEzSWJIQ0VsSkZMSTNSa01KaE1SOUdXcmZBa0dSX2VNZzR0Mzd3?oc=5",
-   "published": "2026-08-22T08:19:22Z",
-   "outlet": "Lilly Trials",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "0d12ac7a0e0c8fe4",
    "company": "Alterity Therapeutics",
    "title": "FDA Accepts Ecopipam NDA for Tourette Syndrome, Remlifanserin Receives Fast Track Designation for AD Psychosis, Alterity Reaches FDA Alignment on ATH434 - NeurologyLive",
@@ -27024,7 +27112,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -27908,17 +27996,6 @@
    "published": "2026-07-24T07:00:00Z",
    "outlet": "Sleep Review",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -41529,6 +41606,17 @@
    "first_seen": null
   },
   {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c2f1023df802267b",
    "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
    "title": "Lilly Establishes up to $1.9B Repertoire Deal in Second Immune Play of 2026 - BioSpace",
@@ -42211,17 +42299,6 @@
    "first_seen": null
   },
   {
-   "id": "a34ed47f6492d8b7",
-   "company": "Roche",
-   "title": "Untitled - Roche",
-   "summary": "Untitled Roche",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTUTVxbXBQYTV6dGViTXVreDFxQ0JHa3hxYVI1TnR1Yy1Ud2VKaDVvUFRBWjVTd210bkd4TTZpUXlzYkFNUmg5OFZNZUlBaEYtbk00aVpTN1piNXV1WlRFZEZmUVJ1UGp0X0x1U0RJdWpGOHhBeXlBNGdn?oc=5",
-   "published": "2026-01-12T08:00:00Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "e687b40e5420985d",
    "company": "Eli Lilly",
    "title": "How This Newcomer Is Taking On Eli Lilly's $1.2 Billion Buyout - Investor's Business Daily",
@@ -42655,7 +42732,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - Eli Lilly",
    "summary": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjdwYWFSNE1WN3JMRkFzUnk5NGk4cWo3N05TMGhrdHphaFJDajVYeUZDRnR3TG43Q0ZXUm1lZXN6QXM4LURmWldsX1NkaWgyY3R5VWpjd2Z4RmZOY1ZuZWZ3NjNYLUVYUm5NdHg0dFVURlpMbnY1dU5mUVJtV0lOLUVlNEk2U0RDMklxSXNrcEVIUW8yUWNYeE05TUZQOWhVMXhvaFZfaWdwbXJYUlVOUGZ4Z2h3UXA5?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0MHZlRnFhQUVIclZpX19KdS00Rk1kX2R5SERTa3ZqT3FhMDNWc083ckYtRnZsaWt4eTM1ZDlHZWdjUi1GazVwTlJnZHdEdjNKMUk0?oc=5",
    "published": "2026-01-07T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
@@ -43693,6 +43770,17 @@
    "published": "2025-12-19T08:00:00Z",
    "outlet": "Pharmaceutical Technology",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a34ed47f6492d8b7",
+   "company": "Roche",
+   "title": "Untitled - Roche",
+   "summary": "Untitled Roche",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kMWUySnNuZzcyWnJEZ2h2VUdMaXg3U3dibjhHZWFhblZCNGFaWHExNG9xOFY4UUZBb3F0TVlqR09LbEpEcVE?oc=5",
+   "published": "2025-12-18T08:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
