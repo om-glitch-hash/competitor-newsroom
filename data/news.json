@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:36:38Z",
+ "updated": "2026-11-24T19:47:05Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1808,6 +1808,28 @@
    "first_seen": "2026-11-24T13:06:45Z"
   },
   {
+   "id": "e80b13dd942e3965",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Announces FDA Acceptance of Supplemental Biologics License Application for BRIUMVI Single Dose Initiation Schedule - TG Therapeutics",
+   "summary": "TG Therapeutics Announces FDA Acceptance of Supplemental Biologics License Application for BRIUMVI Single Dose Initiation Schedule TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQanR2RFphRWVOWVFjQ0dPSlQzbUJNMFJIZWZUWmpvMzZFT0tDVGU3elgxNkhxNGxhTldGdWNOeS0xSTNlN0NJN1dqcWdicU0tUmctVFU5eTh6YVZzTTkxQWZLbzRLNWpZRnUwZlVvZGEybkVqMVgwTHZ6MU1vRl9qXzR4Umd2X2Z6amxZdndpOS1ScWo2SlRvTHVzM0RVREtfSmltemJwS0xiZGppMlNfNS1SczU1cWFZbDBYaThpa1NjdU9wS1FF?oc=5",
+   "published": "2026-11-24T12:30:28Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-24T19:47:05Z"
+  },
+  {
+   "id": "ca3e33074f65c11c",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
+   "published": "2026-11-24T12:01:04Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T15:29:13Z"
+  },
+  {
    "id": "c49f4a716a734188",
    "company": "Rapport Therapeutics",
    "title": "Rapport to Present New Long-Term Open-Label Safety Data in - GlobeNewswire",
@@ -2796,17 +2818,6 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T21:13:37Z"
-  },
-  {
-   "id": "ca3e33074f65c11c",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
-   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
-   "published": "2026-11-20T19:15:40Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T15:29:13Z"
   },
   {
    "id": "192abf0094b3e608",
@@ -4547,6 +4558,17 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
+   "id": "7480e82e2c8dde4e",
+   "company": "Novartis",
+   "title": "Account Manager, Neuroscience - Novartis",
+   "summary": "Account Manager, Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDI5QXVWdDFqb3I0R0FWT05lMVFSY3FpTXdJUjBwU3c2bjhkZDA4bjZ0NmNIdmVMRGRPWHF5aE5BQlQxOEpjRGJGRGtZUTFzbjMtOWphVzV6WFRRUHlhNmxscGJhZW9WNkpfRTBBNnhvVnZ0VU5Bb1RvX1RtQmI0RG5tNUxjVTFvUFpISjN6NHN3VlVDZ01EM2wyMG81TnEyRHVxWEwwUVZ2UQ?oc=5",
+   "published": "2026-11-18T21:45:24Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "aa234c9c0e2a60bf",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc. (NASDAQ: HELP) Share Price, HELP Stock News, HELP Share Price & Updates - kalkine.ca",
@@ -6234,7 +6256,7 @@
    "company": "MapLight Therapeutics",
    "title": "MAPLIGHT THERAPEUTICS ($MPLT) Releases Q3 2026 Earnings - Quiver Quantitative",
    "summary": "MAPLIGHT THERAPEUTICS ($MPLT) Releases Q3 2026 Earnings Quiver Quantitative",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVFacmxPZUtsX2E0cXhwN0pHRVd6Wk01QzdCZzdMSU9ieGJEZktKNmhQcEVwVmRYRTBOa0xJb1YtUGd3QnVNNXZrMnM4RlpDMy1UTzZIOHlFV2pPRlM0cG5rcEVkS0hFemxzdlNrTFFpaGVjVlJOS0JUb1NjZDJyd0Jld2daRk5DN3dsZW9jZ2JBQTMxenh2Mm9n?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDRqeVlHTVVsZmQ2UDh0dXhHNWoxRXUtQWhQb3NNTDdJc2JqSHE1OE5RMkdhRWxhQ3B2X1VEX194Y2g4M0UyekZweHd1dlFaQW92OE55eEFZOUdCUW80cGVjYUNDOEJCaVlpTDVnMTJIU2R4aXhZTzFscmpDN2Z1YnBUWVFLTVBOS3QtMmhkRWpWQQ?oc=5",
    "published": "2026-11-16T20:35:00Z",
    "outlet": "Quiver Quantitative",
    "method": "news search (newsroom not indexed)",
@@ -9805,17 +9827,6 @@
    "first_seen": null
   },
   {
-   "id": "6f9005d5b167cd6d",
-   "company": "MapLight Therapeutics",
-   "title": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. - Stock Titan",
-   "summary": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWZ3bWd4c3hxQXp0N2RLQ29SS3o2eGt0UkNBaGxhckdrSmpjVU1oQzExVmczYTY3dWRDbnJPalBER3ptdThxZXBYNWNKaExyWS1BV0p0MlpudkY2V29xQ0g5ODF5ZmdrQUNnNXpvSUhEUkE2UXZ3VGU4SzRFRTJLMXp5ejVSQVNzZzR0N1dadmdvV3hCODI5SW5yRVVMN3ZEOV9EYlVWdl9ueDNMaFFDcjh1bw?oc=5",
-   "published": "2026-11-09T21:05:00Z",
-   "outlet": "Stock Titan",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "54179aab96c92a0c",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics Reports Third Quarter 2026 Financial Results and Recent Highlights",
@@ -10010,6 +10021,17 @@
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRDdWN2pNX3ZBSjhqbGlvcjA4cjkzaG84VHFvVmZyUFRRaWExekppc1lVZUlRS3p5YTRsanlfR1dDOVBvYkJ5N3I5eUJxUldiQU53cUxLWDRYN1I4bXhUUnFWemZZRmVvZzRLcUtBUmdyZmdDbUlLdUxUcWFBYVE3N2s5OTRFdzZjOW5wVFJfRFdXN244ZFU0b1BfVEhfa2t0eWRqa3JvRWRwQ1B4Tk5OVGZhbXhrWTBvTng3V2paZXpfRjM4cDVrYmhzOU9kNnQ4RVFiZnRzeTRFcmlFbzVaQmp4QkVhXy01RUhuNU1iYlZ4SW5xWElQZ0pxclZudWNTT1E?oc=5",
    "published": "2026-11-09T10:23:04Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6f9005d5b167cd6d",
+   "company": "MapLight Therapeutics",
+   "title": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. - Stock Titan",
+   "summary": "In London, MapLight’s team will host one-on-one investor meetings on Nov. 18. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWZ3bWd4c3hxQXp0N2RLQ29SS3o2eGt0UkNBaGxhckdrSmpjVU1oQzExVmczYTY3dWRDbnJPalBER3ptdThxZXBYNWNKaExyWS1BV0p0MlpudkY2V29xQ0g5ODF5ZmdrQUNnNXpvSUhEUkE2UXZ3VGU4SzRFRTJLMXp5ejVSQVNzZzR0N1dadmdvV3hCODI5SW5yRVVMN3ZEOV9EYlVWdl9ueDNMaFFDcjh1bw?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10978,17 +11000,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRTlKcGpJYlUzOWx1eTNELVJTMi0xcmhkOFJtRjNGUWlhb1IwT0VlWjNweDd1SkVZbFdpdzdBUm4wSnNxdEQwMlVUNDVEeVpDLWUyaTd5SDcxLWExbVpQeTU3aGJzYTA?oc=5",
    "published": "2026-11-06T06:10:28Z",
    "outlet": "Annovis Bio",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "7480e82e2c8dde4e",
-   "company": "Novartis",
-   "title": "Account Manager, Neuroscience - Novartis",
-   "summary": "Account Manager, Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlU1OEZsbnBIeW1xMzdpYkJMOEx5bHcydUh2Y0ZjTTh4ZHVWcjZNczRzejBFa19CSUZxdFhrWF9BcEtXS25RTnI1U2JEcjhWcTROR0xIaHJMZWxKclZrSVlUeG1CTGNOejkybjlqNkhBOHNHaTlWb1c0UlRWc2QxeFEwQ3VPd2EtWXc1SnRTLWYxSGZwZTk2RUlXQ1ZtVlM2M3NuRmtIaHQ1Zw?oc=5",
-   "published": "2026-11-06T04:36:20Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -12049,6 +12060,17 @@
    "first_seen": null
   },
   {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
+   "published": "2026-11-03T12:12:08Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -12089,17 +12111,6 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
-   "published": "2026-11-03T08:00:00Z",
-   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -12867,7 +12878,7 @@
    "company": "Usona Institute",
    "title": "CMPS, HELP Stocks On Track For Worst Day In Months On Competitive FDA Psychedelic Race Fears - TradingView",
    "summary": "CMPS, HELP Stocks On Track For Worst Day In Months On Competitive FDA Psychedelic Race Fears TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQXzNVdjFUY28zcnNtSUZOSzdvV0tTNjJocmF2ajlDWjBZQ2U5NDRZQU1sYkw3N3hRd3JoWTlOVmM4dzlWWG9HVFp2cnFtWldhOWdldldmeDJsMk12b3NSVUljTXNjbVNiYnZlaGtJQWY0MWNnSVlKUVpqbWpPSWNWMWtvamJ6RkNfaDN1RkI2azNkUGVCbS11R0dYTmxQTnNTRzNjT0ozbTNLdlptdGtoSHVsd3pTYlczaFdwMW5fbGwtTUNYVFhjVkh0VktiQU45YzNRMWFVZTcyc3RoUjgxeTZGR3lKWnM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZmZiZHc1YXl6S1Btak43dW1EZWpoWTEyZ2ZIOGVfdHZ2VVZ2X01KMXQ0d2x5QnYtNUUtckFrUXhJcVhTWmxsbnhqdGFDV3BxN1h1X04yVVBSRC15M3NXRklhdXNtX2YyYW92Zm0wMGJsV2htdHJUd1BkQ1gtYWJhRWxQMm45X0FCRzNZTll2dW9rUFdxSy1FSFZDS09NSHlzbkMwWXJnaTBMWWNCWjBkSUhTMllUWkd6N0FVUEhiYzQteDVEei1RM2lMa2tlNVRZWFFieERzdUVWX2RlcF90QWhZRkVwX0hGTXBFRkdfVEVzT0dmdlBwSFdFbnMxWUI3?oc=5",
    "published": "2026-11-02T08:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
@@ -16196,6 +16207,17 @@
    "first_seen": null
   },
   {
+   "id": "3e7fe3cbb00b00ed",
+   "company": "Rapport Therapeutics",
+   "title": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target - Moomoo",
+   "summary": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1FfaExBZkFyNmFDSUZaV2FDdXctTHM0X09XWEhDaGhCdzV3dXJydXRpLUhkdlNNTG91VW54T0w0TGc3V0NXS1VUVmtDQlFfQWktOFVlVVRMVmo0ZjBBS1k4MHZFM1ZtTkIxUDU1WUx5MVF1bm4yYTMyVzJjQzV0ejlJUl9qQXpWMVhnU3V1aWdrdDNIUEdtUy1DZGdFcHhEdVBkaXluSGp0UQ?oc=5",
+   "published": "2026-10-15T17:35:40Z",
+   "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e665b7b7fa138903",
    "company": "Roche",
    "title": "Playing walking soccer may help people with Parkinson's disease - www.brainhealth.com",
@@ -16237,17 +16259,6 @@
    "published": "2026-10-15T10:00:00Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "3e7fe3cbb00b00ed",
-   "company": "Rapport Therapeutics",
-   "title": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target - Moomoo",
-   "summary": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1FfaExBZkFyNmFDSUZaV2FDdXctTHM0X09XWEhDaGhCdzV3dXJydXRpLUhkdlNNTG91VW54T0w0TGc3V0NXS1VUVmtDQlFfQWktOFVlVVRMVmo0ZjBBS1k4MHZFM1ZtTkIxUDU1WUx5MVF1bm4yYTMyVzJjQzV0ejlJUl9qQXpWMVhnU3V1aWdrdDNIUEdtUy1DZGdFcHhEdVBkaXluSGp0UQ?oc=5",
-   "published": "2026-10-15T07:00:00Z",
-   "outlet": "Moomoo",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -19859,17 +19870,6 @@
    "first_seen": null
   },
   {
-   "id": "306bbea2a5cea5d1",
-   "company": "Newron Pharmaceuticals",
-   "title": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 - TradingView",
-   "summary": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 TradingView",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRG4wcDM5c2Y1NG44MjQ2TmlpYXRBSi1GM1A2REZpREhZUUQzcFBOYTVkTTE0a1d1a016VXpjUVRfbTNXa1ktY1dfYnBlV2ZSNjB5dzdqN1dmYlRUaEFVbklqV0tTeHZ5dXlrRHFXdE04LVB4UTQ5eU5uVzRJZzI2c2pDRElDSTBpSUFXVnQ5N0dSLWpxM2ExRzlqU2VhSlF0a2lCWFVjWkJsQmRKYTVlQWMyVW83dVlXWExGMVlkQzBDVDgxcHBWRW90dzNhYS1vamVkZVgzZjN4UlpHZXV5cnV2cUZ3WWxBdW1tbDl4SXdvX2pNUGpIRWRWMnNrQ1RkVzB2Y21DUmFmV2lha0Uw?oc=5",
-   "published": "2026-09-22T07:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "a8510f71276e7e38",
    "company": "Newron Pharmaceuticals",
    "title": "Newron Pharmaceuticals (SWX:NWRN) Stock Faces Mounting Loss Pressure On Thin Revenue - Simply Wall St",
@@ -20021,6 +20021,17 @@
    "published": "2026-09-21T12:05:59Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "306bbea2a5cea5d1",
+   "company": "Newron Pharmaceuticals",
+   "title": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 - TradingView",
+   "summary": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRG4wcDM5c2Y1NG44MjQ2TmlpYXRBSi1GM1A2REZpREhZUUQzcFBOYTVkTTE0a1d1a016VXpjUVRfbTNXa1ktY1dfYnBlV2ZSNjB5dzdqN1dmYlRUaEFVbklqV0tTeHZ5dXlrRHFXdE04LVB4UTQ5eU5uVzRJZzI2c2pDRElDSTBpSUFXVnQ5N0dSLWpxM2ExRzlqU2VhSlF0a2lCWFVjWkJsQmRKYTVlQWMyVW83dVlXWExGMVlkQzBDVDgxcHBWRW90dzNhYS1vamVkZVgzZjN4UlpHZXV5cnV2cUZ3WWxBdW1tbDl4SXdvX2pNUGpIRWRWMnNrQ1RkVzB2Y21DUmFmV2lha0Uw?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -26947,7 +26958,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -29469,6 +29480,17 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaU5kMUt0QWhmM3I1azVFWVhCbVNOZEVqbXotTHdlblJteFlxcmlkcmxHVHp2clZzdVA2SldNVzZhbklWdmVWcmV0UzVLTWRQc1Y4aXZldDJRM2tCbjJmVFFHN19WTTRTSTFnQWl3SGgxeEh0eGtMclpoTFRkbDZhZVZnMllSR1lRTklseVhvTlg0Yi1LdEtnMlMzRQ?oc=5",
    "published": "2026-07-15T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8acd3dffff7f0047",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Bejlek tops Tagger in Athens; into first quarterfinal since Abu Dhabi title - WTA Tennis",
+   "summary": "Bejlek tops Tagger in Athens; into first quarterfinal since Abu Dhabi title WTA Tennis",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2t6eGxsTDVyTF9vRmp3dThsX09ucVlaN1NmYXgteEhpQnpja1FXWVZVRTJfaWdUZDZHWVFoRHVLTW5RMkdkX1Bubjg0aGQxSzB0V0ctdHBZY0FGUS1KR25aUnllSXBzalVBcUF3NThsUWIyYm00UGZiYWRkbEJxWlVObURKRW1vWTQ1clBwZTd3TXctUE5odGlnSDFNSW5jbmEtc3ZVeURYLXdnWDRLS2VNMk0wZw?oc=5",
+   "published": "2026-07-15T07:00:00Z",
+   "outlet": "WTA Tennis",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
