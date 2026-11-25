@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:42:01Z",
+ "updated": "2026-11-25T11:40:55Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2138,6 +2138,17 @@
    "first_seen": "2026-11-24T14:28:23Z"
   },
   {
+   "id": "4fd88f2b36be7b13",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma (HELP) will discuss Phase 3 results for HLP003 in major depression at 8 a.m. ET on Dec. 2. - Stock Titan",
+   "summary": "Helus Pharma (HELP) will discuss Phase 3 results for HLP003 in major depression at 8 a.m. ET on Dec. 2. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnRnVFIyQXNEbWZjWWpQQUI3UWJYbE1QaHRlOVZleG9OZ1pWQTF1d2hqY28wUHpZVTRtOHkwNVdoWVRIMkNacUFXMHU4dXFKVk1USENNVDBhLV9JWjRUYks5QXZLWlV3Sk9mQ1FycDFCTzhsM0ZMNHBZQWdqUWRYR0tpWW1mSnpURFBBdXVLSWxJQnk2X29MZmsyQ29rZ3dJa19mUl9VaTJITXVRcVpVbGZB?oc=5",
+   "published": "2026-11-24T12:43:35Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T11:40:55Z"
+  },
+  {
    "id": "54b541c2f111877c",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Announces Clinical Perspectives Discussion on APPROACH Topline Results for HLP003 - Quiver Quantitative",
@@ -2171,6 +2182,17 @@
    "first_seen": "2026-11-24T18:36:38Z"
   },
   {
+   "id": "6fcc37570e977cd6",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders - The Manila Times",
+   "summary": "Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONGNVOUZMSzlmNHZBbWpiOXcydDdRMmZqeDZ0MDBOWmNhQ25QbEVweGZvMjEwR1VuU2VaQlpZQmJwQV9BTlBGdklFSjcwYlZMTUxKMHFFTTM2Z1lDa2VDSXNVem5KTlRNVlM2LVJ6SnV5eWNJUGNNVTJlREVWVG5RT3ROMnpmZXBVWldXTFZIc0hLbWhVempWbjdya25oajVQUHNWREJ2QWFrZWtHUUhYRml1T3ZqYzhPVHB1akZ2YWxiQU5tVUpsd3VCTFBmSEE5U3AwX1BtVEU1VC0yOThlbG1pTk5JUmFFZFc5YlRiMGpLVmhWazYzeDNYYWY0M29yQmp1Z2hrUDBaY2tX0gGSAkFVX3lxTE41aGdaUmdqNHRnNVZQQW90TTdnS2x0ME1xZlcxT2pnNW9sbXFGU1RCMXd3U08xclEwNTVRVXRtWE9sODgxZ29JNjRxLWk4aHE4QWFSakNfdUhxcUVwMFFNSWxZM1g4c1hjd3R6T3VDQ3hKTzVRV2pRQ1VvU2hKX29GMnZUQzlPSGgyVGM4Ql94cUx1UVFYRnM1X3lXa2dVTXZUWHI2Nk15WTZyUHVSQTR1SFFrZzktRmxZQ29fUG5XQzNRbE5mUl9UbXZnSzczSVBaOE9tSTVzMzlGTVREUU4yS1hlY092UVNTRzBwNXA4bGlWbXRGNGRtUERQNnp1Qm5qdndwMFh6MVBzb2U0UGNzbWc?oc=5",
+   "published": "2026-11-24T12:40:13Z",
+   "outlet": "The Manila Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T11:40:55Z"
+  },
+  {
    "id": "abc3733c888fe298",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders - Tue, 11/24/2026 - 07:30 - Helus Pharma",
@@ -2191,6 +2213,17 @@
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-24T19:47:05Z"
+  },
+  {
+   "id": "367bc0ba2aa9bde8",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Two psychiatry professors will discuss Helus Pharma's APPROACH results Dec. 2. - Stock Titan",
+   "summary": "Two psychiatry professors will discuss Helus Pharma's APPROACH results Dec. 2. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEJSLXo4cU9mTWRYQlg0Y05pMXRSNTc2TTRvdFFqdWM2STNfMS1ZUk04R0x6ZzVfbVF4SzFMOF9XdTljamZpcXE1WENEbHhoeUU5SXFlVmRNY3hzRkRJbkxqNEZvZ0lHOG1XR0I0RHlsdVplWnJiaTJqdzRTUUJJSDBNUFJNY3pyOTVicGJDaEJhbVdaeDJhRDhsQTUtR0EwUzNnTm5TYjBrNzFJQUpOaC1QbVNyeVRJUC1qZg?oc=5",
+   "published": "2026-11-24T12:30:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T11:40:55Z"
   },
   {
    "id": "7106268b0feaf0d6",
@@ -2472,7 +2505,7 @@
    "company": "Teva",
    "title": "Teva's Mixed SMA Signals: Should You Stay Invested or Exit the Stock? - TradingView",
    "summary": "Teva's Mixed SMA Signals: Should You Stay Invested or Exit the Stock? TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVlDcU44Z0pycHo2bGxHRkx4cmhnVUprOFliaHlPdTJpbVJFRFFmWGJoZ0t6N0FySDhFaW1ZZ1hPMzF1aktoTm1NSElUQWpaYk5kOFd5ZUZhdGk1OFlFYTdMOGF3c0wxVmplY3BJa3FKUUE3VV9PVWZRTlZ2RWNUOFd2cTFqNkhKcFFPcS1pSjNVbzZid1dxMHRmRERUTmg1WVNiY1BtcVN2ZlViOVNYSDZya3ZhdldOM2NyWFNnb1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREpvZUFPcmRmSFllRWlTNVlUOUpzNkpKMS16R0ZJUGhPS0NEZU54Qll0Z3dtTFM1aG5zTHdDaDBBUW90NTJORFhiQ2RWNE9uRzRybDR3aVZLTGdRWnRia1FqVWxNSTZvTlAtSG1mNUNjNVg3ZXIzQklDcnBrUm85NEY1MU5neFpBSzMwX0VxY0VHQ3hQRW1HT3V2VFVtYm41UHpZLTZwUl82bmRvenppbHNSMFl1ZTlVeEdZUk9SWQ?oc=5",
    "published": "2026-11-23T12:18:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
@@ -2747,7 +2780,7 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value - Simply Wall St",
    "summary": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjU3SjJzVTN2WHRDbnBhUnFmYnpfT1pTeFNUZmxjOGZoZHdXYUgySE92ak40SXJJd3NPV3BFNG1iRnoyVm1BTmZjdGdGYWIxVmVQMGMtOTJPZFFLTlM0T2N0bU91UXBUSmRWaGEwTV8wblctdVU0a0c3RWc0NFRKWXlUX1Qwb3p1MkViQnU1WFJoVUVCclNZWGlDNEMxd2E2OFZ0VWNzNkNUdDRFOWtZckZnam9xeXpLaUtpZC1SeDdUNWt2THl2VDdzZzdjTDFMelNteTdzM0ZjRm45c1Bv0gHkAUFVX3lxTFBveWVoSWpTRXM0WU5OOXdaZnlsdWRzRXVOSGwwOW1CSEx5cVZuWWctMFFMM05oVWN4ckJCVjRfeTUtUWNaY0pIbFJlR0NQNFQ3RUxUcHFpNF9mQkNqWmxJbXdzWmdxQTFsNy0wNHdzT3hIN3R4Y2huRlFxOVF6OGxtQk1Mc0JPcnBkQWZOV1NOaVFKRkJkcWhkTG1La3hXNXFNZG5yNkh5elp0WUJWMFB6RmJxMTVoQ0Uwckh1MjVUX1ZyX0pHX3RfRzdEbU05UG1jcUFWY0tkMVFndEJfckplNHBMWg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3llaElqU0VzNFlOTjl3WmZ5bHVkc0V1TkhsMDltQkhMeXFWbllnLTBRTDNOaFVjeHJCQlY0X3k1LVFjWmNKSGxSZUdDUDRUN0VMVHBxaTRfZkJDalpsSW13c1pncUExbDctMDR3c094SDd0eGNobkZRcTlRejhsbUJNTHNCT3JwZEFmTldTTmlRSkZCZHFoZExtS2t4VzVxTWRucjZIeXpadFlCVjBQekZicTE1aENFMHJIdTI1VF9Wcl9KR190X0c3RG1NOVBtY3FBVmNLZDFRZ3RCX3JKZTRwTFrSAeQBQVVfeXFMUG95ZWhJalNFczRZTk45d1pmeWx1ZHNFdU5IbDA5bUJITHlxVm5ZZy0wUUwzTmhVY3hyQkJWNF95NS1RY1pjSkhsUmVHQ1A0VDdFTFRwcWk0X2ZCQ2pabEltd3NaZ3FBMWw3LTA0d3NPeEg3dHhjaG5GUXE5UXo4bG1CTUxzQk9ycGRBZk5XU05pUUpGQmRxaGRMbUtreFc1cU1kbnI2SHl6WnRZQlYwUHpGYnExNWhDRTBySHUyNVRfVnJfSkdfdF9HN0RtTTlQbWNxQVZjS2QxUWd0Ql9ySmU0cExa?oc=5",
    "published": "2026-11-22T18:07:48Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -7275,17 +7308,6 @@
    "first_seen": null
   },
   {
-   "id": "c13cab867d6b2581",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study, shares jump - Yahoo Finance",
-   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study, shares jump Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXQ5Rm9nWXoxSDhwY1llNzJOdjN4cXpXelNnOTVuOVNIZl9Xd1RqU2QzTmU5UDVPTDM3YWhZbWZaQ1dyb0RZaFFiRGhOaEc4S1JnVjgyNzNjMmQzZFQ5NTU2Z2dvSUszcEdReVo2TFVnNjhQbkpJYnpKc1dlQlRsS1BKc0xLOEVpM1dQVHdYcjJFU0ZEaGlYd01MWW1LanVlQjV6WA?oc=5",
-   "published": "2026-11-16T13:39:58Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "f4b9833e6ae2155b",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study, shares jump - Yahoo! Finance Canada",
@@ -7491,17 +7513,6 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUGpUTkdfeV95OGEtLWtQQXF6VnU0RW5qWW1LZkNWcVV5bmdKLXd4cU1oX2REbWlZd0dGZ3g3cEU4NWo3eE5tTDg0S05Qa3h5bEswTmZLZjF1eXFCRUpwaDR0MFo5Vm1hLVI4cmdYazE4dGpPVTY4S1J0ak9zOW9FMlNDWmZ5Zy0xTVJnTXhudmY4ZDYzVDlCOUlB?oc=5",
    "published": "2026-11-16T12:52:23Z",
    "outlet": "kalkine.com",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "fb4dd696e0039dc5",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Why is Helus Pharma stock tumbling today? - Investing.com",
-   "summary": "Why is Helus Pharma stock tumbling today? Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWGJ5dlJjWTBjOTh5aEY2ZExVN3hLUFUwWGtuN0sxN200cDlzYUhhN0JkcUVQYkFKSHd3VHF1M0ZFNldwNE5ta2huaTB6cWM1VFNERnkxOVJveUFNTnJjbEVLeHFkWHM1ajBLcXBJR09yYXdiSkNPek5Na2oyUm5PeE8wSnFfS29CWXhDdURCTmRPMUcydzZZNFlBWWQ5a3VrMnlFcQ?oc=5",
-   "published": "2026-11-16T12:43:57Z",
-   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7865,6 +7876,28 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c13cab867d6b2581",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma's psychedelic depression drug succeeds in late-stage study, shares jump - Yahoo Finance",
+   "summary": "Helus Pharma's psychedelic depression drug succeeds in late-stage study, shares jump Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXQ5Rm9nWXoxSDhwY1llNzJOdjN4cXpXelNnOTVuOVNIZl9Xd1RqU2QzTmU5UDVPTDM3YWhZbWZaQ1dyb0RZaFFiRGhOaEc4S1JnVjgyNzNjMmQzZFQ5NTU2Z2dvSUszcEdReVo2TFVnNjhQbkpJYnpKc1dlQlRsS1BKc0xLOEVpM1dQVHdYcjJFU0ZEaGlYd01MWW1LanVlQjV6WA?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fb4dd696e0039dc5",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Why is Helus Pharma stock tumbling today? - Investing.com",
+   "summary": "Why is Helus Pharma stock tumbling today? Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWGJ5dlJjWTBjOTh5aEY2ZExVN3hLUFUwWGtuN0sxN200cDlzYUhhN0JkcUVQYkFKSHd3VHF1M0ZFNldwNE5ta2huaTB6cWM1VFNERnkxOVJveUFNTnJjbEVLeHFkWHM1ajBLcXBJR09yYXdiSkNPek5Na2oyUm5PeE8wSnFfS29CWXhDdURCTmRPMUcydzZZNFlBWWQ5a3VrMnlFcQ?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14209,7 +14242,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -16016,6 +16049,17 @@
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeTBId2FRUGtudEZyRnRBYUFXWlVCZnJOaGVaMXV2Y0Z2VzZ4aWpsbVI5N0Jnb3Q0bUI5RmQzTENHakJEQzBoOE1Ia0c1UE90TFZkU3h4LUZXb3VwdXBBZEZSZHdLWmFCMlpuQzdkWU1aczJGSlBUUS1QMkRqZnpFZ3pHZ0FhN2JpNWVXZ0RMUnNJSUZuendmTXQ2M0RfVGdnc0xMYy1MWGNUelVrN0xrTmJWRjlXOHQ4VWppZWtjMGptV2V6SnNvTHIwcFdZWkdHWjlJWlpxaWRlY29WQnFnTW10QTdscGI1Qll2THJIZlp1eHBN?oc=5",
    "published": "2026-10-22T07:00:00Z",
    "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1b658fa53473cf65",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics (SER) Edges Higher to $1.80 as $1.71 Support Holds - Single Stock ETF - siam website",
+   "summary": "Serina Therapeutics (SER) Edges Higher to $1.80 as $1.71 Support Holds - Single Stock ETF siam website",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0s5Ny1KeHBzXzlNb19BbTYwUU1la2k0cHpQc2VZV0ZJUklJSlVBaVl2RkgyU2YwU1FqclpaNW5vUl95TXZMd2ZwcDdiSTQ1cW54SzRLSjhjZEt0QjIwX1NrT3lOdUoyTkRaSHRKeUFuY1dBNmFGYW1ZdTVKWFZleE1MdHUya2tub2F5a3Qtek1iYlphR09WUEhDOVhoeFFSdnpYRUQtZzJ1UW8?oc=5",
+   "published": "2026-10-22T07:00:00Z",
+   "outlet": "siam website",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -24336,17 +24380,6 @@
    "first_seen": null
   },
   {
-   "id": "d45c9127ff193dfe",
-   "company": "Protagenic Therapeutics",
-   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
-   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rbEJYVVpIYU9xX1VZa28wOTdDRUxIdkFrMTdCT1VDUS1OYnRNbmdvWTZlenY3Mk5XSXlQNVprTFNIWDNOc2pxSzZhUkExYklscVE?oc=5",
-   "published": "2026-08-23T05:44:04Z",
-   "outlet": "Protagenic Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "71eed0add672aabf",
    "company": "Eli Lilly",
    "title": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. (RENEW-MDD- 2) - Lilly Trials",
@@ -25048,6 +25081,17 @@
    "published": "2026-08-15T01:51:40Z",
    "outlet": "Minerva Neurosciences",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "3f9faf11ccbe8ca4",
+   "company": "Neumora Therapeutics",
+   "title": "Levi & Korsinsky investigates Neumora after trial failure - scanx.trade",
+   "summary": "Levi & Korsinsky investigates Neumora after trial failure scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFVpMHZ5SkJzeG9EUmltSUVGbTgzeEJ3QXhka2tMbE9iRFdEd2F1X18tUkpBWjNfbmxxSXRrUGxhbHZDRlYxUFpNQTlZalNFc3ZfREdXMGZtdEZCQWRrTmdUS3BhYldQUGxtRzI5dUlyQy1ocFFqUWRSa2NIdGJDYVJMTWJhRVBveWtIUWtjY0lUX2tCNzZnS0RybUFNZnYyS0Vjc0Z0THluTTd3M08tUVJKa3k?oc=5",
+   "published": "2026-08-14T12:45:28Z",
+   "outlet": "scanx.trade",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -27706,7 +27750,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -32564,6 +32608,17 @@
    "first_seen": null
   },
   {
+   "id": "9180ec6178815307",
+   "company": "Neumora Therapeutics",
+   "title": "What date does Neumora Therapeutics, Inc.'s (NMRA) report Earnings - Earnings Calendar & Announcement - Zacks Investment Research",
+   "summary": "What date does Neumora Therapeutics, Inc.'s (NMRA) report Earnings - Earnings Calendar & Announcement Zacks Investment Research",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5Y3ZHQVFPSnNvd0VGUnJxdGdOc05JQ3pZMHEyUS11RU5meWZnNjhSS1BNTks4aVpsRUIzb0tkSjBmVVNnWlVDaG1ObnZ0b0FEc0FRN1ZZOHowVmh6WTM1eHlOTG9vTk9OU3Vj?oc=5",
+   "published": "2026-06-16T07:00:00Z",
+   "outlet": "Zacks Investment Research",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "0c39599f6cb4f96f",
    "company": "Vanda Pharmaceuticals",
    "title": "VANDA Pharmaceuticals Berlin Tennis Open Draw - Tennis.com",
@@ -35201,6 +35256,17 @@
    "published": "2026-05-15T06:47:07Z",
    "outlet": "Being Patient",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d45c9127ff193dfe",
+   "company": "Protagenic Therapeutics",
+   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
+   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxeDQtN0l6ZERYZ2RGbVBlZGY4TzJmS3VfS2RvVEFZOTc5ZF9ObFVRUGVpNnZmUExOYlBlTGxFcHpZUWFKTWxLY24wVmV0cDMtMld5a25LTQ?oc=5",
+   "published": "2026-05-15T01:07:39Z",
+   "outlet": "Protagenic Therapeutics",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
