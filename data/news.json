@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:18:57Z",
+ "updated": "2026-11-25T15:33:50Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,28 @@
  },
  "items": [
   {
+   "id": "112e1a9d3186f69d",
+   "company": "Lundbeck",
+   "title": "Lundbeck faces steep US price cut on top-selling drug Rexulti - medwatch.com",
+   "summary": "Lundbeck faces steep US price cut on top-selling drug Rexulti medwatch.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vN2FxdnJWTjZ0NkhEZ3kxSlpMOFdFNmF1a1FCbElVQ2ZJMXRxeGdqUmRTNVplQW1TOFhvRk55X2V2cGtyTktnZ0Z1NGd2cEFYWnZwWnZXQkZWQmtUN0ZUUEZXN05sVnZLR2YtcE4wQQ?oc=5",
+   "published": "2026-11-25T14:46:17Z",
+   "outlet": "medwatch.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T15:33:50Z"
+  },
+  {
+   "id": "96493517b751d15d",
+   "company": "Vanda Pharmaceuticals",
+   "title": "FDA Trade Secrets Issue Remains Open After Vanda Ruling - Legis1",
+   "summary": "FDA Trade Secrets Issue Remains Open After Vanda Ruling Legis1",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IUHNkS2VpR04wSi1PSHNaLUxwYXhwY0YwbGlqeFdyQnNMNDNIbWFuQUZ6b1FQRzBpVDNnVEFHdHF5bmNVUk5wRWxreXdMSElEdVNuS1pHU0F2ME5NWWdWZExKbUprVmFvUWlkRndTUHlrM2E4?oc=5",
+   "published": "2026-11-25T14:36:59Z",
+   "outlet": "Legis1",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T15:33:50Z"
+  },
+  {
    "id": "d9e170226addfcb0",
    "company": "Kyowa Kirin",
    "title": "Trial status changed Active not recruiting → Completed: Adenosine 2A Receptor Antagonism and AIH in ALS",
@@ -1718,6 +1740,17 @@
    "outlet": "",
    "method": "ClinicalTrials.gov",
    "first_seen": "2026-11-25T14:18:57Z"
+  },
+  {
+   "id": "206e0bef2c956951",
+   "company": "Herantis Pharma",
+   "title": "Herantis Pharma Oyj : Notice to the Extraordinary General Meeting of Herantis Pharma Plc - www.marketscreener.com",
+   "summary": "Herantis Pharma Oyj : Notice to the Extraordinary General Meeting of Herantis Pharma Plc www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWHRiM2sxVjZnODlXTE1kcXN0TW5pZ0JXMGZmYVFvWkJvVWRUa1ZGVFgyblNJRVNQUHN6eGV1XzFPaDNLWVpHOEF6amNKb3Z0dEtBb0ZWVi1FdVZRVTY4SENRSkpIbU9vdlVEM0tpQnI1anZHRDhpRzBLWEFuczJWdHU5cmxFNTkwUnRaazkzQXgtSnZqaWc3emFCZ3JoeEpzdzh2MHVRTTYxUzB4cUo2MUpzakVnQkhXRFliMEgzdTBQbTd0TU1jLTdzZUJHdXJCbEhoRGVn?oc=5",
+   "published": "2026-11-25T14:09:08Z",
+   "outlet": "www.marketscreener.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T15:33:50Z"
   },
   {
    "id": "2fd0a182508127f7",
@@ -1977,8 +2010,8 @@
    "company": "BioVie",
    "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 - Quantisnow",
    "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW0tSy14WnZhZ2kwZE9LRXZvY0pfNFBkeWhlZWRrZzhROVJDYms2WkJxeVdxOE9FNlBvVFM4M0JEZXZzV2JReG9XTnNVOFpMTE1KZWFVcFI2WmFfektONmFkQVB3WDJvRjVVbHk3TjNGcDNjVldhbXdfLWxQNWYzdEloNXZQNm1zNk1iSWRfMVVuVWFkMnc?oc=5",
-   "published": "2026-11-24T21:31:24Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEF0QnBuc3RrRUtRaUhEcGVmbExKTlBNT1RnZUlHejdKbW84a3E0VERuQTRMcUtvb1FXQXYzQjlHWENUWEZONzZQV2VTNWlEcEo3MUNFb0lfTmxWekszMXhLMkFHT3FMb2E5Qm9rdkRqeVhOeWl5NzdNRGZOMC1qRkNrenpYc3F2QXIxcHZqR1pwajF1ZHZTeTdTaw?oc=5",
+   "published": "2026-11-24T21:30:49Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T21:39:02Z"
@@ -2796,6 +2829,17 @@
    "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T10:45:40Z"
+  },
+  {
+   "id": "820abe1ae1946189",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics (NYSEAM:SER) - Stock Analysis - Simply Wall St",
+   "summary": "Serina Therapeutics (NYSEAM:SER) - Stock Analysis Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTdGSUJ2WWcwLURPOU0tMU5vNlFkOVVlbVg1RHg5YXV5NHhDMlBDOEp1ZkJzSEQxRkhoNEJPeFE0TjcwN2VjVmpzWnhJem1EaFA2S3NZWG5qVGVYSVA3VkFZZkc3Q3JWVTdtUUJtUV9LWkVBRGlqVEhmZm5ZXzJoYUlBbHpUR1ZjNlhKX1FoZnY?oc=5",
+   "published": "2026-11-23T08:00:00Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T15:33:50Z"
   },
   {
    "id": "70994fda22ca02a1",
@@ -9134,17 +9178,6 @@
    "first_seen": null
   },
   {
-   "id": "3cefec39699fbe9d",
-   "company": "Teva",
-   "title": "Teva targets up to $7B in innovative drug sales by 2030 - FirstWord Pharma",
-   "summary": "Teva targets up to $7B in innovative drug sales by 2030 FirstWord Pharma",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRY0tKUFAtVnViRzVtNnVpeTVOQjFNWmxTZzJzbHZRWW9sWVkzaU5iTnhEaVhHd3FPSG9GTklQQzRRekZtTkJLNk96NWhQcGtKak04?oc=5",
-   "published": "2026-11-12T19:59:32Z",
-   "outlet": "FirstWord Pharma",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "a5479ce50037baee",
    "company": "Boehringer Ingelheim",
    "title": "Search - Boehringer Ingelheim",
@@ -9317,6 +9350,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3cefec39699fbe9d",
+   "company": "Teva",
+   "title": "Teva targets up to $7B in innovative drug sales by 2030 - FirstWord Pharma",
+   "summary": "Teva targets up to $7B in innovative drug sales by 2030 FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRY0tKUFAtVnViRzVtNnVpeTVOQjFNWmxTZzJzbHZRWW9sWVkzaU5iTnhEaVhHd3FPSG9GTklQQzRRekZtTkJLNk96NWhQcGtKak04?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "FirstWord Pharma",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13358,17 +13402,6 @@
    "first_seen": null
   },
   {
-   "id": "3765c60fcabdcc49",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences Q3 Earnings Call Highlights - TradingView",
-   "summary": "Neurocrine Biosciences Q3 Earnings Call Highlights TradingView",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbkhVUFdyMjNBc2h3MUhoV0FuOXlWSzlMWEtyQ19tZDFrTFFFSHVhV3hkcnpJSWwzQkc0ZEhYYTdZZFZuc2NjUl9ZYk90UlVEWk5pQkVoQ1M1NUNoemlOSk1oTmZQZTVOYU5fQXAtWUJ0Y1BaT1BFb1ltZGNOdDlhZ3hhcWRiTjBOMUFGQXlKT1JlYUc1NXRmOE1QUkVNZ2RuTTd0NWc1ZXdaRVFJUnVocQ?oc=5",
-   "published": "2026-11-03T08:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "dd359d86190e407a",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals Legacy SEC Filings - Supernus Pharmaceuticals",
@@ -13475,6 +13508,17 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRmVxZ3ZWNDJJcXJpNlBqSjBodjI4bHFaSVhnV3lUOU14YzlfRGFNU25mTlpUVGlqeXVUUUY2NXpiVktTR20wUS16a2NBMGoxVWd6SENCZGhIUS1CM1NKR19IZHZ4SDB3Nm1hWHJhQ3VRc1c4YzhNN3R5SkNJeURvUVFrdVhjWk1BM1JvVmo3U1JDRnpMMFRWYkRxcUFWem5mVzE1dUNCRVpRRXZIN2Z4blE5OUJLU2hWb1NNNXd1VkN6bENQOUctRFJRcTg?oc=5",
    "published": "2026-11-02T09:26:00Z",
    "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3765c60fcabdcc49",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences Q3 Earnings Call Highlights - TradingView",
+   "summary": "Neurocrine Biosciences Q3 Earnings Call Highlights TradingView",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbkhVUFdyMjNBc2h3MUhoV0FuOXlWSzlMWEtyQ19tZDFrTFFFSHVhV3hkcnpJSWwzQkc0ZEhYYTdZZFZuc2NjUl9ZYk90UlVEWk5pQkVoQ1M1NUNoemlOSk1oTmZQZTVOYU5fQXAtWUJ0Y1BaT1BFb1ltZGNOdDlhZ3hhcWRiTjBOMUFGQXlKT1JlYUc1NXRmOE1QUkVNZ2RuTTd0NWc1ZXdaRVFJUnVocQ?oc=5",
+   "published": "2026-11-02T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14374,7 +14418,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -28802,17 +28846,6 @@
    "first_seen": null
   },
   {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "cbddd078a7b989f3",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Announces Key Leadership Hiring, Promotions - neurocrine.gcs-web.com",
@@ -42497,6 +42530,17 @@
    "first_seen": null
   },
   {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c2f1023df802267b",
    "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
    "title": "Lilly Establishes up to $1.9B Repertoire Deal in Second Immune Play of 2026 - BioSpace",
@@ -43234,6 +43278,17 @@
    "first_seen": null
   },
   {
+   "id": "f99b3464d74f42f2",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Outlines Key Upcoming Milestones at the 2026 J.P. Morgan Healthcare Conference - Xenon Pharmaceuticals",
+   "summary": "Xenon Outlines Key Upcoming Milestones at the 2026 J.P. Morgan Healthcare Conference Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM19RZ3FDYzRvbG5zVXMzM05SMGJxTmRaTF9QUVN2bjRlZG04XzVxN3RXQUR1OXpsemxDM1puX0V4SjRVU25QYUpsREpzZlJlMlFOODlMSEdLWUtlUEhNSTV6a1IzRkJqUzhiQTBmQkNSenc5d1FkUktEY1V1RUtDanpzay1ibkNHUGZvelNfYU1kTEU3Uko0QmswRXNrVjJlY1pNVk14cjhkTUdyYWE0cUJWZGF6LXJVdUg2YjlkVjJCN2ZzMm5PUUJDMnJjQQ?oc=5",
+   "published": "2026-01-12T08:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "52403981680ece86",
    "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
    "title": "Eli Lilly and Company (LLY) to Acquire Ventyx Biosciences - Yahoo Finance",
@@ -43645,7 +43700,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - Eli Lilly",
    "summary": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0MHZlRnFhQUVIclZpX19KdS00Rk1kX2R5SERTa3ZqT3FhMDNWc083ckYtRnZsaWt4eTM1ZDlHZWdjUi1GazVwTlJnZHdEdjNKMUk0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjdwYWFSNE1WN3JMRkFzUnk5NGk4cWo3N05TMGhrdHphaFJDajVYeUZDRnR3TG43Q0ZXUm1lZXN6QXM4LURmWldsX1NkaWgyY3R5VWpjd2Z4RmZOY1ZuZWZ3NjNYLUVYUm5NdHg0dFVURlpMbnY1dU5mUVJtV0lOLUVlNEk2U0RDMklxSXNrcEVIUW8yUWNYeE05TUZQOWhVMXhvaFZfaWdwbXJYUlVOUGZ4Z2h3UXA5?oc=5",
    "published": "2026-01-07T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
