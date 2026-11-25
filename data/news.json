@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:33:22Z",
+ "updated": "2026-11-25T00:34:12Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "02efe7217f708cb3",
+   "company": "Herantis Pharma",
+   "title": "Inside information: Herantis Pharma announces the results of its directed share issue raising EUR 15 million - www.marketscreener.com",
+   "summary": "Inside information: Herantis Pharma announces the results of its directed share issue raising EUR 15 million www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcEVnQXVoaXZvOF9GaENqTjV5cVFlaHQ5NEg1TGRlV0E5d09GR2VLcnJPRFF2bVpMSUx3OW9TYVQ3RjhLblpqd1RKWEpHYVBCLW1YODlHLVdaRUZnSm0wczR1RkI5MzdCVDlFVmRhSGpScUI5NXhKQlRVY2liTlk5b09zTDBjWHk0TFRiZUswQktZT0c0RUJRZnZhaU5pOW9HUkVaVFg2b3pNSWtZX2ZJa2tDOERPdy0tUnYwM0M5LVBjdm15emZ5bHB3VTFNN05YLVFjY2ZNZHlacEVVUXE0N0Zad1lVakU?oc=5",
+   "published": "2026-11-24T23:43:53Z",
+   "outlet": "www.marketscreener.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T00:34:12Z"
+  },
+  {
    "id": "ba2b28579f8f084f",
    "company": "Herantis Pharma",
    "title": "Herantis raises €15M to fund Parkinson's Phase 2 trial - Dealroom",
@@ -1663,6 +1674,17 @@
    "outlet": "Dealroom",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T23:33:22Z"
+  },
+  {
+   "id": "0b550a939be03469",
+   "company": "BioVie",
+   "title": "A proposed resale covers about 25.9% of BioVie (BIVI) shares outstanding as of Nov. 18, 2026. - Stock Titan",
+   "summary": "A proposed resale covers about 25.9% of BioVie (BIVI) shares outstanding as of Nov. 18, 2026. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHFYZDBHMDk4ZW43TDZoRmFrZlFfVE4tUmhwM0p0TWZVRXZ0d3J1NXBxOS1WejA1TzJLV2JlVm1NcmRpLTFJakxNZ3hLYWlBUE53NUhkX2EwMUJMTDlxZk0zb3dqWllQY1I0UjQzSldoSTJDUE9aVmR5VTUxdnpLSTRTeFlDNnBHTjBqc0otbXhZV2NsajFFejlLalBIM1VqMVFqOENxTWIxSnVlX2c?oc=5",
+   "published": "2026-11-24T22:16:25Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T00:34:12Z"
   },
   {
    "id": "dfc5b8085e7f92af",
@@ -1680,8 +1702,8 @@
    "company": "BioVie",
    "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 - Quantisnow",
    "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEF0QnBuc3RrRUtRaUhEcGVmbExKTlBNT1RnZUlHejdKbW84a3E0VERuQTRMcUtvb1FXQXYzQjlHWENUWEZONzZQV2VTNWlEcEo3MUNFb0lfTmxWekszMXhLMkFHT3FMb2E5Qm9rdkRqeVhOeWl5NzdNRGZOMC1qRkNrenpYc3F2QXIxcHZqR1pwajF1ZHZTeTdTaw?oc=5",
-   "published": "2026-11-24T21:30:49Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW0tSy14WnZhZ2kwZE9LRXZvY0pfNFBkeWhlZWRrZzhROVJDYms2WkJxeVdxOE9FNlBvVFM4M0JEZXZzV2JReG9XTnNVOFpMTE1KZWFVcFI2WmFfektONmFkQVB3WDJvRjVVbHk3TjNGcDNjVldhbXdfLWxQNWYzdEloNXZQNm1zNk1iSWRfMVVuVWFkMnc?oc=5",
+   "published": "2026-11-24T21:31:24Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T21:39:02Z"
@@ -2026,6 +2048,17 @@
    "outlet": "GuruFocus",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T03:53:50Z"
+  },
+  {
+   "id": "3f6258fc2821fc11",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma stock price target maintained at $70 by H.C. Wainwright - Investing.com Canada",
+   "summary": "Helus Pharma stock price target maintained at $70 by H.C. Wainwright Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcW5JSmk3ZG9wYUpnQVZuZ2FmZUk1UkdCQi1lT0dfZ3FnaFdLVEY0azViXzExeE9MeUduRmJmMVBLRl9KaVhHYTNlRl95c09hYms0OTRMbXoxVzBtQy1aSmJHMG5vV2ZtN0tZdllQZ1hsQnFuNGRPeGcwYUZHc3J5dkRfTlJyV3ZmUW1YQnFYWVRhOFR0YktNalpKX2cxQXRmZkVEcVlFdHZWaWhDS2tZdjFWWENSOEZZRUZzZVdRWE44X1A4?oc=5",
+   "published": "2026-11-23T23:47:55Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T00:34:12Z"
   },
   {
    "id": "a88ca9c8c75b2c17",
@@ -2461,7 +2494,7 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value - Simply Wall St",
    "summary": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3llaElqU0VzNFlOTjl3WmZ5bHVkc0V1TkhsMDltQkhMeXFWbllnLTBRTDNOaFVjeHJCQlY0X3k1LVFjWmNKSGxSZUdDUDRUN0VMVHBxaTRfZkJDalpsSW13c1pncUExbDctMDR3c094SDd0eGNobkZRcTlRejhsbUJNTHNCT3JwZEFmTldTTmlRSkZCZHFoZExtS2t4VzVxTWRucjZIeXpadFlCVjBQekZicTE1aENFMHJIdTI1VF9Wcl9KR190X0c3RG1NOVBtY3FBVmNLZDFRZ3RCX3JKZTRwTFrSAeQBQVVfeXFMUG95ZWhJalNFczRZTk45d1pmeWx1ZHNFdU5IbDA5bUJITHlxVm5ZZy0wUUwzTmhVY3hyQkJWNF95NS1RY1pjSkhsUmVHQ1A0VDdFTFRwcWk0X2ZCQ2pabEltd3NaZ3FBMWw3LTA0d3NPeEg3dHhjaG5GUXE5UXo4bG1CTUxzQk9ycGRBZk5XU05pUUpGQmRxaGRMbUtreFc1cU1kbnI2SHl6WnRZQlYwUHpGYnExNWhDRTBySHUyNVRfVnJfSkdfdF9HN0RtTTlQbWNxQVZjS2QxUWd0Ql9ySmU0cExa?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjU3SjJzVTN2WHRDbnBhUnFmYnpfT1pTeFNUZmxjOGZoZHdXYUgySE92ak40SXJJd3NPV3BFNG1iRnoyVm1BTmZjdGdGYWIxVmVQMGMtOTJPZFFLTlM0T2N0bU91UXBUSmRWaGEwTV8wblctdVU0a0c3RWc0NFRKWXlUX1Qwb3p1MkViQnU1WFJoVUVCclNZWGlDNEMxd2E2OFZ0VWNzNkNUdDRFOWtZckZnam9xeXpLaUtpZC1SeDdUNWt2THl2VDdzZzdjTDFMelNteTdzM0ZjRm45c1Bv0gHkAUFVX3lxTFBveWVoSWpTRXM0WU5OOXdaZnlsdWRzRXVOSGwwOW1CSEx5cVZuWWctMFFMM05oVWN4ckJCVjRfeTUtUWNaY0pIbFJlR0NQNFQ3RUxUcHFpNF9mQkNqWmxJbXdzWmdxQTFsNy0wNHdzT3hIN3R4Y2huRlFxOVF6OGxtQk1Mc0JPcnBkQWZOV1NOaVFKRkJkcWhkTG1La3hXNXFNZG5yNkh5elp0WUJWMFB6RmJxMTVoQ0Uwckh1MjVUX1ZyX0pHX3RfRzdEbU05UG1jcUFWY0tkMVFndEJfckplNHBMWg?oc=5",
    "published": "2026-11-22T18:07:48Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -11301,17 +11334,6 @@
    "first_seen": null
   },
   {
-   "id": "6813b4bcd57e18ff",
-   "company": "BioVie",
-   "title": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal - Dealroom",
-   "summary": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmpBRENzYjRGQnV5NTJPMHNTeFA2U1JEbXJKRXVFajBvZGJkTi1TcmREMWJrQm9YbGYwMzNLOGhIdHowTEhkNDNELTRtSVN4UWJJU05XemZPV1NpYUJkVm9EcDhhamxCY01oRURINVJHTUZaWFc2TUZCaDM3Y2VaZVY1YWFPeEFoeEF6T2EtNF96SzdmTFQycjlzdVpJQlM2Wnc?oc=5",
-   "published": "2026-11-05T15:29:13Z",
-   "outlet": "Dealroom",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "673f68f417e2b19e",
    "company": "Annovis Bio",
    "title": "Annovis Bio prices $21M public offering at $1.00 per share - StreetInsider",
@@ -11649,6 +11671,17 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnJyUVpDVDRpMXdjNF9mSDlHOEQxc0Y3UVQ4b2MyajducjE3a2tqVTlnT0J3c0pZTVBrV09pUHowYmJsS2pkWk8ySV8xa3dNdDB3TGZUVE5rc2swWE1mSGVxMVBONXhnVXhOY2RLUmRsTVBzd00xSjdvXzVpeDhHankySkk1QUloSzF5X0djRC1nUzRHM1M3ZVAzMHBxbnpRMEMzNTVlaTVqMTVhVHc?oc=5",
    "published": "2026-11-05T06:58:03Z",
    "outlet": "PEI Private Equity",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6813b4bcd57e18ff",
+   "company": "BioVie",
+   "title": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal - Dealroom",
+   "summary": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmpBRENzYjRGQnV5NTJPMHNTeFA2U1JEbXJKRXVFajBvZGJkTi1TcmREMWJrQm9YbGYwMzNLOGhIdHowTEhkNDNELTRtSVN4UWJJU05XemZPV1NpYUJkVm9EcDhhamxCY01oRURINVJHTUZaWFc2TUZCaDM3Y2VaZVY1YWFPeEFoeEF6T2EtNF96SzdmTFQycjlzdVpJQlM2Wnc?oc=5",
+   "published": "2026-11-05T02:32:23Z",
+   "outlet": "Dealroom",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12302,17 +12335,6 @@
    "first_seen": null
   },
   {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
-   "published": "2026-11-03T12:12:08Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -12353,6 +12375,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13912,7 +13945,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -19276,6 +19309,17 @@
    "first_seen": null
   },
   {
+   "id": "e5539259f4a0b598",
+   "company": "Incannex Healthcare",
+   "title": "Incannex Healthcare Inc reports results for the quarter ended June 30 - Earnings Summary - TradingView",
+   "summary": "Incannex Healthcare Inc reports results for the quarter ended June 30 - Earnings Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTDZITW9qN2t5UXZPT21nVnhtSHRmOS04OEo2bUVpblE2OXZoME1GWUJRMU12TDBLSGZia1dLZHMwcGZLRlJWVW5CUHZhR3U0eUJVX2VZYWRGSWo2UmpZdll4NHJoM2NWWDNaZVI1UmFaTUpvTV9UVHY5V05GT1RHa25xSThzTzNldnc5bUljZkYtdlAwU05ERDZ0cjdPNUhpWldrOWMyVzhhZ1NxSU0yb1hkTE9zTE5LVXhCZ1o2NnVPQjhSay0zeXJyTmVLNnZyQk90VWhfdDNyTTdUb1VNNm5mNURoU0I0YWpTOQ?oc=5",
+   "published": "2026-09-28T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bdb4d8bc96e0b193",
    "company": "Roche",
    "title": "Parkinson drug race accelerates as LeCun, SK Biopharm, Roche advance - Chosunbiz",
@@ -20255,17 +20299,6 @@
    "first_seen": null
   },
   {
-   "id": "306bbea2a5cea5d1",
-   "company": "Newron Pharmaceuticals",
-   "title": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 - TradingView",
-   "summary": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 TradingView",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRG4wcDM5c2Y1NG44MjQ2TmlpYXRBSi1GM1A2REZpREhZUUQzcFBOYTVkTTE0a1d1a016VXpjUVRfbTNXa1ktY1dfYnBlV2ZSNjB5dzdqN1dmYlRUaEFVbklqV0tTeHZ5dXlrRHFXdE04LVB4UTQ5eU5uVzRJZzI2c2pDRElDSTBpSUFXVnQ5N0dSLWpxM2ExRzlqU2VhSlF0a2lCWFVjWkJsQmRKYTVlQWMyVW83dVlXWExGMVlkQzBDVDgxcHBWRW90dzNhYS1vamVkZVgzZjN4UlpHZXV5cnV2cUZ3WWxBdW1tbDl4SXdvX2pNUGpIRWRWMnNrQ1RkVzB2Y21DUmFmV2lha0Uw?oc=5",
-   "published": "2026-09-22T07:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "4f8f09394db92992",
    "company": "LB Pharmaceuticals",
    "title": "LBRX: LB Pharmaceuticals Inc Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
@@ -20285,6 +20318,17 @@
    "published": "2026-09-21T12:05:59Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "306bbea2a5cea5d1",
+   "company": "Newron Pharmaceuticals",
+   "title": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 - TradingView",
+   "summary": "NWRN: Advanced evenamide Phase 3 trials and secured financing, with cash to fund operations into 2027 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRG4wcDM5c2Y1NG44MjQ2TmlpYXRBSi1GM1A2REZpREhZUUQzcFBOYTVkTTE0a1d1a016VXpjUVRfbTNXa1ktY1dfYnBlV2ZSNjB5dzdqN1dmYlRUaEFVbklqV0tTeHZ5dXlrRHFXdE04LVB4UTQ5eU5uVzRJZzI2c2pDRElDSTBpSUFXVnQ5N0dSLWpxM2ExRzlqU2VhSlF0a2lCWFVjWkJsQmRKYTVlQWMyVW83dVlXWExGMVlkQzBDVDgxcHBWRW90dzNhYS1vamVkZVgzZjN4UlpHZXV5cnV2cUZ3WWxBdW1tbDl4SXdvX2pNUGpIRWRWMnNrQ1RkVzB2Y21DUmFmV2lha0Uw?oc=5",
+   "published": "2026-09-21T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -23838,6 +23882,17 @@
    "published": "2026-08-24T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b3f07ffd9f356d52",
+   "company": "Resilient Pharmaceuticals (ex-Lykos)",
+   "title": "MDMA Pharma Corruption, Israeli Rave Escapism, Anti-Trans Academia 08.24.2026 - YouTube",
+   "summary": "MDMA Pharma Corruption, Israeli Rave Escapism, Anti-Trans Academia 08.24.2026 YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JOEZGUVpkanRwb01MamNzbWZTWG5FQnlkczNjSW43TGU5dThFY1ZzazNweHFvcFVDVEl1WVJCazBUZjlFWDlQNG02dVF5SUluNUVYQWpKd0V6RVBH?oc=5",
+   "published": "2026-08-24T07:00:00Z",
+   "outlet": "YouTube",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
@@ -28128,6 +28183,17 @@
    "published": "2026-07-24T07:00:00Z",
    "outlet": "Sleep Review",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
+   "published": "2026-07-23T09:38:46Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -41735,17 +41801,6 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
-   "published": "2026-01-29T10:15:29Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
