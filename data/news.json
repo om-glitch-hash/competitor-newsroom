@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:32:58Z",
+ "updated": "2026-11-25T06:43:38Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1669,8 +1669,8 @@
    "company": "Eli Lilly",
    "title": "Associate VP – Medical Development – Interventional Psychiatry - Lilly Careers",
    "summary": "Associate VP – Medical Development – Interventional Psychiatry Lilly Careers",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1NFNFFWcGdMRWJxdi1NM1hTUGtqZlRIcEpINkhDSm9fVjZaNlcycHlyZzBPV1NXSmNQUEtvaFo0eVJoS044NTZpYTRCdnBDOERSN3pKVWVzaW5EaktiSTBEYkRWWUs2MG40bzg0YnJ3aUNHaDRKSnV1N3RxTlM0NzhIMjZpQ0p3WG13TnpSamhxNkpsZnQtcm5Tb3MtNEVFcHFhWnM0WFdMZWM?oc=5",
-   "published": "2026-11-25T02:18:59Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdExoMjVMVzhNb2hDb3JXblNXaE5qbzZFdTlMRUduRi01TWhHWmxJRldaQVpyOHp5cGF4T3piZ3FiRTZSX2VyaTJGUmEyQXpBSU91YjIyU3U5RTBJM3lxQVBNb1hMdWIyWFNDX2NkSFc3ZUVIaHg3SXl5clZ1YnIzcVpKT1BvTE11SmZQbEhwQlhmVThSQ2FEUU5EWndfNG1sT296bjRycFRBbkU?oc=5",
+   "published": "2026-11-25T02:40:22Z",
    "outlet": "Lilly Careers",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-25T04:23:02Z"
@@ -1685,6 +1685,17 @@
    "outlet": "www.marketscreener.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T00:34:12Z"
+  },
+  {
+   "id": "a45001000ac4c212",
+   "company": "Neurocrine Biosciences",
+   "title": "1NBIX.MI interactive stock chart | NEUROCRINE BIOSCIENCES INC stock - Yahoo Finance Australia",
+   "summary": "1NBIX.MI interactive stock chart | NEUROCRINE BIOSCIENCES INC stock Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vZWxWTGpNY1UwRGtlVjhzMkVVVXpNZUVxMmdmQ0VNNWszdFF4cE11MllhSmNMeGlKTkdXeWtrcm5jY1EtZnJwUmF1RFZIVmFTeFM5eUxB?oc=5",
+   "published": "2026-11-24T23:39:22Z",
+   "outlet": "Yahoo Finance Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T06:43:38Z"
   },
   {
    "id": "0cc27301b78da280",
@@ -8947,6 +8958,17 @@
    "first_seen": null
   },
   {
+   "id": "840bb9adcb226723",
+   "company": "Incannex Healthcare",
+   "title": "IXHL Q1'27 Earnings: EPS estimate is (0.51) USD - TradingView",
+   "summary": "IXHL Q1'27 Earnings: EPS estimate is (0.51) USD TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFNUNzFKZWNUM0JzdGx0THhmbktYelNCOUVmV1pXbUY2R3FmRlpCdUlIYnN3Y2w0MDdWWjg4c2w4NnFKR2FNZGxucld3RWxOcW9CaUFmc2tJNVR0allkRFh2V0pRN2JXaGZWQWgzNERNcS1qTWNQUnlsMEtwZVJTcXhTT1N4SmtCeDVPNHVqS2pqZkRSa2VlTXdRUThqODEybzlEV1BYbnAxQQ?oc=5",
+   "published": "2026-11-12T12:00:05Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f040d368a6d004e1",
    "company": "Xenon Pharmaceuticals",
    "title": "Analysts Offer Insights on Healthcare Companies: Xenon (XENE), Veeva Systems (VEEV) and Liquidia Technologies (LQDA) - The Globe and Mail",
@@ -8987,17 +9009,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "840bb9adcb226723",
-   "company": "Incannex Healthcare",
-   "title": "IXHL Q1'27 Earnings: EPS estimate is (0.51) USD - TradingView",
-   "summary": "IXHL Q1'27 Earnings: EPS estimate is (0.51) USD TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFNUNzFKZWNUM0JzdGx0THhmbktYelNCOUVmV1pXbUY2R3FmRlpCdUlIYnN3Y2w0MDdWWjg4c2w4NnFKR2FNZGxucld3RWxOcW9CaUFmc2tJNVR0allkRFh2V0pRN2JXaGZWQWgzNERNcS1qTWNQUnlsMEtwZVJTcXhTT1N4SmtCeDVPNHVqS2pqZkRSa2VlTXdRUThqODEybzlEV1BYbnAxQQ?oc=5",
-   "published": "2026-11-12T08:00:00Z",
-   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14766,6 +14777,17 @@
    "first_seen": null
   },
   {
+   "id": "c42f9ef97c48e482",
+   "company": "Idorsia",
+   "title": "Idorsia pivots to autism on Quviviq's unexpected phase II benefits - BioWorld News",
+   "summary": "Idorsia pivots to autism on Quviviq's unexpected phase II benefits BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2NlNTBQUEF1QktLWWdteFN1LUpYM3BMMkxnSHdSejNKVmVBODlxT29FWVdhWTI4RGFidzZWWGd1SGFpdDRNNF9SU2VVenBkMXVydTYyQTI0aHhzMjktYlRwZmdSNVdmeEU4Vk9nZ1puWDJwMU5fSURDa2pfUkVCZDJ1U2VXSmVIVzV2OU9kOFJKRURBZ2VydXVuWml3d3ZDeTVfeFU2UHRtZw?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "BioWorld News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "716d08e6b36dcaf1",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics, Inc. Estimates – NASDAQ:RAPP - TradingView",
@@ -16611,6 +16633,17 @@
    "published": "2026-10-15T14:24:31Z",
    "outlet": "www.brainhealth.com",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "88b715937f91cb44",
+   "company": "Supernus",
+   "title": "SPECIAL MEETING OF STOCKHOLDERS - Supernus Pharmaceuticals",
+   "summary": "SPECIAL MEETING OF STOCKHOLDERS Supernus Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wMEZ5Z2N3THpsNnNobHJRd2R5U1VEck00N3hjZ180NWZ3WU5ROG5CLW9EcDdBdktXNzl2bmd2ZGF0dlZya2E2VDY1SWEtOHFlemdTS1NXZ1llQWlDb1lla0tvSDl4WGxMMTZyaHpCb253NFRjVV95MjRhOXpOQQ?oc=5",
+   "published": "2026-10-15T14:00:00Z",
+   "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -22422,17 +22455,6 @@
    "first_seen": null
   },
   {
-   "id": "e966dd92e894fd16",
-   "company": "Roche",
-   "title": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) - Roche",
-   "summary": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) Roche",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2l4Nk5DcF9sSjctS0l1X3RUeHk3UE9hS2h1dFNTOHExcEJuX0MtNzlFNmc5S1FzTzB1aEctRXpjMzM4OTJNUzhXcndxSjhUTkxaeEw3eXg4YjRFbkxGRmdKQjdmRVZCZUxEOFVqLWEwSkZSLTQwYTY0TEFLTW1EMUZUajF0a0tjamYzYlBtZXluRHRQeHFCSnhpejhZWmlkZ3E3a045LXRxZG5ocmVtU0paOGwtUmtXUDVyWm9lU3B6c01lZEFjQ214N2t0a3lVSnROWmFJMVJhQVJpQTF0d0Nnaks0UQ?oc=5",
-   "published": "2026-09-09T18:43:44Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "4c29b8f138e7b917",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson data presentations at the 2026 Psych Congress Annual Meeting: - Johnson & Johnson",
@@ -22562,6 +22584,17 @@
    "published": "2026-09-09T07:00:00Z",
    "outlet": "BioSpace",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e966dd92e894fd16",
+   "company": "Roche",
+   "title": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) - Roche",
+   "summary": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) Roche",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdXNCejNpUjlod3R2RjFsQVh3NC1sRzlkRHZ0anJyY0I1UWh0b0o3clgzVDVkYkdJY3diQUtYNkhVZ3IyUEpjVDExY1NwZUdKRjNxS0hJZDJGWHdaM1NlZzVrbDgySUdhQkNnZk9nT2JWU0tZSWk2aXQ4N1k1RkhwQjlpVWZ6RjBwem9qblRlV1ZKNklOOC03M2dJOUhwR0dqX1ZCSFdEcEN6OXlFUGZ6N3NzQm9jdWQtT1NJRXdtVTFMb1F1ZGhlazY1dXVrM3ZTV29xREMzMk93ZzE4cmZZcUlsNE9XUQ?oc=5",
+   "published": "2026-09-08T16:06:25Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -23452,6 +23485,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
    "published": "2026-08-31T07:00:00Z",
    "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f7585717a84b3afc",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley merger with Eli Lilly clears HSR waiting period; UK, Australia reviews progressing - TradingView",
+   "summary": "AtaiBeckley merger with Eli Lilly clears HSR waiting period; UK, Australia reviews progressing TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbXY0Z25YeHRuTmFWeHlnVFZicDZuSVBYY0hjWVpqSGhOcTZFMkRzNXREQ0RHekFCeENsZC1weUY2RE03eGRhb09EOUVpNElyWU9oY1poc0RHcEJ2US1hVGlKOGMtWl84eWt1Q2VVWW9kdGVNTTFPTG9meDZib2NqaTNaM3ZWUEpVTXdMU0dydWZBNVNtSC04SzV3NkhRVjNjVjRRUk9KV0Jwa09IbFdIM21ySFVUbzg1dGZ6M2JBeXpjU0lFMFg1TDhfVGdXa2lPaXIxZzRqWkJWWE9PYjB3c3Bic1gxRGd2NkE?oc=5",
+   "published": "2026-08-31T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -28359,6 +28403,17 @@
    "published": "2026-07-24T07:00:00Z",
    "outlet": "Sleep Review",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
+   "published": "2026-07-23T09:38:46Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -41980,17 +42035,6 @@
    "first_seen": null
   },
   {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
-   "published": "2026-01-29T10:15:29Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "c2f1023df802267b",
    "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
    "title": "Lilly Establishes up to $1.9B Repertoire Deal in Second Immune Play of 2026 - BioSpace",
@@ -43117,7 +43161,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - Eli Lilly",
    "summary": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0MHZlRnFhQUVIclZpX19KdS00Rk1kX2R5SERTa3ZqT3FhMDNWc083ckYtRnZsaWt4eTM1ZDlHZWdjUi1GazVwTlJnZHdEdjNKMUk0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjdwYWFSNE1WN3JMRkFzUnk5NGk4cWo3N05TMGhrdHphaFJDajVYeUZDRnR3TG43Q0ZXUm1lZXN6QXM4LURmWldsX1NkaWgyY3R5VWpjd2Z4RmZOY1ZuZWZ3NjNYLUVYUm5NdHg0dFVURlpMbnY1dU5mUVJtV0lOLUVlNEk2U0RDMklxSXNrcEVIUW8yUWNYeE05TUZQOWhVMXhvaFZfaWdwbXJYUlVOUGZ4Z2h3UXA5?oc=5",
    "published": "2026-01-07T08:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
