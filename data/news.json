@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:46:38Z",
+ "updated": "2026-11-25T17:34:44Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1907,6 +1907,17 @@
    "first_seen": "2026-11-25T05:32:58Z"
   },
   {
+   "id": "f50a7afdcff55744",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley Inc (B72.DU) Balance Sheet - Yahoo Finance - Yahoo! Finance Canada",
+   "summary": "AtaiBeckley Inc (B72.DU) Balance Sheet - Yahoo Finance Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zbEdTcV9FSGNJeEwxd1Rvd2pYZ3ZrZ1JFX0pGZjVIbzNZVEcyNkRJcnlZMWE0MmZRd3p3bjcyTXlIVExhbzlsaGFOQWtEZk9IUkhpQVZMMGxEZS1GMHg5cWt4MUVMaTQ?oc=5",
+   "published": "2026-11-25T06:35:23Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T17:34:44Z"
+  },
+  {
    "id": "4e8c5c3ef9e20737",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals (NRXP) Stock Still Looks Expensive Following Its 97% Five Year Fall - Simply Wall St",
@@ -1927,6 +1938,17 @@
    "outlet": "Lilly Careers",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-25T04:23:02Z"
+  },
+  {
+   "id": "f2b29d94c29cdbcf",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Inc. (VM4.F) Seasonal returns chart - Yahoo Finance UK",
+   "summary": "Vanda Pharmaceuticals Inc. (VM4.F) Seasonal returns chart Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2TTFOZnVXcWl1WGRSSVliX1ladndjMGIzU2p1ejFrcU9mWDZZamU4cFNFMk1MRk9udnFfN1BaMnNUTlUyc1B6NXhrMEJ0aDBrYVBRVm4tc2QyR2lOUUpVc3dKOA?oc=5",
+   "published": "2026-11-25T00:34:15Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T17:34:44Z"
   },
   {
    "id": "02efe7217f708cb3",
@@ -2193,6 +2215,17 @@
    "first_seen": "2026-11-24T22:40:18Z"
   },
   {
+   "id": "ca3e33074f65c11c",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
+   "published": "2026-11-24T16:04:38Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T15:29:13Z"
+  },
+  {
    "id": "339ed6c531e1bdf1",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -2411,17 +2444,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T22:40:18Z"
-  },
-  {
-   "id": "ca3e33074f65c11c",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
-   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
-   "published": "2026-11-24T12:01:04Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T15:29:13Z"
   },
   {
    "id": "c49f4a716a734188",
@@ -6835,17 +6857,6 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
-   "id": "e97ef67ff96969a2",
-   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
-   "title": "NRx Pharmaceuticals, Inc. (NRXP) Reports Q3 Loss, Misses Revenue Estimates - Yahoo Finance",
-   "summary": "NRx Pharmaceuticals, Inc. (NRXP) Reports Q3 Loss, Misses Revenue Estimates Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZW41RHd6bjNyN2NtUnQ0bElFZmtaTTM2NGtJTkREOHBCSEd3X2hlZ2NDbk1wSFJjNkoyTUhZUEExM3AyZWp1WlU1YTROWVNLTXpYRldjaWo0QldUVE1WOEotTm05eXdzd0VjRHU1OTNDM0xQS3BjeVpFSXIzVEpFUW9ZV3c5QWd0X2h0TTlPSUVfRFBGbm50eTg2LUhKUQ?oc=5",
-   "published": "2026-11-16T23:00:01Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "7f760978c8c41a38",
    "company": "Neumora Therapeutics",
    "title": "Neumora Therapeutics, Inc. Stock 12‑Month Price Target Cut to $6.33, Implies 1377% Upside - TradingView",
@@ -8063,6 +8074,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e97ef67ff96969a2",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals, Inc. (NRXP) Reports Q3 Loss, Misses Revenue Estimates - Yahoo Finance",
+   "summary": "NRx Pharmaceuticals, Inc. (NRXP) Reports Q3 Loss, Misses Revenue Estimates Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZW41RHd6bjNyN2NtUnQ0bElFZmtaTTM2NGtJTkREOHBCSEd3X2hlZ2NDbk1wSFJjNkoyTUhZUEExM3AyZWp1WlU1YTROWVNLTXpYRldjaWo0QldUVE1WOEotTm05eXdzd0VjRHU1OTNDM0xQS3BjeVpFSXIzVEpFUW9ZV3c5QWd0X2h0TTlPSUVfRFBGbm50eTg2LUhKUQ?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14689,6 +14711,17 @@
    "first_seen": null
   },
   {
+   "id": "cde17bd684f9eae6",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Announces Positive Phase 1 and New Preclinical Data at IASP 2026 Supporting Advancement of XEN1701 and XEN1120 to Phase 2 Proof-of-Concept Studies in Acute Pain - Xenon Pharmaceuticals",
+   "summary": "Xenon Announces Positive Phase 1 and New Preclinical Data at IASP 2026 Supporting Advancement of XEN1701 and XEN1120 to Phase 2 Proof-of-Concept Studies in Acute Pain Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDVnVUpzM0ZRc3EycTV0d1d0eEVZN1BEelF3bmd1dlQ2Tl9ITmprQ1ZfSmswX2NQU3ljX29sRXgyR3ZwRVMzZDJrU0FwR1BIZEI4b3pkWmlrZmloc2RWZUxobUYzU2doSFFfRXJ6d3RGMlVtTUhTNWNSMzBIWW4zLTZiT3pFUjdJY1JSWTZiX2FpVDRTaWlPYlhVMG1zM3VpcWhNbEM0eDdwa2pESTVhY29wX2x5ay10OE9jS1RVdVdLU1BVOE83UGJzTQ?oc=5",
+   "published": "2026-10-29T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "6f0c965764112d8e",
    "company": "Idorsia",
    "title": "Idorsia Q3FY26 Results: QUVIVIQ sales up 54% YoY, loss narrows - scanx.trade",
@@ -14744,17 +14777,6 @@
    "first_seen": null
   },
   {
-   "id": "eb834138d4cf8218",
-   "company": "Newron Pharmaceuticals",
-   "title": "Newron Pharmaceuticals to Participate in November Investor Conferences - The Manila Times",
-   "summary": "Newron Pharmaceuticals to Participate in November Investor Conferences The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeWVuZno5bWp0SExJY0NjdVl3a2hkZEFhU3pZbFJldVJ3WWpqYmh1ejR1SzZwSFBNS0d6WlhManE1X0ExMDhPVC1YUVdJWVNUSVpTUXBXR3RLdFdWQjRUYm9zSVYtVm5nVVBiSFJsMzVvOEdwTHFwbkF4U1N3M2tFY2RWY2RuSDVRak90LThDZ1Zyd3E2VWdSVUR3R1lzQ0ZUUVlwa01vOU5CbUFWc2owdFJnTGJfalVEVkJhM2pRYXNyVjk5RTVuRi1hQUptX2lJd2VndkNFMzV0MVFR0gHiAUFVX3lxTE94em9lcWFUMkE2dFRFRC11dk9Ba1pPNWhRLWp1TUpYa0ptZ1J2dFBfdFZRSDdNMWZ2aXdRMXFQUTBzVkEtQ3doTWNEOFdRWi1WQzFzUl9JMW1sNmQ0TnZ6bnczeVlydUxxUFhUc09rVmRJMmdmNlZMZ0FYNlJoRmUzTlJBakVHTkh2dkNDNGZwMEpqaTNnTGZKSEVDNjg5T1FUU0VjZV9BcnVLNTQyU3NyTzI4UXBGNHlZQkZEMVNNWUJOUjJwdkE0TmN1SzZvVjRtQi1DOFlxVWpWYVpfR1E2Mmc?oc=5",
-   "published": "2026-10-28T12:13:24Z",
-   "outlet": "The Manila Times",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "226aa6fc7b4e0add",
    "company": "Compass Pathways",
    "title": "Compass Pathways to Highlight Scientific Research and TRD Disease State Education Efforts at the 2026 Neuroscience Education Institute Fall Congress",
@@ -14774,6 +14796,17 @@
    "published": "2026-10-28T10:00:32Z",
    "outlet": "Rapport Therapeutics",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "eb834138d4cf8218",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals to Participate in November Investor Conferences - The Manila Times",
+   "summary": "Newron Pharmaceuticals to Participate in November Investor Conferences The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeWVuZno5bWp0SExJY0NjdVl3a2hkZEFhU3pZbFJldVJ3WWpqYmh1ejR1SzZwSFBNS0d6WlhManE1X0ExMDhPVC1YUVdJWVNUSVpTUXBXR3RLdFdWQjRUYm9zSVYtVm5nVVBiSFJsMzVvOEdwTHFwbkF4U1N3M2tFY2RWY2RuSDVRak90LThDZ1Zyd3E2VWdSVUR3R1lzQ0ZUUVlwa01vOU5CbUFWc2owdFJnTGJfalVEVkJhM2pRYXNyVjk5RTVuRi1hQUptX2lJd2VndkNFMzV0MVFR0gHiAUFVX3lxTE94em9lcWFUMkE2dFRFRC11dk9Ba1pPNWhRLWp1TUpYa0ptZ1J2dFBfdFZRSDdNMWZ2aXdRMXFQUTBzVkEtQ3doTWNEOFdRWi1WQzFzUl9JMW1sNmQ0TnZ6bnczeVlydUxxUFhUc09rVmRJMmdmNlZMZ0FYNlJoRmUzTlJBakVHTkh2dkNDNGZwMEpqaTNnTGZKSEVDNjg5T1FUU0VjZV9BcnVLNTQyU3NyTzI4UXBGNHlZQkZEMVNNWUJOUjJwdkE0TmN1SzZvVjRtQi1DOFlxVWpWYVpfR1E2Mmc?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "The Manila Times",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -22862,17 +22895,6 @@
    "first_seen": null
   },
   {
-   "id": "e966dd92e894fd16",
-   "company": "Roche",
-   "title": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) - Roche",
-   "summary": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) Roche",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2l4Nk5DcF9sSjctS0l1X3RUeHk3UE9hS2h1dFNTOHExcEJuX0MtNzlFNmc5S1FzTzB1aEctRXpjMzM4OTJNUzhXcndxSjhUTkxaeEw3eXg4YjRFbkxGRmdKQjdmRVZCZUxEOFVqLWEwSkZSLTQwYTY0TEFLTW1EMUZUajF0a0tjamYzYlBtZXluRHRQeHFCSnhpejhZWmlkZ3E3a045LXRxZG5ocmVtU0paOGwtUmtXUDVyWm9lU3B6c01lZEFjQ214N2t0a3lVSnROWmFJMVJhQVJpQTF0d0Nnaks0UQ?oc=5",
-   "published": "2026-09-09T18:43:44Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "4c29b8f138e7b917",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson data presentations at the 2026 Psych Congress Annual Meeting: - Johnson & Johnson",
@@ -23002,6 +23024,17 @@
    "published": "2026-09-09T07:00:00Z",
    "outlet": "BioSpace",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e966dd92e894fd16",
+   "company": "Roche",
+   "title": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) - Roche",
+   "summary": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) Roche",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdXNCejNpUjlod3R2RjFsQVh3NC1sRzlkRHZ0anJyY0I1UWh0b0o3clgzVDVkYkdJY3diQUtYNkhVZ3IyUEpjVDExY1NwZUdKRjNxS0hJZDJGWHdaM1NlZzVrbDgySUdhQkNnZk9nT2JWU0tZSWk2aXQ4N1k1RkhwQjlpVWZ6RjBwem9qblRlV1ZKNklOOC03M2dJOUhwR0dqX1ZCSFdEcEN6OXlFUGZ6N3NzQm9jdWQtT1NJRXdtVTFMb1F1ZGhlazY1dXVrM3ZTV29xREMzMk93ZzE4cmZZcUlsNE9XUQ?oc=5",
+   "published": "2026-09-08T16:06:25Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -24551,6 +24584,17 @@
    "summary": "Jennifer Buell, Ph.D. Protagenic Therapeutics",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOemFxWjFHVUtFTVJ4cTctZEZFdWV5NWhTV3ZvSkpPeE9xc1lkSml0UDI1dlZXaE9NS2l3SzdpU19wbGtWOTlYSjluUndwc3hGRDdzSg?oc=5",
    "published": "2026-08-23T05:53:12Z",
+   "outlet": "Protagenic Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "d45c9127ff193dfe",
+   "company": "Protagenic Therapeutics",
+   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
+   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rbEJYVVpIYU9xX1VZa28wOTdDRUxIdkFrMTdCT1VDUS1OYnRNbmdvWTZlenY3Mk5XSXlQNVprTFNIWDNOc2pxSzZhUkExYklscVE?oc=5",
+   "published": "2026-08-23T05:44:04Z",
    "outlet": "Protagenic Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -28846,17 +28890,6 @@
    "first_seen": null
   },
   {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "cbddd078a7b989f3",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Announces Key Leadership Hiring, Promotions - neurocrine.gcs-web.com",
@@ -32153,6 +32186,17 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYmkzT0tsTk14SVV0LXAtUXZ6N25pX296bkx6b0ZXOUNDRzdSY0I5Q0JnajlDdDlNZE93LVl4dm42NUkxTDlWMHQxOVlCWXQ1OU5qX0ZJZVpod25xNUs2OXdXTElpSG5WejZrZnFoeUNsVlFoNEpDS19qVU5KdHRORExjX3ozUnFBNDBEalR4aVRhd3BHOXd2aXRMOUVmVWhmbUtWQWtVY0QtcFFEQ3lQOXczd0VaSTZFVnp6blBWRkZXZ1Q3ekE1aUV4NHlFVEhWX213NWgxYkk?oc=5",
    "published": "2026-06-25T07:00:00Z",
    "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c912f2de99888c61",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley to join Russell 2000 and Russell 3000 indexes following annual reconstitution - Yahoo Finance",
+   "summary": "AtaiBeckley to join Russell 2000 and Russell 3000 indexes following annual reconstitution Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX0k1MHFQV0xpcEw1TEx0WXJzaktkYkpHUnVMWkhkNWQ3aG5tS2RaeEl1UU5hQ0VUVmN4YjNZUUJlcE9SZlA4N0FPWUZrVFBtWXNTWC1iWGFvZ08zaG1qc0NmZDRzWWxMSGxWUjBmbFJWMTZwZlB3eF9LVXFtbHV5SWswUFhrNTNuRWxFTm5jeVBhVzh6TkpxbEREcVQ2SUxrVjFmQw?oc=5",
+   "published": "2026-06-25T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -35476,17 +35520,6 @@
    "published": "2026-05-15T06:47:07Z",
    "outlet": "Being Patient",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "d45c9127ff193dfe",
-   "company": "Protagenic Therapeutics",
-   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
-   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxeDQtN0l6ZERYZ2RGbVBlZGY4TzJmS3VfS2RvVEFZOTc5ZF9ObFVRUGVpNnZmUExOYlBlTGxFcHpZUWFKTWxLY24wVmV0cDMtMld5a25LTQ?oc=5",
-   "published": "2026-05-15T01:07:39Z",
-   "outlet": "Protagenic Therapeutics",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -40341,6 +40374,17 @@
    "first_seen": null
   },
   {
+   "id": "33fd62f58c77878c",
+   "company": "Brenig Therapeutics",
+   "title": "Brenig Therapeutics Announces Oral Presentation of Phase 1 Data for BT-267 at AD/PD™ 2026, and Provides Updates on BT-409, its NLRP3 Inhibitor Program - PR Newswire",
+   "summary": "Brenig Therapeutics Announces Oral Presentation of Phase 1 Data for BT-267 at AD/PD™ 2026, and Provides Updates on BT-409, its NLRP3 Inhibitor Program PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPYkZ3Zm1NSlUyTHl3a1JYVVB3ZmJicnBULXV2OXJkSXcxcDhrZWN6M2kyS1NNQWtzTmRHQnF4cjNzRlJEMjhxdk9ZN09pUG1HR0pYamtMTk5nY05vSm1zbjZhSk9BWjZPRV80YlZ2bVBJbHg3Ym1HTHJWX0pxZ3pJd3gyZ1NxTUJwejBhRUh0cDM0NloyQzBjb3k1MDB1bUl2VlNPRElxM0d5azk5YzR4SkZmNzYzZVJOenVEaEp0VzQ0WHNXTmpZcDNycUs1dUJfVHVoZUYzenFrcm40c09OMWk4U3Q4ek9Sd1pfaU1FVGpRVTNDRFhzMVJmM0I1U0lNcXVTejkzUkgxYVE1LVg0Y0c4R3N3aXJrRmtIaWdzWmRFYzZpbnU0S3h3?oc=5",
+   "published": "2026-03-17T07:00:00Z",
+   "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "cda2c659542e4432",
    "company": "Newronika",
    "title": "Cookie & Privacy Policies - Newronika",
@@ -42560,6 +42604,17 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
