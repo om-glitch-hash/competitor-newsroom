@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:30:32Z",
+ "updated": "2026-11-25T19:30:01Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2054,8 +2054,8 @@
    "company": "BioVie",
    "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 - Quantisnow",
    "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEF0QnBuc3RrRUtRaUhEcGVmbExKTlBNT1RnZUlHejdKbW84a3E0VERuQTRMcUtvb1FXQXYzQjlHWENUWEZONzZQV2VTNWlEcEo3MUNFb0lfTmxWekszMXhLMkFHT3FMb2E5Qm9rdkRqeVhOeWl5NzdNRGZOMC1qRkNrenpYc3F2QXIxcHZqR1pwajF1ZHZTeTdTaw?oc=5",
-   "published": "2026-11-24T21:30:49Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW0tSy14WnZhZ2kwZE9LRXZvY0pfNFBkeWhlZWRrZzhROVJDYms2WkJxeVdxOE9FNlBvVFM4M0JEZXZzV2JReG9XTnNVOFpMTE1KZWFVcFI2WmFfektONmFkQVB3WDJvRjVVbHk3TjNGcDNjVldhbXdfLWxQNWYzdEloNXZQNm1zNk1iSWRfMVVuVWFkMnc?oc=5",
+   "published": "2026-11-24T21:31:24Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T21:39:02Z"
@@ -2169,17 +2169,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T12:48:27Z"
-  },
-  {
-   "id": "c5b5b705aa2f71cd",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
-   "published": "2026-11-24T16:58:07Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "8309a57125095ec4",
@@ -2402,6 +2391,17 @@
    "first_seen": "2026-11-25T11:40:55Z"
   },
   {
+   "id": "c5b5b705aa2f71cd",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
+   "published": "2026-11-24T12:39:34Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "abc3733c888fe298",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders - Tue, 11/24/2026 - 07:30 - Helus Pharma",
@@ -2587,6 +2587,17 @@
    "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T22:20:59Z"
+  },
+  {
+   "id": "16bf2692dca035f9",
+   "company": "MapLight Therapeutics",
+   "title": "Pavlov Buys 20,000 MapLight Shares at $6 Average - kalkine.com",
+   "summary": "Pavlov Buys 20,000 MapLight Shares at $6 Average kalkine.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXAwQTVCUmE4YVpoNmhKODF0RjFZRmdnYjNEQTRrT3B4ZzNHcFd3cEdQZVg4c19sZmYxX09NQkhoVmFPR2ZaZEd6UDNCYW5FNEx1OVFNMmIyeVRRaUlHeW9veWtXb05nUGp0UTZUbUdvc050MjFRdjh6dm1GMjFpRmhDVGtuTV9IckE2NG1n?oc=5",
+   "published": "2026-11-23T22:03:43Z",
+   "outlet": "kalkine.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T19:30:01Z"
   },
   {
    "id": "d569db70d2c33ccb",
@@ -2989,7 +3000,7 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value - Simply Wall St",
    "summary": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3llaElqU0VzNFlOTjl3WmZ5bHVkc0V1TkhsMDltQkhMeXFWbllnLTBRTDNOaFVjeHJCQlY0X3k1LVFjWmNKSGxSZUdDUDRUN0VMVHBxaTRfZkJDalpsSW13c1pncUExbDctMDR3c094SDd0eGNobkZRcTlRejhsbUJNTHNCT3JwZEFmTldTTmlRSkZCZHFoZExtS2t4VzVxTWRucjZIeXpadFlCVjBQekZicTE1aENFMHJIdTI1VF9Wcl9KR190X0c3RG1NOVBtY3FBVmNLZDFRZ3RCX3JKZTRwTFrSAeQBQVVfeXFMUG95ZWhJalNFczRZTk45d1pmeWx1ZHNFdU5IbDA5bUJITHlxVm5ZZy0wUUwzTmhVY3hyQkJWNF95NS1RY1pjSkhsUmVHQ1A0VDdFTFRwcWk0X2ZCQ2pabEltd3NaZ3FBMWw3LTA0d3NPeEg3dHhjaG5GUXE5UXo4bG1CTUxzQk9ycGRBZk5XU05pUUpGQmRxaGRMbUtreFc1cU1kbnI2SHl6WnRZQlYwUHpGYnExNWhDRTBySHUyNVRfVnJfSkdfdF9HN0RtTTlQbWNxQVZjS2QxUWd0Ql9ySmU0cExa?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjU3SjJzVTN2WHRDbnBhUnFmYnpfT1pTeFNUZmxjOGZoZHdXYUgySE92ak40SXJJd3NPV3BFNG1iRnoyVm1BTmZjdGdGYWIxVmVQMGMtOTJPZFFLTlM0T2N0bU91UXBUSmRWaGEwTV8wblctdVU0a0c3RWc0NFRKWXlUX1Qwb3p1MkViQnU1WFJoVUVCclNZWGlDNEMxd2E2OFZ0VWNzNkNUdDRFOWtZckZnam9xeXpLaUtpZC1SeDdUNWt2THl2VDdzZzdjTDFMelNteTdzM0ZjRm45c1Bv0gHkAUFVX3lxTFBveWVoSWpTRXM0WU5OOXdaZnlsdWRzRXVOSGwwOW1CSEx5cVZuWWctMFFMM05oVWN4ckJCVjRfeTUtUWNaY0pIbFJlR0NQNFQ3RUxUcHFpNF9mQkNqWmxJbXdzWmdxQTFsNy0wNHdzT3hIN3R4Y2huRlFxOVF6OGxtQk1Mc0JPcnBkQWZOV1NOaVFKRkJkcWhkTG1La3hXNXFNZG5yNkh5elp0WUJWMFB6RmJxMTVoQ0Uwckh1MjVUX1ZyX0pHX3RfRzdEbU05UG1jcUFWY0tkMVFndEJfckplNHBMWg?oc=5",
    "published": "2026-11-22T18:07:48Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -5174,6 +5185,17 @@
    "first_seen": "2026-11-21T07:43:31Z"
   },
   {
+   "id": "795741f0acc80507",
+   "company": "BioVie",
+   "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,493 at $1.00 - Quantisnow",
+   "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,493 at $1.00 Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUZpcEhhTU84Mi1fY1NWcFNETzA1YkxEQzFjN2htVjFuRTRsVEphaVRfamNhc3pqVjE0bWxHTkM2M2tYUmplRy1jRHNEQXFabU9hTUZaLUxSZS15VGJEZFJ4QXVGRWJtZmpzRkUtZUlXUmpTaWttYUZtMGNjUU1VZ05HZTM0M2hrQ2hsV0x2VnBCZ1N2MkpGbFRCQQ?oc=5",
+   "published": "2026-11-19T00:50:08Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
    "id": "6e858dea1b2a6086",
    "company": "Novartis",
    "title": "Brand Manager – Oncology & Neuroscience - Novartis",
@@ -5227,17 +5249,6 @@
    "outlet": "kalkine.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T05:26:18Z"
-  },
-  {
-   "id": "795741f0acc80507",
-   "company": "BioVie",
-   "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,493 at $1.00 - Quantisnow",
-   "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,493 at $1.00 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemhuSUIxZTRNejVTcGRyVm1vOEc5YWF3alhSQmpWMXhaRzNzLWVsM3JYZEkzcVlsZGR6VmNNbWdLb0pBWHV5a196R2pSQXd4LWJIay1fR2xvLXMxRzk2dWdzYXJ1TlI2WGFyS29zWnpRV0ZDdFpRbjFmZmJreUVsajNMVFhQam5yY3I2QmJsT0UzMDJGTGc?oc=5",
-   "published": "2026-11-19T00:10:24Z",
-   "outlet": "Quantisnow",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "2e1d35b3c5fc3971",
@@ -15184,6 +15195,17 @@
    "first_seen": null
   },
   {
+   "id": "0a3ab34d77b3d5de",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Eyes 2027 Phase III Data for LB-102 in Schizophrenia - TradingView",
+   "summary": "LB Pharmaceuticals Eyes 2027 Phase III Data for LB-102 in Schizophrenia TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb1FFTHptbGROZzB1WXhTRHVEMzJZVmRJLU5TSl9raFJDOEFhdmY3S2paeDRhNkg1ZEtBNGxIdTRWOGxsU3RfVTZxSHYta1VBM1VqbVpvbENhQkNPMU1leVZfcDFLTWI1U3JjcEhZeU9VVFllYU12eHBZbm5UeVpQQTl0Y0QwNW4wWU53bUZpdGNXelRtcUE3Z2N2RV9meGVxZnVpbnZqVlRycm1yVVRVN05JZ3E4aEZyY3g3MWZTTlZVa2hHQTFsdzM1M24?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "716d08e6b36dcaf1",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics, Inc. Estimates – NASDAQ:RAPP - TradingView",
@@ -24589,6 +24611,17 @@
    "first_seen": null
   },
   {
+   "id": "d45c9127ff193dfe",
+   "company": "Protagenic Therapeutics",
+   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
+   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rbEJYVVpIYU9xX1VZa28wOTdDRUxIdkFrMTdCT1VDUS1OYnRNbmdvWTZlenY3Mk5XSXlQNVprTFNIWDNOc2pxSzZhUkExYklscVE?oc=5",
+   "published": "2026-08-23T05:44:04Z",
+   "outlet": "Protagenic Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "71eed0add672aabf",
    "company": "Eli Lilly",
    "title": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. (RENEW-MDD- 2) - Lilly Trials",
@@ -25047,6 +25080,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0QTB4S01WTFBzODBNbkQ0VGZ6Mktoejdfdk5MalR2WW1TVWxyR3MtZEJuQXNTMVVTbkpIa294MTIwWHVZX2tfTmJWQ0lMLVJEamFDOHNIUS1TY0tOMmZFOFo4VHpRWmliN1hETFNWbw?oc=5",
    "published": "2026-08-19T07:00:00Z",
    "outlet": "MedWatch",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f48182faa154aa23",
+   "company": "Lundbeck",
+   "title": "Lundbeck grows by 16% – two key products drive growth - medwatch.com",
+   "summary": "Lundbeck grows by 16% – two key products drive growth medwatch.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zMDJsLVpQRTRCMUFxMFY2Y1dsdC01N3NHMENSZWZYSWVqSXB3aThDOGVCLWcwa1Q4Y0ZBQXpPb0VLTWRTVF9wMmtYOVd6M2tVTVV6SF9kN2FETVg2NW80YVZqSG44WEFBVUxBOEhNMA?oc=5",
+   "published": "2026-08-19T07:00:00Z",
+   "outlet": "medwatch.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -27981,7 +28025,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -28876,17 +28920,6 @@
    "published": "2026-07-24T07:00:00Z",
    "outlet": "Sleep Review",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -35534,17 +35567,6 @@
    "first_seen": null
   },
   {
-   "id": "d45c9127ff193dfe",
-   "company": "Protagenic Therapeutics",
-   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
-   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxeDQtN0l6ZERYZ2RGbVBlZGY4TzJmS3VfS2RvVEFZOTc5ZF9ObFVRUGVpNnZmUExOYlBlTGxFcHpZUWFKTWxLY24wVmV0cDMtMld5a25LTQ?oc=5",
-   "published": "2026-05-15T01:07:39Z",
-   "outlet": "Protagenic Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "600abf3b3ece2bda",
    "company": "Incannex Healthcare",
    "title": "Incannex Healthcare Officially Commences DReAMzz Clinical Study for IHL-42X in Obstructive Sleep Apnea - Incannex Healthcare",
@@ -37191,6 +37213,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVmpGZkJYZ2NXSTRuN0VqNVBvc2VxVW9BRG1LMThaUTExUVZHdnI3V3U3alNwc1g5U0NrWlF5YlA5cUdjcnpTNjU5b041YksyLVpyZUtrYnBWQlk0d2Y0MDV1YzhUYThfUlVSOWRieHRFQ3JNRTM1aGhSTVhRcFFMbm1iMDNXRkt0REwxcXRGVUliWVZueFIxSlUyUHdzbVlsZE1YMElqNkk3YWhaSjJMZFhMNUZEbndfaUlvdXVWMlRmeWhMRV9xZkZWNDFDTkxZZHgwUzBKZk9vckNvV0ZHUEJIZFFXdHRXWmN3ajYtOGpkNHozUmlZanRCSDcxb0xicmxOM3JpU0s?oc=5",
    "published": "2026-04-29T07:00:00Z",
    "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "09b4f2d64a404783",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Reports a Pause of Enrollment of New Study Participants in US Centers of ENIGMA-TRS 2 Study - Business Wire",
+   "summary": "Newron Reports a Pause of Enrollment of New Study Participants in US Centers of ENIGMA-TRS 2 Study Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSnJHNnptdEFWRzdaaVJUX3NKYnhMVGEyTlBQbC1ldklQbUNqeVFpOTdUN0hua2c1dWFfUldqN2dDQTE1cXo2dHJfTXdfRW5mOTAyNWROd1BMcVd5RzFSNVVweGxpX1BrbWZDZnJydkM3X05yeXZabFlFeXRYOWdDZWNCaWpHeXZLVTdNMVc1akFLbGNqamJLeFlyNGF6SmNNYTJGX1Y0VndmZTRfQXZDQWdHdzZERzJjOXVmVVN1M3hUQld5aktwX09fOFVvYTl1OEcxdF80M1huNUhDN1FLMGFTejBtR0g2M0lj?oc=5",
+   "published": "2026-04-29T07:00:00Z",
+   "outlet": "Business Wire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -42626,6 +42659,17 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
