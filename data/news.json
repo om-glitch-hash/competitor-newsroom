@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:27:13Z",
+ "updated": "2026-11-25T23:22:00Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "7e93531c4e5d525a",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
+   "published": "2026-11-25T22:43:23Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "112e1a9d3186f69d",
    "company": "Lundbeck",
    "title": "Lundbeck faces steep US price cut on top-selling drug Rexulti - medwatch.com",
@@ -1861,6 +1872,17 @@
    "outlet": "Psychedelic Alpha",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T09:33:49Z"
+  },
+  {
+   "id": "fc04dce15fba88f2",
+   "company": "Supernus",
+   "title": "Form 8-K for Supernus INC filed 11/24/2026 - Supernus Pharmaceuticals",
+   "summary": "Form 8-K for Supernus INC filed 11/24/2026 Supernus Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EdGptVXdnLWx0S1NRRkNNZE1BYUlod09UNHREZEpjR1VlR3lkRUJtWDB5UzJmQVZFTGY2OUx4MUtpcWtJWVV0cTVCRHdmWjdmaDZ6SjBDUGFrQ1FsZjhCVC16Qm55QlV5Wm45RGhkdzZQZzZYdG13THJELTAtUQ?oc=5",
+   "published": "2026-11-25T09:15:48Z",
+   "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T23:22:00Z"
   },
   {
    "id": "d5aa9d768527006a",
@@ -2213,6 +2235,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T12:48:27Z"
+  },
+  {
+   "id": "f9f3c613170e2c07",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Announces FDA Acceptance of Supplemental Biologics License Application for BRIUMVI Single Dose Initiation Schedu - TG Therapeutics",
+   "summary": "TG Therapeutics Announces FDA Acceptance of Supplemental Biologics License Application for BRIUMVI Single Dose Initiation Schedu TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TZ09yOTJ6dGt6Zk9DUE43V0Y3VF91VEJta1pwY2xsVXpocUYtbmJkYVdyTUdaQ3liTkJQVE5FRWFqY2lEQ05RMmxUa0hfOTB6dVBWcEs0aw?oc=5",
+   "published": "2026-11-24T16:59:17Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T23:22:00Z"
   },
   {
    "id": "8309a57125095ec4",
@@ -3007,6 +3040,17 @@
    "first_seen": "2026-11-23T19:15:56Z"
   },
   {
+   "id": "0259298bbf2b840a",
+   "company": "Neurocrine Biosciences",
+   "title": "Form 144 NEUROCRINE BIOSCIENCES INC For: 22 November By Investing.com - Investing.com UK",
+   "summary": "Form 144 NEUROCRINE BIOSCIENCES INC For: 22 November By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUNvRWg4eUpKZV9OM0hJUVk1Q2Mxc0dSbmVUQThBMVVWdXE4djJCblFXSUVhVU4tWU9JSGFqN2Y4eWJ4dmVTNGp4ZXFtUGdZaWhqZGRJNmo2WjBIbHh5NF9tVHRIQi1nMjhiUVZ2dlpQa01QMlpoS1ZWWWUzWXRvdEtpbEVyeXAzUlNZYmdiWGVOV3puSEZCUWZMNTVIZmZXdllQOFFGTDhCTVlPVHFZZ3lB?oc=5",
+   "published": "2026-11-23T03:16:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T23:22:00Z"
+  },
+  {
    "id": "7b47d2af4731599a",
    "company": "Novartis",
    "title": "Strategic Assistant, WEC - Novartis",
@@ -3033,7 +3077,7 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value - Simply Wall St",
    "summary": "Helus Pharma (HELP) Stock Looks Rich Relative To Its Book Value Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjU3SjJzVTN2WHRDbnBhUnFmYnpfT1pTeFNUZmxjOGZoZHdXYUgySE92ak40SXJJd3NPV3BFNG1iRnoyVm1BTmZjdGdGYWIxVmVQMGMtOTJPZFFLTlM0T2N0bU91UXBUSmRWaGEwTV8wblctdVU0a0c3RWc0NFRKWXlUX1Qwb3p1MkViQnU1WFJoVUVCclNZWGlDNEMxd2E2OFZ0VWNzNkNUdDRFOWtZckZnam9xeXpLaUtpZC1SeDdUNWt2THl2VDdzZzdjTDFMelNteTdzM0ZjRm45c1Bv0gHkAUFVX3lxTFBveWVoSWpTRXM0WU5OOXdaZnlsdWRzRXVOSGwwOW1CSEx5cVZuWWctMFFMM05oVWN4ckJCVjRfeTUtUWNaY0pIbFJlR0NQNFQ3RUxUcHFpNF9mQkNqWmxJbXdzWmdxQTFsNy0wNHdzT3hIN3R4Y2huRlFxOVF6OGxtQk1Mc0JPcnBkQWZOV1NOaVFKRkJkcWhkTG1La3hXNXFNZG5yNkh5elp0WUJWMFB6RmJxMTVoQ0Uwckh1MjVUX1ZyX0pHX3RfRzdEbU05UG1jcUFWY0tkMVFndEJfckplNHBMWg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3llaElqU0VzNFlOTjl3WmZ5bHVkc0V1TkhsMDltQkhMeXFWbllnLTBRTDNOaFVjeHJCQlY0X3k1LVFjWmNKSGxSZUdDUDRUN0VMVHBxaTRfZkJDalpsSW13c1pncUExbDctMDR3c094SDd0eGNobkZRcTlRejhsbUJNTHNCT3JwZEFmTldTTmlRSkZCZHFoZExtS2t4VzVxTWRucjZIeXpadFlCVjBQekZicTE1aENFMHJIdTI1VF9Wcl9KR190X0c3RG1NOVBtY3FBVmNLZDFRZ3RCX3JKZTRwTFrSAeQBQVVfeXFMUG95ZWhJalNFczRZTk45d1pmeWx1ZHNFdU5IbDA5bUJITHlxVm5ZZy0wUUwzTmhVY3hyQkJWNF95NS1RY1pjSkhsUmVHQ1A0VDdFTFRwcWk0X2ZCQ2pabEltd3NaZ3FBMWw3LTA0d3NPeEg3dHhjaG5GUXE5UXo4bG1CTUxzQk9ycGRBZk5XU05pUUpGQmRxaGRMbUtreFc1cU1kbnI2SHl6WnRZQlYwUHpGYnExNWhDRTBySHUyNVRfVnJfSkdfdF9HN0RtTTlQbWNxQVZjS2QxUWd0Ql9ySmU0cExa?oc=5",
    "published": "2026-11-22T18:07:48Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -5317,17 +5361,6 @@
    "first_seen": "2026-11-21T11:58:34Z"
   },
   {
-   "id": "7e93531c4e5d525a",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcW5NSS1XZTZiY2REM0R3cUx0aGFFRkxocWJGNmhhLUJPMUtHU05jR0VVNlhHQnFIdU5peFU5aVFEQTFNd0VmTEhiVV9QTEVRODBidENld25DcmI1VFp0Q0NWRC0wNFNrdFB5QWEybFNWNmxOdnV3YkVadmg5b21jWUtzcWpydWduTWQ3UE9XTQ?oc=5",
-   "published": "2026-11-18T20:14:47Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "aa10fd8684833bf3",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals, Inc. (NRXP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -7539,17 +7572,6 @@
    "first_seen": null
   },
   {
-   "id": "c88931482240e6e3",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma Shares Fall 21% Despite Phase 3 HLP003 Trial Meeting Primary Endpoint - Yahoo Finance",
-   "summary": "Helus Pharma Shares Fall 21% Despite Phase 3 HLP003 Trial Meeting Primary Endpoint Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEtVN0V1RmlkbFJUNGNQMThLbUIxZFowdWI1Vk1DLW9HQ3ROX3M5OGpzQ1VqdE80Q29ETFBHZnVZNlZzeDZveE5oYThScExNVWpzOEJZN2FPbTNOUV8zUXo1WkpmVEhxQXRaTjItWUItNTlZUGR2bWhITGg1Zjl6YUVQX3VXX2lyYmRUdkhHLThYZw?oc=5",
-   "published": "2026-11-16T13:34:29Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "bfed94209f30ded2",
    "company": "Neumora Therapeutics",
    "title": "Neumora Therapeutics 3Q 2026: EPS ($0.18) — 10-Q Summary - TradingView",
@@ -8085,6 +8107,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c88931482240e6e3",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Shares Fall 21% Despite Phase 3 HLP003 Trial Meeting Primary Endpoint - Yahoo Finance",
+   "summary": "Helus Pharma Shares Fall 21% Despite Phase 3 HLP003 Trial Meeting Primary Endpoint Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEtVN0V1RmlkbFJUNGNQMThLbUIxZFowdWI1Vk1DLW9HQ3ROX3M5OGpzQ1VqdE80Q29ETFBHZnVZNlZzeDZveE5oYThScExNVWpzOEJZN2FPbTNOUV8zUXo1WkpmVEhxQXRaTjItWUItNTlZUGR2bWhITGg1Zjl6YUVQX3VXX2lyYmRUdkhHLThYZw?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10964,7 +10997,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics Reports Third Quarter 2026 Financial Results and Raises Full-Year Revenue Guidance - TG Therapeutics",
    "summary": "TG Therapeutics Reports Third Quarter 2026 Financial Results and Raises Full-Year Revenue Guidance TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUFqWVNNNjBydDJfZUVsY1RwQmFaWTZoYUthZV9DaVVNcXRjd0o3eDhVVGVrMElPbzNVZlNoWDNheHFfbWV4QzBYUTRNbVdISGIzU3d2Y2pSYXFGbHBfUHJDZkRCTG5pYkVvWlJ6aDJsV3QzTFg2UXdHcVBxT0tUZ1RsdVppSllWX0hpS1RpcHhaTng0N1BPbXFpUUMzcFVFa2lEblJSYzFnaVY5Q19MYUN6Yzg5NW55TDZBRE5ObTA4bUdka2ZNbg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLLXpUaGxIMkxnYkpjVjhtcmxDQ3lQXzQ4Qmo4NjVoSGRhaGd1alZrT3dySDhoSVI2MnlaRm45N2VQdFRNc3dvTnduNGMzZVJONlhGM2x1TQ?oc=5",
    "published": "2026-11-09T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -14495,7 +14528,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -15235,6 +15268,17 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb1FFTHptbGROZzB1WXhTRHVEMzJZVmRJLU5TSl9raFJDOEFhdmY3S2paeDRhNkg1ZEtBNGxIdTRWOGxsU3RfVTZxSHYta1VBM1VqbVpvbENhQkNPMU1leVZfcDFLTWI1U3JjcEhZeU9VVFllYU12eHBZbm5UeVpQQTl0Y0QwNW4wWU53bUZpdGNXelRtcUE3Z2N2RV9meGVxZnVpbnZqVlRycm1yVVRVN05JZ3E4aEZyY3g3MWZTTlZVa2hHQTFsdzM1M24?oc=5",
    "published": "2026-10-28T07:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0f558486eccc479d",
+   "company": "Rapport Therapeutics",
+   "title": "Why is Rapport Therapeutics stock sliding today? - Investing.com",
+   "summary": "Why is Rapport Therapeutics stock sliding today? Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaU9YRHMtWmVKeHFvc1ROZ0VFb3Rpc3QwRUVmbWFUajd5cF9qMkJhbnZzZXAzeC1MQnRGSEhSZDl3ZDVlLS1DT01YS3ZOSmthUDhWTHo5U2VGeUlWT3RiRmY1cVR2QngtODloRzc4MTg2MHZCblhDaF9ma2VKOGI0aGZ3bHQ5dHpaNk42VExuc0J2eUxYUlk4dGY2dFhwY3h2OHJ3SWFhU1E5NzA1RHc?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16152,6 +16196,17 @@
    "first_seen": null
   },
   {
+   "id": "52d803e02b4c90f4",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 - TG Therapeutics",
+   "summary": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BQU5kZXRZUFpUWXFyckJzSm1lUno5cEprVjNJRlFtMGdreGlhTFA2dDFmU19nQWJkNVFPVGNHWG5DODNPQWJfRERjR3JwTDhzMkpiREhhOA?oc=5",
+   "published": "2026-10-23T07:00:00Z",
+   "outlet": "TG Therapeutics",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "f8e39737db6b6623",
    "company": "Newron Pharmaceuticals",
    "title": "Newron Completes Enrollment of Pivotal Phase 3 ENIGMA-TRS 1 Study - TMCnet",
@@ -16435,17 +16490,6 @@
    "published": "2026-10-21T08:00:19Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "52d803e02b4c90f4",
-   "company": "TG Therapeutics",
-   "title": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 - TG Therapeutics",
-   "summary": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHZHTnhTUEZCN2ZqeFpoUzRzbnFmNTdBYlMzLVUxclZJMXpsZThKenE4a0dSRkFPOHJVek1DaVdPU3Z0dHk5bUVhY1VFdUtmYzR1bDk2YWFWYUN2R21Nb2l3MGJlZml6NGhnNnZjMXFkM1dQY1RoTkVXSzh5YVhVOGx6Vi1QVlpteHRTYjdEa2s2S3ptbkxtZGxsREhOTENXb2pzT2VibWhmOUJtdlZ3dkx2eTBTTDJ0QmVkRUhNMmtEalU?oc=5",
-   "published": "2026-10-21T07:00:00Z",
-   "outlet": "TG Therapeutics",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -18488,7 +18532,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics Announces Schedule of Data Presentations at MSToronto2026 - TG Therapeutics",
    "summary": "TG Therapeutics Announces Schedule of Data Presentations at MSToronto2026 TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3N0cXZHYVA1cXJLWVBVb19KajlNRjExeVBiSGJqdGdheGJGUE84WWVYOXVzbFk1T1RTaTF0YjRTX1Baa3pBd1NsNFYwN2tLTFoxdTBHQ200bi1sUl9UU3JEUWJZYzdnZlFabEZtLWtQVm1MSzBYeW5PUUhXdjVQakZnYlFjblR5MDFSNTN3WThRTUdvM1BHWE5vZDd6UVgxd194aURHZ1FKQXRsQVNaa193ZmRhUDZUdlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sSWhsT3ZUdi1fYi10dkQxT3RtamRVOThNaFEySWhYaEpZU2t1UWdEV1hCeTR0cE9kcDZDcnBueXhsdzBFQjlPM29jVGs2X21UeHpMTXRUaw?oc=5",
    "published": "2026-10-08T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -20505,17 +20549,6 @@
    "published": "2026-09-23T17:08:28Z",
    "outlet": "STADA",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "0f558486eccc479d",
-   "company": "Rapport Therapeutics",
-   "title": "Why is Rapport Therapeutics stock sliding today? - Investing.com",
-   "summary": "Why is Rapport Therapeutics stock sliding today? Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQUJ1SlRDUU1Eak4wZ3JSX0NqdFZLUDVIUnpiSW8yTFdSdmY4bkdnMlo0WWNSSmZmMVdxQXNPUVNNZENmY1phUjdIX2FuMDRUWmNZUFBSeVVncE5HczVYdjN0ei1ONlF5YkY1cmxsREJFVzVfZERGZGlDUTMxaGpWQ0ZqRGJGWENvTVZpaGdNb01CUWNIVGxlOFZJYnBXODVMcjloYThCa3RYNDFJY2c?oc=5",
-   "published": "2026-09-23T07:00:00Z",
-   "outlet": "Investing.com",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -30679,6 +30712,17 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2t6eGxsTDVyTF9vRmp3dThsX09ucVlaN1NmYXgteEhpQnpja1FXWVZVRTJfaWdUZDZHWVFoRHVLTW5RMkdkX1Bubjg0aGQxSzB0V0ctdHBZY0FGUS1KR25aUnllSXBzalVBcUF3NThsUWIyYm00UGZiYWRkbEJxWlVObURKRW1vWTQ1clBwZTd3TXctUE5odGlnSDFNSW5jbmEtc3ZVeURYLXdnWDRLS2VNMk0wZw?oc=5",
    "published": "2026-07-15T07:00:00Z",
    "outlet": "WTA Tennis",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ac941954fc140c39",
+   "company": "Transcend Therapeutics",
+   "title": "Transcend Public Benefit Corporation Launches $20 Million Philanthropic Initiative for Research of and Access to Psychedelic Mental Health Care - Yahoo Finance",
+   "summary": "Transcend Public Benefit Corporation Launches $20 Million Philanthropic Initiative for Research of and Access to Psychedelic Mental Health Care Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX01QZE5JQzJFQ011MnpnczRxX2dEZUZhc2EzSWZOVGxSa3FyejVFcVc2eXJhbWd5NGk3LTMya0k4UFkyNmF0ZG9xbXJwbG9fODdlZ0hNREJvS1QtTGx6RFZkVGd1NnBWYW1FZjZzUW1nX2ZObmtOY2RWOXJXT1l6dHN6N2VZLUN2MG5IRGJTRDV6OXFoMEVRLUJYOEtFbDNURjNJcnRkLTlxZw?oc=5",
+   "published": "2026-07-15T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -41239,6 +41283,17 @@
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVUpmRTNmaGg4UFFLdi1PNDlGelpEcnNZUmxiNy0yWkVPY2MySmhHNld5bW4xdndTSlZVR3I4UTJSNzF4dFFIZl85VkRzWkhIQUE5Q0ZwcXhlM01PLVFSNlZEb0t5RjVwVl9kTEt0dGs1TnVPTDh6T3JpZV9hTFN6VDg4N29XWTZlQ2lkZDhTcGJHbjFNdTZrbGdWN2h1ajNqVFBDWGlWRGNGRFd6QVg4aEJib1B5c1BSNV9ST25xY3l2UWM2NnFVTmk2TUY1N2g3SGlUQzhpbUFVNmxaQ1E?oc=5",
    "published": "2026-03-04T08:00:00Z",
    "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "08c2085b3042b3ed",
+   "company": "Herantis Pharma",
+   "title": "HRTIS: HER-096 met all Phase 1b endpoints, with strong biomarker and financial support for Phase 2 - TradingView",
+   "summary": "HRTIS: HER-096 met all Phase 1b endpoints, with strong biomarker and financial support for Phase 2 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnBmczByZ0dYWDdqMU5TQ3dlTnMxNWxHNmxjSWtneXp0R25EYWxmZ0tXN3FfaHQyX0NBM1hRYjBfRU1QMDV3Z291NnFGeWpCOVhIWFFlMzc1ejJRVGN0SU9uMmZHQ3ZTWUFEOHVyOVEtRkRDQjFoYXBTQmtBRm9iejZKa0dFVUF5cGxEMVFSTDRZZFBnc1JZSUtBQ0EwbUNGSUw0S2dNeG90NVYxdEJNSmY2SzFFRnJ6Mmk5cEJVYjgtY0FjNEtnV2xOekFvb2h2b2J2XzRLekN5b3NxVVFxSjZqUURYN1J1dzRUWm1JVXB0anJjZWFlenlBRjdHOW1jMWFRLTdpMlpaS2s?oc=5",
+   "published": "2026-03-04T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
