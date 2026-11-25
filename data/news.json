@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:33:49Z",
+ "updated": "2026-11-25T10:42:01Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1867,8 +1867,8 @@
    "company": "BioVie",
    "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 - Quantisnow",
    "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEF0QnBuc3RrRUtRaUhEcGVmbExKTlBNT1RnZUlHejdKbW84a3E0VERuQTRMcUtvb1FXQXYzQjlHWENUWEZONzZQV2VTNWlEcEo3MUNFb0lfTmxWekszMXhLMkFHT3FMb2E5Qm9rdkRqeVhOeWl5NzdNRGZOMC1qRkNrenpYc3F2QXIxcHZqR1pwajF1ZHZTeTdTaw?oc=5",
-   "published": "2026-11-24T21:30:49Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW0tSy14WnZhZ2kwZE9LRXZvY0pfNFBkeWhlZWRrZzhROVJDYms2WkJxeVdxOE9FNlBvVFM4M0JEZXZzV2JReG9XTnNVOFpMTE1KZWFVcFI2WmFfektONmFkQVB3WDJvRjVVbHk3TjNGcDNjVldhbXdfLWxQNWYzdEloNXZQNm1zNk1iSWRfMVVuVWFkMnc?oc=5",
+   "published": "2026-11-24T21:31:24Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T21:39:02Z"
@@ -9057,6 +9057,17 @@
    "first_seen": null
   },
   {
+   "id": "94b49745bf600861",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals at Stifel 2026 Healthcare Conference 2026: pipeline, cash - Investing.com",
+   "summary": "LB Pharmaceuticals at Stifel 2026 Healthcare Conference 2026: pipeline, cash Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2ppVHB5VDk1NFdDd080Z3U3N1NzTWMzUnBnaHJkMXEwYTA1clpwczFTRGdNMlVjZ21ZMjdaamc1WW96Tmc2dkI0a1ZVSUl5Y0ZKQVF6M0w2MFBIQWdHU1U3QXJlQWJSNFAyNTJDQjVHZEVPaklDMks1WWRjaEotWG43NEVHZmFUV1ZoOUtOT1NkVWtUWWxtQmZsTERNME14TG1oTU9pck1aWk5PY2tDZC0wRE9Jd3dkUWlLRWdWTzFkUjhha1lEbUFB?oc=5",
+   "published": "2026-11-12T14:54:21Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b5993d5491b38dcc",
    "company": "LB Pharmaceuticals",
    "title": "LB Pharmaceuticals at Stifel 2026 Healthcare Conference 2026: pipeline, cash By Investing.com - Investing.com UK",
@@ -14125,17 +14136,6 @@
    "published": "2026-10-30T07:00:00Z",
    "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "54ec92c4ab0cec79",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Xenon Pharmaceuticals Inc.",
-   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Xenon Pharmaceuticals Inc.",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSmJpcWZTZjY2VXpyQkh5UHBPYzQtd0NVS09CV2ZEY3dEd0pfdjJobG5HUmhQazN2aGRUWlhrWmdLb0Fja3hsdzl5YXRMTVJVQVJET21Mbm41RThtSkd0RTlIdXRBV3lkWlRZRktQVEtTd2NmY2JOdnJNOVdkckdpelZJZk5KSVhodDQwZEVsdXIyVFp2aXhlV2dvYW9NaGFBekZ4NWFsTjIyRHZRdFh4R0dXNFVFX3dTbnBpQ3RlM1R5T181MlhoaE5TX1E?oc=5",
-   "published": "2026-10-30T07:00:00Z",
-   "outlet": "Xenon Pharmaceuticals Inc.",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -23720,6 +23720,17 @@
    "first_seen": null
   },
   {
+   "id": "54ec92c4ab0cec79",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Xenon Pharmaceuticals Inc.",
+   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Xenon Pharmaceuticals Inc.",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXd2NFhVWEVubHpNWkxObWhpOFdya0FRS0ZNWkkzX2NzT1l4T0xZQ05NSlF5eHdNNkJuVVdWOFgyOWRWcjJhM3dsM0JPanhYb3hDSVNBUmU0NjZPdUhrT21zajFxMF94UTE0dkxYai1idUNhbkpIb1F4MDAzY3Z6UGJhTjZ1aG1MVl9MRkhOS3YzaFhWdFphN2ZOcTlyeXpQeHdQRmdxTG1oS2ZDUDNxS1ZmQWc4RHVfTFE2UEhLeG1tTGphbmFBTGFnaDY?oc=5",
+   "published": "2026-08-28T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "4a066d5e9241a270",
    "company": "Zambon",
    "title": "Zambon announces European Commission approval of Hopledo® for Adults with Parkinson's Disease and Moderate to Severe Motor Fluctuations | Zambon - Zambon",
@@ -23859,6 +23870,17 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWlyZHhpazN3TFhpbzIzaHdIR0FYZWdlLVpWTUpuZzhvdTVyU0Q4OGNPSnlDbXY1ZVpYVnNLODRBajVMRXUxNkVuMXZ5NFJlUklVRFJwYnI4bXdteURrRVZJWDVuX0dDZkFLTnBTZXRkSGk5dld0cWVsNy0zT3ZvRFlCV1M3SGpNdjdBSVl4V0xLOU1MMEZrXzY3VEJuQ0kzNFY1UGVoMF9HMkpLWUdTSA?oc=5",
    "published": "2026-08-28T07:00:00Z",
    "outlet": "Pharmaceutical Executive",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9e1e5aa29f854d95",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences to Participate in Two Upcoming Investor Conferences - GlobeNewswire",
+   "summary": "Minerva Neurosciences to Participate in Two Upcoming Investor Conferences GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV29DRFlVdU45RjMybkVxenR1WUREa0xURjE4NVRZdzFZTWVtWEZiUF9XTWk5aUw4LUY1dzRvWHlzNURtODZGamxRSmw3LWxGX29PWlFVU2FoRzBQZF9qeGFTeTJIOHZ0YlRISXptN082ZXFSV3E2OHBoVDJyN3QySDlRV1Fuekt3eWoxcw?oc=5",
+   "published": "2026-08-28T07:00:00Z",
+   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -41760,6 +41782,17 @@
    "first_seen": null
   },
   {
+   "id": "20a13c416babb6d3",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences Reports Fourth-Quarter and Full-Year 2025 Financial Results and Provides Financial Expectations for 2026 - PR Newswire",
+   "summary": "Neurocrine Biosciences Reports Fourth-Quarter and Full-Year 2025 Financial Results and Provides Financial Expectations for 2026 PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdmdRU005SkZQR2JpTjNUZ3VWV1l5TDlXRjM4YUtsNlhuVUdUTGpCUWt6QVAtQThxZ09FejItMk5HOWpOSDBhYW0xOGVOQzd1YV9mekdCV0lzemhxRlFwd1d2OTFiQ2NXbFI2eDZialJTbFp1S0xSa0JQTjBPYi1EZzlYQzdDRjRxdUp1TWVqa1d3VlZEcGZpaDFmV201cWp5ZTU5NDRtNUF2ZnRUX29iY0Z6NFc5ek5pVE91SkdfQkhkWm5wVXg1RHpHNkVUU2Q5anJ2akRjaUVHR0RuLVpmRkhPOE16RkxfZTlYX3RVcEhnbVBjSWFQUWJ3YmxFNWQxUWZuS2xKQWhoWFFfdTdUXw?oc=5",
+   "published": "2026-02-11T08:00:00Z",
+   "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4e2a9f2245359455",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Appoints Michael Cola as Chief Executive Officer to Lead Next Phase of Scale and Execution - Tue, 02/10/2026 - 07:30 - Helus Pharma",
@@ -43032,6 +43065,17 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVUNNbWNHOS1kRGJNTDFIdkluWDVUVTMzZWZMaHcwa1dSSWhnenBVNFlPNTJBY3U5Wkg0UGxMQmdwbUVkMnZtTzZWaVFjV053VEc1SjZxd2JSYUFWemZnM3lYZ2NnUFlyLTVIT0RhRXEwRE1sZU9OOVNqb3ZpcFZ6OVBwdlRfaXpLZkIxaE1PTlprVldjRFc5Q1oybGFsdHRnUEUwY3pXRnQ3cTFrMlFwQVppQkdIY2fSAb4BQVVfeXFMUGRfdGRjRmpZNDdzX3dEWHVEVWx2b1BCenRRVDRseUhILUhwU2ZKWEg2V2pwNkp4WmktWkttVWpXbFVlYWJLXy05R1VhWU1aUFlPQmFQLXR6RXh6RlRVTVhtd1NXeXVmMkQtWWRMbS0yeHpmSFVTT0pCa1M3dGJMN1cxeTlUUG0xQlM5Q3MyTDBMa2w4RDZheDlsQWZ3NUdxak1BUnEtdzJKN2hWWVhfRFp6eW9KdDN5aGpkYXNWQQ?oc=5",
    "published": "2026-01-09T08:00:00Z",
    "outlet": "Indian Pharma Post",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c2f4434a016388a2",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Atai Beckley CEO says entering 2026 with ‘meaningful momentum’ - Yahoo Finance",
+   "summary": "Atai Beckley CEO says entering 2026 with ‘meaningful momentum’ Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0lKMGk4bExqX1V0TlNQSERsWmc0NVZqTk5HWlVDa2VDUHFGVUdVSU1CbWJUelFhWkp6aXJNazFZcW5odFR2MjVsdHdkMTJQcEwxcUM1SEdLa0dnMERZWDNpc0RORTd4OXplSXZoUEQ3UFBJc1NMYnBodi1uaUxndm5B?oc=5",
+   "published": "2026-01-09T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
