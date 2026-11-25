@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:30:01Z",
+ "updated": "2026-11-25T20:25:38Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1784,6 +1784,17 @@
    "outlet": "Voice of Healthcare",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T14:18:57Z"
+  },
+  {
+   "id": "7a892ad1afc53854",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference - TG Therapeutics",
+   "summary": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkhiQWxmODBfVUJYRHMtUjBDLWZIMENXb09rUFlQZU5zRHJ5LTBkME1HekQwTkJSS3ZaSV8tYVBtc19qM3hWdWxvdWQ2SGJHVUdxWEdWOGJzdEYwVUMwWWw3clBOSkV4TjZnSGdyTk41S05zMzlEX1hJTHhLeUFZdFBPcUd6Z3hkSUR2VFhYRjVIYi1fMFB2M3kyME04LWFEcFVHdjZzR1Q4dG5tRVF5c0lEUE94X1V3YmJuOC1CY0Q?oc=5",
+   "published": "2026-11-25T12:30:29Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T20:25:38Z"
   },
   {
    "id": "f1e7fda7fda4213d",
@@ -6714,6 +6725,17 @@
    "first_seen": null
   },
   {
+   "id": "84fd70f8a18ba1e8",
+   "company": "Neumora Therapeutics",
+   "title": "Mizuho reiterates Outperform on Neumora stock, $3 target maintained By Investing.com - Investing.com Canada",
+   "summary": "Mizuho reiterates Outperform on Neumora stock, $3 target maintained By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnlDaG81OHYzMWtmOUFudGx0bmVON1ZtRjJxeWIxTllYdUpwNU1PczhVb3V3MG90dTZZSlF5czBtRjhhSzNTVDQxSXYyTXNUN0FKODVpQTh2bW44UkNZZnhYNHp2Unp5UlNsSGNqenB2QlNIWUgzSTRhYkdJbDRudzNPb1J6VGJtU2QybTlKVEJWOXdDWWFNSV9jTTJqc2l3RGVlUHpUNFFaVlA2aTUzN09rd1J4VVZfSHR4dkdZMkwzc0JQ?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "012541caeedc3e11",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus' HLP003 hits Phase 3 APPROACH primary endpoint in major depressive disorder - Dealroom",
@@ -7370,17 +7392,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHN4MjFvM1dCR0JIMHRLYmtzdjU3a0FOZEItcFdkaE1pV1NpTE5PcG9VUEl6emxsOHo0RF9Qcm1vT0hJeWRFdlBpSmZzbWVVU0R6RXp2dmFCel9EWS1BcmFDa1VQNmpuNUhKWUpEbWlOR25GcjFfUXhLSkQxTTlnRFY2WG9GMnJsSU1OZEFn?oc=5",
    "published": "2026-11-16T14:30:29Z",
    "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "f9428ef95f814387",
-   "company": "Teva",
-   "title": "FDA Approves Igalmi for Agitation Associated With Schizophrenia, Schizoaffective Disorder, or Bipolar I or II Disorder - Psychiatric Times",
-   "summary": "FDA Approves Igalmi for Agitation Associated With Schizophrenia, Schizoaffective Disorder, or Bipolar I or II Disorder Psychiatric Times",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeVBXWWJRejBTUXVtWUgzcFBJUzF2b19zVHVkaEFudlZ5Zk5WYV9oMV8tLVE2eFhiR0RjYUFKbzhBYVVRcC05UkxpMHIxMnRwcm9sT1A5Y2hzanlRTGQ0OU95WjhqTC1WTGNuYTJXdUs0SHp6bVE4aXY1MzBJVmxGRGUxSUlIMUZRZ0lIZ1pUZFVTc1pfQ1R3X1RJblB3eUVSWENMR1NlVENLM2cyRjlrbXB6X0dBenJFQ0pLSVM5MmdxVDBfZld3dmVFUlpkSnI5Snk4WlBXc0VPMElMdVh2Nmx3ZWVPVV92SFE?oc=5",
-   "published": "2026-11-16T14:29:03Z",
-   "outlet": "Psychiatric Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -8085,6 +8096,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f9428ef95f814387",
+   "company": "Teva",
+   "title": "FDA Approves Igalmi for Agitation Associated With Schizophrenia, Schizoaffective Disorder, or Bipolar I or II Disorder - Psychiatric Times",
+   "summary": "FDA Approves Igalmi for Agitation Associated With Schizophrenia, Schizoaffective Disorder, or Bipolar I or II Disorder Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeVBXWWJRejBTUXVtWUgzcFBJUzF2b19zVHVkaEFudlZ5Zk5WYV9oMV8tLVE2eFhiR0RjYUFKbzhBYVVRcC05UkxpMHIxMnRwcm9sT1A5Y2hzanlRTGQ0OU95WjhqTC1WTGNuYTJXdUs0SHp6bVE4aXY1MzBJVmxGRGUxSUlIMUZRZ0lIZ1pUZFVTc1pfQ1R3X1RJblB3eUVSWENMR1NlVENLM2cyRjlrbXB6X0dBenJFQ0pLSVM5MmdxVDBfZld3dmVFUlpkSnI5Snk4WlBXc0VPMElMdVh2Nmx3ZWVPVV92SFE?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Psychiatric Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15829,6 +15851,17 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVlrNUUyejZQdGRxWkRINXd3N3g0am5GYk9mMWdaYUdSejY0b3pRSFpwLUpwdlMtbktRcV9uczhfNktGdDZrWVU1anQwOXlqdzVQeVpHU3JlenFhcks4aWFHcjU1SS1mZmhkZzluWFlIb1hSdkJWc2xyWUtsN2NhcGtWbmtjYzN4WFFYamJhWTc3VFEx?oc=5",
    "published": "2026-10-25T07:00:00Z",
    "outlet": "The Motley Fool",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f90653bb0f34eb29",
+   "company": "Idorsia",
+   "title": "A new scientific avenue for daridorexant: Idorsia to advance development in autism spectrum disorder - Yahoo Finance UK",
+   "summary": "A new scientific avenue for daridorexant: Idorsia to advance development in autism spectrum disorder Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaW9hOHRtZG8wTFRTVzUxZk9vcUJzRTNKenQwVHlXWW5SeldEN1ZHcEpJMExPY25hQzN2Z1F1aXB0bHp4akpPSlFzNzB1X1FFNUYwem5fRWdtOW84Vi1xR0JXWER2eGVSZ1B5LXp6OEs2aHA5Y0paSWpoSGFmVFJLLW80YzVXRFczWGpRdlMydlNqQXpOem52NnZ1bw?oc=5",
+   "published": "2026-10-25T07:00:00Z",
+   "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -28025,7 +28058,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -30749,6 +30782,17 @@
    "first_seen": null
   },
   {
+   "id": "17343e2c0c759955",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH) in Focus as Investors Monitor Its Neurological-Disease Ambitions - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH) in Focus as Investors Monitor Its Neurological-Disease Ambitions Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNamktMnNDRWFnTlBnSndVWnk0NExwNHdRcDVvMk9DX0JqelRfcEp0aTVsMU1LM2tMLWk0WFd0MGRSVnU5THpBZnNDMGJ5UnRFRUJUTDdNWU9TbFpOcFJXWUFnNEhabUFYNUdDWDA2WW1GYXp5cU50bFd0eC1QTzl4N1NyZHF2ODMxcWk1NERpeU8wRzJWajUtWmswWUoxbGhzTExyZkotRzNiNkVuSmRJTGJJM1NMX3pxSXNiV253b0FtZjVtRWVhWVdLWnI?oc=5",
+   "published": "2026-07-13T07:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6b73bd62c0ae7795",
    "company": "Neumora Therapeutics",
    "title": "Neumora Therapeutics (NMRA) Stock Sees Fair Value Falls After Navacaprant Discontinuation - Yahoo Finance",
@@ -31328,6 +31372,17 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2RlQVhURHptNXlrbkY5eFZ6THVfN0VkVDFaXzM1UHlERVFDazJydldsNk5VcU5YdkJySDVuSXlXVnd5Rl83S3FfdE9FUndueHRncXZibEFrRkJKY1N2YU1ZTEVMWjVSZVRvTnVQNUx3TW56dTh2eVJtSGk0MEhVQXRMUnpULXJSdlJEYUpidTEtYTVkWHl0MTF6c3BZcll6UWdQWmU0QQ?oc=5",
    "published": "2026-07-02T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3bdc6c188439aa80",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Provides Update Following Type A Meeting With the FDA - Business Wire",
+   "summary": "Newron Provides Update Following Type A Meeting With the FDA Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmxTOEJwZnVHbzdLZkdOUFVPMTJ4N3JzRVY0eVRDNXA1d1hOMGtaWm5KbUloOXNvWHZ1Z0tuS2VmSnFsYlNDUHk3VXAwWE5GS2QwZDZHWFRzRkQ1T1JKLUQ1X0dyZ3k3YnZSWHRZc2lOdnl0T2F6Uy1XYzdlVHRrajhxa2NNQVdsYklKb1BEWjZ1X2UwbTByNWlERldIWVBrc2JFZkxWUkdsZzluVjd4Y0xnazJKV180?oc=5",
+   "published": "2026-07-02T07:00:00Z",
+   "outlet": "Business Wire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
