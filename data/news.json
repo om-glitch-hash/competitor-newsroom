@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:43:38Z",
+ "updated": "2026-11-25T08:14:47Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,39 @@
  },
  "items": [
   {
+   "id": "d9f1aac9f29afff6",
+   "company": "MapLight Therapeutics",
+   "title": "Form 4 MapLight Therapeutics Inc For: 25 November By Investing.com - Investing.com UK",
+   "summary": "Form 4 MapLight Therapeutics Inc For: 25 November By Investing.com Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRC1tLVJvRXRlcmtGd1B1Q3dwOXFnQ2xaeE5FaE85b2VCQk1pbHh5bjVMNjQ4Tzk4dFdOREdUQmlyMXE0Y0ZSSFdXb0FnQ1djQVFoTEtYT3BmMFgtYU1hMmotTW9BeDhVMjkxTGdlUWNYdmpVV0kySDVMQmlIZXFaSTZyeTJWS2tjMDU1T1VXaE1Ha041Uy12Qjg1ekJuVlpKTEx3WTVJOHkxYnNjUkE?oc=5",
+   "published": "2026-11-25T07:46:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T08:14:47Z"
+  },
+  {
+   "id": "c183e5cc8d785484",
+   "company": "Herantis Pharma",
+   "title": "Herantis secures most of the funding for its upcoming trial - Inderes",
+   "summary": "Herantis secures most of the funding for its upcoming trial Inderes",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGV1WUZadTM4ZlZYaC1Cbm80LU5jSzRLeHJiVGpGQnI4TEpTMzc1TnlVZkNDQlFMYnFBS2F1MzhvbW5yX3lqbWNtYVBWb1NNSkExaVVpQzVXYUlidVhKWkJLMVZqU0puX2dWUDFKdWlKemZyTlVUMHU2S0otWXQ5UE9jMUhNWjZaOTYwZ0E0WU9GNkE1T1lnZGQ5clZlTXpQNUFyQg?oc=5",
+   "published": "2026-11-25T07:20:00Z",
+   "outlet": "Inderes",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T08:14:47Z"
+  },
+  {
+   "id": "275c4f07c5413290",
+   "company": "Novartis",
+   "title": "ESO Regulatory CMC facilitator - Novartis",
+   "summary": "ESO Regulatory CMC facilitator Novartis",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzV0MVRlRkVFMk1HbU9KcFFCRnR4Y19oek5pYXgyODJoRWZVTnpCQVVtY0dyRUR6Njd0b2oycWdPbThLV2FRUm1ramRRQThfUm4xRHhDZmFUbk1uUGJjMHBkSmdRWWVsVTFndG9nc1RmcEp4UzRlbk1DeXM5aGhaYVVuQlB4cjJ4MmRQcl9hcWhiUFJZX1lFaHlndzA4VXE2dFM5N3ctSV9qcWEt?oc=5",
+   "published": "2026-11-25T07:05:53Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T05:32:58Z"
+  },
+  {
    "id": "4e8c5c3ef9e20737",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals (NRXP) Stock Still Looks Expensive Following Its 97% Five Year Fall - Simply Wall St",
@@ -1729,6 +1762,17 @@
    "outlet": "GuruFocus",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T02:04:19Z"
+  },
+  {
+   "id": "6eed78077acb1656",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences Inc (NB3.MU) Seasonal returns chart - Yahoo Finance UK",
+   "summary": "Neurocrine Biosciences Inc (NB3.MU) Seasonal returns chart Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96S1ZiMVZfN1AtN0ZWVlB1Tkp2TV9DRGJYQXp5LUk5VkNNY0tSM3lEUHdhU2tma0h0M1RWNUNvOHNFaUlwS25wZUhZWG40Y2lLa3U0Vk9KM0ZZdHZva3Y1dDNwaU8?oc=5",
+   "published": "2026-11-24T22:49:47Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T08:14:47Z"
   },
   {
    "id": "0b550a939be03469",
@@ -1834,7 +1878,7 @@
    "company": "LB Pharmaceuticals",
    "title": "LB Pharmaceuticals to Participate in December Investor Events - GlobeNewswire",
    "summary": "LB Pharmaceuticals to Participate in December Investor Events GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWVfU1NoNXNYLTB5dXA2Ni1GV21uNFNRbm9rajJOU0gxUTU2elZiNWRpNDZUcDhBNllJYjdueEd3Vmo4ZHQ2QlpISlNpWmhTNHRGRDZyWXNWc2ZMb2dXbmg5b2xvZ3NtQUE0dnVwbzJLR1JnNURkeFhZQ1JCelJCcmpMWlZxM1RHc2sxdDRzNnhzSlNiNWlsVlRXV2Z1UGdYRWxxY1lQMzZkWVdFdGt3Z0RCOHZFZTBoM0lwNm5VeEF2MW1MS1hVckM1b01wZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN09VTTh2akQ1ckw5Y1ozLVV4SXRmWDFlT3hiS2UzS21ua182UTNGMHVvNW5Wd3RMZEV3RVJTcVpmNWFHYUpPeWNrS3FZUHI1aEZBakw5U0gzNGE0ekt3X0I2UjBxaFJFQWhUR3Z1VnI1cVR3UWhvaHJUZVQ0Tk5yM0o5RkkzbVZlUXZ3bGkyMXNjakdlYi1kcUxtTFpCYm1WNG91NnlWelQtbjRXcWRwWnBnSTBqUFpiV0JhMVk4ZWExVVZ4WXVhNzRwODl6ZlFlOWc?oc=5",
    "published": "2026-11-24T21:05:00Z",
    "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
@@ -1905,17 +1949,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
-   "id": "275c4f07c5413290",
-   "company": "Novartis",
-   "title": "ESO Regulatory CMC facilitator - Novartis",
-   "summary": "ESO Regulatory CMC facilitator Novartis",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWZVWjJFRXhRODlwOXFmQ1NzVzdZZUZYdFdnUW9nSF9TUXRZUU9RWXByMnhzWVZaZ2VqT1J0Z0QxWnBrOXltNWI3a3gzc0RFd25NV21kVXBvd1lnVDVYV19QZ1QzaFZpSXpZTlB1dVZrT3JnMlFlMVRqQ3lMZXNod2Zoa1BxaDlBbzFNbTI3NXhkbXRES1hIeEV6ZHQzLWQ2MExPOQ?oc=5",
-   "published": "2026-11-24T15:12:38Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-25T05:32:58Z"
   },
   {
    "id": "4930feed9a498f4a",
@@ -4237,6 +4270,17 @@
    "outlet": "The Des Moines Register",
    "method": "news search (no newsroom found)",
    "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "14a2ebdd1e3e1e49",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals at Jefferies conference: launch plans and growth bets By Investing.com - Investing.com Canada",
+   "summary": "Vanda Pharmaceuticals at Jefferies conference: launch plans and growth bets By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWpHMmI5SWJpVEI5VXVyWkhSMms0QnRwTlVhVWtEWU42R1dmZGJ2bWFJQzJoVHd3TW9rN2Y1ZnlNUmNBZjg0dEQxak5ZRmhaRk1ZOGJ6ZHJjZmIwd2tlbDZjdDBQTEs0YVQ3N3FobHdxLVcwcDVUWUdzdmxFRW9uXzJWWDdnVWFaTHdfNW5Fd010X2FZbUJrSloyd0dJY2IzMlZQcmhrTEhLb3hldHVzcm9vLU1wdUo5b2cxYVhrc3plLW1sNHJmWXJZV2V6Z19a?oc=5",
+   "published": "2026-11-19T14:54:07Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "2ad55b985a73fef7",
@@ -6912,17 +6956,6 @@
    "first_seen": null
   },
   {
-   "id": "758045818c8f4600",
-   "company": "BioVie",
-   "title": "BioVie says bezisterim shows distinct responses in two Long COVID patient groups - Yahoo Finance",
-   "summary": "BioVie says bezisterim shows distinct responses in two Long COVID patient groups Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXZmSXF1dDJUQUk1OHVoeFp6UVZlZmVkY0dpQnFZV3ZCWHB5cWlCUzJVTlp0OURvcUtTSEMyNDRNS1BuNDJEaXZyWHNCNnRXRUl3eWlqMngtUlJBRTRWaHFSbkNsX25yenJmN0ZvV3p5Z0ZxVzV4SDE3YVpCOWU3dDF5RFI3WWFoRmJQNWtBYVJtc0Y1bUI3VWg4c3QwQXc?oc=5",
-   "published": "2026-11-16T14:57:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "78c59cde15fe679e",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3 - Psychedelic Alpha",
@@ -7755,6 +7788,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "758045818c8f4600",
+   "company": "BioVie",
+   "title": "BioVie says bezisterim shows distinct responses in two Long COVID patient groups - Yahoo Finance",
+   "summary": "BioVie says bezisterim shows distinct responses in two Long COVID patient groups Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXZmSXF1dDJUQUk1OHVoeFp6UVZlZmVkY0dpQnFZV3ZCWHB5cWlCUzJVTlp0OURvcUtTSEMyNDRNS1BuNDJEaXZyWHNCNnRXRUl3eWlqMngtUlJBRTRWaHFSbkNsX25yenJmN0ZvV3p5Z0ZxVzV4SDE3YVpCOWU3dDF5RFI3WWFoRmJQNWtBYVJtc0Y1bUI3VWg4c3QwQXc?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14066,7 +14110,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -15235,6 +15279,17 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQanFLdVdhUXhyYWVNUFVvS1dNSGx2Ui1hTUc1czRhSnc3X2M1YVpLc1FIanRPdDhVLUNyN19wUTF4NVhDTkE5YzNQZUViV2VnU1lpZzBaYWsxR0ZER0RGTDZOWHE3V1U5TDY4S21hUmw0T0JST3pVXzdPZFRmdS1icDF0UVgtbzZ4TXJJcml1ZUpDSWNPSGdHLWpR?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "657d8bd2733d4b8f",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals Eyes 2027 Phase III Data for LB-102 in Schizophrenia - MarketBeat",
+   "summary": "LB Pharmaceuticals Eyes 2027 Phase III Data for LB-102 in Schizophrenia MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS2w2RTZlSEVPbExFWlp5aDRONld5b3JPUUFScDIyVTZQbXFLMWpESGV1YzNGNlFTVXNNOVhUMEtzTjhKNld5NGxtc2U0UkY1ZmNMRGMwNnlXdlFaLXpVZzNPejFJUGQwaGdVaW5fOVpOSXhtWUc3Tm8wbjNGUWJ4bjRmZkdTQnZFNGVUdkZjZ2hqTVpoSk81RWFlMWh3RTJTdnNSbXBUMVdoVDZGOFI3Rm5UaC1pS2JfemVMOTJZcEFjNzhLU0x1dllHUQ?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22455,6 +22510,17 @@
    "first_seen": null
   },
   {
+   "id": "e966dd92e894fd16",
+   "company": "Roche",
+   "title": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) - Roche",
+   "summary": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) Roche",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2l4Nk5DcF9sSjctS0l1X3RUeHk3UE9hS2h1dFNTOHExcEJuX0MtNzlFNmc5S1FzTzB1aEctRXpjMzM4OTJNUzhXcndxSjhUTkxaeEw3eXg4YjRFbkxGRmdKQjdmRVZCZUxEOFVqLWEwSkZSLTQwYTY0TEFLTW1EMUZUajF0a0tjamYzYlBtZXluRHRQeHFCSnhpejhZWmlkZ3E3a045LXRxZG5ocmVtU0paOGwtUmtXUDVyWm9lU3B6c01lZEFjQ214N2t0a3lVSnROWmFJMVJhQVJpQTF0d0Nnaks0UQ?oc=5",
+   "published": "2026-09-09T18:43:44Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "4c29b8f138e7b917",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson data presentations at the 2026 Psych Congress Annual Meeting: - Johnson & Johnson",
@@ -22584,17 +22650,6 @@
    "published": "2026-09-09T07:00:00Z",
    "outlet": "BioSpace",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "e966dd92e894fd16",
-   "company": "Roche",
-   "title": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) - Roche",
-   "summary": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) Roche",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdXNCejNpUjlod3R2RjFsQVh3NC1sRzlkRHZ0anJyY0I1UWh0b0o3clgzVDVkYkdJY3diQUtYNkhVZ3IyUEpjVDExY1NwZUdKRjNxS0hJZDJGWHdaM1NlZzVrbDgySUdhQkNnZk9nT2JWU0tZSWk2aXQ4N1k1RkhwQjlpVWZ6RjBwem9qblRlV1ZKNklOOC03M2dJOUhwR0dqX1ZCSFdEcEN6OXlFUGZ6N3NzQm9jdWQtT1NJRXdtVTFMb1F1ZGhlazY1dXVrM3ZTV29xREMzMk93ZzE4cmZZcUlsNE9XUQ?oc=5",
-   "published": "2026-09-08T16:06:25Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -27508,7 +27563,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -28403,17 +28458,6 @@
    "published": "2026-07-24T07:00:00Z",
    "outlet": "Sleep Review",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -35336,6 +35380,17 @@
    "first_seen": null
   },
   {
+   "id": "fbb7a8cc14e06160",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "#NCT07573176 - J&J Clinical Trials",
+   "summary": "#NCT07573176 J&J Clinical Trials",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2aDJXZERTLWNwalBmZ3g2VGw4REUtNGJhM0pkZFVna0RPcHpaMjNkbmVLaHpuTFc4aG96SmpVb18yc1BYOTdLUFlvaExlNjZqTlZjT0ZsTnpKdm42UmVZQkZLZ1ViTFMwbEE?oc=5",
+   "published": "2026-05-12T04:03:40Z",
+   "outlet": "J&J Clinical Trials",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "586be46e3d15697d",
    "company": "Reunion Neuroscience",
    "title": "Reunion Neuroscience to Present Full Data from RECONNECT Phase 2 Clinical Trial at Upcoming ASCP and APA Annual Meetings",
@@ -39527,6 +39582,17 @@
    "first_seen": null
   },
   {
+   "id": "d0127c080712dbc4",
+   "company": "AC Immune",
+   "title": "AC Immune FY 2025 Results: Eyeing ACI-7104 Catalysts - Seeking Alpha",
+   "summary": "AC Immune FY 2025 Results: Eyeing ACI-7104 Catalysts Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1BUVVB6akZiMnV3UHRZSGF0UUlhT21nWFpqdFdlaVNyMHR4SFk4N0pua2s1eHljVG1Lc2pWMjdFd2U5enFFMUdXbFZJc0VNbTRZYUNXa09jOUdTUEpPZGI0MzcxZ0tUV0tzTWMwQlBJQmw5VFV4aDh0TWxxOVdVNkdFLXVlLWhpTW1OODM2bE0tY2M?oc=5",
+   "published": "2026-03-21T07:00:00Z",
+   "outlet": "Seeking Alpha",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bf80cef7e99eae3a",
    "company": "Biogen",
    "title": "Results from Real-World, Long-Term Treatment Persistence with LEQEMBI® (lecanemab-irmb) in the United States Presented at AD/PD™ 2026 - Biogen",
@@ -42032,6 +42098,17 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -45145,28 +45222,6 @@
    "published": "2025-11-26T08:00:00Z",
    "outlet": "Newswise",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "3c2e700b9bb90d0b",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics to Present New Phase 2a Data Analysis Further Characterizing RAP-219 in Focal Onset Seizures at 2025 American Epilepsy Society Annual Meeting - Rapport Therapeutics",
-   "summary": "Rapport Therapeutics to Present New Phase 2a Data Analysis Further Characterizing RAP-219 in Focal Onset Seizures at 2025 American Epilepsy Society Annual Meeting Rapport Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnBkdmZzZXlyczd3eWtLZERSaDZ5ZVNvblFKb2hVbU5hazZqUG5jNEt4UHRnRURidWVHVWZuUzhjODhqZWF1ejhQT1ZiR1Q3OU5fb0Q5UlRmUjhkdnd5bGs1RUs5bWJ3aHFDUlQ5THFVeEV1OUtsVF9ISVpMSWpWX2R2bXM5cVBxU0V4ZVhHUVZPRmswX3ZvT1M5eDJQWjk0ZUtJekx5aE9pSTB2NjljLUJ4Z2EtNHN0NEVRaS1DY1lWVm82RjZyTXRiTQ?oc=5",
-   "published": "2025-11-25T08:00:00Z",
-   "outlet": "Rapport Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "2d54305f730a5e03",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon to Present New Azetukalner OLE Study Data in Epilepsy at AES 2025 - Xenon Pharmaceuticals Inc.",
-   "summary": "Xenon to Present New Azetukalner OLE Study Data in Epilepsy at AES 2025 Xenon Pharmaceuticals Inc.",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUtYbnU2RzZZV0dhTTlaQjBtbEk1UU5Bd2d4QldxZ283VmF3WWpiRUpQbHk3TkFfVWt4VTlzNjJ4c3JCV2tWdzhlVk5nenJWQmtpMTNubE10eDBKUEF5S1laTjg3ekRDdURScEdhc2dnaUpMLW1BVURoRHJSbi1SclhuWV9wZWU3SWZRbmNmZXduWEl5QWM2TVFuSVdKRTBSNEI1b1J1bUlsVHNlWjMxN01fNFVMQXVLZ3RLRmpld1RWZnZ3QlR0SEtuOA?oc=5",
-   "published": "2025-11-25T08:00:00Z",
-   "outlet": "Xenon Pharmaceuticals Inc.",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   }
  ]
