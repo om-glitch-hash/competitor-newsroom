@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:04:19Z",
+ "updated": "2026-11-25T03:11:52Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1665,6 +1665,17 @@
    "first_seen": "2026-11-25T00:34:12Z"
   },
   {
+   "id": "0cc27301b78da280",
+   "company": "BioVie",
+   "title": "BioVie Inc (BIVI) Selling Stockholders Plan 2.96M Share Offering, Company Not Participating - GuruFocus",
+   "summary": "BioVie Inc (BIVI) Selling Stockholders Plan 2.96M Share Offering, Company Not Participating GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMEhxTk5ROWtab1BQWWZiNEttd3JpRnVWQUF6ajkxX1hpVU5DSDFJTjRuWFZnYXpHOU1lUmN5MWhiUWxZa2VOaGlVcDhrS29PemVDVXExWnhpcDJDd19EM3pDSTdkc0NaN3JQdmZlcWxjMmZaS1BxV1dnb1pETGc1NWZMNGVRSUZPeGpzY1lSb203eUFReEN6R1RjWVBLTnQtTEsxdVJtMy1sX3RLS3VZYkwtem1NWEZsYTZZWjdmYzVwOXNv?oc=5",
+   "published": "2026-11-24T23:34:39Z",
+   "outlet": "GuruFocus",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T03:11:52Z"
+  },
+  {
    "id": "ba2b28579f8f084f",
    "company": "Herantis Pharma",
    "title": "Herantis raises €15M to fund Parkinson's Phase 2 trial - Dealroom",
@@ -1709,15 +1720,37 @@
    "first_seen": "2026-11-24T22:40:18Z"
   },
   {
+   "id": "3927f313cb6dc71b",
+   "company": "BioVie",
+   "title": "BioVie CEO Cuong V Do Acquires 2,500 Shares at $0.9194 Each on November 24, 2026 - Kalkine Media",
+   "summary": "BioVie CEO Cuong V Do Acquires 2,500 Shares at $0.9194 Each on November 24, 2026 Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMTJCZ2dhWXlVdENWZ1J6WWVzdlU0TTZlZEY1Qng0aW5RU0Z2ZFNIZVlLeXd1cXhKTXl2b2RUam1FZS1Qc3lldjd4VHZsQmNmX1JUMl9CSGtPaUcxY1dOZ2pEWHVFRktCb3Vvb0dyRzVCNm9ieU1uT2x2SzBnakoxaDkyVDdWNzdlQ3BPN3VCMmx3Tzh2LU5TX1plTDhZd3kzdW1FM2dGQXNqSnM5R0VsekRYN2loREhQYjBfR1RPd2Q?oc=5",
+   "published": "2026-11-24T21:51:13Z",
+   "outlet": "Kalkine Media",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T03:11:52Z"
+  },
+  {
    "id": "0d3697cb02551d54",
    "company": "BioVie",
    "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 - Quantisnow",
    "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEF0QnBuc3RrRUtRaUhEcGVmbExKTlBNT1RnZUlHejdKbW84a3E0VERuQTRMcUtvb1FXQXYzQjlHWENUWEZONzZQV2VTNWlEcEo3MUNFb0lfTmxWekszMXhLMkFHT3FMb2E5Qm9rdkRqeVhOeWl5NzdNRGZOMC1qRkNrenpYc3F2QXIxcHZqR1pwajF1ZHZTeTdTaw?oc=5",
-   "published": "2026-11-24T21:30:49Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW0tSy14WnZhZ2kwZE9LRXZvY0pfNFBkeWhlZWRrZzhROVJDYms2WkJxeVdxOE9FNlBvVFM4M0JEZXZzV2JReG9XTnNVOFpMTE1KZWFVcFI2WmFfektONmFkQVB3WDJvRjVVbHk3TjNGcDNjVldhbXdfLWxQNWYzdEloNXZQNm1zNk1iSWRfMVVuVWFkMnc?oc=5",
+   "published": "2026-11-24T21:31:24Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T21:39:02Z"
+  },
+  {
+   "id": "753653a1faa5aa69",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals S.p.A. (NWRN.SW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Newron Pharmaceuticals S.p.A. (NWRN.SW) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xazU0WGUzeUh0RGZZeE5pb1plWGNrZzYwc3dYY3hkRGRDekZ6ZDFFYXd3ZDE1YTctaGFDbTVZN19WT1U0N0hjcnFBZUU3YVB4ckVaM0hR?oc=5",
+   "published": "2026-11-24T21:30:11Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T03:11:52Z"
   },
   {
    "id": "b364f4efbd3e37ea",
@@ -12313,17 +12346,6 @@
    "first_seen": null
   },
   {
-   "id": "249a19d2c0547d55",
-   "company": "Alkermes",
-   "title": "0001193125-26-444507 | 10-Q - Alkermes",
-   "summary": "0001193125-26-444507 | 10-Q Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDVkMi1pcnFJazdPVkY0ckxoemZHSlVMeVROMkpmb1pwXzVUaXI5WnZoU2xReFZ0dnFkRS1vY28xSzFNUUVVOXdISzdVVGtIYWZYdUN5cDhoSXdNR1BfSDU5Tnd3dTE4YTdaVFQ4YzVmeHZHNGVWNm5YOXVHMUVNc1cxbFQ?oc=5",
-   "published": "2026-11-03T15:11:36Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "bc003426ac2c52aa",
    "company": "Novartis",
    "title": "Neuroscience Territory Account Specialist – St Louis - Novartis",
@@ -12419,6 +12441,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "249a19d2c0547d55",
+   "company": "Alkermes",
+   "title": "0001193125-26-444507 | 10-Q - Alkermes",
+   "summary": "0001193125-26-444507 | 10-Q Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDVkMi1pcnFJazdPVkY0ckxoemZHSlVMeVROMkpmb1pwXzVUaXI5WnZoU2xReFZ0dnFkRS1vY28xSzFNUUVVOXdISzdVVGtIYWZYdUN5cDhoSXdNR1BfSDU5Tnd3dTE4YTdaVFQ4YzVmeHZHNGVWNm5YOXVHMUVNc1cxbFQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13978,7 +14011,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -16515,17 +16548,6 @@
    "first_seen": null
   },
   {
-   "id": "3e7fe3cbb00b00ed",
-   "company": "Rapport Therapeutics",
-   "title": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target - Moomoo",
-   "summary": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1FfaExBZkFyNmFDSUZaV2FDdXctTHM0X09XWEhDaGhCdzV3dXJydXRpLUhkdlNNTG91VW54T0w0TGc3V0NXS1VUVmtDQlFfQWktOFVlVVRMVmo0ZjBBS1k4MHZFM1ZtTkIxUDU1WUx5MVF1bm4yYTMyVzJjQzV0ejlJUl9qQXpWMVhnU3V1aWdrdDNIUEdtUy1DZGdFcHhEdVBkaXluSGp0UQ?oc=5",
-   "published": "2026-10-15T17:35:40Z",
-   "outlet": "Moomoo",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "e665b7b7fa138903",
    "company": "Roche",
    "title": "Playing walking soccer may help people with Parkinson's disease - www.brainhealth.com",
@@ -16567,6 +16589,17 @@
    "published": "2026-10-15T10:00:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "3e7fe3cbb00b00ed",
+   "company": "Rapport Therapeutics",
+   "title": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target - Moomoo",
+   "summary": "UBS Initiates Rapport Therapeutics at Buy With $71 Price Target Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1FfaExBZkFyNmFDSUZaV2FDdXctTHM0X09XWEhDaGhCdzV3dXJydXRpLUhkdlNNTG91VW54T0w0TGc3V0NXS1VUVmtDQlFfQWktOFVlVVRMVmo0ZjBBS1k4MHZFM1ZtTkIxUDU1WUx5MVF1bm4yYTMyVzJjQzV0ejlJUl9qQXpWMVhnU3V1aWdrdDNIUEdtUy1DZGdFcHhEdVBkaXluSGp0UQ?oc=5",
+   "published": "2026-10-15T07:00:00Z",
+   "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
