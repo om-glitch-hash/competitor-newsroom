@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:28:11Z",
+ "updated": "2026-11-25T22:27:13Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1841,6 +1841,17 @@
    "first_seen": "2026-11-25T14:18:57Z"
   },
   {
+   "id": "c5b5b705aa2f71cd",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
+   "published": "2026-11-25T09:33:32Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "3b06d9626c1b705a",
    "company": "Usona Institute",
    "title": "Pα+ Psychedelic Bulletin #235: Canada Outpaces U.S. on Ibogaine; Usona Pledges No Sales Reps; A Third of Spravato Prescribers Drive 80% of Volume; Will the VA Be Ready? - Psychedelic Alpha",
@@ -2411,17 +2422,6 @@
    "outlet": "The Manila Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T11:40:55Z"
-  },
-  {
-   "id": "c5b5b705aa2f71cd",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
-   "published": "2026-11-24T12:39:34Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "abc3733c888fe298",
@@ -6593,17 +6593,6 @@
    "first_seen": null
   },
   {
-   "id": "e3d6a25165be35fb",
-   "company": "Neumora Therapeutics",
-   "title": "Guggenheim cuts Neumora stock price target on obesity program outlook By Investing.com - Investing.com India",
-   "summary": "Guggenheim cuts Neumora stock price target on obesity program outlook By Investing.com Investing.com India",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTC1NMzZWSGV5a1FEUWJ1cEdrUmx4UW1oRW9qSGtTc0o3amdTT2Y2RU5JcEFfVEJZaDZ0R0RWRTJUYnZvR1FjZGJtYVZ5VzdVMWFrcktiNDJ5VThNY0tKbnRjT3kydXdwSEpUQnpmQWN6ckVvZGxaZ2dPNlpzVGt3cko4REFnWHFaRi1oaUpMbzJMbXRaWTgwQzAxV1pQOTNwRWdGcjBHdUdobTB6UjEwdm4xdE51TVFZTnVBQmIyTHRFVXNRcHpwc01R?oc=5",
-   "published": "2026-11-17T12:09:20Z",
-   "outlet": "Investing.com India",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "50dd461e21c252e2",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "HELP: Strong Phase 3 Data Keeps The Repricing Case Intact - Simply Wall St",
@@ -6712,6 +6701,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
+  },
+  {
+   "id": "e3d6a25165be35fb",
+   "company": "Neumora Therapeutics",
+   "title": "Guggenheim cuts Neumora stock price target on obesity program outlook By Investing.com - Investing.com India",
+   "summary": "Guggenheim cuts Neumora stock price target on obesity program outlook By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTC1NMzZWSGV5a1FEUWJ1cEdrUmx4UW1oRW9qSGtTc0o3amdTT2Y2RU5JcEFfVEJZaDZ0R0RWRTJUYnZvR1FjZGJtYVZ5VzdVMWFrcktiNDJ5VThNY0tKbnRjT3kydXdwSEpUQnpmQWN6ckVvZGxaZ2dPNlpzVGt3cko4REFnWHFaRi1oaUpMbzJMbXRaWTgwQzAxV1pQOTNwRWdGcjBHdUdobTB6UjEwdm4xdE51TVFZTnVBQmIyTHRFVXNRcHpwc01R?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "6e858dea1b2a6086",
@@ -7075,17 +7075,6 @@
    "outlet": "Benzinga",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
-  },
-  {
-   "id": "9ffc9d3da59d3a89",
-   "company": "Rapport Therapeutics",
-   "title": "RAPP: RAP-219 advances toward four Phase III trials and a monthly injectable, backed by runway through 2029 - TradingView",
-   "summary": "RAPP: RAP-219 advances toward four Phase III trials and a monthly injectable, backed by runway through 2029 TradingView",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNMmRDTEt2NWY0OFBOUjNFa19CeDhvY25DS05PMVlQMEN0UWxEMVV3WTEyYmZKZmgxVXRyM2tlOW4zbXdWS3h5LWpEWVhRekNhM2R3b3diSU9BaVhHZzhxODNNcXZYTkx4YW5QM183SnlKcDJkR1VtWUczNkJadW14ZUQxSGtWbUVXd0QyQVd0Q0k4NzFyNFQtZllBeFJERDJlekVLbTBUSnpjSWJ1NmdDQnZBZ3RVdjBZMmJyNEtlVVZ4N2V1UGp4UGRmTTNBSDk3OHdCU3V4TkNCaWZadjBCUlpDSWNhYmRSZUFKYWZncl9Tc2ZKOElqSGJlSlJqLVAyeVBncXV6MklfeXpOc1JrU2l3TXNHbE50dVFFbg?oc=5",
-   "published": "2026-11-16T18:04:51Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
   },
   {
    "id": "4e043edc03d77f51",
@@ -7979,17 +7968,6 @@
    "first_seen": null
   },
   {
-   "id": "1614d3002df4e0b9",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma Reports Second Quarter Fiscal 2027 Financial Results and Recent Business Highlights - Mon, 11/16/2026 - 06:00 - Helus Pharma",
-   "summary": "Helus Pharma Reports Second Quarter Fiscal 2027 Financial Results and Recent Business Highlights - Mon, 11/16/2026 - 06:00 Helus Pharma",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXpIU2ItcEJMSWJ0RENUUUtiWURvZGtHaEZSTnNDUzFLdmhDRE9JUGNFTk9YTGRXWWE1QTJVODQ1THR4X0c3OUNPZldTYVUzeU95d2ZWRTVuMVpOMFhvcWZKWHV3dUxfUjI5Z3pUcE5hS1RodjRENWRoTWJLYWVrcGdncUtkMUk1b0FoWGZRVWFOSEhJRmFIeDRZR19QU0sycWZuRzVsODFNa0Nadm9RNVFTMA?oc=5",
-   "published": "2026-11-16T11:00:22Z",
-   "outlet": "Helus Pharma",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "be570087f015b257",
    "company": "BioVie",
    "title": "Weekly Recap: Ascites backs Phase 3 and bezisterim AD/PD2027 talks - TradingView",
@@ -8108,6 +8086,28 @@
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9ffc9d3da59d3a89",
+   "company": "Rapport Therapeutics",
+   "title": "RAPP: RAP-219 advances toward four Phase III trials and a monthly injectable, backed by runway through 2029 - TradingView",
+   "summary": "RAPP: RAP-219 advances toward four Phase III trials and a monthly injectable, backed by runway through 2029 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNMmRDTEt2NWY0OFBOUjNFa19CeDhvY25DS05PMVlQMEN0UWxEMVV3WTEyYmZKZmgxVXRyM2tlOW4zbXdWS3h5LWpEWVhRekNhM2R3b3diSU9BaVhHZzhxODNNcXZYTkx4YW5QM183SnlKcDJkR1VtWUczNkJadW14ZUQxSGtWbUVXd0QyQVd0Q0k4NzFyNFQtZllBeFJERDJlekVLbTBUSnpjSWJ1NmdDQnZBZ3RVdjBZMmJyNEtlVVZ4N2V1UGp4UGRmTTNBSDk3OHdCU3V4TkNCaWZadjBCUlpDSWNhYmRSZUFKYWZncl9Tc2ZKOElqSGJlSlJqLVAyeVBncXV6MklfeXpOc1JrU2l3TXNHbE50dVFFbg?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1614d3002df4e0b9",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Reports Second Quarter Fiscal 2027 Financial Results and Recent Business Highlights - Mon, 11/16/2026 - 06:00 - Helus Pharma",
+   "summary": "Helus Pharma Reports Second Quarter Fiscal 2027 Financial Results and Recent Business Highlights - Mon, 11/16/2026 - 06:00 Helus Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXpIU2ItcEJMSWJ0RENUUUtiWURvZGtHaEZSTnNDUzFLdmhDRE9JUGNFTk9YTGRXWWE1QTJVODQ1THR4X0c3OUNPZldTYVUzeU95d2ZWRTVuMVpOMFhvcWZKWHV3dUxfUjI5Z3pUcE5hS1RodjRENWRoTWJLYWVrcGdncUtkMUk1b0FoWGZRVWFOSEhJRmFIeDRZR19QU0sycWZuRzVsODFNa0Nadm9RNVFTMA?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -14495,7 +14495,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -15708,6 +15708,17 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVVOeEdMUzNTOEpGQ2FseE9yTUVHMERaSnVEbEl0VnhlXzgtcEhXMnltdl93bUtmSEhXZTZGdUpnNGRPMXJ4MFdjTE9VN3lMcE1ubjJPTC1NT3BrQW8ybG9oZUFmbzhEMTl6MGlvYTdyZE8zYm0yeGc0QjdRR3d0MGJ0WE5sLUpYb3V4WGR4UzdkVU5lT0JjZm1mZXc1eVRvTWJaWXo5U3VrLTByWDNIM21B?oc=5",
    "published": "2026-10-27T07:00:00Z",
    "outlet": "scanx.trade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7231c40dcebe15a8",
+   "company": "Remepy",
+   "title": "Michal Tsur - Co-founder and Co-CEO, Remepy - yespress.io",
+   "summary": "Michal Tsur - Co-founder and Co-CEO, Remepy yespress.io",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kOTgwMTZ2SUhYZDNCUklNcXBCOU5zTFdWX09nMVVMZDROSzhGcmFDUmFfSDhtZlB5a2hkTTBVeXNqMklidEE?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "yespress.io",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -26244,7 +26255,7 @@
    "title": "ACIU Stock Heads For Best Day In Over 10 Months On FDA Fast Track Nod For Parkinson’s Disease Therapy – Retail Sees ‘Breakout Soon’ - Stocktwits",
    "summary": "ACIU Stock Heads For Best Day In Over 10 Months On FDA Fast Track Nod For Parkinson’s Disease Therapy – Retail Sees ‘Breakout Soon’ Stocktwits",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzVvZU5pd2E1R1B1U2hONGpUV05jdmF2eGUxdmVLMldhV0lOek9lZE5ZS1FmWnpBcHZ0UDJkWjlEZlhqQzNWWGFDdTdjZnVzWVJCLWdnSGpvcktIbV9sT29xTDhCZV80OHM2T05aQmZfa1pzc2VCQjZHaFRaNVMwZUotNGlJaEFOOFpBTWIwaHhzbzlmN29XREdBdw?oc=5",
-   "published": "2026-08-11T16:22:57Z",
+   "published": "2026-08-11T07:00:00Z",
    "outlet": "Stocktwits",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -28989,6 +29000,17 @@
    "first_seen": null
   },
   {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
+   "published": "2026-07-23T09:38:46Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "cbddd078a7b989f3",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Announces Key Leadership Hiring, Promotions - neurocrine.gcs-web.com",
@@ -30514,6 +30536,17 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDE1TDVMajV4RGFmSXVWeWhBZWRfRHNhbVN0X0JUWDc2UHl6eXEtN0NTLUtDZ2NFbHNaYUNOekFybnF3ZnhHLTlaNm5VWVMwdEhRdDJzaEZlaF9ZT3dLVDFsMGxzM2JkLTNtUTBIU1B0S0xCRG53eFVqRHVZaEx4R0hWLVZZdw?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "bc13055c6a683e53",
+   "company": "International Stem Cell Corp (ISCO)",
+   "title": "International Stem Cell to Sell Lifeline Cell Technology to ATCC for $25 Million - TradingView",
+   "summary": "International Stem Cell to Sell Lifeline Cell Technology to ATCC for $25 Million TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT2JGU1NGWk80d0VLbWgyWGdkMnZwaDZ3MkpXY3Exb00wall0Y0FtNzZYR3NFWjM5eXB5WFdQM2R4RzRwLWxRblU3b3N6d1BuNXJqSWRfWnEwbnhHMmE2V0ZKX1JqbFlNTmlXYzUyREkwLW1MbVh6SXMwbnJLOTI1TDVjTk9BVEhOQ1l2X0lKSlBxVzg5RWtqQTNmWUNERHhOLUFfZEZyb3M5U3hkOGVYQ0ozTG1XV0djVUswRGdPTkFaVXZLdXA2cVVRNlNyN280OWIycEVuQWw?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -42747,17 +42780,6 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
-   "published": "2026-01-29T10:15:29Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
