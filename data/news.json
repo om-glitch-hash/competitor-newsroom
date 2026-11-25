@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:33:50Z",
+ "updated": "2026-11-25T16:46:38Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1665,6 +1665,17 @@
    "first_seen": "2026-11-25T15:33:50Z"
   },
   {
+   "id": "dfc39c80a27582f4",
+   "company": "Lundbeck",
+   "title": "Lundbeck faces steep US price cut on top-selling drug Rexulti - MedWatch",
+   "summary": "Lundbeck faces steep US price cut on top-selling drug Rexulti MedWatch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vN2FxdnJWTjZ0NkhEZ3kxSlpMOFdFNmF1a1FCbElVQ2ZJMXRxeGdqUmRTNVplQW1TOFhvRk55X2V2cGtyTktnZ0Z1NGd2cEFYWnZwWnZXQkZWQmtUN0ZUUEZXN05sVnZLR2YtcE4wQQ?oc=5",
+   "published": "2026-11-25T14:46:17Z",
+   "outlet": "MedWatch",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T16:46:38Z"
+  },
+  {
    "id": "96493517b751d15d",
    "company": "Vanda Pharmaceuticals",
    "title": "FDA Trade Secrets Issue Remains Open After Vanda Ruling - Legis1",
@@ -1674,6 +1685,17 @@
    "outlet": "Legis1",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T15:33:50Z"
+  },
+  {
+   "id": "3b843ef869cb5844",
+   "company": "Novartis",
+   "title": "Therapy Area Head - Immunology & Neuroscience - Novartis",
+   "summary": "Therapy Area Head - Immunology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTl6b3JCVldBUHZjT0dFc252WUpPVHdqbjBLbll3cFhnMG9ORk5vNVhQS1hjN2FsZF9NVUxXdFpCOFBPRDh2RmNhN19lZktjMDh1OXp3WXlrenFPNWFwQUt4aW1ONWtCU2xBbDJNaVJzb3VLeXVBVm9KNGVLN1RxODRjX0NNQllyTDI2eERsTlc3ZXRyaGR0LWRrQXdpand3WWRBYllHY3NSV1g2dDNISFA2TDZUUUppdHcw?oc=5",
+   "published": "2026-11-25T14:35:09Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
   },
   {
    "id": "d9e170226addfcb0",
@@ -9571,17 +9593,6 @@
    "published": "2026-11-12T06:50:35Z",
    "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "3b843ef869cb5844",
-   "company": "Novartis",
-   "title": "Therapy Area Head - Immunology & Neuroscience - Novartis",
-   "summary": "Therapy Area Head - Immunology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZWF4ZXF4ZW11TkNkZ09YUXNkaFZGckY3LU9fczRuOVI3WTU5U2N2Sjl1N1E4V0ljcVJmUWprLVhEVW5XdmhncFcwdFZkQmVDUzZYTmVFaTdGUXQ0ekpPNF9lbTZzcGxUVmEzWmcwMDkxV3RlRjNYSjdKZFlsZUYyeTM3OXpseFFJLXB1U3ZIT1RwaDRjeTRwWU9nYmxscjhLV00weGc2UEY4Q0ZHdVUyYWR0YXdleE9tTFZF?oc=5",
-   "published": "2026-11-12T04:22:38Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -22851,6 +22862,17 @@
    "first_seen": null
   },
   {
+   "id": "e966dd92e894fd16",
+   "company": "Roche",
+   "title": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) - Roche",
+   "summary": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) Roche",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2l4Nk5DcF9sSjctS0l1X3RUeHk3UE9hS2h1dFNTOHExcEJuX0MtNzlFNmc5S1FzTzB1aEctRXpjMzM4OTJNUzhXcndxSjhUTkxaeEw3eXg4YjRFbkxGRmdKQjdmRVZCZUxEOFVqLWEwSkZSLTQwYTY0TEFLTW1EMUZUajF0a0tjamYzYlBtZXluRHRQeHFCSnhpejhZWmlkZ3E3a045LXRxZG5ocmVtU0paOGwtUmtXUDVyWm9lU3B6c01lZEFjQ214N2t0a3lVSnROWmFJMVJhQVJpQTF0d0Nnaks0UQ?oc=5",
+   "published": "2026-09-09T18:43:44Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "4c29b8f138e7b917",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson data presentations at the 2026 Psych Congress Annual Meeting: - Johnson & Johnson",
@@ -22980,17 +23002,6 @@
    "published": "2026-09-09T07:00:00Z",
    "outlet": "BioSpace",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "e966dd92e894fd16",
-   "company": "Roche",
-   "title": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) - Roche",
-   "summary": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) Roche",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdXNCejNpUjlod3R2RjFsQVh3NC1sRzlkRHZ0anJyY0I1UWh0b0o3clgzVDVkYkdJY3diQUtYNkhVZ3IyUEpjVDExY1NwZUdKRjNxS0hJZDJGWHdaM1NlZzVrbDgySUdhQkNnZk9nT2JWU0tZSWk2aXQ4N1k1RkhwQjlpVWZ6RjBwem9qblRlV1ZKNklOOC03M2dJOUhwR0dqX1ZCSFdEcEN6OXlFUGZ6N3NzQm9jdWQtT1NJRXdtVTFMb1F1ZGhlazY1dXVrM3ZTV29xREMzMk93ZzE4cmZZcUlsNE9XUQ?oc=5",
-   "published": "2026-09-08T16:06:25Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -24540,17 +24551,6 @@
    "summary": "Jennifer Buell, Ph.D. Protagenic Therapeutics",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOemFxWjFHVUtFTVJ4cTctZEZFdWV5NWhTV3ZvSkpPeE9xc1lkSml0UDI1dlZXaE9NS2l3SzdpU19wbGtWOTlYSjluUndwc3hGRDdzSg?oc=5",
    "published": "2026-08-23T05:53:12Z",
-   "outlet": "Protagenic Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "d45c9127ff193dfe",
-   "company": "Protagenic Therapeutics",
-   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
-   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rbEJYVVpIYU9xX1VZa28wOTdDRUxIdkFrMTdCT1VDUS1OYnRNbmdvWTZlenY3Mk5XSXlQNVprTFNIWDNOc2pxSzZhUkExYklscVE?oc=5",
-   "published": "2026-08-23T05:44:04Z",
    "outlet": "Protagenic Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -28846,6 +28846,17 @@
    "first_seen": null
   },
   {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
+   "published": "2026-07-23T09:38:46Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "cbddd078a7b989f3",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Announces Key Leadership Hiring, Promotions - neurocrine.gcs-web.com",
@@ -32564,6 +32575,17 @@
    "first_seen": null
   },
   {
+   "id": "c5a48be2dbe67c15",
+   "company": "Transcend Therapeutics",
+   "title": "Otsuka closes $700M deal for psych drug maker Transcend - Crain's New York",
+   "summary": "Otsuka closes $700M deal for psych drug maker Transcend Crain's New York",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGFFb0lXRUktUlhoZl91QkVqbGlIdE04QWZ6QXk4S3Z3cjgtQXNyMjB4Rk9wbFJZaklPYkJBSElSQ0F2NFJuZWt0QmRiRkc2R0thaEs5VTRiNm1qSEg3WWoxX0VoWmdrMWxhQ3RWQjFsdUFiTTNaeUhSeW5fVWl3RVdfUDZiTTl1WldOZlM5aWcwLTRzQTdMbUJ3?oc=5",
+   "published": "2026-06-18T07:00:00Z",
+   "outlet": "Crain's New York",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "728d5fc1ce14f74d",
    "company": "Luye Pharma",
    "title": "Luye Pharma Announces First Subject Enrolled in China Phase Ⅱ Clinical Trial of LY03017 (5-HT2AR/5-HT2CR) for Alzheimer’s Disease-related Psychosis - Press Releases - Luye Pharma Group - 绿叶制药集团",
@@ -35454,6 +35476,17 @@
    "published": "2026-05-15T06:47:07Z",
    "outlet": "Being Patient",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d45c9127ff193dfe",
+   "company": "Protagenic Therapeutics",
+   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
+   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxeDQtN0l6ZERYZ2RGbVBlZGY4TzJmS3VfS2RvVEFZOTc5ZF9ObFVRUGVpNnZmUExOYlBlTGxFcHpZUWFKTWxLY24wVmV0cDMtMld5a25LTQ?oc=5",
+   "published": "2026-05-15T01:07:39Z",
+   "outlet": "Protagenic Therapeutics",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -42527,17 +42560,6 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
-   "published": "2026-01-29T10:15:29Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
