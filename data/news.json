@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:23:02Z",
+ "updated": "2026-11-25T05:32:58Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "4e8c5c3ef9e20737",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (NRXP) Stock Still Looks Expensive Following Its 97% Five Year Fall - Simply Wall St",
+   "summary": "NRx Pharmaceuticals (NRXP) Stock Still Looks Expensive Following Its 97% Five Year Fall Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNW1WcGpuX0txdlRNWl9sSjdPZGM2aWtrVFJVeVdwTEtsWWZybHlDM25qSkI4YW83NWFrT0hXMFh4aHg4TUNtM3RhWDY1bjhuWk1RZjkzM0ppQjZTRHJLNTJJQkVYS0lHT0NhNWEydVgzTjBDLVlfZWVTUDBhWjkzY0M0Q05fMW15cXktNkxldVc5X0RtcFlTRmRRR1h2QmxNenhrbW55enFqeDFYMGFubS0xemZWS0tzRU1VaWZLM3ZNMW9lVXVSZHFZYUdtaHg3M19VLTNqV2txbjdVSGZDOUxTTkpTN0ZD0gHuAUFVX3lxTE1CcWMxWVhjc0YtTXhZTDFMWWdMUzhjcmtabHVZdFlQbmlGaE14bkRQVmRGYUZDVkZNX21UM09TZGo5Nl92ME1DWUxLbFlPUm1Qa3hlLV9ObTZrbUN6QkFKNElPSkowallxLXNhWUoxRnU4WUo0MnlHcldYeDdSb3VWR0EtcEpHbG1scVB0NFBSTVB1cnN6amF1R3Q0eEhiSndDWlBwTnRsMDJGeWdVWUZtR2lZcHdycEQyeXVKT3ZDREsxN0hCV2Q2dmMydUdOeE9WQjFzSVFUcmJTazQwTzVnemFnaGJXdTgzSWtaakE?oc=5",
+   "published": "2026-11-25T04:23:40Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T05:32:58Z"
+  },
+  {
    "id": "313796eca4104399",
    "company": "Eli Lilly",
    "title": "Associate VP – Medical Development – Interventional Psychiatry - Lilly Careers",
@@ -1885,6 +1896,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "275c4f07c5413290",
+   "company": "Novartis",
+   "title": "ESO Regulatory CMC facilitator - Novartis",
+   "summary": "ESO Regulatory CMC facilitator Novartis",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWZVWjJFRXhRODlwOXFmQ1NzVzdZZUZYdFdnUW9nSF9TUXRZUU9RWXByMnhzWVZaZ2VqT1J0Z0QxWnBrOXltNWI3a3gzc0RFd25NV21kVXBvd1lnVDVYV19QZ1QzaFZpSXpZTlB1dVZrT3JnMlFlMVRqQ3lMZXNod2Zoa1BxaDlBbzFNbTI3NXhkbXRES1hIeEV6ZHQzLWQ2MExPOQ?oc=5",
+   "published": "2026-11-24T15:12:38Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T05:32:58Z"
+  },
+  {
    "id": "4930feed9a498f4a",
    "company": "Boston Scientific",
    "title": "Trial primary completion changed 2027-06 → 2028-02: Automated Image-Guided Programming of Deep Brain Stimulation (DBS) for Parkinson's Disease",
@@ -2114,6 +2136,17 @@
    "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T09:49:08Z"
+  },
+  {
+   "id": "80e159ad19d42bfa",
+   "company": "Incannex Healthcare",
+   "title": "StreetInsider.com - StreetInsider",
+   "summary": "StreetInsider.com StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fQVNlRW82RkNRVDJsT29ScS0xTWxyTFZ6aXNEMWlXSWlOSkszS0NRNHQ5Z0swUm1XWFlNeEc2YlRILXp5dEkyU0xkQ1dqN19jTXMwOTFwTkZGbXNtUE12cEV1aVlkOUNP?oc=5",
+   "published": "2026-11-24T09:43:24Z",
+   "outlet": "StreetInsider",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-25T05:32:58Z"
   },
   {
    "id": "a0b0a8544c450aa6",
@@ -5304,17 +5337,6 @@
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T15:26:15Z"
-  },
-  {
-   "id": "d7b8a2f31b7b13a5",
-   "company": "Alkermes",
-   "title": "SEC Filings - Alkermes",
-   "summary": "SEC Filings Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOX0ZLNXQ0RDNfT0Z0WFd4aUNwQVZ2a1BocTA1UTlfanNUME9lUFl5TVZQMTh4dEgxQlpUdU16LVRndEpfZ1RobmhWVVlGM0d2VHBlVEh1cXlpeDJYTW4ySEFnN2s5VW0zRkV4bF8wdUhFUTlzTmVnT1BqQ2swbkRqa1pVd0Vya2tuNkNVSE9QVHNFUVFseHk2MlJhaGxocUwyZTM2SnU0bzJlU2VZbS11N3pIOTR6ZVlUZm1CWVBMX1R4LV95UFZlUXhPdlVxejJwWk5DUEdFalFUWXhpd3ZCSXp0dHZqOEJ3RzNoNnhpV0p3aTF5NmVpQmY2ZHoxd014YlhxaHBjUTR1WWJZZnFHOXc2Ujc?oc=5",
-   "published": "2026-11-18T05:57:17Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
   },
   {
    "id": "ebbe1cb3a86c04a2",
@@ -8925,17 +8947,6 @@
    "first_seen": null
   },
   {
-   "id": "840bb9adcb226723",
-   "company": "Incannex Healthcare",
-   "title": "IXHL Q1'27 Earnings: EPS estimate is (0.51) USD - TradingView",
-   "summary": "IXHL Q1'27 Earnings: EPS estimate is (0.51) USD TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFNUNzFKZWNUM0JzdGx0THhmbktYelNCOUVmV1pXbUY2R3FmRlpCdUlIYnN3Y2w0MDdWWjg4c2w4NnFKR2FNZGxucld3RWxOcW9CaUFmc2tJNVR0allkRFh2V0pRN2JXaGZWQWgzNERNcS1qTWNQUnlsMEtwZVJTcXhTT1N4SmtCeDVPNHVqS2pqZkRSa2VlTXdRUThqODEybzlEV1BYbnAxQQ?oc=5",
-   "published": "2026-11-12T12:00:05Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "f040d368a6d004e1",
    "company": "Xenon Pharmaceuticals",
    "title": "Analysts Offer Insights on Healthcare Companies: Xenon (XENE), Veeva Systems (VEEV) and Liquidia Technologies (LQDA) - The Globe and Mail",
@@ -8976,6 +8987,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "840bb9adcb226723",
+   "company": "Incannex Healthcare",
+   "title": "IXHL Q1'27 Earnings: EPS estimate is (0.51) USD - TradingView",
+   "summary": "IXHL Q1'27 Earnings: EPS estimate is (0.51) USD TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFNUNzFKZWNUM0JzdGx0THhmbktYelNCOUVmV1pXbUY2R3FmRlpCdUlIYnN3Y2w0MDdWWjg4c2w4NnFKR2FNZGxucld3RWxOcW9CaUFmc2tJNVR0allkRFh2V0pRN2JXaGZWQWgzNERNcS1qTWNQUnlsMEtwZVJTcXhTT1N4SmtCeDVPNHVqS2pqZkRSa2VlTXdRUThqODEybzlEV1BYbnAxQQ?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -17285,6 +17307,17 @@
    "first_seen": null
   },
   {
+   "id": "d7b8a2f31b7b13a5",
+   "company": "Alkermes",
+   "title": "SEC Filings - Alkermes",
+   "summary": "SEC Filings Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQcU52dUI1c3pkTGJqWW9KNFQwSXJvc3lsN2lDWkNpWElvX0hTYktmNUp4UzRva3NYNlJwdDA4V0JrMEw0U1pWX3c2Z1UyV2VhMjdXWWZCek5lY19TRTBMR0pVRzBsUWtkWGJGcVFTZUlnbHRZU3UxZ3J2MVFSVlQwOGh6dzgteTd6aVJaeVhWQzdRZzFGSmFydjlnYV90d2twTWxiZllpMDBJY24tUmNBdVlXMjA5MEFkdy1UOEd4LUVlOTRvN2syUnpQRy0ya1ZnRnRISVhNNGs3T0MwNzBPSmpHTENkS25laFhHT2RZWXNMTDl3WTF0X3BZMjd2QUtWdG93X2ItNUprZjktenduMUMxbEY1UnROSzRidTVIdS00YjYxTWpSRmJSNTNXM0VOUW5YSDAtZkdqTS1IZXlXWW5la2xReHRYNDQ3TDR4U09MS2Vhc3FPUWxaeGY0Ykh5Z0JxT01CTDVJczBCRWpGWmp4RUtLMm1mVFVvOHUwUFl3X1B4a0Fpb0d1WkExU0padm54LW5iaExESTNfZWc1RWU1aHZIY0lHejZzSUJ2SVlqNW9nS0dsUjl3S04wdw?oc=5",
+   "published": "2026-10-10T16:43:20Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "2736c821b567be15",
    "company": "Teva",
    "title": "Israeli Pharma Giant Teva Wins FDA Approval for Monthly Schizophrenia Injection Weltruza - Haaretz",
@@ -19041,6 +19074,17 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTV3R2k3NmJoUWNKbGpHZEZMVy1OaUFRSkF6SlY0VDFGN0lfR0toSE5RRFdIQXk1WjhsbGsyR0FpcVQ2RlRsWERkMHdYMVRMMlViMW9UYnZxOUJTdDFkeTRKWFlNVE1QdFNhS1pVZ3BBNXI5UHJiYnpJNEVyanF4TTN0NWZRdTYxYjNqbVZyWjE0eVNfWGZFakZIS2tBVE1iNS1MR3BYRWhzTFNIbGJkSUg0MVdneGNmajNQYVdZOA?oc=5",
    "published": "2026-09-30T07:00:00Z",
    "outlet": "BioBuzz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "01357e72c5826ce6",
+   "company": "Newronika",
+   "title": "Newronika Announces First Participant Implanted in ADVENT Pivotal Study | Corporate - EQS News",
+   "summary": "Newronika Announces First Participant Implanted in ADVENT Pivotal Study | Corporate EQS News",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNGc3R1kxR2lqS0xLcjBCMlBhSGhRbVVDdk5Rem5pRHVpSnRyelpad2lzZzlPeGVyR0pVSGFPM05IamNnVnhBQ1BlNWo5UW1kbHZ1Q2RyMWtxdzNoNnZ1MVJCR0tzbkJ0bG4yQ21tMk1hajJkUE45UVA0a2xJSm9CbWVEYjBWRjFSTW9GSlJPUkFyLUg2Z1R6R2xqTmlQcUttRm4zdmJvYnJWU0dzWlNqTGdQR0VIS1BBX05KYmNOUnNFSHhES3J2THQ4bWdrc1VrVDUzY1lRR0FhbklmcUloLU1ZYUkzVmVwYlE?oc=5",
+   "published": "2026-09-30T07:00:00Z",
+   "outlet": "EQS News",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -21949,17 +21993,6 @@
    "first_seen": null
   },
   {
-   "id": "e966dd92e894fd16",
-   "company": "Roche",
-   "title": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) - Roche",
-   "summary": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) Roche",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOHBydjJDV3J5RnZnX01XbzhPMkUzV2J0anJTYURwbzNhcS0wWndkOUJPaDNoOTZOeEpmVGJkM0ZkWG51ZTNBMWlPR19RUURTWWRib1pmdktBYURhZTF0NzBTbDFOdDN3UWp5aWt3Vnd6THMyNzlUR2NuamNkdXc3ZlpTMEs3Yzh4TWY1clVVSkZrRTlOdzczU2FuWG51RGFvSXkzTGFUbHJidnRKREtWejBBVmhxaVhjMHJvUXgtU0dwOXB5aFMwRmV2VXBMRFhTdWtyTk9wX0d4ZzQtcVMwbTFPNEhTNU1rZWtEbmkxeGxYbjNfOUxYNVJWZV9za2tqaVNUZnM0cDBiZDBR?oc=5",
-   "published": "2026-09-12T07:00:00Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "7846254fad3a15c7",
    "company": "NRG Therapeutics",
    "title": "Queen Square MND Centre 7th Annual ALS/MND International Symposium",
@@ -22385,6 +22418,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkNoZDZaQVJJYkZEUGUtUFpESjJqbnc3VUE1eVZVMjBjenRPb2E4RTdfVmplVmY0ckFYSjJyaVBlRGg1ZG9kWVhBTW96eklWeU96eEdXelJITUtENEk0U2FaWkRBekZJdHlOSE5GMW1MQl9Obk81UkxRTlRoR0Q4LVdBUFVrLUJQSGRzWnVSVzc2UmtJdFROVTRiMzNxdlVCUFpBUk5BTnFHaWc?oc=5",
    "published": "2026-09-09T20:09:03Z",
    "outlet": "Insightec",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e966dd92e894fd16",
+   "company": "Roche",
+   "title": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) - Roche",
+   "summary": "Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease - Freelancer (m/f/d) Roche",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2l4Nk5DcF9sSjctS0l1X3RUeHk3UE9hS2h1dFNTOHExcEJuX0MtNzlFNmc5S1FzTzB1aEctRXpjMzM4OTJNUzhXcndxSjhUTkxaeEw3eXg4YjRFbkxGRmdKQjdmRVZCZUxEOFVqLWEwSkZSLTQwYTY0TEFLTW1EMUZUajF0a0tjamYzYlBtZXluRHRQeHFCSnhpejhZWmlkZ3E3a045LXRxZG5ocmVtU0paOGwtUmtXUDVyWm9lU3B6c01lZEFjQ214N2t0a3lVSnROWmFJMVJhQVJpQTF0d0Nnaks0UQ?oc=5",
+   "published": "2026-09-09T18:43:44Z",
+   "outlet": "Roche",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -23133,6 +23177,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wa0xqLW9Lb3ZuWWZxSFl4OUI4dFV0S2NIR2tydWtIeVJ4Y0FRLUhOV1ZhNXJ4ak0ybHhvZGlKNTdaY1l3RGd1SVlOeExSLWpXUGsyRzZQbEs2M0JMc2RJRHpxMVhNYmlRbW5HS1ZGZw?oc=5",
    "published": "2026-09-03T07:00:00Z",
    "outlet": "medwatch.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "6532937ced0bc8d1",
+   "company": "Lundbeck",
+   "title": "Lundbeck moves from rebuilding to “scaling phase”, Jefferies says - MedWatch",
+   "summary": "Lundbeck moves from rebuilding to “scaling phase”, Jefferies says MedWatch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wa0xqLW9Lb3ZuWWZxSFl4OUI4dFV0S2NIR2tydWtIeVJ4Y0FRLUhOV1ZhNXJ4ak0ybHhvZGlKNTdaY1l3RGd1SVlOeExSLWpXUGsyRzZQbEs2M0JMc2RJRHpxMVhNYmlRbW5HS1ZGZw?oc=5",
+   "published": "2026-09-03T07:00:00Z",
+   "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -27588,6 +27643,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1YwejdzVWpMTF8zWEl4Yk4zcEdPaDltOUxxS0FlR0V5eXFfcUtnVmI3MXpBU0hma0s0M1JLZWN6Z1E5aVZLa1EzcGU1Sms3OHVXdTUxTllHdlEzQVhEWFB5MjRQMG56b3d6cGwtZVF1dExlZW1VQ2h2LU5RWENhTDNubVJ0SGpqYkdEeWJFUmtoWG9CVjkwelhKZTdPUmNybVJtVU8xZ2toNW45Z3NsMFkyQmpQcGdfTWhoa0VVVHZnQQ?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "Fierce Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9fd5dcb559d83679",
+   "company": "Idorsia",
+   "title": "Idorsia Q2 Results: QUVIVIQ sales up 62% YoY, loss widens - scanx.trade",
+   "summary": "Idorsia Q2 Results: QUVIVIQ sales up 62% YoY, loss widens scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVVmbGRJUXJaU1o0blRPSTU5VVptOEhFV2N1c0owWmc0ZU1lYVpjRTJJemVyaVdZdk1iQzY2TjEyaUhLa0JueXVWQmtYYWEzWm1YXy1qemVoUVUxc09lUWVmWl9EeEVlNTdNYlBnOEZhc0I0Z21Eb2Y2X3NFNHF4N0hHR0dINzdCUmpTdDdlY3BBaDZTWUVPODVMVGpqdlNFTnNvbXNvUG5Za1UxWmRjcg?oc=5",
+   "published": "2026-07-29T07:00:00Z",
+   "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -41606,6 +41672,17 @@
    "first_seen": null
   },
   {
+   "id": "4a0815c87bd8b505",
+   "company": "Lundbeck",
+   "title": "Lundbeck CEO on crucial price negotiations for blockbuster drug in the US: “We are prepared” - MedWatch",
+   "summary": "Lundbeck CEO on crucial price negotiations for blockbuster drug in the US: “We are prepared” MedWatch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pbDdUcEgzRGUwbnNiVE9GWWhlcXRISVluSmIzN0hJdW1UN21zUWpSenlvQjQ1U21GaHdhRVRvaVJSV215OExfaktqS2hUM2hOTERnQXRmMkFnMTNyTW1iLW1zNVZucTdUZGdRNjl3MA?oc=5",
+   "published": "2026-02-05T08:00:00Z",
+   "outlet": "MedWatch",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "210640d6bbe0e74b",
    "company": "Rapport Therapeutics",
    "title": "Expanded Access Policy - Rapport Therapeutics",
@@ -42626,6 +42703,17 @@
    "published": "2026-01-12T08:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "a34ed47f6492d8b7",
+   "company": "Roche",
+   "title": "Untitled - Roche",
+   "summary": "Untitled Roche",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTUTVxbXBQYTV6dGViTXVreDFxQ0JHa3hxYVI1TnR1Yy1Ud2VKaDVvUFRBWjVTd210bkd4TTZpUXlzYkFNUmg5OFZNZUlBaEYtbk00aVpTN1piNXV1WlRFZEZmUVJ1UGp0X0x1U0RJdWpGOHhBeXlBNGdn?oc=5",
+   "published": "2026-01-12T08:00:00Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -44048,17 +44136,6 @@
    "first_seen": null
   },
   {
-   "id": "a34ed47f6492d8b7",
-   "company": "Roche",
-   "title": "Untitled - Roche",
-   "summary": "Untitled Roche",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kMWUySnNuZzcyWnJEZ2h2VUdMaXg3U3dibjhHZWFhblZCNGFaWHExNG9xOFY4UUZBb3F0TVlqR09LbEpEcVE?oc=5",
-   "published": "2025-12-18T08:00:00Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "00e1f1eb15e1bf71",
    "company": "Annovis Bio",
    "title": "Annovis Announces Open-Label Extension Study for Parkinson's Disease Patients - Annovis Bio",
@@ -44628,6 +44705,17 @@
    "published": "2025-12-05T08:00:00Z",
    "outlet": "Xenon Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "5a21915b31c003fd",
+   "company": "Cerevance",
+   "title": "Cerevance Showcases Positive Phase 2 Results Demonstrating - GlobeNewswire",
+   "summary": "Cerevance Showcases Positive Phase 2 Results Demonstrating GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQX2JIbHVSckxiQ3lITmYzUmtiZy1ZS3hoSXQ1RzdUTkoxRjJSUTl5QlIyUmE4UC1lWURKM2ttYkRWekpzUG5GaEM4OTAxMWxYZ04yUUF4Szg3M00yWlhheXRZaUJCRWZ1TzYwclZOb2dfUTVBekZ2Zmp4M2l1QmFRa0RSTzBDVFlkd0o2X0xqeXlETXJpejlON29RSjlGX3V3RnFud3JyTjhub3N3RkNfd25zTVVhY0ZCUThGUVZvZmtSbEdCMzZTaGczVEwyR3ZrS2hrMWpaLXh6alprT25fbnJsdkczRGk1Y0lXQXFGb1FnbktQYjZkWFpSNmJQVnVudFlqUEtBOVlDdFptbEhDa1RYa1NtV0V6emJNOXJRLTd4UzRlUUo3WDRPWklKOXVLNXVsZXF3Z293SDNOOXkyeEV5M2FGNTc3VG5HOTFEOXU?oc=5",
+   "published": "2025-12-05T08:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
