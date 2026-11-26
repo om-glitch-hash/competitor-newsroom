@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:29:35Z",
+ "updated": "2026-11-26T15:33:41Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2248,6 +2248,17 @@
    "first_seen": "2026-11-25T05:32:58Z"
   },
   {
+   "id": "313796eca4104399",
+   "company": "Eli Lilly",
+   "title": "Associate VP – Medical Development – Interventional Psychiatry - Lilly Careers",
+   "summary": "Associate VP – Medical Development – Interventional Psychiatry Lilly Careers",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVQzYmFhYVlzYm9QeUdJX3hvUHZGdDJ4aVoyWFd6UE82ZDdtNTNHSzlsWERramc3M2FBb19SUEdhV1Iyb3k2TWpwX2IwS2lWRDFqSmUxbUhOWUpmR3RleTB3Tjg0QUo1eFFlVXZ0cEVTRVNFVFl4cm1raUJLeVl3eWhMV19uOF9OeVo4NWhyTDE5YTc5SXpjaEMzMnl3ek92VS1LTWp3?oc=5",
+   "published": "2026-11-25T03:40:22Z",
+   "outlet": "Lilly Careers",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T04:23:02Z"
+  },
+  {
    "id": "339ed6c531e1bdf1",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -2257,17 +2268,6 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
-   "id": "313796eca4104399",
-   "company": "Eli Lilly",
-   "title": "Associate VP – Medical Development – Interventional Psychiatry - Lilly Careers",
-   "summary": "Associate VP – Medical Development – Interventional Psychiatry Lilly Careers",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdExoMjVMVzhNb2hDb3JXblNXaE5qbzZFdTlMRUduRi01TWhHWmxJRldaQVpyOHp5cGF4T3piZ3FiRTZSX2VyaTJGUmEyQXpBSU91YjIyU3U5RTBJM3lxQVBNb1hMdWIyWFNDX2NkSFc3ZUVIaHg3SXl5clZ1YnIzcVpKT1BvTE11SmZQbEhwQlhmVThSQ2FEUU5EWndfNG1sT296bjRycFRBbkU?oc=5",
-   "published": "2026-11-25T02:40:22Z",
-   "outlet": "Lilly Careers",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-25T04:23:02Z"
   },
   {
    "id": "f2b29d94c29cdbcf",
@@ -6670,17 +6670,6 @@
    "first_seen": null
   },
   {
-   "id": "7fbb14c30eb6792c",
-   "company": "Neumora Therapeutics",
-   "title": "Mizuho reiterates Outperform on Neumora stock, $3 target maintained - Investing.com",
-   "summary": "Mizuho reiterates Outperform on Neumora stock, $3 target maintained Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVlMVjNtVTRUak1YWlV0NUF0RGhNdGgydnRMZ3ZRUXR4THpZUlo4UENDYmdBZ3YwODlYX2RVZnNVQU9ORkFKZVRkR0pVMmJ3LWUxTE5HcncwTnVNRlBrWTJWNXdiTURuYkYwVFlTUXM3aHoyOUJVbkxkNFFOYVVtM0xnVmh0cEdrYVlzZklsbElJTV9HWDBHdmptdURHelpTVTJOMS1LSm9rQUFBX3VNTVlDZVJicElnOVN6QVNTcHJ6OTA?oc=5",
-   "published": "2026-11-17T13:59:43Z",
-   "outlet": "Investing.com",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "15982b3876665931",
    "company": "Annovis Bio",
    "title": "Annovis Bio receives second positive safety review for AD trial - Investing.com",
@@ -6987,6 +6976,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
+  },
+  {
+   "id": "7fbb14c30eb6792c",
+   "company": "Neumora Therapeutics",
+   "title": "Mizuho reiterates Outperform on Neumora stock, $3 target maintained - Investing.com",
+   "summary": "Mizuho reiterates Outperform on Neumora stock, $3 target maintained Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVlMVjNtVTRUak1YWlV0NUF0RGhNdGgydnRMZ3ZRUXR4THpZUlo4UENDYmdBZ3YwODlYX2RVZnNVQU9ORkFKZVRkR0pVMmJ3LWUxTE5HcncwTnVNRlBrWTJWNXdiTURuYkYwVFlTUXM3aHoyOUJVbkxkNFFOYVVtM0xnVmh0cEdrYVlzZklsbElJTV9HWDBHdmptdURHelpTVTJOMS1LSm9rQUFBX3VNTVlDZVJicElnOVN6QVNTcHJ6OTA?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "e3d6a25165be35fb",
@@ -7405,17 +7405,6 @@
    "outlet": "Investing.com Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "f78b8c4400890b45",
-   "company": "Teva",
-   "title": "US FDA approves Teva’s Igalmi for at-home use - The Pharma Letter",
-   "summary": "US FDA approves Teva’s Igalmi for at-home use The Pharma Letter",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNczFRR0dXMEJFNVh3a3BXRmhwa0otWFpfaE1Ga1VDazRoam8zeG9RbHA5LUxTN2puODY0RDUzZkRwSl9WTGhlbzc4aktlNGh3NHJpaV9IZVpKbi0xSzZTYUswUUNzQXByVTMtSU5LZTRhWUhyZjNRNklHNUl0LXdXeExmU1ZVWWFHMjh3Qk1DRHdJUQ?oc=5",
-   "published": "2026-11-16T17:45:07Z",
-   "outlet": "The Pharma Letter",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-19T17:31:37Z"
   },
   {
    "id": "bd6f5a3ec5149fa7",
@@ -8329,6 +8318,17 @@
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
+  },
+  {
+   "id": "f78b8c4400890b45",
+   "company": "Teva",
+   "title": "US FDA approves Teva’s Igalmi for at-home use - The Pharma Letter",
+   "summary": "US FDA approves Teva’s Igalmi for at-home use The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNczFRR0dXMEJFNVh3a3BXRmhwa0otWFpfaE1Ga1VDazRoam8zeG9RbHA5LUxTN2puODY0RDUzZkRwSl9WTGhlbzc4aktlNGh3NHJpaV9IZVpKbi0xSzZTYUswUUNzQXByVTMtSU5LZTRhWUhyZjNRNklHNUl0LXdXeExmU1ZVWWFHMjh3Qk1DRHdJUQ?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
   },
   {
    "id": "a1c12c10072a6f19",
@@ -12137,17 +12137,6 @@
    "first_seen": null
   },
   {
-   "id": "29c60342e83ea415",
-   "company": "Rapport Therapeutics",
-   "title": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 - TradingView",
-   "summary": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXZTeEE1N0FtRm9xM1lIYm9aamhqQXo1c3ZETUs0UmNHWXpJQzlqVlk3eUR6djY0b1JyaXBBQUF1M2UwZHVsNU1lX1FhTklxUFB4eXV4bkJGVGNlQktFMUh1WVlfVjJadHhZUm9wLTZ3OFZRbWg5andNRXNFMWZnUnNNMHVwWXRLOEVOdHJHblQyaG8tVENUVEMzdGlpMHMtNFlna2NPWjJPY2xVZ3YwbWUxVUNTOEtjZ0xWZkNhem1JVndQaW05anFULUtRRGFHcU44?oc=5",
-   "published": "2026-11-06T08:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "9aff136a92ffcdeb",
    "company": "Annovis Bio",
    "title": "Press Release - Annovis Bio",
@@ -12276,6 +12265,17 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVFYNGRteUJDR214ZmFFNGlmalozbFdVZFRianFyc1dGZHpBd1haVXF0MXZLSTVET2dDTTNfVXV0bnl6Z2VfN2xKZ1ZiRmdtTTVjQnVEZkN2N0FlMGZMWkJfOGtnczhmQ2tpX3pkdEQ4UFVnd1JwaDB2eXJhWlBUUkZ3X2trMmRh?oc=5",
    "published": "2026-11-05T08:40:07Z",
    "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "29c60342e83ea415",
+   "company": "Rapport Therapeutics",
+   "title": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 - TradingView",
+   "summary": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXZTeEE1N0FtRm9xM1lIYm9aamhqQXo1c3ZETUs0UmNHWXpJQzlqVlk3eUR6djY0b1JyaXBBQUF1M2UwZHVsNU1lX1FhTklxUFB4eXV4bkJGVGNlQktFMUh1WVlfVjJadHhZUm9wLTZ3OFZRbWg5andNRXNFMWZnUnNNMHVwWXRLOEVOdHJHblQyaG8tVENUVEMzdGlpMHMtNFlna2NPWjJPY2xVZ3YwbWUxVUNTOEtjZ0xWZkNhem1JVndQaW05anFULUtRRGFHcU44?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -26019,6 +26019,17 @@
    "first_seen": null
   },
   {
+   "id": "9e85f785073a9c2f",
+   "company": "MapLight Therapeutics",
+   "title": "LifeSci Capital Maintains MapLight Therapeutics(MPLT.US) With Buy Rating, Maintains Target Price $37 - Moomoo",
+   "summary": "LifeSci Capital Maintains MapLight Therapeutics(MPLT.US) With Buy Rating, Maintains Target Price $37 Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW1mbU9KV3BRZmVoZ1NsT2drZTV0X2lHTEhvZmZDT2dhR1g4WWZfVGtsOV9HNzliZUhFRVZod3ZYNUx1eTBFVWhXTHRYVTlWSmo0Q2JsSmtRcndxbDdEQ3ZTQzVscWRNM1VMWU1qTEdidEhLQkRETDNVZk9iTWpPNGhkeTMzZzdxakhFZlppdk1kT2l1ektPaHk3bmNOMzhwNTNfbWU3RTBNTlItd2I1NWlVLURMOTI1NWtQQmF2RQ?oc=5",
+   "published": "2026-08-14T07:00:00Z",
+   "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b239f327f75db30f",
    "company": "MapLight Therapeutics",
    "title": "MapLight Therapeutics - The Pharma Letter",
@@ -30111,17 +30122,6 @@
    "first_seen": null
   },
   {
-   "id": "ff210f67bf52f562",
-   "company": "AtaiBeckley (Atai Beckley)",
-   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
-   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
-   "published": "2026-07-17T07:00:00Z",
-   "outlet": "WSJ",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "53df4fa4ea65cb6d",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics CEO Gene Mack Issues Letter to Shareholders and Provides Operational Update - Gain Therapeutics",
@@ -30141,6 +30141,17 @@
    "published": "2026-07-16T12:32:59Z",
    "outlet": "Newronika",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "ff210f67bf52f562",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
+   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -32095,7 +32106,7 @@
    "company": "Serina Therapeutics",
    "title": "Gannet BioChem partners with Serina Therapeutics on SER-252 - scanx.trade",
    "summary": "Gannet BioChem partners with Serina Therapeutics on SER-252 scanx.trade",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclRnX0plRllpTVpsYTNrQUMzdm5kV0xoVl93b2prb3pVanVIcjhHdUNNaWlFSHVrNms4U3ctWHpET3JQLVV6YTE0M1JuSFhyeXRwMXBoUlh0QktfamdvZ1NpR29TX1dwMm1SdW1PRHZIRG9tc2hxUFlDRXNzcTh2Wk03S1EwWkpWcXNSMm95Vno5ckFyOGNXSnFLRW03elBKVWczZnR4Y05tWmdoeWhrRlgtN1dEa0k?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenRudWZLbW9mLVJISWtidnROTTNSX2NEd3gxREkzQ2VqdnpYbEZUUUtuNG5FMjFzRXVOZzA3aW5HZDhpeGdHWm11ZzJTMHh4X1JHWUhwai1jMEQwX2ZEYzEzSmF2dktIYVNoTWYzYjZUN2NYVkFKTlA3eUVBVFgwT1ZoME10RnJ6a2Q5NFVNVzRwWk5NTzJuZnRjY0p5S3k4TkR1OHJhZFF0YW90Uy1aREwyX0RGclk?oc=5",
    "published": "2026-06-30T07:00:00Z",
    "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
