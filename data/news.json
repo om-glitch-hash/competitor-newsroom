@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:49:05Z",
+ "updated": "2026-11-26T22:51:19Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1687,6 +1687,17 @@
    "first_seen": "2026-11-26T14:29:35Z"
   },
   {
+   "id": "a0aef67030550e60",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) insider ownership and holdings - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (R7E0.DU) insider ownership and holdings Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhcVRiNEpDdWFTdFQtMjA1U1BadElVeWI5ZHUwWno4b1VVMEJuUkJXUFVpVC1yS0xUZ3NhcDBrRXl1R1BmT3hTUmpVd1QwMmtraUZmeUF1WS1wZzdqZ1RtX2JnODUwQ1VfSXc?oc=5",
+   "published": "2026-11-26T08:24:56Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T22:51:19Z"
+  },
+  {
    "id": "29f00706383f4e26",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (R7E0.DU) recent insider transactions - Yahoo Finance UK",
@@ -1883,6 +1894,17 @@
    "outlet": "Stock Traders Daily",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T04:59:29Z"
+  },
+  {
+   "id": "7e93531c4e5d525a",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
+   "published": "2026-11-25T22:43:23Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "112e1a9d3186f69d",
@@ -5416,17 +5438,6 @@
    "first_seen": "2026-11-19T17:19:05Z"
   },
   {
-   "id": "7e770a0ddc9ee1ec",
-   "company": "Neumora Therapeutics",
-   "title": "Neumora Therapeutics (NMRA) Stock Fair Value Moves Lower After Analyst Target Cuts - Yahoo Finance",
-   "summary": "Neumora Therapeutics (NMRA) Stock Fair Value Moves Lower After Analyst Target Cuts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWU9tWUVGQkQyUkJVVGF1S2JYcmFaVDhHNEM5R0U0WjZKVGFSQ1daRzZCRnpXQjVCSnNVdkpyTnlqdXN6Y2t1bjJ4TmprdmUwZTlkRjFFTkw5RTBZMXVLUlE1S3UxYjdEOXU5M2VGRUR2ZkZmQnRiWXNlMHN4TFgya0ZKUlpMdUZ4ckNtQ1JheHVXOXhSMllHakgweUZQai1FbTlV?oc=5",
-   "published": "2026-11-19T05:14:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "447eca001fafd807",
    "company": "TG Therapeutics",
    "title": "TG Therapeutics, Inc. (TGTX) Stock Forecasts - Yahoo Finance",
@@ -5953,6 +5964,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
+  },
+  {
+   "id": "7e770a0ddc9ee1ec",
+   "company": "Neumora Therapeutics",
+   "title": "Neumora Therapeutics (NMRA) Stock Fair Value Moves Lower After Analyst Target Cuts - Yahoo Finance",
+   "summary": "Neumora Therapeutics (NMRA) Stock Fair Value Moves Lower After Analyst Target Cuts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWU9tWUVGQkQyUkJVVGF1S2JYcmFaVDhHNEM5R0U0WjZKVGFSQ1daRzZCRnpXQjVCSnNVdkpyTnlqdXN6Y2t1bjJ4TmprdmUwZTlkRjFFTkw5RTBZMXVLUlE1S3UxYjdEOXU5M2VGRUR2ZkZmQnRiWXNlMHN4TFgya0ZKUlpMdUZ4ckNtQ1JheHVXOXhSMllHakgweUZQai1FbTlV?oc=5",
+   "published": "2026-11-18T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "21687ee29f951832",
@@ -7352,17 +7374,6 @@
    "first_seen": null
   },
   {
-   "id": "b1cd14a74fa1814d",
-   "company": "Teva",
-   "title": "FDA Approval for IGALMI issued to TEVA - Quantisnow",
-   "summary": "FDA Approval for IGALMI issued to TEVA Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2xwZXptV2I2X3l1cmlQQ19wb252NVhPdXBKSTBsU29CSW5DMzRaZHBvSmRvMk11TzlENDM5b3AwcWxhTmZkZ3dnWUZxTUxWWVp5UWxLRjE3ZzJLdlRxWWE0V2JxTzc2VkdOcXg2aFFERlRpelpiRnV4dy1nc2tnLVd6d3BfLWd1?oc=5",
-   "published": "2026-11-16T20:06:54Z",
-   "outlet": "Quantisnow",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "750e9b9c2790a4ad",
    "company": "Incannex Healthcare",
    "title": "Can Incannex Healthcare (NASDAQ:IXHL) Keep Moving Forward? - Kalkine Media",
@@ -8327,6 +8338,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b1cd14a74fa1814d",
+   "company": "Teva",
+   "title": "FDA Approval for IGALMI issued to TEVA - Quantisnow",
+   "summary": "FDA Approval for IGALMI issued to TEVA Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2xwZXptV2I2X3l1cmlQQ19wb252NVhPdXBKSTBsU29CSW5DMzRaZHBvSmRvMk11TzlENDM5b3AwcWxhTmZkZ3dnWUZxTUxWWVp5UWxLRjE3ZzJLdlRxWWE0V2JxTzc2VkdOcXg2aFFERlRpelpiRnV4dy1nc2tnLVd6d3BfLWd1?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10065,17 +10087,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwcDF3Q0d3TTM4WWFxbWtvRTNFMWhwYnZZcWs1bWl0SFNEbktUY2xyVnVnRjkwNmNwbml2MzRrNW5QOFoxbFRwQWFRQk81eUpEVFZaYkZxSGJRY1h6TU5sY09n?oc=5",
    "published": "2026-11-11T21:00:00Z",
    "outlet": "Yahoo Finance Singapore",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "7e93531c4e5d525a",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU1OR0FERnpndER1a2JBWms3SU52ZlFONC03WmdfUmhvNnJwdVJRQnpMUjExeFdjVm83RW81bkVQUy12R0NkT291ckxkZnQ4ZTlMRll6ZE5Md0ZVaTBtb2szcm0xLTFYWnJvdW15OHBDMkh2TjAyalBDWGM3WTJMUFFiNzd1VGoycmQ3N2dqVQ?oc=5",
-   "published": "2026-11-11T18:56:02Z",
-   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -21476,6 +21487,17 @@
    "first_seen": null
   },
   {
+   "id": "16d41ccf6832ba0c",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron presents H1 2026 results and provides corporate update - Yahoo Finance UK",
+   "summary": "Newron presents H1 2026 results and provides corporate update Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWdKYmpTOHdyb1d2bzhhUGZBQlFMdDF4QUI1Y0xqemdPN0gyYUFTRHE2aFRIemlnYllXbDdkVm1CTzdCQXg5bEx0U2hCajZaSXdWYmFsaEVKWVcyZi1VdnZZd205bzRHRXZ3UWpKVXZGd3JRWUFvQVVDU2V1bjdYck5CVFJCbnM?oc=5",
+   "published": "2026-09-22T07:00:00Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4f8f09394db92992",
    "company": "LB Pharmaceuticals",
    "title": "LBRX: LB Pharmaceuticals Inc Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
@@ -29165,6 +29187,17 @@
    "first_seen": null
   },
   {
+   "id": "052db4383a7bc590",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Lobbying Profile, 2019 - OpenSecrets",
+   "summary": "Vanda Pharmaceuticals Lobbying Profile, 2019 OpenSecrets",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHNJdU14RTBSd2tWb1Q4ZkswMW5Hd3Zma3lvMFZMWjZrcGRlYmVLa3NRNmtSc3dwZzVPREhEd3ZYbF9oTzBkRDVnOTRkeWU2RldCT3BrUExGVnhZRXlybzE2Z1UzWm5XcTNleGxvWnkyTTBpNEpGemRFZm9MelhjQVZiX2RNME1rUGhDUDlwa3gtUGlFakdwck53N0l4b0JSLUlXYw?oc=5",
+   "published": "2026-07-27T20:47:09Z",
+   "outlet": "OpenSecrets",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "24d2e1ccc34fa405",
    "company": "Neumora Therapeutics",
    "title": "Neumora Therapeutics Reports Favorable NMRA-215 Toxicology Results with Planned Clinical Advancement in 2026 - Neumora",
@@ -29403,6 +29436,17 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEh2TDJnaHpSUG5uanUtRWFFa3F4MnVVc0xhclJqY1pJcXdFNzFrcmRlMGxvVVJlNW9UaU9MRFpzNV9xWVVvMFpYMWZtVkFCQlVvdU5RUE93S2hMQjNGTHRBVHpKZDA0N3dKWlA2aFZnV1k1dHlXWFQ5b3F3ZFhQNTI5QS1GTTNNTkt1cHRBX3JhUQ?oc=5",
    "published": "2026-07-27T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e37efa715ced9e24",
+   "company": "MapLight Therapeutics",
+   "title": "MPLT Stock Plunges 73% — Wipes Out Over $1B In Market Cap After Trial Miss On Once-Daily Dose - TradingView",
+   "summary": "MPLT Stock Plunges 73% — Wipes Out Over $1B In Market Cap After Trial Miss On Once-Daily Dose TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdFhFQ0RYbDNldTQ1dlBRZDgxb3dyc2gwLTMzUGQzcXlPUTI1V3lBRm5IdzVzaWpqTVB5RFBSUmNyRWhPajRkSGJlcUtqWmxJelJhU0o1eTRHbGlsX2Ftdy1yX1NBTkp0MG5qZEtoSWVKMXNIX185eDFkRktmVmNtVG9aRERZOFEzcHJIQ1k3RlBxNURPTlFmVlFVb0NNY2gxdmNOaG5lNEJSNzZYYVhkMURwSWtmUFVyejduZzlTejdzeWttSFpmTk5UOUFzOGNQX0RZVm90dVVhZjAzcVBkWE9VakI?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -30250,6 +30294,17 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWmRTX1VXRWxEYWNIS1hGOWktSUZxQkxsdkhnTkdFd1A1Um00WmZ0Y1UtUjIxQXpPU1UySTlsNTJFanFSbWNPNzJOU1licm54emkwVkFnRkh0Z2kwZ1JFeENzZG1xMFNVazZRUlJFVVp1ZGdmekhCYWVWUUdHelF4YUVzaDJDV2dmLS1CUDJEU1o5ZEQ5QUx6T0k4Qjg2UDhwbDdFWW96M0x1eXFqdTBTSlZFanlnTU9zMzV0cg?oc=5",
    "published": "2026-07-17T07:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "be0f9d0a99951019",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "The GLP-1 leader expands into psychedelics - Morning Brew",
+   "summary": "The GLP-1 leader expands into psychedelics Morning Brew",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUERVcUdQb1hhSVZ1RFJ4VURtYm9LRWNyOXhxZ0xnVXllVWR1SzVYODFFTlpMTHRjTjF5TExlUGdJV1F3YjhrVEc4dXpMTXR6R2dyZV8wNmxleWl2S1Bqcks4Rk5sX0Rqald2WS01TDFVLVdYb0ZwcUZMX1Rld2FsNVUzV2I?oc=5",
+   "published": "2026-07-17T07:00:00Z",
+   "outlet": "Morning Brew",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -32260,7 +32315,7 @@
    "company": "Serina Therapeutics",
    "title": "Gannet BioChem partners with Serina Therapeutics on SER-252 - scanx.trade",
    "summary": "Gannet BioChem partners with Serina Therapeutics on SER-252 scanx.trade",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclRnX0plRllpTVpsYTNrQUMzdm5kV0xoVl93b2prb3pVanVIcjhHdUNNaWlFSHVrNms4U3ctWHpET3JQLVV6YTE0M1JuSFhyeXRwMXBoUlh0QktfamdvZ1NpR29TX1dwMm1SdW1PRHZIRG9tc2hxUFlDRXNzcTh2Wk03S1EwWkpWcXNSMm95Vno5ckFyOGNXSnFLRW03elBKVWczZnR4Y05tWmdoeWhrRlgtN1dEa0k?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenRudWZLbW9mLVJISWtidnROTTNSX2NEd3gxREkzQ2VqdnpYbEZUUUtuNG5FMjFzRXVOZzA3aW5HZDhpeGdHWm11ZzJTMHh4X1JHWUhwai1jMEQwX2ZEYzEzSmF2dktIYVNoTWYzYjZUN2NYVkFKTlA3eUVBVFgwT1ZoME10RnJ6a2Q5NFVNVzRwWk5NTzJuZnRjY0p5S3k4TkR1OHJhZFF0YW90Uy1aREwyX0RGclk?oc=5",
    "published": "2026-06-30T07:00:00Z",
    "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
@@ -32502,6 +32557,17 @@
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Draws | WTA Official - WTA Tennis",
    "summary": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Draws | WTA Official WTA Tennis",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vY0J2RVA3M2pIYVRJdzRwNUluVEdjdFlVRlB4Vng3Y2VURjNqXzA4aXVPd3FGcEpzaUd5a19YeXFrR1NqeXRqTTZtUVlUYk5hb2x3MXIzYWdpTTFTZG1NRXJ4RmVfT212TUpZY3hGUm1lLXZp?oc=5",
+   "published": "2026-06-28T14:03:02Z",
+   "outlet": "WTA Tennis",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "17182b815619ca4d",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Draws - WTA Tennis",
+   "summary": "Vanda Pharmaceuticals Mallorca Women's Championships 2026 Draws WTA Tennis",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vY0J2RVA3M2pIYVRJdzRwNUluVEdjdFlVRlB4Vng3Y2VURjNqXzA4aXVPd3FGcEpzaUd5a19YeXFrR1NqeXRqTTZtUVlUYk5hb2x3MXIzYWdpTTFTZG1NRXJ4RmVfT212TUpZY3hGUm1lLXZp?oc=5",
    "published": "2026-06-28T14:03:02Z",
    "outlet": "WTA Tennis",
@@ -43328,6 +43394,17 @@
    "summary": "Restoring Brain Synapses Pipeline Spinogenix",
    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0T1Jmd2tBdlA0Vzltamp0bVI0RllSdG1VZHhDU1lCT1R2cnM5ZXctRFhvUG56UTBheWRyMGFnUk9RODJ4UEFJ?oc=5",
    "published": "2026-02-09T17:22:05Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c05dabaac4f6a161",
+   "company": "Spinogenix",
+   "title": "Contact Spinogenix - Spinogenix",
+   "summary": "Contact Spinogenix Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBsRGxuN2tjY1lhWThRUXNvQ1F3YWxtdlBHQkxvWWtzZldCRC1kOFpKUE9iOTBoN1ppUFZUZEUyb01EcV9FSHc?oc=5",
+   "published": "2026-02-09T17:22:04Z",
    "outlet": "Spinogenix",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
