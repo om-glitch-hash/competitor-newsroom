@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:46:50Z",
+ "updated": "2026-11-26T17:40:21Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1709,6 +1709,17 @@
    "first_seen": "2026-11-26T07:14:46Z"
   },
   {
+   "id": "bb6ce8588fc32e65",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock forecasts - Yahoo Finance Singapore",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock forecasts Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQjdkVkVnWi1nczZKNktsSnhMVHZ1LWxsTlNLUENvU3FVWjVubXphakx4V29WVWNZYmZ3T2NoWkhLOG8tUkFYZUlyckp2WENBZDZWRnY2NlVld0NhTE1jNHhhWENkaG96ek53OWVNMmNxa0lJVlZOcnh3VGtfcU84RGxlZUpreENMbDFBNDBEM2pnWjQ?oc=5",
+   "published": "2026-11-26T05:10:12Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T17:40:21Z"
+  },
+  {
    "id": "ecd0812bcb323953",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics Issues 2 Million Unquoted Options at A$1.00 Exercise Price Expiring November 2031 - Kalkine",
@@ -1852,15 +1863,15 @@
    "first_seen": "2026-11-26T04:59:29Z"
   },
   {
-   "id": "7e93531c4e5d525a",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
-   "published": "2026-11-25T22:43:23Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
+   "id": "7a892ad1afc53854",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference - TG Therapeutics",
+   "summary": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xNy1tVG85Z256SGJLRF84ZE9fb1JlN3VpQms2eHRMZk9hcF9pcmRQNjZuWndUanZtS2FLMlBWN3NxZWFIa3hNNnJLelprUGVTNXk5bk42MA?oc=5",
+   "published": "2026-11-25T16:47:48Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T20:25:38Z"
   },
   {
    "id": "112e1a9d3186f69d",
@@ -2015,17 +2026,6 @@
    "outlet": "kalkine.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T21:28:11Z"
-  },
-  {
-   "id": "7a892ad1afc53854",
-   "company": "TG Therapeutics",
-   "title": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference - TG Therapeutics",
-   "summary": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkhiQWxmODBfVUJYRHMtUjBDLWZIMENXb09rUFlQZU5zRHJ5LTBkME1HekQwTkJSS3ZaSV8tYVBtc19qM3hWdWxvdWQ2SGJHVUdxWEdWOGJzdEYwVUMwWWw3clBOSkV4TjZnSGdyTk41S05zMzlEX1hJTHhLeUFZdFBPcUd6Z3hkSUR2VFhYRjVIYi1fMFB2M3kyME04LWFEcFVHdjZzR1Q4dG5tRVF5c0lEUE94X1V3YmJuOC1CY0Q?oc=5",
-   "published": "2026-11-25T12:30:29Z",
-   "outlet": "TG Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-25T20:25:38Z"
   },
   {
    "id": "f1e7fda7fda4213d",
@@ -2259,6 +2259,17 @@
    "first_seen": "2026-11-25T05:32:58Z"
   },
   {
+   "id": "313796eca4104399",
+   "company": "Eli Lilly",
+   "title": "Associate VP – Medical Development – Interventional Psychiatry - Lilly Careers",
+   "summary": "Associate VP – Medical Development – Interventional Psychiatry Lilly Careers",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVQzYmFhYVlzYm9QeUdJX3hvUHZGdDJ4aVoyWFd6UE82ZDdtNTNHSzlsWERramc3M2FBb19SUEdhV1Iyb3k2TWpwX2IwS2lWRDFqSmUxbUhOWUpmR3RleTB3Tjg0QUo1eFFlVXZ0cEVTRVNFVFl4cm1raUJLeVl3eWhMV19uOF9OeVo4NWhyTDE5YTc5SXpjaEMzMnl3ek92VS1LTWp3?oc=5",
+   "published": "2026-11-25T03:40:22Z",
+   "outlet": "Lilly Careers",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T04:23:02Z"
+  },
+  {
    "id": "339ed6c531e1bdf1",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -2268,17 +2279,6 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
-   "id": "313796eca4104399",
-   "company": "Eli Lilly",
-   "title": "Associate VP – Medical Development – Interventional Psychiatry - Lilly Careers",
-   "summary": "Associate VP – Medical Development – Interventional Psychiatry Lilly Careers",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdExoMjVMVzhNb2hDb3JXblNXaE5qbzZFdTlMRUduRi01TWhHWmxJRldaQVpyOHp5cGF4T3piZ3FiRTZSX2VyaTJGUmEyQXpBSU91YjIyU3U5RTBJM3lxQVBNb1hMdWIyWFNDX2NkSFc3ZUVIaHg3SXl5clZ1YnIzcVpKT1BvTE11SmZQbEhwQlhmVThSQ2FEUU5EWndfNG1sT296bjRycFRBbkU?oc=5",
-   "published": "2026-11-25T02:40:22Z",
-   "outlet": "Lilly Careers",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-25T04:23:02Z"
   },
   {
    "id": "f2b29d94c29cdbcf",
@@ -2488,6 +2488,17 @@
    "outlet": "Yahoo Finance Australia",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T02:49:37Z"
+  },
+  {
+   "id": "0866992b9d9920d4",
+   "company": "Alkermes",
+   "title": "Alkermes to Participate in the 9th Annual Evercore Healthcare Conference - Alkermes",
+   "summary": "Alkermes to Participate in the 9th Annual Evercore Healthcare Conference Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVVY0QVZXRk1DekdfblhTS2V1RVJ0LVRGRDVrbnB0SDBscU5lZWRsM1VEbmhpN2hackNadklJZVc2NW1tZ0FySUdXY0RCd0h6ajNJOWJoZFE4bFg0bllpT3N3SkNUcExoWXBZWEJKRHNQTlIxYndkTU1VQ3Q4WW5Db3h2TkZ4Yi11SThOd1N4dEpJS0YwWDB0MGYzNFRUVFNBR1NUZUV2T0VNVTlITkNPVkgxNHRfMzNTS19DNTRkSGVIY1BLWmc?oc=5",
+   "published": "2026-11-24T21:00:24Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-24T21:39:02Z"
   },
   {
    "id": "5ac9f50db7b9da1f",
@@ -2807,17 +2818,6 @@
    "outlet": "StreetInsider",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T05:32:58Z"
-  },
-  {
-   "id": "0866992b9d9920d4",
-   "company": "Alkermes",
-   "title": "Alkermes to Participate in the 9th Annual Evercore Healthcare Conference - Alkermes",
-   "summary": "Alkermes to Participate in the 9th Annual Evercore Healthcare Conference Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xVkEwcVZPck9hZm1EVWZ5akNWaW5TMWxURTBrRmhETjNDOHZsU0xjdnkyeGFCYUpiVmhQN3ZpNEc5Y1M3TGtjRE9BV1JjUDFkZ0FTMC1iVQ?oc=5",
-   "published": "2026-11-24T08:00:00Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-24T21:39:02Z"
   },
   {
    "id": "a0b0a8544c450aa6",
@@ -3238,6 +3238,17 @@
    "first_seen": null
   },
   {
+   "id": "9f871b718e8894b8",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics (Nasdaq:RAPP) - Stock Analysis - Simply Wall St",
+   "summary": "Rapport Therapeutics (Nasdaq:RAPP) - Stock Analysis Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSVpKejVKWjhJMnAwZm1rWDluWklmUVdndEpvQURDaU9WdkRRSnh5WU1NZHlpcUhNWGw5VDZHZ211WkJZNGhDM1ZncHg1OGdzdUhRX1dZMzU4eS1pMVhfYVZxam5SS0tNcUlBQzAwa0p0RFdGV1ZscnJyTXVMNHpEdzkzZVBxWHJZc0V5cXZGTHc0dw?oc=5",
+   "published": "2026-11-23T08:00:00Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "70994fda22ca02a1",
    "company": "Annovis Bio",
    "title": "How Does Annovis Bio's FDA Safety Data Agreement Advance Buntanetap Toward an NDA Filing? - Kalkine",
@@ -3533,17 +3544,6 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-23T01:52:08Z"
-  },
-  {
-   "id": "9f871b718e8894b8",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics (Nasdaq:RAPP) - Stock Analysis - Simply Wall St",
-   "summary": "Rapport Therapeutics (Nasdaq:RAPP) - Stock Analysis Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSVpKejVKWjhJMnAwZm1rWDluWklmUVdndEpvQURDaU9WdkRRSnh5WU1NZHlpcUhNWGw5VDZHZ211WkJZNGhDM1ZncHg1OGdzdUhRX1dZMzU4eS1pMVhfYVZxam5SS0tNcUlBQzAwa0p0RFdGV1ZscnJyTXVMNHpEdzkzZVBxWHJZc0V5cXZGTHc0dw?oc=5",
-   "published": "2026-11-21T08:00:00Z",
-   "outlet": "Simply Wall St",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
   },
   {
    "id": "d5bcf0176549a5bc",
@@ -5949,7 +5949,7 @@
    "title": "Helus Pharma (HLP) Stock Fair Value Rises After HLP003 Phase 3 Analyst Revisions - Yahoo Finance",
    "summary": "Helus Pharma (HLP) Stock Fair Value Rises After HLP003 Phase 3 Analyst Revisions Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQU5Bc0k3Y1VPeGYtZEF2RFZMUmlVRVdFWUU1QV9YWERtZ0VoVktKZ2JkMzFtU1RKZjVFSnJpMGVFeUVuaVl2U3Jkc3VpeDViTVRjWWxpRlR3bEJ3OXp6djhhUjRsLWxOZDdHRklRRVJybjlpZ29LUVVCbzhjQWRCdGFOdXZ0SU5adkNXN2sySE5LSVJ0ay1R?oc=5",
-   "published": "2026-11-18T08:12:42Z",
+   "published": "2026-11-18T08:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -7484,17 +7484,6 @@
    "first_seen": null
   },
   {
-   "id": "26c2f75da283812f",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus' chemically modified psychedelic hits key goals in phase 3 depression trial - Fierce Biotech",
-   "summary": "Helus' chemically modified psychedelic hits key goals in phase 3 depression trial Fierce Biotech",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUExadXR6UDJhdlVfV20td1Zwc05xaHJiUEM2Y0VxZXhQbW9FWHlUSlVZR2ZwMkhEeURvRzVSVlZCcThVTjFCMnl1Q21SRGRYeEtZTmRPZnl5Y240WDRYTUpqWE81ZlRZaUtGN2NLZEwtVmFpNndmVVdldmN6TUJmaXZUMkRRTjhxeDFzOEVSMkZoR19qeDNEUTJFRHc1bTZSQ25oN3prS2Y?oc=5",
-   "published": "2026-11-16T15:40:00Z",
-   "outlet": "Fierce Biotech",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "688b40d4a4abc248",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "What's Going On With Helus Pharma Stock Today? - Helus Pharma (NASDAQ:HELP) - Benzinga",
@@ -8327,6 +8316,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "26c2f75da283812f",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus' chemically modified psychedelic hits key goals in phase 3 depression trial - Fierce Biotech",
+   "summary": "Helus' chemically modified psychedelic hits key goals in phase 3 depression trial Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUExadXR6UDJhdlVfV20td1Zwc05xaHJiUEM2Y0VxZXhQbW9FWHlUSlVZR2ZwMkhEeURvRzVSVlZCcThVTjFCMnl1Q21SRGRYeEtZTmRPZnl5Y240WDRYTUpqWE81ZlRZaUtGN2NLZEwtVmFpNndmVVdldmN6TUJmaXZUMkRRTjhxeDFzOEVSMkZoR19qeDNEUTJFRHc1bTZSQ25oN3prS2Y?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "Fierce Biotech",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10047,6 +10047,17 @@
    "first_seen": null
   },
   {
+   "id": "7e93531c4e5d525a",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU1OR0FERnpndER1a2JBWms3SU52ZlFONC03WmdfUmhvNnJwdVJRQnpMUjExeFdjVm83RW81bkVQUy12R0NkT291ckxkZnQ4ZTlMRll6ZE5Md0ZVaTBtb2szcm0xLTFYWnJvdW15OHBDMkh2TjAyalBDWGM3WTJMUFFiNzd1VGoycmQ3N2dqVQ?oc=5",
+   "published": "2026-11-11T18:56:02Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "16f381ebb39951ae",
    "company": "Vanda Pharmaceuticals",
    "title": "NEREUS™ - The Goat of Biscayne Bay Arrives for Miami Art Week - Vanda Pharmaceuticals",
@@ -10531,6 +10542,17 @@
    "first_seen": null
   },
   {
+   "id": "c9586dcd8455cb7c",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
+   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
+   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYWFvOUhrNXVuTkVzb0FJb3RjY3B0TXRON2hYb3E2ZGNsaFVuQTg5V0ZfZnlFZzBGZU5DQmF2anVBMXR1cmVGRXRCXzRQcW1GeE1FYXF0UC1hckJILWktT1F1RVlsSXlRSHA3WnJjckFZeWh4cE9UWWYxZklSRjRjQnJLTDFFMlVLZUVlUUNkVkpRRlVYWDBHZEU5TF9WRzd4SXpRX0U5RU90d1h1OVhSOWkycHFNdnMtYXh2aFBaRG5Zb2pCS3h2ckRVVnJvaG1uX2lKOFdkRFNnSlNmYnp1Skd3dVN5dlE3TFZJNGhwTS03Y1pmNWFCMHNWWU9xU2pGM3ppRS1LVk5xZk9rdlBIVk1SeGR6NVVNb2Z4Qi1TUlhackhBRkZGbXY4S0pqZm5aa2xBQg?oc=5",
+   "published": "2026-11-10T19:28:38Z",
+   "outlet": "Johnson & Johnson",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "4f65926d99c176c6",
    "company": "MapLight Therapeutics",
    "title": "MPLT - MapLight Therapeutics Inc Forecast, Target Price - Finviz",
@@ -10638,17 +10660,6 @@
    "published": "2026-11-10T09:08:09Z",
    "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "c9586dcd8455cb7c",
-   "company": "Johnson & Johnson (incl. Intra-Cellular)",
-   "title": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study - Johnson & Johnson",
-   "summary": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTkhvOGlxN2tNRGpzTGFCZHJ4bmYxUGtHWUd6SGNMN01JV1Q4VGh5dGhtb3c3MkVrWENUc2NQaXhJSkJ0amNfaHBiWEstaXo3SGt5YXg2Q1pNUEVZM1QzYTJaZXBJOXpaOFFlSWI4YzVrbHRuLThPV2NxQUZsNEk0bmdndWFsNkhzcnBUNmQ1dVV3aHZMQ2ZLQzIzNHdEVE9JbGJuN0VoXzZNNlFodEFEM1hNWjRKOGpLanB3U3k1dXZtTTU1Y1dMazlzZ3RhYTFlS2ZvenBoZGVraWlPcXppQ3ktN0FEdElvalhxb2R4ZW9vRDFIQ19Mc2hnYTZpTDJyVDltUmRUUXo1TEs1UmMxSA?oc=5",
-   "published": "2026-11-10T08:00:00Z",
-   "outlet": "Johnson & Johnson",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -11862,17 +11873,6 @@
    "first_seen": null
   },
   {
-   "id": "c6904f836bbf5b74",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates - Investing News Network",
-   "summary": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates Investing News Network",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21COFF3cVExczNCVHVMOWdZV0Y5RFZNZDZKZ0VLenUzdGJ6QV90dFVvSTV5a0NUeFVxa2xKeWV2cHcyTUJ5VVNTUlAwVXdqOXlIY1NBN0NsQzYzNG1kdmRDblFGM3BDZXgyeF9QSWVUbFh3MDF1bWdpYWJjUlFQZEIxM29ETmhiS2ktTlF5MlpXdWZWMXFfQ2JjNk44X3lDSFd6RVdNWUplTXJaNC1ZQzNnWkNNQQ?oc=5",
-   "published": "2026-11-06T14:50:39Z",
-   "outlet": "Investing News Network",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "ccf6090df5ba61c9",
    "company": "Minerva Neurosciences",
    "title": "Form 8K Minerva Neurosciences Inc For: 6 November By Investing.com - Investing.com Canada",
@@ -11906,6 +11906,17 @@
    "first_seen": null
   },
   {
+   "id": "9978c2382a97cff1",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences reports Q3 results, Phase 3 data due 2H 2027 By Investing.com - Investing.com India",
+   "summary": "Minerva Neurosciences reports Q3 results, Phase 3 data due 2H 2027 By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJHRzNTVk5oSHRwUGJhdXdJMnllaU9paVJyU3BzZGI2V1RXMC1jUXJGZzJyOVJMTW54NVBTT1JjU0lJN2ZHMGdjYmg0NUp5N084VklHanZoTmVoYW4wbkhCTFJ6NjNHWWRVV2N2M0I3Ui1xLW5zVnVzQ09rMnY2X2ZFYjZ3RDVnY3hOV0VLd1BzZXNXVEtlS0RXR1ZLV2ttYlp0SU91RFF3QWpSTF9KRUx5ekszRTd0aVk5enFFSnFPZG1Z?oc=5",
+   "published": "2026-11-06T14:20:45Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "cbf3fcbdfaba6c5f",
    "company": "Minerva Neurosciences",
    "title": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates - GlobeNewswire",
@@ -11928,13 +11939,13 @@
    "first_seen": null
   },
   {
-   "id": "9978c2382a97cff1",
+   "id": "c6904f836bbf5b74",
    "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences reports Q3 results, Phase 3 data due 2H 2027 By Investing.com - Investing.com India",
-   "summary": "Minerva Neurosciences reports Q3 results, Phase 3 data due 2H 2027 By Investing.com Investing.com India",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJHRzNTVk5oSHRwUGJhdXdJMnllaU9paVJyU3BzZGI2V1RXMC1jUXJGZzJyOVJMTW54NVBTT1JjU0lJN2ZHMGdjYmg0NUp5N084VklHanZoTmVoYW4wbkhCTFJ6NjNHWWRVV2N2M0I3Ui1xLW5zVnVzQ09rMnY2X2ZFYjZ3RDVnY3hOV0VLd1BzZXNXVEtlS0RXR1ZLV2ttYlp0SU91RFF3QWpSTF9KRUx5ekszRTd0aVk5enFFSnFPZG1Z?oc=5",
+   "title": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates - Investing News Network",
+   "summary": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates Investing News Network",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21COFF3cVExczNCVHVMOWdZV0Y5RFZNZDZKZ0VLenUzdGJ6QV90dFVvSTV5a0NUeFVxa2xKeWV2cHcyTUJ5VVNTUlAwVXdqOXlIY1NBN0NsQzYzNG1kdmRDblFGM3BDZXgyeF9QSWVUbFh3MDF1bWdpYWJjUlFQZEIxM29ETmhiS2ktTlF5MlpXdWZWMXFfQ2JjNk44X3lDSFd6RVdNWUplTXJaNC1ZQzNnWkNNQQ?oc=5",
    "published": "2026-11-06T08:00:00Z",
-   "outlet": "Investing.com India",
+   "outlet": "Investing News Network",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12541,6 +12552,17 @@
    "published": "2026-11-05T08:00:00Z",
    "outlet": "Tracxn",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "0b1293fba7da8a6a",
+   "company": "Spinogenix",
+   "title": "Spinogenix Honored By BioTech Breakthrough With “Regenerative Therapeutics Company of the Year” - Spinogenix",
+   "summary": "Spinogenix Honored By BioTech Breakthrough With “Regenerative Therapeutics Company of the Year” Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWtxNTk2bmZPblJ0VXVXS0x3YWpNT0ZsLUJyUEJfcF80UmVNajdMZTk4Zm1uUF9DLVVILVY2XzZkXzRYT3E3SnNzSGcxWXIxQWJDTW1PRTRQeGJ2M1BWNm5fZE1YWkpFYUZsY0lGenBMdXdkeFdocFBPVmM5SmNjVGNfakl0NE1sT2pfdlpOd0hPLVZiVkUzOWIzc3NCWk9HbXlndDJkVEhzWFJaVm9CX3J5YjFlNmhnSG1ieXBLOUc3SzMwVjZ1bVhpRQ?oc=5",
+   "published": "2026-11-05T08:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -14825,7 +14847,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -17843,6 +17865,17 @@
    "published": "2026-10-14T07:00:00Z",
    "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e90ccbbd9a7e2dd3",
+   "company": "Spinogenix",
+   "title": "Spinogenix Announces Phase 2b Trial for Autism Using Novel Brain-Wave Screening to Target Treatment - Spinogenix",
+   "summary": "Spinogenix Announces Phase 2b Trial for Autism Using Novel Brain-Wave Screening to Target Treatment Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY3NLZXBBQXp2MWtBTkJwNzUxbm4tTTlFZkdnSmtybnlPZktBaXZMN055RktRYW1ValFEb1lkM1NRTGU3cFZwYk9FQTVJSi1vVllUZ2Utcy1tcjZNaDJzYUZHTDIzSUJPU0JkZmFPTldrUTJmdDNtcTVIbzZfV295OXNoRXk3eVlJWTh2REdTbzdqUUo1WV9Za1hHdVR3d1B2QWpla05PX2NBZVp5ZXdNXzM5c3YwQm43MHJRZXZsaHFlZFp0Q2JicVJSTE9JYkV2RjNN?oc=5",
+   "published": "2026-10-14T07:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -28362,6 +28395,17 @@
    "first_seen": null
   },
   {
+   "id": "0161f1779d3227cb",
+   "company": "Spinogenix",
+   "title": "Posters & Publications - Spinogenix",
+   "summary": "Posters & Publications Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JSVhEV3BGdEo0YVRHTHdIUE1yTHh4R0NXOV9kNWtHcTk3b0xhRjJ2RkRnNTlBT1dOMlZwNmduTDNDUjU5RjlxdzZ4UTQ0RzZGUU9ENTZmaTQ5ZHJqeXB0TkFB?oc=5",
+   "published": "2026-07-31T03:02:26Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "2f246d30b8aa5511",
    "company": "Regeneron",
    "title": "REGN Corporate Presentation - Regeneron",
@@ -28531,7 +28575,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -28776,6 +28820,17 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGxLWnZkVHNTSFRZOWc5SmhPNWlrUklqQWNYeVVSa3BlcVZWYXRPT3loS0g1Q3Y4TEt0V0xGcEpEaTV2Ul9ZTF85a0laT185eU9fcmtRTXdGR0ZRMjhhdTNadjM1dkhCZEpQSXVCajRXSGczTFNESWdQbWhENWR6WkZwbHdSSHlheGJrNkxnSWZiVlpHNzA4dw?oc=5",
    "published": "2026-07-29T01:11:46Z",
    "outlet": "Lilly Careers",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "d320dcf70a936597",
+   "company": "Spinogenix",
+   "title": "Spinogenix Appoints Harvard Medical School Professor of Neurology Steven E. Arnold, MD, to Scientific Advisory Board - Spinogenix",
+   "summary": "Spinogenix Appoints Harvard Medical School Professor of Neurology Steven E. Arnold, MD, to Scientific Advisory Board Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaUx1UDE5OEdOdWxlZV96YVFvYm9wLUhNX09McnR1eHhLaU5xTGNvTk1MQldnX09LWWVaa1ZkbnU0YmVMZjcydjMxamdnVVAxMjdwZkxUTjR0eXViSk1VQmk5YlBXbU9aU0tzVWpOR25uekpxWncyZzQ4SnEyWmY4X0p2S3FyNXc3R2M0UFMxb3JCNkl3WW02LVpXeE4yenFPZXdDS09DUW0zUFRZcGRMRnFlS0dINTZIQWRmclJvUHhqVW9JOXhoM1RtYnRJM3pNVHdfdU5aN09XclhSLUtaRk1QNDQwUQ?oc=5",
+   "published": "2026-07-28T18:54:24Z",
+   "outlet": "Spinogenix",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -29297,6 +29352,17 @@
    "first_seen": null
   },
   {
+   "id": "032165979ed87c11",
+   "company": "Spinogenix",
+   "title": "Spinogenix Announces World Health Organization Approval of \"Codabakalner\" as International Nonproprietary Name for SPG601 - Spinogenix",
+   "summary": "Spinogenix Announces World Health Organization Approval of \"Codabakalner\" as International Nonproprietary Name for SPG601 Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON2hEM3NwN2dFMFpUWEZFcHNfTjhCZ2VtSklNdWpqTGY4eUhmU2dMbFc0UlRUbEFWMXNQTU83cnVuQXhSeTVnd0o2Z1JycmhGTkl1V3U4czJIT1FaVldEZEVrVFFHbnBqOU83Q3E5cDFLRDJvbmdjSUV1UW02aGhPYW9PMnppX0JRemhHNWRzZm9iR3lIN21aSnhuVHJuVE1sNlRHU0tNN2gwSjN6QS1Nb3BrbHpTeWFBUjZ1dnlaRlJ2Z3Qyd1ZpZU45XzdTUnVDYVZMdmc4ekZZSS02cGFxNDY2THZXOVZ5d1BjVm9R?oc=5",
+   "published": "2026-07-26T11:43:08Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c3ed8db207829851",
    "company": "MapLight Therapeutics",
    "title": "Is MapLight Therapeutics (MPLT) Fully Valued As Its Shares Hold Near $36.56? - Yahoo Finance",
@@ -29437,17 +29503,6 @@
    "published": "2026-07-24T07:00:00Z",
    "outlet": "Sleep Review",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -31255,6 +31310,17 @@
    "first_seen": null
   },
   {
+   "id": "85b06418656cf409",
+   "company": "Spinogenix",
+   "title": "Spinogenix Reports Positive Data on Alzheimer’s Patients Who Continued Treatment With Tazbentetol For Up To 84 Weeks - Spinogenix",
+   "summary": "Spinogenix Reports Positive Data on Alzheimer’s Patients Who Continued Treatment With Tazbentetol For Up To 84 Weeks Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUFkyVlUwRHdQZXZwVUozX2UtdDFUN1lBZ0xYZ0JySXdRX2Y0OFZsbjZvSkI4OUpIT2ZYYXk5R1FsaEFlbmJXaFhNSVA2ZU5pMEF2bExON2t1V3YyYjcxWW82Vlg2T0c1LS1qUXlFVHdoWkNhSzRYeml1WUV5TVhOb2JxSmNWb19RT3d0VXF4T2RVM1dzMEVHM3FQUGptTmVIcFJPdFA2ZmRtUkNobWZ6RTY0YU14WVhvUzJMdVRPUTU1alNhZ1RhV3lrZUZFZUIweHhCTm5lSjlDWElTUWtJb1gzNTcwZThm?oc=5",
+   "published": "2026-07-14T07:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "a6f3cf52ea2c9a42",
    "company": "Alto Neuroscience",
    "title": "Alto Neuroscience Announces Pricing of $100.0 Million Underwritten Registered Direct Offering of Common Stock",
@@ -31934,6 +32000,17 @@
    "published": "2026-07-02T07:00:00Z",
    "outlet": "Business Wire",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f537fd1e364cca38",
+   "company": "Spinogenix",
+   "title": "Spinogenix Appoints Professor Joseph T. Coyle, MD, Current Chair of Psychiatry and Neuroscience at Harvard Medical School, to Scientific Advisory Board - Spinogenix",
+   "summary": "Spinogenix Appoints Professor Joseph T. Coyle, MD, Current Chair of Psychiatry and Neuroscience at Harvard Medical School, to Scientific Advisory Board Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQQVZGekh3V29IXzhqTFNUU241d0hQWXJJU1lVakdxOS1NZlFUeThYN0RyR05IZGd4R3NaLVRzUDZpMjNNR3pGdWlnZTlqd21lb2Nza2lXQzloelQ1TjVkWFhaZGRBRzlSNXJudnhMY2lfTG53cUMxcTk2VU4xdm9sS1ZwYk16NEJjZFlqZXpnQUtrNVlua1VSMG1zZ2d1OGFHSWYtWk0tZHEwQXBBeHplYndvQW11Wms5b25MaEZiRHJ6NlV1VVhoQVc2eVI3ZmxWaFJsak9HNEd3d3JiVVM3a2NCcWhkeU9wbWlRcnl5MXphXzRuU3ZkQVl6aFdVRDdzNk5yOUdMLUlvS0dCV2V5TWs4aw?oc=5",
+   "published": "2026-07-02T07:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -37437,6 +37514,17 @@
    "first_seen": null
   },
   {
+   "id": "2a126a047712da46",
+   "company": "Spinogenix",
+   "title": "Spinogenix to Present Preclinical Results at ARVO 2026 Demonstrating Neuroprotective Effects of Tazbentetol in Glaucoma and Diabetic Retinopathy Models - Spinogenix",
+   "summary": "Spinogenix to Present Preclinical Results at ARVO 2026 Demonstrating Neuroprotective Effects of Tazbentetol in Glaucoma and Diabetic Retinopathy Models Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNRGFZUjBScS1wMDlOdHVERWpLX3ZJczRlQWxlaHhoaERxQXdHV0dRYk1xTUFxOFh1cm1PTko1Z3AxbXpjOWpQaldxOUw3TGk2enIxMklPNXROaGZVNzE4Sk4yZHJjcVZmcXBDNUowSVA1NzRKNjVjck1hd3ctdjdXRFA0QWRJaG91UkNIckVFMFdDeWVpZWxqbmhremhBdUNoZENvdk5rcWlFMDdoQ3MtWGt6TllzR1F5bTRKeFJrRGNKck5lSDBsTm9LS2xfd0Z0UnowVTVGN21WVGFYX19Od01hZThKSEdKVjZMdjQwMVFGenh0S1V5T19LQkJpR25TcjBYeThPWTU3a1lwMDRtMnZpcEhQbkZO?oc=5",
+   "published": "2026-05-03T07:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "5738c2fd8a922cbb",
    "company": "Vanda Pharmaceuticals",
    "title": "Vanda Pharmaceuticals Announces US Commercial Availability of NEREUS™ (tradipitant), the First - Vanda Pharmaceuticals",
@@ -38449,6 +38537,17 @@
    "first_seen": null
   },
   {
+   "id": "8bccc737dd01e9be",
+   "company": "Spinogenix",
+   "title": "Spinogenix Announces CLARITY: a Phase 2b/3 trial of SPG601 for the Treatment of Fragile X Syndrome - Spinogenix",
+   "summary": "Spinogenix Announces CLARITY: a Phase 2b/3 trial of SPG601 for the Treatment of Fragile X Syndrome Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb3JhZFJWeURWRG4wUkFXRFN0Yng2QjRORUc3VTZtSHV0eXpvYUYtTUdWODlQMG9Scl9QU1ZBNXhSa0NhRVVMRUxBNVdDRFNzVGFKZFI2RmV0d0ZyMlZ6a1VKd0VjOE92OWxYa2VRSkhiWFBNNGlkMUk3dEFiSlVnamZVMjF1NURaX1ladHhQaVFWSFB5eHlZaTdFVVd1c1dzMy0yUTE5WnMyZElkazZHamg4Sko5Y0FnSGRRSVpfU0x0dHRFeVQyQWU2V0VnSXdK?oc=5",
+   "published": "2026-04-23T07:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "ef6e3d5a3d27d613",
    "company": "Arvinas",
    "title": "Safety, Pharmacokinetics, and Pharmacodynamics of Multiple Doses of ARV-102, a PROTAC LRRK2 Degrader, in Participants With Parkinson's Disease - Arvinas",
@@ -39304,6 +39403,17 @@
    "published": "2026-04-09T07:00:00Z",
    "outlet": "TechTarget",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b759242035e1548c",
+   "company": "Spinogenix",
+   "title": "New Peer-Reviewed Research Demonstrates Neurophysiological Efficacy of Spinogenix’s SPG601 in Patients with Fragile X Syndrome - Spinogenix",
+   "summary": "New Peer-Reviewed Research Demonstrates Neurophysiological Efficacy of Spinogenix’s SPG601 in Patients with Fragile X Syndrome Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSnVZSDFXb2tRVXRTa25oMFVHck5FcTNFemFxTVplRDNHUVJldU5GanZTaGdxb1ZFZHBVaEJ3SGR5TEQ0bHcwejF6ZXdCcGVVYzNrLUplWlNOLWgxVDlUbGZjS2w3ZXBxMmpuZFNJTUlqOUNVSmVaTnhDeUdaU2lNTXdEZmMtM1NpcURVeHBGaEl4OWQ4THZNNWtmejNEWEd4SmJmZGE0MS1fSmdoZG5qdWFKMURtZU43TEFXRkV2SjJTc0dkRGNhOTAwVzFVMDVRUzBUT3IwWHU4alV1SVpYQ1Z5dFBCYmlYajNkdU8zLWllcDhHbHc?oc=5",
+   "published": "2026-04-09T07:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -40440,6 +40550,17 @@
    "first_seen": null
   },
   {
+   "id": "29dbced476fc24d7",
+   "company": "Spinogenix",
+   "title": "Spinogenix Reports Early Improvements in Phase 2 Trial of Tazbentetol in Patients with Schizophrenia at the Schizophrenia International Research Society (SIRS) 2026 Annual Congress - Spinogenix",
+   "summary": "Spinogenix Reports Early Improvements in Phase 2 Trial of Tazbentetol in Patients with Schizophrenia at the Schizophrenia International Research Society (SIRS) 2026 Annual Congress Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOQUdkT0J5QXRoZXc5WFdEeko5V3ZhNWFxUkJoNUVKZ3BFeUl0X2JfWmZoMEZkTUlaS3NlZU16NGZkYk1uTVJGb0ZWcGFfbUE1ZDg5NFN6ZnNPRmppbU5SRy1JdEZYVWp4ejI5endacEJyRXpBdWhTdXJlWVV4bTR5bmFVUHFJLWZmaFB2OS0ybExsNVd0NGxLeDBTMjhud0ZjanNTVXJkMjNjR1RBc3BZVHFMQTdqOFhyYWJ5ZWVhQ2JlaXRnZlJ3Z05TQUFDS1A2Qk82cGNINkdEZWNuUS14eS02OFNrQjAtRGxUNlBuRmhJandTdTA2cWFlSENBX3RNUVF5cmpGb2QtbEZNNVlldmJiWGVSN1NQZGVNeFhsNDY1b0wyVDZfaTFkeTJLdnVvMVJUQTltWlVBTEg2?oc=5",
+   "published": "2026-03-26T07:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "eb64715d57fd0406",
    "company": "Denali Therapeutics",
    "title": "Product & Pipeline - Denali Therapeutics",
@@ -41386,6 +41507,17 @@
    "first_seen": null
   },
   {
+   "id": "c86082fec470a479",
+   "company": "Spinogenix",
+   "title": "Spinogenix Completes Enrollment in Phase 2 Clinical Trial of Tazbentetol for Schizophrenia Treatment - Spinogenix",
+   "summary": "Spinogenix Completes Enrollment in Phase 2 Clinical Trial of Tazbentetol for Schizophrenia Treatment Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdHY2VXRkeFlwQzB2YjJoTndNZ1NIa1FpbnBaYXJOb21OQk5yYk14Z1hONnNueUhKRUdrTGZSSHR6d2xGSlpfa2xUbnVZZ21CRERpTloyTTJocklRcjlIVWVydVVlMVVSWVB5TkgtY3hlcmp6VkhLR1dONzNpZ0U2d29MX1c1SUVJMUtGNjhQOTlSdlgyQ1htVjRjNTlsTHRkREtkeE5oWXg4dDdpNXBReE1NWENxbTNtVG9QLVdjRllKX3FNRWNYN2hjZXBmdW5uX3BkRQ?oc=5",
+   "published": "2026-03-11T07:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "5129754c69e53754",
    "company": "Idorsia",
    "title": "Idorsia expands QUVIVIQ’s global footprint through new partnership with Pharmalink - Idorsia",
@@ -41669,6 +41801,17 @@
    "published": "2026-03-07T08:00:00Z",
    "outlet": "Bloomberg.com",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c8931d1091e864ce",
+   "company": "Spinogenix",
+   "title": "Mervyn Turner, PhD - Spinogenix",
+   "summary": "Mervyn Turner, PhD Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOUVZiS0w1YWM4dEZaNGxEallTOHVMLVk0cVJzRHZzRG9GUHJEOVNsRTl6UEtzcllmaWFXLVFtellFajF1b3JMaEJHMmRPT1lteUN0bzA3dUdhQQ?oc=5",
+   "published": "2026-03-06T08:10:15Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -41958,6 +42101,17 @@
    "first_seen": null
   },
   {
+   "id": "b5d32d680597a744",
+   "company": "Spinogenix",
+   "title": "Spinogenix Announces FRAXA Research Foundation Support for PIs Leading Phase 2b Trial of Investigational Therapy SPG601 for People with Fragile X Syndrome (FXS) - Spinogenix",
+   "summary": "Spinogenix Announces FRAXA Research Foundation Support for PIs Leading Phase 2b Trial of Investigational Therapy SPG601 for People with Fragile X Syndrome (FXS) Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZXVNOEpqbFc3bm8zV0JNRGNRYm0yMDVyLWRxUWxOWVMyaEQzbndvSkZXeHZycHpsc05jU05fMS1UX1B0NjFfbU5VelZObWdubjl5OEhwZFRUcWRnRUFETmFyWTVkSllaa3NpQndwTWpzR2tvRnY3XzVXdDNlVTgyM3Nkd2J5SWE2OG5adHpxcngyWEVSMXJtSDlXTWhJYlNuczVnWWZ3MmZaTnNjcFFUV04xN3lzZlNOaFlRaG1PaXFZcGxpNm4yVFJQR3M3Um9mLXB5bG5VLTRNdm1mZk43WVdWcHczVDA1LWEzQkZZaXFPZEQzQkhzalltbzJKdkhVUUpCVFltTl9hNkVPOG93SnpsNFQxc1I5UC1iT0JzOF9tUQ?oc=5",
+   "published": "2026-03-02T08:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "2c79012b03920dc1",
    "company": "Eli Lilly",
    "title": "INSTRUCTIONS FOR USE Important information you need to know before injecting ZEPBOUND - Eli Lilly",
@@ -42119,6 +42273,17 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkxQQ1FvSS13S1htam1kT0NYdklFTzdRbXlvVVFaWjBWS0NvbFFBVEFOQU1HVWNGcGt3UExFWHdUZUI1ZDVxS0tOcDRuejZTd1VXRXlHWU5TbXFpSjBHeHVFaHpxNDBLeDlFWXgzY1hWZVBDdmI1Y29GdFVjN3g0b0J5RjBiRndad3RfdWlrN2xUeUplbzd6SzB0NVotZmJqbER3?oc=5",
    "published": "2026-02-26T06:02:11Z",
    "outlet": "UCB",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "f3d018c19be332c9",
+   "company": "Spinogenix",
+   "title": "Jerre Stead - Spinogenix",
+   "summary": "Jerre Stead Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tUWh1a0xqazVfVkJuMi1qRU9kOHdrc2ZJUl9nbi1tRG5GQTVMMkZCaXdjWkxOVW9ab0hPVmdQdktSTHA1cnNnWWhROGVkUTBoOHc?oc=5",
+   "published": "2026-02-25T13:42:38Z",
+   "outlet": "Spinogenix",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -42530,6 +42695,17 @@
    "first_seen": null
   },
   {
+   "id": "78fc811fb478ee12",
+   "company": "Spinogenix",
+   "title": "Robert Weinreb, MD - Spinogenix",
+   "summary": "Robert Weinreb, MD Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4OVVuUG9kZnZGRmJCenVNWFlJR0VMM0g1Ri1CdDM0N0kydGtsSjg5SXhXcnloUkRBYzkwU25CS3hncWptV0hhcVFQRWxSUmZWOFhGSmR5WVNJZw?oc=5",
+   "published": "2026-02-20T03:43:04Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "a6eef2b45df947c2",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics to Present at Oppenheimer 36th Annual Healthcare Life Sciences Conference - Gain Therapeutics",
@@ -42761,6 +42937,28 @@
    "first_seen": null
   },
   {
+   "id": "c29026d9a4a5c515",
+   "company": "Spinogenix",
+   "title": "Peter Vanderklish, PhD - Spinogenix",
+   "summary": "Peter Vanderklish, PhD Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KaExhelNNcXMtN3M3ZDRodmQ0Vm80aDFDaDhfelJpYmFEMFF2QVYzM1BNTk5rY29GY1ZnMDU4LVVMQVhQTFdHTzlxUHl0UVlJd2NuVGoxaTg2N21OcGNz?oc=5",
+   "published": "2026-02-15T10:49:12Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "35753806e1813955",
+   "company": "Spinogenix",
+   "title": "Stella Sarraf, PhD - Spinogenix",
+   "summary": "Stella Sarraf, PhD Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52QVVPNVAzMk1XM1RwRVdIMHpvWkJJZmxoSnBmcHZLenBRUHZrSmdwUktDdnEwdEU4MWd6U0hlaVNTVmxGSm4tVXQxMHE5M21JRXlFS0ExekRwZw?oc=5",
+   "published": "2026-02-14T20:15:08Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "03f9224e32da0bbf",
    "company": "TG Therapeutics",
    "title": "Careers 180 PayerAnalytics - TG Therapeutics",
@@ -42893,6 +43091,17 @@
    "first_seen": null
   },
   {
+   "id": "8b63cb76a9a3d013",
+   "company": "Spinogenix",
+   "title": "Steven Young - Spinogenix",
+   "summary": "Steven Young Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MT3hHRmxNWlFBeXMyMGJkcnhJbzZRaVg0bE40UHE2MkZ5TF9hcDdzRVdXOU9rSlljbGFmU3E5ZkpVN0JaTFNJVVM0R0ZKNFlhOFN3?oc=5",
+   "published": "2026-02-10T17:19:49Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "4e2a9f2245359455",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Appoints Michael Cola as Chief Executive Officer to Lead Next Phase of Scale and Execution - Tue, 02/10/2026 - 07:30 - Helus Pharma",
@@ -42900,6 +43109,138 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVNNYlFyaEVpSlBOZERBSU0tOTlKVlViZ0Q1RDFCRUViQWNZZVFRVExJYWJlRElXMFdiTzc0bjNnYWVZS3lCazZpTFVsUkJxWkhOQm8xWTZwaldWLUExMzF3blRqS2RTVC1JYUo0Uy1QLXh1UzlPMUFhUEtuQzNXaFZTTDFiUWhMdDdQaENrQ29JUzh4RkdrSGNucjVXbVBZN3R1dDVzYlpoOF8yTm1zdXVycU9CMlB1aC1V?oc=5",
    "published": "2026-02-10T08:00:00Z",
    "outlet": "Helus Pharma",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "df468b0345a3b4b0",
+   "company": "Spinogenix",
+   "title": "Craig Erickson, MD - Spinogenix",
+   "summary": "Craig Erickson, MD Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50YVhPSEtPdnpaa1V4bnNGV3RVVDFqLTJ5YVg1d29hRzNZQ1FXcTZoX2prMFRwc0NqVlh4LVN1M1ZHZnZNdVhYOGcxT2p4UDk3SGdnQnEwYmwyQQ?oc=5",
+   "published": "2026-02-10T02:26:59Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "154d69d1c4c3cb0b",
+   "company": "Spinogenix",
+   "title": "Sharron Gargosky, PhD - Spinogenix",
+   "summary": "Sharron Gargosky, PhD Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lSGstdnF4clRncHktYUpBNlktVTRZd3l0U2RoaDd2Rks4UnhEaGpDSkNGS19ESmdpMkNpd0tGN2V6UUxMNW1XTm5QS3hpSXNXTXczclNwdjVQOVpNNnc?oc=5",
+   "published": "2026-02-10T01:15:03Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "f85579ff39ef40f6",
+   "company": "Spinogenix",
+   "title": "Our Science - Spinogenix",
+   "summary": "Our Science Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jRkhSclFIWUVCMW56QTBla1Ryek1EY0tkY3pjb25Sckpaeldva2luSnkycXBLcGlSRjJiM3YxR1lFdGlxalE?oc=5",
+   "published": "2026-02-09T22:44:44Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "f80359c05f82ac46",
+   "company": "Spinogenix",
+   "title": "Scientific Advisory Board - Spinogenix",
+   "summary": "Scientific Advisory Board Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fYTJLbVhNRWRsbXFGRDVrcTJRRTI1QjNRdzZ0QW1iQ19LbDFMWV9ZbngtUlVBQ0ZzVzZQVHFxQ3F5VkU1WW9iM3NCZ01FUmhXZEVTQTJBSWhnb2hfQThqa1lvNHRnQQ?oc=5",
+   "published": "2026-02-09T17:22:30Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8a4afe2ab772e6a5",
+   "company": "Spinogenix",
+   "title": "Board of Directors - Spinogenix",
+   "summary": "Board of Directors Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sU2t4d1c2WHJodTQyTUtkZG9jWHNHZmRxdVgtWkFHRzdJSDREWUhJSFhIUUJseXZldmtqZ0tRdDgzV1dvNExyd29fMERwM0VabUdObnZVQ0hCZHRj?oc=5",
+   "published": "2026-02-09T17:22:26Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "638d14f53b55c719",
+   "company": "Spinogenix",
+   "title": "Press Releases - Spinogenix",
+   "summary": "Press Releases Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WRnlXMjJ5amJVV0NBc0ZWV0tkMFFxRmpzLVlBNmJ0NFkzb0VRLXZGYnlpd1FfWlBPdDlwZGwxS2puY01GbWt3a1V3anpNaDFFUmZzYnI0QQ?oc=5",
+   "published": "2026-02-09T17:22:21Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "5d535752b4079d4c",
+   "company": "Spinogenix",
+   "title": "In The News - Spinogenix",
+   "summary": "In The News Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84RlRQR201WTQ3Rk5VeFBwY1dkenZEaXFWLTRGUDAzX1hDVnpsNVRRWDNvUGNucWhnQ1BpdFpPTjVMMm5WSUFMWXNDOXhqNjBkMGhn?oc=5",
+   "published": "2026-02-09T17:22:19Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "f76e733a3526bc08",
+   "company": "Spinogenix",
+   "title": "Blog - Spinogenix",
+   "summary": "Blog Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92LU1NRXAtTjhJTzRvN3A2MTNGNDZMT1NZWlRCQS1fbnZESUx5VTJGczdweFVWX0hrX0NuLW1aSmZaS1hFRWVBemZB?oc=5",
+   "published": "2026-02-09T17:22:13Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "46fa8bd075f4f7e0",
+   "company": "Spinogenix",
+   "title": "Expanded Access Policy - Spinogenix",
+   "summary": "Expanded Access Policy Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HU0ZyNUVudE1QeG1ha1VpSjUxSk01ak4wMWdpOUxERkRXb2xTZGJ6RzZDWFBudUR0MEttYkV4NEVDbEZjUnpGVzc4ekhDNGZxNC0zUlZ1OUFzdw?oc=5",
+   "published": "2026-02-09T17:22:11Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "26ad2e7286ce9060",
+   "company": "Spinogenix",
+   "title": "Spinogenix Clinical Trials - Patients - Spinogenix",
+   "summary": "Spinogenix Clinical Trials - Patients Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBnM3lLRzNERUg2dmhQMTFBMzZ3SGc4NTRsUTk4WUlOS2VEQ1AxNVVnaUFEQ2RLam4zZElmeV9IaktlRkFaeGVB?oc=5",
+   "published": "2026-02-09T17:22:06Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c6560c74a5b2f90b",
+   "company": "Spinogenix",
+   "title": "Restoring Brain Synapses Pipeline - Spinogenix",
+   "summary": "Restoring Brain Synapses Pipeline Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0T1Jmd2tBdlA0Vzltamp0bVI0RllSdG1VZHhDU1lCT1R2cnM5ZXctRFhvUG56UTBheWRyMGFnUk9RODJ4UEFJ?oc=5",
+   "published": "2026-02-09T17:22:05Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "464741606695f06d",
+   "company": "Spinogenix",
+   "title": "Pioneering Synaptic Regeneration - Spinogenix",
+   "summary": "Pioneering Synaptic Regeneration Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4yZTh6UGJUWVFzbW54VmZDRWNXMzRWLWQ2ZTVFVTVEMDFHSDVWOUZGS25xSGtjX1FhZnFlOFZ6SHR6UUU?oc=5",
+   "published": "2026-02-09T17:22:01Z",
+   "outlet": "Spinogenix",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -43374,6 +43715,17 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -43942,7 +44294,7 @@
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting - Johnson & Johnson",
    "summary": "Johnson & Johnson elevates leadership in depression with new data at 2026 American College of Neuropsychopharmacology Annual Meeting Johnson & Johnson",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdFBDQnpnOWpNczB2Y0YzcUNtSnNpa1ZfdnpYVWFGbTZaSjhfR1dIQTM3UEZFRDJLcjRnY09KS3NzMmtJWlJVeW93T0NNc2dESXpLb2JKd09YZUxsRU9LcDJsQ0c0ZTBVSkZVb0FxdkxIcFRUbldXaDBadzNpRURVWkdRSk00aEZuX3RwQzRvTHFFRDZRVUE3d0c1Y1pDTHV6emY3Sk82V1FwcnozSU42TzNJdm5VcXl0Sm1qdUJBYmRSVFN3TVkwTHYxdUhzeUJnUUxjd3l1UlpmRlc1U0VSdHJBbUZubWdwSEx3aGVDc09pX0FoUGQwbGFmVEZxT3pOSFR1WE5VeFM1UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUjI2blNPVV9UbElmUmI4TGZUR1h0OG12V1NjOHNOUk5GSzJ6VWNUR2FfOVBiSW9MZ1E3blVBVFFOMGphalE5dlRIczJKYkVSNEtCX3VkZThiT2RIUlVoWno0ZFdYVHA3U2JDRzV3NXFyRjNiVE9tcTBBT0gzZWhZWGQwTTVRLUxObjBFNVczb0REdVFWOWk1WUktRmZDbG1Lbm4xN3VCSGo1X3EtZTNOX1ZrdDVGeUpSSjZfQ0lXdGlwelZEbmdZUFN5cUh3dFlyTldfc0lFbEV3TWRlVVFiN1dKTG5seExoMmdKOUhPOFFIMmdZdTlYM3h6aENVWEtEa0N5Rk5abGpsc3dnV3dfUkUzRDNZempSZ3hxLU9hbE9VVi1aNjBHaUYzVkljUQ?oc=5",
    "published": "2026-01-13T08:00:00Z",
    "outlet": "Johnson & Johnson",
    "method": "newsroom via Google News (site:)",
@@ -46094,6 +46446,17 @@
    "first_seen": null
   },
   {
+   "id": "da41588d127c909d",
+   "company": "Spinogenix",
+   "title": "Spinogenix Reports Evidence of Rapid, Sustained Cognitive Improvement in Alzheimer’s Patients from Phase 2a Trial of TAZBENTETOL (formerly SPG302) - Spinogenix",
+   "summary": "Spinogenix Reports Evidence of Rapid, Sustained Cognitive Improvement in Alzheimer’s Patients from Phase 2a Trial of TAZBENTETOL (formerly SPG302) Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMkR4RmpmX281bWRWeGtxcnk5RFp2YUUyeC1nSmtHZFNMMUpGbG81MlRwU0hib1VjRUdrQXRFWTRoajBiaFJoX1FLd2o5TGhYSTlwZkxwUFJ6ODJPbGRWSDk4T2QwbmRiRUhwaXgtTlFXd25GQS1yX2VpT2JhcTBVd0JnYi1lWmlXY0dXWnJESUcyb1dwdkRpVHBFNWtvdlFKZVZTb0N4TVFjRXJ3NlVrT2laRzFoLVR3c2xRMFRoaVNIU05QczJvYmlnVjc1bDZhREJuQ05VWlVRVkNoYjNlaHpmcFRCZw?oc=5",
+   "published": "2025-12-08T08:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "468e19dad0cab5d1",
    "company": "AtaiBeckley (Atai Beckley)",
    "title": "INTRODUCTION APPROACH - AtaiBeckley",
@@ -46432,6 +46795,17 @@
    "published": "2025-12-01T08:00:00Z",
    "outlet": "Zacks Investment Research",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d467bee68fa262c3",
+   "company": "Spinogenix",
+   "title": "Spinogenix Announces World Health Organization Approval of ‘tazbentetol’ as International Non-Proprietary Name for SPG302 - Spinogenix",
+   "summary": "Spinogenix Announces World Health Organization Approval of ‘tazbentetol’ as International Non-Proprietary Name for SPG302 Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaVVtUFFOd201eTRQelpNa0ZXVXFwVFlPRXhxNjhPSlVKX25XbVhfa3hBM1VIM2hUdjdfVkpBY1Q0Ym9ZaDcyUmM2VElDeEhPbTk3WDZWX0tTLTFQVkJXcVhielJlYmxLdzNudVFYTFBOTEQ4Ymx4aTdjOG81WkZJUU0xSjBlVDJILWtOZi1FbnZRT1ZYbmw5c2FBQkNLUXp5bFZpQWsxMkQtMXVHbVlKNHJqcWFZRzZZOTVfVF9PUGQ0YlBsSndod3dEY3FQY3lpNjR1Vl9CSTRaNF9BN0NOZTFiWnM0aVJ5UkZKTA?oc=5",
+   "published": "2025-12-01T08:00:00Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
