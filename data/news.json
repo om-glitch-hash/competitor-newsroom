@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:59:28Z",
+ "updated": "2026-11-26T07:14:46Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,39 @@
  },
  "items": [
   {
+   "id": "aaf54d4e48cd8ef7",
+   "company": "Herantis Pharma",
+   "title": "Inderes raises Herantis Pharma to Buy (Increase), price target €1.90 (2) - marketscreener.com",
+   "summary": "Inderes raises Herantis Pharma to Buy (Increase), price target €1.90 (2) marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkU0LW9RWER3ZWJYMlpmNlhWdjU3aVB1dDk3MUtEMm5kRDRWWDhXUHF6ZHdQSUI5VTZ5QmdubE5aalRPbjhzVEF5WFAzMDRJdXRydFlRdXpGTkQ2NFZ3N0UxMUJ0NEpqZm9ITHpHWWNZcU5ic3gwel9BU0lHLVZzb2oyN0RzSTFudUVjYXpQSnlFWHlKMGdORmU1SmlhQmpVLTdSbmxJSDNYRFlnY2J0SUN6akJ4MmxFdEpiNzViNXY?oc=5",
+   "published": "2026-11-26T06:50:23Z",
+   "outlet": "marketscreener.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T07:14:46Z"
+  },
+  {
+   "id": "9d572cd76df9040d",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH): What Does the FDA Phase 3 Pathway Mean for ATH434 in MSA? - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH): What Does the FDA Phase 3 Pathway Mean for ATH434 in MSA? Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOGplWnQzZ1VKdUlrOHpuVTdjUlRyOXUxM0VnN2JYNmUxbVlUNkVuVklsdGUtYXBieXNwMmdjdjN6cDVOMzNhcXp3S19tajRrSFpRUC01MXBONjZmSzlQWjIxTGlQbnBzNFFqOFNaM0M0UnRhZ2hYMmlVRjhJLWdTX3pUVEJwUkJCSkRWdDlVRGktX05IOHRfcnZFcmpXVTZPei1abThGNU5mOERFZWIteDJFR2pPTFhzb3FrN2VXYlNYT0haRkR4RTdR?oc=5",
+   "published": "2026-11-26T06:20:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T07:14:46Z"
+  },
+  {
+   "id": "c9afd466ff16a0a1",
+   "company": "Alterity Therapeutics",
+   "title": "ETFs Investing in Alterity Therapeutics Ltd. Stocks - TradingView",
+   "summary": "ETFs Investing in Alterity Therapeutics Ltd. Stocks TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41cDg3UVRNb1l2S1ItZ1NuRDNVUkRTR0FjeGc1czNyU3hOWThvWXJTRzlGc2JRbFNaa2RLZU1WbDc0ck9IV1VLWFgwcU05MmZ0SWlCWHB6WUtobGxLcU5JdA?oc=5",
+   "published": "2026-11-26T05:40:10Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T07:14:46Z"
+  },
+  {
    "id": "ecd0812bcb323953",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics Issues 2 Million Unquoted Options at A$1.00 Exercise Price Expiring November 2031 - Kalkine",
@@ -1795,28 +1828,6 @@
    "outlet": "Stock Traders Daily",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T04:59:29Z"
-  },
-  {
-   "id": "7e93531c4e5d525a",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
-   "published": "2026-11-25T22:43:23Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "7a892ad1afc53854",
-   "company": "TG Therapeutics",
-   "title": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference - TG Therapeutics",
-   "summary": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xNy1tVG85Z256SGJLRF84ZE9fb1JlN3VpQms2eHRMZk9hcF9pcmRQNjZuWndUanZtS2FLMlBWN3NxZWFIa3hNNnJLelprUGVTNXk5bk42MA?oc=5",
-   "published": "2026-11-25T16:47:48Z",
-   "outlet": "TG Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-25T20:25:38Z"
   },
   {
    "id": "112e1a9d3186f69d",
@@ -1971,6 +1982,17 @@
    "outlet": "kalkine.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T21:28:11Z"
+  },
+  {
+   "id": "7a892ad1afc53854",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference - TG Therapeutics",
+   "summary": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkhiQWxmODBfVUJYRHMtUjBDLWZIMENXb09rUFlQZU5zRHJ5LTBkME1HekQwTkJSS3ZaSV8tYVBtc19qM3hWdWxvdWQ2SGJHVUdxWEdWOGJzdEYwVUMwWWw3clBOSkV4TjZnSGdyTk41S05zMzlEX1hJTHhLeUFZdFBPcUd6Z3hkSUR2VFhYRjVIYi1fMFB2M3kyME04LWFEcFVHdjZzR1Q4dG5tRVF5c0lEUE94X1V3YmJuOC1CY0Q?oc=5",
+   "published": "2026-11-25T12:30:29Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T20:25:38Z"
   },
   {
    "id": "f1e7fda7fda4213d",
@@ -9948,6 +9970,17 @@
    "first_seen": null
   },
   {
+   "id": "7e93531c4e5d525a",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU1OR0FERnpndER1a2JBWms3SU52ZlFONC03WmdfUmhvNnJwdVJRQnpMUjExeFdjVm83RW81bkVQUy12R0NkT291ckxkZnQ4ZTlMRll6ZE5Md0ZVaTBtb2szcm0xLTFYWnJvdW15OHBDMkh2TjAyalBDWGM3WTJMUFFiNzd1VGoycmQ3N2dqVQ?oc=5",
+   "published": "2026-11-11T18:56:02Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "16f381ebb39951ae",
    "company": "Vanda Pharmaceuticals",
    "title": "NEREUS™ - The Goat of Biscayne Bay Arrives for Miami Art Week - Vanda Pharmaceuticals",
@@ -13083,6 +13116,17 @@
    "first_seen": null
   },
   {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
+   "published": "2026-11-03T12:12:08Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -13123,17 +13167,6 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
-   "published": "2026-11-03T08:00:00Z",
-   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13868,7 +13901,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LOW13MVl0Wlh1MkRyUU9Ub3RJT0FtLTZfTWxrbmxiRHBBQ09fSXZKcXh2TTQzSlhsWWpJM2pnUzd4Sm5qTTM4dS1ZMkwybndOOVdhSXhFMA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkpqVWUtT0tZMVVwS2NzMlhuZGVpMnl2ZFZUOTVUSllZRW9BQ2FkN2IzZHpOYkdSWk1nRHZTTlhIaGFEWjRlMTYzaVhpZVdQMDNXZGVEbEppOHVhRXJ6MEItUTEwN010ZzNkdEczazgxUlZlSUtBdmkzbkljc3pUdXZUcTZXZm04anBqck5kUkhkeG52SXF0d25ELU96c1Y1NUNXTUxyUG9LWlRrU3FiaExHVVRJY1JqXzZKag?oc=5",
    "published": "2026-11-02T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -14715,7 +14748,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -15481,6 +15514,17 @@
    "first_seen": null
   },
   {
+   "id": "0550f02e8fbd3661",
+   "company": "Teva",
+   "title": "Teva picks up new neuro assets in BioXcel's bankruptcy sale - FirstWord Pharma",
+   "summary": "Teva picks up new neuro assets in BioXcel's bankruptcy sale FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZS1lOY2VVeU9KM0xHQkxlUjcxSElCOTRtUnNNQjJwaWtBd0NFeURkdDU1WGJPajFnS0ExdDdDR0traGdVdlRzT1h0ZElYcHItZ24w?oc=5",
+   "published": "2026-10-27T21:22:02Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "86543544d6e50441",
    "company": "Minerva Neurosciences",
    "title": "Minerva Neurosciences Reports Third Quarter 2016 Financial Results and Business Updates - Minerva Neurosciences",
@@ -15511,17 +15555,6 @@
    "published": "2026-10-27T10:30:00Z",
    "outlet": "",
    "method": "newsroom rss",
-   "first_seen": null
-  },
-  {
-   "id": "0550f02e8fbd3661",
-   "company": "Teva",
-   "title": "Teva picks up new neuro assets in BioXcel's bankruptcy sale - FirstWord Pharma",
-   "summary": "Teva picks up new neuro assets in BioXcel's bankruptcy sale FirstWord Pharma",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZS1lOY2VVeU9KM0xHQkxlUjcxSElCOTRtUnNNQjJwaWtBd0NFeURkdDU1WGJPajFnS0ExdDdDR0traGdVdlRzT1h0ZElYcHItZ24w?oc=5",
-   "published": "2026-10-27T07:00:00Z",
-   "outlet": "FirstWord Pharma",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -26519,7 +26552,7 @@
    "title": "ACIU Stock Heads For Best Day In Over 10 Months On FDA Fast Track Nod For Parkinson’s Disease Therapy – Retail Sees ‘Breakout Soon’ - Stocktwits",
    "summary": "ACIU Stock Heads For Best Day In Over 10 Months On FDA Fast Track Nod For Parkinson’s Disease Therapy – Retail Sees ‘Breakout Soon’ Stocktwits",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzVvZU5pd2E1R1B1U2hONGpUV05jdmF2eGUxdmVLMldhV0lOek9lZE5ZS1FmWnpBcHZ0UDJkWjlEZlhqQzNWWGFDdTdjZnVzWVJCLWdnSGpvcktIbV9sT29xTDhCZV80OHM2T05aQmZfa1pzc2VCQjZHaFRaNVMwZUotNGlJaEFOOFpBTWIwaHhzbzlmN29XREdBdw?oc=5",
-   "published": "2026-08-11T07:00:00Z",
+   "published": "2026-08-11T16:22:57Z",
    "outlet": "Stocktwits",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -28366,7 +28399,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -29264,6 +29297,17 @@
    "first_seen": null
   },
   {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
+   "published": "2026-07-23T09:38:46Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "cbddd078a7b989f3",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Announces Key Leadership Hiring, Promotions - neurocrine.gcs-web.com",
@@ -29935,17 +29979,6 @@
    "first_seen": null
   },
   {
-   "id": "ff210f67bf52f562",
-   "company": "AtaiBeckley (Atai Beckley)",
-   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
-   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
-   "published": "2026-07-17T07:00:00Z",
-   "outlet": "WSJ",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "53df4fa4ea65cb6d",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics CEO Gene Mack Issues Letter to Shareholders and Provides Operational Update - Gain Therapeutics",
@@ -29968,11 +30001,22 @@
    "first_seen": null
   },
   {
+   "id": "ff210f67bf52f562",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
+   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a3ecaf7592fbb2b1",
    "company": "Eli Lilly",
    "title": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - Eli Lilly",
    "summary": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS280WDZmcXhMU2J5MmdnQ0hKejh0X1prSWN3MDJUTko1NG1lSENxWXlLN1lfUGNVMDUtQktXYzVLd0p1c3A2WjdCUW9jUWw0OWhIek5DdlR2WTBCYmtXYWpOTTFWMnBCZjRDNzduTl9BTDlWWlJPdWc4eUd2emlJNnYzUmc3VUd5NU5OZmwxajlRMXdwTTdpZXNYUDFXeTctMTVmWnBnXzhlMk5yTjBwbFh1SF82b3BSM29tMnVhNTYyeFU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92T3ZmNng2MVhya3ZjX1EwZUNDMWlsLWI0Tmd0cEJFU3A4N3FRWjdWTnpoZVpRc3NIWU5ISDNkSzMzSHVKekFxdFNnRktsV0UyanhN?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
@@ -30800,6 +30844,17 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT2JGU1NGWk80d0VLbWgyWGdkMnZwaDZ3MkpXY3Exb00wall0Y0FtNzZYR3NFWjM5eXB5WFdQM2R4RzRwLWxRblU3b3N6d1BuNXJqSWRfWnEwbnhHMmE2V0ZKX1JqbFlNTmlXYzUyREkwLW1MbVh6SXMwbnJLOTI1TDVjTk9BVEhOQ1l2X0lKSlBxVzg5RWtqQTNmWUNERHhOLUFfZEZyb3M5U3hkOGVYQ0ozTG1XV0djVUswRGdPTkFaVXZLdXA2cVVRNlNyN280OWIycEVuQWw?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "176f8db5d141ff1a",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Watch Lilly Buys Psychedelic Drugmaker AtaiBeckley for $3.8 Billion - Bloomberg",
+   "summary": "Watch Lilly Buys Psychedelic Drugmaker AtaiBeckley for $3.8 Billion Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUZuNWZqOU9YVVc0ZG1sQnNETlpVLUhGTTVtb2ZNX1RoLXRWT3RLQWczX0tGUjdxQzhkT0RHNGs5dXBvNUl5OEhpQjN3TWRKckp3RGhNWGhYSkc0UE5qVTZfYmJXdWpZbmlNTVIxc3E3Z2VNNHVBeGlhNUdrekEwbXVKRUJUM2JUTmE5YjFETk9aal92dkJPYkl6NUNQYTNLdEVGa1R2V3BJQnJn?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Bloomberg",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -34302,6 +34357,17 @@
    "first_seen": null
   },
   {
+   "id": "52e7ef95ecc1987a",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (NRXP) Stock Fell 19% After Hours On Tuesday: Here's Why - Benzinga",
+   "summary": "NRx Pharmaceuticals (NRXP) Stock Fell 19% After Hours On Tuesday: Here's Why Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWx3Y2stM2xvQTdMQV9PWm9RbVEza01IT0R3UzNhN1ozd1RsV1NQX0hPb2Y3d1ExSjhJSno4STVjdjhhanlsalE4MEhkNm5pb0p3TnRmVGlrMkdKRC1QVE5ESm9Sa2hqWHVMangwdW9MZFFSWjBoTVVQMl8zOTd5aFZuUUM2UmNrV0lDOTM4NFpoOE1saTVZajlvd2xGaUVwMllHZXVaTEg0NHRVR0Z5OG9uVmNJMHptai1SZEtpUjZqcXptcDkw?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "edd2c7ba36f555b6",
    "company": "Arvinas",
    "title": "2026 Archives - Page 2 of 2 - Arvinas",
@@ -35622,6 +35688,17 @@
    "first_seen": null
   },
   {
+   "id": "dcd1fb2657c9dc9d",
+   "company": "Eli Lilly",
+   "title": "Bowel urgency drives anxiety, depression, and embarrassment and affects travel, relationships, and daily activities Bowel urgenc - Eli Lilly",
+   "summary": "Bowel urgency drives anxiety, depression, and embarrassment and affects travel, relationships, and daily activities Bowel urgenc Eli Lilly",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQWDRfMDVOcVhrTnVickN1c0NaZnZqQ092MGJ2cURRWi03YUVNZEYzeGxIYWFyZ040X25QUEJ0MS1TcUgtcGFZWWxiYWFpcldpN3gwVkNSLXZTbEhUamg1dmh5VEw2RWJJY3BfcjBGVzlPNXhtLXJCSnBuQmVIOVdzcnlRTE5OX0ZfTks1czdCYmtZTHVBdy1ka3BKa2J3N054ZnJRLWpPWWJRTFJkaXhmMS14TUp4TS1tdjZiYVBIMjg0dHBobGl3ZEFCTXdEUVJaelVMeUlNOWxOVUttSm5ZUmRjT0xqaTZXRUZreXduYWNWNkNUekpIWnl2TW5Zal9Ka1J1WWRJUFMtZjhKS1VTX1YycXNuMDF2T19Gc0d0dW14eHdEZ3RabzFyTTg?oc=5",
+   "published": "2026-05-21T01:35:35Z",
+   "outlet": "Eli Lilly",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "d6734463c2808dfa",
    "company": "Roche",
    "title": "12th Congress of the European Academy of Neurology (EAN) - Roche Diagnostics",
@@ -36716,6 +36793,17 @@
    "title": "Neumora Therapeutics Reports First Quarter 2026 Financial Results and Provides Business Update - Yahoo Finance",
    "summary": "Neumora Therapeutics Reports First Quarter 2026 Financial Results and Provides Business Update Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZW51Y2lrbzUwLWZHdTJ4TUVLeHpVM2dqWmZiN19xZ2gxelc3Yll6WmV0aHJrcHZHaXdyUGpzRVFnZFNkb05KNFZGRV9ONjVoTkFSYlQtQU1kOVhpLXFLNUtWVFNBOEg2UUxxS25rcTZ2eWRZVVBuejdJOXZaQnJoZVUzY09tNnhtS0g5NjBrWlN6Tk5abkdiTTNIVjg4M3UtVk1HX2xtSVFwRk56UXVZSg?oc=5",
+   "published": "2026-05-07T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "cac8066c5ba11838",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Announces Participation at May 2026 Investor Conferences - Yahoo Finance",
+   "summary": "Vanda Pharmaceuticals Announces Participation at May 2026 Investor Conferences Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTHNoUzJpTnVGaVZMUUtBTVpxN0l3ZllJei1vX1FNclJpWkNPdVBmYVN1ZDhwR25xVHJXQ2hLdGF3S3Nmd1B2eXJvd3I5bUlqdE1fRmM3Z1F1TXI0UkxEYm8weE0tNE9QYU9XOXBPbnBFVDI2a1pHMGJKWjlxM3NveW54OGFES2V5Vnd2b0xRT1lCMTY4eEE2NldadHZOUldhUzJ6S3FzTmtsVjU1ckVQWG1GX0ttLUhxenc?oc=5",
    "published": "2026-05-07T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -43099,17 +43187,6 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
-   "published": "2026-01-29T10:15:29Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
