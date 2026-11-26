@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:52:54Z",
+ "updated": "2026-11-26T02:49:37Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,28 @@
  },
  "items": [
   {
+   "id": "9c87ab68c849cc5f",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics director buys $13,894 in common stock - Investing.com",
+   "summary": "Serina Therapeutics director buys $13,894 in common stock Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNm1CTHN4TFVDWVduWS1RWDFiVXJ2b05HX0lXYkJyeExFR0dMbHk0T0M3N25EWC1oSTZsa0RveWVjWWxxRHVLekMzZDM5SjVMczk5bUJNRW91T3VQdGVibW9Wem41NE9DaWJQZzlERXBrV0hnb2lCMDlxT1dmVWJGb0w3cjczUHJ1YnVULXV4LXp6Q0NsTkJNX0pKVjBYVkZ1OU9RVXZ2U0d0WXhqLU9IZnFPVHZCMnFVd3VueQ?oc=5",
+   "published": "2026-11-26T01:49:54Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T02:49:37Z"
+  },
+  {
+   "id": "8ec4f1bd187c5064",
+   "company": "Serina Therapeutics",
+   "title": "Form 4 Serina Therapeutics Inc: Gregory Bailey (Director) For: 23 November By Investing.com - Investing.com India",
+   "summary": "Form 4 Serina Therapeutics Inc: Gregory Bailey (Director) For: 23 November By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkplMEktdUhmVm1nUnM1ME5YN1hDcThwQkFFd1hlU3hPTEJuSGU5ZVdJc0dnOWpKcTljdGFtVzRVYkpUaEpWS3FpR2N3d2c3Zzg0VnlMbEpxcGp2anl2YlZTT2VrYTc2a1RXLXR5bHhyNEhqYTBXVXRleWM4d3dmZ1l0R0tOVUFROGNXM1B6MkFPWWZ4enFTbkszVXJwWWRhcl9LX1AxWW85bjJPSHBGNnpSZjdxY3VuMEJXSkRCY3pqSWdOVHEtQVFHRQ?oc=5",
+   "published": "2026-11-26T01:39:27Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T02:49:37Z"
+  },
+  {
    "id": "60ac7636a7c8179d",
    "company": "Serina Therapeutics",
    "title": "Serina Therapeutics director buys $13,894 in common stock By Investing.com - Investing.com Canada",
@@ -1676,6 +1698,17 @@
    "first_seen": "2026-11-26T01:52:54Z"
   },
   {
+   "id": "57febb8ca2c6aa0e",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Director Gregory Bailey Acquires 10,105 Shares in Two-Day Open Market Buys - Kalkine Media",
+   "summary": "Serina Therapeutics Director Gregory Bailey Acquires 10,105 Shares in Two-Day Open Market Buys Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVEc4X2tpYTYyTkExX2taN0tabmJUajE4MWZQM0VNYkZpNVBSWDhHNHg4Ql95bU1YVmNKRDAzQk16UXpmamZqWlIwS2lFcGpHMWZka3g3VkdFbmlJNVpzaFJmVWEwemFqNE42ajJqSHpjR3pFYWdLQjVHT095akRoZkJ2OHZid1JkSEZXelBjOHlYZ3JRaWJVYzdIS2JESFJPZGs2Z2JRUWZjNUlRMEZQd3VHck50WmlOSUd3SjNwSWZ1aHU0bzV4V0h5MVFONWgwZXR3LW0zYw?oc=5",
+   "published": "2026-11-26T01:10:17Z",
+   "outlet": "Kalkine Media",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T02:49:37Z"
+  },
+  {
    "id": "2a07c59074780af1",
    "company": "Serina Therapeutics",
    "title": "Serina Therapeutics (SER) director Bailey bought 10,105 shares for $13.9K at an average $1.38 - Quantisnow",
@@ -1696,17 +1729,6 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T01:52:54Z"
-  },
-  {
-   "id": "7e93531c4e5d525a",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
-   "published": "2026-11-25T22:43:23Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
   },
   {
    "id": "112e1a9d3186f69d",
@@ -2257,6 +2279,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T22:40:18Z"
+  },
+  {
+   "id": "df3e245698250d44",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals to Participate in December Investor Events - Yahoo Finance Australia",
+   "summary": "LB Pharmaceuticals to Participate in December Investor Events Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlF3dExFMllScWt2dXVLNnIwYWRwX1oyVThFOGt2dVRvZTM2SEdJOEJreGFydjZTbUpXZHVnYWM0QjNwSDZCSkVtZXZJY3VyWDFEbERqVW85X2I0a0hodDdsVzJkTEVRdE9nN0swSHExdS1wVnVTYjlLbFhRbTlYWnNmTEprcURfVFZTTmlDdGtSakZ2TVN1dEZ5NkdzQQ?oc=5",
+   "published": "2026-11-24T21:05:00Z",
+   "outlet": "Yahoo Finance Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T02:49:37Z"
   },
   {
    "id": "0866992b9d9920d4",
@@ -9838,6 +9871,17 @@
    "first_seen": null
   },
   {
+   "id": "7e93531c4e5d525a",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU1OR0FERnpndER1a2JBWms3SU52ZlFONC03WmdfUmhvNnJwdVJRQnpMUjExeFdjVm83RW81bkVQUy12R0NkT291ckxkZnQ4ZTlMRll6ZE5Md0ZVaTBtb2szcm0xLTFYWnJvdW15OHBDMkh2TjAyalBDWGM3WTJMUFFiNzd1VGoycmQ3N2dqVQ?oc=5",
+   "published": "2026-11-11T18:56:02Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "16f381ebb39951ae",
    "company": "Vanda Pharmaceuticals",
    "title": "NEREUS™ - The Goat of Biscayne Bay Arrives for Miami Art Week - Vanda Pharmaceuticals",
@@ -12973,17 +13017,6 @@
    "first_seen": null
   },
   {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
-   "published": "2026-11-03T12:12:08Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -13024,6 +13057,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -14605,7 +14649,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
