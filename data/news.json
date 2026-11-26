@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:59:29Z",
+ "updated": "2026-11-26T05:59:28Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2006,17 +2006,6 @@
    "first_seen": "2026-11-25T14:18:57Z"
   },
   {
-   "id": "c5b5b705aa2f71cd",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
-   "published": "2026-11-25T09:33:32Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "3b06d9626c1b705a",
    "company": "Usona Institute",
    "title": "Pα+ Psychedelic Bulletin #235: Canada Outpaces U.S. on Ibogaine; Usona Pledges No Sales Reps; A Third of Spravato Prescribers Drive 80% of Volume; Will the VA Be Ready? - Psychedelic Alpha",
@@ -2125,6 +2114,50 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T17:34:44Z"
+  },
+  {
+   "id": "de020c26f5a42b2f",
+   "company": "Herantis Pharma",
+   "title": "Herantis Pharma Prices EUR15 Million Share Issue - www.marketscreener.com",
+   "summary": "Herantis Pharma Prices EUR15 Million Share Issue www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWlweVc0LWtSTTdyajJwVzFTNG5nazh5aFVsWVR3cmNJMTZRdzFzSnJ0TUxmczZ4MTFuYkhxQUdZS3Y3TEhMOXR2MTY0bWRpNUNFdnhYaUdtWm1qaEVZWk1iVnB3ZWxLTjFLemtSVlNtMk5ESmVHWkhjQzFVbW1qbF84MmMyWE9zWlhTSklhcXM5Ukl5QVhJZUVnZnk0UUJKZks0?oc=5",
+   "published": "2026-11-25T06:12:12Z",
+   "outlet": "www.marketscreener.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T05:59:28Z"
+  },
+  {
+   "id": "c890dcbbf594177f",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (HELP) stock price, news, quote and history - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (HELP) stock price, news, quote and history Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XakJnSUZOaWFzVHJZNXhLakhFeWRHRF9CYm9YRHpKRHBFNFBkbk5NaTJQd0JPQkJMaGJOUWQ5RVlYNGdqR3pZcXhvVVBjbzJyMXc?oc=5",
+   "published": "2026-11-25T05:06:48Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "7106268b0feaf0d6",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) stock price, news, quote and history - Yahoo Finance UK",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) stock price, news, quote and history Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFUUMyYVBoczRhdnc1blJyTkdWM1pBTVJhX0JuZXViSDFYN0o3RVZoTTNSM2FaUFo3YjlHVjNJUGxiU2JsYXNTUjRsUTFKaUV5LWc?oc=5",
+   "published": "2026-11-25T04:53:04Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T22:40:18Z"
+  },
+  {
+   "id": "c5b5b705aa2f71cd",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
+   "published": "2026-11-25T04:46:15Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "4e8c5c3ef9e20737",
@@ -2274,8 +2307,8 @@
    "company": "BioVie",
    "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 - Quantisnow",
    "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEF0QnBuc3RrRUtRaUhEcGVmbExKTlBNT1RnZUlHejdKbW84a3E0VERuQTRMcUtvb1FXQXYzQjlHWENUWEZONzZQV2VTNWlEcEo3MUNFb0lfTmxWekszMXhLMkFHT3FMb2E5Qm9rdkRqeVhOeWl5NzdNRGZOMC1qRkNrenpYc3F2QXIxcHZqR1pwajF1ZHZTeTdTaw?oc=5",
-   "published": "2026-11-24T21:30:49Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW0tSy14WnZhZ2kwZE9LRXZvY0pfNFBkeWhlZWRrZzhROVJDYms2WkJxeVdxOE9FNlBvVFM4M0JEZXZzV2JReG9XTnNVOFpMTE1KZWFVcFI2WmFfektONmFkQVB3WDJvRjVVbHk3TjNGcDNjVldhbXdfLWxQNWYzdEloNXZQNm1zNk1iSWRfMVVuVWFkMnc?oc=5",
+   "published": "2026-11-24T21:31:24Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T21:39:02Z"
@@ -2455,17 +2488,6 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T15:29:13Z"
-  },
-  {
-   "id": "c890dcbbf594177f",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma Inc (HELP) stock price, news, quote and history - Yahoo Finance UK",
-   "summary": "Helus Pharma Inc (HELP) stock price, news, quote and history Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XakJnSUZOaWFzVHJZNXhLakhFeWRHRF9CYm9YRHpKRHBFNFBkbk5NaTJQd0JPQkJMaGJOUWQ5RVlYNGdqR3pZcXhvVVBjbzJyMXc?oc=5",
-   "published": "2026-11-24T15:28:22Z",
-   "outlet": "Yahoo Finance UK",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "4930feed9a498f4a",
@@ -2653,17 +2675,6 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T11:40:55Z"
-  },
-  {
-   "id": "7106268b0feaf0d6",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics, Inc. (RAPP) stock price, news, quote and history - Yahoo Finance UK",
-   "summary": "Rapport Therapeutics, Inc. (RAPP) stock price, news, quote and history Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFUUMyYVBoczRhdnc1blJyTkdWM1pBTVJhX0JuZXViSDFYN0o3RVZoTTNSM2FaUFo3YjlHVjNJUGxiU2JsYXNTUjRsUTFKaUV5LWc?oc=5",
-   "published": "2026-11-24T12:27:59Z",
-   "outlet": "Yahoo Finance UK",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-24T22:40:18Z"
   },
   {
    "id": "c49f4a716a734188",
@@ -5449,17 +5460,6 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlByamdkem05QXVvWHlJd2FEcGcwWGFxMklrbENKVEJlZVNSdERRUkRDZm80OWhsYmtyU1d5MXZhRW1JczlFYnVSVF9jZnZQUGp2Rkk0U2psQUlnRWJDcnZwSTFuUnpnQm9udzlueEpxQ0FERVpXTlZHaVVPNGhvd2h3LXhsWjRaRlQxbHNTWXBOdUpuOW04VXpzbVNoOTNqZHJmWDRidGxadHBfS2haUnd0MA?oc=5",
-   "published": "2026-11-19T00:46:41Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
    "id": "d0312c4cb0ad9d03",
    "company": "Alkermes",
    "title": "A Look at Alkermes PLC (ALKS) After 3.1% Gain -- GF Value $33.66 vs Price $46.85 - GuruFocus",
@@ -5623,6 +5623,17 @@
    "outlet": "Coinbase",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
+  },
+  {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTE4M3BhNENxOU1wdUxmcC1QUjIwbWg0N3dnbmZEYW8tdGtHVXRYNXlvcGkwLS1yQ3FVOV9QS0FuNTZGb3VzTXVjbXF3aGxkT3o1LWdwY28yYTNoam9GeC1aMVJ5TjV3bll5YkxXRExnMXp4MHo5S0JGY1lub29BcGx1MmdKdjdRbFNjM0ZiZ1pOa3NzU1VkWGROaWFxQ05odG9NOXhBNUJEMFVOSTFCZE5DdVlqdzB1TXhSaHQ4dE9aRmRkMjUwVjJ6dnpCdw?oc=5",
+   "published": "2026-11-18T15:15:27Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "ae43ecd6c96a7fd5",
@@ -5832,17 +5843,6 @@
    "outlet": "StreetInsider",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "c3802e028a7e11ab",
-   "company": "Remepy",
-   "title": "Full list of Israeli high-tech funding rounds in 2026 - calcalistech.com",
-   "summary": "Full list of Israeli high-tech funding rounds in 2026 calcalistech.com",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hV1d2c0FZTk5qeF85dGpPZE95SndRQVhRRTJySkh6NjJwNklHenJzNHFKSGlodUJndy0ydzBobVYycGt3TUxHZ1k1VC0zcTI5OVdOOXhhN0JOTWpiaTJFeEpvM24yeGs?oc=5",
-   "published": "2026-11-18T08:38:00Z",
-   "outlet": "calcalistech.com",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "390298eaeed5a8d3",
@@ -6061,17 +6061,6 @@
    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPX29LTzliUjRrVTVfQWxaSnJnRzA5TjVtYXp6ak5UdTU3cVV2X3Z4RHR5ZDNMdkl3Ym56OGdjcHVRRTJZSDVtM2d4ZnBnZ3JUNHdCWmI0UUlRV0drVzJaRnRvazJycG9NcTZrUW8tUUNNeF9FdENsWTBHa0RONWJHQm9wb1BTbC1MZlp5UDZDQm5qa3NrejNQaTVCNWtMbW9zaERIWGxoMHI4VmtuMk1seWdpUGt0ZHdNaWNpYXc2cXNTRnZXa1FOdVJ4NjNpVEhDTG9OYlVxMjJWSnhWeHRqYmFhZ1dKNUh3Zk1sRjhfWlJEekVraDYycVVLU3ZxV1Q1MUZESTljUUlaZGxFUUItSVgzdHFIVDNrREJJQlJ3cFVRdUk2amI3NmVKTWtzZw?oc=5",
    "published": "2026-11-18T00:09:40Z",
    "outlet": "Gain Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0lGQ0FqTURCUi1idEpKc0Z5ek01RWx6UlVoREdVUjMtSmp5bG5nejd5NnNVS29vSU43WEpLRkMxMG01M2g5dmgyZnAzZnUyb0NUbUYtUmV4dHphV1hHMGFnN2pVakFDcW40MjJzemlEWE9FckRvUkdqdUNEU0Qzal9ERk5xMDFCY3gwV2dZYmhWbjRORXlNYVdDUmZHd1lfb1VhTVM4bGdCa1hmSE9uLUJha0tLNXJZSkF1dTA3T0sxdFZJRmc?oc=5",
-   "published": "2026-11-17T23:58:40Z",
-   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
@@ -6758,17 +6747,6 @@
    "first_seen": null
   },
   {
-   "id": "1b66d48ac512cbfe",
-   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
-   "title": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Third Quarter 2026 Financial Results and Provides Corporate Update - GlobeNewswire",
-   "summary": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Third Quarter 2026 Financial Results and Provides Corporate Update GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWjNfZFAxdmRNMXFGR25wajRrZzQ2a1dhXzBhLVJaWXZZbXA2d1FZU2xvN0ZaMzhoN1IwcUFVbDJ5Tmc2NlFuRXRmNlU0b2ZvcmdHWEcxc0NlaXpjMnk2LXliSHAxSlVtRV9fZFVETEhHVFJwN3BFdWJNbzJkdXhfS09zdlA3MDhWbzIteHBVbDNWTU9XVWpjdHVZX21RU0hEa1hIcHUwRElnRHpKaGZLR0dyVUFzc09Oa0R5b3BlT01WRWJrU3YwakR4Q2VmUW5LSEd6ZThYUTlFdnpITEZ0MjYxN0M4c0hGUE1FZ2RFZnJoYlUxQlh4MjZHQndEcmRicTJlNnk3S3AzZw?oc=5",
-   "published": "2026-11-17T12:18:51Z",
-   "outlet": "GlobeNewswire",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "8c69eba8083e9500",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Third Quarter 2026 Financial Results and Provides Corporate Update - Yahoo Finance",
@@ -6932,6 +6910,28 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
+  },
+  {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlByamdkem05QXVvWHlJd2FEcGcwWGFxMklrbENKVEJlZVNSdERRUkRDZm80OWhsYmtyU1d5MXZhRW1JczlFYnVSVF9jZnZQUGp2Rkk0U2psQUlnRWJDcnZwSTFuUnpnQm9udzlueEpxQ0FERVpXTlZHaVVPNGhvd2h3LXhsWjRaRlQxbHNTWXBOdUpuOW04VXpzbVNoOTNqZHJmWDRidGxadHBfS2haUnd0MA?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "1b66d48ac512cbfe",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Third Quarter 2026 Financial Results and Provides Corporate Update - GlobeNewswire",
+   "summary": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Third Quarter 2026 Financial Results and Provides Corporate Update GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWjNfZFAxdmRNMXFGR25wajRrZzQ2a1dhXzBhLVJaWXZZbXA2d1FZU2xvN0ZaMzhoN1IwcUFVbDJ5Tmc2NlFuRXRmNlU0b2ZvcmdHWEcxc0NlaXpjMnk2LXliSHAxSlVtRV9fZFVETEhHVFJwN3BFdWJNbzJkdXhfS09zdlA3MDhWbzIteHBVbDNWTU9XVWpjdHVZX21RU0hEa1hIcHUwRElnRHpKaGZLR0dyVUFzc09Oa0R5b3BlT01WRWJrU3YwakR4Q2VmUW5LSEd6ZThYUTlFdnpITEZ0MjYxN0M4c0hGUE1FZ2RFZnJoYlUxQlh4MjZHQndEcmRicTJlNnk3S3AzZw?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "e3d6a25165be35fb",
@@ -12973,6 +12973,17 @@
    "first_seen": null
   },
   {
+   "id": "2669f52c21077c64",
+   "company": "Neumora Therapeutics",
+   "title": "Why Did Neumora (NASDAQ:NMRA) Jump 15.07% and SeaStar Medical Gain 12.76% on November 3, 2026? - Kalkine",
+   "summary": "Why Did Neumora (NASDAQ:NMRA) Jump 15.07% and SeaStar Medical Gain 12.76% on November 3, 2026? Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVRDTm8zOU10UE9KNnFkd3h0Ym92QWZ4cTdRZS1PaVFNTERmeWRTSG56MzBhUlhudUN0RWhHTXpjN3UxTHllZEpSU0dudXZwVi1OWVNUUG5IMFhJdmZYWU1VYVpYRDhiRDRZSV9uLUZEMjdaaHREYVBsT0t1MVJqdlpudHdDWW8tV3UtX0RwdGJtcEFtdUZsVDBYYklfWk5MbHg5ZFFheXdlcEJLbGJ3b1VHZ1lhckdBaDdYTEhWMjhEeGpq?oc=5",
+   "published": "2026-11-04T08:00:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "aa94d8a73b860333",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Participate in the Guggenheim Healthcare Innovation Conference - Helus Pharma",
@@ -13003,17 +13014,6 @@
    "published": "2026-11-03T18:44:07Z",
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "2669f52c21077c64",
-   "company": "Neumora Therapeutics",
-   "title": "Why Did Neumora (NASDAQ:NMRA) Jump 15.07% and SeaStar Medical Gain 12.76% on November 3, 2026? - Kalkine",
-   "summary": "Why Did Neumora (NASDAQ:NMRA) Jump 15.07% and SeaStar Medical Gain 12.76% on November 3, 2026? Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVRDTm8zOU10UE9KNnFkd3h0Ym92QWZ4cTdRZS1PaVFNTERmeWRTSG56MzBhUlhudUN0RWhHTXpjN3UxTHllZEpSU0dudXZwVi1OWVNUUG5IMFhJdmZYWU1VYVpYRDhiRDRZSV9uLUZEMjdaaHREYVBsT0t1MVJqdlpudHdDWW8tV3UtX0RwdGJtcEFtdUZsVDBYYklfWk5MbHg5ZFFheXdlcEJLbGJ3b1VHZ1lhckdBaDdYTEhWMjhEeGpq?oc=5",
-   "published": "2026-11-03T17:51:00Z",
-   "outlet": "Kalkine",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -13868,7 +13868,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkpqVWUtT0tZMVVwS2NzMlhuZGVpMnl2ZFZUOTVUSllZRW9BQ2FkN2IzZHpOYkdSWk1nRHZTTlhIaGFEWjRlMTYzaVhpZVdQMDNXZGVEbEppOHVhRXJ6MEItUTEwN010ZzNkdEczazgxUlZlSUtBdmkzbkljc3pUdXZUcTZXZm04anBqck5kUkhkeG52SXF0d25ELU96c1Y1NUNXTUxyUG9LWlRrU3FiaExHVVRJY1JqXzZKag?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LOW13MVl0Wlh1MkRyUU9Ub3RJT0FtLTZfTWxrbmxiRHBBQ09fSXZKcXh2TTQzSlhsWWpJM2pnUzd4Sm5qTTM4dS1ZMkwybndOOVdhSXhFMA?oc=5",
    "published": "2026-11-02T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -15481,17 +15481,6 @@
    "first_seen": null
   },
   {
-   "id": "0550f02e8fbd3661",
-   "company": "Teva",
-   "title": "Teva picks up new neuro assets in BioXcel's bankruptcy sale - FirstWord Pharma",
-   "summary": "Teva picks up new neuro assets in BioXcel's bankruptcy sale FirstWord Pharma",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZS1lOY2VVeU9KM0xHQkxlUjcxSElCOTRtUnNNQjJwaWtBd0NFeURkdDU1WGJPajFnS0ExdDdDR0traGdVdlRzT1h0ZElYcHItZ24w?oc=5",
-   "published": "2026-10-27T21:22:02Z",
-   "outlet": "FirstWord Pharma",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "86543544d6e50441",
    "company": "Minerva Neurosciences",
    "title": "Minerva Neurosciences Reports Third Quarter 2016 Financial Results and Business Updates - Minerva Neurosciences",
@@ -15522,6 +15511,17 @@
    "published": "2026-10-27T10:30:00Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "0550f02e8fbd3661",
+   "company": "Teva",
+   "title": "Teva picks up new neuro assets in BioXcel's bankruptcy sale - FirstWord Pharma",
+   "summary": "Teva picks up new neuro assets in BioXcel's bankruptcy sale FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZS1lOY2VVeU9KM0xHQkxlUjcxSElCOTRtUnNNQjJwaWtBd0NFeURkdDU1WGJPajFnS0ExdDdDR0traGdVdlRzT1h0ZElYcHItZ24w?oc=5",
+   "published": "2026-10-27T07:00:00Z",
+   "outlet": "FirstWord Pharma",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -19723,6 +19723,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRTF4RVNvSE9JWlF4cUQxZmlwT1ZaSGxxZ29GQlpoQlc5Z3k0azNXN2ptNjBpOGNPckVFMm1zNS1VeVNSaU5jc0kyNVJyVzJOM0xsUE05NmNYTHFmRVAtYkp5RjNWaW05dUo1TzdtN0x0dWQ2bFhSclhTMENPY2ZxcDAtNmFlZmlVZ1ZMY0ZNOFRsb3RQYU5ycDhiQklfTmhrNG1PbFc0M1pwMHZkOVhGUV83TGVtM3JrbHVSR1c3RWxzbGEt?oc=5",
    "published": "2026-10-01T07:00:00Z",
    "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3ff7c722112258f6",
+   "company": "Arvinas",
+   "title": "Parkinson’s drug trial data will be presented in a late-breaking oral session - Stock Titan",
+   "summary": "Parkinson’s drug trial data will be presented in a late-breaking oral session Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeGtiN1J3YlpIYVlvZkxzcTBodnZVbFJsa3J2N2dmT2tFQlFpclRQY2kwRHRndFA0LW1iWlNMX1VsdUR6ejR4LUJ0cHJ3c3o1QkFzSEVYZ0NHV21QUkJsVlBUbXlXejFOaWR3ZWE4UEF2NjBKWWlWa3ZBNThrOVg4Wmg2VnREdXdhRnV5Y1gzMzdxTVRpTGRzV0VfQXVvM3ZBY1A3cmFzc1EyZlNsV2hXeWJfUHlpNEFlazRPNg?oc=5",
+   "published": "2026-10-01T07:00:00Z",
+   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -24677,6 +24688,17 @@
    "first_seen": null
   },
   {
+   "id": "28f54a30bff8f1cd",
+   "company": "Neumora Therapeutics",
+   "title": "H.C. Wainwright Maintains Neumora Therapeutics(NMRA.US) With Buy Rating, Maintains Target Price $7 - Moomoo",
+   "summary": "H.C. Wainwright Maintains Neumora Therapeutics(NMRA.US) With Buy Rating, Maintains Target Price $7 Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm5hOGxxSzJJUHVhNjl0cnJ3dFp2THhfeUxlUllGWkNFQWJqSmw0cEsxazBjYWk2eHpFU3ZIazB3MmxHQmk1QkhvOWNObEh4c3RQTnBoeWZTNVNRLWlFNGRrb1RFZDhGSTdPc1VmWGl4ZVJ2TzRxSlR5MWVJT3RRekh5VVZIZE5YalZOLUk5Y2lqMXdJdlN6SWlPbEpmRjQ1VWpicDE1b1NmQTdFXzVwdVJPb3NTS29CTGVB?oc=5",
+   "published": "2026-08-25T19:39:14Z",
+   "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "874bc47f5f90ab5a",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics to Participate at H.C. Wainwright 28th Annual Global Investment Conference - Gain Therapeutics",
@@ -24773,17 +24795,6 @@
    "published": "2026-08-24T17:50:57Z",
    "outlet": "Boehringer Ingelheim",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "28f54a30bff8f1cd",
-   "company": "Neumora Therapeutics",
-   "title": "H.C. Wainwright Maintains Neumora Therapeutics(NMRA.US) With Buy Rating, Maintains Target Price $7 - Moomoo",
-   "summary": "H.C. Wainwright Maintains Neumora Therapeutics(NMRA.US) With Buy Rating, Maintains Target Price $7 Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDIweDNOZTNUNGxDajMyMkNtaUxfSC1jamxvY2xycDBlSURqcTRkdFZidzBuUkhyUjVVcW83Wm5fQVEyc2VGckJZenZzd3laOElJbUgzeTBEWEdBSU5FMWJzUTVVTzQwQTlwQTVwN2YzZGxIVzV0enpxZjM4OGdMQ0hYeWg2WmRjYTU2cUxIM3JKUUpfd05MLVpHZHZtTUQ3Q2xQZDltN0RtM1Z0THlCZUFkbHlXSS1HVmc4?oc=5",
-   "published": "2026-08-24T07:00:00Z",
-   "outlet": "Moomoo",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -25399,6 +25410,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zMDJsLVpQRTRCMUFxMFY2Y1dsdC01N3NHMENSZWZYSWVqSXB3aThDOGVCLWcwa1Q4Y0ZBQXpPb0VLTWRTVF9wMmtYOVd6M2tVTVV6SF9kN2FETVg2NW80YVZqSG44WEFBVUxBOEhNMA?oc=5",
    "published": "2026-08-19T07:00:00Z",
    "outlet": "medwatch.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "99ba203e96b3e2d2",
+   "company": "Lundbeck",
+   "title": "AL Sydbank notes limited impact from Lundbeck's financial results — the main focus is on the pipeline - MedWatch",
+   "summary": "AL Sydbank notes limited impact from Lundbeck's financial results — the main focus is on the pipeline MedWatch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ENmhMTEVGSDhhQTl4RDY0VVoxWjRxbDdpTVJpM1lmTWFYQUN0WlJHRHo4MFYwZlhOTEphajd4bkJLMmZjTC1tODhYM01iaFVLRWVyT0tocDY1YnJUUGFPSXl6SndtVlBfb2oxNFJDTQ?oc=5",
+   "published": "2026-08-19T07:00:00Z",
+   "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -29242,17 +29264,6 @@
    "first_seen": null
   },
   {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "cbddd078a7b989f3",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Announces Key Leadership Hiring, Promotions - neurocrine.gcs-web.com",
@@ -29924,6 +29935,17 @@
    "first_seen": null
   },
   {
+   "id": "ff210f67bf52f562",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
+   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
+   "published": "2026-07-17T07:00:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "53df4fa4ea65cb6d",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics CEO Gene Mack Issues Letter to Shareholders and Provides Operational Update - Gain Therapeutics",
@@ -29950,7 +29972,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - Eli Lilly",
    "summary": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92T3ZmNng2MVhya3ZjX1EwZUNDMWlsLWI0Tmd0cEJFU3A4N3FRWjdWTnpoZVpRc3NIWU5ISDNkSzMzSHVKekFxdFNnRktsV0UyanhN?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS280WDZmcXhMU2J5MmdnQ0hKejh0X1prSWN3MDJUTko1NG1lSENxWXlLN1lfUGNVMDUtQktXYzVLd0p1c3A2WjdCUW9jUWw0OWhIek5DdlR2WTBCYmtXYWpOTTFWMnBCZjRDNzduTl9BTDlWWlJPdWc4eUd2emlJNnYzUmc3VUd5NU5OZmwxajlRMXdwTTdpZXNYUDFXeTctMTVmWnBnXzhlMk5yTjBwbFh1SF82b3BSM29tMnVhNTYyeFU?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
@@ -30019,17 +30041,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzRzb0tpYUpJemxVMGFrd29aclR4R0pNRnptajdUVHU0UGEyenJwczRpMTVLazFCYW5EYThwYVFhTWhmT2plZWZWaWRQdXhIWVBUd3RsWnFRZVFBUERxZzRCdzY4Y25HX1V2UzM2aEdUdDdjNmVXVDRMcVBiVU1aMzJIcmp2c3otZzJpdDllenlFcWc1NnR4OTZiQ3pGWkpsZUxadmVCWTdnYW0zMnhkbzJGbw?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "BioPharma Dive",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "ff210f67bf52f562",
-   "company": "AtaiBeckley (Atai Beckley)",
-   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
-   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
-   "published": "2026-07-16T07:00:00Z",
-   "outlet": "WSJ",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -31119,6 +31130,17 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNamktMnNDRWFnTlBnSndVWnk0NExwNHdRcDVvMk9DX0JqelRfcEp0aTVsMU1LM2tMLWk0WFd0MGRSVnU5THpBZnNDMGJ5UnRFRUJUTDdNWU9TbFpOcFJXWUFnNEhabUFYNUdDWDA2WW1GYXp5cU50bFd0eC1QTzl4N1NyZHF2ODMxcWk1NERpeU8wRzJWajUtWmswWUoxbGhzTExyZkotRzNiNkVuSmRJTGJJM1NMX3pxSXNiV253b0FtZjVtRWVhWVdLWnI?oc=5",
    "published": "2026-07-13T07:00:00Z",
    "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "62cee4e2999122f1",
+   "company": "Rapport Therapeutics",
+   "title": "What Does the Sale of Rapport Therapeutics Stock Worth Over $400,000 by the Chief Operating Officer Mean for Investors? - The Motley Fool",
+   "summary": "What Does the Sale of Rapport Therapeutics Stock Worth Over $400,000 by the Chief Operating Officer Mean for Investors? The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYnh2YTN1ek1SREJ5VFhJNUlfMkxOZ3JCLW8yb2JaRjJWUGtJUDNDM1l4aUluOEZpbXNQX2djcnJfajVyeFNLNnpESmJjSWxhZUplcTFBMWxPamQ4QlROTU1vZ1pZZXEwdVZGM0N6a3VoeTBQa210TXQ2RDUwUHlNaUdrTi1yUG5jb3A4TlZlZWVXaGVja3ZFWU1neXpIVFRyNl9wMlM3SW1HN0F5M2p1Ykl3WXM3blc2NnVJUk91SnZvNHJqczN6MlZKbFI1TWc1c0ppS2NnMHhOSV9YU3BoSF9pMFdZZ2RBb2phX19qQV9mYmNYZUVmajY5M0JfcHc?oc=5",
+   "published": "2026-07-12T07:00:00Z",
+   "outlet": "The Motley Fool",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -35948,6 +35970,17 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ0JRYTJma3NCdmdRd2F2bG9FSUZZa1NrMlh5b0h4aFZNUTlES284Z0Q5eVNfcFJIWmphZ0VkZGJjb25IS0paYm1xU3NXdTVDaUNCc19kRGk2THk3bVJ5OUhJamVaZW51SnNuOHRBS3JvSk8yeEg5SEszRmhSYjh6d0U3S1VtWmlfZDR3NHZxeGsyQQ?oc=5",
    "published": "2026-05-15T07:00:00Z",
    "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fd3e4671f827ca4c",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight's CFO Just Sold 36,000 Shares for $1 Million. Is It a Buy, Sell, or Hold? - The Motley Fool",
+   "summary": "MapLight's CFO Just Sold 36,000 Shares for $1 Million. Is It a Buy, Sell, or Hold? The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUh2aFRuSU1vaXk1QldhM3RLenRGZTBQN0laOWttQTdDX0FFdlVneG1DNno1TUJoeDBTZHhpMmpTT3U0c3Z5SURfU0dSNFA2eUV6Vjl2bmdNcXRRbUQ4UlFfVFIyeXBLcG5kUUNweExodHlxQ24yRTNGZlBLWGpGLUYyT3hUY2llVEtDWUdSbnNIZzMy?oc=5",
+   "published": "2026-05-15T07:00:00Z",
+   "outlet": "The Motley Fool",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -43069,6 +43102,17 @@
    "first_seen": null
   },
   {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c2f1023df802267b",
    "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
    "title": "Lilly Establishes up to $1.9B Repertoire Deal in Second Immune Play of 2026 - BioSpace",
@@ -43892,6 +43936,17 @@
    "outlet": "BioXconomy",
    "method": "news search (no newsroom found)",
    "first_seen": null
+  },
+  {
+   "id": "c3802e028a7e11ab",
+   "company": "Remepy",
+   "title": "Full list of Israeli high-tech funding rounds in 2026 - calcalistech.com",
+   "summary": "Full list of Israeli high-tech funding rounds in 2026 calcalistech.com",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hV1d2c0FZTk5qeF85dGpPZE95SndRQVhRRTJySkh6NjJwNklHenJzNHFKSGlodUJndy0ydzBobVYycGt3TUxHZ1k1VC0zcTI5OVdOOXhhN0JOTWpiaTJFeEpvM24yeGs?oc=5",
+   "published": "2026-01-08T15:05:20Z",
+   "outlet": "calcalistech.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "c1720d230ad96d15",
