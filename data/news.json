@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:19:05Z",
+ "updated": "2026-11-26T01:52:54Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,50 @@
  },
  "items": [
   {
+   "id": "60ac7636a7c8179d",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics director buys $13,894 in common stock By Investing.com - Investing.com Canada",
+   "summary": "Serina Therapeutics director buys $13,894 in common stock By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVlNkN0xmaW1qcUROZ2ZuUFhkSFFGRmVmVTE5VDZtdnRqb3U4UnlsRnEzc0pXY1o0WUlqZUh1aXV6SUxnVHY2UUdUV2hOdXdTREJROGxzdDc4bEZQX0xSWncxVWU1cGRnY1doanprWUNXeGZBUXlWY3BsUVo2eFFKbE1rajBtQmtWN1dLQm1zQzMtQlB1MzYzeFA1enp5ZmplcDJCRnFlQW9IMkZXa0tKeUtCWlFPN2s?oc=5",
+   "published": "2026-11-26T01:36:15Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T01:52:54Z"
+  },
+  {
+   "id": "25f7559b7e0fc26a",
+   "company": "Serina Therapeutics",
+   "title": "Form 4 Serina Therapeutics Inc: Gregory Bailey (Director) For: 23 November - Investing.com UK",
+   "summary": "Form 4 Serina Therapeutics Inc: Gregory Bailey (Director) For: 23 November Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWVJielhHYlpMdFkzMFg1V3R0al9oc3ZKci05WEszLUhhT20xOGJhbTFhWWFCaE5TMWdLdUdwaGpFbVpjak05clFscW8tLTVYQmhZTk1DN1lnWWIta2NSdlkyMTFYektaZEdLeTRBTUZ1cEZsRUt2aTN0VG51X0dMbDdCR1p5LW53THNrbU5nanJTWFR0VlZZbU9mNUw2UXVxeWJCNnZ4LVBpeEtid2drUDk5WFhzS2lFYzhUOHBKRzFvV080TllUN2Rmdw?oc=5",
+   "published": "2026-11-26T01:34:00Z",
+   "outlet": "Investing.com UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T01:52:54Z"
+  },
+  {
+   "id": "2a07c59074780af1",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics (SER) director Bailey bought 10,105 shares for $13.9K at an average $1.38 - Quantisnow",
+   "summary": "Serina Therapeutics (SER) director Bailey bought 10,105 shares for $13.9K at an average $1.38 Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2FqV2tBNzluUHpoMVBNeUpZR05Jd1FiaXZkMGNQMGpTZTg4bGZxZUNwMS1fYVhGTktSSWtyNnB0S1JXWnk4Y2FoOVVXck9WTG9FWkxMb3hUeDJKVWdMX3dselFySk9vcFlHLS15TzZiYWNxSG5jYUt6ZlJJNmNYMkowdzEwNE10NjE0VUJoZ2U2eFhsT1JkQU82ejNnWVVFWFBHQWZ4UnRkUzQ?oc=5",
+   "published": "2026-11-26T01:05:14Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T01:52:54Z"
+  },
+  {
+   "id": "32876902d3d6621a",
+   "company": "Serina Therapeutics",
+   "title": "In two November trades, Gregory Bailey buys 10,105 common shares of Serina Therapeutics (SER). - Stock Titan",
+   "summary": "In two November trades, Gregory Bailey buys 10,105 common shares of Serina Therapeutics (SER). Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXpqcFVzQUFvSS1aR3FjQWNDbG50eHhQMnl2UUFvTUUtV1RaTEY0WVkzRGE2U29MYVFWX3U1S0xjVVJFNEFGV3hWZGNqMGY1UkNLdk5xcEVzSzhkaURZbkYxTVlKZzJEUXZzTmFhT3FoVmpjWkloekZVM0ljUjdQMDdyQm1PSVdSdkVrRnE2NHVZa29SOVpXM1N1NGtNOWhOWkdiOGIwV2tUVDd0N2p3SWF4cGU0RUE?oc=5",
+   "published": "2026-11-26T01:05:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T01:52:54Z"
+  },
+  {
    "id": "7e93531c4e5d525a",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
@@ -1784,6 +1828,17 @@
    "outlet": "www.marketscreener.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T15:33:50Z"
+  },
+  {
+   "id": "149d2842158cbc5c",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) Insider Ownership & Holdings - Yahoo Finance - Yahoo! Finance Canada",
+   "summary": "Helus Pharma Inc (R7E0.DU) Insider Ownership & Holdings - Yahoo Finance Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoTFQwLU9LdkNiOERiUG5DRjdMeFFCRjhqWmxtazN4TG5uSTFQZ19kb2FGaEN3UkNlOFVkeHUwMWNSTXk0cld2aDNLUU5UTHJrSjNqdUR2aUVVYzRnSGZJWFRYTml5N25VWVE?oc=5",
+   "published": "2026-11-25T13:54:45Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T01:52:54Z"
   },
   {
    "id": "2fd0a182508127f7",
@@ -5075,6 +5130,17 @@
    "first_seen": null
   },
   {
+   "id": "1997b389d20fbda6",
+   "company": "Neuron23",
+   "title": "NervGen appoints Sam Jackson as chief medical officer - The Globe and Mail",
+   "summary": "NervGen appoints Sam Jackson as chief medical officer The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNEQ5bkw2U1hHRVdLSTJ2eHNYQlFhV2lNU0N4eXhkMHlFbFZaNllLUmRDS2VtUmc5YVZMczVVOFI0S29CZVpyN2syX250Y0FtNThhQXE3YndMd2lucDRwYTBPVFlFNDI0Q1k2cng0bTJKMWJBckNlX2xZUENsSTVVMWFNR1VFRGEyTVBJaVBZZWlNQl9GRUZ3Z1J6cXJkLVlvcVhOS1NES2pqVDE2S3o0UzFaRlltVnZxRG5Qa1FOSkpuTXQtWHJvYUNFR2VVa2ZpVzRqVjNMRQ?oc=5",
+   "published": "2026-11-19T08:00:00Z",
+   "outlet": "The Globe and Mail",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8b4254665a7d3e03",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (R7E0.DU) company profile and facts - Yahoo Finance UK",
@@ -5270,6 +5336,17 @@
    "published": "2026-11-19T00:50:08Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlByamdkem05QXVvWHlJd2FEcGcwWGFxMklrbENKVEJlZVNSdERRUkRDZm80OWhsYmtyU1d5MXZhRW1JczlFYnVSVF9jZnZQUGp2Rkk0U2psQUlnRWJDcnZwSTFuUnpnQm9udzlueEpxQ0FERVpXTlZHaVVPNGhvd2h3LXhsWjRaRlQxbHNTWXBOdUpuOW04VXpzbVNoOTNqZHJmWDRidGxadHBfS2haUnd0MA?oc=5",
+   "published": "2026-11-19T00:46:41Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
@@ -6756,17 +6833,6 @@
    "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlByamdkem05QXVvWHlJd2FEcGcwWGFxMklrbENKVEJlZVNSdERRUkRDZm80OWhsYmtyU1d5MXZhRW1JczlFYnVSVF9jZnZQUGp2Rkk0U2psQUlnRWJDcnZwSTFuUnpnQm9udzlueEpxQ0FERVpXTlZHaVVPNGhvd2h3LXhsWjRaRlQxbHNTWXBOdUpuOW04VXpzbVNoOTNqZHJmWDRidGxadHBfS2haUnd0MA?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "dc0443cb8981df36",
@@ -11008,7 +11074,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics Reports Third Quarter 2026 Financial Results and Raises Full-Year Revenue Guidance - TG Therapeutics",
    "summary": "TG Therapeutics Reports Third Quarter 2026 Financial Results and Raises Full-Year Revenue Guidance TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLLXpUaGxIMkxnYkpjVjhtcmxDQ3lQXzQ4Qmo4NjVoSGRhaGd1alZrT3dySDhoSVI2MnlaRm45N2VQdFRNc3dvTnduNGMzZVJONlhGM2x1TQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUFqWVNNNjBydDJfZUVsY1RwQmFaWTZoYUthZV9DaVVNcXRjd0o3eDhVVGVrMElPbzNVZlNoWDNheHFfbWV4QzBYUTRNbVdISGIzU3d2Y2pSYXFGbHBfUHJDZkRCTG5pYkVvWlJ6aDJsV3QzTFg2UXdHcVBxT0tUZ1RsdVppSllWX0hpS1RpcHhaTng0N1BPbXFpUUMzcFVFa2lEblJSYzFnaVY5Q19MYUN6Yzg5NW55TDZBRE5ObTA4bUdka2ZNbg?oc=5",
    "published": "2026-11-09T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -12907,6 +12973,17 @@
    "first_seen": null
   },
   {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
+   "published": "2026-11-03T12:12:08Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -12956,17 +13033,6 @@
    "title": "Alkermes Q3 2026 Earnings Conference Call Prepared Remarks - Alkermes",
    "summary": "Alkermes Q3 2026 Earnings Conference Call Prepared Remarks Alkermes",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalFydEJpZzBvQ3I4OFFmSjZGemVZLWoyVEpaajVhS1hCOWNwNTZfRWZhQ0dlS0FNSlY3cFJYSzF3RzAycDVOc1phYTlCNmc2WTZzVWd4UC0tUi0zb05wUXU3ZjRpU1dlcjdRMkVvcHJxRE1qVnZMNkxPc1pCcHFsVGFiX2pyQQ?oc=5",
-   "published": "2026-11-03T08:00:00Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
    "published": "2026-11-03T08:00:00Z",
    "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
@@ -16207,17 +16273,6 @@
    "first_seen": null
   },
   {
-   "id": "52d803e02b4c90f4",
-   "company": "TG Therapeutics",
-   "title": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 - TG Therapeutics",
-   "summary": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BQU5kZXRZUFpUWXFyckJzSm1lUno5cEprVjNJRlFtMGdreGlhTFA2dDFmU19nQWJkNVFPVGNHWG5DODNPQWJfRERjR3JwTDhzMkpiREhhOA?oc=5",
-   "published": "2026-10-23T07:00:00Z",
-   "outlet": "TG Therapeutics",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "f8e39737db6b6623",
    "company": "Newron Pharmaceuticals",
    "title": "Newron Completes Enrollment of Pivotal Phase 3 ENIGMA-TRS 1 Study - TMCnet",
@@ -16501,6 +16556,17 @@
    "published": "2026-10-21T08:00:19Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "52d803e02b4c90f4",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 - TG Therapeutics",
+   "summary": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026 TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHZHTnhTUEZCN2ZqeFpoUzRzbnFmNTdBYlMzLVUxclZJMXpsZThKenE4a0dSRkFPOHJVek1DaVdPU3Z0dHk5bUVhY1VFdUtmYzR1bDk2YWFWYUN2R21Nb2l3MGJlZml6NGhnNnZjMXFkM1dQY1RoTkVXSzh5YVhVOGx6Vi1QVlpteHRTYjdEa2s2S3ptbkxtZGxsREhOTENXb2pzT2VibWhmOUJtdlZ3dkx2eTBTTDJ0QmVkRUhNMmtEalU?oc=5",
+   "published": "2026-10-21T07:00:00Z",
+   "outlet": "TG Therapeutics",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -18543,7 +18609,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics Announces Schedule of Data Presentations at MSToronto2026 - TG Therapeutics",
    "summary": "TG Therapeutics Announces Schedule of Data Presentations at MSToronto2026 TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sSWhsT3ZUdi1fYi10dkQxT3RtamRVOThNaFEySWhYaEpZU2t1UWdEV1hCeTR0cE9kcDZDcnBueXhsdzBFQjlPM29jVGs2X21UeHpMTXRUaw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3N0cXZHYVA1cXJLWVBVb19KajlNRjExeVBiSGJqdGdheGJGUE84WWVYOXVzbFk1T1RTaTF0YjRTX1Baa3pBd1NsNFYwN2tLTFoxdTBHQ200bi1sUl9UU3JEUWJZYzdnZlFabEZtLWtQVm1MSzBYeW5PUUhXdjVQakZnYlFjblR5MDFSNTN3WThRTUdvM1BHWE5vZDd6UVgxd194aURHZ1FKQXRsQVNaa193ZmRhUDZUdlE?oc=5",
    "published": "2026-10-08T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -25700,6 +25766,17 @@
    "first_seen": null
   },
   {
+   "id": "505815571345cf84",
+   "company": "Eli Lilly",
+   "title": "A clinical trial for people with chronic obstructive pulmonary disease (COPD) - Lilly Trials",
+   "summary": "A clinical trial for people with chronic obstructive pulmonary disease (COPD) Lilly Trials",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VQXdJUVpQamJ0ZVRZMkZaYWpNcThFZlNhWVNncHRQVFpEVHZwVUxtMVlBcUlmcXRjTEZqR0NGYWJVNXNidHFkdC1PQlhnUk1NblI2VDNR?oc=5",
+   "published": "2026-08-13T07:09:16Z",
+   "outlet": "Lilly Trials",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "52ae9ef64cfd5cd4",
    "company": "Eli Lilly",
    "title": "A clinical trial for people with chronic obstructive pulmonary disease (COPD) (RENEW-COPD) - Lilly Trials",
@@ -29044,17 +29121,6 @@
    "first_seen": null
   },
   {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "cbddd078a7b989f3",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Announces Key Leadership Hiring, Promotions - neurocrine.gcs-web.com",
@@ -30734,6 +30800,17 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX01QZE5JQzJFQ011MnpnczRxX2dEZUZhc2EzSWZOVGxSa3FyejVFcVc2eXJhbWd5NGk3LTMya0k4UFkyNmF0ZG9xbXJwbG9fODdlZ0hNREJvS1QtTGx6RFZkVGd1NnBWYW1FZjZzUW1nX2ZObmtOY2RWOXJXT1l6dHN6N2VZLUN2MG5IRGJTRDV6OXFoMEVRLUJYOEtFbDNURjNJcnRkLTlxZw?oc=5",
    "published": "2026-07-15T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "cd7a3d70633a11ce",
+   "company": "Alterity Therapeutics",
+   "title": "Biocurious: Alterity “off to the races” in quest for Multiple System Atrophy cure - Stockhead",
+   "summary": "Biocurious: Alterity “off to the races” in quest for Multiple System Atrophy cure Stockhead",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFFVWDlseFhrcEhOOTdQdlpZNXhza1daY3lSSHdaYkxCWkpuQjZzT2YxRVJBdHRpTEJRa0xNSU1SdG1HUU9BYldQUDRrZGpXOW5YYTBmYl9DX3pHU1ZwV0tvVVRmR2tFTnNSQXFDTTdRRWF2RnFXLWxRRUhGeFhTZnpzVEVkUElnN2xBcExldDducUZ5bDNtd0IwekhTRk5QUUxwUklnYnpVSklYMXFTSw?oc=5",
+   "published": "2026-07-15T07:00:00Z",
+   "outlet": "Stockhead",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -42846,6 +42923,17 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
