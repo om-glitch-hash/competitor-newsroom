@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:14:46Z",
+ "updated": "2026-11-26T08:39:49Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1830,6 +1830,28 @@
    "first_seen": "2026-11-26T04:59:29Z"
   },
   {
+   "id": "7e93531c4e5d525a",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
+   "published": "2026-11-25T22:43:23Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7a892ad1afc53854",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference - TG Therapeutics",
+   "summary": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference TG Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xNy1tVG85Z256SGJLRF84ZE9fb1JlN3VpQms2eHRMZk9hcF9pcmRQNjZuWndUanZtS2FLMlBWN3NxZWFIa3hNNnJLelprUGVTNXk5bk42MA?oc=5",
+   "published": "2026-11-25T16:47:48Z",
+   "outlet": "TG Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T20:25:38Z"
+  },
+  {
    "id": "112e1a9d3186f69d",
    "company": "Lundbeck",
    "title": "Lundbeck faces steep US price cut on top-selling drug Rexulti - medwatch.com",
@@ -1984,17 +2006,6 @@
    "first_seen": "2026-11-25T21:28:11Z"
   },
   {
-   "id": "7a892ad1afc53854",
-   "company": "TG Therapeutics",
-   "title": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference - TG Therapeutics",
-   "summary": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkhiQWxmODBfVUJYRHMtUjBDLWZIMENXb09rUFlQZU5zRHJ5LTBkME1HekQwTkJSS3ZaSV8tYVBtc19qM3hWdWxvdWQ2SGJHVUdxWEdWOGJzdEYwVUMwWWw3clBOSkV4TjZnSGdyTk41S05zMzlEX1hJTHhLeUFZdFBPcUd6Z3hkSUR2VFhYRjVIYi1fMFB2M3kyME04LWFEcFVHdjZzR1Q4dG5tRVF5c0lEUE94X1V3YmJuOC1CY0Q?oc=5",
-   "published": "2026-11-25T12:30:29Z",
-   "outlet": "TG Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-25T20:25:38Z"
-  },
-  {
    "id": "f1e7fda7fda4213d",
    "company": "Herantis Pharma",
    "title": "Herantis Pharma announces the results of its directed share issue raising EUR 15 million - The Manila Times",
@@ -2017,6 +2028,28 @@
    "first_seen": "2026-11-25T14:18:57Z"
   },
   {
+   "id": "2f82d891894a6e87",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (R7E0.DU) stock price, news, quote and history - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (R7E0.DU) stock price, news, quote and history Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01RnNFMHRWc1AzWENyQ3RZZjl3MVN6YVBFY3JiQ2pjT2JES09qNWN0V2x5Vk9VNkx0TGFadXZRTUJDeFZvbHFhVUhuTXk3UkN3WUpOUGo4dkZnUFlNM3ZkMjdFaEk?oc=5",
+   "published": "2026-11-25T11:35:31Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
+   "id": "680be180462948be",
+   "company": "Herantis Pharma",
+   "title": "Herantis Pharma announces the results of its directed share issue raising EUR 15 million - NTB Kommunikasjon",
+   "summary": "Herantis Pharma announces the results of its directed share issue raising EUR 15 million NTB Kommunikasjon",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNHhONFhsUU95akE1UmlkMkRMX0FtOHdnOV9sV09VbjJwdmZ2TnBoQ1d0V01OeVVsQ3B6WXJyRkptOW13OWVJbmxXVUxQSDRuYjZIeUcyc1UwQnczZHZoazRSWlByamRZVHBkMXo0QUMzZFhyLWhjWE9nS09NR0lWVk5xYVFRcDJZdzBOc0hUem9jZEp4RkdDZTc3LXdlR3loRUEybjhpTjdEanpiYzN3bWwzNnJlc0RCcmp0YWFOSE1SdFRUemdUa0tydjVlWWR1MVd6UFQ1MG01Q19sWC1JWmV6MktuT1JNTGlIOHBrazliLVhWbGtsTnhReTU?oc=5",
+   "published": "2026-11-25T11:35:02Z",
+   "outlet": "NTB Kommunikasjon",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T08:39:49Z"
+  },
+  {
    "id": "4620d3f119f73f04",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc. (HELP) Phase 3 APPROACH Topline Results for HLP003 in Major Depressive Disorder - Slideshow - Seeking Alpha",
@@ -2026,6 +2059,17 @@
    "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T14:18:57Z"
+  },
+  {
+   "id": "a96a7da63c26fc1e",
+   "company": "Novartis",
+   "title": "Brand Manager - Immunology - Novartis",
+   "summary": "Brand Manager - Immunology Novartis",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOem1FSHNaMlhodGo5RTNwenRkR2pGbFJlWEcyX3NPMkF1Wk1EZDRtS2YzU2p0SVVyaHZqbmJiVkJ3bHZleDVkNnBqN0djMEFKS2toNFhnRmgzc0pIdk5iV2lOd19OTWpYMTFSdmlaVzUtYjNKNmswODRKQ2RBWE00YWRlQi1PUFhSbTZXeXNIbmUxaWY3RUNlNUVELUo?oc=5",
+   "published": "2026-11-25T10:30:35Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-26T08:39:49Z"
   },
   {
    "id": "3b06d9626c1b705a",
@@ -3766,17 +3810,6 @@
    "first_seen": "2026-11-21T21:13:37Z"
   },
   {
-   "id": "192abf0094b3e608",
-   "company": "Newron Pharmaceuticals",
-   "title": "Newron Pharmaceuticals S.p.A. (NP5.F) stock price, news, quote and history - Yahoo Finance Australia",
-   "summary": "Newron Pharmaceuticals S.p.A. (NP5.F) stock price, news, quote and history Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtbE91REl4enpKd2haaUExenNzX2VhWmVZWW9KZDFaSW5rYW9hb29Cb3RzZGdxVEM5Y0pYMDJ3NXhnWTRnNEFxUmpFX0s2MU51bE83SlliR181QjFtNVVnU0ZB?oc=5",
-   "published": "2026-11-20T19:15:14Z",
-   "outlet": "Yahoo Finance Australia",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T06:24:45Z"
-  },
-  {
    "id": "c17435afc147177f",
    "company": "Novartis",
    "title": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II) - Novartis",
@@ -4679,6 +4712,17 @@
    "first_seen": "2026-11-21T11:58:34Z"
   },
   {
+   "id": "192abf0094b3e608",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals S.p.A. (NP5.F) stock price, news, quote and history - Yahoo Finance Australia",
+   "summary": "Newron Pharmaceuticals S.p.A. (NP5.F) stock price, news, quote and history Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtbE91REl4enpKd2haaUExenNzX2VhWmVZWW9KZDFaSW5rYW9hb29Cb3RzZGdxVEM5Y0pYMDJ3NXhnWTRnNEFxUmpFX0s2MU51bE83SlliR181QjFtNVVnU0ZB?oc=5",
+   "published": "2026-11-19T18:01:16Z",
+   "outlet": "Yahoo Finance Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T06:24:45Z"
+  },
+  {
    "id": "1366ce996058e55e",
    "company": "TG Therapeutics",
    "title": "TG Therapeutics: The Price Already Pays For Growth That Ocrevus Copies Can Cut Short - Seeking Alpha",
@@ -5185,17 +5229,6 @@
    "first_seen": "2026-11-20T00:26:37Z"
   },
   {
-   "id": "2f82d891894a6e87",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma Inc (R7E0.DU) stock price, news, quote and history - Yahoo Finance UK",
-   "summary": "Helus Pharma Inc (R7E0.DU) stock price, news, quote and history Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1RFY2ZFRsRzhOaWFTRjE0Z0lMeDZxa2pYVXdQbFBEZmV5d0ZKY1dsQmtLdjF1TE9YUzM0SDhXSWVJeWFtOHFhTkJHd3lUSHRHVnN5WkZB?oc=5",
-   "published": "2026-11-19T08:54:36Z",
-   "outlet": "Yahoo Finance UK",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T11:58:34Z"
-  },
-  {
    "id": "38e294f98736cce8",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (R7E0.DU) interactive stock chart - Yahoo Finance UK",
@@ -5479,6 +5512,17 @@
    "published": "2026-11-19T00:50:08Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "6e858dea1b2a6086",
+   "company": "Novartis",
+   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
+   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlByamdkem05QXVvWHlJd2FEcGcwWGFxMklrbENKVEJlZVNSdERRUkRDZm80OWhsYmtyU1d5MXZhRW1JczlFYnVSVF9jZnZQUGp2Rkk0U2psQUlnRWJDcnZwSTFuUnpnQm9udzlueEpxQ0FERVpXTlZHaVVPNGhvd2h3LXhsWjRaRlQxbHNTWXBOdUpuOW04VXpzbVNoOTNqZHJmWDRidGxadHBfS2haUnd0MA?oc=5",
+   "published": "2026-11-19T00:46:41Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
@@ -6932,17 +6976,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
-  },
-  {
-   "id": "6e858dea1b2a6086",
-   "company": "Novartis",
-   "title": "Brand Manager – Oncology & Neuroscience - Novartis",
-   "summary": "Brand Manager – Oncology & Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlByamdkem05QXVvWHlJd2FEcGcwWGFxMklrbENKVEJlZVNSdERRUkRDZm80OWhsYmtyU1d5MXZhRW1JczlFYnVSVF9jZnZQUGp2Rkk0U2psQUlnRWJDcnZwSTFuUnpnQm9udzlueEpxQ0FERVpXTlZHaVVPNGhvd2h3LXhsWjRaRlQxbHNTWXBOdUpuOW04VXpzbVNoOTNqZHJmWDRidGxadHBfS2haUnd0MA?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "1b66d48ac512cbfe",
@@ -8760,17 +8793,6 @@
    "first_seen": null
   },
   {
-   "id": "050dce099e6edda5",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study... - Quantisnow",
-   "summary": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study... Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORnk0TWY4ZzBFZ3VkeThFTlMzOEIyVHVDQ3pDNWxGTUxlX3dTejlkbktyd3JrQTF5dnFaazlab01mZnF0aDJRbUE2ZmxFTkptUU10TDlCWGVweFZ6ZmNFZmsxSFNVNDdpVnRmcEktdnMzYzMtU09Sdi1Sc0MtQTBOZU5vMGx1MkFUVlM2ZmFsU2lmeXVabDZyMGhKaG1xR0NBUzMzQXpfcw?oc=5",
-   "published": "2026-11-15T17:57:11Z",
-   "outlet": "Quantisnow",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "8b97449d19858e85",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma to Host Webcast on Topline Phase 3 APPROACH Study Results for HLP003 in Major Depressive Disorder - Quiver Quantitative",
@@ -8910,6 +8932,17 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWG1JWS1kV0pVWU1oSXpTTmdmb1NxdUpNaWR1ZDlUVjVJQXNYRnJPcUYwbURSQnhWa2xWOGlrS01LamhkaFJCZ1QyOS1IR0U4Vm9kblRvYVJDbF9leXFaS0xITDlnLTR4U2tSYUtyS2d2aTdJLVUwdExjVzRBOWJZSG5OSHI2aVd4d1A2VWxNdVl0Umt2XzV6WU9qaGkwQjAzdkQ0TXVPejdHdXdUMEowNnZBYl9TbGs?oc=5",
    "published": "2026-11-15T10:15:51Z",
    "outlet": "The National Law Review",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "050dce099e6edda5",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study... - Quantisnow",
+   "summary": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study... Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORnk0TWY4ZzBFZ3VkeThFTlMzOEIyVHVDQ3pDNWxGTUxlX3dTejlkbktyd3JrQTF5dnFaazlab01mZnF0aDJRbUE2ZmxFTkptUU10TDlCWGVweFZ6ZmNFZmsxSFNVNDdpVnRmcEktdnMzYzMtU09Sdi1Sc0MtQTBOZU5vMGx1MkFUVlM2ZmFsU2lmeXVabDZyMGhKaG1xR0NBUzMzQXpfcw?oc=5",
+   "published": "2026-11-15T08:00:00Z",
+   "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9970,17 +10003,6 @@
    "first_seen": null
   },
   {
-   "id": "7e93531c4e5d525a",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU1OR0FERnpndER1a2JBWms3SU52ZlFONC03WmdfUmhvNnJwdVJRQnpMUjExeFdjVm83RW81bkVQUy12R0NkT291ckxkZnQ4ZTlMRll6ZE5Md0ZVaTBtb2szcm0xLTFYWnJvdW15OHBDMkh2TjAyalBDWGM3WTJMUFFiNzd1VGoycmQ3N2dqVQ?oc=5",
-   "published": "2026-11-11T18:56:02Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "16f381ebb39951ae",
    "company": "Vanda Pharmaceuticals",
    "title": "NEREUS™ - The Goat of Biscayne Bay Arrives for Miami Art Week - Vanda Pharmaceuticals",
@@ -10395,6 +10417,17 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnhTakwzd3RYbkNyUEhNU010UklfNHAxYkxFLWpNN0tobExQTlZjLWFwZW43MDlMRWs5bEMxWUFuTDhIWDJfWFlEVGYybDV2NWtfbW5GSUhDZ05TYWh1WV9hUmNFUDNucFNfaGZjS2oyem5nM2QzSEtMcGFnV1JvSDJOY0g4TTFVTVNNZW5KWFVhVDIyZk1WTWN5Z19nZDEtSVZNTnYtRV9SVGpJYTNpUk9UQmJNWkh1WEE?oc=5",
    "published": "2026-11-11T08:00:00Z",
    "outlet": "EMJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7fc538f2dad0ba79",
+   "company": "MapLight Therapeutics",
+   "title": "Possible Signal As MapLight Therapeutics Insiders Sell US$13m In Stock - Simply Wall St",
+   "summary": "Possible Signal As MapLight Therapeutics Insiders Sell US$13m In Stock Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSGd0YTJyb2x3cFF4ajhodzZjcnhZYURhSGpfZkRuX1FTZGlFYVZIdXo2Wnd2ZkZqc1dLYzN5WmJuUDd4UnBfaWVzNlZkM1dNUHNXX1dVNHl6czlHbTBKSXdfcFlUWC1BeFczVXZGTWViQnlORk5vWVBxVTJ4a0I0dU0zMnJQRGpzcFBCMFowaHJEck5rSTRqMXFLUTFsZkk2ZDBzWWRPMEN3TjJXd2ZQeHJDS3J5MVg1cXJKZ1d2aGdPOFBWN2t6bTdGbXdNSnFIRXVkSFZFOHVyd0xfR0cwNTdwN3VKQVJaOG000gHwAUFVX3lxTE8tMjdJMDBpcy00NDBwUkFrTFhCQ0tTT2w3ZGpPekRuenplSE5YN1JqR3pWTEhOczNhY3owck44N0xtWGN6Uzlldm5mdDZNLWcydkhjNll6QXJ2X2xXOGZvRWFSV2pSRWNIVmZCbmx4NW9QUVdOZXNieXROYXpKbGI3anRfLU1Xb21YbmwwTGJzM1dmTThCdHh0VXlMbVp1MUwzSnJSLUxUd3RMSjVkMGJLdEFTa1RZVzByRkFBTWptN3pqNlhURUd6dDc3Z2NxUG9nLTFxay1xWDVjdUxGeFNOQnJPbGNhcDQ2dGg0XzNDYQ?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13116,17 +13149,6 @@
    "first_seen": null
   },
   {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
-   "published": "2026-11-03T12:12:08Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -13167,6 +13189,17 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
+   "published": "2026-11-03T08:00:00Z",
+   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -13901,7 +13934,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkpqVWUtT0tZMVVwS2NzMlhuZGVpMnl2ZFZUOTVUSllZRW9BQ2FkN2IzZHpOYkdSWk1nRHZTTlhIaGFEWjRlMTYzaVhpZVdQMDNXZGVEbEppOHVhRXJ6MEItUTEwN010ZzNkdEczazgxUlZlSUtBdmkzbkljc3pUdXZUcTZXZm04anBqck5kUkhkeG52SXF0d25ELU96c1Y1NUNXTUxyUG9LWlRrU3FiaExHVVRJY1JqXzZKag?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LOW13MVl0Wlh1MkRyUU9Ub3RJT0FtLTZfTWxrbmxiRHBBQ09fSXZKcXh2TTQzSlhsWWpJM2pnUzd4Sm5qTTM4dS1ZMkwybndOOVdhSXhFMA?oc=5",
    "published": "2026-11-02T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -28399,7 +28432,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -29150,6 +29183,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUtIY2hZMC1ORUFMOGNhdzRmVk5oNW1wcm05STdvQVZJbXNaaGF1NmFubHJPZFE1eVBFRkVUVFRaQUNYWTRYbjJXYmFEYTkwT2lod1J6Y1R0V1RSOVVOdno4N2otQVBlblVGdTFRTHR6eC0tVVV6eUZ4VDRIQ0thVlZrN0RBcFpJV2F3ZWlLbm1LcVRZSnA2REdWdHdqb2lSUGlQN1hjVE10WVV5QlI2X3BncEFMWGYzRXhuWjNnUTBYV3VU?oc=5",
    "published": "2026-07-26T12:47:13Z",
    "outlet": "The National Herald",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e37057e9bc106d51",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics, Inc. Revenue Breakdown – NASDAQ:MPLT - TradingView",
+   "summary": "MapLight Therapeutics, Inc. Revenue Breakdown – NASDAQ:MPLT TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4aDJaN0J5OEttREhfbGxBR3JISWd2SzNSdl9LRjhTcUdEdmEtbHI4QmMtRkhpR1F0WExzSG5pU2d5bEY0NWFOOUpfTjhGOXJienhRd21xcEFmMjY3SlhBTWp6ejU4TlFUczNPTmw1ZVMtUkdWdHVv?oc=5",
+   "published": "2026-07-26T12:20:26Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -30016,7 +30060,7 @@
    "company": "Eli Lilly",
    "title": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - Eli Lilly",
    "summary": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions Eli Lilly",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92T3ZmNng2MVhya3ZjX1EwZUNDMWlsLWI0Tmd0cEJFU3A4N3FRWjdWTnpoZVpRc3NIWU5ISDNkSzMzSHVKekFxdFNnRktsV0UyanhN?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS280WDZmcXhMU2J5MmdnQ0hKejh0X1prSWN3MDJUTko1NG1lSENxWXlLN1lfUGNVMDUtQktXYzVLd0p1c3A2WjdCUW9jUWw0OWhIek5DdlR2WTBCYmtXYWpOTTFWMnBCZjRDNzduTl9BTDlWWlJPdWc4eUd2emlJNnYzUmc3VUd5NU5OZmwxajlRMXdwTTdpZXNYUDFXeTctMTVmWnBnXzhlMk5yTjBwbFh1SF82b3BSM29tMnVhNTYyeFU?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "Eli Lilly",
    "method": "newsroom via Google News (site:)",
@@ -36810,6 +36854,17 @@
    "first_seen": null
   },
   {
+   "id": "a64be92dd8e905d6",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Announces FDA Clearance to Proceed with Clinical Trial of NRX-101 in Combination with Robotic-enabled Transcranial Magnetic Stimulation in Patients with Depression and Suicidality - Yahoo Finance",
+   "summary": "NRx Pharmaceuticals (Nasdaq:NRXP) Announces FDA Clearance to Proceed with Clinical Trial of NRX-101 in Combination with Robotic-enabled Transcranial Magnetic Stimulation in Patients with Depression and Suicidality Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVQtUDhEc19DRDVWVlM4MXhxY25ZT0JZbmNaX2MzeGMybF9FY2JmZkUzTmc2QTJqSXpTdV9rVGs3Z0FOS3NkRDVnN0pqWk9hem5hYWVzQVRYWkFXS3MwUTdNYWpzamhXS2kwZkczWVRuMVFOXzhCLV90OWpaVWl5QU1rcE83ZTlheGpxQ2ZNbGlzV09EMDlWTUJFUGVMaVZScmxYTVNjaERsZ3VZX01z?oc=5",
+   "published": "2026-05-07T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b96238ce2fe63505",
    "company": "Supernus",
    "title": "Supernus Pharmaceuticals to Participate in the Bank of America 2026 Health Care Conference - Supernus Pharmaceuticals",
@@ -37543,6 +37598,17 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUVkRE85ZXJOTE9IaU5XMlBVY2w0cEZJSGRWeHpPNE5UMUZHTHNxMURVd2xkSlFhNFpPem9IdkYwZVdJdG1aTGtiblBJWlNnME9jVUJaN2FvOHhjdTVGeDVaczZockRCZE90TUZsNTFGOVhSdHNSbGpBaXY1YktrM3kyQTVhVEN6RXgwcVdURUwwZUZ3a1hQYjBQODlmeEZSM1gzaDNxbmZrRXlLN0FONg?oc=5",
    "published": "2026-04-30T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7bc34b48e56bde76",
+   "company": "BioVie",
+   "title": "Investigating Bezisterim for Neurological Symptoms of Long COVID: The Phase 2 ADDRESS-LC Study - NeurologyLive",
+   "summary": "Investigating Bezisterim for Neurological Symptoms of Long COVID: The Phase 2 ADDRESS-LC Study NeurologyLive",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzlDc2VqcnRFRl9yQ0hUZVllTXoyaGdzZFc3WDQyOTh0Q0I4alFibTFKUHdRWFJWc1pLdTR4VVFjZk1WaGxLMDVYcTBBbFJzT1pHN3VaNDFGZDVhTUJTeGZ0UjNMRzY5dmUzWG5jTkFfY2UySHRHZERFYnBaTGVZNDNLaE1CSlliSnhUYXFhLWpkSXVXRmYzVWUtOWV1ZXlaamEwRWNpcWd6RHdYNkxtNFhLT192RnhsNkctUzczMjg?oc=5",
+   "published": "2026-04-30T07:00:00Z",
+   "outlet": "NeurologyLive",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -46332,28 +46398,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFRuTUdoUG10STlCT281TTNkMkxPZno3blB2ZkZmbTI3WThvNmJScXlzeXVMQ2h1RWE0ZVptYWN5bkZ0MEQwZWsxdHJIYjZ2YnJQeDNHRm9ab3hBTnBqY3NoN3IzQnhMZlRpcGdDWFdqWXBWTExrRElSaUJlR0lOcWpXcGJZbFpZTlF5TEU4MG8wbE9Ra1o5QUJiZU5FTUdBSEU4YkxPNVdqVUZEMUZTaVNqaVh5WlNXcmFkSVhic1JnaFpsODFJUA?oc=5",
    "published": "2025-11-27T08:00:00Z",
    "outlet": "The Star Press",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "2565436a242535d1",
-   "company": "Vertero",
-   "title": "Vertero Starts Phase 1 Study for Parkinson’s Therapy VT-5006 - The Clinical Trial Vanguard",
-   "summary": "Vertero Starts Phase 1 Study for Parkinson’s Therapy VT-5006 The Clinical Trial Vanguard",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR1d0YWZETzZYU050aG5BV2RSVk1UazA0R3MxN2tKNWhKVzdkTXlraElxX2hnaWJQN0ZIX2UzTFhKYzUtOTNwOVo5Yy04WVRfaG1DRjNpWVpwOVNDM2ZPZ0pCNEF4RnNCLVVfaWpISFNnSkRjak5FbzN6RVJ5ZmlJVmNxWVQtemhpM3VLX01mWkFfckdDR3FZSDBqQzBER3d4RC1Uc1FB?oc=5",
-   "published": "2025-11-26T08:00:00Z",
-   "outlet": "The Clinical Trial Vanguard",
-   "method": "news search (no newsroom found)",
-   "first_seen": null
-  },
-  {
-   "id": "1025a68156a14f8b",
-   "company": "Insightec",
-   "title": "Glioblastoma Clinical Trial: Focused Ultrasound Blood-Brain Barrier Opening is Safe, Provides Possible Survival Benefit | Newswise - Newswise",
-   "summary": "Glioblastoma Clinical Trial: Focused Ultrasound Blood-Brain Barrier Opening is Safe, Provides Possible Survival Benefit | Newswise Newswise",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTWhPRl9Ub0dVdmtWOWdVMVFWNTBLWXQwdWh2dmZEMGhaeVBQYzFhZWhWVUF4ZlZDc1l3b2R3MGVmMm9td2VzOWRjV1puT1Zrd2QwS3E5YmhjUWFuUWR2QXBDOEppTGItLXlKVnlSU2d5ZmNPN1drOHFJbVJMV0JacldMWlQ3MHozVzF1RkdsZXRqWk5nZ0QwRm1WN1BsZ09ZNUg2N0Z6Y20wakhuVHRMblIzYUpaQWZqb1JwbTd3V3luaEtQQnRvODdVS1lxejEyM3pBSmp4ejljN0hnd09LQm5wakFwQdIB5gFBVV95cUxPTWhPRl9Ub0dVdmtWOWdVMVFWNTBLWXQwdWh2dmZEMGhaeVBQYzFhZWhWVUF4ZlZDc1l3b2R3MGVmMm9td2VzOWRjV1puT1Zrd2QwS3E5YmhjUWFuUWR2QXBDOEppTGItLXlKVnlSU2d5ZmNPN1drOHFJbVJMV0JacldMWlQ3MHozVzF1RkdsZXRqWk5nZ0QwRm1WN1BsZ09ZNUg2N0Z6Y20wakhuVHRMblIzYUpaQWZqb1JwbTd3V3luaEtQQnRvODdVS1lxejEyM3pBSmp4ejljN0hnd09LQm5wakFwQQ?oc=5",
-   "published": "2025-11-26T08:00:00Z",
-   "outlet": "Newswise",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   }
