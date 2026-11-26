@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:49:50Z",
+ "updated": "2026-11-26T21:49:05Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2193,17 +2193,6 @@
    "first_seen": "2026-11-25T09:33:49Z"
   },
   {
-   "id": "ca3e33074f65c11c",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
-   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
-   "published": "2026-11-25T07:52:34Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T15:29:13Z"
-  },
-  {
    "id": "d9f1aac9f29afff6",
    "company": "MapLight Therapeutics",
    "title": "Form 4 MapLight Therapeutics Inc For: 25 November By Investing.com - Investing.com UK",
@@ -2307,8 +2296,8 @@
    "company": "Eli Lilly",
    "title": "Associate VP – Medical Development – Interventional Psychiatry - Lilly Careers",
    "summary": "Associate VP – Medical Development – Interventional Psychiatry Lilly Careers",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVQzYmFhYVlzYm9QeUdJX3hvUHZGdDJ4aVoyWFd6UE82ZDdtNTNHSzlsWERramc3M2FBb19SUEdhV1Iyb3k2TWpwX2IwS2lWRDFqSmUxbUhOWUpmR3RleTB3Tjg0QUo1eFFlVXZ0cEVTRVNFVFl4cm1raUJLeVl3eWhMV19uOF9OeVo4NWhyTDE5YTc5SXpjaEMzMnl3ek92VS1LTWp3?oc=5",
-   "published": "2026-11-25T03:40:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdExoMjVMVzhNb2hDb3JXblNXaE5qbzZFdTlMRUduRi01TWhHWmxJRldaQVpyOHp5cGF4T3piZ3FiRTZSX2VyaTJGUmEyQXpBSU91YjIyU3U5RTBJM3lxQVBNb1hMdWIyWFNDX2NkSFc3ZUVIaHg3SXl5clZ1YnIzcVpKT1BvTE11SmZQbEhwQlhmVThSQ2FEUU5EWndfNG1sT296bjRycFRBbkU?oc=5",
+   "published": "2026-11-25T02:40:22Z",
    "outlet": "Lilly Careers",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-25T04:23:02Z"
@@ -2565,6 +2554,17 @@
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-25T23:22:00Z"
+  },
+  {
+   "id": "ca3e33074f65c11c",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
+   "published": "2026-11-24T16:57:14Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T15:29:13Z"
   },
   {
    "id": "8309a57125095ec4",
@@ -2851,6 +2851,17 @@
    "outlet": "StreetInsider",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T05:32:58Z"
+  },
+  {
+   "id": "b2923cc987a16d29",
+   "company": "Incannex Healthcare",
+   "title": "Incannex Healthcare Stock Price Forecast. Should You Buy IXHL? - StockInvest.us",
+   "summary": "Incannex Healthcare Stock Price Forecast. Should You Buy IXHL? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44ZS1YVUkwTG9Vc09sU19yc2FyZy1pbXpoUXRLNEVsVW5WS2tSUS12MEFWWGFmSjBBNWMyQkV1RE85SjhmaXg2VQ?oc=5",
+   "published": "2026-11-24T08:00:00Z",
+   "outlet": "StockInvest.us",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "a0b0a8544c450aa6",
@@ -3709,17 +3720,6 @@
    "outlet": "Moomoo",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-22T05:27:34Z"
-  },
-  {
-   "id": "b2923cc987a16d29",
-   "company": "Incannex Healthcare",
-   "title": "Incannex Healthcare Stock Price Forecast. Should You Buy IXHL? - StockInvest.us",
-   "summary": "Incannex Healthcare Stock Price Forecast. Should You Buy IXHL? StockInvest.us",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44ZS1YVUkwTG9Vc09sU19yc2FyZy1pbXpoUXRLNEVsVW5WS2tSUS12MEFWWGFmSjBBNWMyQkV1RE85SjhmaXg2VQ?oc=5",
-   "published": "2026-11-20T22:28:26Z",
-   "outlet": "StockInvest.us",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
   },
   {
    "id": "9fbc78eed84909c1",
@@ -11895,17 +11895,6 @@
    "first_seen": null
   },
   {
-   "id": "c6904f836bbf5b74",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates - Investing News Network",
-   "summary": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates Investing News Network",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21COFF3cVExczNCVHVMOWdZV0Y5RFZNZDZKZ0VLenUzdGJ6QV90dFVvSTV5a0NUeFVxa2xKeWV2cHcyTUJ5VVNTUlAwVXdqOXlIY1NBN0NsQzYzNG1kdmRDblFGM3BDZXgyeF9QSWVUbFh3MDF1bWdpYWJjUlFQZEIxM29ETmhiS2ktTlF5MlpXdWZWMXFfQ2JjNk44X3lDSFd6RVdNWUplTXJaNC1ZQzNnWkNNQQ?oc=5",
-   "published": "2026-11-06T14:50:39Z",
-   "outlet": "Investing News Network",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "ccf6090df5ba61c9",
    "company": "Minerva Neurosciences",
    "title": "Form 8K Minerva Neurosciences Inc For: 6 November By Investing.com - Investing.com Canada",
@@ -11968,6 +11957,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNlJBTjBIcUVLUjVIejRheGNhOFlrRDlmcmQ4andUQVRLT3h4WVNSbTZEM3AyaEcwYThGUEw2VmdjUnNfbHZTTEFLckJUaEE1cnhKakZmbU1lcENYQVQ5ck5tbkFlR2dscWxGOUdQZVJFRFNFVG4xSlJSRk0wZkhZZlRJd3AxWTg4R0pOcDBKY1pncU9ZLXFIRk9vakdtNE9ZWTd1OW4yaTZPVFplaHpGSzBOZkR3UHlQSDI0?oc=5",
    "published": "2026-11-06T10:31:00Z",
    "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c6904f836bbf5b74",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates - Investing News Network",
+   "summary": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates Investing News Network",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21COFF3cVExczNCVHVMOWdZV0Y5RFZNZDZKZ0VLenUzdGJ6QV90dFVvSTV5a0NUeFVxa2xKeWV2cHcyTUJ5VVNTUlAwVXdqOXlIY1NBN0NsQzYzNG1kdmRDblFGM3BDZXgyeF9QSWVUbFh3MDF1bWdpYWJjUlFQZEIxM29ETmhiS2ktTlF5MlpXdWZWMXFfQ2JjNk44X3lDSFd6RVdNWUplTXJaNC1ZQzNnWkNNQQ?oc=5",
+   "published": "2026-11-06T08:00:00Z",
+   "outlet": "Investing News Network",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14869,7 +14869,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -18964,6 +18964,17 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeHQtWEdrdkNEUVNrZmlxYVpWMHhNdTJIZ21pM25DUUx2cUMtandtNHRFNUpWYXZoSlcwQnNxMnJTNlNSY2xTeXpPS0ViNHVPNUhvTVNxZ2V4QkhrbElrWm55cUFwRUQxWnFfTllXemtSNnF0cUVVOF9QYVdyMS1sSk1PRkE1YzduSE5SRGFKeEh1UTFsWnRYY1JvNGpKNnFsTkJ6dXZCTjBRTzdhQ0RRa01iUWw?oc=5",
    "published": "2026-10-07T23:13:21Z",
    "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "b368df63e0eb4433",
+   "company": "Spinogenix",
+   "title": "Sasha Damouni Ellis - Spinogenix",
+   "summary": "Sasha Damouni Ellis Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VaXZ0QnlWYkJPLUkwVlBLLVJJZGZja0N6LVlWZzRZeU5lRFI1YXliaUUwUTk2dEFKQWgxSTZ3QTBRLWl6X29NVzZDOEZNdUlUSjZldUFzM2puRDF6?oc=5",
+   "published": "2026-10-07T19:38:43Z",
+   "outlet": "Spinogenix",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -26772,7 +26783,7 @@
    "title": "ACIU Stock Heads For Best Day In Over 10 Months On FDA Fast Track Nod For Parkinson’s Disease Therapy – Retail Sees ‘Breakout Soon’ - Stocktwits",
    "summary": "ACIU Stock Heads For Best Day In Over 10 Months On FDA Fast Track Nod For Parkinson’s Disease Therapy – Retail Sees ‘Breakout Soon’ Stocktwits",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzVvZU5pd2E1R1B1U2hONGpUV05jdmF2eGUxdmVLMldhV0lOek9lZE5ZS1FmWnpBcHZ0UDJkWjlEZlhqQzNWWGFDdTdjZnVzWVJCLWdnSGpvcktIbV9sT29xTDhCZV80OHM2T05aQmZfa1pzc2VCQjZHaFRaNVMwZUotNGlJaEFOOFpBTWIwaHhzbzlmN29XREdBdw?oc=5",
-   "published": "2026-08-11T16:22:57Z",
+   "published": "2026-08-11T07:00:00Z",
    "outlet": "Stocktwits",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -41870,6 +41881,17 @@
    "first_seen": null
   },
   {
+   "id": "8d00d67f9b2664bd",
+   "company": "Spinogenix",
+   "title": "Robert Young, PhD - Spinogenix",
+   "summary": "Robert Young, PhD Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RWFFVUmZpUXhrRDV3RHZLd0lfQ3B6eG03Tlp6SFd5Z2h0M0pQNThORGNkZzAwdk1kZjVac2hOU2JLY3FaYU0xZjZValdsU2o2QUFPd2dmejE?oc=5",
+   "published": "2026-03-06T14:02:50Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "c8931d1091e864ce",
    "company": "Spinogenix",
    "title": "Mervyn Turner, PhD - Spinogenix",
@@ -42109,6 +42131,17 @@
    "published": "2026-03-03T08:00:00Z",
    "outlet": "Finviz",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1e7ada6e79375f92",
+   "company": "Spinogenix",
+   "title": "Justin Ichida, PhD - Spinogenix",
+   "summary": "Justin Ichida, PhD Spinogenix",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Db2hZYWtuM3VHdjhzSFBReEY4cUJZVi05TXZiQU1RN1VRQUVUUXNpOHd6X1dNVjlEVTFOX3lHc1E5c0FJVFFWZUxWZ1RBdjZyZGFhWVU1OEs5dw?oc=5",
+   "published": "2026-03-03T00:20:33Z",
+   "outlet": "Spinogenix",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
