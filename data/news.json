@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:08:20Z",
+ "updated": "2026-11-26T14:29:35Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "9b38fbd4928cba59",
+   "company": "Neurocrine Biosciences",
+   "title": "Why Neurocrine Biosciences (NBIX) Is Getting Attention Today - Simply Wall St",
+   "summary": "Why Neurocrine Biosciences (NBIX) Is Getting Attention Today Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdUFObVBfelM0MnotVF91azU0R1pEU1JocW52WXhRZlBISGRCZkJFSXM0MDhLMHFEODY5OGhsTi0tay1LNkdqNHNoMHBqNjhLR09iV1BZVjcya0dJMGl2dUQwc1g4dWRiQk5DTXB1TG5kZlJ0YTBRT0dtTzhucjZLXzRMd3J0WGFqR09yWlpsQ0FZNkdIazM1bFBPNms4MTVUc1RrOU9nNEZGNXk2UFh1OFE3aTJCS2tBTmhKRzlHTHZmSkJpVjJkQms5anRrME1HTVZfRmpFTldfSzJUS09tejloSWFFZm1uaFHSAe8BQVVfeXFMT2NIQXZyU0J3T3NHMGFmYzVEOC0wZHY5YkRLZGZCOVQwRkc4VC1iQ3dHRHUydVNFX1AwemFUVlRGaHBWYjJYWGQ4Yi1PZkhuUzIzTDg0WVhhZWNjYjI1WGNHOXdHQU9mX2pfRjk3U2llR2E4Xy1XaGRZamxrVHdsNlBqeUN4T2FlOGRiYmdrODBiLUhReUpTb0Nvbi1aLTE0akhtcmMwS0VQekdtVk1ESWlNQWxlc1NreFJmVjBGOEVmaUl1Vi01eGFEMTFUWXNlTUlzRmJPb2MxbDRqT0NxTzRsQ1duZENLTTNlUkloMm8?oc=5",
+   "published": "2026-11-26T13:12:03Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T14:29:35Z"
+  },
+  {
    "id": "aaf54d4e48cd8ef7",
    "company": "Herantis Pharma",
    "title": "Inderes raises Herantis Pharma to Buy (Increase), price target €1.90 (2) - marketscreener.com",
@@ -1758,7 +1769,7 @@
    "title": "Form 4 Serina Therapeutics Inc: Gregory Bailey (Director) For: 23 November By Investing.com - Investing.com India",
    "summary": "Form 4 Serina Therapeutics Inc: Gregory Bailey (Director) For: 23 November By Investing.com Investing.com India",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkplMEktdUhmVm1nUnM1ME5YN1hDcThwQkFFd1hlU3hPTEJuSGU5ZVdJc0dnOWpKcTljdGFtVzRVYkpUaEpWS3FpR2N3d2c3Zzg0VnlMbEpxcGp2anl2YlZTT2VrYTc2a1RXLXR5bHhyNEhqYTBXVXRleWM4d3dmZ1l0R0tOVUFROGNXM1B6MkFPWWZ4enFTbkszVXJwWWRhcl9LX1AxWW85bjJPSHBGNnpSZjdxY3VuMEJXSkRCY3pqSWdOVHEtQVFHRQ?oc=5",
-   "published": "2026-11-26T01:39:27Z",
+   "published": "2026-11-26T01:40:41Z",
    "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T02:49:37Z"
@@ -1839,17 +1850,6 @@
    "outlet": "Stock Traders Daily",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T04:59:29Z"
-  },
-  {
-   "id": "7e93531c4e5d525a",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
-   "published": "2026-11-25T22:43:23Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
   },
   {
    "id": "7a892ad1afc53854",
@@ -6868,6 +6868,17 @@
    "first_seen": null
   },
   {
+   "id": "e09a7a5f515b6a89",
+   "company": "Teva",
+   "title": "FDA clears Teva's IGALMI as first at-home agitation treatment in schizophrenia and bipolar disorder - Dealroom",
+   "summary": "FDA clears Teva's IGALMI as first at-home agitation treatment in schizophrenia and bipolar disorder Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSktaZjIyWVFOQ1NVQV9GeTc0UUJnX19QRTFxNmR5S05ka08yR2g0eGo0QkVaYy1ERG9iRFlvckk4SVY5YlJGVGJ1cTRwdmtGZFd1b25iYTh6ZloxbkNxNHhIYVJOZEFkT2ZpQl9rWEdlOFhUYWFSQWRqQ3hRSDRLZE5OV2hlWjNyaWcwLXp0UTMxWmdVUTl1N3JQYmNaeEpMNXNRR1RIeWRVZVk4SW1DVWFLMzA2THkwNVROZEp0dUdXR1JiLUtka0R2NW5qZw?oc=5",
+   "published": "2026-11-17T11:50:27Z",
+   "outlet": "Dealroom",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "50dd461e21c252e2",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "HELP: Strong Phase 3 Data Keeps The Repricing Case Intact - Simply Wall St",
@@ -7447,17 +7458,6 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGlRRDRuTW4tLVRLLXZqdUFFR21LUk0zOGpaZWhPOXcyd1FRYWdNaURVRndBWWdaSzR5QXhuaWFMMnJGYWtvWDZuaGFCbk9SXzhOSkp6SlpSS1c1X1B6OWl3aHpGZzBFSXFxZndfMjdocXF6TzltRGdPNGNVVXZacW1Rb0FBb2M4eHZNS2NhVWhicTVTYkp1ZmNhdGhVZw?oc=5",
    "published": "2026-11-16T16:14:29Z",
    "outlet": "SOCRadar",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "e09a7a5f515b6a89",
-   "company": "Teva",
-   "title": "FDA clears Teva's IGALMI as first at-home agitation treatment in schizophrenia and bipolar disorder - Dealroom",
-   "summary": "FDA clears Teva's IGALMI as first at-home agitation treatment in schizophrenia and bipolar disorder Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSktaZjIyWVFOQ1NVQV9GeTc0UUJnX19QRTFxNmR5S05ka08yR2g0eGo0QkVaYy1ERG9iRFlvckk4SVY5YlJGVGJ1cTRwdmtGZFd1b25iYTh6ZloxbkNxNHhIYVJOZEFkT2ZpQl9rWEdlOFhUYWFSQWRqQ3hRSDRLZE5OV2hlWjNyaWcwLXp0UTMxWmdVUTl1N3JQYmNaeEpMNXNRR1RIeWRVZVk4SW1DVWFLMzA2THkwNVROZEp0dUdXR1JiLUtka0R2NW5qZw?oc=5",
-   "published": "2026-11-16T16:11:30Z",
-   "outlet": "Dealroom",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10036,6 +10036,17 @@
    "first_seen": null
   },
   {
+   "id": "7e93531c4e5d525a",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU1OR0FERnpndER1a2JBWms3SU52ZlFONC03WmdfUmhvNnJwdVJRQnpMUjExeFdjVm83RW81bkVQUy12R0NkT291ckxkZnQ4ZTlMRll6ZE5Md0ZVaTBtb2szcm0xLTFYWnJvdW15OHBDMkh2TjAyalBDWGM3WTJMUFFiNzd1VGoycmQ3N2dqVQ?oc=5",
+   "published": "2026-11-11T18:56:02Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "16f381ebb39951ae",
    "company": "Vanda Pharmaceuticals",
    "title": "NEREUS™ - The Goat of Biscayne Bay Arrives for Miami Art Week - Vanda Pharmaceuticals",
@@ -11851,17 +11862,6 @@
    "first_seen": null
   },
   {
-   "id": "c6904f836bbf5b74",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates - Investing News Network",
-   "summary": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates Investing News Network",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21COFF3cVExczNCVHVMOWdZV0Y5RFZNZDZKZ0VLenUzdGJ6QV90dFVvSTV5a0NUeFVxa2xKeWV2cHcyTUJ5VVNTUlAwVXdqOXlIY1NBN0NsQzYzNG1kdmRDblFGM3BDZXgyeF9QSWVUbFh3MDF1bWdpYWJjUlFQZEIxM29ETmhiS2ktTlF5MlpXdWZWMXFfQ2JjNk44X3lDSFd6RVdNWUplTXJaNC1ZQzNnWkNNQQ?oc=5",
-   "published": "2026-11-06T14:50:39Z",
-   "outlet": "Investing News Network",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "ccf6090df5ba61c9",
    "company": "Minerva Neurosciences",
    "title": "Form 8K Minerva Neurosciences Inc For: 6 November By Investing.com - Investing.com Canada",
@@ -11924,6 +11924,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNlJBTjBIcUVLUjVIejRheGNhOFlrRDlmcmQ4andUQVRLT3h4WVNSbTZEM3AyaEcwYThGUEw2VmdjUnNfbHZTTEFLckJUaEE1cnhKakZmbU1lcENYQVQ5ck5tbkFlR2dscWxGOUdQZVJFRFNFVG4xSlJSRk0wZkhZZlRJd3AxWTg4R0pOcDBKY1pncU9ZLXFIRk9vakdtNE9ZWTd1OW4yaTZPVFplaHpGSzBOZkR3UHlQSDI0?oc=5",
    "published": "2026-11-06T10:31:00Z",
    "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "c6904f836bbf5b74",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates - Investing News Network",
+   "summary": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates Investing News Network",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21COFF3cVExczNCVHVMOWdZV0Y5RFZNZDZKZ0VLenUzdGJ6QV90dFVvSTV5a0NUeFVxa2xKeWV2cHcyTUJ5VVNTUlAwVXdqOXlIY1NBN0NsQzYzNG1kdmRDblFGM3BDZXgyeF9QSWVUbFh3MDF1bWdpYWJjUlFQZEIxM29ETmhiS2ktTlF5MlpXdWZWMXFfQ2JjNk44X3lDSFd6RVdNWUplTXJaNC1ZQzNnWkNNQQ?oc=5",
+   "published": "2026-11-06T08:00:00Z",
+   "outlet": "Investing News Network",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12126,6 +12137,17 @@
    "first_seen": null
   },
   {
+   "id": "29c60342e83ea415",
+   "company": "Rapport Therapeutics",
+   "title": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 - TradingView",
+   "summary": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXZTeEE1N0FtRm9xM1lIYm9aamhqQXo1c3ZETUs0UmNHWXpJQzlqVlk3eUR6djY0b1JyaXBBQUF1M2UwZHVsNU1lX1FhTklxUFB4eXV4bkJGVGNlQktFMUh1WVlfVjJadHhZUm9wLTZ3OFZRbWg5andNRXNFMWZnUnNNMHVwWXRLOEVOdHJHblQyaG8tVENUVEMzdGlpMHMtNFlna2NPWjJPY2xVZ3YwbWUxVUNTOEtjZ0xWZkNhem1JVndQaW05anFULUtRRGFHcU44?oc=5",
+   "published": "2026-11-06T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "9aff136a92ffcdeb",
    "company": "Annovis Bio",
    "title": "Press Release - Annovis Bio",
@@ -12276,17 +12298,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZmhWYTN4aEIxTEhtb3A4d3RMUFAzNWRwMWNkVVVlVGJLRDRHbVhNXzROckVQRmNfUXd3dXJVb25xVVNuYXRPdW52aEdOSkVCYXJ4WUVWcVpremRoQjdXY1hmamRxRGs1SUtHMkRkVnd2M014LWVYR3hwbU5vQWhsbHRibHFNRlFaZ0gySXc2Z1dnSWJPZjJ5X2czanE5SWNXa3VQNE5yM0Q3REZ6aTk1UnBrWVVrMzd5UlRsd3p5V25hcnpwUkpDS29hUmtqNk9kNldNZkE1VWk1SUZxMHdnNWZQTmd4RkxBVzJOZXRQNDZVU0hMQzBIR2RKSHpjR2pEQzNRcC1JMWpld2UxSjB0a3RzVHJCR3VTTThUMF9lU0ExSnplOGIzSWV3?oc=5",
    "published": "2026-11-05T08:00:00Z",
    "outlet": "PR Newswire",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "29c60342e83ea415",
-   "company": "Rapport Therapeutics",
-   "title": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 - TradingView",
-   "summary": "UBS maintains Rapport Therapeutics at Buy, lowers price target to $64 from $71 TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXZTeEE1N0FtRm9xM1lIYm9aamhqQXo1c3ZETUs0UmNHWXpJQzlqVlk3eUR6djY0b1JyaXBBQUF1M2UwZHVsNU1lX1FhTklxUFB4eXV4bkJGVGNlQktFMUh1WVlfVjJadHhZUm9wLTZ3OFZRbWg5andNRXNFMWZnUnNNMHVwWXRLOEVOdHJHblQyaG8tVENUVEMzdGlpMHMtNFlna2NPWjJPY2xVZ3YwbWUxVUNTOEtjZ0xWZkNhem1JVndQaW05anFULUtRRGFHcU44?oc=5",
-   "published": "2026-11-05T08:00:00Z",
-   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -22433,6 +22444,17 @@
    "first_seen": null
   },
   {
+   "id": "d682b1fec4296226",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Announces Azetukalner NDA Submission to FDA for Focal Seizures and Provides Update on Psychiatry Clinical Program - Xenon Pharmaceuticals",
+   "summary": "Xenon Announces Azetukalner NDA Submission to FDA for Focal Seizures and Provides Update on Psychiatry Clinical Program Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVZlWGZuUjEzbUFCOTgtakRvNDl3ZnVYRUFSU2JQdEd2U1FXVmpUdmhNSS1MWF91dmNqMTl2TmY3ZVl4U0ZSSW95aGptelAwOGpMUTNlX0xpSmJReFBnS2R6eHRTcWlyWTFKOHRyVTFqcjFjUEpmYndibkQ3SXZ2anV3UzVBaHRLaWpsWElaWjRhVS1LcXNWalI1U0F4SHJJSThodllVenBkRGlmWXcwendxU0o4akdZTmJ4WjlEOEw1SktSZmNRSUN3?oc=5",
+   "published": "2026-09-17T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "386ba30adaa55c46",
    "company": "Aspen Neuroscience",
    "title": "Andrés Bratt-Leal, Ph.D.",
@@ -30089,6 +30111,17 @@
    "first_seen": null
   },
   {
+   "id": "ff210f67bf52f562",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
+   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
+   "published": "2026-07-17T07:00:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "53df4fa4ea65cb6d",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics CEO Gene Mack Issues Letter to Shareholders and Provides Operational Update - Gain Therapeutics",
@@ -30108,17 +30141,6 @@
    "published": "2026-07-16T12:32:59Z",
    "outlet": "Newronika",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "ff210f67bf52f562",
-   "company": "AtaiBeckley (Atai Beckley)",
-   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
-   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
-   "published": "2026-07-16T07:00:00Z",
-   "outlet": "WSJ",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
