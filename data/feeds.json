@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-26T17:40:21Z"
+  "checked": "2026-11-26T18:36:00Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -244,13 +244,13 @@
   "feed": "https://news.google.com/rss/search?q=%22Prevail+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.prevailtherapeutics.com/\", null, null, null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-26T18:36:00Z"
  },
  "UCB": {
-  "feed": "https://news.google.com/rss/search?q=%22UCB%22+%28%22Parkinson%22+OR+%22Neupro%22+OR+%22rotigotine%22+OR+%22UCB0022%22+OR+%22minzasolmin%22+OR+%22glovadalen%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Aucb.com+%28%22Parkinson%22+OR+%22Neupro%22+OR+%22rotigotine%22+OR+%22UCB0022%22+OR+%22minzasolmin%22+OR+%22glovadalen%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.ucb.com/newsroom\", null, null, [\"Parkinson\", \"Neupro\", \"rotigotine\", \"UCB0022\", \"minzasolmin\", \"glovadalen\"]]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-26T18:36:00Z"
  },
  "Regeneron": {
   "feed": "https://news.google.com/rss/search?q=%22Regeneron%22+%28%22Parkinson%22+OR+%22synuclein%22+OR+%22LRRK2%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -316,7 +316,7 @@
   "feed": "https://news.google.com/rss/search?q=Cynaptec+L-130&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Cynaptec L-130\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-26T18:36:00Z"
  },
  "Atai Beckley": {
   "feed": "https://news.google.com/rss/search?q=site%3Aatai.com&hl=en-US&gl=US&ceid=US:en",
@@ -383,7 +383,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Honeybrains%22+OR+%22HB-1+PTSD%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Honeybrains\\\" OR \\\"HB-1 PTSD\\\"\", null]",
-  "checked": "2026-11-24T02:50:51Z"
+  "checked": "2026-11-26T18:36:00Z"
  },
  "Insightec": {
   "feed": "https://news.google.com/rss/search?q=%22Insightec%22&hl=en-US&gl=US&ceid=US:en",
@@ -407,7 +407,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Ananda+Scientific%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://anandascientific.com/\", null, \"\\\"Ananda Scientific\\\"\", null]",
-  "checked": "2026-11-26T03:53:07Z"
+  "checked": "2026-11-26T18:36:00Z"
  },
  "Neurala Biosciences": {
   "feed": "https://news.google.com/rss/search?q=%22Neurala+Biosciences%22+OR+%22NBX-100%22&hl=en-US&gl=US&ceid=US:en",
@@ -473,7 +473,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Aalkermes.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://investor.alkermes.com/news-releases\", null, null, null]",
-  "checked": "2026-11-23T12:46:16Z"
+  "checked": "2026-11-26T18:36:00Z"
  },
  "Alterity Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=%22Alterity+Therapeutics%22+OR+%22ATH434%22&hl=en-US&gl=US&ceid=US:en",
@@ -557,7 +557,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Atgtherapeutics.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://ir.tgtherapeutics.com/news-releases\", null, null, null]",
-  "checked": "2026-11-22T22:16:02Z"
+  "checked": "2026-11-26T18:36:00Z"
  },
  "Spinogenix": {
   "feed": "https://news.google.com/rss/search?q=site%3Aspinogenix.com&hl=en-US&gl=US&ceid=US:en",
@@ -641,7 +641,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Anovartis.com+%28%22GXV813%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22psychiatry%22+OR+%22neuroscience%22%29&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.novartis.com/news/news-archive\", null, null, [\"GXV813\", \"depression\", \"schizophrenia\", \"psychiatr\", \"neuroscience\"]]",
-  "checked": "2026-11-23T22:20:59Z"
+  "checked": "2026-11-26T18:36:00Z"
  },
  "Incannex Healthcare": {
   "feed": "https://news.google.com/rss/search?q=%22Incannex+Healthcare%22&hl=en-US&gl=US&ceid=US:en",
