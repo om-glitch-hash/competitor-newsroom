@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:49:39Z",
+ "updated": "2026-11-26T10:55:15Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1841,17 +1841,6 @@
    "first_seen": "2026-11-26T04:59:29Z"
   },
   {
-   "id": "7e93531c4e5d525a",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
-   "published": "2026-11-25T22:43:23Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "7a892ad1afc53854",
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference - TG Therapeutics",
@@ -2259,6 +2248,17 @@
    "first_seen": "2026-11-25T05:32:58Z"
   },
   {
+   "id": "313796eca4104399",
+   "company": "Eli Lilly",
+   "title": "Associate VP – Medical Development – Interventional Psychiatry - Lilly Careers",
+   "summary": "Associate VP – Medical Development – Interventional Psychiatry Lilly Careers",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVQzYmFhYVlzYm9QeUdJX3hvUHZGdDJ4aVoyWFd6UE82ZDdtNTNHSzlsWERramc3M2FBb19SUEdhV1Iyb3k2TWpwX2IwS2lWRDFqSmUxbUhOWUpmR3RleTB3Tjg0QUo1eFFlVXZ0cEVTRVNFVFl4cm1raUJLeVl3eWhMV19uOF9OeVo4NWhyTDE5YTc5SXpjaEMzMnl3ek92VS1LTWp3?oc=5",
+   "published": "2026-11-25T03:40:22Z",
+   "outlet": "Lilly Careers",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-25T04:23:02Z"
+  },
+  {
    "id": "339ed6c531e1bdf1",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -2268,17 +2268,6 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
-   "id": "313796eca4104399",
-   "company": "Eli Lilly",
-   "title": "Associate VP – Medical Development – Interventional Psychiatry - Lilly Careers",
-   "summary": "Associate VP – Medical Development – Interventional Psychiatry Lilly Careers",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdExoMjVMVzhNb2hDb3JXblNXaE5qbzZFdTlMRUduRi01TWhHWmxJRldaQVpyOHp5cGF4T3piZ3FiRTZSX2VyaTJGUmEyQXpBSU91YjIyU3U5RTBJM3lxQVBNb1hMdWIyWFNDX2NkSFc3ZUVIaHg3SXl5clZ1YnIzcVpKT1BvTE11SmZQbEhwQlhmVThSQ2FEUU5EWndfNG1sT296bjRycFRBbkU?oc=5",
-   "published": "2026-11-25T02:40:22Z",
-   "outlet": "Lilly Careers",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-25T04:23:02Z"
   },
   {
    "id": "f2b29d94c29cdbcf",
@@ -3265,7 +3254,7 @@
    "title": "EQS-News: Newron Strengthens Evenamide Intellectual Property Portfolio - finanzen.ch",
    "summary": "EQS-News: Newron Strengthens Evenamide Intellectual Property Portfolio finanzen.ch",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDZfZ0tkMTNWVzZYMDNvUElVQzZKb3ZTb3FjMnRtcW1XdGFTd08ya1ZpbEtmYWRKUHczOUNKc3hkUDc5R3RFUm41eW1tUnQwTy12NzhWNktFREQ0TEpfODZlTWt6eWRCZ09jZ3JFb1ZCN3RZbTNaVWZDeHV3aGZFQnd2RC1BUHZIT0ZGU3ZrYzd2cGpQS2kwUjdkem9QSEQ4UUZEWGVZdC1iRmpDb2VlWGNCNzc1STRUZ0Q1elJ6MUY?oc=5",
-   "published": "2026-11-23T06:06:53Z",
+   "published": "2026-11-23T06:00:03Z",
    "outlet": "finanzen.ch",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-23T06:19:34Z"
@@ -3819,6 +3808,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T21:13:37Z"
+  },
+  {
+   "id": "192abf0094b3e608",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron Pharmaceuticals S.p.A. (NP5.F) stock price, news, quote and history - Yahoo Finance Australia",
+   "summary": "Newron Pharmaceuticals S.p.A. (NP5.F) stock price, news, quote and history Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtbE91REl4enpKd2haaUExenNzX2VhWmVZWW9KZDFaSW5rYW9hb29Cb3RzZGdxVEM5Y0pYMDJ3NXhnWTRnNEFxUmpFX0s2MU51bE83SlliR181QjFtNVVnU0ZB?oc=5",
+   "published": "2026-11-20T19:15:14Z",
+   "outlet": "Yahoo Finance Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T06:24:45Z"
   },
   {
    "id": "c17435afc147177f",
@@ -4721,17 +4721,6 @@
    "outlet": "Investing.com South Africa",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T11:58:34Z"
-  },
-  {
-   "id": "192abf0094b3e608",
-   "company": "Newron Pharmaceuticals",
-   "title": "Newron Pharmaceuticals S.p.A. (NP5.F) stock price, news, quote and history - Yahoo Finance Australia",
-   "summary": "Newron Pharmaceuticals S.p.A. (NP5.F) stock price, news, quote and history Yahoo Finance Australia",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtbE91REl4enpKd2haaUExenNzX2VhWmVZWW9KZDFaSW5rYW9hb29Cb3RzZGdxVEM5Y0pYMDJ3NXhnWTRnNEFxUmpFX0s2MU51bE83SlliR181QjFtNVVnU0ZB?oc=5",
-   "published": "2026-11-19T18:01:16Z",
-   "outlet": "Yahoo Finance Australia",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T06:24:45Z"
   },
   {
    "id": "1366ce996058e55e",
@@ -6670,6 +6659,17 @@
    "first_seen": null
   },
   {
+   "id": "7fbb14c30eb6792c",
+   "company": "Neumora Therapeutics",
+   "title": "Mizuho reiterates Outperform on Neumora stock, $3 target maintained - Investing.com",
+   "summary": "Mizuho reiterates Outperform on Neumora stock, $3 target maintained Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVlMVjNtVTRUak1YWlV0NUF0RGhNdGgydnRMZ3ZRUXR4THpZUlo4UENDYmdBZ3YwODlYX2RVZnNVQU9ORkFKZVRkR0pVMmJ3LWUxTE5HcncwTnVNRlBrWTJWNXdiTURuYkYwVFlTUXM3aHoyOUJVbkxkNFFOYVVtM0xnVmh0cEdrYVlzZklsbElJTV9HWDBHdmptdURHelpTVTJOMS1LSm9rQUFBX3VNTVlDZVJicElnOVN6QVNTcHJ6OTA?oc=5",
+   "published": "2026-11-17T13:59:43Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "15982b3876665931",
    "company": "Annovis Bio",
    "title": "Annovis Bio receives second positive safety review for AD trial - Investing.com",
@@ -6987,17 +6987,6 @@
    "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
-   "id": "7fbb14c30eb6792c",
-   "company": "Neumora Therapeutics",
-   "title": "Mizuho reiterates Outperform on Neumora stock, $3 target maintained - Investing.com",
-   "summary": "Mizuho reiterates Outperform on Neumora stock, $3 target maintained Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVlMVjNtVTRUak1YWlV0NUF0RGhNdGgydnRMZ3ZRUXR4THpZUlo4UENDYmdBZ3YwODlYX2RVZnNVQU9ORkFKZVRkR0pVMmJ3LWUxTE5HcncwTnVNRlBrWTJWNXdiTURuYkYwVFlTUXM3aHoyOUJVbkxkNFFOYVVtM0xnVmh0cEdrYVlzZklsbElJTV9HWDBHdmptdURHelpTVTJOMS1LSm9rQUFBX3VNTVlDZVJicElnOVN6QVNTcHJ6OTA?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "Investing.com",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
   },
   {
    "id": "1b66d48ac512cbfe",
@@ -9948,6 +9937,17 @@
    "first_seen": null
   },
   {
+   "id": "e79f38fb71cc4c5e",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences (NasdaqCM:NERV) Stock Forecast & Analyst Predictions - Simply Wall St",
+   "summary": "Minerva Neurosciences (NasdaqCM:NERV) Stock Forecast & Analyst Predictions Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdG1XOGJ0YTF5cWNTRFV3VUdreVJudEc5Rk8wWk1DVGxMclRMSVFYNUFiTzNTTHNfU1VGbnZzMWJPQ2tzUktNSnlRdkV6REgwWjQ4bjZYWlRSR2NHWm1QblZwSFJkNXJEZWRSLWNmQmVxU2diWGFwQ2pvSkJSMzFhOEg4SEJucG14SmpqMG1yWHZxZjByS002Zk1CeVU?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "59f49190b8e0f05a",
    "company": "Incannex Healthcare",
    "title": "Incannex Healthcare Q1 2027 Earnings Date and Estimates - MarketBeat",
@@ -10021,6 +10021,17 @@
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwcDF3Q0d3TTM4WWFxbWtvRTNFMWhwYnZZcWs1bWl0SFNEbktUY2xyVnVnRjkwNmNwbml2MzRrNW5QOFoxbFRwQWFRQk81eUpEVFZaYkZxSGJRY1h6TU5sY09n?oc=5",
    "published": "2026-11-11T21:00:00Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7e93531c4e5d525a",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU1OR0FERnpndER1a2JBWms3SU52ZlFONC03WmdfUmhvNnJwdVJRQnpMUjExeFdjVm83RW81bkVQUy12R0NkT291ckxkZnQ4ZTlMRll6ZE5Md0ZVaTBtb2szcm0xLTFYWnJvdW15OHBDMkh2TjAyalBDWGM3WTJMUFFiNzd1VGoycmQ3N2dqVQ?oc=5",
+   "published": "2026-11-11T18:56:02Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13171,6 +13182,17 @@
    "first_seen": null
   },
   {
+   "id": "e3fe4e1b0b5419a6",
+   "company": "Alkermes",
+   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
+   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU1XY25NWDJmekxUbkMtR1FEclpZVDZVN0l2dElLb1g3cGViRjN4aVVKTGdvVHFPQU56UmFtbzRUcU9CSmI1T3lUSkxyLUpDSDd1R2taclJYMTVMR3A0WjdVMkVWZENJX0lQbDlEWXRRRjVoc3NTa0Z5S043WW5ZQkhhT1d0UQ?oc=5",
+   "published": "2026-11-03T12:12:08Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "1119b4eccfcb81ec",
    "company": "Definium Therapeutics (formerly MindMed)",
    "title": "Definium Therapeutics to Participate at Upcoming Investor Conferences",
@@ -13211,17 +13233,6 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWG1hYzhkVktXSWFMcTlmNUZYVHNVN19ySnd2d0gtVnVMd1J5VUNDc0dZbXJjZnAwVU1oLWJsbTZ6bzF2MUZheUpUYnoxNHA0VXp0bVhwczNCYmhhYndfTTZRSElaZFk0NlEzMkdraw?oc=5",
    "published": "2026-11-03T08:10:20Z",
    "outlet": "Supernus Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "e3fe4e1b0b5419a6",
-   "company": "Alkermes",
-   "title": "Alkermes plc Reports Third Quarter 2026 Financial Results - Alkermes",
-   "summary": "Alkermes plc Reports Third Quarter 2026 Financial Results Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFcxYUh1T1BMMEtmSUhaNmRUa0hrUldQXzU2LXZUMEMxS0h1WVdoWmFONmNFdzl6dHAwdWZ4R29KNVEyRnNVcWpGT0VFRjM4Q2NUNWxtTDlLUTE2SWJTT3BHbDVaTW1haHl1T0dQN3c1SEROTEdqNG92R3dKV1JWVDduQTVKNlU1eVp0SlVUN2FqNGh2UFJrelc4Tnd5alliWHVvMXAtUkZHSDJpTEc0OWN6bnJUeTNkcG9LM3NCUQ?oc=5",
-   "published": "2026-11-03T08:00:00Z",
-   "outlet": "Alkermes",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -14803,7 +14814,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -28285,6 +28296,17 @@
    "first_seen": null
   },
   {
+   "id": "670a2709b7b4bb6b",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley attracted co-development and royalty offers before $2.8B Lilly deal - Endpoints News",
+   "summary": "AtaiBeckley attracted co-development and royalty offers before $2.8B Lilly deal Endpoints News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWVnSVpBLTVuTlpQUXZsRUYxdzNSX0VrYlU2SE5sTVZTQTZQaDVscTdua0Nfb3RQM2tXY1Z0RmpSZFhhUnlCVWNRem81ZVBtUU93MWtoNmo3YlpkRG5PNjM2NXhNVXRLMjY5NURLMllKcU41Q0F5RGtVVXpuN29BanZwWGU3UnhHSmptSXJvekVtTkl0V3cyVjZkSmxfNGNhQVFLTw?oc=5",
+   "published": "2026-07-31T07:00:00Z",
+   "outlet": "Endpoints News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "2f246d30b8aa5511",
    "company": "Regeneron",
    "title": "REGN Corporate Presentation - Regeneron",
@@ -30045,6 +30067,17 @@
    "first_seen": null
   },
   {
+   "id": "ff210f67bf52f562",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
+   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
+   "published": "2026-07-17T07:00:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "53df4fa4ea65cb6d",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics CEO Gene Mack Issues Letter to Shareholders and Provides Operational Update - Gain Therapeutics",
@@ -30064,17 +30097,6 @@
    "published": "2026-07-16T12:32:59Z",
    "outlet": "Newronika",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "ff210f67bf52f562",
-   "company": "AtaiBeckley (Atai Beckley)",
-   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
-   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
-   "published": "2026-07-16T07:00:00Z",
-   "outlet": "WSJ",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -32029,7 +32051,7 @@
    "company": "Serina Therapeutics",
    "title": "Gannet BioChem partners with Serina Therapeutics on SER-252 - scanx.trade",
    "summary": "Gannet BioChem partners with Serina Therapeutics on SER-252 scanx.trade",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclRnX0plRllpTVpsYTNrQUMzdm5kV0xoVl93b2prb3pVanVIcjhHdUNNaWlFSHVrNms4U3ctWHpET3JQLVV6YTE0M1JuSFhyeXRwMXBoUlh0QktfamdvZ1NpR29TX1dwMm1SdW1PRHZIRG9tc2hxUFlDRXNzcTh2Wk03S1EwWkpWcXNSMm95Vno5ckFyOGNXSnFLRW03elBKVWczZnR4Y05tWmdoeWhrRlgtN1dEa0k?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenRudWZLbW9mLVJISWtidnROTTNSX2NEd3gxREkzQ2VqdnpYbEZUUUtuNG5FMjFzRXVOZzA3aW5HZDhpeGdHWm11ZzJTMHh4X1JHWUhwai1jMEQwX2ZEYzEzSmF2dktIYVNoTWYzYjZUN2NYVkFKTlA3eUVBVFgwT1ZoME10RnJ6a2Q5NFVNVzRwWk5NTzJuZnRjY0p5S3k4TkR1OHJhZFF0YW90Uy1aREwyX0RGclk?oc=5",
    "published": "2026-06-30T07:00:00Z",
    "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
@@ -35066,6 +35088,17 @@
    "title": "ANVS - Annovis Bio Inc Stock Price and Quote - Finviz",
    "summary": "ANVS - Annovis Bio Inc Stock Price and Quote Finviz",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJYUpBYUlJd0FEazFsSnluUWJvd0ZrUGtEQkw3bFozbFFzdVZXUDVMUG5KNDc5aXRfZWQtNE5iMWJxRENBOGc?oc=5",
+   "published": "2026-05-26T12:32:54Z",
+   "outlet": "Finviz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "955514f3e289f6d5",
+   "company": "BioVie",
+   "title": "BIVI - BioVie Inc Stock Price and Quote - Finviz",
+   "summary": "BIVI - BioVie Inc Stock Price and Quote Finviz",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Eb0ZwOFItX0tjOEE1Zk5KcDNxOFE2QXdVcUFqRHlKbXNfVmoxcGg1Yy02aGlqWVdMdW9qdUIwdUpRbk40ZlE?oc=5",
    "published": "2026-05-26T12:32:54Z",
    "outlet": "Finviz",
    "method": "news search (newsroom not indexed)",
@@ -38720,6 +38753,17 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeVh1cHVUZ2xCTUgwZnlxbmJZN3hid3NWb1VLUVJBc2R2alJXWklxOGxBX21QV3JMa09QVWkzVmVIWVZKVkE4Rk1BdzBURkN6c1N6SUQ3SzJxOE1BblRCbWJpRnpIWEVRNWxraC01elhoUkNzdDd4NUt1SjBoamx0OGJNTDZBOHNSUlBaV1liNF95c29pc1dSNmlRMk4tdExCdmhSLWtJMFcxbHRJR2w1VF93OU9oY1pIMHU5cXgwcnlmS1ZjbWVZRGwxblc?oc=5",
    "published": "2026-04-19T07:00:00Z",
    "outlet": "Xenon Pharmaceuticals Inc.",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "8fab5eae839ebbcb",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Presents Azetukalner Phase 3 X-TOLE2 Study Results and 48-Month Long-term Data in Focal Onset Seizures at 2026 AAN Annual Meeting - Xenon Pharmaceuticals",
+   "summary": "Xenon Presents Azetukalner Phase 3 X-TOLE2 Study Results and 48-Month Long-term Data in Focal Onset Seizures at 2026 AAN Annual Meeting Xenon Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeVh1cHVUZ2xCTUgwZnlxbmJZN3hid3NWb1VLUVJBc2R2alJXWklxOGxBX21QV3JMa09QVWkzVmVIWVZKVkE4Rk1BdzBURkN6c1N6SUQ3SzJxOE1BblRCbWJpRnpIWEVRNWxraC01elhoUkNzdDd4NUt1SjBoamx0OGJNTDZBOHNSUlBaV1liNF95c29pc1dSNmlRMk4tdExCdmhSLWtJMFcxbHRJR2w1VF93OU9oY1pIMHU5cXgwcnlmS1ZjbWVZRGwxblc?oc=5",
+   "published": "2026-04-19T07:00:00Z",
+   "outlet": "Xenon Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
