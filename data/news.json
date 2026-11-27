@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:39:29Z",
+ "updated": "2026-11-27T23:36:14Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1720,6 +1720,17 @@
    "first_seen": "2026-11-27T22:39:29Z"
   },
   {
+   "id": "4f812ab99beec64b",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3czZUcmlKMzBIbGxGUXMwVjk1MndlSGpObHZSYmFzS2pBbXZuNW5pd0NYLVdYRy1kbVNoamwxbkQwVlNsOWNhWGdCT3MyaW5GVWc?oc=5",
+   "published": "2026-11-27T21:15:34Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T21:13:37Z"
+  },
+  {
    "id": "38737d7da2c43922",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics (RAPP) Could Be 61% Undervalued After New RAP 219 Data Preview - Yahoo Finance",
@@ -1999,7 +2010,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics (TGTX) Gets FDA Acceptance For Single Dose BRIUMVI Start - Simply Wall St",
    "summary": "TG Therapeutics (TGTX) Gets FDA Acceptance For Single Dose BRIUMVI Start Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa3VPdWVKTjJQMjZJam1zREREQVlkVnFqeV83T1dxajZyYzNOU0laUGZkcEpmMm0tdEhKajJNNElOV0RLajRWQjRHbEx6ZVBiQUNfZVROaXZXeWw1d29MdEVmaUg0NXNtcVo5c1VYOGZ0LVl2SnNEd2NkUkhXMkZQMjlrNFRhNDI5bFlkdTdBZlR1S0NORXFxcWY1elcxWG80ZmRyYWZJejFkZDRyU1JvZi02TW12b1c1aGdmQnVma1Z2c3NOQ2xaRWM0Qm5xSHB0WjN5Wl9qdnhRQUUwdFlGS21QekZsdE100gHoAUFVX3lxTE9rdU91ZUpOMlAyNklqbXNERERBWWRWcWp5XzdPV3FqNnJjM05TSVpQZmRwSmYybS10SEpqMk00SU5XREtqNFZCNEdsTHplUGJBQ19lVE5pdld5bDV3b0x0RWZpSDQ1c21xWjlzVVg4ZnQtWXZKc0R3Y2RSSFcyRlAyOWs0VGE0MjlsWWR1N0FmVHVLQ05FcXFxZjV6VzFYbzRmZHJhZkl6MWRkNHJTUm9mLTZNbXZvVzVoZ2ZCdWZrVnZzc05DbFpFYzRCbnFIcHRaM3laX2p2eFFBRTB0WUZLbVB6Rmx0TXQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNFlVeEJXYU5xWWFOTnF6bFJHVXEyaFpzNXN1aHpZVGc0bUZLVERsdzdxaG81SGp5amJOc2xrVWMzLS1OUlV3SXFleUZxYjFuU3hVamxXNG5aU0IwbG1KTW1jMUUxUzdCWHBRamhEbTVrNVFLeDJFTmhIYVg0T0w5bGRkaURlRlpncWhNc3lIQzF1azNiQnRuR2RsbEdRa1NRd2pDSDBhSGJqNEMzc0NIVWdSbmhLWnhCSGxadnBZVFBza2F6TnRRQmh5ZDJOd01HZHU5a1ZpV08wekVUTmk5a3hIUdIB6AFBVV95cUxPa3VPdWVKTjJQMjZJam1zREREQVlkVnFqeV83T1dxajZyYzNOU0laUGZkcEpmMm0tdEhKajJNNElOV0RLajRWQjRHbEx6ZVBiQUNfZVROaXZXeWw1d29MdEVmaUg0NXNtcVo5c1VYOGZ0LVl2SnNEd2NkUkhXMkZQMjlrNFRhNDI5bFlkdTdBZlR1S0NORXFxcWY1elcxWG80ZmRyYWZJejFkZDRyU1JvZi02TW12b1c1aGdmQnVma1Z2c3NOQ2xaRWM0Qm5xSHB0WjN5Wl9qdnhRQUUwdFlGS21QekZsdE10?oc=5",
    "published": "2026-11-27T05:15:47Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -2142,7 +2153,7 @@
    "company": "Neurocrine Biosciences",
    "title": "Why Neurocrine Biosciences (NBIX) Is Getting Attention Today - Simply Wall St",
    "summary": "Why Neurocrine Biosciences (NBIX) Is Getting Attention Today Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY0hBdnJTQndPc0cwYWZjNUQ4LTBkdjliREtkZkI5VDBGRzhULWJDd0dEdTJ1U0VfUDB6YVRWVEZocFZiMlhYZDhiLU9mSG5TMjNMODRZWGFlY2NiMjVYY0c5d0dBT2Zfal9GOTdTaWVHYThfLVdoZFlqbGtUd2w2UGp5Q3hPYWU4ZGJiZ2s4MGItSFF5SlNvQ29uLVotMTRqSG1yYzBLRVB6R21WTURJaU1BbGVzU2t4UmZWMEY4RWZpSXVWLTV4YUQxMVRZc2VNSXNGYk9vYzFsNGpPQ3FPNGxDV25kQ0tNM2VSSWgyb9IB7wFBVV95cUxPY0hBdnJTQndPc0cwYWZjNUQ4LTBkdjliREtkZkI5VDBGRzhULWJDd0dEdTJ1U0VfUDB6YVRWVEZocFZiMlhYZDhiLU9mSG5TMjNMODRZWGFlY2NiMjVYY0c5d0dBT2Zfal9GOTdTaWVHYThfLVdoZFlqbGtUd2w2UGp5Q3hPYWU4ZGJiZ2s4MGItSFF5SlNvQ29uLVotMTRqSG1yYzBLRVB6R21WTURJaU1BbGVzU2t4UmZWMEY4RWZpSXVWLTV4YUQxMVRZc2VNSXNGYk9vYzFsNGpPQ3FPNGxDV25kQ0tNM2VSSWgybw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdUFObVBfelM0MnotVF91azU0R1pEU1JocW52WXhRZlBISGRCZkJFSXM0MDhLMHFEODY5OGhsTi0tay1LNkdqNHNoMHBqNjhLR09iV1BZVjcya0dJMGl2dUQwc1g4dWRiQk5DTXB1TG5kZlJ0YTBRT0dtTzhucjZLXzRMd3J0WGFqR09yWlpsQ0FZNkdIazM1bFBPNms4MTVUc1RrOU9nNEZGNXk2UFh1OFE3aTJCS2tBTmhKRzlHTHZmSkJpVjJkQms5anRrME1HTVZfRmpFTldfSzJUS09tejloSWFFZm1uaFHSAe8BQVVfeXFMT2NIQXZyU0J3T3NHMGFmYzVEOC0wZHY5YkRLZGZCOVQwRkc4VC1iQ3dHRHUydVNFX1AwemFUVlRGaHBWYjJYWGQ4Yi1PZkhuUzIzTDg0WVhhZWNjYjI1WGNHOXdHQU9mX2pfRjk3U2llR2E4Xy1XaGRZamxrVHdsNlBqeUN4T2FlOGRiYmdrODBiLUhReUpTb0Nvbi1aLTE0akhtcmMwS0VQekdtVk1ESWlNQWxlc1NreFJmVjBGOEVmaUl1Vi01eGFEMTFUWXNlTUlzRmJPb2MxbDRqT0NxTzRsQ1duZENLTTNlUkloMm8?oc=5",
    "published": "2026-11-26T13:12:03Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -2593,7 +2604,7 @@
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
    "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVFc4YmdsSUJMUVE5b0RJTVhybmZGWjhmNGxuNUU0NnJ4ZmxTVTZGQy1sNWdObU4yLVVobjNUX0ZWVjBGUzFsUUNfbUlncVI1VjZHbXNuNGJIcEVyalcwYzJneW0zNlpqY2dtQ2hocWxleEowZ21Rb09FYk5TLThqN2hUT2hDdDFtcmZfRWdBM3c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
    "published": "2026-11-25T22:43:23Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -2609,17 +2620,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-27T21:39:12Z"
-  },
-  {
-   "id": "c890dcbbf594177f",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma Inc (HELP) stock price, news, quote and history - Yahoo Finance UK",
-   "summary": "Helus Pharma Inc (HELP) stock price, news, quote and history Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XakJnSUZOaWFzVHJZNXhLakhFeWRHRF9CYm9YRHpKRHBFNFBkbk5NaTJQd0JPQkJMaGJOUWQ5RVlYNGdqR3pZcXhvVVBjbzJyMXc?oc=5",
-   "published": "2026-11-25T21:37:33Z",
-   "outlet": "Yahoo Finance UK",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "bba1f086b25d77a3",
@@ -2864,17 +2864,6 @@
    "first_seen": "2026-11-25T21:28:11Z"
   },
   {
-   "id": "4f812ab99beec64b",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3czZUcmlKMzBIbGxGUXMwVjk1MndlSGpObHZSYmFzS2pBbXZuNW5pd0NYLVdYRy1kbVNoamwxbkQwVlNsOWNhWGdCT3MyaW5GVWc?oc=5",
-   "published": "2026-11-25T12:33:55Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T21:13:37Z"
-  },
-  {
    "id": "51cb117369599333",
    "company": "TG Therapeutics",
    "title": "TG Therapeutics (NASDAQ:TGTX): An Affordable Growth Stock With a Growth-at-a-Reasonable-Price Case - ChartMill",
@@ -2989,7 +2978,7 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc. (HELP) Phase 3 APPROACH Topline Results for HLP003 in Major Depressive Disorder - Slideshow - Seeking Alpha",
    "summary": "Helus Pharma Inc. (HELP) Phase 3 APPROACH Topline Results for HLP003 in Major Depressive Disorder - Slideshow Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcm14RDdxRGZLTzlLSjVxODdWQ2NEaDhrVm9zSjBaZ1Z5VnV5UGRkWmR1dHVIT3phb1RGUVdtNG16QUNZRWsyVTgtZWZmaEYtZ0NRUjk1Mlc3dEdxamx6QVQ4blN5d0x5VmpmN05VWHBqT3BGZjZGZk45QmR3dHNGbWhOclZvQkh0V3c1UEpUdUdOWE1kQmswOVdkeVdUWFdEcDloQVhRSFRQRmp6dlJjNDJMSVRPR29mQ2NLci01d3FoWG1fYXJTaUthWTU3dGd2TXBNVVQxTDVKS29aRVBHRkFSUzkyQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazdIdGxNbU04YzEzZmJrZnYzVWpQY3NBQ010WU9HdDFiRnlCQzlaUW1GeUZfSDFLVjZuV2gyRlFDaE9oUDFWOE9DZGF1akxYaXM0SWVHWk1JaWJFSE9qMHdyaXhQOUJZUjZvcjlBcUNKVUxPWENYVWRvUG15dURjX3JKeFNMN0RzZUFqaU5nWXlmVVdaTXdpNWZ2SUZRcVJlb3FQZkxTWG51Zm5tXzJMTzIxWDQxZkYwbFgwTWpTUV9JNFRx?oc=5",
    "published": "2026-11-25T10:42:14Z",
    "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
@@ -3038,17 +3027,6 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-27T21:39:12Z"
-  },
-  {
-   "id": "339ed6c531e1bdf1",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qZHZCQk1PZ0hMdjgwc19PY1R2OV9MQnVjOUQxcy00TjRDTHg0OVJNakpIWHl0MzZjYkhNZmRRVG5XUzUtS1dLck9XV2JGeFNKbVE?oc=5",
-   "published": "2026-11-25T09:19:17Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "fc04dce15fba88f2",
@@ -3214,17 +3192,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T22:40:18Z"
-  },
-  {
-   "id": "c5b5b705aa2f71cd",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
-   "published": "2026-11-25T04:47:18Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "23523c7b923cdeb9",
@@ -6571,17 +6538,6 @@
    "first_seen": "2026-11-22T10:23:58Z"
   },
   {
-   "id": "10d9501851a38f6f",
-   "company": "Luye Pharma",
-   "title": "Luye Pharma Says Ruoxinlin Approved In China For Generalized Anxiety Disorder - TradingView",
-   "summary": "Luye Pharma Says Ruoxinlin Approved In China For Generalized Anxiety Disorder TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT2RJWm9KYW53NjJRUTU5RkF2ZHJFemZSVEw1RWpYdURPTWViamdGcDdSb3FZa1VzRlhqejJjYkpDeW1hUkdMQmZZMlN1bkNMMzRQSUVXZGdndjVoaUhQa1QxN3dsR3V2UjM3b3ZYREY3UDdHWXJkVmh4dDJ5RkpKb1I1dHVTMGZVX0hNMURkTmhGSm1iT1Fya3VrVlVnNE9QdzE4Z240aW5ZRkNPcG82R1pncjlkN2lFVGtNR1N5OHFUTTFjeTdBdEpHU01OWHRlNExRNDB4Y2tCOV9ReXhQMg?oc=5",
-   "published": "2026-11-19T14:22:43Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "2ba295709c19d406",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com - Investing.com Nigeria",
@@ -6866,6 +6822,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T11:58:34Z"
+  },
+  {
+   "id": "10d9501851a38f6f",
+   "company": "Luye Pharma",
+   "title": "Luye Pharma Says Ruoxinlin Approved In China For Generalized Anxiety Disorder - TradingView",
+   "summary": "Luye Pharma Says Ruoxinlin Approved In China For Generalized Anxiety Disorder TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT2RJWm9KYW53NjJRUTU5RkF2ZHJFemZSVEw1RWpYdURPTWViamdGcDdSb3FZa1VzRlhqejJjYkpDeW1hUkdMQmZZMlN1bkNMMzRQSUVXZGdndjVoaUhQa1QxN3dsR3V2UjM3b3ZYREY3UDdHWXJkVmh4dDJ5RkpKb1I1dHVTMGZVX0hNMURkTmhGSm1iT1Fya3VrVlVnNE9QdzE4Z240aW5ZRkNPcG82R1pncjlkN2lFVGtNR1N5OHFUTTFjeTdBdEpHU01OWHRlNExRNDB4Y2tCOV9ReXhQMg?oc=5",
+   "published": "2026-11-19T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "2fd0d1f11ed10df9",
@@ -11983,17 +11950,6 @@
    "first_seen": null
   },
   {
-   "id": "c6ab6b9765f1e2d6",
-   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
-   "title": "About 385,000 sharps injuries a year affect hospital staff; NRx sells ketamine in a needle-free vial. - Stock Titan",
-   "summary": "About 385,000 sharps injuries a year affect hospital staff; NRx sells ketamine in a needle-free vial. Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0JiOEhJV0hrOEpzNWM2dE5QQWJRaU9xRkNlTDZ2M2FRNDhOZ3dPQndRdjJtaV9lbTM4b2pqZnFsbDdER016dksxakx4a3cxazlpZWtOc2VzRWRKcG9sUTg1Z3JvODk4TTNpQl9vWUsyZFVLRzMwQzhISVhZUllYWlYzRXN0dy1aSlpzN3Axc1NKTjlIMlpPNUJlNkZnRzd3WmxuNG5mZEhiYnpobFJ1anc2Q05sZ0h2?oc=5",
-   "published": "2026-11-11T12:00:00Z",
-   "outlet": "Stock Titan",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "e6c3a48cf948a37a",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals Begins Selling U.S.-Made, Preservative-Free Ketamine Amid Long-Running Shortage - GlobeNewswire",
@@ -12024,6 +11980,17 @@
    "published": "2026-11-11T08:33:38Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "c6ab6b9765f1e2d6",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "About 385,000 sharps injuries a year affect hospital staff; NRx sells ketamine in a needle-free vial. - Stock Titan",
+   "summary": "About 385,000 sharps injuries a year affect hospital staff; NRx sells ketamine in a needle-free vial. Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0JiOEhJV0hrOEpzNWM2dE5QQWJRaU9xRkNlTDZ2M2FRNDhOZ3dPQndRdjJtaV9lbTM4b2pqZnFsbDdER016dksxakx4a3cxazlpZWtOc2VzRWRKcG9sUTg1Z3JvODk4TTNpQl9vWUsyZFVLRzMwQzhISVhZUllYWlYzRXN0dy1aSlpzN3Axc1NKTjlIMlpPNUJlNkZnRzd3WmxuNG5mZEhiYnpobFJ1anc2Q05sZ0h2?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -12210,6 +12177,17 @@
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSGd0YTJyb2x3cFF4ajhodzZjcnhZYURhSGpfZkRuX1FTZGlFYVZIdXo2Wnd2ZkZqc1dLYzN5WmJuUDd4UnBfaWVzNlZkM1dNUHNXX1dVNHl6czlHbTBKSXdfcFlUWC1BeFczVXZGTWViQnlORk5vWVBxVTJ4a0I0dU0zMnJQRGpzcFBCMFowaHJEck5rSTRqMXFLUTFsZkk2ZDBzWWRPMEN3TjJXd2ZQeHJDS3J5MVg1cXJKZ1d2aGdPOFBWN2t6bTdGbXdNSnFIRXVkSFZFOHVyd0xfR0cwNTdwN3VKQVJaOG000gHwAUFVX3lxTE8tMjdJMDBpcy00NDBwUkFrTFhCQ0tTT2w3ZGpPekRuenplSE5YN1JqR3pWTEhOczNhY3owck44N0xtWGN6Uzlldm5mdDZNLWcydkhjNll6QXJ2X2xXOGZvRWFSV2pSRWNIVmZCbmx4NW9QUVdOZXNieXROYXpKbGI3anRfLU1Xb21YbmwwTGJzM1dmTThCdHh0VXlMbVp1MUwzSnJSLUxUd3RMSjVkMGJLdEFTa1RZVzByRkFBTWptN3pqNlhURUd6dDc3Z2NxUG9nLTFxay1xWDVjdUxGeFNOQnJPbGNhcDQ2dGg0XzNDYQ?oc=5",
    "published": "2026-11-11T08:00:00Z",
    "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "444c96814eefc024",
+   "company": "Herantis Pharma",
+   "title": "Horizon Europe-funded HERMOD project launches to support Phase 2 development of HER-096 in Parkinson’s disease - The Manila Times",
+   "summary": "Horizon Europe-funded HERMOD project launches to support Phase 2 development of HER-096 in Parkinson’s disease The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZHVtT1VxSGdHc1NOa1dPSHJ6Rjk1NEt4OVpyRm1NY2IyVUpOUDZTNlh4UnVrb0pudFh2SW50U3lYWlJ6aHVoZ21fQkJVWUFYOWRZZVozMzc3LWZGSG91UXdadU5uSlBmdmdHTGEyaVRXZ2JjclI5WUhMMG1wVkM3XzRHRk16dHpod1dMajJSVWVENW5SMThQakt6NGhQZ25XZERrTkNVbzFOWDJLZHFQaFNNQ0NrcmUzSEVBMlRXSWFWVE1xV2Y1dVA5YmhqWkRLN2ZEYjgtMk1rLWNqdWs3WmplODJDNkhYcWdVYVVSNnlrQW5iUUxyZzZpajE5UDhlQWp2b0hSMy1jLWotam1NR9IBlgJBVV95cUxQTDdtUDBEQUhVaHJWLXRmVms0YmZMSDdLWmFYMlFqcUM0bllxdlBEVW1MNkFVN1lRVVU5aFphSjNTWUI2MzdXUURQVHpQNExlLU40UTEyVmdXWEFuNk9LdUw2bTNUak5HeEpvb3hiZGhlaDdyOWZucllWMmNHOGJzY25RYVVHT1ZTa1JYMkRLTlVwMmRjZWoweE5xQ0REbVlpcFVZdTlXRXJTemp1cjlkTE9pN29uX1l2Qi1DVHZSOFNhTkhEM1lRcVFKNHB6RDR0eUw4ZFdYOHFVb2k4X3FEUEJWYWhGV2VyUGNidGc3N1laMEpsZklWcHVJNnpnNjhmc1RLdlFKVExVQ19vM2ZtWmdHNnprUQ?oc=5",
+   "published": "2026-11-11T08:00:00Z",
+   "outlet": "The Manila Times",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -18448,6 +18426,17 @@
    "published": "2026-10-23T15:58:40Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "60ae7d46dd08bb74",
+   "company": "Neumora Therapeutics",
+   "title": "SEC Filings - Neumora",
+   "summary": "SEC Filings Neumora",
+   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxON1ZuNVNnb3J2N0hFbkphY0lCSVg5dHJwZ2R0OVhObzRUSVM3TmdQQWJDbE1lX1RoWHIxZUFzZUUtVmdjMkNSTF9JbmhKazd5cGstQWxQNXNqMkFMeTUwT09xVTUweG01Rl9iZ0s1Mlo0Uk9kM2p2QmxIREV6WEFyb1dtX0lpclBPd0hrejJLd0g1WmxoMHBxVUtYMERkWlV3OERyZlo2blBRTzhQZWtTbmwwV1VkMVNMd2hlYVJOeVZuZ3Z3dzhqSmJGOUUxVXBqeXZER1Q5US1FVm1nT04xTkFZNEFDWXZibWtwdGE0WFJ3LWlKX3FPakJGQllmRE9TWjJ6WFEzM1NSWXBzQ2dILWtHanNpSGdrYkw3Y08wdWRGVDh2NE1TNktwRDctNFo2WnBialdUczNRalJjWWpzQVFCaw?oc=5",
+   "published": "2026-10-23T11:36:43Z",
+   "outlet": "Neumora",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -33807,6 +33796,17 @@
    "first_seen": null
   },
   {
+   "id": "a16a1f89cab3c3e5",
+   "company": "Eli Lilly",
+   "title": "AtaiBeckley Soars as Eli Lilly Agrees to $2.8 Billion Buyout - Yahoo Finance",
+   "summary": "AtaiBeckley Soars as Eli Lilly Agrees to $2.8 Billion Buyout Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTE5VXzh4R3YwbEF2a05CcHVwS0IyTUw5bnRfdW1UZlJsWE1MQmJoSWM5UndzMklTckVQaENBaWdnSUFWT0FLUG4wRG5tM1pKRnlqMjUwS2VUdXlsOGNQTmdyYS1kX2stVzk2aVNBbzQwQVgyVGxTVVg2R2lNZkxoMFY2dG85RjhXb05RN3dsMDRSblk0YlNobk1kSQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "6aaca477a3374ca9",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics Announces FDA Acceptance of New Drug Application for AXS-12 for the Treatment of Cataplexy in Narcolepsy - July 15, 2026 - axsometherapeuticsinc.gcs-web.com",
@@ -35065,7 +35065,7 @@
    "company": "Serina Therapeutics",
    "title": "Gannet BioChem partners with Serina Therapeutics on SER-252 - scanx.trade",
    "summary": "Gannet BioChem partners with Serina Therapeutics on SER-252 scanx.trade",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclRnX0plRllpTVpsYTNrQUMzdm5kV0xoVl93b2prb3pVanVIcjhHdUNNaWlFSHVrNms4U3ctWHpET3JQLVV6YTE0M1JuSFhyeXRwMXBoUlh0QktfamdvZ1NpR29TX1dwMm1SdW1PRHZIRG9tc2hxUFlDRXNzcTh2Wk03S1EwWkpWcXNSMm95Vno5ckFyOGNXSnFLRW03elBKVWczZnR4Y05tWmdoeWhrRlgtN1dEa0k?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenRudWZLbW9mLVJISWtidnROTTNSX2NEd3gxREkzQ2VqdnpYbEZUUUtuNG5FMjFzRXVOZzA3aW5HZDhpeGdHWm11ZzJTMHh4X1JHWUhwai1jMEQwX2ZEYzEzSmF2dktIYVNoTWYzYjZUN2NYVkFKTlA3eUVBVFgwT1ZoME10RnJ6a2Q5NFVNVzRwWk5NTzJuZnRjY0p5S3k4TkR1OHJhZFF0YW90Uy1aREwyX0RGclk?oc=5",
    "published": "2026-06-30T07:00:00Z",
    "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
@@ -39237,6 +39237,17 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zVTdrbWxyQ0s2MGhpZWtaQl9KLTE2blR2YUgzVzNoSkdVaTBJTUhEUGJfdUFNbHY4ZUpaUGJIQTMxMUJKRXRsdTNDR2hTVHRTeHZtYlFEODFwM0YwcXEwMndjcVJxTHlOcmc?oc=5",
    "published": "2026-05-16T23:21:25Z",
    "outlet": "J&J Clinical Trials",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "55c25ad9c4616ea8",
+   "company": "Neumora Therapeutics",
+   "title": "David Phillips, MBA - Neumora",
+   "summary": "David Phillips, MBA Neumora",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZSjM1RzFUelg4YXFWZ0tqU0hvbWZiTDRUMTdTXzdxUnpvTkFKZEpyRFJELUtaYzhwd29VMkRNNUFBb3BhZjZ0cm55Y2YwdE5WQjdCMnc4bTVNRFlRVURN?oc=5",
+   "published": "2026-05-16T11:50:17Z",
+   "outlet": "Neumora",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -48525,6 +48536,17 @@
    "first_seen": null
   },
   {
+   "id": "c5b5b705aa2f71cd",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UFdtVHR1SW5QVTlLMWszdWtad1VEemZRYXFRT3pnNGoxTDMyZ3dXRlJSMXQ5R3Ffb3BFQjRmem01Wk9GbDZNaTBSSm8xcjRhc25VN0N3?oc=5",
+   "published": "2026-01-07T01:18:54Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
    "id": "cd2b898a3d707409",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "symbol__ Stock Quote Price and Forecast - CNN",
@@ -48963,6 +48985,28 @@
    "outlet": "",
    "method": "newsroom rss",
    "first_seen": null
+  },
+  {
+   "id": "c890dcbbf594177f",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (HELP) stock price, news, quote and history - Yahoo Finance UK",
+   "summary": "Helus Pharma Inc (HELP) stock price, news, quote and history Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XakJnSUZOaWFzVHJZNXhLakhFeWRHRF9CYm9YRHpKRHBFNFBkbk5NaTJQd0JPQkJMaGJOUWQ5RVlYNGdqR3pZcXhvVVBjbzJyMXc?oc=5",
+   "published": "2026-01-05T00:41:52Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "339ed6c531e1bdf1",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qZHZCQk1PZ0hMdjgwc19PY1R2OV9MQnVjOUQxcy00TjRDTHg0OVJNakpIWHl0MzZjYkhNZmRRVG5XUzUtS1dLck9XV2JGeFNKbVE?oc=5",
+   "published": "2026-01-05T00:28:25Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "9572a82890d75cc4",

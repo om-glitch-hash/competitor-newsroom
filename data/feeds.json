@@ -114,10 +114,10 @@
   "checked": "2026-11-26T17:40:21Z"
  },
  "Stada": {
-  "feed": "https://news.google.com/rss/search?q=%22Stada%22+%28%22Parkinson%22+OR+%22Bain%22+OR+%22NeuroDerm%22+OR+%22ND0612%22+OR+%22Britannia%22+OR+%22apomorphine%22+OR+%22APO-go%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Astada.com+%28%22Parkinson%22+OR+%22Bain%22+OR+%22NeuroDerm%22+OR+%22ND0612%22+OR+%22Britannia%22+OR+%22apomorphine%22+OR+%22APO-go%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.stada.com/media/press-releases\", null, null, [\"Parkinson\", \"Bain\", \"NeuroDerm\", \"ND0612\", \"Britannia\", \"apomorphine\", \"APO-go\"]]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-27T23:36:14Z"
  },
  "Arvinas": {
   "feed": "https://news.google.com/rss/search?q=%22Arvinas%22+%28%22ARV-102%22+OR+%22LRRK2%22+OR+%22Parkinson%22+OR+%22neuroscience%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-27T22:39:29Z"
+  "checked": "2026-11-27T23:36:14Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=%22Zambon%22+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -280,7 +280,7 @@
   "feed": "https://news.google.com/rss/search?q=Aprix+PSX-001&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Aprix PSX-001\", null]",
-  "checked": "2026-11-27T22:39:29Z"
+  "checked": "2026-11-27T23:36:14Z"
  },
  "NeuroDerm": {
   "feed": "https://news.google.com/rss/search?q=%22NeuroDerm%22&hl=en-US&gl=US&ceid=US:en",
@@ -383,7 +383,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Honeybrains%22+OR+%22HB-1+PTSD%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Honeybrains\\\" OR \\\"HB-1 PTSD\\\"\", null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-27T23:36:14Z"
  },
  "Insightec": {
   "feed": "https://news.google.com/rss/search?q=%22Insightec%22&hl=en-US&gl=US&ceid=US:en",
@@ -458,10 +458,10 @@
   "checked": "2026-11-27T18:34:15Z"
  },
  "Neumora Therapeutics": {
-  "feed": "https://news.google.com/rss/search?q=%22Neumora+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Aneumoratx.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://ir.neumoratx.com/news-releases\", null, null, null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-27T23:36:14Z"
  },
  "Reunion Neuroscience": {
   "feed": "https://news.google.com/rss/search?q=%22Reunion+Neuroscience%22&hl=en-US&gl=US&ceid=US:en",
