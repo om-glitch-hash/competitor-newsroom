@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:28:24Z",
+ "updated": "2026-11-27T16:35:40Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1812,8 +1812,8 @@
    "company": "Alterity Therapeutics",
    "title": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) - Stock Titan",
    "summary": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSHJYNHdnazllaTJ4YllsMk9BcEl0d09KX21BWUJINXptS2oxempDSUsyeWVrd1RlbFVfd055X2ZEeHRsN0RrR0NGR3JrNk9BbHg4eU5CYmpuUTh1WWRfNnh3ZEVrMmtLdmszODlQOXowLU1ETnVQS2ZyWHJfWGpQU2pnWmEzNVVEc0txT3FaUFN4YnVzVVZKTVp2dGlfSXZOUHBEMWc5OU9SbEVEMU1lQ3F6bnFjNXhjNV84TzBR?oc=5",
-   "published": "2026-11-27T11:07:05Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGN3bkVZNHhBOUNkWGJTb2JaUGd1Zkk4bDJvbkE3cklSZTZYNVBTakZaQXhUeDNRU3RJaXgwaTB5T1RNcWZPai1qRndJNEhBeEpHRVJBOENON3ZCd0ljWW9jbWpVdU5rTkdMY0VpY29uNXFsQ1N5OHJwZTRqZVhOcDl2M3FkdFZSQlZxanhnN0Z6cWc3Wm80OTh3eUVHazhGVzdRZ1BLWGt5RlJ5WWg3QjJwQWJSTl9WelBLMXJB?oc=5",
+   "published": "2026-11-27T11:05:42Z",
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T12:04:08Z"
@@ -1878,7 +1878,7 @@
    "company": "Newron Pharmaceuticals",
    "title": "Newron Pharmaceuticals S.p.A. (NWRN) Amends Financing, Adds €5.5M Tranche by Year-End - TradingView",
    "summary": "Newron Pharmaceuticals S.p.A. (NWRN) Amends Financing, Adds €5.5M Tranche by Year-End TradingView",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMjBzZF9uWEx2VnE3aTkyNUhIdDZqeHVLM2hVN05ESlc4c1lkTHkzZWZONUpoVWhtMTU5NjVvOWRiNTVzU2lkb0RvdzZnXzE5b3dXV0JSVkk0LW1xLVJWMkdXOUpydFNjY29sOHNXNnJZQWd5R1RVX0I5U2dmRzV5UXNtR1U1YVdZSldDS1lrOUk0LWVlNUVJQkdCbHVtOWllYk1SRjE4NTB1Zk43MV8wdWJpbmtLOEVBdlY4YlNWcjJEWFVjU3BN?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGctRy1SYXNELUF2QUJoUkZuN0JfLTBxS3FqUnMyYTRHR01uNEsyT3F4WVk1VHlDSUp4SXdqSU0wUUs5RWtmYndxUkNRcVFBWE5kN1dUS3duX0F1eTJVMkIxemtDMWpfT1NLeTJ2ZS05SG8xQWYyZEdiS2dvV1FZdGlTVUI1X0pPaklEcjlwamhfY3ZzSENabUpOU0JiTk5KUEpSRVo4bnl3cmx2SjlVNmNmRG1KWEpqRFE1ZTk1Y1JhVjhLY21FcVF1b08walMtSUx6U0pMbGhBdw?oc=5",
    "published": "2026-11-27T06:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
@@ -1916,6 +1916,17 @@
    "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-27T03:33:03Z"
+  },
+  {
+   "id": "d4b130c63d17a66d",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc. (R7E0.F) Analyst insights, Price targets and Recommendations - Yahoo Finance - Yahoo Finance Singapore",
+   "summary": "Helus Pharma Inc. (R7E0.F) Analyst insights, Price targets and Recommendations - Yahoo Finance Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PWjdxOUpCZU4wNktjaXQ1X01LS0dJbmlJRXhfckVwUnNGdG4xNXJVb05vYllDVWdXeTJJWDU1SFJWS3BqeW44aHdtWFdpMUhabHZFbGtxZWRaMHVHOUpuZU9KdjlUak5KSUE4?oc=5",
+   "published": "2026-11-26T23:34:41Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T16:35:40Z"
   },
   {
    "id": "679cbbc325d4c4db",
@@ -2072,6 +2083,17 @@
    "first_seen": "2026-11-26T04:59:29Z"
   },
   {
+   "id": "5c0703b57acbddf4",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Targets $1 Billion in Revenue as BYSANTI Launch Nears - NewsBreak: Local News & Alerts",
+   "summary": "Vanda Pharmaceuticals Targets $1 Billion in Revenue as BYSANTI Launch Nears NewsBreak: Local News & Alerts",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHNnQVE2eVRaVmI5TExGUnFTSmpnRGp6QmZlRkRyNGlOdmVQa19IUjlqYWViZVhGVzhjc3R0SklTdS1QQ1ZHYkZ5dFllLXVlYm1BZVZhaGxDUlFyVjFnQzNldGN5OF9aem5LTDNWcEJGYkF5MS1FaWpCcV9mR1VObnZmZ2NCVUZDajRtZW9OQ0Nvd1lKc3Vsbzl0emRfZmtraW16MzVRM3J6czBpNGFoNTdkSzZyWmQydTdkbFZjZHF2R2xKU2t0R28zM2dTdWxz?oc=5",
+   "published": "2026-11-26T03:49:56Z",
+   "outlet": "NewsBreak: Local News & Alerts",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T16:35:40Z"
+  },
+  {
    "id": "1ffcade0c6d81c2a",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics (ASX:ATH) Shares Fall 7.3%: What Did the Chairman Say About Phase 3? - Kalkine",
@@ -2092,6 +2114,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T03:53:07Z"
+  },
+  {
+   "id": "09bd537b38279955",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Targets $1 Billion in Revenue as BYSANTI Launch Nears - TradingView",
+   "summary": "Vanda Pharmaceuticals Targets $1 Billion in Revenue as BYSANTI Launch Nears TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ28xd0RZc3JHYUFVODRyYkdtMjM3cWpZWmpFTWNHWmY0WFZWdTVyMEJKakhWc3FyUzdkS2RsRHVNRVg2dEFBaVJDc2lxa3J2Rkt6QlRYTkpFbnJxSVJMVmF5OEwzRTgwQ1ZvSlJfN3NRV2g0cmM1Sjk0NzIzV2ZzaFU5QnB1ZkxCd2pKNDh3Nm5xN216ZFBiSUtqZ3V2NlIyNS1ja2JFZGFxVUlDdFFFUF9Gd3RSTTBvSnhSdzhoaHg4TndBS1NfajZOSWM5dE1X?oc=5",
+   "published": "2026-11-26T03:12:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T16:35:40Z"
   },
   {
    "id": "9c87ab68c849cc5f",
@@ -2666,6 +2699,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "38f532b9bf6cfede",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Cybin D/B/A Helus Pharma (HELP.NE) stock price, news, quote and history - Yahoo Finance UK",
+   "summary": "Cybin D/B/A Helus Pharma (HELP.NE) stock price, news, quote and history Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xWUlrazVPWFU4aTc3UF84T0JnRlExUTBsZ2JnX3lINzJXZkIzMnA2QWNtalJPaDlOX0U1ZWZOb1hqVDZydmVnT3BXaHhaRE13dTlZUzBR?oc=5",
+   "published": "2026-11-25T04:33:52Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T16:35:40Z"
+  },
+  {
    "id": "4e8c5c3ef9e20737",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "NRx Pharmaceuticals (NRXP) Stock Still Looks Expensive Following Its 97% Five Year Fall - Simply Wall St",
@@ -2961,6 +3005,17 @@
    "outlet": "GuruFocus",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T22:40:18Z"
+  },
+  {
+   "id": "0cc42e0e44153582",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "AtaiBeckley Inc (B72.SG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "AtaiBeckley Inc (B72.SG) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52cG5tUmRaNy1QemRJVUM3eF9fajJlVGZ4R2RaQUphWmFYcVlrLU1IcU9BcTh6Xzl5ejRBVHNfUDRIR1VwMEFSeXRsTENxLU5JbGE4Qk0xR0dTd1lJYTEyNC1wTQ?oc=5",
+   "published": "2026-11-24T15:32:20Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "275c4f07c5413290",
@@ -6109,17 +6164,6 @@
    "first_seen": null
   },
   {
-   "id": "253ab459c5560286",
-   "company": "Novartis",
-   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
-   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTE4M3BhNENxOU1wdUxmcC1QUjIwbWg0N3dnbmZEYW8tdGtHVXRYNXlvcGkwLS1yQ3FVOV9QS0FuNTZGb3VzTXVjbXF3aGxkT3o1LWdwY28yYTNoam9GeC1aMVJ5TjV3bll5YkxXRExnMXp4MHo5S0JGY1lub29BcGx1MmdKdjdRbFNjM0ZiZ1pOa3NzU1VkWGROaWFxQ05odG9NOXhBNUJEMFVOSTFCZE5DdVlqdzB1TXhSaHQ4dE9aRmRkMjUwVjJ6dnpCdw?oc=5",
-   "published": "2026-11-18T15:15:27Z",
-   "outlet": "Novartis",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
-  },
-  {
    "id": "ae43ecd6c96a7fd5",
    "company": "Novartis",
    "title": "Novartis ranks first place in 2026 Access to Medicine Index - Novartis",
@@ -6556,6 +6600,17 @@
    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPX29LTzliUjRrVTVfQWxaSnJnRzA5TjVtYXp6ak5UdTU3cVV2X3Z4RHR5ZDNMdkl3Ym56OGdjcHVRRTJZSDVtM2d4ZnBnZ3JUNHdCWmI0UUlRV0drVzJaRnRvazJycG9NcTZrUW8tUUNNeF9FdENsWTBHa0RONWJHQm9wb1BTbC1MZlp5UDZDQm5qa3NrejNQaTVCNWtMbW9zaERIWGxoMHI4VmtuMk1seWdpUGt0ZHdNaWNpYXc2cXNTRnZXa1FOdVJ4NjNpVEhDTG9OYlVxMjJWSnhWeHRqYmFhZ1dKNUh3Zk1sRjhfWlJEekVraDYycVVLU3ZxV1Q1MUZESTljUUlaZGxFUUItSVgzdHFIVDNrREJJQlJ3cFVRdUk2amI3NmVKTWtzZw?oc=5",
    "published": "2026-11-18T00:09:40Z",
    "outlet": "Gain Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
+   "id": "253ab459c5560286",
+   "company": "Novartis",
+   "title": "Clinical Development Medical Director (CDMD) Neuroscience - Novartis",
+   "summary": "Clinical Development Medical Director (CDMD) Neuroscience Novartis",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0lGQ0FqTURCUi1idEpKc0Z5ek01RWx6UlVoREdVUjMtSmp5bG5nejd5NnNVS29vSU43WEpLRkMxMG01M2g5dmgyZnAzZnUyb0NUbUYtUmV4dHphV1hHMGFnN2pVakFDcW40MjJzemlEWE9FckRvUkdqdUNEU0Qzal9ERk5xMDFCY3gwV2dZYmhWbjRORXlNYVdDUmZHd1lfb1VhTVM4bGdCa1hmSE9uLUJha0tLNXJZSkF1dTA3T0sxdFZJRmc?oc=5",
+   "published": "2026-11-17T23:58:40Z",
+   "outlet": "Novartis",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-19T17:11:01Z"
   },
@@ -14572,7 +14627,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkpqVWUtT0tZMVVwS2NzMlhuZGVpMnl2ZFZUOTVUSllZRW9BQ2FkN2IzZHpOYkdSWk1nRHZTTlhIaGFEWjRlMTYzaVhpZVdQMDNXZGVEbEppOHVhRXJ6MEItUTEwN010ZzNkdEczazgxUlZlSUtBdmkzbkljc3pUdXZUcTZXZm04anBqck5kUkhkeG52SXF0d25ELU96c1Y1NUNXTUxyUG9LWlRrU3FiaExHVVRJY1JqXzZKag?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LOW13MVl0Wlh1MkRyUU9Ub3RJT0FtLTZfTWxrbmxiRHBBQ09fSXZKcXh2TTQzSlhsWWpJM2pnUzd4Sm5qTTM4dS1ZMkwybndOOVdhSXhFMA?oc=5",
    "published": "2026-11-02T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -27152,6 +27207,17 @@
    "first_seen": null
   },
   {
+   "id": "00229fea50b7f0cb",
+   "company": "Remepy",
+   "title": "Remepy raises $36m to take hybrid Parkinson's drug into Phase III - The Pharma Letter",
+   "summary": "Remepy raises $36m to take hybrid Parkinson's drug into Phase III The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVG1seWFEdk14eVZ4VnRGNFVkSVBRaHJnbzlDd0dNVGpuLXN6QjV2ZlNHYlp1UzYxQmNZWEotZ0hsRHJJZUpxVWx1cnVhSGEtRXpyTWtaN2FiUmFraE5rS3JGbnl4am94MFlJRnpfaW9KWlgtNDJnU2xhbk9UcGV3WkNxMWpxY1FKY1FiWnUtVnZtR3MxNVhyZzIzY2RqMlVNZEt5ZTJNY1pkX0V5TEw2R0xENGY?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "12881245dab143be",
    "company": "NRx Pharmaceuticals (Hope Therapeutics)",
    "title": "Brian Korb | Board Member | NRx Pharmaceuticals, Inc. - NRx Pharmaceuticals",
@@ -29367,7 +29433,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -33074,7 +33140,7 @@
    "company": "Serina Therapeutics",
    "title": "Gannet BioChem partners with Serina Therapeutics on SER-252 - scanx.trade",
    "summary": "Gannet BioChem partners with Serina Therapeutics on SER-252 scanx.trade",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenRudWZLbW9mLVJISWtidnROTTNSX2NEd3gxREkzQ2VqdnpYbEZUUUtuNG5FMjFzRXVOZzA3aW5HZDhpeGdHWm11ZzJTMHh4X1JHWUhwai1jMEQwX2ZEYzEzSmF2dktIYVNoTWYzYjZUN2NYVkFKTlA3eUVBVFgwT1ZoME10RnJ6a2Q5NFVNVzRwWk5NTzJuZnRjY0p5S3k4TkR1OHJhZFF0YW90Uy1aREwyX0RGclk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclRnX0plRllpTVpsYTNrQUMzdm5kV0xoVl93b2prb3pVanVIcjhHdUNNaWlFSHVrNms4U3ctWHpET3JQLVV6YTE0M1JuSFhyeXRwMXBoUlh0QktfamdvZ1NpR29TX1dwMm1SdW1PRHZIRG9tc2hxUFlDRXNzcTh2Wk03S1EwWkpWcXNSMm95Vno5ckFyOGNXSnFLRW03elBKVWczZnR4Y05tWmdoeWhrRlgtN1dEa0k?oc=5",
    "published": "2026-06-30T07:00:00Z",
    "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
@@ -41228,6 +41294,17 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnRaUlZlaUxjaU5iME53RXpVV2ZxczNpdmhoN29PUnJVQU55S0hWUy1ZcHE0SEcwM0ktYnFIbUhRd3JRSC1vNXJZYjBSVE1mMHlNd212akl2RUp3dDUxbnlXYm5DcThHX3kwYjNWanEtNHVYVjB2NVBhaVNaUVpFWEZoQ3A2QVBKcGtBMF80cEozTXVXS2ZVbm5ONTgwT29rSXNB?oc=5",
    "published": "2026-03-29T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "b26a72209f9b9fb3",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Receives Positive FDA Feedback for ATH434 Phase 3 MSA Program - Small Caps",
+   "summary": "Alterity Therapeutics Receives Positive FDA Feedback for ATH434 Phase 3 MSA Program Small Caps",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVTFzMEFNS1FkalFMQlVieDBrR2NnRWVOY0pucWJWQkM3b0JaSnNkSWs3VUVuZndSSlM4eElzT0VqYncxWGFTWjRGaDB3TlQ2MnZMQXAtWU85ZXMyQkJFd3NzOWU3Q2RxU3AxNE4yUkVwMVozVmIwendWcGhWaE9VLXJWRzc1T25sdWFrZzlnY3hQa21abTF4OFpyMnFJMndVd21kTEtwejgwR0lmTmZsNU9IT2tVT2VtaUE?oc=5",
+   "published": "2026-03-29T07:00:00Z",
+   "outlet": "Small Caps",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
