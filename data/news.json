@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:04:24Z",
+ "updated": "2026-11-27T14:27:56Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,138 @@
  },
  "items": [
   {
+   "id": "9b7f9ca12aca7b80",
+   "company": "Palisades Therapeutics",
+   "title": "Trial status changed Not yet recruiting → Recruiting: Initial Study Sesting Efficacy and Tolerability of PT150 for PTSD in Veterans",
+   "summary": "NCT07187011 · Ph 2 · Recruiting · San Diego Veterans Healthcare System · PTSD - Post Traumatic Stress Disorder",
+   "link": "https://clinicaltrials.gov/study/NCT07187011",
+   "published": "2026-11-27T14:27:56Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
+   "id": "7908b13798c30842",
+   "company": "Bristol Myers Squibb (Karuna)",
+   "title": "Trial primary completion changed 2026-12-09 → 2027-11-19: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-2)",
+   "summary": "NCT06126224 · Ph 3 · Recruiting · Karuna Therapeutics, Inc., a Bristol Myers Squibb company · Psychosis Associated With Alzheimer's Disease",
+   "link": "https://clinicaltrials.gov/study/NCT06126224",
+   "published": "2026-11-27T14:27:56Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
+   "id": "4a3118d7f3696caf",
+   "company": "Bristol Myers Squibb (Karuna)",
+   "title": "Trial primary completion changed 2026-10-05 → 2027-11-19: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)",
+   "summary": "NCT05511363 · Ph 3 · Recruiting · Karuna Therapeutics, Inc., a Bristol Myers Squibb company · Psychosis Associated With Alzheimer's Disease",
+   "link": "https://clinicaltrials.gov/study/NCT05511363",
+   "published": "2026-11-27T14:27:56Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
+   "id": "4ed3f257034eb72d",
+   "company": "Bristol Myers Squibb (Karuna)",
+   "title": "Trial primary completion changed 2026-11-24 → 2027-11-19: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)",
+   "summary": "NCT06585787 · Ph 3 · Recruiting · Karuna Therapeutics, Inc., a Bristol Myers Squibb company · Alzheimer Disease",
+   "link": "https://clinicaltrials.gov/study/NCT06585787",
+   "published": "2026-11-27T14:27:56Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
+   "id": "97ed0b2fd736ddcd",
+   "company": "Bristol Myers Squibb (Karuna)",
+   "title": "Trial primary completion changed 2027-09-07 → 2029-04-29: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)",
+   "summary": "NCT05980949 · Ph 3 · Recruiting · Karuna Therapeutics, Inc., a Bristol Myers Squibb company · Psychosis Associated With Alzheimer's Disease",
+   "link": "https://clinicaltrials.gov/study/NCT05980949",
+   "published": "2026-11-27T14:27:56Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
+   "id": "001bd14a3e33a0de",
+   "company": "Lundbeck",
+   "title": "Exclusive | Lundbeck, Top Antidepressant Maker, Weighs Move Into Psychedelics - WSJ",
+   "summary": "Exclusive | Lundbeck, Top Antidepressant Maker, Weighs Move Into Psychedelics WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXNIeWNiTjd5M2pqRzVLMDZvT2dZSXAxd0dkX29ld0hKX3J0bFl6S2lxMzJ4OVpseVVZYmQ3Y0Jtcy1TNVBTSHEwYnViYl9uNFFFdHh2UTNCd0VpNS1NcGxyUFZzbk9rQzJiV3RnUWdQb1JrQl9TSDVxYlZfWDlPR2ZUcWZtLWV2enc5Qk14OVJwVHVybWZORGVUeHRrZ2JwMHVYeTlRRlYzZw?oc=5",
+   "published": "2026-11-27T12:43:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
+   "id": "6a79ed751a66f4ad",
+   "company": "Supernus",
+   "title": "New trial registered: Effect of Adding Cerebrolysin Versus Cerebrolysin With Citicoline to Amantadine Sulfate on Outcomes of Traumatic Brain Injury's Patients",
+   "summary": "NCT07961876 · N/A · Completed · Zagazig University · TBI",
+   "link": "https://clinicaltrials.gov/study/NCT07961876",
+   "published": "2026-11-27T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
+   "id": "fd7cb39ef1934946",
+   "company": "Supernus",
+   "title": "New trial registered: A Long-Term Study of Patient-Reported Changes in Depression, Anxiety, and Other Symptoms in People With Postpartum Depression (PPD) Starting Zuranolone",
+   "summary": "NCT07962799 · Recruiting · Biogen · Postpartum Depression",
+   "link": "https://clinicaltrials.gov/study/NCT07962799",
+   "published": "2026-11-27T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
+   "id": "56120a0b53d61867",
+   "company": "Amneal",
+   "title": "New trial registered: A Study of CREXONT Extended-Release Capsules in Previously Untreated Participants With Parkinson's Disease",
+   "summary": "NCT07963436 · Ph 4 · Not yet recruiting · Impax Laboratories, LLC · Parkinson's Disease (PD) · also tracked under Zambon, Merz Therapeutics (Inbrija, ex-Acorda)",
+   "link": "https://clinicaltrials.gov/study/NCT07963436",
+   "published": "2026-11-27T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
+   "id": "b8afa8eaef46dc19",
+   "company": "Medtronic",
+   "title": "New trial registered: Beta Utilization for Field Shaping (BUFFS)",
+   "summary": "NCT07961668 · N/A · Enrolling by invitation · University of Colorado, Denver · PARKINSON DISEASE (Disorder)",
+   "link": "https://clinicaltrials.gov/study/NCT07961668",
+   "published": "2026-11-27T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
+   "id": "1c0de7ef5243c57c",
+   "company": "Otsuka",
+   "title": "New trial registered: A Trial to Compare the Amount of Centanafadine That Enters the Bloodstream for Different Lots of Centanafadine QD XR",
+   "summary": "NCT07962201 · Ph 1 · Completed · Otsuka Pharmaceutical Development & Commercialization, Inc. · Attention Deficit Disorder With Hyperactivity",
+   "link": "https://clinicaltrials.gov/study/NCT07962201",
+   "published": "2026-11-27T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
+   "id": "8162107e81c9f1f5",
+   "company": "Otsuka",
+   "title": "New trial registered: A Study to Test How Different Doses of Centanafadine Given for Multiple Days Are Taken up in the Body",
+   "summary": "NCT07962305 · Ph 1 · Completed · Otsuka Pharmaceutical Development & Commercialization, Inc. · Attention Deficit Disorder With Hyperactivity",
+   "link": "https://clinicaltrials.gov/study/NCT07962305",
+   "published": "2026-11-27T12:00:00Z",
+   "outlet": "",
+   "method": "ClinicalTrials.gov",
+   "first_seen": "2026-11-27T14:27:56Z"
+  },
+  {
    "id": "73f586a3f1ead737",
    "company": "Alterity Therapeutics",
    "title": "ATHE: SEC Form 6-K filed by Alterity Therapeutics Limited - Quantisnow",
@@ -1669,8 +1801,8 @@
    "company": "Alterity Therapeutics",
    "title": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) - Stock Titan",
    "summary": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSHJYNHdnazllaTJ4YllsMk9BcEl0d09KX21BWUJINXptS2oxempDSUsyeWVrd1RlbFVfd055X2ZEeHRsN0RrR0NGR3JrNk9BbHg4eU5CYmpuUTh1WWRfNnh3ZEVrMmtLdmszODlQOXowLU1ETnVQS2ZyWHJfWGpQU2pnWmEzNVVEc0txT3FaUFN4YnVzVVZKTVp2dGlfSXZOUHBEMWc5OU9SbEVEMU1lQ3F6bnFjNXhjNV84TzBR?oc=5",
-   "published": "2026-11-27T11:07:05Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGN3bkVZNHhBOUNkWGJTb2JaUGd1Zkk4bDJvbkE3cklSZTZYNVBTakZaQXhUeDNRU3RJaXgwaTB5T1RNcWZPai1qRndJNEhBeEpHRVJBOENON3ZCd0ljWW9jbWpVdU5rTkdMY0VpY29uNXFsQ1N5OHJwZTRqZVhOcDl2M3FkdFZSQlZxanhnN0Z6cWc3Wm80OTh3eUVHazhGVzdRZ1BLWGt5RlJ5WWg3QjJwQWJSTl9WelBLMXJB?oc=5",
+   "published": "2026-11-27T11:05:42Z",
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T12:04:08Z"
@@ -1735,7 +1867,7 @@
    "company": "Newron Pharmaceuticals",
    "title": "Newron Pharmaceuticals S.p.A. (NWRN) Amends Financing, Adds €5.5M Tranche by Year-End - TradingView",
    "summary": "Newron Pharmaceuticals S.p.A. (NWRN) Amends Financing, Adds €5.5M Tranche by Year-End TradingView",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMjBzZF9uWEx2VnE3aTkyNUhIdDZqeHVLM2hVN05ESlc4c1lkTHkzZWZONUpoVWhtMTU5NjVvOWRiNTVzU2lkb0RvdzZnXzE5b3dXV0JSVkk0LW1xLVJWMkdXOUpydFNjY29sOHNXNnJZQWd5R1RVX0I5U2dmRzV5UXNtR1U1YVdZSldDS1lrOUk0LWVlNUVJQkdCbHVtOWllYk1SRjE4NTB1Zk43MV8wdWJpbmtLOEVBdlY4YlNWcjJEWFVjU3BN?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGctRy1SYXNELUF2QUJoUkZuN0JfLTBxS3FqUnMyYTRHR01uNEsyT3F4WVk1VHlDSUp4SXdqSU0wUUs5RWtmYndxUkNRcVFBWE5kN1dUS3duX0F1eTJVMkIxemtDMWpfT1NLeTJ2ZS05SG8xQWYyZEdiS2dvV1FZdGlTVUI1X0pPaklEcjlwamhfY3ZzSENabUpOU0JiTk5KUEpSRVo4bnl3cmx2SjlVNmNmRG1KWEpqRFE1ZTk1Y1JhVjhLY21FcVF1b08walMtSUx6U0pMbGhBdw?oc=5",
    "published": "2026-11-27T06:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
@@ -1806,17 +1938,6 @@
    "outlet": "Stocks Down Under",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T19:49:27Z"
-  },
-  {
-   "id": "c9afd466ff16a0a1",
-   "company": "Alterity Therapeutics",
-   "title": "ETFs Investing in Alterity Therapeutics Ltd. Stocks - TradingView",
-   "summary": "ETFs Investing in Alterity Therapeutics Ltd. Stocks TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wTmlDdjlfOFpvWDhXMnRwTEVFQ0N4QUpMZUlSbnlvYTNnSzNGZUpZaUpMQWgySFNXdlZDTmRyVEpVOXNfR2JNV013QVNsWFZ2Y3A1a3lwSEhRcmtpSEE?oc=5",
-   "published": "2026-11-26T18:13:34Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-26T07:14:46Z"
   },
   {
    "id": "b36504bd7110de15",
@@ -1892,6 +2013,17 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOGplWnQzZ1VKdUlrOHpuVTdjUlRyOXUxM0VnN2JYNmUxbVlUNkVuVklsdGUtYXBieXNwMmdjdjN6cDVOMzNhcXp3S19tajRrSFpRUC01MXBONjZmSzlQWjIxTGlQbnBzNFFqOFNaM0M0UnRhZ2hYMmlVRjhJLWdTX3pUVEJwUkJCSkRWdDlVRGktX05IOHRfcnZFcmpXVTZPei1abThGNU5mOERFZWIteDJFR2pPTFhzb3FrN2VXYlNYT0haRkR4RTdR?oc=5",
    "published": "2026-11-26T06:20:00Z",
    "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-26T07:14:46Z"
+  },
+  {
+   "id": "c9afd466ff16a0a1",
+   "company": "Alterity Therapeutics",
+   "title": "ETFs Investing in Alterity Therapeutics Ltd. Stocks - TradingView",
+   "summary": "ETFs Investing in Alterity Therapeutics Ltd. Stocks TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41cDg3UVRNb1l2S1ItZ1NuRDNVUkRTR0FjeGc1czNyU3hOWThvWXJTRzlGc2JRbFNaa2RLZU1WbDc0ck9IV1VLWFgwcU05MmZ0SWlCWHB6WUtobGxLcU5JdA?oc=5",
+   "published": "2026-11-26T05:40:10Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T07:14:46Z"
   },
@@ -2384,7 +2516,7 @@
    "company": "Teva",
    "title": "Teva Pharmaceutical Industries (TEVA) Wins IGALMI FDA Nod As Fair Value Questions Persist - Simply Wall St",
    "summary": "Teva Pharmaceutical Industries (TEVA) Wins IGALMI FDA Nod As Fair Value Questions Persist Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY2VScGwyUU53alJPZ0ZOcm1LSXBjeHc3N3U5dnhTTjIzZW5SX19hMHpvNHZvTm9GZTZDM0hLWVNpbERMc1hFRS14WmdKd0xfbU5NODZJak1jd1QxdmszOFROLURhLW5DV3ZzblM4bncwd0xYZVhSODJtRTl4Y2lZckJuUEpOZFlNUXJ0QmktYm1Id2VHQXFfRXBUZkFoV2hZaHY3NWF0MmhjS2h5al9LSnJhV19DVnRoQm1qeHlRN2NDaXY0VkM1Nkhwc0RmZW5PR19ER3luZ3hoY3JDM1NvYWowWFA0TTFMT2xmMGE2d3hVakVfd3JOREtn0gH6AUFVX3lxTE9jZVJwbDJRTndqUk9nRk5ybUtJcGN4dzc3dTl2eFNOMjNlblJfX2Ewem80dm9Ob0ZlNkMzSEtZU2lsRExzWEVFLXhaZ0p3TF9tTk04NklqTWN3VDF2azM4VE4tRGEtbkNXdnNuUzhudzB3TFhlWFI4Mm1FOXhjaVlyQm5QSk5kWU1RcnRCaS1ibUh3ZUdBcV9FcFRmQWhXaFlodjc1YXQyaGNLaHlqX0tKcmFXX0NWdGhCbWp4eVE3Y0NpdjRWQzU2SHBzRGZlbk9HX0RHeW5neGhjckMzU29hajBYUDRNMUxPbGYwYTZ3eFVqRV93ck5ES2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMWV3TFliekd6ajlXUHk2RVVQX1Mza2FUNURWUkpSeElfTDY2X0RMNGJ4THJnend5RjQ5VVVBRjFYQWZFUFYxeV83ejYyb08tM2J0RmE3VW9FSUxjOUw0RGpfd3FOaXN0VXRnempqQzQzQWFXdTRZX0VvREpudm9hMGdod25LdTd0c1c5Wmw5YTJ3eW9kRzF4VDFvam0zMzNmZVE2Vm5HX2dPY0MtNWJadzczLXJFS0Q3c2c5aXFoTXJMUDJ3OW1qUEs1NXczMW1BNDVDNnN1b04yY3JCeC1IQ2hRaDlsSW5JdlpzNU12Q01JVTRv0gH6AUFVX3lxTE9jZVJwbDJRTndqUk9nRk5ybUtJcGN4dzc3dTl2eFNOMjNlblJfX2Ewem80dm9Ob0ZlNkMzSEtZU2lsRExzWEVFLXhaZ0p3TF9tTk04NklqTWN3VDF2azM4VE4tRGEtbkNXdnNuUzhudzB3TFhlWFI4Mm1FOXhjaVlyQm5QSk5kWU1RcnRCaS1ibUh3ZUdBcV9FcFRmQWhXaFlodjc1YXQyaGNLaHlqX0tKcmFXX0NWdGhCbWp4eVE3Y0NpdjRWQzU2SHBzRGZlbk9HX0RHeW5neGhjckMzU29hajBYUDRNMUxPbGYwYTZ3eFVqRV93ck5ES2c?oc=5",
    "published": "2026-11-25T08:11:15Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -2637,8 +2769,8 @@
    "company": "BioVie",
    "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 - Quantisnow",
    "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEF0QnBuc3RrRUtRaUhEcGVmbExKTlBNT1RnZUlHejdKbW84a3E0VERuQTRMcUtvb1FXQXYzQjlHWENUWEZONzZQV2VTNWlEcEo3MUNFb0lfTmxWekszMXhLMkFHT3FMb2E5Qm9rdkRqeVhOeWl5NzdNRGZOMC1qRkNrenpYc3F2QXIxcHZqR1pwajF1ZHZTeTdTaw?oc=5",
-   "published": "2026-11-24T21:30:49Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW0tSy14WnZhZ2kwZE9LRXZvY0pfNFBkeWhlZWRrZzhROVJDYms2WkJxeVdxOE9FNlBvVFM4M0JEZXZzV2JReG9XTnNVOFpMTE1KZWFVcFI2WmFfektONmFkQVB3WDJvRjVVbHk3TjNGcDNjVldhbXdfLWxQNWYzdEloNXZQNm1zNk1iSWRfMVVuVWFkMnc?oc=5",
+   "published": "2026-11-24T21:31:24Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T21:39:02Z"
@@ -5537,6 +5669,17 @@
    "first_seen": "2026-11-21T11:58:34Z"
   },
   {
+   "id": "b228b970fd42be77",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com - Investing.com Australia",
+   "summary": "Alterity Therapeutics at Bell Potter Healthcare Conference: phase iii push By Investing.com Investing.com Australia",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQTVpRlJkaWUydTMySTl2M2JXTW9DWHo2aktKM0xkakphQTJXYzhLQkhJSUM5bXU1dmZicXFUTnJmYno3Rjd1cndjMndHTXc5a1BBemYtSW5DV3ZoNlU2d1hnN0t5SWhWaVJGanVrNEZ2UHZ2djItd0RHMWdRaXM4czRfa1JPdGU4alBucy1CbUVQZDA0Q3F3V016LUJPS3R0M0pvVzM0YzM1SU1iVENjUXZlQXdXUktUNmJxaFFoSXlQMkZhRjNGWVpxMjVKak0?oc=5",
+   "published": "2026-11-19T08:50:37Z",
+   "outlet": "Investing.com Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "928b7c9272468a2b",
    "company": "AtaiBeckley (Atai Beckley)",
    "title": "AtaiBeckley Inc (B72.SG) recent insider transactions - Yahoo Finance Australia",
@@ -7627,17 +7770,6 @@
    "first_seen": null
   },
   {
-   "id": "f78b8c4400890b45",
-   "company": "Teva",
-   "title": "US FDA approves Teva’s Igalmi for at-home use - The Pharma Letter",
-   "summary": "US FDA approves Teva’s Igalmi for at-home use The Pharma Letter",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNczFRR0dXMEJFNVh3a3BXRmhwa0otWFpfaE1Ga1VDazRoam8zeG9RbHA5LUxTN2puODY0RDUzZkRwSl9WTGhlbzc4aktlNGh3NHJpaV9IZVpKbi0xSzZTYUswUUNzQXByVTMtSU5LZTRhWUhyZjNRNklHNUl0LXdXeExmU1ZVWWFHMjh3Qk1DRHdJUQ?oc=5",
-   "published": "2026-11-16T17:45:07Z",
-   "outlet": "The Pharma Letter",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-19T17:31:37Z"
-  },
-  {
    "id": "bd6f5a3ec5149fa7",
    "company": "Newron Pharmaceuticals",
    "title": "Newron Pharmaceuticals at Jefferies: evenamide drives bold schizophrenia push - Investing.com",
@@ -8155,6 +8287,17 @@
    "first_seen": null
   },
   {
+   "id": "bdf7bb97bc027788",
+   "company": "BioVie",
+   "title": "BioVie Presents New Biomarker Data Highlighting Biomarker-Defined Endotypes and Neuropeptide Y Response to Bezisterim at the 4th Long COVID International Conference 2026 - GlobeNewswire",
+   "summary": "BioVie Presents New Biomarker Data Highlighting Biomarker-Defined Endotypes and Neuropeptide Y Response to Bezisterim at the 4th Long COVID International Conference 2026 GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOTzV3Sm9Rd25XelhwV1pxdXlJdG92M1Zsd1ZESFJ1TktiUF9pMjVFNm9JQ3ZYMjdyWURoUnRFNm5DdVZnc1N5TGxxa1RCVDRudS1tSUlJSGlfWklDclF2SU5ralYyNEVXV3NGenNrTWZ0dENucDYxZFZkU1l2OFNiMlQ1bURWdkhpcTlGR0l0MTFjODdpMlQ3Z3ZjaG5SOUZzODJEUUd6cUtCUEtDRjBiYjB3dm9ISU9LYVd6RWZPUy1NLU5BRzl5TE9oR0dTYkF1clVnZUtJa2s5SE9PcnRUU3dlX2UwamZudEJyUEdzWjVGRm1Rem1EOTlJU1RpR0ZhX3VLNVlxT2VEM0ZtOUpXMDVXc1ozdnhLSi1Hekk2cWw0YjA0anJwVVkyYkFmaURFUVNMZjNVYTEySWREcjEwZkRiWVk2aTJxLUR6QlNUYnB1QXRRNHE4SHhNVWdWQQ?oc=5",
+   "published": "2026-11-16T13:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8283d2404207fa4c",
    "company": "MapLight Therapeutics",
    "title": "MapLight Therapeutics Q3 Results: EPS loss narrows to $0.97, beats estimate - scanx.trade",
@@ -8419,17 +8562,6 @@
    "first_seen": null
   },
   {
-   "id": "be570087f015b257",
-   "company": "BioVie",
-   "title": "Weekly Recap: Ascites backs Phase 3 and bezisterim AD/PD2027 talks - TradingView",
-   "summary": "Weekly Recap: Ascites backs Phase 3 and bezisterim AD/PD2027 talks TradingView",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTEpJRllwVUNGODBEQWVQY1p2VzkzZjgzeXZaWmJYaUJDLVFCTGtuNzBSQUZidk9TVFJkTE9fdVZwQmRTaDRQTjFqZVpRaEMwZFp4X2dqUTJCclAtNV83cjRGTkJ0OVlVMnR1c25Ub2hGRmhBY3Z5b3pNZ1kweENEZDY5eFpnUjJUX0c4QTJZQjF3UFlXQklIbVRMTl96VlJoR3VDbzE2RmJQRmFWSjczWjd3b1pfQktEQXpQangxVklKS0RERGc?oc=5",
-   "published": "2026-11-16T11:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "5cd962f1c581147c",
    "company": "Vanda Pharmaceuticals",
    "title": "Weekly Recap: Fanapt, Bysanti plans and GLP-1 data, spending moderation - TradingView",
@@ -8524,6 +8656,28 @@
    "summary": "Protagenic Therapeutics, Inc. News — OTC:PTIX TradingView",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f78b8c4400890b45",
+   "company": "Teva",
+   "title": "US FDA approves Teva’s Igalmi for at-home use - The Pharma Letter",
+   "summary": "US FDA approves Teva’s Igalmi for at-home use The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNczFRR0dXMEJFNVh3a3BXRmhwa0otWFpfaE1Ga1VDazRoam8zeG9RbHA5LUxTN2puODY0RDUzZkRwSl9WTGhlbzc4aktlNGh3NHJpaV9IZVpKbi0xSzZTYUswUUNzQXByVTMtSU5LZTRhWUhyZjNRNklHNUl0LXdXeExmU1ZVWWFHMjh3Qk1DRHdJUQ?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
+   "id": "be570087f015b257",
+   "company": "BioVie",
+   "title": "Weekly Recap: Ascites backs Phase 3 and bezisterim AD/PD2027 talks - TradingView",
+   "summary": "Weekly Recap: Ascites backs Phase 3 and bezisterim AD/PD2027 talks TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTEpJRllwVUNGODBEQWVQY1p2VzkzZjgzeXZaWmJYaUJDLVFCTGtuNzBSQUZidk9TVFJkTE9fdVZwQmRTaDRQTjFqZVpRaEMwZFp4X2dqUTJCclAtNV83cjRGTkJ0OVlVMnR1c25Ub2hGRmhBY3Z5b3pNZ1kweENEZDY5eFpnUjJUX0c4QTJZQjF3UFlXQklIbVRMTl96VlJoR3VDbzE2RmJQRmFWSjczWjd3b1pfQktEQXpQangxVklKS0RERGc?oc=5",
+   "published": "2026-11-16T08:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -8910,6 +9064,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOEo2VUM1dWk0RFk2bVV5V0lVVkROa1J5VlctN3k5d2xWY185bDRjM2g3b3RxSEJ3bU1qNTk3Tm9ZS2ctZUo2N2tMaEJZTjJrTjYzbEpwNFZ4anEyU19MdWhLWmlnS0hEZlYzdWpwUVVDWTBIU2RJbl90eklpbkhVLThLRDl3bFZpQVRLVW8xT1RXTlM2TU1OX1dWczFmSjc5MlQwbGZ4N2xyQ0JINC1QR0k2dUdFQ2xRVjNxRTR6OURidGJa?oc=5",
    "published": "2026-11-16T08:00:00Z",
    "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "11fd83489f570314",
+   "company": "BioVie",
+   "title": "BioVie Inc. Presents New Biomarker Data Highlighting Biomarker-Defined Endotypes and Neuropeptide Y Response to Bezisterim At the 4Th Long Covid International Conference 2026 - www.marketscreener.com",
+   "summary": "BioVie Inc. Presents New Biomarker Data Highlighting Biomarker-Defined Endotypes and Neuropeptide Y Response to Bezisterim At the 4Th Long Covid International Conference 2026 www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNDRRQjAySkhlRzhIS29Wd2ZhUERkdjg5WHMyLVNfWDhzMXk4Q0MzVlFhWjZBelZKUWdJcTBhaWxFYW9UcEo5T1I4eUdjUTJyNDZKQkJiaWZWeXZ1bVhISTQ3dU1EMUtzdmZnU1BGSzVaZi1DSnd0VGFCT1MtT3JCOHNWRlR1Q2NmaHgwVlpTdHRIcUtGYlVtSHBHenhIU0ZwbkFrQXFKRGl0dDA3aVA5V3I0dk1yZGcwNWRXdFRZN3M3UTJ5UEd6UnJFcTREWVZDQkhpZVhOMklVMkstT3BBaW9lWVZMQQ?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "www.marketscreener.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -9805,17 +9970,6 @@
    "first_seen": null
   },
   {
-   "id": "2b102621f3e1102d",
-   "company": "Serina Therapeutics",
-   "title": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates - GlobeNewswire",
-   "summary": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeml3a0kxSWUtWV9YYzY5Y1Z6aDNhM1ozYWYwZ01BVkwza015UWgydWVzUnJ3cGtFNTNQZDBlYmxJQklfN0FvNDlDdXJacC1EMVQ5YUl2UkhPRGNKWFA4aXdzQnowVE9Tei14MkNxVHlOdUpTR0RWMUpKeUlmVUF1OGQ4SzgyX0xIS2dlaHNieEM2bUlBSWtMNEoyZ0FLdVdEVl9RMVpadnpGbFJCd0I1RzkyZmdsWUMwalE0b3YxMU9zaDdWNFc1RXRERC1QYzdHZU5PVmVWSHVvdmh3V2E4V2JQVlEtMmdqbDRHZkx0QnE1eDNPbGNHUnNR?oc=5",
-   "published": "2026-11-12T21:20:00Z",
-   "outlet": "GlobeNewswire",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "11492d0e4fef6186",
    "company": "Serina Therapeutics",
    "title": "Serina Therapeutics, Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
@@ -9926,17 +10080,6 @@
    "first_seen": null
   },
   {
-   "id": "76c5201aa6c90e53",
-   "company": "Incannex Healthcare",
-   "title": "Incannex Healthcare Q1 2027 Earnings Results and Report - MarketBeat",
-   "summary": "Incannex Healthcare Q1 2027 Earnings Results and Report MarketBeat",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR05mQ2dvNWZCSmotZXpsQ3JjLUZTSXE0N2VfdnRQcnE2QzNLM0RFYnJFd0RkN0MySkJsRVdETTVZa19raE40MDBLVUxPMGlQQUFWOXc1VEdZRTR3QTBDaVQ3N19HOFJHOW54UVJBWm4tQjJ2eTlZcy0xX0ZhbmE1QmlmZ21BNTBYamJZZXZEMjBTZmc?oc=5",
-   "published": "2026-11-12T14:02:46Z",
-   "outlet": "MarketBeat",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "8d21cf4363143ff3",
    "company": "Alkermes",
    "title": "Alkermes and Teva reach settlement on LYBALVI patent litigation - Investing.com",
@@ -10010,6 +10153,28 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "2b102621f3e1102d",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates - GlobeNewswire",
+   "summary": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeml3a0kxSWUtWV9YYzY5Y1Z6aDNhM1ozYWYwZ01BVkwza015UWgydWVzUnJ3cGtFNTNQZDBlYmxJQklfN0FvNDlDdXJacC1EMVQ5YUl2UkhPRGNKWFA4aXdzQnowVE9Tei14MkNxVHlOdUpTR0RWMUpKeUlmVUF1OGQ4SzgyX0xIS2dlaHNieEM2bUlBSWtMNEoyZ0FLdVdEVl9RMVpadnpGbFJCd0I1RzkyZmdsWUMwalE0b3YxMU9zaDdWNFc1RXRERC1QYzdHZU5PVmVWSHVvdmh3V2E4V2JQVlEtMmdqbDRHZkx0QnE1eDNPbGNHUnNR?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "76c5201aa6c90e53",
+   "company": "Incannex Healthcare",
+   "title": "Incannex Healthcare Q1 2027 Earnings Results and Report - MarketBeat",
+   "summary": "Incannex Healthcare Q1 2027 Earnings Results and Report MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR05mQ2dvNWZCSmotZXpsQ3JjLUZTSXE0N2VfdnRQcnE2QzNLM0RFYnJFd0RkN0MySkJsRVdETTVZa19raE40MDBLVUxPMGlQQUFWOXc1VEdZRTR3QTBDaVQ3N19HOFJHOW54UVJBWm4tQjJ2eTlZcy0xX0ZhbmE1QmlmZ21BNTBYamJZZXZEMjBTZmc?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14385,7 +14550,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkpqVWUtT0tZMVVwS2NzMlhuZGVpMnl2ZFZUOTVUSllZRW9BQ2FkN2IzZHpOYkdSWk1nRHZTTlhIaGFEWjRlMTYzaVhpZVdQMDNXZGVEbEppOHVhRXJ6MEItUTEwN010ZzNkdEczazgxUlZlSUtBdmkzbkljc3pUdXZUcTZXZm04anBqck5kUkhkeG52SXF0d25ELU96c1Y1NUNXTUxyUG9LWlRrU3FiaExHVVRJY1JqXzZKag?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LOW13MVl0Wlh1MkRyUU9Ub3RJT0FtLTZfTWxrbmxiRHBBQ09fSXZKcXh2TTQzSlhsWWpJM2pnUzd4Sm5qTTM4dS1ZMkwybndOOVdhSXhFMA?oc=5",
    "published": "2026-11-02T08:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -27911,6 +28076,17 @@
    "first_seen": null
   },
   {
+   "id": "0a054ef533e71476",
+   "company": "Eli Lilly",
+   "title": "A Study of Brenipatide in Adult Participants With Major Depressive Disorder (RENEW-MDD-1) - Lilly Trials",
+   "summary": "A Study of Brenipatide in Adult Participants With Major Depressive Disorder (RENEW-MDD-1) Lilly Trials",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oU1h6WE1aWDhJSXh6NnlvNm5aQk9MM0R2QTdTUzdIR2FqcER4Q3MzWG5tOE9MTkVYRElUOEFfaGhUS1Z1UDRDemZRTkRaTDRTZzBVQzN3?oc=5",
+   "published": "2026-08-09T02:59:42Z",
+   "outlet": "Lilly Trials",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "66cb3c9f051ab9dc",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics to Participate at Cantor Fitzgerald Global Healthcare Conference 2023 - Gain Therapeutics",
@@ -29169,7 +29345,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update - TG Therapeutics",
    "summary": "TG Therapeutics to Host Conference Call on Second Quarter 2026 Financial Results and Business Update TG Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXV5QzlRVmpTQ1hKUVdjd1lLNG9VTERZV29zWlc1cTFUUTFWMUF4d0hyZ3doTy1nLXdHVXVUVjRMelJPcEZ1TkdRUlQzS3FlMDRQYzZDeWRyTTV3NlRDQVZvaHk3c1lQTndJQlhnSkpWeXR0WXBYRk9uMGxNMXRZOUJFdkVfc01YdnQ4VllWMjBzdjJYbEZzeURrNHc5cmNYcXM5c2JCZFc5NmJFR0xWbjc5bzdiQ3A0WDJKY3BR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TWpvZHg0RUVQaE1TRGdUN3NGZkY5eU8yanE2ejhpaVdQSXlZcXRKUUJBdWoxQ1Zsc0hPYmk2clRfcE1mOERTMC1wWGNGVWp2M3B1VDI2QQ?oc=5",
    "published": "2026-07-29T07:00:00Z",
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -32865,7 +33041,7 @@
    "company": "Serina Therapeutics",
    "title": "Gannet BioChem partners with Serina Therapeutics on SER-252 - scanx.trade",
    "summary": "Gannet BioChem partners with Serina Therapeutics on SER-252 scanx.trade",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenRudWZLbW9mLVJISWtidnROTTNSX2NEd3gxREkzQ2VqdnpYbEZUUUtuNG5FMjFzRXVOZzA3aW5HZDhpeGdHWm11ZzJTMHh4X1JHWUhwai1jMEQwX2ZEYzEzSmF2dktIYVNoTWYzYjZUN2NYVkFKTlA3eUVBVFgwT1ZoME10RnJ6a2Q5NFVNVzRwWk5NTzJuZnRjY0p5S3k4TkR1OHJhZFF0YW90Uy1aREwyX0RGclk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclRnX0plRllpTVpsYTNrQUMzdm5kV0xoVl93b2prb3pVanVIcjhHdUNNaWlFSHVrNms4U3ctWHpET3JQLVV6YTE0M1JuSFhyeXRwMXBoUlh0QktfamdvZ1NpR29TX1dwMm1SdW1PRHZIRG9tc2hxUFlDRXNzcTh2Wk03S1EwWkpWcXNSMm95Vno5ckFyOGNXSnFLRW03elBKVWczZnR4Y05tWmdoeWhrRlgtN1dEa0k?oc=5",
    "published": "2026-06-30T07:00:00Z",
    "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
@@ -43419,17 +43595,6 @@
    "outlet": "BioPharma APAC",
    "method": "news search (no newsroom found)",
    "first_seen": "2026-11-19T17:02:35Z"
-  },
-  {
-   "id": "0a054ef533e71476",
-   "company": "Eli Lilly",
-   "title": "A Study of Brenipatide in Adult Participants With Major Depressive Disorder (RENEW-MDD-1) - Lilly Trials",
-   "summary": "A Study of Brenipatide in Adult Participants With Major Depressive Disorder (RENEW-MDD-1) Lilly Trials",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZWFtNC1kRldkeGtGQlA3NjhiY0FaRk1WR0FkMzNzYW9vaWRENWJyTURPLThXT0JUU2YtN2dCRHczbzZhb1JyUXhteWg0dE45THE5RXFB?oc=5",
-   "published": "2026-02-22T21:43:39Z",
-   "outlet": "Lilly Trials",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
   },
   {
    "id": "b6be5a785ad6c641",
