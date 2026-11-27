@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:50:16Z",
+ "updated": "2026-11-27T01:04:25Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1907,17 +1907,6 @@
    "first_seen": "2026-11-26T04:59:29Z"
   },
   {
-   "id": "7e93531c4e5d525a",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
-   "published": "2026-11-25T22:43:23Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "c890dcbbf594177f",
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc (HELP) stock price, news, quote and history - Yahoo Finance UK",
@@ -2329,8 +2318,8 @@
    "company": "Eli Lilly",
    "title": "Associate VP – Medical Development – Interventional Psychiatry - Lilly Careers",
    "summary": "Associate VP – Medical Development – Interventional Psychiatry Lilly Careers",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVQzYmFhYVlzYm9QeUdJX3hvUHZGdDJ4aVoyWFd6UE82ZDdtNTNHSzlsWERramc3M2FBb19SUEdhV1Iyb3k2TWpwX2IwS2lWRDFqSmUxbUhOWUpmR3RleTB3Tjg0QUo1eFFlVXZ0cEVTRVNFVFl4cm1raUJLeVl3eWhMV19uOF9OeVo4NWhyTDE5YTc5SXpjaEMzMnl3ek92VS1LTWp3?oc=5",
-   "published": "2026-11-25T03:40:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdExoMjVMVzhNb2hDb3JXblNXaE5qbzZFdTlMRUduRi01TWhHWmxJRldaQVpyOHp5cGF4T3piZ3FiRTZSX2VyaTJGUmEyQXpBSU91YjIyU3U5RTBJM3lxQVBNb1hMdWIyWFNDX2NkSFc3ZUVIaHg3SXl5clZ1YnIzcVpKT1BvTE11SmZQbEhwQlhmVThSQ2FEUU5EWndfNG1sT296bjRycFRBbkU?oc=5",
+   "published": "2026-11-25T02:40:22Z",
    "outlet": "Lilly Careers",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-25T04:23:02Z"
@@ -2543,6 +2532,17 @@
    "outlet": "Yahoo Finance Australia",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T02:49:37Z"
+  },
+  {
+   "id": "0866992b9d9920d4",
+   "company": "Alkermes",
+   "title": "Alkermes to Participate in the 9th Annual Evercore Healthcare Conference - Alkermes",
+   "summary": "Alkermes to Participate in the 9th Annual Evercore Healthcare Conference Alkermes",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVVY0QVZXRk1DekdfblhTS2V1RVJ0LVRGRDVrbnB0SDBscU5lZWRsM1VEbmhpN2hackNadklJZVc2NW1tZ0FySUdXY0RCd0h6ajNJOWJoZFE4bFg0bllpT3N3SkNUcExoWXBZWEJKRHNQTlIxYndkTU1VQ3Q4WW5Db3h2TkZ4Yi11SThOd1N4dEpJS0YwWDB0MGYzNFRUVFNBR1NUZUV2T0VNVTlITkNPVkgxNHRfMzNTS19DNTRkSGVIY1BLWmc?oc=5",
+   "published": "2026-11-24T21:00:24Z",
+   "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-24T21:39:02Z"
   },
   {
    "id": "5ac9f50db7b9da1f",
@@ -2873,17 +2873,6 @@
    "outlet": "StreetInsider",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T05:32:58Z"
-  },
-  {
-   "id": "0866992b9d9920d4",
-   "company": "Alkermes",
-   "title": "Alkermes to Participate in the 9th Annual Evercore Healthcare Conference - Alkermes",
-   "summary": "Alkermes to Participate in the 9th Annual Evercore Healthcare Conference Alkermes",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xVkEwcVZPck9hZm1EVWZ5akNWaW5TMWxURTBrRmhETjNDOHZsU0xjdnkyeGFCYUpiVmhQN3ZpNEc5Y1M3TGtjRE9BV1JjUDFkZ0FTMC1iVQ?oc=5",
-   "published": "2026-11-24T08:00:00Z",
-   "outlet": "Alkermes",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-24T21:39:02Z"
   },
   {
    "id": "b2923cc987a16d29",
@@ -10113,6 +10102,17 @@
    "first_seen": null
   },
   {
+   "id": "7e93531c4e5d525a",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU1OR0FERnpndER1a2JBWms3SU52ZlFONC03WmdfUmhvNnJwdVJRQnpMUjExeFdjVm83RW81bkVQUy12R0NkT291ckxkZnQ4ZTlMRll6ZE5Md0ZVaTBtb2szcm0xLTFYWnJvdW15OHBDMkh2TjAyalBDWGM3WTJMUFFiNzd1VGoycmQ3N2dqVQ?oc=5",
+   "published": "2026-11-11T18:56:02Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "16f381ebb39951ae",
    "company": "Vanda Pharmaceuticals",
    "title": "NEREUS™ - The Goat of Biscayne Bay Arrives for Miami Art Week - Vanda Pharmaceuticals",
@@ -11730,6 +11730,17 @@
    "first_seen": null
   },
   {
+   "id": "29730db43bbaaf69",
+   "company": "Resilient Pharmaceuticals (ex-Lykos)",
+   "title": "Breaking: Compass Files Psilocybin for TRD New Drug Application with FDA - Psychedelic Alpha",
+   "summary": "Breaking: Compass Files Psilocybin for TRD New Drug Application with FDA Psychedelic Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVC13Z0JvSld5SS14U2ZMYlRwRXREWlpRUzJIVXBTTnRxRFBJNUpVT2N3SUJJckVPb2pTUGpVWXVSTzJWanpOQWl3QnVpNVFfMnlybUVvM1EwREpzYnpTQXNUSUZsOElnV2hYdE53cFVfb1NHc1hXMXZDQjJnV2huQlV4dXY0Yll4SlhFOV9lOHZXNTFlcUJPNFlBT252cmxRQldaeEEzZVZhQQ?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Psychedelic Alpha",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
    "id": "1fa920bb008d38cf",
    "company": "Incannex Healthcare",
    "title": "Firsthand Findings: How Incannex Is Designing Trials That Support Regulatory Approval - Clinical Leader",
@@ -11851,6 +11862,17 @@
    "first_seen": null
   },
   {
+   "id": "179d2594fe385c49",
+   "company": "Novartis",
+   "title": "LEQVIO® (inclisiran) ROE in Primary Care | Novartis Pro Portal - Novartis",
+   "summary": "LEQVIO® (inclisiran) ROE in Primary Care | Novartis Pro Portal Novartis",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFo0TlhWbzZ1UFpnZGJKNGFTN3FMVG5LSmktc2E3NEFzZjVJSkVxYk5zeUx6T1hfdlk5WURrT1BJY1VoQ1NYNzVOemVpdkZiRFhPRTZrV3ZPN201OFRsZzZvQVdpU0ZRZ2xJZzRBbXRKZ2o5cjloOFhpNWlRc1dKV2c0SFNRbktaNUl0aTRGaVM0ajlfMUs4?oc=5",
+   "published": "2026-11-07T00:19:41Z",
+   "outlet": "Novartis",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "eb53bdf562fd32b0",
    "company": "Protagenic Therapeutics",
    "title": "With no revenue, Protagenic (PTIX) faces a funding gap ahead of a planned drug application. - Stock Titan",
@@ -11961,17 +11983,6 @@
    "first_seen": null
   },
   {
-   "id": "9978c2382a97cff1",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences reports Q3 results, Phase 3 data due 2H 2027 By Investing.com - Investing.com India",
-   "summary": "Minerva Neurosciences reports Q3 results, Phase 3 data due 2H 2027 By Investing.com Investing.com India",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJHRzNTVk5oSHRwUGJhdXdJMnllaU9paVJyU3BzZGI2V1RXMC1jUXJGZzJyOVJMTW54NVBTT1JjU0lJN2ZHMGdjYmg0NUp5N084VklHanZoTmVoYW4wbkhCTFJ6NjNHWWRVV2N2M0I3Ui1xLW5zVnVzQ09rMnY2X2ZFYjZ3RDVnY3hOV0VLd1BzZXNXVEtlS0RXR1ZLV2ttYlp0SU91RFF3QWpSTF9KRUx5ekszRTd0aVk5enFFSnFPZG1Z?oc=5",
-   "published": "2026-11-06T14:20:45Z",
-   "outlet": "Investing.com India",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "cbf3fcbdfaba6c5f",
    "company": "Minerva Neurosciences",
    "title": "Minerva Neurosciences Provides Third Quarter 2026 Financial Results and Business Updates - GlobeNewswire",
@@ -11990,6 +12001,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNlJBTjBIcUVLUjVIejRheGNhOFlrRDlmcmQ4andUQVRLT3h4WVNSbTZEM3AyaEcwYThGUEw2VmdjUnNfbHZTTEFLckJUaEE1cnhKakZmbU1lcENYQVQ5ck5tbkFlR2dscWxGOUdQZVJFRFNFVG4xSlJSRk0wZkhZZlRJd3AxWTg4R0pOcDBKY1pncU9ZLXFIRk9vakdtNE9ZWTd1OW4yaTZPVFplaHpGSzBOZkR3UHlQSDI0?oc=5",
    "published": "2026-11-06T10:31:00Z",
    "outlet": "Moomoo",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9978c2382a97cff1",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences reports Q3 results, Phase 3 data due 2H 2027 By Investing.com - Investing.com India",
+   "summary": "Minerva Neurosciences reports Q3 results, Phase 3 data due 2H 2027 By Investing.com Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJHRzNTVk5oSHRwUGJhdXdJMnllaU9paVJyU3BzZGI2V1RXMC1jUXJGZzJyOVJMTW54NVBTT1JjU0lJN2ZHMGdjYmg0NUp5N084VklHanZoTmVoYW4wbkhCTFJ6NjNHWWRVV2N2M0I3Ui1xLW5zVnVzQ09rMnY2X2ZFYjZ3RDVnY3hOV0VLd1BzZXNXVEtlS0RXR1ZLV2ttYlp0SU91RFF3QWpSTF9KRUx5ekszRTd0aVk5enFFSnFPZG1Z?oc=5",
+   "published": "2026-11-06T08:00:00Z",
+   "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14902,7 +14924,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -15653,6 +15675,17 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaU9YRHMtWmVKeHFvc1ROZ0VFb3Rpc3QwRUVmbWFUajd5cF9qMkJhbnZzZXAzeC1MQnRGSEhSZDl3ZDVlLS1DT01YS3ZOSmthUDhWTHo5U2VGeUlWT3RiRmY1cVR2QngtODloRzc4MTg2MHZCblhDaF9ma2VKOGI0aGZ3bHQ5dHpaNk42VExuc0J2eUxYUlk4dGY2dFhwY3h2OHJ3SWFhU1E5NzA1RHc?oc=5",
    "published": "2026-10-28T07:00:00Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "1c66dbd82ac00fa1",
+   "company": "Remepy",
+   "title": "Or Shoval - Co-founder and Co-CEO, Remepy - yespress.io",
+   "summary": "Or Shoval - Co-founder and Co-CEO, Remepy yespress.io",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9MZHIyaGF0OEJBQnVuZWZLTFczS2UxRkpLd3VEdk1LVDNHcXVWc1pmY0JjdTU0SE5UWmp3REV6WTdGU2c?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "yespress.io",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -20827,6 +20860,17 @@
    "first_seen": null
   },
   {
+   "id": "8411b24cbd62b9d7",
+   "company": "Usona Institute",
+   "title": "Review: Protomartyr dive headlong into the American nightmare on 'Hotel Usona' - Paste Magazine",
+   "summary": "Review: Protomartyr dive headlong into the American nightmare on 'Hotel Usona' Paste Magazine",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmVLdGtvNGtRcm01YUNvSGc3VzBna2J0cnNKamZaSzNudEtmOUgyOEowc081WDQ5Z3haUEYxTVlFb3QyWHF2VGJlY05XUkFxV3RIZEZNbmpDQ2xFTy1hSTcyYUFRVUZLbUM4aXgzLTlUSWwwbG5pRDBoRzZFWTVvcFdwYTM?oc=5",
+   "published": "2026-09-24T14:42:15Z",
+   "outlet": "Paste Magazine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e51c162b1684797c",
    "company": "Transcend Therapeutics",
    "title": "Blake Mandell - BioSpace",
@@ -20834,17 +20878,6 @@
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVN0ZoZEw4UGdHNThqdmNSMVE0X001QnJuSXNQMGZjNzVDWmdqNHl0aVcweUVvRi1hYTFDX2FOSUFRZTI2VDA3STVaNHZES00?oc=5",
    "published": "2026-09-24T07:56:58Z",
    "outlet": "BioSpace",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "8411b24cbd62b9d7",
-   "company": "Usona Institute",
-   "title": "Review: Protomartyr dive headlong into the American nightmare on 'Hotel Usona' - Paste Magazine",
-   "summary": "Review: Protomartyr dive headlong into the American nightmare on 'Hotel Usona' Paste Magazine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmVLdGtvNGtRcm01YUNvSGc3VzBna2J0cnNKamZaSzNudEtmOUgyOEowc081WDQ5Z3haUEYxTVlFb3QyWHF2VGJlY05XUkFxV3RIZEZNbmpDQ2xFTy1hSTcyYUFRVUZLbUM4aXgzLTlUSWwwbG5pRDBoRzZFWTVvcFdwYTM?oc=5",
-   "published": "2026-09-24T07:00:00Z",
-   "outlet": "Paste Magazine",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -29682,17 +29715,6 @@
    "first_seen": null
   },
   {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "cbddd078a7b989f3",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Announces Key Leadership Hiring, Promotions - neurocrine.gcs-web.com",
@@ -30375,6 +30397,17 @@
    "first_seen": null
   },
   {
+   "id": "ff210f67bf52f562",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
+   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
+   "published": "2026-07-17T07:00:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "53df4fa4ea65cb6d",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics CEO Gene Mack Issues Letter to Shareholders and Provides Operational Update - Gain Therapeutics",
@@ -30394,17 +30427,6 @@
    "published": "2026-07-16T12:32:59Z",
    "outlet": "Newronika",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "ff210f67bf52f562",
-   "company": "AtaiBeckley (Atai Beckley)",
-   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
-   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
-   "published": "2026-07-16T07:00:00Z",
-   "outlet": "WSJ",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -36722,6 +36744,17 @@
    "first_seen": null
   },
   {
+   "id": "72c90bcd8ea5278a",
+   "company": "Boehringer Ingelheim",
+   "title": "Prevalence and outcomes of anxiety and depression in fibrotic interstitial lung disease: a registry-based analysis - The BMJ",
+   "summary": "Prevalence and outcomes of anxiety and depression in fibrotic interstitial lung disease: a registry-based analysis The BMJ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3NKal9zWHlUTzJkeVR2bG5vc3REaW1sNWFtQW9QbTBobXpJaWFyU3BGWVlTbG9DYkp4OWhFM0FrOTBOcDI3bTFxdElyZFpZRDNfdlROZXl2dFQ2V1htc0twNmhFM2cxUFJpdmZlMFM2djNUVG9ub1U3XzRiSFl1MA?oc=5",
+   "published": "2026-05-12T10:22:20Z",
+   "outlet": "The BMJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e7c99e67b1a78cc5",
    "company": "Incannex Healthcare",
    "title": "Incannex Healthcare Wins MedTech Breakthrough Award for IHL-42X, Underscoring Leadership in Next-Generation Drug Development - Incannex Healthcare",
@@ -39309,6 +39342,17 @@
   {
    "id": "2d3c4690e7b2a433",
    "company": "Denali Therapeutics",
+   "title": "Parkinson's charity partners Biognosys on biomarker project - pharmaphorum",
+   "summary": "Parkinson's charity partners Biognosys on biomarker project pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTnprMUFvN0lXNkNPWWdqMEZGTFBzUkV5RzE0YndjNEtBYVVxSExQbi1MVFNVN1lqQTFyMDdIYUR3T01uamxqVS1IYVZpc1JlQ3Q5enpNT2t0Wnpka2FZMVJiOXhqLURmZWhfZ3JPcXlJdlV4ZHZvMWl6YlpuRGotSXNmMVVmLWgtTzFMSVZB?oc=5",
+   "published": "2026-04-15T07:00:00Z",
+   "outlet": "pharmaphorum",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7d551bb6bd01ff95",
+   "company": "Neuron23",
    "title": "Parkinson's charity partners Biognosys on biomarker project - pharmaphorum",
    "summary": "Parkinson's charity partners Biognosys on biomarker project pharmaphorum",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTnprMUFvN0lXNkNPWWdqMEZGTFBzUkV5RzE0YndjNEtBYVVxSExQbi1MVFNVN1lqQTFyMDdIYUR3T01uamxqVS1IYVZpc1JlQ3Q5enpNT2t0Wnpka2FZMVJiOXhqLURmZWhfZ3JPcXlJdlV4ZHZvMWl6YlpuRGotSXNmMVVmLWgtTzFMSVZB?oc=5",
@@ -43968,6 +44012,17 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
