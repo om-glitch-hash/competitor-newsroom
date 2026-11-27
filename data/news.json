@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:39:12Z",
+ "updated": "2026-11-27T22:39:29Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,50 @@
  },
  "items": [
   {
+   "id": "08b50b83a6baab22",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio (ANVS) gets NYSE notice on US$1 price standard - Mugglehead Investment Magazine",
+   "summary": "Annovis Bio (ANVS) gets NYSE notice on US$1 price standard Mugglehead Investment Magazine",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00M1QtTEpCQlRvS0xIa0cxUXhheGtYcjRHeThOWFVUNGpPODlUSnhqZEc2aDNIVnZQNGpfd1RJYVhFdHFOMVhZOHdoc0ZKSHpJdlV5UFcxcU03ek5iaWhzclBoUDUySmJKQzVvbXBGbW9pRWJ4bnYw?oc=5",
+   "published": "2026-11-27T22:22:02Z",
+   "outlet": "Mugglehead Investment Magazine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T22:39:29Z"
+  },
+  {
+   "id": "c8d32920d86349d5",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio warned by NYSE for stock price belo... - Pluang",
+   "summary": "Annovis Bio warned by NYSE for stock price belo... Pluang",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjBsRUdNcDJsdm1zQVg2ZlY1d0JDQmVPenFrVVJlWGZ4QjRiX1FZZ2pLbUthODlmajBjeUJmVDM1VlBvcjBQenJ6NnZ4VDNTMjNqZ1FjWm1KSzVhd3B3ZzdTcGpRbnJCcUNTVG5nVkhXVk9RYWtTU3JoWDBneFlIbnJwQ2tubGYtWjIzd2R1YUwtV0VqSVRZTWhLSQ?oc=5",
+   "published": "2026-11-27T21:49:06Z",
+   "outlet": "Pluang",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T22:39:29Z"
+  },
+  {
+   "id": "9e6aa1b967b07af5",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Receives NYSE Notice for Falling Below Minimum Share Price Requirement - Quiver Quantitative",
+   "summary": "Annovis Bio Receives NYSE Notice for Falling Below Minimum Share Price Requirement Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHB0T2hxQ1JxcGhQbFRibkZ3UGVqd0kxMjNfTlRVMlBfRGJfWFpuNFZ6N3VaYnJTS0pGbjZJYmtvNThKSDVOSW1rdWJlWG11c3VHbG9QbVk2UkxlTVhtckxrU3FDaUpCdjRVTTcxOXk2dFhpSlZiNk12SVZjQm9RaGVxQmJvODlzOUZJNE1PZ1dvUmJ2V1RGUml1MzJMb05YWld5ZTkyMXNLX0MwTVBwZk1kMVVudw?oc=5",
+   "published": "2026-11-27T21:40:00Z",
+   "outlet": "Quiver Quantitative",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T22:39:29Z"
+  },
+  {
+   "id": "153aa007bce9e4c8",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio receives noncompliance notification from NYSE - TipRanks",
+   "summary": "Annovis Bio receives noncompliance notification from NYSE TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXpCSm0ya2RIbTRUNHpSNlNFRmllLUtkT3FrWkdNNlE1aVllWGFhSG9yTUIwSTI4dFNHbmh1WU5WZjBNb0RLWnlqV0RPLUh2dmdJdFpIbF8telhnZG5oM0p2UGdzaVJ1QTVJYno3cE9SREE5YUk5T2pTXzIzdzhvV0ZoYk1wZ2h3eFVibkVzRGZ2TTJoWm5EYmFpQUJTMzV0RjFUTEhsS1JVTkk?oc=5",
+   "published": "2026-11-27T21:35:08Z",
+   "outlet": "TipRanks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T22:39:29Z"
+  },
+  {
    "id": "32db20b8002ab209",
    "company": "Annovis Bio",
    "title": "Trading in Annovis continues while it has six months to meet the NYSE's $1 share-price rule. - Stock Titan",
@@ -1663,6 +1707,28 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-27T21:39:12Z"
+  },
+  {
+   "id": "1bf71a360b21bb35",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Receives NYSE Notice Regarding Continued Listing Standard - GlobeNewswire",
+   "summary": "Annovis Bio Receives NYSE Notice Regarding Continued Listing Standard GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR1F6RWJmdGg5bGFJd3AtdVlFVHZtbnRXMFM5RjN3Q0xST2k1dl9Xc0RaTC1QWXE3aFV6bGd5dDFBVm1fNnRiMWxIZlVnM3JMT3BzRHBHcXhhMURsbHduWW9DU1NEQ2ZHT3NIRkNzUzBQRHlMY1pVLU55X1VIemVJQXo4REVwTk1qYl9mdTFaeU1zd05kMDV6UHFPQmdLSzR6dUhLM1I4dmNJLUhtTnd2S0RIWEI1My1FSi14YTdaVmszQl9zUU1DeGdVaV9sZ1BBYktWRS01T3Q?oc=5",
+   "published": "2026-11-27T21:30:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T22:39:29Z"
+  },
+  {
+   "id": "38737d7da2c43922",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics (RAPP) Could Be 61% Undervalued After New RAP 219 Data Preview - Yahoo Finance",
+   "summary": "Rapport Therapeutics (RAPP) Could Be 61% Undervalued After New RAP 219 Data Preview Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWU1sYU9DUndfbUlITzN1V2NlVUlsS1B3UGZJUlkta3AyRFRZV2hodXNaR1pGa2NjYlBVYmhYQ1pTNDBxenhYS2ZMMVdrQTA5cVJWRWZkZnJ3QXZoT3FLR0d2cW1xWmFabUdEWGwzN3JnWEdNVnc3X1RwWW9FQ09RcFRSZ0VicG5JY2FidF9SUkRzUFdxdHZ2QzlVQQ?oc=5",
+   "published": "2026-11-27T21:14:49Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T22:39:29Z"
   },
   {
    "id": "2da4727b8a399275",
@@ -1845,8 +1911,8 @@
    "company": "Alterity Therapeutics",
    "title": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) - Stock Titan",
    "summary": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGN3bkVZNHhBOUNkWGJTb2JaUGd1Zkk4bDJvbkE3cklSZTZYNVBTakZaQXhUeDNRU3RJaXgwaTB5T1RNcWZPai1qRndJNEhBeEpHRVJBOENON3ZCd0ljWW9jbWpVdU5rTkdMY0VpY29uNXFsQ1N5OHJwZTRqZVhOcDl2M3FkdFZSQlZxanhnN0Z6cWc3Wm80OTh3eUVHazhGVzdRZ1BLWGt5RlJ5WWg3QjJwQWJSTl9WelBLMXJB?oc=5",
-   "published": "2026-11-27T11:05:42Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSHJYNHdnazllaTJ4YllsMk9BcEl0d09KX21BWUJINXptS2oxempDSUsyeWVrd1RlbFVfd055X2ZEeHRsN0RrR0NGR3JrNk9BbHg4eU5CYmpuUTh1WWRfNnh3ZEVrMmtLdmszODlQOXowLU1ETnVQS2ZyWHJfWGpQU2pnWmEzNVVEc0txT3FaUFN4YnVzVVZKTVp2dGlfSXZOUHBEMWc5OU9SbEVEMU1lQ3F6bnFjNXhjNV84TzBR?oc=5",
+   "published": "2026-11-27T11:07:05Z",
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T12:04:08Z"
@@ -1933,7 +1999,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics (TGTX) Gets FDA Acceptance For Single Dose BRIUMVI Start - Simply Wall St",
    "summary": "TG Therapeutics (TGTX) Gets FDA Acceptance For Single Dose BRIUMVI Start Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNFlVeEJXYU5xWWFOTnF6bFJHVXEyaFpzNXN1aHpZVGc0bUZLVERsdzdxaG81SGp5amJOc2xrVWMzLS1OUlV3SXFleUZxYjFuU3hVamxXNG5aU0IwbG1KTW1jMUUxUzdCWHBRamhEbTVrNVFLeDJFTmhIYVg0T0w5bGRkaURlRlpncWhNc3lIQzF1azNiQnRuR2RsbEdRa1NRd2pDSDBhSGJqNEMzc0NIVWdSbmhLWnhCSGxadnBZVFBza2F6TnRRQmh5ZDJOd01HZHU5a1ZpV08wekVUTmk5a3hIUdIB6AFBVV95cUxPa3VPdWVKTjJQMjZJam1zREREQVlkVnFqeV83T1dxajZyYzNOU0laUGZkcEpmMm0tdEhKajJNNElOV0RLajRWQjRHbEx6ZVBiQUNfZVROaXZXeWw1d29MdEVmaUg0NXNtcVo5c1VYOGZ0LVl2SnNEd2NkUkhXMkZQMjlrNFRhNDI5bFlkdTdBZlR1S0NORXFxcWY1elcxWG80ZmRyYWZJejFkZDRyU1JvZi02TW12b1c1aGdmQnVma1Z2c3NOQ2xaRWM0Qm5xSHB0WjN5Wl9qdnhRQUUwdFlGS21QekZsdE10?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa3VPdWVKTjJQMjZJam1zREREQVlkVnFqeV83T1dxajZyYzNOU0laUGZkcEpmMm0tdEhKajJNNElOV0RLajRWQjRHbEx6ZVBiQUNfZVROaXZXeWw1d29MdEVmaUg0NXNtcVo5c1VYOGZ0LVl2SnNEd2NkUkhXMkZQMjlrNFRhNDI5bFlkdTdBZlR1S0NORXFxcWY1elcxWG80ZmRyYWZJejFkZDRyU1JvZi02TW12b1c1aGdmQnVma1Z2c3NOQ2xaRWM0Qm5xSHB0WjN5Wl9qdnhRQUUwdFlGS21QekZsdE100gHoAUFVX3lxTE9rdU91ZUpOMlAyNklqbXNERERBWWRWcWp5XzdPV3FqNnJjM05TSVpQZmRwSmYybS10SEpqMk00SU5XREtqNFZCNEdsTHplUGJBQ19lVE5pdld5bDV3b0x0RWZpSDQ1c21xWjlzVVg4ZnQtWXZKc0R3Y2RSSFcyRlAyOWs0VGE0MjlsWWR1N0FmVHVLQ05FcXFxZjV6VzFYbzRmZHJhZkl6MWRkNHJTUm9mLTZNbXZvVzVoZ2ZCdWZrVnZzc05DbFpFYzRCbnFIcHRaM3laX2p2eFFBRTB0WUZLbVB6Rmx0TXQ?oc=5",
    "published": "2026-11-27T05:15:47Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -1971,6 +2037,17 @@
    "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-27T03:33:03Z"
+  },
+  {
+   "id": "77a4d3403dd9973e",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Inc (19X.HM) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+   "summary": "Axsome Therapeutics Inc (19X.HM) Stock Forum & Discussion - Yahoo Finance Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92aldaak9zc0J0VHFneEVwdkE5bDBmMUtuVzg2cmhZRUstWVk2LXZZblNjellJTUwxU3NCY3NHd1JCenhHRWpBUU93N092OENlRDVockZpX3Z6Tnd1SWtrTDBB?oc=5",
+   "published": "2026-11-27T02:43:30Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T22:39:29Z"
   },
   {
    "id": "df3b7318ee245189",
@@ -2065,7 +2142,7 @@
    "company": "Neurocrine Biosciences",
    "title": "Why Neurocrine Biosciences (NBIX) Is Getting Attention Today - Simply Wall St",
    "summary": "Why Neurocrine Biosciences (NBIX) Is Getting Attention Today Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdUFObVBfelM0MnotVF91azU0R1pEU1JocW52WXhRZlBISGRCZkJFSXM0MDhLMHFEODY5OGhsTi0tay1LNkdqNHNoMHBqNjhLR09iV1BZVjcya0dJMGl2dUQwc1g4dWRiQk5DTXB1TG5kZlJ0YTBRT0dtTzhucjZLXzRMd3J0WGFqR09yWlpsQ0FZNkdIazM1bFBPNms4MTVUc1RrOU9nNEZGNXk2UFh1OFE3aTJCS2tBTmhKRzlHTHZmSkJpVjJkQms5anRrME1HTVZfRmpFTldfSzJUS09tejloSWFFZm1uaFHSAe8BQVVfeXFMT2NIQXZyU0J3T3NHMGFmYzVEOC0wZHY5YkRLZGZCOVQwRkc4VC1iQ3dHRHUydVNFX1AwemFUVlRGaHBWYjJYWGQ4Yi1PZkhuUzIzTDg0WVhhZWNjYjI1WGNHOXdHQU9mX2pfRjk3U2llR2E4Xy1XaGRZamxrVHdsNlBqeUN4T2FlOGRiYmdrODBiLUhReUpTb0Nvbi1aLTE0akhtcmMwS0VQekdtVk1ESWlNQWxlc1NreFJmVjBGOEVmaUl1Vi01eGFEMTFUWXNlTUlzRmJPb2MxbDRqT0NxTzRsQ1duZENLTTNlUkloMm8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY0hBdnJTQndPc0cwYWZjNUQ4LTBkdjliREtkZkI5VDBGRzhULWJDd0dEdTJ1U0VfUDB6YVRWVEZocFZiMlhYZDhiLU9mSG5TMjNMODRZWGFlY2NiMjVYY0c5d0dBT2Zfal9GOTdTaWVHYThfLVdoZFlqbGtUd2w2UGp5Q3hPYWU4ZGJiZ2s4MGItSFF5SlNvQ29uLVotMTRqSG1yYzBLRVB6R21WTURJaU1BbGVzU2t4UmZWMEY4RWZpSXVWLTV4YUQxMVRZc2VNSXNGYk9vYzFsNGpPQ3FPNGxDV25kQ0tNM2VSSWgyb9IB7wFBVV95cUxPY0hBdnJTQndPc0cwYWZjNUQ4LTBkdjliREtkZkI5VDBGRzhULWJDd0dEdTJ1U0VfUDB6YVRWVEZocFZiMlhYZDhiLU9mSG5TMjNMODRZWGFlY2NiMjVYY0c5d0dBT2Zfal9GOTdTaWVHYThfLVdoZFlqbGtUd2w2UGp5Q3hPYWU4ZGJiZ2s4MGItSFF5SlNvQ29uLVotMTRqSG1yYzBLRVB6R21WTURJaU1BbGVzU2t4UmZWMEY4RWZpSXVWLTV4YUQxMVRZc2VNSXNGYk9vYzFsNGpPQ3FPNGxDV25kQ0tNM2VSSWgybw?oc=5",
    "published": "2026-11-26T13:12:03Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -2136,6 +2213,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-27T19:44:14Z"
+  },
+  {
+   "id": "21565d598f4b6ce4",
+   "company": "TG Therapeutics",
+   "title": "TG Therapeutics Inc (NKB2.MU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+   "summary": "TG Therapeutics Inc (NKB2.MU) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xa1hFQU95OFVrelNaQWtRdFE0aGJNeWdmVFRjc3BFNThYV3VLVUpkUFlPYmVVMDNTVVktTzBEbmxiaE1aNmRvY3ZMc24zVW53NUs5Y2FyaFl2RWIzckFqeXNpUXpyZw?oc=5",
+   "published": "2026-11-26T07:32:29Z",
+   "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T22:39:29Z"
   },
   {
    "id": "aaf54d4e48cd8ef7",
@@ -2505,7 +2593,7 @@
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
    "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVFc4YmdsSUJMUVE5b0RJTVhybmZGWjhmNGxuNUU0NnJ4ZmxTVTZGQy1sNWdObU4yLVVobjNUX0ZWVjBGUzFsUUNfbUlncVI1VjZHbXNuNGJIcEVyalcwYzJneW0zNlpqY2dtQ2hocWxleEowZ21Rb09FYk5TLThqN2hUT2hDdDFtcmZfRWdBM3c?oc=5",
    "published": "2026-11-25T22:43:23Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -2923,7 +3011,7 @@
    "company": "Supernus",
    "title": "Supernus' (SUPN) New Blueprint: 11 Medicines, 4 Therapeutic Markets And A Stronger CNS Franchise - RTTNews",
    "summary": "Supernus' (SUPN) New Blueprint: 11 Medicines, 4 Therapeutic Markets And A Stronger CNS Franchise RTTNews",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbWdON0tsdFRoTW5ucndrWFdHRnJCN21Wb1VldFBPMDNERHI3SWhlcWhCak9RSXZxTDY4VWtUOFVxSmlqRDU1VWZQeVBHd2NDd1VlamZFa0F4LW1aN2FralQ1LUc3WmZrRm0tTnB0eVhiX1pLM2E0R1RDTlVldnZ0T1VXWEV0M2ZLUzZaVVBoV2ZZQ3FiQ3RKRWRsQm92NmhpRFdjUWdNbUg2cFI4RDZQblBQZEp2OWZqRHcyLWxBeFE2TmNPOVcw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnI0a1FsNGl5dU5jaUw1U2JSY01Cd3BYaVc5OUhXVm1VYnRMYmhPbTlKeXQ4WWxzOUN0cmo1dVlTaXhyY2dWaUI4V3lndU11QnFLSENSVkNfNTV0eWxTcmE2dVV2ZGhhaXZCRUYwUFNXUHF1aGhaVWY1ZjFqcWJENnBJZ1lfWlJBLW5od2RpMGJRY21rQmZRSjNVS3U3Y2NJeDBCY0MxRUVtS09RUjREZVBzSVQ5WUhuMXpfa2VuWm55ODlSamRBWUtMTVM?oc=5",
    "published": "2026-11-25T09:44:00Z",
    "outlet": "RTTNews",
    "method": "news search (newsroom not indexed)",
@@ -3016,6 +3104,17 @@
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-27T19:44:14Z"
+  },
+  {
+   "id": "6150aa7ca79ab303",
+   "company": "Alkermes",
+   "title": "Alkermes Tees Up Six Trial Readouts as Orexin Research Expands Beyond Sleep Disorders - Yahoo Finance",
+   "summary": "Alkermes Tees Up Six Trial Readouts as Orexin Research Expands Beyond Sleep Disorders Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWNLZmpYb0JzNVBzOTQ4NnBQLWFkYmlVaTQ0bEx6SU9qNm9NNndwM3E0YUNkdzJleUVDcW5rVnBfRE9KX1QwS1FUSFJ1aFh3M0pwQl9obmtldDllRXl2N0haYTB6YmhJbVk2cF8zZjF0Uzg5bHg4ZkZ5aG4wZFlvUldlUjdHMWp5SUFTTjFoRjc1NGYtMzNhaw?oc=5",
+   "published": "2026-11-25T08:12:21Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T22:39:29Z"
   },
   {
    "id": "a022d0062fd16738",
@@ -6417,17 +6516,6 @@
    "first_seen": null
   },
   {
-   "id": "2fd0d1f11ed10df9",
-   "company": "Johnson & Johnson (incl. Intra-Cellular)",
-   "title": "sNDA Submitted: Caplyta for the Treatment of Bipolar Mania - Psychiatric Times",
-   "summary": "sNDA Submitted: Caplyta for the Treatment of Bipolar Mania Psychiatric Times",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmo2M1ZBMGExdGRPRHcwQ3Exa0w3bVZnTG5iVWpzOUhvNHdweUdWWmdaQTh4Wkh6SEJSUjlTSmJxQTh5dVBxelV2bmVpLXNZQ0xvdU4tRDcybkR5Q2dfdmdqdVdMZE95eGllWl9RQjdKMjJ2NUV3emZIcV9oWlVqb0Y2TkNuQVhUaE9jWEhxOENGQWgzeEd5Y2xZVQ?oc=5",
-   "published": "2026-11-19T14:59:42Z",
-   "outlet": "Psychiatric Times",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "7c6efaa3c6731dce",
    "company": "Palisades Therapeutics",
    "title": "Palisades Therapeutics Reports Promising Preclinical Results in Prostate Cancer Across Two Distinct Drug Programs - The Des Moines Register",
@@ -6514,17 +6602,6 @@
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
-   "id": "edd5f5a709a28ca5",
-   "company": "Johnson & Johnson (incl. Intra-Cellular)",
-   "title": "Johnson & Johnson submits FDA application for Caplyta in bipolar mania - Investing.com",
-   "summary": "Johnson & Johnson submits FDA application for Caplyta in bipolar mania Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWRmTFhMbS1WOXNmNjM2MjlOeUlST1dqeE1hSnJGSmtUUmV4eEtmTG1yVERreW1xQlcyS2txSlFraWdPYVFHRllGRWtoRmR6T1ltQWNoX2pHZUI2aWFQM3JGZkxCczFKMnhqUFNGcEg5UElDRW5ocXhnUHlraHB6d0Q5dk9pYWVFMTBYRVVvVTVyMnE2SzhCNVFzSzZRRi1mOFZGd05PcVZYNXdIR0t6UHU3Qmo1QW56NkJpTm9oT0tqYWJZ?oc=5",
-   "published": "2026-11-19T13:29:22Z",
-   "outlet": "Investing.com",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
   },
   {
    "id": "ef4d30070808a0a8",
@@ -6791,6 +6868,28 @@
    "first_seen": "2026-11-21T11:58:34Z"
   },
   {
+   "id": "2fd0d1f11ed10df9",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "sNDA Submitted: Caplyta for the Treatment of Bipolar Mania - Psychiatric Times",
+   "summary": "sNDA Submitted: Caplyta for the Treatment of Bipolar Mania Psychiatric Times",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmo2M1ZBMGExdGRPRHcwQ3Exa0w3bVZnTG5iVWpzOUhvNHdweUdWWmdaQTh4Wkh6SEJSUjlTSmJxQTh5dVBxelV2bmVpLXNZQ0xvdU4tRDcybkR5Q2dfdmdqdVdMZE95eGllWl9RQjdKMjJ2NUV3emZIcV9oWlVqb0Y2TkNuQVhUaE9jWEhxOENGQWgzeEd5Y2xZVQ?oc=5",
+   "published": "2026-11-19T08:00:00Z",
+   "outlet": "Psychiatric Times",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "edd5f5a709a28ca5",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson submits FDA application for Caplyta in bipolar mania - Investing.com",
+   "summary": "Johnson & Johnson submits FDA application for Caplyta in bipolar mania Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWRmTFhMbS1WOXNmNjM2MjlOeUlST1dqeE1hSnJGSmtUUmV4eEtmTG1yVERreW1xQlcyS2txSlFraWdPYVFHRllGRWtoRmR6T1ltQWNoX2pHZUI2aWFQM3JGZkxCczFKMnhqUFNGcEg5UElDRW5ocXhnUHlraHB6d0Q5dk9pYWVFMTBYRVVvVTVyMnE2SzhCNVFzSzZRRi1mOFZGd05PcVZYNXdIR0t6UHU3Qmo1QW56NkJpTm9oT0tqYWJZ?oc=5",
+   "published": "2026-11-19T08:00:00Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "1366ce996058e55e",
    "company": "TG Therapeutics",
    "title": "TG Therapeutics: The Price Already Pays For Growth That Ocrevus Copies Can Cut Short - Seeking Alpha",
@@ -6842,6 +6941,17 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNEQ5bkw2U1hHRVdLSTJ2eHNYQlFhV2lNU0N4eXhkMHlFbFZaNllLUmRDS2VtUmc5YVZMczVVOFI0S29CZVpyN2syX250Y0FtNThhQXE3YndMd2lucDRwYTBPVFlFNDI0Q1k2cng0bTJKMWJBckNlX2xZUENsSTVVMWFNR1VFRGEyTVBJaVBZZWlNQl9GRUZ3Z1J6cXJkLVlvcVhOS1NES2pqVDE2S3o0UzFaRlltVnZxRG5Qa1FOSkpuTXQtWHJvYUNFR2VVa2ZpVzRqVjNMRQ?oc=5",
    "published": "2026-11-19T08:00:00Z",
    "outlet": "The Globe and Mail",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "9fb324a2ccf65f6e",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson (JNJ) Seeks FDA Approval for CAPLYTA in Bipolar Mania - TradingView",
+   "summary": "Johnson & Johnson (JNJ) Seeks FDA Approval for CAPLYTA in Bipolar Mania TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdk9JZU45VzM5dm83SE1KdVVmaXJ6SDV3dGk5VXRlXzloemM1a1d2a2dlc0pmNzM0YlV6dGVqRmhLM3MzZ0FLZU9XRVk3d3phdl9PS3NLS19YSkxTeWZvcEZvcnBzV1o0WUxRTVlTcmpMcmVKSGgwcmxibEJSbmlucEpHUl8xcXMtbzRwRnVna3ZYNS1DZTVKT2lGUXlXYUk0bGQ4dURBcDhUM2ZMNE0yX1hCXzllaE5NN3BfaUpXN2ZxbHRRYnFVOA?oc=5",
+   "published": "2026-11-19T08:00:00Z",
+   "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -7341,17 +7451,6 @@
    "first_seen": null
   },
   {
-   "id": "11b972549b89be2f",
-   "company": "Neurocrine Biosciences",
-   "title": "Why Neurocrine Biosciences (NBIX) Could Be 20% Undervalued On INGREZZA Momentum - Yahoo Finance",
-   "summary": "Why Neurocrine Biosciences (NBIX) Could Be 20% Undervalued On INGREZZA Momentum Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3JhTVloWXZKR2tnM0pPUnRhZkFoaklNQjlmLXlQVVpadWhSMUFSRFIwa3JPSnM0ZmI4MTNsR2k2eUJDaFd2N2ROUEtXa09PQm1IeFE5ZVIxQVEyT3VuQUlQcnQzdmFrM1hzZDltdjFjanlpMWEzOGY4eWlaeE8zZGY5NVNKMkRWS0lkWEFBczREN0dlTjRBejdXT2RKdmc?oc=5",
-   "published": "2026-11-18T09:10:58Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "009c778e763d3cbe",
    "company": "Xenon Pharmaceuticals",
    "title": "StreetInsider.com - StreetInsider",
@@ -7394,6 +7493,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
+  },
+  {
+   "id": "11b972549b89be2f",
+   "company": "Neurocrine Biosciences",
+   "title": "Why Neurocrine Biosciences (NBIX) Could Be 20% Undervalued On INGREZZA Momentum - Yahoo Finance",
+   "summary": "Why Neurocrine Biosciences (NBIX) Could Be 20% Undervalued On INGREZZA Momentum Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3JhTVloWXZKR2tnM0pPUnRhZkFoaklNQjlmLXlQVVpadWhSMUFSRFIwa3JPSnM0ZmI4MTNsR2k2eUJDaFd2N2ROUEtXa09PQm1IeFE5ZVIxQVEyT3VuQUlQcnQzdmFrM1hzZDltdjFjanlpMWEzOGY4eWlaeE8zZGY5NVNKMkRWS0lkWEFBczREN0dlTjRBejdXT2RKdmc?oc=5",
+   "published": "2026-11-18T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "6c0241828eaab87b",
@@ -9266,17 +9376,6 @@
    "first_seen": null
   },
   {
-   "id": "bfed94209f30ded2",
-   "company": "Neumora Therapeutics",
-   "title": "Neumora Therapeutics 3Q 2026: EPS ($0.18) — 10-Q Summary - TradingView",
-   "summary": "Neumora Therapeutics 3Q 2026: EPS ($0.18) — 10-Q Summary TradingView",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3J4SlJKN18xRHhqNXN4N1l4UkxJXzdiLVdJckZ4bzdwUExPdFc3M2VUYmRhdTktTzZSa2hUTXh2VUNfMGs3XzEwTGoxZ3RKT1Z1eXRKcnVzUXpfSE9IVW5Nd2haZjdYSVpHZ3hIZzFGbFNJMGgyVlhlNFhtTEpEazdJaWhqVWtZOFBxbEJfY0VTYm9wbHlIeEg3R1NYRVFaaGdGWm9rYVBxaGdGZ1hKeU13?oc=5",
-   "published": "2026-11-16T13:21:12Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "d8562a782533f76b",
    "company": "Neumora Therapeutics",
    "title": "Neumora Therapeutics Announces IND Submission for NMRA-215 and Reports Positive NMRA-511 Dose-Expansion Data in Third Quarter 2026 Update - Quiver Quantitative",
@@ -9717,17 +9816,6 @@
    "first_seen": null
   },
   {
-   "id": "be570087f015b257",
-   "company": "BioVie",
-   "title": "Weekly Recap: Ascites backs Phase 3 and bezisterim AD/PD2027 talks - TradingView",
-   "summary": "Weekly Recap: Ascites backs Phase 3 and bezisterim AD/PD2027 talks TradingView",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTEpJRllwVUNGODBEQWVQY1p2VzkzZjgzeXZaWmJYaUJDLVFCTGtuNzBSQUZidk9TVFJkTE9fdVZwQmRTaDRQTjFqZVpRaEMwZFp4X2dqUTJCclAtNV83cjRGTkJ0OVlVMnR1c25Ub2hGRmhBY3Z5b3pNZ1kweENEZDY5eFpnUjJUX0c4QTJZQjF3UFlXQklIbVRMTl96VlJoR3VDbzE2RmJQRmFWSjczWjd3b1pfQktEQXpQangxVklKS0RERGc?oc=5",
-   "published": "2026-11-16T11:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "2ad002a12c985325",
    "company": "Insightec",
    "title": "Job opportunity: GVP Specialist - Insightec",
@@ -9756,6 +9844,28 @@
    "summary": "Protagenic Therapeutics, Inc. News — OTC:PTIX TradingView",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "bfed94209f30ded2",
+   "company": "Neumora Therapeutics",
+   "title": "Neumora Therapeutics 3Q 2026: EPS ($0.18) — 10-Q Summary - TradingView",
+   "summary": "Neumora Therapeutics 3Q 2026: EPS ($0.18) — 10-Q Summary TradingView",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3J4SlJKN18xRHhqNXN4N1l4UkxJXzdiLVdJckZ4bzdwUExPdFc3M2VUYmRhdTktTzZSa2hUTXh2VUNfMGs3XzEwTGoxZ3RKT1Z1eXRKcnVzUXpfSE9IVW5Nd2haZjdYSVpHZ3hIZzFGbFNJMGgyVlhlNFhtTEpEazdJaWhqVWtZOFBxbEJfY0VTYm9wbHlIeEg3R1NYRVFaaGdGWm9rYVBxaGdGZ1hKeU13?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "be570087f015b257",
+   "company": "BioVie",
+   "title": "Weekly Recap: Ascites backs Phase 3 and bezisterim AD/PD2027 talks - TradingView",
+   "summary": "Weekly Recap: Ascites backs Phase 3 and bezisterim AD/PD2027 talks TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTEpJRllwVUNGODBEQWVQY1p2VzkzZjgzeXZaWmJYaUJDLVFCTGtuNzBSQUZidk9TVFJkTE9fdVZwQmRTaDRQTjFqZVpRaEMwZFp4X2dqUTJCclAtNV83cjRGTkJ0OVlVMnR1c25Ub2hGRmhBY3Z5b3pNZ1kweENEZDY5eFpnUjJUX0c4QTJZQjF3UFlXQklIbVRMTl96VlJoR3VDbzE2RmJQRmFWSjczWjd3b1pfQktEQXpQangxVklKS0RERGc?oc=5",
+   "published": "2026-11-16T08:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -11576,6 +11686,17 @@
    "first_seen": null
   },
   {
+   "id": "972c34ef3833f78c",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson (JNJ) Backs New Cancer Device And Leads $100 Million Depression Bet - Yahoo Finance",
+   "summary": "Johnson & Johnson (JNJ) Backs New Cancer Device And Leads $100 Million Depression Bet Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZFFUTThxQTg2ekVQVU03ME5ZTHBON2dBdlpTMFlMWk0wVW8zWUcxa1lqZC03Qzh3bmFyblN1bGd5bkxVaTAyUVFRQ3pYd0JpRVVDcy1peXZIRzJxMVR6XzkyYUpwTFhwOGlEVlRIdVVkOGQwUUszbVNweXUyYThtYy1XZC1oTnFLNVZvRnQ5VDQwV0xIX09pbw?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "59f49190b8e0f05a",
    "company": "Incannex Healthcare",
    "title": "Incannex Healthcare Q1 2027 Earnings Date and Estimates - MarketBeat",
@@ -12170,17 +12291,6 @@
    "first_seen": null
   },
   {
-   "id": "3bec278c55fbbe92",
-   "company": "BioVie",
-   "title": "BioVie to present additional Parkinson’s drug data at international conference - Proactive financial news",
-   "summary": "BioVie to present additional Parkinson’s drug data at international conference Proactive financial news",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3ZYODVJdVdTdkhVS3VZRUNsV0hMRkQ2ek1MZldPXzhWM3NCRFN0NTlldzkzR1dWUmZWdzB4eGJYS2pyNnE3WTYxd0JLclR3R3VpMHBvNWFyRVNJZmFjUEItVWRpYkJQWnhwcEVRalpVby1iVFZRV3ZuRzhCdk50dHl2V0FRd2szWjlCUUdlVkxfMGdQeFJhRUlkcU01dTlJOWoxVWRJUUFmcnFWM0RCZ3lYV0dYaWwxbU5NV1pwNzYzRVFzektfRG1BLUFIMDFUeVh4bDhsZ2JTU2pjODlPS3BPTQ?oc=5",
-   "published": "2026-11-10T14:32:00Z",
-   "outlet": "Proactive financial news",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "4098aa9cba71ac3b",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson’s Caplyta meets endpoints in bipolar mania study By Investing.com - Investing.com UK",
@@ -12254,6 +12364,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVk4V09HQmdVVjFsODIyWE9pc0laWGl3UFN5RkhxTTBGTHF0ZGNCTDJ4WnR6UUN5RmxFM18yT2VRZ2hwWjB5SGtlSWE0VUxUS2tmbUlIQWxrNDZnbVBGUmhoTlRDTDg3MG1OZkd5cF9HclItcmcwZUZBOEtMcnl5MUhENGZveDFIRlVNTy1fd2g2UFlCMnVJeV9CbUlZVEFsS0VIUnBtUU9pNVp0TzVzMU80SG9ZdUtDenppM1dpV01qcjhp?oc=5",
    "published": "2026-11-10T09:08:09Z",
    "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3bec278c55fbbe92",
+   "company": "BioVie",
+   "title": "BioVie to present additional Parkinson’s drug data at international conference - Proactive financial news",
+   "summary": "BioVie to present additional Parkinson’s drug data at international conference Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3ZYODVJdVdTdkhVS3VZRUNsV0hMRkQ2ek1MZldPXzhWM3NCRFN0NTlldzkzR1dWUmZWdzB4eGJYS2pyNnE3WTYxd0JLclR3R3VpMHBvNWFyRVNJZmFjUEItVWRpYkJQWnhwcEVRalpVby1iVFZRV3ZuRzhCdk50dHl2V0FRd2szWjlCUUdlVkxfMGdQeFJhRUlkcU01dTlJOWoxVWRJUUFmcnFWM0RCZ3lYV0dYaWwxbU5NV1pwNzYzRVFzektfRG1BLUFIMDFUeVh4bDhsZ2JTU2pjODlPS3BPTQ?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Proactive financial news",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -12551,6 +12672,17 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2N1NDVvYzNjMFV4cjJrdkxvaUphNHBPcHJ3RzdxRW10Q2FDT01xV3NXMVdXT2R6UGMzZVBKZFB5QkVhT0UtdkQ0VTBtazBqT1ZLOGVlTG94RERpYzhmRFI1Y2dlSnRVNUpTVFk5LTNTUmRUS2Zkbmh1dzdqNnlDWnN2V0htRG1BOVE4UDBhb0tMY3lGeUJUODFqZFlkZ2NqS2lOeHN6bmhrekZPbkxxeWJjaXZFRFpka0E?oc=5",
    "published": "2026-11-10T08:00:00Z",
    "outlet": "Investor's Business Daily",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "af60d0d20b1f1829",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson’s Caplyta meets endpoints in bipolar mania study By Investing.com - Investing.com Canada",
+   "summary": "Johnson & Johnson’s Caplyta meets endpoints in bipolar mania study By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGJTUXAxczNicXY0bDFpNk9CT085NzBpVmpWSkZxTVBvQjJpdWthbmRjV3hFMU9GX2RUcXRtQnp2dW84UDAwajk1cmVxRjQ1V2lybGJ0aEV2R21CSi1VT2l4cHdoMzFfOGkyVC0xdmtuczltOVRDNHNiX0ctazdYVkVOZWhNbHFxb2NyOXZ6M1FnaXg3bVVJZ1hCOEpkclhCTjJZX1RVcUZVS0tUSXFtNkw2bE8ybHF2U2xhcDFmR3BfLW8?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Investing.com Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13453,6 +13585,28 @@
    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOT1VQSUpxOWIwcFh0Z05ydTdIamd2MENlU0QxZXpkNmktQmdWa3hLcDE0R2M3LU5FVGFnZUpPUVRuOTVpZC1KODJnVnFQb2F1em1LNkhSb205cWJyTWNwZk9UMWNGMzZMaHFTWmJJS01KdlBTYWhIMHljNXVucFByQ20zZ2x4bnlnalluc1V4WEJyWHU3X3VsQzdBWnNnaHZCUkxsYVFwY2tUdU9ETDhGQXFkcTFyNDc4T1dmdGw2R1VvMUpUcVRfbE4yaFJUdFJXTFNSWEU0OGN1UDE2MV94a0QtYm5xdmhGazk5bEVlRXNRVk1laE1iTmJaZ2k2UG5Dc2tTWWZWRzJFdF9LU1ExYnBzbVFOTDJ3ZkhiTg?oc=5",
    "published": "2026-11-09T08:00:00Z",
    "outlet": "markets.businessinsider.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "7128035024d3f9e4",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J-backed Delix drums up $100M series C for non-hallucinatory psychedelic for depression - Fierce Biotech",
+   "summary": "J&J-backed Delix drums up $100M series C for non-hallucinatory psychedelic for depression Fierce Biotech",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjEzeVpTQ0FNME5OZ1hxSGJXWFI0RVdxMWRHaDBLcXE3eW1renRGbFJONnBLSVE1WWFlRzc1aFR5MVU1TXZGUm1FNTZPeExOcjBiN3FpbmdjaFp5aktIVU1IRy1VZFJaQndNMFA0MzlfcFpMOE9GZG8wNXdfVG9HQ0ZlZ1VkVzJDWHNZYi1RVkRRQ2RSV291dFJYcXBDNGxMRExfakIxRDdGWE0?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Fierce Biotech",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3a679346e5e1a6b2",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson backs psychedelic-inspired depression startup Delix - Quartz",
+   "summary": "Johnson & Johnson backs psychedelic-inspired depression startup Delix Quartz",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjRlbHJFSmpUUGNFOFBsZExmYkNlbDdLczdSd243dlJVNFFEYXFVLXM2WmgzNjIxWm92SF9GTEU3M1NuMHdKNjNRWU1aa2NtOUlSMkdKZURHS282SW56bTczR0Zhbzc2bHpLVzJXM3FUVXl2amtCekM4X3RFSWJRTjk1TEc?oc=5",
+   "published": "2026-11-09T08:00:00Z",
+   "outlet": "Quartz",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16685,17 +16839,6 @@
    "title": "Alkermes (ALKS) Starts Phase 2 MDD Trial, Is The Upside Already Priced In? - Yahoo Finance",
    "summary": "Alkermes (ALKS) Starts Phase 2 MDD Trial, Is The Upside Already Priced In? Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2dMb3QxdWhvWHA0SXd0SERGN2FmM1ZTcEUyeW1uQ3Zqa0szazNWWVo1TEtZYkZWM3J6VkdrN0xRX1BLbzlKTGFWOTZBdG5admVhRmtHWDFWbXpCYVQxZjhFdUhmNHVxeXJYUTA4d0lsSkVhdG8xcW9RMHFIeGs5THltV0ZaS1F3eEhnOGRxbHliS3c?oc=5",
-   "published": "2026-10-30T07:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "21c46fb130d20c16",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Yahoo Finance",
-   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblBTam5jVG1XX1ZIS3ZFNnhqNC1IYl8xMTc5UjdOT0xwdzFCU2c0MGVNb3ZORjlqTjJybTdKY09SeE5ZTkNKQWlLMENEdktNSkZ1eGcxWkRpTWpQczRLckN4MkZ3NjhfZmxfT2FzN0oyY29DOUpZazYwd3huOTdqcGt4a1dWSWtFVEFRcF9Tay1YcWlUVWYtb0ZmTDlRblVvblhOb0U4eVhjSTky?oc=5",
    "published": "2026-10-30T07:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -21707,6 +21850,17 @@
    "first_seen": null
   },
   {
+   "id": "21c46fb130d20c16",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Yahoo Finance",
+   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQk9oTDV1OFRMaGFnalBQNGgxVjIxOTR3QU1TQktzU1huekJnQWdadk12OWExVUl1eTg2LTFvNVdnMzRoeGJla1ZEbDJwZFplN2t4Yy1fQjNvQWRUcEFaWHF4WjRxeV9iY3hfSkpHQkFCeVBkc296SWZoZVcxaGtleVpPWGdEUVZsV3p2RW1JRTB4RVdZdVdQZnljLXFiYXVIYldsRkV0aUtJSXZI?oc=5",
+   "published": "2026-10-02T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "81559094b02a61f4",
    "company": "Teva",
    "title": "Post Hoc SOLARIS Data Support Stabilization and Remission With Subcutaneous Olanzapine - Psychiatric Times",
@@ -22862,6 +23016,17 @@
    "first_seen": null
   },
   {
+   "id": "fe8ad0c95d376d52",
+   "company": "Alkermes",
+   "title": "Alkermes Fails to Fend Off Addiction Treatment Antitrust Claim - Bloomberg Law News",
+   "summary": "Alkermes Fails to Fend Off Addiction Treatment Antitrust Claim Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0Fvck9aLXU0OFBQNTFrNnlEVzBWaUpjdk5JQ1k1QUJVTUowdTZyd2pNb0RTbVcwM0xzZnQwMHhGbE44ci1SbklTaXdfVEtTLWFTUzBiY2t0M19FdGFQVHozQkpLNklNZnFaY1FPcVFlZ2VROThhdGpLS0JIY0Z2TS1jNlBfTExOb2JIM3p6UnVJNnRVRGpMX3I1Yk1uZFdFd01Ucw?oc=5",
+   "published": "2026-09-25T07:00:00Z",
+   "outlet": "Bloomberg Law News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8411b24cbd62b9d7",
    "company": "Usona Institute",
    "title": "Review: Protomartyr dive headlong into the American nightmare on 'Hotel Usona' - Paste Magazine",
@@ -23012,6 +23177,17 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRlBlXzhJOUc4UXh6MGpPNnkxTWM3SUZzRm5zZWlJRFIxajVUUXRFWVk0M004OVlnX3diUnk5ZDNYdUE2TDJnMmFjZHFkcDg2cnNTRXBBRzlhdUptcVpfOE93eG1VTzdvekk2RE5pQ3N5bVhnNTFmNkx1cnZCWDk2ak1ueXFsclNpS1ZDN1Rzb2d0UHZnNi1jTTBiZWE?oc=5",
    "published": "2026-09-24T07:00:00Z",
    "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "d350fac7c22d56bc",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "J&J and Contineum’s Depression Drug Missed Phase 2 Goal. What Comes Next? - Yahoo Finance",
+   "summary": "J&J and Contineum’s Depression Drug Missed Phase 2 Goal. What Comes Next? Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNDJsRnBmZWVPOTdXRFpVZGdKOUg5X2phaTN6NVhLMndYVEYzV1VaSnRDNVNhRUFTSmFQTjlnWk5ZcnViV0pNMmlTU2RJOFhZY00xRjdxSzhXa0FBcXNIcGo5OTNsQjQ4N3FQTFplaTB2SEtsVE5qeVVuTGtLczNPMHllZWZNNkFFZjZQaXc3TXdpbFB3?oc=5",
+   "published": "2026-09-24T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -25113,6 +25289,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0xXQWJ4dnBsOHR0cVc1c0wyMXQxZFdJLWViYUVuVTVwZzBhVDN0cV9TVWN4d3hlU0xxdTRJVUs4N1VhTjhaQjRqcGRzbVp5TGQxbnIxclZCaEVlQ2JRUzlDalhFRVlIYVRjR2dvVW9ETDdIenpsR3ZwRzlDcHJhNmhiQlFIU2paQkZGSWVHTDFxVDhPQVlZUUZwUGxjd3h3WWpOa2tsaFJGTm5iTnQteE56Q2NiaDRic2RlUUNqMlpzV3c?oc=5",
    "published": "2026-09-15T07:00:00Z",
    "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8bc59b18b767f3aa",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Johnson & Johnson Partner Contineum Slides as Depression Drug Fails - Benzinga",
+   "summary": "Johnson & Johnson Partner Contineum Slides as Depression Drug Fails Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSnBHRVpDenlHcm5Ecmd1ZkRaYnotLUs2bVdZemV1NmdNV2NnQTBoMUM1WkQzNF91T0lpU3VBWlVpZVJfd0J5WF9IY3YyNG4zUGg1a09hR3pSWDRweDJhV1J0VkhwMGV3UlNfUm4wM24wcmhZUHJPd3hxcUw3T25KV0JzanZwLXd4UVNDa1JPalUxTmpSVk1iWDBtNF91WXJwQkVZY3V3cHhybEtoVF96elh1WUo0OV9MSGJSenFmSUlVaFQx?oc=5",
+   "published": "2026-09-15T07:00:00Z",
+   "outlet": "Benzinga",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -34137,6 +34324,17 @@
    "first_seen": null
   },
   {
+   "id": "16c0e9b3abf479a5",
+   "company": "Axsome Therapeutics",
+   "title": "How Investors May Respond To Axsome Therapeutics (AXSM) Advancing Solriamfetol Into Phase 3 Pediatric ADHD Trials - Yahoo Finance",
+   "summary": "How Investors May Respond To Axsome Therapeutics (AXSM) Advancing Solriamfetol Into Phase 3 Pediatric ADHD Trials Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0VZVGMxclpaazgwRHpTaDZYT2VzcVJjWnJnOTBZNGNGell2ODJxaTJrSDExQXJ2QzdBaEFJTDdNbzhEYkxzWWxxWXQ2eTAwa3pDSjhlSGQ0WlBBNGRFRVFpeTdVaDY4Y0ZfX0JLNkpPWTNwSWhpdmcyVkVPUjNFRTU4bXdqakYzNmpVRnVPSEZoaGU5M0twb3R1RkJiSG05eHJoQg?oc=5",
+   "published": "2026-07-09T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "a35511c88e33ef1e",
    "company": "Alterity Therapeutics",
    "title": "FDA Confirms Single Phase 3 Trial Sufficient for ATH434 NDA in MSA - The Clinical Trial Vanguard",
@@ -34867,7 +35065,7 @@
    "company": "Serina Therapeutics",
    "title": "Gannet BioChem partners with Serina Therapeutics on SER-252 - scanx.trade",
    "summary": "Gannet BioChem partners with Serina Therapeutics on SER-252 scanx.trade",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenRudWZLbW9mLVJISWtidnROTTNSX2NEd3gxREkzQ2VqdnpYbEZUUUtuNG5FMjFzRXVOZzA3aW5HZDhpeGdHWm11ZzJTMHh4X1JHWUhwai1jMEQwX2ZEYzEzSmF2dktIYVNoTWYzYjZUN2NYVkFKTlA3eUVBVFgwT1ZoME10RnJ6a2Q5NFVNVzRwWk5NTzJuZnRjY0p5S3k4TkR1OHJhZFF0YW90Uy1aREwyX0RGclk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclRnX0plRllpTVpsYTNrQUMzdm5kV0xoVl93b2prb3pVanVIcjhHdUNNaWlFSHVrNms4U3ctWHpET3JQLVV6YTE0M1JuSFhyeXRwMXBoUlh0QktfamdvZ1NpR29TX1dwMm1SdW1PRHZIRG9tc2hxUFlDRXNzcTh2Wk03S1EwWkpWcXNSMm95Vno5ckFyOGNXSnFLRW03elBKVWczZnR4Y05tWmdoeWhrRlgtN1dEa0k?oc=5",
    "published": "2026-06-30T07:00:00Z",
    "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",
@@ -40220,6 +40418,17 @@
    "first_seen": null
   },
   {
+   "id": "159d9649a96f18f2",
+   "company": "Johnson & Johnson (incl. Intra-Cellular)",
+   "title": "Lumateperone Tops MDD Adjunctive Therapy Analysis - AllSci",
+   "summary": "Lumateperone Tops MDD Adjunctive Therapy Analysis AllSci",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGQ4OUNNQ2ZHTEZoVmFyZzhEdkV2a3RqVmNKbElmRUxoeTBUbzd4ejRSckRGWnJFSVhhZTFGV0ViWlZyd0JoaDZjQnpmejBVWVh6cmZNSUFjUEpPeXFwbGFUc0tsTWhVbEs2WXRQREhUNnRpNDk2RmtDZ19Xd3FNZnBjekVSYW0yVEpBcEl1ZUhSWGxQQVBZX0dzX29DZXJKNE5BWXNZWnc2eV9EeC02RGJGRF9pSmlvcGkzbXNJZHIzX3d4b0hv?oc=5",
+   "published": "2026-05-05T07:00:00Z",
+   "outlet": "AllSci",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8e25004a50c70c31",
    "company": "Seaport Therapeutics",
    "title": "GlyphAllo, a Novel, Orally Bioavailable Prodrug of Allopregnanolone, Induces an EEG Profile Consistent with GABAA Positive Allosteric Modulation in Healthy Volunteers",
@@ -44884,6 +45093,17 @@
    "first_seen": null
   },
   {
+   "id": "e3a8509ea193620d",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Analysts tout market potential of Xenon’s epilepsy drug on Phase III win - Clinical Trials Arena",
+   "summary": "Analysts tout market potential of Xenon’s epilepsy drug on Phase III win Clinical Trials Arena",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3ZZQTFCWUxkSTBGNkF3d0ZST3JmMmZpbEd4Mkdkc3hjX1NyOGNsYk9PdnN5aDJoTDRDaG9EeDhMRFV4LUlhYXhzMTVpZ01KdVR5WkZUdWhTR21tSjN5MDhwUEpHLVA4UFJnWXczamo0aGJXMGpvanRCaVNYaTNWQ3I4VVpPa1NFZU5uRlVSZkNOZ3JadHRsakstanVaUVF4QlBuTzhXV2oxUQ?oc=5",
+   "published": "2026-03-09T07:00:00Z",
+   "outlet": "Clinical Trials Arena",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "181a522182b2b217",
    "company": "Xenon Pharmaceuticals",
    "title": "Xenon to Announce Topline Results from Phase 3 X-TOLE2 Study of Azetukalner in Focal Onset Seizures on Monday, March 9, 2026 - Xenon Pharmaceuticals Inc.",
@@ -45496,6 +45716,17 @@
    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOUEFfUDJZcHplbWNUZkxSenJHQjR1Y1NmbjVWcEQ1RlRRTkR4LUZpamstSDB6cXp4R2xyWXYzTW13enV3bXdoaDg5bHRkSHlueW5wbEZfSVRaSEZQeWVma25OMkdOTDVNeDhQQ0ZuVWhSbXdtbk8yd2ZXZ0V0eENVUTByMmkySDJNWWY0QWdMNXJwRnRhcmRaSEF0Zm5IUHA2S2tYcm9ZN1RQcGppbjBJUVZEN3ZUV1ozZWhuMWJTZkxnV0V3WEszcFE2ZTlEUk5DRjRBSkFlQ1RncGxPSGY1SGRYYWZKblI5NEJINWIyZWlkMTI2el9HNTFzYmJkTVN2ejRNSmIwQzZxbGpKbnh0aGVZTkc2amI4a1lqNm5hV3NuM0tRc3lqemQ3dm5MdnRidlk3Qw?oc=5",
    "published": "2026-02-25T08:00:00Z",
    "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5d0d746fb414f11c",
+   "company": "Alkermes",
+   "title": "Alkermes’ Richard Pops to step down after three-decade run as CEO - BioPharma Dive",
+   "summary": "Alkermes’ Richard Pops to step down after three-decade run as CEO BioPharma Dive",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0F0a05Ldmh0TlR0NzI5ZmtLUWlNYnlMc0h3RXRXYjlrczl5X1FESmdxMzdhMHBoZl81eTctZUNGU0JTVUtxbG1jZmJ0VkhPRDBUZmRvdlNwbUlwbTdCWklERlJVWW1qUzlUVjhoSzJFRWdndWl3cThyRVZrdDlCX1Z1TjRYT0hwVk5tblFrdHUyZFZmVXlZcQ?oc=5",
+   "published": "2026-02-25T08:00:00Z",
+   "outlet": "BioPharma Dive",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
