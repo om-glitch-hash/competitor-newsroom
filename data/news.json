@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:33:03Z",
+ "updated": "2026-11-27T04:47:19Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,28 @@
  },
  "items": [
   {
+   "id": "241fbc7e9e23cab1",
+   "company": "Alterity Therapeutics",
+   "title": "What Does the FDA Phase 3 Pathway Mean for Alterity Therapeutics (ASX:ATH)? - Kalkine",
+   "summary": "What Does the FDA Phase 3 Pathway Mean for Alterity Therapeutics (ASX:ATH)? Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWJ4M2R2YURSNGJXdUJWTjc1ZUx4OVFzMkZWQkxHLVBjVzNOYzNhOGdVUi1PNTI0cURtdFBiT3J1ZVlrMEhuanU3bnN1ZjdlVHlkREtCWlJBdHp2ZXpLYTdnNUpMbGxyU1VxZ091LWN6NFNLdkZvemNrM0wxVzRpbXNfZTlYbjNiY09EaGpsb0hPWnlBaTAzcHlSaEo3RTZkd1AzUTMxOVhXRE5SYVcwSlpvS1NQR1E?oc=5",
+   "published": "2026-11-27T04:23:00Z",
+   "outlet": "Kalkine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T04:47:19Z"
+  },
+  {
+   "id": "8b33f948ce4d7be7",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Discloses Director’s 500,000 Incentive Options - TipRanks",
+   "summary": "Alterity Therapeutics Discloses Director’s 500,000 Incentive Options TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHlIVlRSNzE4RnFiY2FuTHJZTm9EQmwzZVdhdkNWbjdWcW44M1U1UFljcnZqUFlWQUZJSTF1dU1yc1ZfdlZPXzEybUM5YURydG9aWElkSXFwbzR6cV9NNDIyMHRPTjNzSDVMWkp3a25WYTUxTVk1dlI5X1hlZHBxRUdQWW9Idmg4RkdBYW5KMnVPdy1waU5nbzhiN2l6WWUxUEZyeEQ0bWhHTXI4bnVQalJ1THJDY3QxekE?oc=5",
+   "published": "2026-11-27T03:36:11Z",
+   "outlet": "TipRanks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T04:47:19Z"
+  },
+  {
    "id": "6e70cfa1a96e4fc7",
    "company": "Alterity Therapeutics",
    "title": "Alterity Therapeutics Issues Incentive Options to Three Directors on 26 November 2026 - Kalkine",
@@ -1984,17 +2006,6 @@
    "first_seen": "2026-11-25T16:46:38Z"
   },
   {
-   "id": "339ed6c531e1bdf1",
-   "company": "Helus Pharma (ex-Cybin)",
-   "title": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qZHZCQk1PZ0hMdjgwc19PY1R2OV9MQnVjOUQxcy00TjRDTHg0OVJNakpIWHl0MzZjYkhNZmRRVG5XUzUtS1dLck9XV2JGeFNKbVE?oc=5",
-   "published": "2026-11-25T14:44:51Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
    "id": "96493517b751d15d",
    "company": "Vanda Pharmaceuticals",
    "title": "FDA Trade Secrets Issue Remains Open After Vanda Ruling - Legis1",
@@ -2197,7 +2208,7 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc. (HELP) Phase 3 APPROACH Topline Results for HLP003 in Major Depressive Disorder - Slideshow - Seeking Alpha",
    "summary": "Helus Pharma Inc. (HELP) Phase 3 APPROACH Topline Results for HLP003 in Major Depressive Disorder - Slideshow Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcm14RDdxRGZLTzlLSjVxODdWQ2NEaDhrVm9zSjBaZ1Z5VnV5UGRkWmR1dHVIT3phb1RGUVdtNG16QUNZRWsyVTgtZWZmaEYtZ0NRUjk1Mlc3dEdxamx6QVQ4blN5d0x5VmpmN05VWHBqT3BGZjZGZk45QmR3dHNGbWhOclZvQkh0V3c1UEpUdUdOWE1kQmswOVdkeVdUWFdEcDloQVhRSFRQRmp6dlJjNDJMSVRPR29mQ2NLci01d3FoWG1fYXJTaUthWTU3dGd2TXBNVVQxTDVKS29aRVBHRkFSUzkyQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazdIdGxNbU04YzEzZmJrZnYzVWpQY3NBQ010WU9HdDFiRnlCQzlaUW1GeUZfSDFLVjZuV2gyRlFDaE9oUDFWOE9DZGF1akxYaXM0SWVHWk1JaWJFSE9qMHdyaXhQOUJZUjZvcjlBcUNKVUxPWENYVWRvUG15dURjX3JKeFNMN0RzZUFqaU5nWXlmVVdaTXdpNWZ2SUZRcVJlb3FQZkxTWG51Zm5tXzJMTzIxWDQxZkYwbFgwTWpTUV9JNFRx?oc=5",
    "published": "2026-11-25T10:42:14Z",
    "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
@@ -2362,11 +2373,22 @@
    "company": "Eli Lilly",
    "title": "Associate VP – Medical Development – Interventional Psychiatry - Lilly Careers",
    "summary": "Associate VP – Medical Development – Interventional Psychiatry Lilly Careers",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVQzYmFhYVlzYm9QeUdJX3hvUHZGdDJ4aVoyWFd6UE82ZDdtNTNHSzlsWERramc3M2FBb19SUEdhV1Iyb3k2TWpwX2IwS2lWRDFqSmUxbUhOWUpmR3RleTB3Tjg0QUo1eFFlVXZ0cEVTRVNFVFl4cm1raUJLeVl3eWhMV19uOF9OeVo4NWhyTDE5YTc5SXpjaEMzMnl3ek92VS1LTWp3?oc=5",
-   "published": "2026-11-25T03:40:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdExoMjVMVzhNb2hDb3JXblNXaE5qbzZFdTlMRUduRi01TWhHWmxJRldaQVpyOHp5cGF4T3piZ3FiRTZSX2VyaTJGUmEyQXpBSU91YjIyU3U5RTBJM3lxQVBNb1hMdWIyWFNDX2NkSFc3ZUVIaHg3SXl5clZ1YnIzcVpKT1BvTE11SmZQbEhwQlhmVThSQ2FEUU5EWndfNG1sT296bjRycFRBbkU?oc=5",
+   "published": "2026-11-25T02:40:22Z",
    "outlet": "Lilly Careers",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-25T04:23:02Z"
+  },
+  {
+   "id": "339ed6c531e1bdf1",
+   "company": "Helus Pharma (ex-Cybin)",
+   "title": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Helus Pharma Inc (HELP) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qZHZCQk1PZ0hMdjgwc19PY1R2OV9MQnVjOUQxcy00TjRDTHg0OVJNakpIWHl0MzZjYkhNZmRRVG5XUzUtS1dLck9XV2JGeFNKbVE?oc=5",
+   "published": "2026-11-25T00:37:02Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T01:26:11Z"
   },
   {
    "id": "f2b29d94c29cdbcf",
@@ -2483,8 +2505,8 @@
    "company": "BioVie",
    "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 - Quantisnow",
    "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEF0QnBuc3RrRUtRaUhEcGVmbExKTlBNT1RnZUlHejdKbW84a3E0VERuQTRMcUtvb1FXQXYzQjlHWENUWEZONzZQV2VTNWlEcEo3MUNFb0lfTmxWekszMXhLMkFHT3FMb2E5Qm9rdkRqeVhOeWl5NzdNRGZOMC1qRkNrenpYc3F2QXIxcHZqR1pwajF1ZHZTeTdTaw?oc=5",
-   "published": "2026-11-24T21:30:49Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW0tSy14WnZhZ2kwZE9LRXZvY0pfNFBkeWhlZWRrZzhROVJDYms2WkJxeVdxOE9FNlBvVFM4M0JEZXZzV2JReG9XTnNVOFpMTE1KZWFVcFI2WmFfektONmFkQVB3WDJvRjVVbHk3TjNGcDNjVldhbXdfLWxQNWYzdEloNXZQNm1zNk1iSWRfMVVuVWFkMnc?oc=5",
+   "published": "2026-11-24T21:31:24Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T21:39:02Z"
@@ -7319,17 +7341,6 @@
    "first_seen": "2026-11-19T17:11:01Z"
   },
   {
-   "id": "7f760978c8c41a38",
-   "company": "Neumora Therapeutics",
-   "title": "Neumora Therapeutics, Inc. Stock 12‑Month Price Target Cut to $6.33, Implies 1377% Upside - TradingView",
-   "summary": "Neumora Therapeutics, Inc. Stock 12‑Month Price Target Cut to $6.33, Implies 1377% Upside TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYXFoTWZSVkRqaWQ1SEF2OEJBUXRiZzRnUnZyREJvQjZLNGRjdklIM1U5Rnh6OFk3MWVPVnF5TmtBb0RjQVV0THVYLXk0RGhGbWd3ZnFmOUxDMUZhdXhDOWdWT0tLQnFjYVVNRS12RENCQXQ2bWE0SVR0dld0RG1heEJ1NmQ1UjhFbWZVR196dl9xdDNNWW5IeFZzZG96NHAxY1JvMDdFc1AzWW1WLVNVZ0FqU2dUVnV4Nk1RVnRUTDl5VHBqLV93dlZ5TXFxaDZjcEtXTzVSR1NJdkVobmZr?oc=5",
-   "published": "2026-11-16T22:20:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "f02b72d55d3990ec",
    "company": "Neumora Therapeutics",
    "title": "Neumora Therapeutics, Inc. (NMRA) Tops Q3 EPS by 9c - StreetInsider",
@@ -7429,6 +7440,17 @@
    "first_seen": null
   },
   {
+   "id": "b1cd14a74fa1814d",
+   "company": "Teva",
+   "title": "FDA Approval for IGALMI issued to TEVA - Quantisnow",
+   "summary": "FDA Approval for IGALMI issued to TEVA Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2xwZXptV2I2X3l1cmlQQ19wb252NVhPdXBKSTBsU29CSW5DMzRaZHBvSmRvMk11TzlENDM5b3AwcWxhTmZkZ3dnWUZxTUxWWVp5UWxLRjE3ZzJLdlRxWWE0V2JxTzc2VkdOcXg2aFFERlRpelpiRnV4dy1nc2tnLVd6d3BfLWd1?oc=5",
+   "published": "2026-11-16T20:06:54Z",
+   "outlet": "Quantisnow",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "750e9b9c2790a4ad",
    "company": "Incannex Healthcare",
    "title": "Can Incannex Healthcare (NASDAQ:IXHL) Keep Moving Forward? - Kalkine Media",
@@ -7447,6 +7469,17 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSmh4X0FORFJmMmtCRVg0ejhQZTBXQUFPU215QnlaUU9EQnFfTHRZaDdMRWRadFUwOHRUNVdIQWZ4NndheWlOMV9HMW5kcWl0ajRZaGJRbmJyT3AyNUpITGY1WXNKX3AtektDMUxEWTdySHlpeFVMc2oyN1dxdUxIQkxPdTVZZVJZSWRnem1Ec0FFOWJLSEtLVUk4dDlQaWYxa1cxY24zWk0wSy1ZYnhiVFZENFRtVUlfQms5dExBUGNfcE9kTDdtUnRCTlowQ1VM?oc=5",
    "published": "2026-11-16T18:13:32Z",
    "outlet": "GuruFocus",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
+   "id": "565ab57675177769",
+   "company": "Teva",
+   "title": "FDA Clears Teva's Newly Acquired At-Home Agitation Treatment in Schizophrenia and Bipolar Disorder - Benzinga",
+   "summary": "FDA Clears Teva's Newly Acquired At-Home Agitation Treatment in Schizophrenia and Bipolar Disorder Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1lQRDlHTzIybEZQa25VVThNMnpWTUJFS09LSW02a3lGeFdBSGlyb040TFJTVk5qVjEtQkpGdmdFMDZNV3k1eEJVcG9Jb0c0T3BTNWJla05wN0F5REMteHlQeUd1aXNoMnp1YjkwOEpLWHMxcEREdHVycTlOcE5rTjZONnhPVk4wWmpNdy1qckhfVXp4NXVDczU0bGdIMHJFSjllcThvYUZJbk8yODRXczNJSko5RG9sZXNpdkFILVdJZ0ZIajl1Tkk5cDJROWhFb1pXSnVXTXdnSldTRkgw?oc=5",
+   "published": "2026-11-16T18:11:19Z",
+   "outlet": "Benzinga",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-19T17:31:37Z"
   },
@@ -8397,6 +8430,17 @@
    "first_seen": null
   },
   {
+   "id": "7f760978c8c41a38",
+   "company": "Neumora Therapeutics",
+   "title": "Neumora Therapeutics, Inc. Stock 12‑Month Price Target Cut to $6.33, Implies 1377% Upside - TradingView",
+   "summary": "Neumora Therapeutics, Inc. Stock 12‑Month Price Target Cut to $6.33, Implies 1377% Upside TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYXFoTWZSVkRqaWQ1SEF2OEJBUXRiZzRnUnZyREJvQjZLNGRjdklIM1U5Rnh6OFk3MWVPVnF5TmtBb0RjQVV0THVYLXk0RGhGbWd3ZnFmOUxDMUZhdXhDOWdWT0tLQnFjYVVNRS12RENCQXQ2bWE0SVR0dld0RG1heEJ1NmQ1UjhFbWZVR196dl9xdDNNWW5IeFZzZG96NHAxY1JvMDdFc1AzWW1WLVNVZ0FqU2dUVnV4Nk1RVnRUTDl5VHBqLV93dlZ5TXFxaDZjcEtXTzVSR1NJdkVobmZr?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4b9d32c409a859b5",
    "company": "Neurocrine Biosciences",
    "title": "Should You Buy Neurocrine Biosciences Stock For Its Cash? - Trefis",
@@ -8406,28 +8450,6 @@
    "outlet": "Trefis",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "b1cd14a74fa1814d",
-   "company": "Teva",
-   "title": "FDA Approval for IGALMI issued to TEVA - Quantisnow",
-   "summary": "FDA Approval for IGALMI issued to TEVA Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2xwZXptV2I2X3l1cmlQQ19wb252NVhPdXBKSTBsU29CSW5DMzRaZHBvSmRvMk11TzlENDM5b3AwcWxhTmZkZ3dnWUZxTUxWWVp5UWxLRjE3ZzJLdlRxWWE0V2JxTzc2VkdOcXg2aFFERlRpelpiRnV4dy1nc2tnLVd6d3BfLWd1?oc=5",
-   "published": "2026-11-16T08:00:00Z",
-   "outlet": "Quantisnow",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "565ab57675177769",
-   "company": "Teva",
-   "title": "FDA Clears Teva's Newly Acquired At-Home Agitation Treatment in Schizophrenia and Bipolar Disorder - Benzinga",
-   "summary": "FDA Clears Teva's Newly Acquired At-Home Agitation Treatment in Schizophrenia and Bipolar Disorder Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1lQRDlHTzIybEZQa25VVThNMnpWTUJFS09LSW02a3lGeFdBSGlyb040TFJTVk5qVjEtQkpGdmdFMDZNV3k1eEJVcG9Jb0c0T3BTNWJla05wN0F5REMteHlQeUd1aXNoMnp1YjkwOEpLWHMxcEREdHVycTlOcE5rTjZONnhPVk4wWmpNdy1qckhfVXp4NXVDczU0bGdIMHJFSjllcThvYUZJbk8yODRXczNJSko5RG9sZXNpdkFILVdJZ0ZIajl1Tkk5cDJROWhFb1pXSnVXTXdnSldTRkgw?oc=5",
-   "published": "2026-11-16T08:00:00Z",
-   "outlet": "Benzinga",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-19T17:31:37Z"
   },
   {
    "id": "26c2f75da283812f",
@@ -17369,6 +17391,17 @@
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWTVGMUpzQWJXcGlaTC13OUtPdWN0Y2lSZnVRTElTaEt5RkQycjVfYWVKNEtsMXJocFBSbEMyWlg0VEg0cnNVeldlbXhXYmFUQzgwVDVxTENneFBYdFBvME81aG5VbE5Mc2FiYkZ1Qm5HOXdsaVFKekFfV2JiUTR3ZWZWRzNtcUJLUlRLOWc1bVJGOElWSXV4RTBVZTVtN2FZUlJyQ0tTYllFSlhkbVFFZkUydjcwSUpkenY5UjNoN25MQXhqYWdoMkNiT2tJWEVGYjViYWdobVBtQ085YnpXOVJBZzVibHFaNGhRRzA2RDR2ZkRIeHFN?oc=5",
    "published": "2026-10-20T07:00:00Z",
    "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "ac85399f8ce881cb",
+   "company": "Rapport Therapeutics",
+   "title": "Guggenheim raises Rapport Therapeutics price target to $70 on trial data - Investing.com",
+   "summary": "Guggenheim raises Rapport Therapeutics price target to $70 on trial data Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmxsQzFYNFFjN29UUDgxQjROSFpheFpUaVgyZ1Jzd2syS0NWTFVxNmw0OENJRHRYYTZVWnJvS1ROYTZTRndsRFAzX3VFYlpYdHZfdUJjYVY0LU16cVI4MjMyZG81dTdfdnptN1I2dzhhWjhMdzE0Um1qZFZqTW5zQmlSYkdLS1M0SzVDdnNNb1M0bHJSV2lsS05vaDBENWlGMlQtT2YycGpCYlpRbWNLWmRpRlhScnBqRzdUODF5Tll2cS1aQ2NzeWk2aw?oc=5",
+   "published": "2026-10-20T07:00:00Z",
+   "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -29781,17 +29814,6 @@
    "first_seen": null
   },
   {
-   "id": "24842ab76f03bac2",
-   "company": "Roche",
-   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
-   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14Q2ZDMlZTay1MRzA4MlZRMEtwU2hTbk5Bbk9oZ3ltaEVlZGREMnE2NTJ4akFiY0hZS2tTWmN3TVdjX3FMMks2MzdsM2t0aFpzU3VBS2ZvQjhRNm1WTHBoMGJLN2tNazJhWEI1SjlR?oc=5",
-   "published": "2026-07-23T09:38:46Z",
-   "outlet": "Roche",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "cbddd078a7b989f3",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences Announces Key Leadership Hiring, Promotions - neurocrine.gcs-web.com",
@@ -30474,6 +30496,17 @@
    "first_seen": null
   },
   {
+   "id": "ff210f67bf52f562",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
+   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
+   "published": "2026-07-17T07:00:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "53df4fa4ea65cb6d",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics CEO Gene Mack Issues Letter to Shareholders and Provides Operational Update - Gain Therapeutics",
@@ -30493,17 +30526,6 @@
    "published": "2026-07-16T12:32:59Z",
    "outlet": "Newronika",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "ff210f67bf52f562",
-   "company": "AtaiBeckley (Atai Beckley)",
-   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
-   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
-   "published": "2026-07-16T07:00:00Z",
-   "outlet": "WSJ",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -35446,6 +35468,17 @@
    "first_seen": null
   },
   {
+   "id": "da030342c6452b1a",
+   "company": "Rapport Therapeutics",
+   "title": "RAPP - Rapport Therapeutics Inc Stock Price and Quote - Finviz",
+   "summary": "RAPP - Rapport Therapeutics Inc Stock Price and Quote Finviz",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FcFlQU0JzVHZ0VUxuQ1ZWVm1ETmRzd0NKQVVuUHVJZ1Q1a1djTC1ZTUtpaFZjeWdaSUE5b0E0Sm9PdXVoT3c?oc=5",
+   "published": "2026-05-27T02:10:24Z",
+   "outlet": "Finviz",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "e8e90a47199b1a25",
    "company": "Autobahn Therapeutics",
    "title": "Autobahn Therapeutics to Participate in Multiple Upcoming Investor Conferences",
@@ -38644,6 +38677,17 @@
    "published": "2026-04-26T07:00:00Z",
    "outlet": "finance.biggo.com",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "7508b5f32e0b7274",
+   "company": "MapLight Therapeutics",
+   "title": "We're Hopeful That MapLight Therapeutics (NASDAQ:MPLT) Will Use Its Cash Wisely - Yahoo Finance",
+   "summary": "We're Hopeful That MapLight Therapeutics (NASDAQ:MPLT) Will Use Its Cash Wisely Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ241Q2J5bFNLQ25tTENtY05RSG9hcUlqREs1cHhzYkUtTVhkYlNEOUQwTWlIb2NES0F6d3VvTkNkLWFYdW5pZnBZcjF1ZkxhbXlLdERYOFRPZnhBN1hXZkEyS1VObDBQYW44YUU4U2Jzd3A2dWZ5MzRtdUNJODFCMG53TFJyT0RvckswVEpvemI2cFNZQ0ZaZnFPUko2ZE5YV0thY3ZrNFViQQ?oc=5",
+   "published": "2026-04-26T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -43938,6 +43982,17 @@
    "first_seen": null
   },
   {
+   "id": "effb256aa7412b5d",
+   "company": "AC Immune",
+   "title": "AC IMMUNE SA (ACIU) Stock Price: Nov 25 Close $2.32 - Gotrade",
+   "summary": "AC IMMUNE SA (ACIU) Stock Price: Nov 25 Close $2.32 Gotrade",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uSmpFN1p5M294SXduSkhKbzZ5VnpqWThxbkdhWWNHT1dPNVpfZE9DcWotVlh2dVBpVDdDNW83OXJxQ0hsdlRxVTFtaGNDUWRSa1FIbE1paw?oc=5",
+   "published": "2026-02-03T18:17:06Z",
+   "outlet": "Gotrade",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "b7920199eacb7c9d",
    "company": "Novartis",
    "title": "James Lau Elevated to Executive Director, Global Scientific Communications (Neuroscience & In-Market Brands) at Novartis - hrtoday.in",
@@ -44111,6 +44166,17 @@
    "published": "2026-01-30T08:00:00Z",
    "outlet": "MedWatch",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "24842ab76f03bac2",
+   "company": "Roche",
+   "title": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm - Roche",
+   "summary": "Roche Group development pipeline Marketed products development programmes Roche Pharma global development programmes Roche Pharm Roche",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SEl0WWpXbEdtbnZ5R2JpVnBXNHNqOVFnaVA1ajNNWGZjaWNnZ04xcFRReFc1WUhrOFhCbWQ3RHU0YWFGcEwzak5Zd2xsUnUzQ19qZTliT1o0OEQyRWJGSUtvZnF3N0M3RzdoTWJn?oc=5",
+   "published": "2026-01-29T10:15:29Z",
+   "outlet": "Roche",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
