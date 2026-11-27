@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:57:55Z",
+ "updated": "2026-11-27T07:09:57Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "56f05dd395c39d7e",
+   "company": "Newron Pharmaceuticals",
+   "title": "Newron reports amendment of terms of up to EUR 38 million financing agreement to support advancement of Phase 3 evenamide program - TradingView",
+   "summary": "Newron reports amendment of terms of up to EUR 38 million financing agreement to support advancement of Phase 3 evenamide program TradingView",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOb1c2bWVsWFdzY2tIY0VnYzZxRFpLR0dBcFhpOS1MenVqVWZ1S0lqbFZQWTNVWXptM3FXSTIyNXlJazVBbFRnY0dQdXdYVXRubWJNaHJrQ0Z4QnU3LVBRR1A3bkMwWXpMMTlBM21lYl80YmhpbmdOaHN1cXdYTE9GbVI4SVRqeFZzeVo2QlNoN1dkRlNKNTFWV3IzRWtqdmZrejNjNlBEMzl4LU1KRU8tVGR2ZGhhamtiYnVpa3ZFdmY5Vlc1UGZ4c1I4MWxkaHVMd29udHpxempwQnpfeWwzYkdSak4zRlVvdW95Rk8wNWxjSHpwSXQyR2sxalRESWhYQU5kVU9YUU5tS29zWUlhRA?oc=5",
+   "published": "2026-11-27T06:00:00Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-27T07:09:57Z"
+  },
+  {
    "id": "241fbc7e9e23cab1",
    "company": "Alterity Therapeutics",
    "title": "What Does the FDA Phase 3 Pathway Mean for Alterity Therapeutics (ASX:ATH)? - Kalkine",
@@ -1735,7 +1746,7 @@
    "company": "Neurocrine Biosciences",
    "title": "Why Neurocrine Biosciences (NBIX) Is Getting Attention Today - Simply Wall St",
    "summary": "Why Neurocrine Biosciences (NBIX) Is Getting Attention Today Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY0hBdnJTQndPc0cwYWZjNUQ4LTBkdjliREtkZkI5VDBGRzhULWJDd0dEdTJ1U0VfUDB6YVRWVEZocFZiMlhYZDhiLU9mSG5TMjNMODRZWGFlY2NiMjVYY0c5d0dBT2Zfal9GOTdTaWVHYThfLVdoZFlqbGtUd2w2UGp5Q3hPYWU4ZGJiZ2s4MGItSFF5SlNvQ29uLVotMTRqSG1yYzBLRVB6R21WTURJaU1BbGVzU2t4UmZWMEY4RWZpSXVWLTV4YUQxMVRZc2VNSXNGYk9vYzFsNGpPQ3FPNGxDV25kQ0tNM2VSSWgyb9IB7wFBVV95cUxPY0hBdnJTQndPc0cwYWZjNUQ4LTBkdjliREtkZkI5VDBGRzhULWJDd0dEdTJ1U0VfUDB6YVRWVEZocFZiMlhYZDhiLU9mSG5TMjNMODRZWGFlY2NiMjVYY0c5d0dBT2Zfal9GOTdTaWVHYThfLVdoZFlqbGtUd2w2UGp5Q3hPYWU4ZGJiZ2s4MGItSFF5SlNvQ29uLVotMTRqSG1yYzBLRVB6R21WTURJaU1BbGVzU2t4UmZWMEY4RWZpSXVWLTV4YUQxMVRZc2VNSXNGYk9vYzFsNGpPQ3FPNGxDV25kQ0tNM2VSSWgybw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdUFObVBfelM0MnotVF91azU0R1pEU1JocW52WXhRZlBISGRCZkJFSXM0MDhLMHFEODY5OGhsTi0tay1LNkdqNHNoMHBqNjhLR09iV1BZVjcya0dJMGl2dUQwc1g4dWRiQk5DTXB1TG5kZlJ0YTBRT0dtTzhucjZLXzRMd3J0WGFqR09yWlpsQ0FZNkdIazM1bFBPNms4MTVUc1RrOU9nNEZGNXk2UFh1OFE3aTJCS2tBTmhKRzlHTHZmSkJpVjJkQms5anRrME1HTVZfRmpFTldfSzJUS09tejloSWFFZm1uaFHSAe8BQVVfeXFMT2NIQXZyU0J3T3NHMGFmYzVEOC0wZHY5YkRLZGZCOVQwRkc4VC1iQ3dHRHUydVNFX1AwemFUVlRGaHBWYjJYWGQ4Yi1PZkhuUzIzTDg0WVhhZWNjYjI1WGNHOXdHQU9mX2pfRjk3U2llR2E4Xy1XaGRZamxrVHdsNlBqeUN4T2FlOGRiYmdrODBiLUhReUpTb0Nvbi1aLTE0akhtcmMwS0VQekdtVk1ESWlNQWxlc1NreFJmVjBGOEVmaUl1Vi01eGFEMTFUWXNlTUlzRmJPb2MxbDRqT0NxTzRsQ1duZENLTTNlUkloMm8?oc=5",
    "published": "2026-11-26T13:12:03Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -1949,6 +1960,17 @@
    "outlet": "Stock Traders Daily",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T04:59:29Z"
+  },
+  {
+   "id": "7e93531c4e5d525a",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dnelM2M2Z3elREd21YLW94MzBRVDVxdnduVWx5SDYyUUFYam04S0FBSTFTbzNGbTlWNHJpd0JmYy1pWjJ4SnpNaHZaVXJkSGdYWUJuTFRJNnhPa3ZVcGpiSXhZN1dSS3pGTnZqM01rVTdrQ081LXNYZHgtRVZWUlBGRjJHdjlCc1NUVEVLOA?oc=5",
+   "published": "2026-11-25T22:43:23Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "c890dcbbf594177f",
@@ -2197,7 +2219,7 @@
    "company": "Helus Pharma (ex-Cybin)",
    "title": "Helus Pharma Inc. (HELP) Phase 3 APPROACH Topline Results for HLP003 in Major Depressive Disorder - Slideshow - Seeking Alpha",
    "summary": "Helus Pharma Inc. (HELP) Phase 3 APPROACH Topline Results for HLP003 in Major Depressive Disorder - Slideshow Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcm14RDdxRGZLTzlLSjVxODdWQ2NEaDhrVm9zSjBaZ1Z5VnV5UGRkWmR1dHVIT3phb1RGUVdtNG16QUNZRWsyVTgtZWZmaEYtZ0NRUjk1Mlc3dEdxamx6QVQ4blN5d0x5VmpmN05VWHBqT3BGZjZGZk45QmR3dHNGbWhOclZvQkh0V3c1UEpUdUdOWE1kQmswOVdkeVdUWFdEcDloQVhRSFRQRmp6dlJjNDJMSVRPR29mQ2NLci01d3FoWG1fYXJTaUthWTU3dGd2TXBNVVQxTDVKS29aRVBHRkFSUzkyQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazdIdGxNbU04YzEzZmJrZnYzVWpQY3NBQ010WU9HdDFiRnlCQzlaUW1GeUZfSDFLVjZuV2gyRlFDaE9oUDFWOE9DZGF1akxYaXM0SWVHWk1JaWJFSE9qMHdyaXhQOUJZUjZvcjlBcUNKVUxPWENYVWRvUG15dURjX3JKeFNMN0RzZUFqaU5nWXlmVVdaTXdpNWZ2SUZRcVJlb3FQZkxTWG51Zm5tXzJMTzIxWDQxZkYwbFgwTWpTUV9JNFRx?oc=5",
    "published": "2026-11-25T10:42:14Z",
    "outlet": "Seeking Alpha",
    "method": "news search (newsroom not indexed)",
@@ -2323,6 +2345,17 @@
    "outlet": "www.marketscreener.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T05:59:28Z"
+  },
+  {
+   "id": "ca3e33074f65c11c",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
+   "published": "2026-11-25T05:27:07Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T15:29:13Z"
   },
   {
    "id": "7106268b0feaf0d6",
@@ -2494,8 +2527,8 @@
    "company": "BioVie",
    "title": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 - Quantisnow",
    "summary": "BioVie (BIVI) CEO Do bought 2,500 shares for $2,299 at $0.92 Quantisnow",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW0tSy14WnZhZ2kwZE9LRXZvY0pfNFBkeWhlZWRrZzhROVJDYms2WkJxeVdxOE9FNlBvVFM4M0JEZXZzV2JReG9XTnNVOFpMTE1KZWFVcFI2WmFfektONmFkQVB3WDJvRjVVbHk3TjNGcDNjVldhbXdfLWxQNWYzdEloNXZQNm1zNk1iSWRfMVVuVWFkMnc?oc=5",
-   "published": "2026-11-24T21:31:24Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEF0QnBuc3RrRUtRaUhEcGVmbExKTlBNT1RnZUlHejdKbW84a3E0VERuQTRMcUtvb1FXQXYzQjlHWENUWEZONzZQV2VTNWlEcEo3MUNFb0lfTmxWekszMXhLMkFHT3FMb2E5Qm9rdkRqeVhOeWl5NzdNRGZOMC1qRkNrenpYc3F2QXIxcHZqR1pwajF1ZHZTeTdTaw?oc=5",
+   "published": "2026-11-24T21:30:49Z",
    "outlet": "Quantisnow",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-24T21:39:02Z"
@@ -2631,17 +2664,6 @@
    "outlet": "TG Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": "2026-11-25T23:22:00Z"
-  },
-  {
-   "id": "ca3e33074f65c11c",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo Finance",
-   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYkdaXzE3VnFhTU1yWGQ2UmtlMjNGWTg2c3UxTHl2ZFUya3FEYVllMU9WZXEzT1k1b0R2SXJVQUVrcElLWkhuOGNGWGwydw?oc=5",
-   "published": "2026-11-24T16:57:14Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T15:29:13Z"
   },
   {
    "id": "8309a57125095ec4",
@@ -2950,6 +2972,39 @@
    "outlet": "MarketBeat",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-26T23:50:16Z"
+  },
+  {
+   "id": "9fbc78eed84909c1",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
+   "summary": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ0lNbXpmZ0Z1VFF6WktkLTRKOGZUMk5QOW12bjM1LXd0NXdyT2xscXBzVlktbnJRLTFvYWJ0a3VLSG5FWHU2Tw?oc=5",
+   "published": "2026-11-24T08:00:00Z",
+   "outlet": "StockInvest.us",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "87d81ed8b82a9d1e",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Stock Price Forecast. Should You Buy ATHE? - StockInvest.us",
+   "summary": "Alterity Therapeutics Stock Price Forecast. Should You Buy ATHE? StockInvest.us",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nSmIteC1SbGxTdnhsUE1nMzNpUExVVnNOMFJ0OHJVa29URThLR0gxU2pTSVY3bTlhQ2l2N1J0SS1uRmIzVnlyTw?oc=5",
+   "published": "2026-11-24T08:00:00Z",
+   "outlet": "StockInvest.us",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "00bc70220e592817",
+   "company": "LB Pharmaceuticals",
+   "title": "LB Pharmaceuticals (Nasdaq:LBRX) - Stock Analysis - Simply Wall St",
+   "summary": "LB Pharmaceuticals (Nasdaq:LBRX) - Stock Analysis Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0lBdDdGaGV2LTg0TEdQdFFYX1Y2OU5hanBkXzUtVFdZXzBDZzh6X24wWnZVaUp1ekVabUV0ZWlSVURERmRlX0EzVVdmNlA5YlhqOXdjOEJWS2tpdVJ5Qm43RDZYU3JRMWNOQzdMNUMtc1hrWEx4SXpxa2NNbjFhZzJObFFWR0R3MDUxdEFqUQ?oc=5",
+   "published": "2026-11-24T08:00:00Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "a0b0a8544c450aa6",
@@ -3810,17 +3865,6 @@
    "first_seen": "2026-11-22T05:27:34Z"
   },
   {
-   "id": "9fbc78eed84909c1",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? - StockInvest.us",
-   "summary": "Minerva Neurosciences Stock Price Forecast. Should You Buy NERV? StockInvest.us",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ0lNbXpmZ0Z1VFF6WktkLTRKOGZUMk5QOW12bjM1LXd0NXdyT2xscXBzVlktbnJRLTFvYWJ0a3VLSG5FWHU2Tw?oc=5",
-   "published": "2026-11-20T22:28:26Z",
-   "outlet": "StockInvest.us",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "25c183771d56b92c",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics Stock Price Forecast. Should You Buy GANX? - StockInvest.us",
@@ -4292,6 +4336,17 @@
    "outlet": "Investing.com India",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T22:34:15Z"
+  },
+  {
+   "id": "fd9c40702e2792a4",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals settles patent litigation with MSN over HETLIOZ LQ generic - Investing.com India",
+   "summary": "Vanda Pharmaceuticals settles patent litigation with MSN over HETLIOZ LQ generic Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUctSHUyaElYVVpRcU1PNXdqSzdCSVhVbUh5eHVSRWRCSEtBd1JHNXA0a3Z4a0RmQW1NbjMtUldvbXpTTkxwbUF3T0dRbTRfb1BIRUJ6eks4b1E3eEZMVXV5SUZPNUpQX1dCQlVzR2hRWG4yQnlXQ3pnbDdUWVZROWN4YS1mUXlpMVhJM0l3MmVLTHIzeTlmTGk0ejBudVdXQl9CU1dQZ1Rhb0lxZjZyTTRONlpCcFB5blhyc05FczJXekJzYzdYaDM1V2NYejF1RHdnYTQ2Vk8?oc=5",
+   "published": "2026-11-20T12:32:56Z",
+   "outlet": "Investing.com India",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "07e34cf179772016",
@@ -5403,17 +5458,6 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T11:58:34Z"
-  },
-  {
-   "id": "87d81ed8b82a9d1e",
-   "company": "Alterity Therapeutics",
-   "title": "Alterity Therapeutics Stock Price Forecast. Should You Buy ATHE? - StockInvest.us",
-   "summary": "Alterity Therapeutics Stock Price Forecast. Should You Buy ATHE? StockInvest.us",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nSmIteC1SbGxTdnhsUE1nMzNpUExVVnNOMFJ0OHJVa29URThLR0gxU2pTSVY3bTlhQ2l2N1J0SS1uRmIzVnlyTw?oc=5",
-   "published": "2026-11-19T08:00:00Z",
-   "outlet": "StockInvest.us",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
   },
   {
    "id": "7cdda706901895b4",
@@ -7154,17 +7198,6 @@
    "first_seen": null
   },
   {
-   "id": "00bc70220e592817",
-   "company": "LB Pharmaceuticals",
-   "title": "LB Pharmaceuticals (Nasdaq:LBRX) - Stock Analysis - Simply Wall St",
-   "summary": "LB Pharmaceuticals (Nasdaq:LBRX) - Stock Analysis Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0lBdDdGaGV2LTg0TEdQdFFYX1Y2OU5hanBkXzUtVFdZXzBDZzh6X24wWnZVaUp1ekVabUV0ZWlSVURERmRlX0EzVVdmNlA5YlhqOXdjOEJWS2tpdVJ5Qm43RDZYU3JRMWNOQzdMNUMtc1hrWEx4SXpxa2NNbjFhZzJObFFWR0R3MDUxdEFqUQ?oc=5",
-   "published": "2026-11-17T08:00:00Z",
-   "outlet": "Simply Wall St",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "84fd70f8a18ba1e8",
    "company": "Neumora Therapeutics",
    "title": "Mizuho reiterates Outperform on Neumora stock, $3 target maintained By Investing.com - Investing.com Canada",
@@ -7515,17 +7548,6 @@
    "outlet": "Investing.com Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "f78b8c4400890b45",
-   "company": "Teva",
-   "title": "US FDA approves Teva’s Igalmi for at-home use - The Pharma Letter",
-   "summary": "US FDA approves Teva’s Igalmi for at-home use The Pharma Letter",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNczFRR0dXMEJFNVh3a3BXRmhwa0otWFpfaE1Ga1VDazRoam8zeG9RbHA5LUxTN2puODY0RDUzZkRwSl9WTGhlbzc4aktlNGh3NHJpaV9IZVpKbi0xSzZTYUswUUNzQXByVTMtSU5LZTRhWUhyZjNRNklHNUl0LXdXeExmU1ZVWWFHMjh3Qk1DRHdJUQ?oc=5",
-   "published": "2026-11-16T17:45:07Z",
-   "outlet": "The Pharma Letter",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-19T17:31:37Z"
   },
   {
    "id": "bd6f5a3ec5149fa7",
@@ -8406,6 +8428,17 @@
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
+  },
+  {
+   "id": "f78b8c4400890b45",
+   "company": "Teva",
+   "title": "US FDA approves Teva’s Igalmi for at-home use - The Pharma Letter",
+   "summary": "US FDA approves Teva’s Igalmi for at-home use The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNczFRR0dXMEJFNVh3a3BXRmhwa0otWFpfaE1Ga1VDazRoam8zeG9RbHA5LUxTN2puODY0RDUzZkRwSl9WTGhlbzc4aktlNGh3NHJpaV9IZVpKbi0xSzZTYUswUUNzQXByVTMtSU5LZTRhWUhyZjNRNklHNUl0LXdXeExmU1ZVWWFHMjh3Qk1DRHdJUQ?oc=5",
+   "published": "2026-11-16T08:00:00Z",
+   "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
   },
   {
    "id": "32b01a8e1d8f926b",
@@ -9640,6 +9673,17 @@
    "first_seen": null
   },
   {
+   "id": "2b102621f3e1102d",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates - GlobeNewswire",
+   "summary": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeml3a0kxSWUtWV9YYzY5Y1Z6aDNhM1ozYWYwZ01BVkwza015UWgydWVzUnJ3cGtFNTNQZDBlYmxJQklfN0FvNDlDdXJacC1EMVQ5YUl2UkhPRGNKWFA4aXdzQnowVE9Tei14MkNxVHlOdUpTR0RWMUpKeUlmVUF1OGQ4SzgyX0xIS2dlaHNieEM2bUlBSWtMNEoyZ0FLdVdEVl9RMVpadnpGbFJCd0I1RzkyZmdsWUMwalE0b3YxMU9zaDdWNFc1RXRERC1QYzdHZU5PVmVWSHVvdmh3V2E4V2JQVlEtMmdqbDRHZkx0QnE1eDNPbGNHUnNR?oc=5",
+   "published": "2026-11-12T21:20:00Z",
+   "outlet": "GlobeNewswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "11492d0e4fef6186",
    "company": "Serina Therapeutics",
    "title": "Serina Therapeutics, Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
@@ -9845,17 +9889,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "2b102621f3e1102d",
-   "company": "Serina Therapeutics",
-   "title": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates - GlobeNewswire",
-   "summary": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeml3a0kxSWUtWV9YYzY5Y1Z6aDNhM1ozYWYwZ01BVkwza015UWgydWVzUnJ3cGtFNTNQZDBlYmxJQklfN0FvNDlDdXJacC1EMVQ5YUl2UkhPRGNKWFA4aXdzQnowVE9Tei14MkNxVHlOdUpTR0RWMUpKeUlmVUF1OGQ4SzgyX0xIS2dlaHNieEM2bUlBSWtMNEoyZ0FLdVdEVl9RMVpadnpGbFJCd0I1RzkyZmdsWUMwalE0b3YxMU9zaDdWNFc1RXRERC1QYzdHZU5PVmVWSHVvdmh3V2E4V2JQVlEtMmdqbDRHZkx0QnE1eDNPbGNHUnNR?oc=5",
-   "published": "2026-11-12T08:00:00Z",
-   "outlet": "GlobeNewswire",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -10175,17 +10208,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwcDF3Q0d3TTM4WWFxbWtvRTNFMWhwYnZZcWs1bWl0SFNEbktUY2xyVnVnRjkwNmNwbml2MzRrNW5QOFoxbFRwQWFRQk81eUpEVFZaYkZxSGJRY1h6TU5sY09n?oc=5",
    "published": "2026-11-11T21:00:00Z",
    "outlet": "Yahoo Finance Singapore",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "7e93531c4e5d525a",
-   "company": "Neurocrine Biosciences",
-   "title": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts - Yahoo Finance",
-   "summary": "Neurocrine Biosciences, Inc. (NBIX) Stock Forecasts Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU1OR0FERnpndER1a2JBWms3SU52ZlFONC03WmdfUmhvNnJwdVJRQnpMUjExeFdjVm83RW81bkVQUy12R0NkT291ckxkZnQ4ZTlMRll6ZE5Md0ZVaTBtb2szcm0xLTFYWnJvdW15OHBDMkh2TjAyalBDWGM3WTJMUFFiNzd1VGoycmQ3N2dqVQ?oc=5",
-   "published": "2026-11-11T18:56:02Z",
-   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -15034,7 +15056,7 @@
    "company": "Supernus",
    "title": "Supernus Announces Third Quarter 2026 Financial Results - Supernus Pharmaceuticals",
    "summary": "Supernus Announces Third Quarter 2026 Financial Results Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWdhVHhGRXZ5SVh0Rjc2bmltZEVYMFpScVdQQ0pwZVhQUEJsRVdQUzh3RzdXVFgydllKVGlEYUpsTUUwbXNpRnlPVFRMc2VuWm1Ua2tjUHgzaGFOWTdrVXJKQzgzY0pmRWZTbVAyUmRhR0h4QmdsbFpWYVJzTzI3UkFtWkhyd1NFaU1PYkVqWHowVXA3eG13THhUbVVIWGl1Mm9xN2dpS0xpY1JWMUZIbEQya18?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdXRFUGxadWFfcjhfeUJ3SllQSTl5R05VODBfdGhKcWVmMmphT2UxckdXbXA5OXloRWdTd1hFOXhDY2g0ajhUMTZ5N2h1dEU?oc=5",
    "published": "2026-10-29T07:00:00Z",
    "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
@@ -15349,17 +15371,6 @@
    "first_seen": null
   },
   {
-   "id": "bc25bbf1c2aabbbe",
-   "company": "Supernus",
-   "title": "Chloe Kim Is Changing the Conversation Around ADHD in Women with Qelbree® for ‘Ms. Represented’ Campaign - Supernus Pharmaceuticals",
-   "summary": "Chloe Kim Is Changing the Conversation Around ADHD in Women with Qelbree® for ‘Ms. Represented’ Campaign Supernus Pharmaceuticals",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2xFcEdRdUg1ZHp0MHhJVVZVYUlfeXc1M1NPQjBXVU5QYUxyQm1kVzNJRUZFTWhHd0hnVVZaNjdZcUFxalh1bEwzVWdqTGJudDRwTkZaR3BaXzYySVVxeDBxNUZMVXVQdzJZTGtGNnBQS0ROaXRkd3VHd0YxazVVLUFtaG5NTmpacVpxQ2FFOVZ0dVpvS0poU1V4bGJaZHN2c3FRN2NlbXdBY3BPMGRiUjVNeGtJYndzVzVxeQ?oc=5",
-   "published": "2026-10-28T12:32:00Z",
-   "outlet": "Supernus Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "226aa6fc7b4e0add",
    "company": "Compass Pathways",
    "title": "Compass Pathways to Highlight Scientific Research and TRD Disease State Education Efforts at the 2026 Neuroscience Education Institute Fall Congress",
@@ -15378,6 +15389,17 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdDlwY1AyOXp6dXc4ZXEzdWVtRlNCT2ZNSkRzb0I4OFl3UENjSzVYa0oxVE91eDNNU3lnYlBZRW9wVlQ5bTZvdGxWUEgxNXRpZEJYUHFFeHc2clB5bVRsN2xDbzNfNzV4NHBianEwaW81bTB5Yzg4UGZtT3lueEFwb1lEeTJ5ZVlHbVU0M1pmN19yNjBDYjhadVdqaEJITjVZX1o0dkN5MVZjNnhQQmJJVDRkZDVXeW0yQmZmX1pVNDgzN0FNTzlpWA?oc=5",
    "published": "2026-10-28T10:00:32Z",
    "outlet": "Rapport Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "bc25bbf1c2aabbbe",
+   "company": "Supernus",
+   "title": "Chloe Kim Is Changing the Conversation Around ADHD in Women with Qelbree® for ‘Ms. Represented’ Campaign - Supernus Pharmaceuticals",
+   "summary": "Chloe Kim Is Changing the Conversation Around ADHD in Women with Qelbree® for ‘Ms. Represented’ Campaign Supernus Pharmaceuticals",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2xFcEdRdUg1ZHp0MHhJVVZVYUlfeXc1M1NPQjBXVU5QYUxyQm1kVzNJRUZFTWhHd0hnVVZaNjdZcUFxalh1bEwzVWdqTGJudDRwTkZaR3BaXzYySVVxeDBxNUZMVXVQdzJZTGtGNnBQS0ROaXRkd3VHd0YxazVVLUFtaG5NTmpacVpxQ2FFOVZ0dVpvS0poU1V4bGJaZHN2c3FRN2NlbXdBY3BPMGRiUjVNeGtJYndzVzVxeQ?oc=5",
+   "published": "2026-10-28T07:00:00Z",
+   "outlet": "Supernus Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -30551,17 +30573,6 @@
    "first_seen": null
   },
   {
-   "id": "ff210f67bf52f562",
-   "company": "AtaiBeckley (Atai Beckley)",
-   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
-   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
-   "published": "2026-07-17T07:00:00Z",
-   "outlet": "WSJ",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "53df4fa4ea65cb6d",
    "company": "Gain Therapeutics",
    "title": "Gain Therapeutics CEO Gene Mack Issues Letter to Shareholders and Provides Operational Update - Gain Therapeutics",
@@ -30581,6 +30592,17 @@
    "published": "2026-07-16T12:32:59Z",
    "outlet": "Newronika",
    "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "ff210f67bf52f562",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
+   "summary": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "WSJ",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -31427,6 +31449,17 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUZuNWZqOU9YVVc0ZG1sQnNETlpVLUhGTTVtb2ZNX1RoLXRWT3RLQWczX0tGUjdxQzhkT0RHNGs5dXBvNUl5OEhpQjN3TWRKckp3RGhNWGhYSkc0UE5qVTZfYmJXdWpZbmlNTVIxc3E3Z2VNNHVBeGlhNUdrekEwbXVKRUJUM2JUTmE5YjFETk9aal92dkJPYkl6NUNQYTNLdEVGa1R2V3BJQnJn?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "Bloomberg",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "07d0bf2b0b147a41",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "Lilly to buy psychedelic-drug firm AtaiBeckley - C&EN",
+   "summary": "Lilly to buy psychedelic-drug firm AtaiBeckley C&EN",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGctaWF1dFE5MlV3blRZUXNlWmduRkVZMUdrLUREc3dfNEc5LWJ2VGRBa2dfNUZFdjVNT2tlSThZNnZfRVFRZWFXU01kZkhFdUhGRGg5WXhrUlY2XzFBN0dBYm5McDIzZW9YTWVfNnlxal93TW13Vno0dXkxZlM0bi1CSnZ6OGc0NW4tQ0tkYXRhaWN3dWJQaHN5U1N1aFhnTTAzV2FOQ1dRNWtoXzE0Yg?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "C&EN",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -32568,7 +32601,7 @@
    "company": "Serina Therapeutics",
    "title": "Gannet BioChem partners with Serina Therapeutics on SER-252 - scanx.trade",
    "summary": "Gannet BioChem partners with Serina Therapeutics on SER-252 scanx.trade",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenRudWZLbW9mLVJISWtidnROTTNSX2NEd3gxREkzQ2VqdnpYbEZUUUtuNG5FMjFzRXVOZzA3aW5HZDhpeGdHWm11ZzJTMHh4X1JHWUhwai1jMEQwX2ZEYzEzSmF2dktIYVNoTWYzYjZUN2NYVkFKTlA3eUVBVFgwT1ZoME10RnJ6a2Q5NFVNVzRwWk5NTzJuZnRjY0p5S3k4TkR1OHJhZFF0YW90Uy1aREwyX0RGclk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclRnX0plRllpTVpsYTNrQUMzdm5kV0xoVl93b2prb3pVanVIcjhHdUNNaWlFSHVrNms4U3ctWHpET3JQLVV6YTE0M1JuSFhyeXRwMXBoUlh0QktfamdvZ1NpR29TX1dwMm1SdW1PRHZIRG9tc2hxUFlDRXNzcTh2Wk03S1EwWkpWcXNSMm95Vno5ckFyOGNXSnFLRW03elBKVWczZnR4Y05tWmdoeWhrRlgtN1dEa0k?oc=5",
    "published": "2026-06-30T07:00:00Z",
    "outlet": "scanx.trade",
    "method": "news search (newsroom not indexed)",

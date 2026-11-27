@@ -105,7 +105,7 @@
   "feed": "https://news.google.com/rss/search?q=Vertero+VT-5006&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Vertero VT-5006\", null]",
-  "checked": "2026-11-22T16:16:19Z"
+  "checked": "2026-11-27T07:09:57Z"
  },
  "IRLAB Therapeutics": {
   "feed": "https://irlab.se/feed/",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-27T05:57:55Z"
+  "checked": "2026-11-27T07:09:57Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -280,7 +280,7 @@
   "feed": "https://news.google.com/rss/search?q=Aprix+PSX-001&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Aprix PSX-001\", null]",
-  "checked": "2026-11-27T03:33:03Z"
+  "checked": "2026-11-27T07:09:57Z"
  },
  "NeuroDerm": {
   "feed": "https://news.google.com/rss/search?q=%22NeuroDerm%22&hl=en-US&gl=US&ceid=US:en",
@@ -298,7 +298,7 @@
   "feed": "https://news.google.com/rss/search?q=%22GABA+Therapeutics%22+OR+%22GRX-917%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.gabatx.com/\", null, \"\\\"GABA Therapeutics\\\" OR \\\"GRX-917\\\"\", null]",
-  "checked": "2026-11-21T00:02:36Z"
+  "checked": "2026-11-27T07:09:57Z"
  },
  "AskBio (Bayer)": {
   "feed": "https://www.askbio.com/feed/",
@@ -545,7 +545,7 @@
   "feed": "https://news.google.com/rss/search?q=%22MapLight+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://maplighttherapeutics.gcs-web.com/news-releases\", \"https://maplighttherapeutics.gcs-web.com/rss/news-releases.xml\", null, null]",
-  "checked": "2026-11-22T09:32:06Z"
+  "checked": "2026-11-27T07:09:57Z"
  },
  "Newron Pharmaceuticals": {
   "feed": "https://news.google.com/rss/search?q=%22Newron%22+OR+%22evenamide%22&hl=en-US&gl=US&ceid=US:en",
@@ -563,7 +563,7 @@
   "feed": "https://news.google.com/rss/search?q=site%3Aspinogenix.com&hl=en-US&gl=US&ceid=US:en",
   "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.spinogenix.com/news\", null, null, null]",
-  "checked": "2026-11-26T17:40:21Z"
+  "checked": "2026-11-27T07:09:57Z"
  },
  "Autobahn Therapeutics": {
   "feed": "https://www.autobahntx.com/news/feed",
