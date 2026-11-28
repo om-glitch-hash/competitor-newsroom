@@ -42,10 +42,10 @@
   "checked": "2026-11-28T09:10:56Z"
  },
  "NeuroOne Medical Technologies": {
-  "feed": "https://news.google.com/rss/search?q=%22NeuroOne+Medical+Technologies%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Anmtc1.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://nmtc1.com/\", null, null, null]",
-  "checked": "2026-11-28T09:10:56Z"
+  "checked": "2026-11-28T14:46:04Z"
  },
  "Supernus": {
   "feed": "https://news.google.com/rss/search?q=%22Supernus%22&hl=en-US&gl=US&ceid=US:en",
@@ -165,7 +165,7 @@
   "feed": "https://news.google.com/rss/search?q=S.Biomedics+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"S.Biomedics Parkinson\", null]",
-  "checked": "2026-11-28T11:00:14Z"
+  "checked": "2026-11-28T14:46:04Z"
  },
  "Aspen Neuroscience": {
   "feed": "https://aspenneuroscience.com/feed/",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-28T13:58:25Z"
+  "checked": "2026-11-28T14:46:04Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=site%3Azambon.com+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -238,7 +238,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Oryon+Cell%22+OR+%22Oryon+Cell+Therapies%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://oryoncell.com/\", null, \"\\\"Oryon Cell\\\" OR \\\"Oryon Cell Therapies\\\"\", null]",
-  "checked": "2026-11-28T09:10:56Z"
+  "checked": "2026-11-28T14:46:04Z"
  },
  "Prevail Therapeutics (Lilly)": {
   "feed": "https://news.google.com/rss/search?q=%22Prevail+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
@@ -280,7 +280,7 @@
   "feed": "https://news.google.com/rss/search?q=Aprix+PSX-001&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Aprix PSX-001\", null]",
-  "checked": "2026-11-28T13:58:25Z"
+  "checked": "2026-11-28T14:46:04Z"
  },
  "NeuroDerm": {
   "feed": "https://news.google.com/rss/search?q=%22NeuroDerm%22&hl=en-US&gl=US&ceid=US:en",
@@ -316,7 +316,7 @@
   "feed": "https://news.google.com/rss/search?q=Cynaptec+L-130&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Cynaptec L-130\", null]",
-  "checked": "2026-11-28T13:58:25Z"
+  "checked": "2026-11-28T14:46:04Z"
  },
  "Atai Beckley": {
   "feed": "https://news.google.com/rss/search?q=site%3Aatai.com&hl=en-US&gl=US&ceid=US:en",
@@ -371,7 +371,7 @@
   "feed": "https://news.google.com/rss/search?q=Resilient+Pharmaceuticals+MDMA&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Resilient Pharmaceuticals MDMA\", null]",
-  "checked": "2026-11-28T09:10:56Z"
+  "checked": "2026-11-28T14:46:04Z"
  },
  "Palisades Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=Palisades+Therapeutics+PT-150&hl=en-US&gl=US&ceid=US:en",
@@ -428,10 +428,10 @@
   "checked": "2026-11-28T09:10:56Z"
  },
  "Axsome Therapeutics": {
-  "feed": "https://news.google.com/rss/search?q=%22Axsome+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Aaxsometherapeuticsinc.gcs-web.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://axsometherapeuticsinc.gcs-web.com/news-releases\", null, null, null]",
-  "checked": "2026-11-28T09:10:56Z"
+  "checked": "2026-11-28T14:46:04Z"
  },
  "Compass Pathways": {
   "feed": "https://ir.compasspathways.com/rss/pressrelease.aspx",
@@ -650,10 +650,10 @@
   "checked": "2026-11-28T09:10:56Z"
  },
  "Merz Therapeutics (Inbrija, ex-Acorda)": {
-  "feed": "https://news.google.com/rss/search?q=%22Merz+Therapeutics%22+%28%22Inbrija%22+OR+%22Parkinson%22+OR+%22levodopa%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Amerztherapeutics.com+%28%22Inbrija%22+OR+%22Parkinson%22+OR+%22levodopa%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.merztherapeutics.com/news/\", null, null, [\"Inbrija\", \"Parkinson\", \"levodopa\"]]",
-  "checked": "2026-11-28T09:10:56Z"
+  "checked": "2026-11-28T14:46:04Z"
  },
  "Ventyx Biosciences (acquired by Lilly, Mar 2026)": {
   "feed": "https://news.google.com/rss/search?q=%22VTX3232%22+OR+%22VTX-3232%22+OR+%22Ventyx%22&hl=en-US&gl=US&ceid=US:en",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:58:25Z",
+ "updated": "2026-11-28T14:46:04Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -5625,17 +5625,6 @@
    "first_seen": null
   },
   {
-   "id": "5f6a99f2dca91046",
-   "company": "AtaiBeckley (Atai Beckley)",
-   "title": "ATAI: AtaiBeckley Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
-   "summary": "ATAI: AtaiBeckley Inc. Latest Stock Price, Analysis, News and Trading Ideas Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yWDkxNlJPdkQzOFJ3NHpJNWVMZjJzeHJmTkd6QmJhdmlMeEM3Q001UGQ1SUlERzM0S1pDZmQ3V0RFSjFlc2ZOZGV3?oc=5",
-   "published": "2026-11-20T17:46:27Z",
-   "outlet": "Stocktwits",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "d06c67aacb179915",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics, Inc. (19X.DE) stock price, news, quote and history - Yahoo Finance - Yahoo Finance Singapore",
@@ -6074,6 +6063,17 @@
    "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "5f6a99f2dca91046",
+   "company": "AtaiBeckley (Atai Beckley)",
+   "title": "ATAI: AtaiBeckley Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+   "summary": "ATAI: AtaiBeckley Inc. Latest Stock Price, Analysis, News and Trading Ideas Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yWDkxNlJPdkQzOFJ3NHpJNWVMZjJzeHJmTkd6QmJhdmlMeEM3Q001UGQ1SUlERzM0S1pDZmQ3V0RFSjFlc2ZOZGV3?oc=5",
+   "published": "2026-11-20T08:00:00Z",
+   "outlet": "Stocktwits",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "5b0a317eb0f69f99",
@@ -21927,6 +21927,17 @@
    "first_seen": null
   },
   {
+   "id": "3fc1f7e36fafb756",
+   "company": "Lundbeck",
+   "title": "Lundbeck presents Phase Ib data for Lu AF28996 in advanced Parkinson's disease, as Phase II trial begins - Macau Business",
+   "summary": "Lundbeck presents Phase Ib data for Lu AF28996 in advanced Parkinson's disease, as Phase II trial begins Macau Business",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM0J0b3Via2xyelMtT205bWhUaEtpVlJKV252NVV2eURjX2QyZTFMc0lycVdxbXowNjBoMnRpcXozcUlPUV94TmMteWxaUGVNM3FiVm14RDlyWGpsSTc0ZF9GVkVpWXEtOUk2XzFRdnVtamtiYVRfekVRXzJmejd4VFdPck8tZzFOWThlVEJmWTQ1aVJxLWkwLWVOYmN2Q01FNHZIMUpBelp2YVFsNDk1TkJqWmM3WWhaNWsyTlkwcnV2dDlmUEhXWg?oc=5",
+   "published": "2026-10-06T07:00:00Z",
+   "outlet": "Macau Business",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "434f08b20ee7ea8a",
    "company": "iRegene Therapeutics",
    "title": "iRegene Therapeutics’s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa - Endpoints News",
@@ -27977,6 +27988,17 @@
    "first_seen": null
   },
   {
+   "id": "d45c9127ff193dfe",
+   "company": "Protagenic Therapeutics",
+   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
+   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rbEJYVVpIYU9xX1VZa28wOTdDRUxIdkFrMTdCT1VDUS1OYnRNbmdvWTZlenY3Mk5XSXlQNVprTFNIWDNOc2pxSzZhUkExYklscVE?oc=5",
+   "published": "2026-08-23T05:44:04Z",
+   "outlet": "Protagenic Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "71eed0add672aabf",
    "company": "Eli Lilly",
    "title": "A clinical trial for adults with major depressive disorder (MDD), the most common type of depression. (RENEW-MDD- 2) - Lilly Trials",
@@ -32418,6 +32440,17 @@
    "published": "2026-07-27T07:00:00Z",
    "outlet": "DongA Science",
    "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
+   "id": "0c2297a535988752",
+   "company": "MapLight Therapeutics",
+   "title": "Maplight aims to differentiate muscarinic agonist from competitors - BioWorld News",
+   "summary": "Maplight aims to differentiate muscarinic agonist from competitors BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUh2OHNidG8tUjA0UDA2a2tlZGluRjhEOWRsY1NMaEU4UnJtOEFZUVViSnl6djRZc0cxMHlPS21pcGZiZFZTZkVZMlhNenA3V05CcnVRWnVENzhDQ3cxV2lQeW9sMTRiOGd4dXRVb2R1QjRVZmhZelZQYzdJajA1cGljX05KQ1hGdm5HNmNoeEJzSDdQMmpDa2ZtbjR1Z01FRm8yWWlJZzIxNW8?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "BioWorld News",
+   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -39909,17 +39942,6 @@
    "published": "2026-05-15T06:47:07Z",
    "outlet": "Being Patient",
    "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "d45c9127ff193dfe",
-   "company": "Protagenic Therapeutics",
-   "title": "Garo H. Armen, Ph.D. - Protagenic Therapeutics",
-   "summary": "Garo H. Armen, Ph.D. Protagenic Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxeDQtN0l6ZERYZ2RGbVBlZGY4TzJmS3VfS2RvVEFZOTc5ZF9ObFVRUGVpNnZmUExOYlBlTGxFcHpZUWFKTWxLY24wVmV0cDMtMld5a25LTQ?oc=5",
-   "published": "2026-05-15T01:07:39Z",
-   "outlet": "Protagenic Therapeutics",
-   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -48719,6 +48741,17 @@
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0lKMGk4bExqX1V0TlNQSERsWmc0NVZqTk5HWlVDa2VDUHFGVUdVSU1CbWJUelFhWkp6aXJNazFZcW5odFR2MjVsdHdkMTJQcEwxcUM1SEdLa0dnMERZWDNpc0RORTd4OXplSXZoUEQ3UFBJc1NMYnBodi1uaUxndm5B?oc=5",
    "published": "2026-01-09T08:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "697737032492af0d",
+   "company": "BioVie",
+   "title": "BioVie (NASDAQ: BIVI) CEO entity awarded 665,300 stock options equity - Stock Titan",
+   "summary": "BioVie (NASDAQ: BIVI) CEO entity awarded 665,300 stock options equity Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkNHdVR4X1pvS2xMdnBUNTF0VnZNWmMtNFBrZUd6RHNUaXZKN21JamJNY241c014Qm5tMFFGcG1scjhxNkFVLVZBdDBEQVVMVjMtdllKWUZRcWZzVWFCd2FGNmw0RDVXeXpQSzdTQ3VuT3lvVU5PdDRtS3dNa0VBWTNmR2lfdEJ3aFo5U09veDgwSWp4WUJrWGpULWN3WFJyYjJJV2IyNA?oc=5",
+   "published": "2026-01-09T08:00:00Z",
+   "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
