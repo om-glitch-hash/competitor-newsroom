@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:53:12Z",
+ "updated": "2026-11-28T07:00:23Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1835,7 +1835,7 @@
    "title": "Exclusive | Lundbeck, Top Antidepressant Maker, Weighs Move Into Psychedelics - WSJ",
    "summary": "Exclusive | Lundbeck, Top Antidepressant Maker, Weighs Move Into Psychedelics WSJ",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXNIeWNiTjd5M2pqRzVLMDZvT2dZSXAxd0dkX29ld0hKX3J0bFl6S2lxMzJ4OVpseVVZYmQ3Y0Jtcy1TNVBTSHEwYnViYl9uNFFFdHh2UTNCd0VpNS1NcGxyUFZzbk9rQzJiV3RnUWdQb1JrQl9TSDVxYlZfWDlPR2ZUcWZtLWV2enc5Qk14OVJwVHVybWZORGVUeHRrZ2JwMHVYeTlRRlYzZw?oc=5",
-   "published": "2026-11-27T12:43:51Z",
+   "published": "2026-11-27T12:43:00Z",
    "outlet": "WSJ",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-27T14:27:56Z"
@@ -1922,8 +1922,8 @@
    "company": "Alterity Therapeutics",
    "title": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) - Stock Titan",
    "summary": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSHJYNHdnazllaTJ4YllsMk9BcEl0d09KX21BWUJINXptS2oxempDSUsyeWVrd1RlbFVfd055X2ZEeHRsN0RrR0NGR3JrNk9BbHg4eU5CYmpuUTh1WWRfNnh3ZEVrMmtLdmszODlQOXowLU1ETnVQS2ZyWHJfWGpQU2pnWmEzNVVEc0txT3FaUFN4YnVzVVZKTVp2dGlfSXZOUHBEMWc5OU9SbEVEMU1lQ3F6bnFjNXhjNV84TzBR?oc=5",
-   "published": "2026-11-27T11:07:05Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGN3bkVZNHhBOUNkWGJTb2JaUGd1Zkk4bDJvbkE3cklSZTZYNVBTakZaQXhUeDNRU3RJaXgwaTB5T1RNcWZPai1qRndJNEhBeEpHRVJBOENON3ZCd0ljWW9jbWpVdU5rTkdMY0VpY29uNXFsQ1N5OHJwZTRqZVhOcDl2M3FkdFZSQlZxanhnN0Z6cWc3Wm80OTh3eUVHazhGVzdRZ1BLWGt5RlJ5WWg3QjJwQWJSTl9WelBLMXJB?oc=5",
+   "published": "2026-11-27T11:05:42Z",
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T12:04:08Z"
@@ -4470,6 +4470,17 @@
    "first_seen": "2026-11-23T22:20:59Z"
   },
   {
+   "id": "78387a82dca632f8",
+   "company": "Vanda Pharmaceuticals",
+   "title": "Vanda Pharmaceuticals Athens Open - Day 4 - Reuters Connect",
+   "summary": "Vanda Pharmaceuticals Athens Open - Day 4 Reuters Connect",
+   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNbHdyajk3V0ZMdTk0LV90U2IwRXFYUmhqaDlGNUZEbTJwQXVLZ2YxdzU2Z1RKUWxkeUNEZFRCdWl6Yk03MEl6LWFMR1dpcXNNY2QyNXpDak1rMVlIbHJGVFB3MGxYQUJSdFJkV2dNNklmeEJ5MTRmUmpJeTVldVcxTmFTeUh1RVNCNVZCWndsWXBTMkpBWEFfdWJKdzFjWkFzY2NnenVaRnZSYUFGeGRFR3JYRHgxczNBY1BjQktvS3RjcG9vbE1jcE9SRTdmWXh3SVBtenJDWERzeC1TbjZxcFlpdjN5ank4RWRvejhBNVdEQkc5SXJRT1JxXzBwMzRybzVJaWlkWmV3QTUtZGRPUTNJeTdUamR5cmZxYnNFeTdhSlFudVh6OW1SVnBnV2pOOEMzTW1vNnRFQjdUMXk1aVVzZUFpQQ?oc=5",
+   "published": "2026-11-23T19:47:50Z",
+   "outlet": "Reuters Connect",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8a22d909136f295b",
    "company": "Neurocrine Biosciences",
    "title": "NEUROCRINE BIOSCIENCES, INC. : NEEDHAM RAISES TARGET PRICE TO $210 FROM $204 - Moomoo",
@@ -5669,17 +5680,6 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
-   "id": "3e8684087288a10a",
-   "company": "Annovis Bio",
-   "title": "FDA agrees to Annovis Bio’s safety data pooling plan for buntanetap - Investing.com Canada",
-   "summary": "FDA agrees to Annovis Bio’s safety data pooling plan for buntanetap Investing.com Canada",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1llUDA4LUJEdXVibl85UVBhQVhCSG1pNHYySktoOG0wcC1CdWRPTmN0d21oblRjblZnRk50dERZX2ZQMXd4dURpcDhRLUhsZGx2ZEpwUWpVQ3RKMW93OGlEVXl1VndKazctczhnajVzZFdqZU5WdXFwRHRKbXIydUd5LUNSTzFkX3JycUk4aEQ2UjVtTDAwVVRBajBlYlRTM2czM3JMTV9YNGo2OXhyNy1IWXJrYUU0M0hSa05FQnd1M0E5RlE?oc=5",
-   "published": "2026-11-20T13:32:48Z",
-   "outlet": "Investing.com Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "d8d10a289a205816",
    "company": "Annovis Bio",
    "title": "Annovis Bio, Inc. (ANVS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -5711,6 +5711,17 @@
    "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
+  },
+  {
+   "id": "3e8684087288a10a",
+   "company": "Annovis Bio",
+   "title": "FDA agrees to Annovis Bio’s safety data pooling plan for buntanetap - Investing.com Canada",
+   "summary": "FDA agrees to Annovis Bio’s safety data pooling plan for buntanetap Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1llUDA4LUJEdXVibl85UVBhQVhCSG1pNHYySktoOG0wcC1CdWRPTmN0d21oblRjblZnRk50dERZX2ZQMXd4dURpcDhRLUhsZGx2ZEpwUWpVQ3RKMW93OGlEVXl1VndKazctczhnajVzZFdqZU5WdXFwRHRKbXIydUd5LUNSTzFkX3JycUk4aEQ2UjVtTDAwVVRBajBlYlRTM2czM3JMTV9YNGo2OXhyNy1IWXJrYUU0M0hSa05FQnd1M0E5RlE?oc=5",
+   "published": "2026-11-20T13:17:36Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "3d1cd40487bb0229",
@@ -8320,17 +8331,6 @@
    "first_seen": null
   },
   {
-   "id": "971987e557117f27",
-   "company": "Annovis Bio",
-   "title": "Annovis Bio receives second positive safety review for AD trial By Investing.com - Investing.com Canada",
-   "summary": "Annovis Bio receives second positive safety review for AD trial By Investing.com Investing.com Canada",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOHVxOUo3THVTR3VZUzR6T1NHZFllU3VWR2s3NDMtWGxJM195YkVYSVk3eHpyZEpBMnQ5VXRqbXNXYUVFZEs4MVh3NFNrelFPam5zVXJHVVBrZnBPajZLM1pCMUREWkNTeWNmM0tEUDRxMmdLYzV2MTBZeWFVNVJ6RGtzenJ2Y09UanhZNVhmdW9NaGZHMmQ3eS1fT3VYSnZnNDB6NkRGY3pCMGZZdGFBb3JlZUZFRWxrbDU3azBLMmtMUQ?oc=5",
-   "published": "2026-11-17T13:24:21Z",
-   "outlet": "Investing.com Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "bb8d8da462639fe8",
    "company": "Annovis Bio",
    "title": "Annovis Receives Second Positive DSMB Recommendation for its Phase 3 DUET-AD Study - The Manila Times",
@@ -8593,6 +8593,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T00:26:37Z"
+  },
+  {
+   "id": "971987e557117f27",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio receives second positive safety review for AD trial By Investing.com - Investing.com Canada",
+   "summary": "Annovis Bio receives second positive safety review for AD trial By Investing.com Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOHVxOUo3THVTR3VZUzR6T1NHZFllU3VWR2s3NDMtWGxJM195YkVYSVk3eHpyZEpBMnQ5VXRqbXNXYUVFZEs4MVh3NFNrelFPam5zVXJHVVBrZnBPajZLM1pCMUREWkNTeWNmM0tEUDRxMmdLYzV2MTBZeWFVNVJ6RGtzenJ2Y09UanhZNVhmdW9NaGZHMmQ3eS1fT3VYSnZnNDB6NkRGY3pCMGZZdGFBb3JlZUZFRWxrbDU3azBLMmtMUQ?oc=5",
+   "published": "2026-11-17T08:00:00Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "64d1f7f6709636d3",
@@ -9299,17 +9310,6 @@
    "first_seen": null
   },
   {
-   "id": "f97e1fc6b2e95401",
-   "company": "Annovis Bio",
-   "title": "Roth Capital maintains Annovis Bio at Buy, lowers price target to $3 from $7 - TradingView",
-   "summary": "Roth Capital maintains Annovis Bio at Buy, lowers price target to $3 from $7 TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd2FvNTVRcFEwQlNkLUdNUU5nbUpjZHphU0RyMHBBMzRoZzdINGVRRFpZelZheWNuelEzOWo4MDVuS1hrM09WUWJwSkxZazlKMmdpRWUtbFFwcmQ5bjRzdGF2Q3ZfWkJGWnE4Z09QT1V6aTBpcDRpOGJoY3FubEtISXl4NFNMZEd2dTh1MGlHVVFlWndLOVJxRmU1RFpWeEliUjhQcU85M2x5RGNSWGI5U3dLR0Y2TEJlQ1VvTlRLdmhCQXdKN2c1TUdzQV9BOEx6?oc=5",
-   "published": "2026-11-16T14:28:53Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "9db9f0d93c978313",
    "company": "MapLight Therapeutics",
    "title": "Form S-3 MapLight Therapeutics Inc For: 16 November By Investing.com - Investing.com Canada",
@@ -9921,6 +9921,17 @@
    "summary": "Protagenic Therapeutics, Inc. News — OTC:PTIX TradingView",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f97e1fc6b2e95401",
+   "company": "Annovis Bio",
+   "title": "Roth Capital maintains Annovis Bio at Buy, lowers price target to $3 from $7 - TradingView",
+   "summary": "Roth Capital maintains Annovis Bio at Buy, lowers price target to $3 from $7 TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd2FvNTVRcFEwQlNkLUdNUU5nbUpjZHphU0RyMHBBMzRoZzdINGVRRFpZelZheWNuelEzOWo4MDVuS1hrM09WUWJwSkxZazlKMmdpRWUtbFFwcmQ5bjRzdGF2Q3ZfWkJGWnE4Z09QT1V6aTBpcDRpOGJoY3FubEtISXl4NFNMZEd2dTh1MGlHVVFlWndLOVJxRmU1RFpWeEliUjhQcU85M2x5RGNSWGI5U3dLR0Y2TEJlQ1VvTlRLdmhCQXdKN2c1TUdzQV9BOEx6?oc=5",
+   "published": "2026-11-16T08:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -12434,6 +12445,17 @@
    "first_seen": null
   },
   {
+   "id": "3bec278c55fbbe92",
+   "company": "BioVie",
+   "title": "BioVie to present additional Parkinson’s drug data at international conference - Proactive financial news",
+   "summary": "BioVie to present additional Parkinson’s drug data at international conference Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3ZYODVJdVdTdkhVS3VZRUNsV0hMRkQ2ek1MZldPXzhWM3NCRFN0NTlldzkzR1dWUmZWdzB4eGJYS2pyNnE3WTYxd0JLclR3R3VpMHBvNWFyRVNJZmFjUEItVWRpYkJQWnhwcEVRalpVby1iVFZRV3ZuRzhCdk50dHl2V0FRd2szWjlCUUdlVkxfMGdQeFJhRUlkcU01dTlJOWoxVWRJUUFmcnFWM0RCZ3lYV0dYaWwxbU5NV1pwNzYzRVFzektfRG1BLUFIMDFUeVh4bDhsZ2JTU2pjODlPS3BPTQ?oc=5",
+   "published": "2026-11-10T14:32:00Z",
+   "outlet": "Proactive financial news",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "4098aa9cba71ac3b",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson’s Caplyta meets endpoints in bipolar mania study By Investing.com - Investing.com UK",
@@ -12507,17 +12529,6 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVk4V09HQmdVVjFsODIyWE9pc0laWGl3UFN5RkhxTTBGTHF0ZGNCTDJ4WnR6UUN5RmxFM18yT2VRZ2hwWjB5SGtlSWE0VUxUS2tmbUlIQWxrNDZnbVBGUmhoTlRDTDg3MG1OZkd5cF9HclItcmcwZUZBOEtMcnl5MUhENGZveDFIRlVNTy1fd2g2UFlCMnVJeV9CbUlZVEFsS0VIUnBtUU9pNVp0TzVzMU80SG9ZdUtDenppM1dpV01qcjhp?oc=5",
    "published": "2026-11-10T09:08:09Z",
    "outlet": "MarketBeat",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "3bec278c55fbbe92",
-   "company": "BioVie",
-   "title": "BioVie to present additional Parkinson’s drug data at international conference - Proactive financial news",
-   "summary": "BioVie to present additional Parkinson’s drug data at international conference Proactive financial news",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3ZYODVJdVdTdkhVS3VZRUNsV0hMRkQ2ek1MZldPXzhWM3NCRFN0NTlldzkzR1dWUmZWdzB4eGJYS2pyNnE3WTYxd0JLclR3R3VpMHBvNWFyRVNJZmFjUEItVWRpYkJQWnhwcEVRalpVby1iVFZRV3ZuRzhCdk50dHl2V0FRd2szWjlCUUdlVkxfMGdQeFJhRUlkcU01dTlJOWoxVWRJUUFmcnFWM0RCZ3lYV0dYaWwxbU5NV1pwNzYzRVFzektfRG1BLUFIMDFUeVh4bDhsZ2JTU2pjODlPS3BPTQ?oc=5",
-   "published": "2026-11-10T08:00:00Z",
-   "outlet": "Proactive financial news",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -13692,7 +13703,7 @@
    "company": "Xenon Pharmaceuticals",
    "title": "Xenon Pharmaceuticals Inc. R (XP0.F) Q3 FY2026 earnings call transcript - Yahoo Finance",
    "summary": "Xenon Pharmaceuticals Inc. R (XP0.F) Q3 FY2026 earnings call transcript Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU1dVX0NmR3loX0l3N1J5dXBVaFJmUmxXX0puazNiWHhvUUR2cU9DdnNTQi16S0dBOE9mUE0zQUpsNGlqQUctRFVtSjNSOTNzcjRjenM0XzhQWjVyZ29JNkFSaGtxa1V2NzlJWkRENzhFOTZmZEpiVU1FaF80LWJnd3hFUGxaVGF1eFJrUE5FQUc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnpFS2J1NDBKTl9kdHZZYXp5UExxVTBrR1RjYTVPdHBBTWNCVXQ4T2w1amswUWpwRlBfVkFMZlV3bVpuUWo4QVJmbFh2Z2pObHZ2ajNPV2h5ZkROV3oxTzJ5SFd2UTVxY28tY1hQS195eTdyVEVCelU4OWFDbUIycnppX19OSWxUdUNjbU5tOA?oc=5",
    "published": "2026-11-09T08:00:00Z",
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
@@ -23368,6 +23379,17 @@
    "first_seen": null
   },
   {
+   "id": "99073a1c368ebce8",
+   "company": "Serina Therapeutics",
+   "title": "Registration Is Now Open For Tribe Public’s CEO Presentation and Q&A Webinar Event \"A New Approach to Advanced Parkinson’s Disease: Serina Discusses SER-252’s Clinical Progress\" - Taiwan News",
+   "summary": "Registration Is Now Open For Tribe Public’s CEO Presentation and Q&A Webinar Event \"A New Approach to Advanced Parkinson’s Disease: Serina Discusses SER-252’s Clinical Progress\" Taiwan News",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02S3F1M2dDc2VRVkhYNktVc0NWXzRJbHN5SldnemRhRWNURjcydDhwaDg3M1BhM2RESGFtMkIzR2d5QnVFVElTbFVYeVpVN3NYZmFlcnFHY1k?oc=5",
+   "published": "2026-09-24T07:00:00Z",
+   "outlet": "Taiwan News",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "7de0d80ad027e5b6",
    "company": "Otsuka",
    "title": "Otsuka Presents New Phase 3b Results for SIMTRIYO® (centanafadine) Highlighting Consistent Improvements Across ADHD Symptoms, Anxiety, and Associated Features in Adults with ADHD and Comorbid Anxiety Disorders at Psych Congress 2026",
@@ -26976,6 +26998,17 @@
    "first_seen": null
   },
   {
+   "id": "28d5cd232df37302",
+   "company": "Serina Therapeutics",
+   "title": "Serina Therapeutics (SER) Dips 2.40% to $2.44, Testing Key Support at $2.32 - TWAP Entry - siam website",
+   "summary": "Serina Therapeutics (SER) Dips 2.40% to $2.44, Testing Key Support at $2.32 - TWAP Entry siam website",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRTVFejhHVlBLV3A5MWxYd2xWUUZnclZhLW5wYjBfWlRLS0s1VmJncUp3MGtjRkJqdjRNbXVibGJZQlppNl9BLUNCVWxYdlR6SHhYYUczbXRZZlMxMlprU3ROYzZLNEZLRjZ5MENTN3BtdGJYcEcyUE9KQWw0OWo3MWVXOFB1RE9GcHBaUXFoWWFGZzB0TEFnVWoyWjRudnh4WkwyX1ZtbHJZVldoeEpn?oc=5",
+   "published": "2026-09-02T07:00:00Z",
+   "outlet": "siam website",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "855a2bd7183c8974",
    "company": "Luye Pharma",
    "title": "Luye Pharma Announces 2026 Interim Results - 绿叶制药集团",
@@ -29106,6 +29139,17 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVG1seWFEdk14eVZ4VnRGNFVkSVBRaHJnbzlDd0dNVGpuLXN6QjV2ZlNHYlp1UzYxQmNZWEotZ0hsRHJJZUpxVWx1cnVhSGEtRXpyTWtaN2FiUmFraE5rS3JGbnl4am94MFlJRnpfaW9KWlgtNDJnU2xhbk9UcGV3WkNxMWpxY1FKY1FiWnUtVnZtR3MxNVhyZzIzY2RqMlVNZEt5ZTJNY1pkX0V5TEw2R0xENGY?oc=5",
    "published": "2026-08-13T07:00:00Z",
    "outlet": "The Pharma Letter",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4a70efb8feb2daf3",
+   "company": "Remepy",
+   "title": "2026 Emerging Pharma Leaders Award Winners Announced | PharmExec - PharmExec.com",
+   "summary": "2026 Emerging Pharma Leaders Award Winners Announced | PharmExec PharmExec.com",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aU3FJdGRNUWFxR3h0cHlzUGYxUnM2MVQzcVNUc3RJa0RnYlZrUlFQb2lUUFlqa1dKV3pGMzhmQmlfcVFCYldMTDkxSkx2Y0dLLUdFN1U1TGdSY2NJZmVuZ01ZcnUxVFZFSEkzTFJRU1FwOU8t?oc=5",
+   "published": "2026-08-13T07:00:00Z",
+   "outlet": "PharmExec.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -34507,6 +34551,17 @@
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPc21JZUlhSUdqazN3RHpBVnNIaXA5eUZDWlpETVdwRmlFaW1TTmpqQk5fOXpSSEtYdjJjUkFSaVlaZm5WZjA4X1FVeUlwbFdKdVFqOF9sUFFKM0tQRW1aUXZDZTI3by11c0NDcTJKNVBFRlBlVkZESms5ci1FUTMybmlFNVRENzNrSjNyV2FibGRJODZocm1wZUxPVzQ1TndlZFcxZWtPVUV3YnV4TnFmVDhRbVhfMHNkX1hCVnlkTUhfTHhEQlllNlRqbTdKNG11Wi1wbnJhRDZ3NUdEVXZiRE1tLTA0YjQzUTdfbmNtNHE?oc=5",
    "published": "2026-07-10T07:00:00Z",
    "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e6cd5b3a72a0bef5",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics (ASX:ATH) Falls as Biotech Volatility Returns to the ASX - Kalkine",
+   "summary": "Alterity Therapeutics (ASX:ATH) Falls as Biotech Volatility Returns to the ASX Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYlRBRlVsUENXWDU0RWdrR0dISEVWX2ZlVnlpS0J1V3NMWndBSDQ3NU5IeVRvX0lHVG5uclFGR3ByVEZIMlI4QzJ0djBPdmFyc2pOTVpNNjB1LV80TF9Cc1d4aWw2UnlXMHc2M3BrdUZjN1pXLUlVRExqQWd3ajdWalFTa3pNSkowNTFpM0l3NEh4ZTUzeWhBa0lpd0Qwdm9IeEhJbzBHR1R6WU1CNTFJRkZTeHNjc1E?oc=5",
+   "published": "2026-07-10T07:00:00Z",
+   "outlet": "Kalkine",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
