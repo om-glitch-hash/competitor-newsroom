@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T04:54:52Z",
+ "updated": "2026-11-28T05:53:12Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -2633,6 +2633,17 @@
    "first_seen": "2026-11-27T21:39:12Z"
   },
   {
+   "id": "5c0f4cc017e5ad3a",
+   "company": "Supernus",
+   "title": "Supernus, Inc. (SUPN) stock price, news, quote and history - Yahoo Finance Australia",
+   "summary": "Supernus, Inc. (SUPN) stock price, news, quote and history Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BZ0RaMGZueDQ3eExHYUJDdkFtX3hzejZFbldCeU1iVUFSckVmdkJKWVlxRUFyY1F2ZlhwbDFDUG12TTVwaE5SLXlMYndJX3FtNkE?oc=5",
+   "published": "2026-11-25T20:51:15Z",
+   "outlet": "Yahoo Finance Australia",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-28T05:53:12Z"
+  },
+  {
    "id": "bba1f086b25d77a3",
    "company": "Axsome Therapeutics",
    "title": "Axsome Therapeutics, Inc. (19X.DE) latest stock news and headlines - Yahoo Finance UK",
@@ -3390,6 +3401,17 @@
    "outlet": "Yahoo Finance UK",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T08:14:47Z"
+  },
+  {
+   "id": "63b54f5a05b25c51",
+   "company": "Supernus",
+   "title": "Supernus appoints KPMG as auditor following merger, replaces PwC - Investing.com",
+   "summary": "Supernus appoints KPMG as auditor following merger, replaces PwC Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUFvYk4yMG0wQk1ENVF5TlJBN2lYT0xwenloc1phaEZPRUVzNzlwUFRYeWUzUE94Zl9PWkJnM2lSX3d6cW80clgzRV9oWmszRWQ1WUtUWjd2NENmUFV3Zm91bG5WUnRmNXBfWVo4TmFfTlFHeG1tOVAtVTVTX2xoSl9RU2l1Qy1qdWlmekdvaTYxSUdXaFdXQWU1UEZPSlpFME9lVVZ3OWtZUndZVXB3ZFlHUlo4WmZmakhV?oc=5",
+   "published": "2026-11-24T22:32:23Z",
+   "outlet": "Investing.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "0b550a939be03469",
@@ -7495,6 +7517,17 @@
    "first_seen": "2026-11-23T19:02:25Z"
   },
   {
+   "id": "4d66c7c588b7d9c2",
+   "company": "MapLight Therapeutics",
+   "title": "MapLight Therapeutics, Inc. SEC Filing (Nov 18, 2026) - Stock Titan",
+   "summary": "MapLight Therapeutics, Inc. SEC Filing (Nov 18, 2026) Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWQyaVJ1VFMxT25uTGNwdERFSndkMmx6b1paT0I5NTUxZGVNZ2diZUJBaWFsQXFpZmQ0N2Y5MW9uWkxmbk5oRTVSMjNYSFJBTmJDM3FtLUtLbFRNanlwRnNEdDYzd05wRVY1Sno4MTdJaTBiLTQ3cFN4MS13ZS1NOS1WemExVWZZZkpUMm1mMlFQS0ZLZXBfOXl6NWZHbUNOdHRIcEhINXNHUQ?oc=5",
+   "published": "2026-11-18T11:03:14Z",
+   "outlet": "Stock Titan",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-19T17:31:37Z"
+  },
+  {
    "id": "7c816f1632e5835e",
    "company": "Teva",
    "title": "FDA clears Igalmi for at-home use in acute agitation - Новости GxP",
@@ -7570,17 +7603,6 @@
    "outlet": "BNN Bloomberg",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
-   "id": "4d66c7c588b7d9c2",
-   "company": "MapLight Therapeutics",
-   "title": "MapLight Therapeutics, Inc. SEC Filing (Nov 18, 2026) - Stock Titan",
-   "summary": "MapLight Therapeutics, Inc. SEC Filing (Nov 18, 2026) Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWQyaVJ1VFMxT25uTGNwdERFSndkMmx6b1paT0I5NTUxZGVNZ2diZUJBaWFsQXFpZmQ0N2Y5MW9uWkxmbk5oRTVSMjNYSFJBTmJDM3FtLUtLbFRNanlwRnNEdDYzd05wRVY1Sno4MTdJaTBiLTQ3cFN4MS13ZS1NOS1WemExVWZZZkpUMm1mMlFQS0ZLZXBfOXl6NWZHbUNOdHRIcEhINXNHUQ?oc=5",
-   "published": "2026-11-18T08:00:00Z",
-   "outlet": "Stock Titan",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-19T17:31:37Z"
   },
   {
    "id": "7e770a0ddc9ee1ec",
@@ -10817,17 +10839,6 @@
    "first_seen": null
   },
   {
-   "id": "e79f38fb71cc4c5e",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences (NasdaqCM:NERV) Stock Forecast & Analyst Predictions - Simply Wall St",
-   "summary": "Minerva Neurosciences (NasdaqCM:NERV) Stock Forecast & Analyst Predictions Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdG1XOGJ0YTF5cWNTRFV3VUdreVJudEc5Rk8wWk1DVGxMclRMSVFYNUFiTzNTTHNfU1VGbnZzMWJPQ2tzUktNSnlRdkV6REgwWjQ4bjZYWlRSR2NHWm1QblZwSFJkNXJEZWRSLWNmQmVxU2diWGFwQ2pvSkJSMzFhOEg4SEJucG14SmpqMG1yWHZxZjByS002Zk1CeVU?oc=5",
-   "published": "2026-11-15T08:00:00Z",
-   "outlet": "Simply Wall St",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "11a752e8ac11e5ae",
    "company": "TG Therapeutics",
    "title": "Will Revenue Guidance Raise Change TG Therapeutics Stock Narrative - Simply Wall St",
@@ -11506,6 +11517,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWjRndmlYTjlTRU9QWE4zcFhQWjJqRlF4N0dvdlU1NjFJTmJQSmYxTGplYlI1MlE1MnJCTTV2VTItZ1VzVHBhV0xibS1wMmFRbXc?oc=5",
    "published": "2026-11-12T09:24:08Z",
    "outlet": "Yahoo Finance Singapore",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e79f38fb71cc4c5e",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences (NasdaqCM:NERV) Stock Forecast & Analyst Predictions - Simply Wall St",
+   "summary": "Minerva Neurosciences (NasdaqCM:NERV) Stock Forecast & Analyst Predictions Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdG1XOGJ0YTF5cWNTRFV3VUdreVJudEc5Rk8wWk1DVGxMclRMSVFYNUFiTzNTTHNfU1VGbnZzMWJPQ2tzUktNSnlRdkV6REgwWjQ4bjZYWlRSR2NHWm1QblZwSFJkNXJEZWRSLWNmQmVxU2diWGFwQ2pvSkJSMzFhOEg4SEJucG14SmpqMG1yWHZxZjByS002Zk1CeVU?oc=5",
+   "published": "2026-11-12T08:00:00Z",
+   "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -16988,6 +17010,17 @@
    "first_seen": null
   },
   {
+   "id": "21c46fb130d20c16",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Yahoo Finance",
+   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblBTam5jVG1XX1ZIS3ZFNnhqNC1IYl8xMTc5UjdOT0xwdzFCU2c0MGVNb3ZORjlqTjJybTdKY09SeE5ZTkNKQWlLMENEdktNSkZ1eGcxWkRpTWpQczRLckN4MkZ3NjhfZmxfT2FzN0oyY29DOUpZazYwd3huOTdqcGt4a1dWSWtFVEFRcF9Tay1YcWlUVWYtb0ZmTDlRblVvblhOb0U4eVhjSTky?oc=5",
+   "published": "2026-10-30T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "dacf5d1be1dbbfba",
    "company": "Supernus",
    "title": "0001356576-26-000051 - 10-Q - Supernus Pharmaceuticals",
@@ -22000,17 +22033,6 @@
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVVRLUHBqVkJ5bnpNbTNKRW9FdWdfNlpmSzZyRzJOYlQzUUd4TExCMXpHWjN6N1ZKU19KS21WMHRLVDQzcGg1aE9qX05JYzJBVEhLeUhSVHctOXZKVVZKZWc4VzRKX3NCRjBLdkZ0QWl6QlJ0OUkwajlmcnIyaTVUX2xaM2JCZW9TVTA4aVFOQzVLbXJMaDNwMDlhOHItRE50M0VZbHg4WW5oQlp3emxsT1ZqdzJHQVJNZU1hWjFmOFdSbzNweEtDajVEUE5GX3EteFNzNGJPQ21KX1FYZEFsUm96YkhNMlXSAewBQVVfeXFMTmNUR3ZmZmM4Yk5ZcFZRUEtvZl9wMHRoaXBldDZVMjdhcE4tTjRnZERhWE9FM3hRbWZweDBPQlEtdHdxSnppdTJWQlhiSjJxcC1pWVF2dThSeTJwNlEtdHdVTk15NXZUalpXOXQ2RFVQaEVyVWtId2hSdWZ0aGZ6Snp2b3llZXpSdEZ2cl9rMG9WZjg4QW5UUVhEbEJrTF9tX1VOamljdkZNaTJvS2JJXy1EVWdudGhyUl9GTS11YUd4VVBPb3hfNFBEdWViaFd0WFVVWWtHaGk3UlFMSmFsRUFVTWdSdmw5MVVZOGM?oc=5",
    "published": "2026-10-03T07:00:00Z",
    "outlet": "Simply Wall St",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "21c46fb130d20c16",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Yahoo Finance",
-   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQk9oTDV1OFRMaGFnalBQNGgxVjIxOTR3QU1TQktzU1huekJnQWdadk12OWExVUl1eTg2LTFvNVdnMzRoeGJla1ZEbDJwZFplN2t4Yy1fQjNvQWRUcEFaWHF4WjRxeV9iY3hfSkpHQkFCeVBkc296SWZoZVcxaGtleVpPWGdEUVZsV3p2RW1JRTB4RVdZdVdQZnljLXFiYXVIYldsRkV0aUtJSXZI?oc=5",
-   "published": "2026-10-02T07:00:00Z",
-   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -42970,17 +42992,6 @@
    "first_seen": null
   },
   {
-   "id": "4187e867bb791468",
-   "company": "Cerevance",
-   "title": "Cerevance: - Cerevance",
-   "summary": "Cerevance: Cerevance",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2FnU1h0LWVUbkJWZzdYZUczRTlhcHJXT2JtRmVMX2QwZTlieWxkRzU0YWI5S3JtZUNFZlVhWkQ1RkU2Z3NFRTdqdG5FVlJVQURyRkFadm5yZGJNS0wtV1B0eV9EZEVtSFNhQkdTemszQWRwUE92eC14aVlNN1ZNNEY2SHRvV1RlMXg0RXlrNlVJVTl3WlBKdlM2eFhNVmxRU2s2c3ptQVJuUXdrNEVMNTBZRQ?oc=5",
-   "published": "2026-04-08T07:00:00Z",
-   "outlet": "Cerevance",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "367d5d226e3a221e",
    "company": "Biogen",
    "title": "Leading the way across the blood–brain barrier - Biogen",
@@ -46234,6 +46245,17 @@
    "published": "2026-02-23T11:39:49Z",
    "outlet": "",
    "method": "newsroom rss",
+   "first_seen": null
+  },
+  {
+   "id": "4187e867bb791468",
+   "company": "Cerevance",
+   "title": "Cerevance: - Cerevance",
+   "summary": "Cerevance: Cerevance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalM5aS1GRnkyVkYzdnYzS0Mtc3BwVThrb196cEl3NUhwRUZxSVFhR1NmamNwVzJqdlY0Y1g5RmM1cUxrQ1NadHY3WS1RT3lhMzA5UXdLQ2UtN3IyblU2WWppcVN3Q0U1Z0xtVVBsYkEzRmxDV2VKOUh3bmEzcmpCdjBtbmhFWDR5OTVqTDJqUkNvMTZpVWVnaTdqa21LRkVJbFIwejBQSnJFY1E?oc=5",
+   "published": "2026-02-23T08:00:00Z",
+   "outlet": "Cerevance",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
