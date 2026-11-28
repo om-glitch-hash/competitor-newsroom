@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:50:43Z",
+ "updated": "2026-11-28T04:54:52Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1835,7 +1835,7 @@
    "title": "Exclusive | Lundbeck, Top Antidepressant Maker, Weighs Move Into Psychedelics - WSJ",
    "summary": "Exclusive | Lundbeck, Top Antidepressant Maker, Weighs Move Into Psychedelics WSJ",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXNIeWNiTjd5M2pqRzVLMDZvT2dZSXAxd0dkX29ld0hKX3J0bFl6S2lxMzJ4OVpseVVZYmQ3Y0Jtcy1TNVBTSHEwYnViYl9uNFFFdHh2UTNCd0VpNS1NcGxyUFZzbk9rQzJiV3RnUWdQb1JrQl9TSDVxYlZfWDlPR2ZUcWZtLWV2enc5Qk14OVJwVHVybWZORGVUeHRrZ2JwMHVYeTlRRlYzZw?oc=5",
-   "published": "2026-11-27T12:43:00Z",
+   "published": "2026-11-27T12:43:51Z",
    "outlet": "WSJ",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-27T14:27:56Z"
@@ -1922,8 +1922,8 @@
    "company": "Alterity Therapeutics",
    "title": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) - Stock Titan",
    "summary": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGN3bkVZNHhBOUNkWGJTb2JaUGd1Zkk4bDJvbkE3cklSZTZYNVBTakZaQXhUeDNRU3RJaXgwaTB5T1RNcWZPai1qRndJNEhBeEpHRVJBOENON3ZCd0ljWW9jbWpVdU5rTkdMY0VpY29uNXFsQ1N5OHJwZTRqZVhOcDl2M3FkdFZSQlZxanhnN0Z6cWc3Wm80OTh3eUVHazhGVzdRZ1BLWGt5RlJ5WWg3QjJwQWJSTl9WelBLMXJB?oc=5",
-   "published": "2026-11-27T11:05:42Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSHJYNHdnazllaTJ4YllsMk9BcEl0d09KX21BWUJINXptS2oxempDSUsyeWVrd1RlbFVfd055X2ZEeHRsN0RrR0NGR3JrNk9BbHg4eU5CYmpuUTh1WWRfNnh3ZEVrMmtLdmszODlQOXowLU1ETnVQS2ZyWHJfWGpQU2pnWmEzNVVEc0txT3FaUFN4YnVzVVZKTVp2dGlfSXZOUHBEMWc5OU9SbEVEMU1lQ3F6bnFjNXhjNV84TzBR?oc=5",
+   "published": "2026-11-27T11:07:05Z",
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T12:04:08Z"
@@ -5713,6 +5713,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "ad6afa360ff4dd0c",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio secures FDA agreement on ISS plan for buntanetap NDA - TipRanks",
+   "summary": "Annovis Bio secures FDA agreement on ISS plan for buntanetap NDA TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMVNVTDYxS213VVBuYUJhZm9peXBWZC1xazUtV1ZPal9jbFRHZ2NodktKZ3JmZnFYajZLMVpvMWlIZjVHZmNkN0MydHdTV09pSzVxcHNiSTU0S3U2N3laaUE5dWdtYXF5a3hEamc3UzhwcjduNG1YVGhfUG1GZi1md0NVWFN1V0E0azFKQWtCZ0xsQXZaRm5yWWtScW8xdkZPZjlLcFpmMXdEMktVb0o4aWc2RE4?oc=5",
+   "published": "2026-11-20T13:11:03Z",
+   "outlet": "TipRanks",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "5ca2d758e8a7bd95",
    "company": "Annovis Bio",
    "title": "Annovis Secures FDA Agreement on Integrated Summary of - GlobeNewswire",
@@ -8870,6 +8881,17 @@
    "first_seen": null
   },
   {
+   "id": "6561b3d67d3a47e7",
+   "company": "Biogen",
+   "title": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 - Biogen",
+   "summary": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 Biogen",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoczRESnJac1FyV2M3ZlkzaVVCYXZ6T1RrM3liMGl0SnBUeWtpZjhyNklYd3JWWnVkS3ZCdFM2dHZFZVJqN1RUWXVZUGdRRU53clhzZHpB?oc=5",
+   "published": "2026-11-17T00:55:53Z",
+   "outlet": "Biogen",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": "2026-11-19T17:11:01Z"
+  },
+  {
    "id": "5bfd1837338d4db0",
    "company": "Newron Pharmaceuticals",
    "title": "Newron Pharmaceuticals SpA (NP5.HA) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
@@ -8879,17 +8901,6 @@
    "outlet": "Yahoo! Finance Canada",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
-  },
-  {
-   "id": "6561b3d67d3a47e7",
-   "company": "Biogen",
-   "title": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 - Biogen",
-   "summary": "New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension Presented at CTAD 2026 Biogen",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZm1kZ0otbW1OVzlwMWdxQlR1VzVzajlxRWtlTUJEY0EtY3dfSEZQZlhSWEM1ZVVwTlZMTGxCYS1rNWdrMXRCZnYxUWRWcUpieU1Ec0VzUDQzYVRHY3lUTjZMcTFlSjFYcDh3ZnBLOUo4c1dQd0Y4cUdQeDNYNzYtdTJEMWxlQmJkWXpxM1k2SjVlTVpGNjRvcjFZVWRKcTZoeERoNEhJQXNrZmJYakFZb1k0QzRQZFVINGF3?oc=5",
-   "published": "2026-11-16T23:00:29Z",
-   "outlet": "Biogen",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": "2026-11-19T17:11:01Z"
   },
   {
    "id": "f02b72d55d3990ec",
@@ -10806,6 +10817,17 @@
    "first_seen": null
   },
   {
+   "id": "e79f38fb71cc4c5e",
+   "company": "Minerva Neurosciences",
+   "title": "Minerva Neurosciences (NasdaqCM:NERV) Stock Forecast & Analyst Predictions - Simply Wall St",
+   "summary": "Minerva Neurosciences (NasdaqCM:NERV) Stock Forecast & Analyst Predictions Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdG1XOGJ0YTF5cWNTRFV3VUdreVJudEc5Rk8wWk1DVGxMclRMSVFYNUFiTzNTTHNfU1VGbnZzMWJPQ2tzUktNSnlRdkV6REgwWjQ4bjZYWlRSR2NHWm1QblZwSFJkNXJEZWRSLWNmQmVxU2diWGFwQ2pvSkJSMzFhOEg4SEJucG14SmpqMG1yWHZxZjByS002Zk1CeVU?oc=5",
+   "published": "2026-11-15T08:00:00Z",
+   "outlet": "Simply Wall St",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "11a752e8ac11e5ae",
    "company": "TG Therapeutics",
    "title": "Will Revenue Guidance Raise Change TG Therapeutics Stock Narrative - Simply Wall St",
@@ -11763,17 +11785,6 @@
    "first_seen": null
   },
   {
-   "id": "e79f38fb71cc4c5e",
-   "company": "Minerva Neurosciences",
-   "title": "Minerva Neurosciences (NasdaqCM:NERV) Stock Forecast & Analyst Predictions - Simply Wall St",
-   "summary": "Minerva Neurosciences (NasdaqCM:NERV) Stock Forecast & Analyst Predictions Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdG1XOGJ0YTF5cWNTRFV3VUdreVJudEc5Rk8wWk1DVGxMclRMSVFYNUFiTzNTTHNfU1VGbnZzMWJPQ2tzUktNSnlRdkV6REgwWjQ4bjZYWlRSR2NHWm1QblZwSFJkNXJEZWRSLWNmQmVxU2diWGFwQ2pvSkJSMzFhOEg4SEJucG14SmpqMG1yWHZxZjByS002Zk1CeVU?oc=5",
-   "published": "2026-11-12T08:00:00Z",
-   "outlet": "Simply Wall St",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "972c34ef3833f78c",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson (JNJ) Backs New Cancer Device And Leads $100 Million Depression Bet - Yahoo Finance",
@@ -12401,17 +12412,6 @@
    "first_seen": null
   },
   {
-   "id": "3bec278c55fbbe92",
-   "company": "BioVie",
-   "title": "BioVie to present additional Parkinson’s drug data at international conference - Proactive financial news",
-   "summary": "BioVie to present additional Parkinson’s drug data at international conference Proactive financial news",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3ZYODVJdVdTdkhVS3VZRUNsV0hMRkQ2ek1MZldPXzhWM3NCRFN0NTlldzkzR1dWUmZWdzB4eGJYS2pyNnE3WTYxd0JLclR3R3VpMHBvNWFyRVNJZmFjUEItVWRpYkJQWnhwcEVRalpVby1iVFZRV3ZuRzhCdk50dHl2V0FRd2szWjlCUUdlVkxfMGdQeFJhRUlkcU01dTlJOWoxVWRJUUFmcnFWM0RCZ3lYV0dYaWwxbU5NV1pwNzYzRVFzektfRG1BLUFIMDFUeVh4bDhsZ2JTU2pjODlPS3BPTQ?oc=5",
-   "published": "2026-11-10T14:32:00Z",
-   "outlet": "Proactive financial news",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "4098aa9cba71ac3b",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "Johnson & Johnson’s Caplyta meets endpoints in bipolar mania study By Investing.com - Investing.com UK",
@@ -12485,6 +12485,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVk4V09HQmdVVjFsODIyWE9pc0laWGl3UFN5RkhxTTBGTHF0ZGNCTDJ4WnR6UUN5RmxFM18yT2VRZ2hwWjB5SGtlSWE0VUxUS2tmbUlIQWxrNDZnbVBGUmhoTlRDTDg3MG1OZkd5cF9HclItcmcwZUZBOEtMcnl5MUhENGZveDFIRlVNTy1fd2g2UFlCMnVJeV9CbUlZVEFsS0VIUnBtUU9pNVp0TzVzMU80SG9ZdUtDenppM1dpV01qcjhp?oc=5",
    "published": "2026-11-10T09:08:09Z",
    "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "3bec278c55fbbe92",
+   "company": "BioVie",
+   "title": "BioVie to present additional Parkinson’s drug data at international conference - Proactive financial news",
+   "summary": "BioVie to present additional Parkinson’s drug data at international conference Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3ZYODVJdVdTdkhVS3VZRUNsV0hMRkQ2ek1MZldPXzhWM3NCRFN0NTlldzkzR1dWUmZWdzB4eGJYS2pyNnE3WTYxd0JLclR3R3VpMHBvNWFyRVNJZmFjUEItVWRpYkJQWnhwcEVRalpVby1iVFZRV3ZuRzhCdk50dHl2V0FRd2szWjlCUUdlVkxfMGdQeFJhRUlkcU01dTlJOWoxVWRJUUFmcnFWM0RCZ3lYV0dYaWwxbU5NV1pwNzYzRVFzektfRG1BLUFIMDFUeVh4bDhsZ2JTU2pjODlPS3BPTQ?oc=5",
+   "published": "2026-11-10T08:00:00Z",
+   "outlet": "Proactive financial news",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -14672,7 +14683,7 @@
    "title": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal - Dealroom",
    "summary": "BioVie taps investor for $4.74M raise, its latest Nasdaq-priced deal Dealroom",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmpBRENzYjRGQnV5NTJPMHNTeFA2U1JEbXJKRXVFajBvZGJkTi1TcmREMWJrQm9YbGYwMzNLOGhIdHowTEhkNDNELTRtSVN4UWJJU05XemZPV1NpYUJkVm9EcDhhamxCY01oRURINVJHTUZaWFc2TUZCaDM3Y2VaZVY1YWFPeEFoeEF6T2EtNF96SzdmTFQycjlzdVpJQlM2Wnc?oc=5",
-   "published": "2026-11-05T02:32:23Z",
+   "published": "2026-11-05T05:22:22Z",
    "outlet": "Dealroom",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -40000,6 +40011,17 @@
    "first_seen": null
   },
   {
+   "id": "4be7e44f5fd983fb",
+   "company": "Arvinas",
+   "title": "Arvinas and Pfizer Enter into a Transaction with Rigel Pharmaceuticals for the Exclusive Global Rights of VEPPANU (vepdegestrant - Arvinas",
+   "summary": "Arvinas and Pfizer Enter into a Transaction with Rigel Pharmaceuticals for the Exclusive Global Rights of VEPPANU (vepdegestrant Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CblRLa3Q3VE02NkRibUZ2MjdkUWRlMURBRGU3dWY2MWpoeDNiMEZJTjl1LXYzYVRZcnBZX1IyaHlLOHB3bGRIWXkzSnMydw?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "Arvinas",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "fbb7a8cc14e06160",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "#NCT07573176 - J&J Clinical Trials",
@@ -46728,6 +46750,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYm54Z3hSN0lMUE1xQndlV3hyMmhrQUN6aFozT1ZhbjR5ZVRpX3k0Mm4tMmt1UGxCZVNLMzdHb0VacnkwRzlsc2xvcUNtMkxaZURCamtxbjJNbFFISlktUXhFT2pWMElQdjMxdXFsOHRZcDdzS0RGV2hYd2tKVnRxdTdkWnBRTlVabXBjT3JJX2h0czBfbVpwVVVTb1MzWHM3LUtxVFB5VktyWENfcW9OSUpLTU1rZnNuMlluaGpLN0RUS0Q2?oc=5",
    "published": "2026-02-12T08:00:00Z",
    "outlet": "Alkermes",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "a81b7d4a167c25fd",
+   "company": "Arvinas",
+   "title": "Arvinas Announces Appointment of Randy Teel, Ph.D., as President, Chief Executive Officer, and Director - Arvinas",
+   "summary": "Arvinas Announces Appointment of Randy Teel, Ph.D., as President, Chief Executive Officer, and Director Arvinas",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVlUwWHZvSXlWWVdxcWNwc0l4SXBpN1ZTcDhJTWJSS29mb3lYS0FJb1RQRmFXM3BrNVFQQWJheFFGRFh0R0ZHQW1UcVRFUXo0TmRQOUdBemJLdDhGTmVwaUE4RzlxWG5aVzZyUXVEajlFMkZtQ0dBUGRpcHE4WmcwNDUtaFRIaHc5X0I5WDNiZVNOSTE3WVhJTTVqcTBVLXdVYWZrUVJ6VGcydmV5Wnl2cDJ1eWVKNUZQMmFv?oc=5",
+   "published": "2026-02-12T08:00:00Z",
+   "outlet": "Arvinas",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
