@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T15:30:25Z",
+ "updated": "2026-11-28T16:23:51Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1654,6 +1654,17 @@
  },
  "items": [
   {
+   "id": "7106268b0feaf0d6",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) stock price, news, quote and history - Yahoo Finance UK",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) stock price, news, quote and history Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFUUMyYVBoczRhdnc1blJyTkdWM1pBTVJhX0JuZXViSDFYN0o3RVZoTTNSM2FaUFo3YjlHVjNJUGxiU2JsYXNTUjRsUTFKaUV5LWc?oc=5",
+   "published": "2026-11-28T10:51:43Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-24T22:40:18Z"
+  },
+  {
    "id": "f244175d3898b5bc",
    "company": "Neurocrine Biosciences",
    "title": "Neurocrine Biosciences (NASDAQ:NBIX): High Growth Momentum Meets a Breakout Setup - ChartMill",
@@ -2699,6 +2710,17 @@
    "first_seen": "2026-11-27T21:39:12Z"
   },
   {
+   "id": "d197bb7085cdeb7f",
+   "company": "Spinogenix",
+   "title": "Spinogenix - 2026 Funding Rounds & List of Investors - Tracxn",
+   "summary": "Spinogenix - 2026 Funding Rounds & List of Investors Tracxn",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbExIMmY4bFQzSnF5V2lRX25rNkZiTmM4aEwzSV9GMXYxdXFIX1RaT3g1TTNLOWM5WmRWTlJBNmxkbWxjc3Q1UkNoRXhaSWRFNU5BWGZlbTZjUE9wT3dMQWI3VlpyQWhXZ0JiT1BQSVktZmx5V3M5TjBxUmVxU00yYk5jelJoOWlxVUl2ZXVrSW1RTkM4clZSaGx0RVB3UTY5N0JaanZhV001VFRuRXc?oc=5",
+   "published": "2026-11-25T21:39:18Z",
+   "outlet": "Tracxn",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "5c0f4cc017e5ad3a",
    "company": "Supernus",
    "title": "Supernus, Inc. (SUPN) stock price, news, quote and history - Yahoo Finance Australia",
@@ -3280,17 +3302,6 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T15:29:13Z"
-  },
-  {
-   "id": "7106268b0feaf0d6",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics, Inc. (RAPP) stock price, news, quote and history - Yahoo Finance UK",
-   "summary": "Rapport Therapeutics, Inc. (RAPP) stock price, news, quote and history Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFUUMyYVBoczRhdnc1blJyTkdWM1pBTVJhX0JuZXViSDFYN0o3RVZoTTNSM2FaUFo3YjlHVjNJUGxiU2JsYXNTUjRsUTFKaUV5LWc?oc=5",
-   "published": "2026-11-25T04:53:04Z",
-   "outlet": "Yahoo Finance UK",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-24T22:40:18Z"
   },
   {
    "id": "23523c7b923cdeb9",
@@ -9981,17 +9992,6 @@
    "first_seen": null
   },
   {
-   "id": "4cc268c151843790",
-   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
-   "title": "Weekly Recap: BTIG lifts target to $12 and NRX sets Q3 report date - TradingView",
-   "summary": "Weekly Recap: BTIG lifts target to $12 and NRX sets Q3 report date TradingView",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWJ0V3QyN2lyOGN2YzlHaTVJcG9aVk1NRXFjQ0tZVDN0Rlh4QVF4d1NBYTM3c1hoTWQzWm5UcHRwak1idmRRejM5cHJjUzMtcFFrOVctd3VvVmVmVC0xMnFTVkpnZnhHVnlXNy1Iem1KOXFIeHlrRlNWTjJVUGJWUHU1RHFydXFFcS1KbWs1VkoxWnhkT1V0bFpuUlBhUGlPX3JGZ2xraW4wSWQ3eTNfbno0SDh3RTAxOHkyMF9rX055S094?oc=5",
-   "published": "2026-11-16T11:00:00Z",
-   "outlet": "TradingView",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "2ad002a12c985325",
    "company": "Insightec",
    "title": "Job opportunity: GVP Specialist - Insightec",
@@ -10020,6 +10020,17 @@
    "summary": "Protagenic Therapeutics, Inc. News — OTC:PTIX TradingView",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zX2lhUVdvM1B2WmNqYTB6VFBzOS02VjdKUHlZWWhaNlhaanVyZW93bzU3M1hMRkZUcUxwTDhCRzJSVlotdThOY25iZVgzS09qa0xhVjBPZTFKSFRvTTVn?oc=5",
    "published": "2026-11-16T08:43:16Z",
+   "outlet": "TradingView",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4cc268c151843790",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "Weekly Recap: BTIG lifts target to $12 and NRX sets Q3 report date - TradingView",
+   "summary": "Weekly Recap: BTIG lifts target to $12 and NRX sets Q3 report date TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWJ0V3QyN2lyOGN2YzlHaTVJcG9aVk1NRXFjQ0tZVDN0Rlh4QVF4d1NBYTM3c1hoTWQzWm5UcHRwak1idmRRejM5cHJjUzMtcFFrOVctd3VvVmVmVC0xMnFTVkpnZnhHVnlXNy1Iem1KOXFIeHlrRlNWTjJVUGJWUHU1RHFydXFFcS1KbWs1VkoxWnhkT1V0bFpuUlBhUGlPX3JGZ2xraW4wSWQ3eTNfbno0SDh3RTAxOHkyMF9rX055S094?oc=5",
+   "published": "2026-11-16T08:00:00Z",
    "outlet": "TradingView",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
@@ -17175,17 +17186,6 @@
    "first_seen": null
   },
   {
-   "id": "21c46fb130d20c16",
-   "company": "Xenon Pharmaceuticals",
-   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Yahoo Finance",
-   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblBTam5jVG1XX1ZIS3ZFNnhqNC1IYl8xMTc5UjdOT0xwdzFCU2c0MGVNb3ZORjlqTjJybTdKY09SeE5ZTkNKQWlLMENEdktNSkZ1eGcxWkRpTWpQczRLckN4MkZ3NjhfZmxfT2FzN0oyY29DOUpZazYwd3huOTdqcGt4a1dWSWtFVEFRcF9Tay1YcWlUVWYtb0ZmTDlRblVvblhOb0U4eVhjSTky?oc=5",
-   "published": "2026-10-30T07:00:00Z",
-   "outlet": "Yahoo Finance",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "dacf5d1be1dbbfba",
    "company": "Supernus",
    "title": "0001356576-26-000051 - 10-Q - Supernus Pharmaceuticals",
@@ -22213,6 +22213,17 @@
    "first_seen": null
   },
   {
+   "id": "21c46fb130d20c16",
+   "company": "Xenon Pharmaceuticals",
+   "title": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Yahoo Finance",
+   "summary": "Xenon Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQk9oTDV1OFRMaGFnalBQNGgxVjIxOTR3QU1TQktzU1huekJnQWdadk12OWExVUl1eTg2LTFvNVdnMzRoeGJla1ZEbDJwZFplN2t4Yy1fQjNvQWRUcEFaWHF4WjRxeV9iY3hfSkpHQkFCeVBkc296SWZoZVcxaGtleVpPWGdEUVZsV3p2RW1JRTB4RVdZdVdQZnljLXFiYXVIYldsRkV0aUtJSXZI?oc=5",
+   "published": "2026-10-02T07:00:00Z",
+   "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "81559094b02a61f4",
    "company": "Teva",
    "title": "Post Hoc SOLARIS Data Support Stabilization and Remission With Subcutaneous Olanzapine - Psychiatric Times",
@@ -23100,17 +23111,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHljVGZWUElHLWRqd2lNNUJ3U045YmJNQUhtaEhfcFBHWjJRalo5c2tmWklLRmtiQjBmRE5yMFh3Vm1oajBYbFFqbGxPQWlsa0NqRFZ0Tnp6VS1pcy1XbFdJX3JYWTc5YW5HbDFiRG5lSjVVa2prbEdPdEUtWTlNcWtWRnBzZmNqX0d1WTVKWFVUNGhjYjdZeWM0S0E3ZUNoTTBCTE5QZVI5SzBoakd6eF9SWDlDUnRYWG85VllVcVdBYnEtWk9ENTd2NA?oc=5",
    "published": "2026-09-26T07:00:00Z",
    "outlet": "Seeking Alpha",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
-   "id": "d197bb7085cdeb7f",
-   "company": "Spinogenix",
-   "title": "Spinogenix - 2026 Funding Rounds & List of Investors - Tracxn",
-   "summary": "Spinogenix - 2026 Funding Rounds & List of Investors Tracxn",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbExIMmY4bFQzSnF5V2lRX25rNkZiTmM4aEwzSV9GMXYxdXFIX1RaT3g1TTNLOWM5WmRWTlJBNmxkbWxjc3Q1UkNoRXhaSWRFNU5BWGZlbTZjUE9wT3dMQWI3VlpyQWhXZ0JiT1BQSVktZmx5V3M5TjBxUmVxU00yYk5jelJoOWlxVUl2ZXVrSW1RTkM4clZSaGx0RVB3UTY5N0JaanZhV001VFRuRXc?oc=5",
-   "published": "2026-09-26T07:00:00Z",
-   "outlet": "Tracxn",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -33118,7 +33118,7 @@
    "company": "Eli Lilly",
    "title": "Eli Lilly bets $2.8bn on AtaiBeckley’s psychedelic therapies for depression - European Pharmaceutical Review",
    "summary": "Eli Lilly bets $2.8bn on AtaiBeckley’s psychedelic therapies for depression European Pharmaceutical Review",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcTl0UDljWmVsNEU1SmpCRGZVbXdfWDFZOGpxSHZ4Q1k1Zm1VUjBRWkZldlotNGpJdGxGdkxhM1VMQW85Y0tVWW1LNkUxbTlvbVZadkZXYnVVa1BUc2hhMFRYV0ptU0xPWUg2VGczSjEtaTZxa1AwV2V1VjhnU0hNSGFIT1FvMF9xU3J4VUozWkpZdG51NjVrR09CaGZSVWRqNzNOZ3FMVE5rYlpVTjg4Sk1fZUUtRnhiNGxnaUtFM21DSTV0WTB2Ny1lVUU3Zw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOXNUWjVNaDNrWkNNbVppTkx2OEVpUDhSTHhwVFJWZF9tVGFRMTdSQTQ1WDlxOFZ0YWZWVXVWR2ttTE5INlhNWHF3TVBZT3hxeWdqZFZkMFdnYlgweFZPQWNCUUxhNkJGT2ZqYjdsSmtIS1JyLVhfUzN1Tm4zTkpoRWpJRXlhS3RlYk5LNUFWTlVTMEczUzEtRzNxX21xRmJnTXliaThLaGxFOUdNcUFGa3FFdzdQSTdESjBibHdxdXh2dTlza1ZDdUZBQk1zX2s?oc=5",
    "published": "2026-07-20T07:00:00Z",
    "outlet": "European Pharmaceutical Review",
    "method": "news search (newsroom not indexed)",
@@ -34348,6 +34348,17 @@
   {
    "id": "6bb6624ea9f6af95",
    "company": "Eli Lilly",
+   "title": "Eli Lilly to Acquire AtaiBeckley for $2.8 Billion - PharmExec.com",
+   "summary": "Eli Lilly to Acquire AtaiBeckley for $2.8 Billion PharmExec.com",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUzBDVGV6MTBNY0tkXzBHZWFNenNCRUhYSzVQSkVSWXhiTl82UU5mdGFtWDN5MnRmWFN6ZmRrMGkxVzdHWXY3S1JqdlRJOHhTM1pLY0U3QnROb3NKY2JDSWd6T01Qb3ZURmFIX2l4YXZmc3FT?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "PharmExec.com",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "048bea51b5e39e2d",
+   "company": "AtaiBeckley (Atai Beckley)",
    "title": "Eli Lilly to Acquire AtaiBeckley for $2.8 Billion - PharmExec.com",
    "summary": "Eli Lilly to Acquire AtaiBeckley for $2.8 Billion PharmExec.com",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUzBDVGV6MTBNY0tkXzBHZWFNenNCRUhYSzVQSkVSWXhiTl82UU5mdGFtWDN5MnRmWFN6ZmRrMGkxVzdHWXY3S1JqdlRJOHhTM1pLY0U3QnROb3NKY2JDSWd6T01Qb3ZURmFIX2l4YXZmc3FT?oc=5",
@@ -38126,6 +38137,17 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWx3Y2stM2xvQTdMQV9PWm9RbVEza01IT0R3UzNhN1ozd1RsV1NQX0hPb2Y3d1ExSjhJSno4STVjdjhhanlsalE4MEhkNm5pb0p3TnRmVGlrMkdKRC1QVE5ESm9Sa2hqWHVMangwdW9MZFFSWjBoTVVQMl8zOTd5aFZuUUM2UmNrV0lDOTM4NFpoOE1saTVZajlvd2xGaUVwMllHZXVaTEg0NHRVR0Z5OG9uVmNJMHptai1SZEtpUjZqcXptcDkw?oc=5",
    "published": "2026-06-03T07:00:00Z",
    "outlet": "Benzinga",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "5a4c5928e384bc75",
+   "company": "NRx Pharmaceuticals (Hope Therapeutics)",
+   "title": "NRx Pharmaceuticals Prices $20 Million Public Stock Offering - citybiz",
+   "summary": "NRx Pharmaceuticals Prices $20 Million Public Stock Offering citybiz",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXduWTJYT3NYOUhpSnNQNFBZSHEwV2hXdXBfR1dXTkg5aUVDSkg5QUJTeGN2Y3otZTZJZTlESEx5eG5NNFJLbXNKd3NTTWtPM0o4Q211M0U2SWMxTzI3RG92Zjl4RHNHQ3k2aUJkRGFEMm5wMHhNdi1oOUlPWGZvejJFVTl5UVprOXRrM3Z4UkRpY0lLcmFOa2JTSnRUV2M?oc=5",
+   "published": "2026-06-03T07:00:00Z",
+   "outlet": "citybiz",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
