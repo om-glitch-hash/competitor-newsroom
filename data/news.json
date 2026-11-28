@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:48:33Z",
+ "updated": "2026-11-28T12:52:17Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1676,6 +1676,39 @@
    "first_seen": "2026-11-28T08:16:07Z"
   },
   {
+   "id": "90dc59742d58a9c3",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Inc (19X.HM) income statement - Yahoo Finance UK",
+   "summary": "Axsome Therapeutics Inc (19X.HM) income statement Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BZUt5TFMzS0dqZGpKZFFnWTlCQlNZN1ZrcS15REMweGMtVzRJcllfOFVBUFV3VUpQYVRtSUZUWEptdGhjdkh5dDBET0tybER4WGhQMjlEUzZmWEdMcTloZEVzQQ?oc=5",
+   "published": "2026-11-27T23:50:10Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-28T12:52:17Z"
+  },
+  {
+   "id": "a6e91482344d3477",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Inc (19X.HM) Seasonal returns chart - Yahoo Finance UK",
+   "summary": "Axsome Therapeutics Inc (19X.HM) Seasonal returns chart Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0waGpYdE05dmVCYkZwR0hXUGozSmVnZTRYLUVZNVVvZWlpVkdmYmF1dVZxRzhnSVFoeDNEd1p3c0x1dFZick9zZTVrTXhZb0VRYWZCMjh1RGZ0UlROZ2FTVTh1aHA?oc=5",
+   "published": "2026-11-27T23:31:16Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-28T12:52:17Z"
+  },
+  {
+   "id": "7934ce8767b9371b",
+   "company": "Axsome Therapeutics",
+   "title": "Axsome Therapeutics Inc (19X.HM) valuation measures and financial statistics - Yahoo Finance UK",
+   "summary": "Axsome Therapeutics Inc (19X.HM) valuation measures and financial statistics Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sZFJFbm4zZ3hwYVhhSWZmQklfZmdSU3RVaExuWkh2Rlh3TE93bjhrUGhwalFrbW51TEFsZ1BLeUxYNF8tQlg4RHpXR1ROUXpNNVUxaHgyMDhZTjdqRDN4eWNDS3Fld1pn?oc=5",
+   "published": "2026-11-27T23:26:13Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-28T12:52:17Z"
+  },
+  {
    "id": "08b50b83a6baab22",
    "company": "Annovis Bio",
    "title": "Annovis Bio (ANVS) gets NYSE notice on US$1 price standard - Mugglehead Investment Magazine",
@@ -1762,6 +1795,17 @@
    "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-27T22:39:29Z"
+  },
+  {
+   "id": "6d34faacaef43e71",
+   "company": "Annovis Bio",
+   "title": "Annovis Bio Inc (07X.DU) stock price, news, quote and history - Yahoo Finance UK",
+   "summary": "Annovis Bio Inc (07X.DU) stock price, news, quote and history Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqMzFYUi1QdFBWQ3ZjWWZjV096UE1tc3VjbWllWFNsbUF1WGFTUmRtbmNULWFfejhVSFY2amwwMFNkRkxqUUgwWUZZV1pLekhiUlJjUDlSSkpoLWZtM3NDRVdB?oc=5",
+   "published": "2026-11-27T19:55:42Z",
+   "outlet": "Yahoo Finance UK",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-28T12:52:17Z"
   },
   {
    "id": "2da4727b8a399275",
@@ -1944,8 +1988,8 @@
    "company": "Alterity Therapeutics",
    "title": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) - Stock Titan",
    "summary": "ALTERITY THERAPEUTICS LTD Current Report (Foreign Issuer) Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSHJYNHdnazllaTJ4YllsMk9BcEl0d09KX21BWUJINXptS2oxempDSUsyeWVrd1RlbFVfd055X2ZEeHRsN0RrR0NGR3JrNk9BbHg4eU5CYmpuUTh1WWRfNnh3ZEVrMmtLdmszODlQOXowLU1ETnVQS2ZyWHJfWGpQU2pnWmEzNVVEc0txT3FaUFN4YnVzVVZKTVp2dGlfSXZOUHBEMWc5OU9SbEVEMU1lQ3F6bnFjNXhjNV84TzBR?oc=5",
-   "published": "2026-11-27T11:07:05Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGN3bkVZNHhBOUNkWGJTb2JaUGd1Zkk4bDJvbkE3cklSZTZYNVBTakZaQXhUeDNRU3RJaXgwaTB5T1RNcWZPai1qRndJNEhBeEpHRVJBOENON3ZCd0ljWW9jbWpVdU5rTkdMY0VpY29uNXFsQ1N5OHJwZTRqZVhOcDl2M3FkdFZSQlZxanhnN0Z6cWc3Wm80OTh3eUVHazhGVzdRZ1BLWGt5RlJ5WWg3QjJwQWJSTl9WelBLMXJB?oc=5",
+   "published": "2026-11-27T11:05:42Z",
    "outlet": "Stock Titan",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-20T12:04:08Z"
@@ -5724,6 +5768,17 @@
    "first_seen": "2026-11-21T01:26:11Z"
   },
   {
+   "id": "3e8684087288a10a",
+   "company": "Annovis Bio",
+   "title": "FDA agrees to Annovis Bio’s safety data pooling plan for buntanetap - Investing.com Canada",
+   "summary": "FDA agrees to Annovis Bio’s safety data pooling plan for buntanetap Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1llUDA4LUJEdXVibl85UVBhQVhCSG1pNHYySktoOG0wcC1CdWRPTmN0d21oblRjblZnRk50dERZX2ZQMXd4dURpcDhRLUhsZGx2ZEpwUWpVQ3RKMW93OGlEVXl1VndKazctczhnajVzZFdqZU5WdXFwRHRKbXIydUd5LUNSTzFkX3JycUk4aEQ2UjVtTDAwVVRBajBlYlRTM2czM3JMTV9YNGo2OXhyNy1IWXJrYUU0M0hSa05FQnd1M0E5RlE?oc=5",
+   "published": "2026-11-20T13:32:48Z",
+   "outlet": "Investing.com Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "d8d10a289a205816",
    "company": "Annovis Bio",
    "title": "Annovis Bio, Inc. (ANVS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -5755,17 +5810,6 @@
    "outlet": "Investing.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-21T01:26:11Z"
-  },
-  {
-   "id": "3e8684087288a10a",
-   "company": "Annovis Bio",
-   "title": "FDA agrees to Annovis Bio’s safety data pooling plan for buntanetap - Investing.com Canada",
-   "summary": "FDA agrees to Annovis Bio’s safety data pooling plan for buntanetap Investing.com Canada",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1llUDA4LUJEdXVibl85UVBhQVhCSG1pNHYySktoOG0wcC1CdWRPTmN0d21oblRjblZnRk50dERZX2ZQMXd4dURpcDhRLUhsZGx2ZEpwUWpVQ3RKMW93OGlEVXl1VndKazctczhnajVzZFdqZU5WdXFwRHRKbXIydUd5LUNSTzFkX3JycUk4aEQ2UjVtTDAwVVRBajBlYlRTM2czM3JMTV9YNGo2OXhyNy1IWXJrYUU0M0hSa05FQnd1M0E5RlE?oc=5",
-   "published": "2026-11-20T13:17:36Z",
-   "outlet": "Investing.com Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
   },
   {
    "id": "3d1cd40487bb0229",
@@ -7070,7 +7114,7 @@
    "company": "Neuron23",
    "title": "NervGen appoints Sam Jackson as chief medical officer - The Globe and Mail",
    "summary": "NervGen appoints Sam Jackson as chief medical officer The Globe and Mail",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNEQ5bkw2U1hHRVdLSTJ2eHNYQlFhV2lNU0N4eXhkMHlFbFZaNllLUmRDS2VtUmc5YVZMczVVOFI0S29CZVpyN2syX250Y0FtNThhQXE3YndMd2lucDRwYTBPVFlFNDI0Q1k2cng0bTJKMWJBckNlX2xZUENsSTVVMWFNR1VFRGEyTVBJaVBZZWlNQl9GRUZ3Z1J6cXJkLVlvcVhOS1NES2pqVDE2S3o0UzFaRlltVnZxRG5Qa1FOSkpuTXQtWHJvYUNFR2VVa2ZpVzRqVjNMRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMndYWmlCZWpzQUxJWGY5TEpHby0yc3NuYXhtUTc2MGVnaWtzLTA4SzBBU3Z5aFRQVXl5MFhUeHdQOUpNLUdXTGVNTFZDSWZuSXhUMlc0eHlNZDVkREh0ZTNFSV9jak5yTjFaVmU4MWhwVzZXUk9qMjBnbXRwM3hMbzc5Z1hkaE1vVlMtVGV6Ml9HS0RVM2NCZkkzRUZSQ2E4ckwzc3BtNUlESWZ5bHlwdlM1UWFMS21hdVBhYk5iSlB6QWtuQXhxSS1CbXRDY1U?oc=5",
    "published": "2026-11-19T08:00:00Z",
    "outlet": "The Globe and Mail",
    "method": "news search (newsroom not indexed)",
@@ -16740,7 +16784,7 @@
    "title": "Denali Therapeutics Receives 2026 Prix Galien USA Award for AVLAYAH® (tividenofusp alfa-eknm) as Best Biotechnology Product - Denali Therapeutics",
    "summary": "Denali Therapeutics Receives 2026 Prix Galien USA Award for AVLAYAH® (tividenofusp alfa-eknm) as Best Biotechnology Product Denali Therapeutics",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMG5aUHRheDNWMFJEaXAyazVSNDlUdVc0d1FnWG9HSElaRFV5MXhlaGg3U25MVEZjMXA4WVk5eEN3S1BYc0tyZDZFVzNRSG9lNFhZNUtMRi15UmJ5cEprT29JZWdJNmxBbGsyOTJZUFVURDAyRlFwVjNjWjNiR2xObGtMejQxZnFUa1dEdy1KMkJ1WEhLX2JXMXd0Und3MmpHQXdXN3Q0UDNraHhsV0pSU29ORnNmdjJnVk9WdkNaenVYb2ZGMDJmRVpYV3I5VVJVU3l5VDV1UQ?oc=5",
-   "published": "2026-10-30T13:31:02Z",
+   "published": "2026-10-30T07:00:00Z",
    "outlet": "Denali Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
@@ -19096,6 +19140,17 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN1JETGpIUzZUYXBrUm43OHBrbzZ4SHFxQ3U4cnpaVjlrVTU0YXJ6S2dlclhKRW5iUWlBSUkyb29YOUhKejNfLVl4V0ZnY2k5Vl81MmlIY0hITGZmM05YLTVGVHJNMWR5ZnQ5djR0dG1hWHZXbm5OUHRHc1RiQlBVNzBoejlnN2laVVNxam9sZmhsbFljVF9NRkZoTVU5dw?oc=5",
    "published": "2026-10-22T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "540b465f9572a11d",
+   "company": "Alterity Therapeutics",
+   "title": "Alterity Therapeutics Updates CEO Remuneration as Neurodegeneration Programs Advance - The Globe and Mail",
+   "summary": "Alterity Therapeutics Updates CEO Remuneration as Neurodegeneration Programs Advance The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPX3JnTkRLejhIQlNhczduRGdoLUpiOUFGT29jNzR1NEFDQXljYTBOOVFmQWlmQ1pEbVQydERKNmE2eDZ4c0pSZmM2bVpoWnZ6Zjd2ZklxQkEzazBIc3Z6LVBWaTJ2cUdZSC1mTzFDUVQwZGtjRTdQejNGRFNabFNHZTR2eVpNR2NLREh6OER2cTdTS1A5STBrYUt2MVdJb2FXMk5OOUlIRUFZUkgwU2JRbUt5dnp1RE9aa0NaOHkxLXVlTGQ5X2RpMEtSZEJBUTl0Zmxvb3dTQkFNSEtMRUtJdWxhNmMzclg3eGNWQmk4WnBIMmhxMXB4bQ?oc=5",
+   "published": "2026-10-22T07:00:00Z",
+   "outlet": "The Globe and Mail",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -23280,17 +23335,6 @@
    "first_seen": null
   },
   {
-   "id": "8411b24cbd62b9d7",
-   "company": "Usona Institute",
-   "title": "Review: Protomartyr dive headlong into the American nightmare on 'Hotel Usona' - Paste Magazine",
-   "summary": "Review: Protomartyr dive headlong into the American nightmare on 'Hotel Usona' Paste Magazine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmVLdGtvNGtRcm01YUNvSGc3VzBna2J0cnNKamZaSzNudEtmOUgyOEowc081WDQ5Z3haUEYxTVlFb3QyWHF2VGJlY05XUkFxV3RIZEZNbmpDQ2xFTy1hSTcyYUFRVUZLbUM4aXgzLTlUSWwwbG5pRDBoRzZFWTVvcFdwYTM?oc=5",
-   "published": "2026-09-24T14:42:15Z",
-   "outlet": "Paste Magazine",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": null
-  },
-  {
    "id": "e51c162b1684797c",
    "company": "Transcend Therapeutics",
    "title": "Blake Mandell - BioSpace",
@@ -23298,6 +23342,17 @@
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVN0ZoZEw4UGdHNThqdmNSMVE0X001QnJuSXNQMGZjNzVDWmdqNHl0aVcweUVvRi1hYTFDX2FOSUFRZTI2VDA3STVaNHZES00?oc=5",
    "published": "2026-09-24T07:56:58Z",
    "outlet": "BioSpace",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "8411b24cbd62b9d7",
+   "company": "Usona Institute",
+   "title": "Review: Protomartyr dive headlong into the American nightmare on 'Hotel Usona' - Paste Magazine",
+   "summary": "Review: Protomartyr dive headlong into the American nightmare on 'Hotel Usona' Paste Magazine",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmVLdGtvNGtRcm01YUNvSGc3VzBna2J0cnNKamZaSzNudEtmOUgyOEowc081WDQ5Z3haUEYxTVlFb3QyWHF2VGJlY05XUkFxV3RIZEZNbmpDQ2xFTy1hSTcyYUFRVUZLbUM4aXgzLTlUSWwwbG5pRDBoRzZFWTVvcFdwYTM?oc=5",
+   "published": "2026-09-24T07:00:00Z",
+   "outlet": "Paste Magazine",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -30375,17 +30430,6 @@
    "first_seen": null
   },
   {
-   "id": "fd01631d56bf0012",
-   "company": "Denali Therapeutics",
-   "title": "Denali Therapeutics Reports Second Quarter 2026 Financial Results and Business Highlights - Denali Therapeutics",
-   "summary": "Denali Therapeutics Reports Second Quarter 2026 Financial Results and Business Highlights Denali Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmFlM0JQWkRrQmpFSERSZU12TFJNb3FmaGhVMTFNWmdBZl9UZ1p5YjZzb3ZzZ0JGYXd2Sm0wWThjNFBaZDQxLTE5QXN5YlVlek42Q2JyV0l5cWlHdTMydENkdXRSWWNYUDVxRXlNdExyaVhfd1B2OHBFUkx6UXRJa3N6TUYyYUdoeGJRNGlZTTZRTWZwR1c4SDF1bFVqV0FWa2ZNWTNYUVgzMWtBY1Y3cHlJSXJ0M3dJaXh3UkJkaHAxQ3pQcjgydjFzZXdmZw?oc=5",
-   "published": "2026-08-07T03:27:40Z",
-   "outlet": "Denali Therapeutics",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
    "id": "024b6ba239831b7b",
    "company": "Vanda Pharmaceuticals",
    "title": "Document - SEC.gov",
@@ -30394,6 +30438,17 @@
    "published": "2026-08-06T21:03:48Z",
    "outlet": "SEC.gov",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "fd01631d56bf0012",
+   "company": "Denali Therapeutics",
+   "title": "Denali Therapeutics Reports Second Quarter 2026 Financial Results and Business Highlights - Denali Therapeutics",
+   "summary": "Denali Therapeutics Reports Second Quarter 2026 Financial Results and Business Highlights Denali Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmFlM0JQWkRrQmpFSERSZU12TFJNb3FmaGhVMTFNWmdBZl9UZ1p5YjZzb3ZzZ0JGYXd2Sm0wWThjNFBaZDQxLTE5QXN5YlVlek42Q2JyV0l5cWlHdTMydENkdXRSWWNYUDVxRXlNdExyaVhfd1B2OHBFUkx6UXRJa3N6TUYyYUdoeGJRNGlZTTZRTWZwR1c4SDF1bFVqV0FWa2ZNWTNYUVgzMWtBY1Y3cHlJSXJ0M3dJaXh3UkJkaHAxQ3pQcjgydjFzZXdmZw?oc=5",
+   "published": "2026-08-06T07:00:00Z",
+   "outlet": "Denali Therapeutics",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
@@ -32333,6 +32388,17 @@
    "first_seen": null
   },
   {
+   "id": "56ffbdd38148d7d8",
+   "company": "S.Biomedics",
+   "title": "Yonsei University team defines key stem cell quality criteria for Parkinson’s therapy success - DongA Science",
+   "summary": "Yonsei University team defines key stem cell quality criteria for Parkinson’s therapy success DongA Science",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TMnJ4NmFaUmRjdkc1a0w3MER5b3FBZjgwd19RTW1XSnFwOUZwR1I1c2czSEl1Tzd6M08zZ19nLWZpN0FSUUtZNGRJZmFKSVFXQmpZcQ?oc=5",
+   "published": "2026-07-27T07:00:00Z",
+   "outlet": "DongA Science",
+   "method": "news search (no newsroom found)",
+   "first_seen": null
+  },
+  {
    "id": "47a5fa5baa6aa7cd",
    "company": "Regeneron",
    "title": "WSJ Spotlights George Yancopoulos: ‘The Scientist With 1,000 Patents Fueling a Drug Powerhouse’ - The National Herald",
@@ -34199,6 +34265,17 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRTYzLXc4WUVLbXQ5RzlDUkJhQlhKWmxWOHRWWWFvZEhmX3BYX2NDakNYaGZCcHQySk9tY2ZrNFd1OXpHN2xkV0RhYUJiS09lWUwxMlVfSmNRTGNGR0dHZG5mQXlZek9PejZ2emhQZ0l2RUhaWmI5SVdOZGxiQUxac2o1ckhiR2Y5bVNocGtfX1cwZTVocTMyMUxEb08xOUk2RXNiOGNmaS05WjZs?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "Investing News Network",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "4ccf83296273a833",
+   "company": "Eli Lilly",
+   "title": "GH Research gains on optimism surrounding potential Eli Lilly-Atai deal (GHRS) - Yahoo Finance",
+   "summary": "GH Research gains on optimism surrounding potential Eli Lilly-Atai deal (GHRS) Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckJsZGVyZjJ4SDVsamZ5QnltVE1TMUFacUc1dUQ0bjdCR2ZpUmJtVktmaHhZWkEtWEtMSVJZWXBHTjJCX0phanFrMzAxa2s5NktvRl9zaHRjdVFBb0ZoMk9pdXNaR215ODdzWkVhM0ptSGdYRGtSOC1uSnBpNG9ZZ3gxa1VBUEtfUm1OZy1jRWZUS2puLVlCOW9fNHpFLWF0?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Yahoo Finance",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -36821,6 +36898,17 @@
    "first_seen": null
   },
   {
+   "id": "e1816a4900a19473",
+   "company": "Neumora Therapeutics",
+   "title": "NMRA SHAREHOLDER INVESTIGATION: SueWallSt Investigates Neumora Therapeutics for Possible Securities Law Violations - PR Newswire",
+   "summary": "NMRA SHAREHOLDER INVESTIGATION: SueWallSt Investigates Neumora Therapeutics for Possible Securities Law Violations PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX0Q2MXI5WmluZjBlTDFoa3RmVThYa1Y4Y2NkSjRxbnIxbUlVN0tqQTNSd1JTRDVZWDJ5bl9Rd3N3cXV6RGZ1NGFDaFdJcHFnTkpNT1FhSzVyT1Fhdk96T2M1aG1Fa3hyalJsSVR0YlRqVTM3dEJUcU82YWl2U1RMcVBKUFA0TEhvbW1xdDFKRWVjc0RjSjRHcWs2LWttaEVjdVR0SVhGRTVhdWFaQ2xwT0podzlRUHQ2T3pLbjdpZUFDZUFpd242MU80Z2J1US1jQk1DSXQtMllfSGs3TGItd1JuQWh2YTEyTU5kRGwxaE1rNnUtYUZVMmdULUtEUQ?oc=5",
+   "published": "2026-06-17T07:00:00Z",
+   "outlet": "PR Newswire",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "fa22fed13dab5ce3",
    "company": "Seaport Therapeutics",
    "title": "Prediction of Human Pharmacokinetic Profiles of Glyph Platform Prodrugs Using Animal and Human Data via a Semi-mechanistic Pharmacokinetic Model",
@@ -39157,7 +39245,7 @@
    "company": "Denali Therapeutics",
    "title": "Biogen and Denali Therapeutics Provide Update on Phase 2b LUMA Study of BIIB122 (DNL151) in Early-Stage Parkinson’s Disease - Denali Therapeutics",
    "summary": "Biogen and Denali Therapeutics Provide Update on Phase 2b LUMA Study of BIIB122 (DNL151) in Early-Stage Parkinson’s Disease Denali Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsLWxvd3dZWV9KSllXRWlicXh5MHNoMVdta0MxZ0tOdkFMX0EtRW9kY1dBb2UwY3A0aU5PM2tvSVB2VGJLM2ZhdTkwQmo1RmF2RWVvM3V5SDh4YV9tVnlEX2JrUF9fQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmJjTnZfTU5PU1liT0pzRHFLTnpDakdvaU54SlI1RnZTeUEtUWxEZnpZV3ljXzlzWUpjNmg0c2diaGNIeDc4TEFZU3N6anhWdm1nbEF5RFA4ejVUV1Fkb1NXMmpHdXBObUVjWjhpcHM2ZjFJREN5cXdWTVFHZW1zU3FYemZjaTVNYXBGV282c01CaTNaLW80NDNsTVJaSVVHY3NLdi1oX2s4aHU3WUpUUjJzRG1CeTBlR2RXQVNjQXRGckg1UThtYlJBcEFfZUNC?oc=5",
    "published": "2026-05-21T07:00:00Z",
    "outlet": "Denali Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -40433,7 +40521,7 @@
    "company": "Denali Therapeutics",
    "title": "Denali Therapeutics Reports First Quarter 2026 Financial Results and Business Highlights - Denali Therapeutics",
    "summary": "Denali Therapeutics Reports First Quarter 2026 Financial Results and Business Highlights Denali Therapeutics",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DdDhHU1pOM3ZMd3BYSVZRcmxlMm5WTWw4SFVCX2VEYjhQWnBYd0pPeEVpeHVodHZiX3hRbzdQdV9GcDlKa3NoajdpNXZ5dmJxOFFVUG1iQUx5T3JuMjBaV1VJTnNMQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeW9DMDl4ZmZ2cV9PMmFvWlVfTDFUYTNJOTh0REtDZmdteDlrc2J3THR2aDlGVDZvdFZ2SXFiN05zNkhwb2VsZkg1MkxMRDJTUjdlYlV5eW1paV9rekk0cW01SXI5Q1l6NllLUHpqSlhXTnQtZUZHdU5VdFcxbVA4akFTbWtOdnhqTTh1b3Y0WFA0X3VOTXY4dG1wYjBDWU5BZ2MyT1U2X3N1RVVyRUZoc2VoWkR6UVNnbVBrNXdHQXdHbW1jMjFJUnFMN1ZpRFVzYjA4LV9ZQQ?oc=5",
    "published": "2026-05-07T07:00:00Z",
    "outlet": "Denali Therapeutics",
    "method": "newsroom via Google News (site:)",
@@ -47755,6 +47843,17 @@
    "first_seen": null
   },
   {
+   "id": "22ce55486ba3c13c",
+   "company": "Denali Therapeutics",
+   "title": "Denali Therapeutics Announces Data Presentations on Enzyme TransportVehicle™ Programs for Hunter Syndrome, Sanfilippo Syndrome Type A and Pompe Disease at Upcoming 2026 WORLDSymposium™ - Denali Therapeutics",
+   "summary": "Denali Therapeutics Announces Data Presentations on Enzyme TransportVehicle™ Programs for Hunter Syndrome, Sanfilippo Syndrome Type A and Pompe Disease at Upcoming 2026 WORLDSymposium™ Denali Therapeutics",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcVhVQXBPcVhYUDZWeXlVaWlJNTRhSGRtZ2x0dFNUWFRoZ2pqSGNmdlc1bHdlazhnTFMtMVRPSGNJaWJlTE5EbGlCd0RZMExxaXFneVpUWXRYbl8wZ1VILUp6ZVlKNlg5MTZiMXh3LVcwdnVUNXluMkF3TDVzaUdwN04xZllJUEhCUF9XLXZnVzVrQmh3TGgwOENKdHpKWGUzNjZUNkpvUWdZVHZiOXNqYmx1TnRoeWNrZjlORjU3b2dnYWpOWjN6LTJNYw?oc=5",
+   "published": "2026-01-29T08:00:00Z",
+   "outlet": "Denali Therapeutics",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "0f23f1de9ffb8b9c",
    "company": "Stada",
    "title": "welcome to stada uk - STADA",
@@ -48390,6 +48489,17 @@
    "published": "2026-01-13T08:00:00Z",
    "outlet": "Parkinson's News Today",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "15201e5e0442ca8e",
+   "company": "Ventyx Biosciences (acquired by Lilly, Mar 2026)",
+   "title": "Eli Lilly Stock Rallies as Ventyx Deal Calms Wegovy Concerns - MarketBeat",
+   "summary": "Eli Lilly Stock Rallies as Ventyx Deal Calms Wegovy Concerns MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNGc2V2pLbzFDR1N6VDdQak42dDRvVmF3dUJsckplbW01YjRQR3Y3aGRIS1lVR0cyNzZjZTRjV2tPaE9fMFRxLVNtS2JjNlZIa2lFZk1Idy1WQm1KNXNvYVllTGdVWmNFOWRsREI1amI5SnRnbS1xUlRLU0ZfOGhsbUJKbGxiN3hVeThMUDFzb0lDX3hvRVN6ZzBES1gyUQ?oc=5",
+   "published": "2026-01-13T08:00:00Z",
+   "outlet": "MarketBeat",
+   "method": "news search (no newsroom found)",
    "first_seen": null
   },
   {
@@ -50422,7 +50532,7 @@
    "title": "Denali Therapeutics Announces Pricing of Public Offering of Common Stock and Pre-Funded Warrants - Denali Therapeutics",
    "summary": "Denali Therapeutics Announces Pricing of Public Offering of Common Stock and Pre-Funded Warrants Denali Therapeutics",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZmZLX3B0VFpwbGQ3aVhBR1ZKc25fT0x4R1REbmxpNWFCT2wxZjBrQWpMdDVvZXpmZDQ4NnBzdkd1bGsyamp4bjRFb3Y5V1JEOHgtRmdiXzA3SUhyTTJoOV9ZY3A1UXlhSWF4ZjhhNjR5NFJqLV93OEJmTmpMdE5ETWdTMy0wTUowU0dvSkd5dHZ5RFVUeFIzLXoxR2d3YWtuUXIwVHBycWtvcGxncHZLNFJ1TzI3ZEM1cnJfNWdiUkFqbEZRaUNELU5OcXEzYTlBbWFnOQ?oc=5",
-   "published": "2025-12-10T05:24:01Z",
+   "published": "2025-12-10T08:00:00Z",
    "outlet": "Denali Therapeutics",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
