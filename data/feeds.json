@@ -54,22 +54,22 @@
   "checked": "2026-11-27T18:34:15Z"
  },
  "Johnson & Johnson (incl. Intra-Cellular)": {
-  "feed": "https://news.google.com/rss/search?q=%22Johnson+%26+Johnson%22+%28%22lenrispodun%22+OR+%22ITI-1284%22+OR+%22Caplyta%22+OR+%22lumateperone%22+OR+%22seltorexant%22+OR+%22aticaprant%22+OR+%22Parkinson%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22bipolar%22+OR+%22anxiety%22+OR+%22Intra-Cellular%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Ajnj.com+%28%22lenrispodun%22+OR+%22ITI-1284%22+OR+%22Caplyta%22+OR+%22lumateperone%22+OR+%22seltorexant%22+OR+%22aticaprant%22+OR+%22Parkinson%22+OR+%22depression%22+OR+%22schizophrenia%22+OR+%22bipolar%22+OR+%22anxiety%22+OR+%22Intra-Cellular%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.jnj.com/media-center/press-releases\", null, null, [\"lenrispodun\", \"ITI-1284\", \"Caplyta\", \"lumateperone\", \"seltorexant\", \"aticaprant\", \"Parkinson\", \"depression\", \"schizophrenia\", \"bipolar\", \"anxiety\", \"Intra-Cellular\", \"psychiatry\", \"neuroscience\"]]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Biogen": {
-  "feed": "https://news.google.com/rss/search?q=%22Biogen%22+%28%22BIIB122%22+OR+%22DNL151%22+OR+%22LRRK2%22+OR+%22Parkinson%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Abiogen.com+%28%22BIIB122%22+OR+%22DNL151%22+OR+%22LRRK2%22+OR+%22Parkinson%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://investors.biogen.com/news-releases\", null, null, [\"BIIB122\", \"DNL151\", \"LRRK2\", \"Parkinson\"]]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Cerevance": {
-  "feed": "https://news.google.com/rss/search?q=%22Cerevance%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Acerevance.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.cerevance.com/news\", null, null, null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Annovis Bio": {
   "feed": "https://news.google.com/rss/search?q=%22Annovis+Bio%22&hl=en-US&gl=US&ceid=US:en",
@@ -120,10 +120,10 @@
   "checked": "2026-11-27T23:36:14Z"
  },
  "Arvinas": {
-  "feed": "https://news.google.com/rss/search?q=%22Arvinas%22+%28%22ARV-102%22+OR+%22LRRK2%22+OR+%22Parkinson%22+OR+%22neuroscience%22%29&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Aarvinas.com+%28%22ARV-102%22+OR+%22LRRK2%22+OR+%22Parkinson%22+OR+%22neuroscience%22%29&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://ir.arvinas.com/news-releases\", null, null, [\"ARV-102\", \"LRRK2\", \"Parkinson\", \"neuroscience\"]]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Brenig Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=%22Brenig+Therapeutics%22+OR+%22BT-267%22&hl=en-US&gl=US&ceid=US:en",
@@ -135,7 +135,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Neuron23%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.neuron23.com/news\", null, null, null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Abli Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=Abli+Therapeutics+risvodetinib&hl=en-US&gl=US&ceid=US:en",
@@ -226,7 +226,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Xinzhi%22+Parkinson&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"\\\"Xinzhi\\\" Parkinson\", null]",
-  "checked": "2026-11-28T00:36:14Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Zambon": {
   "feed": "https://news.google.com/rss/search?q=%22Zambon%22+%28%22Hopledo%22+OR+%22Crexont%22+OR+%22Parkinson%22+OR+%22levodopa%22+OR+%22Xadago%22+OR+%22safinamide%22%29&hl=en-US&gl=US&ceid=US:en",
@@ -280,7 +280,7 @@
   "feed": "https://news.google.com/rss/search?q=Aprix+PSX-001&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Aprix PSX-001\", null]",
-  "checked": "2026-11-28T00:36:14Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "NeuroDerm": {
   "feed": "https://news.google.com/rss/search?q=%22NeuroDerm%22&hl=en-US&gl=US&ceid=US:en",
@@ -341,13 +341,13 @@
   "feed": "https://news.google.com/rss/search?q=%22Pharma+Two+B%22+OR+%22P2B001%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.pharma2b.com/\", null, \"\\\"Pharma Two B\\\" OR \\\"P2B001\\\"\", null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Helus Pharma (ex-Cybin)": {
-  "feed": "https://news.google.com/rss/search?q=%22Helus+Pharma%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Ahelus.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://ir.helus.com/news-releases\", null, \"\\\"Helus Pharma\\\"\", null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Transcend Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=%22Transcend+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
@@ -359,7 +359,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Usona+Institute%22+OR+%22Usona%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.usona.org/news/\", null, \"\\\"Usona Institute\\\" OR \\\"Usona\\\"\", null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Alzamend Neuro": {
   "feed": "https://ir.alzamend.com/news-events/press-releases/rss",
@@ -428,10 +428,10 @@
   "checked": "2026-11-27T18:34:15Z"
  },
  "Axsome Therapeutics": {
-  "feed": "https://news.google.com/rss/search?q=%22Axsome+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Aaxsometherapeuticsinc.gcs-web.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://axsometherapeuticsinc.gcs-web.com/news-releases\", null, null, null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Compass Pathways": {
   "feed": "https://ir.compasspathways.com/rss/pressrelease.aspx",
@@ -452,10 +452,10 @@
   "checked": "2026-11-27T18:34:15Z"
  },
  "NRx Pharmaceuticals (Hope Therapeutics)": {
-  "feed": "https://news.google.com/rss/search?q=%22NRx+Pharmaceuticals%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Anrxpharma.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://ir.nrxpharma.com/news-events/press-releases\", null, null, null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Neumora Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=site%3Aneumoratx.com&hl=en-US&gl=US&ceid=US:en",
@@ -482,10 +482,10 @@
   "checked": "2026-11-27T18:34:15Z"
  },
  "Neurocrine Biosciences": {
-  "feed": "https://news.google.com/rss/search?q=%22Neurocrine+Biosciences%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Aneurocrine.gcs-web.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://neurocrine.gcs-web.com/news-releases\", null, null, null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Reviva Pharmaceuticals": {
   "feed": "https://revivapharma.com/feed/",
@@ -527,7 +527,7 @@
   "feed": "https://news.google.com/rss/search?q=Tortugas+Neuroscience+obuprazine&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (no newsroom found)",
   "sig": "[null, null, \"Tortugas Neuroscience obuprazine\", null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "Tonix Pharmaceuticals": {
   "feed": "https://ir.tonixpharma.com/news-events/press-releases/rss",
@@ -548,10 +548,10 @@
   "checked": "2026-11-27T18:34:15Z"
  },
  "Newron Pharmaceuticals": {
-  "feed": "https://news.google.com/rss/search?q=%22Newron%22+OR+%22evenamide%22&hl=en-US&gl=US&ceid=US:en",
-  "method": "news search (newsroom not indexed)",
+  "feed": "https://news.google.com/rss/search?q=site%3Anewron.com&hl=en-US&gl=US&ceid=US:en",
+  "method": "newsroom via Google News (site:)",
   "sig": "[\"https://www.newron.com/news-and-media/regulatory-news\", null, \"\\\"Newron\\\" OR \\\"evenamide\\\"\", null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "TG Therapeutics": {
   "feed": "https://news.google.com/rss/search?q=%22TG+Therapeutics%22&hl=en-US&gl=US&ceid=US:en",
@@ -629,7 +629,7 @@
   "feed": "https://news.google.com/rss/search?q=%22Britannia+Pharmaceuticals%22+OR+%22APO-go%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://www.britannia-pharm.com/\", null, \"\\\"Britannia Pharmaceuticals\\\" OR \\\"APO-go\\\"\", null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  },
  "BioVie": {
   "feed": "https://news.google.com/rss/search?q=%22BioVie%22+OR+%22bezisterim%22&hl=en-US&gl=US&ceid=US:en",
@@ -665,6 +665,6 @@
   "feed": "https://news.google.com/rss/search?q=%22AtaiBeckley%22+OR+%22Atai+Beckley%22&hl=en-US&gl=US&ceid=US:en",
   "method": "news search (newsroom not indexed)",
   "sig": "[\"https://ir.ataibeckley.com/news-releases\", null, \"\\\"AtaiBeckley\\\" OR \\\"Atai Beckley\\\"\", null]",
-  "checked": "2026-11-27T18:34:15Z"
+  "checked": "2026-11-28T02:01:53Z"
  }
 }
