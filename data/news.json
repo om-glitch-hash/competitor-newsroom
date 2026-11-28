@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:01:53Z",
+ "updated": "2026-11-28T02:53:53Z",
  "companies": {
   "Tanabe Pharma / NeuroDerm (ex-Mitsubishi Tanabe; Bain)": {
    "site": "https://www.tanabe-pharma.com/en/news.html",
@@ -1720,6 +1720,17 @@
    "first_seen": "2026-11-27T22:39:29Z"
   },
   {
+   "id": "4f812ab99beec64b",
+   "company": "Rapport Therapeutics",
+   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3czZUcmlKMzBIbGxGUXMwVjk1MndlSGpObHZSYmFzS2pBbXZuNW5pd0NYLVdYRy1kbVNoamwxbkQwVlNsOWNhWGdCT3MyaW5GVWc?oc=5",
+   "published": "2026-11-27T21:15:34Z",
+   "outlet": "Yahoo! Finance Canada",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": "2026-11-21T21:13:37Z"
+  },
+  {
    "id": "38737d7da2c43922",
    "company": "Rapport Therapeutics",
    "title": "Rapport Therapeutics (RAPP) Could Be 61% Undervalued After New RAP 219 Data Preview - Yahoo Finance",
@@ -2010,7 +2021,7 @@
    "company": "TG Therapeutics",
    "title": "TG Therapeutics (TGTX) Gets FDA Acceptance For Single Dose BRIUMVI Start - Simply Wall St",
    "summary": "TG Therapeutics (TGTX) Gets FDA Acceptance For Single Dose BRIUMVI Start Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa3VPdWVKTjJQMjZJam1zREREQVlkVnFqeV83T1dxajZyYzNOU0laUGZkcEpmMm0tdEhKajJNNElOV0RLajRWQjRHbEx6ZVBiQUNfZVROaXZXeWw1d29MdEVmaUg0NXNtcVo5c1VYOGZ0LVl2SnNEd2NkUkhXMkZQMjlrNFRhNDI5bFlkdTdBZlR1S0NORXFxcWY1elcxWG80ZmRyYWZJejFkZDRyU1JvZi02TW12b1c1aGdmQnVma1Z2c3NOQ2xaRWM0Qm5xSHB0WjN5Wl9qdnhRQUUwdFlGS21QekZsdE100gHoAUFVX3lxTE9rdU91ZUpOMlAyNklqbXNERERBWWRWcWp5XzdPV3FqNnJjM05TSVpQZmRwSmYybS10SEpqMk00SU5XREtqNFZCNEdsTHplUGJBQ19lVE5pdld5bDV3b0x0RWZpSDQ1c21xWjlzVVg4ZnQtWXZKc0R3Y2RSSFcyRlAyOWs0VGE0MjlsWWR1N0FmVHVLQ05FcXFxZjV6VzFYbzRmZHJhZkl6MWRkNHJTUm9mLTZNbXZvVzVoZ2ZCdWZrVnZzc05DbFpFYzRCbnFIcHRaM3laX2p2eFFBRTB0WUZLbVB6Rmx0TXQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNFlVeEJXYU5xWWFOTnF6bFJHVXEyaFpzNXN1aHpZVGc0bUZLVERsdzdxaG81SGp5amJOc2xrVWMzLS1OUlV3SXFleUZxYjFuU3hVamxXNG5aU0IwbG1KTW1jMUUxUzdCWHBRamhEbTVrNVFLeDJFTmhIYVg0T0w5bGRkaURlRlpncWhNc3lIQzF1azNiQnRuR2RsbEdRa1NRd2pDSDBhSGJqNEMzc0NIVWdSbmhLWnhCSGxadnBZVFBza2F6TnRRQmh5ZDJOd01HZHU5a1ZpV08wekVUTmk5a3hIUdIB6AFBVV95cUxPa3VPdWVKTjJQMjZJam1zREREQVlkVnFqeV83T1dxajZyYzNOU0laUGZkcEpmMm0tdEhKajJNNElOV0RLajRWQjRHbEx6ZVBiQUNfZVROaXZXeWw1d29MdEVmaUg0NXNtcVo5c1VYOGZ0LVl2SnNEd2NkUkhXMkZQMjlrNFRhNDI5bFlkdTdBZlR1S0NORXFxcWY1elcxWG80ZmRyYWZJejFkZDRyU1JvZi02TW12b1c1aGdmQnVma1Z2c3NOQ2xaRWM0Qm5xSHB0WjN5Wl9qdnhRQUUwdFlGS21QekZsdE10?oc=5",
    "published": "2026-11-27T05:15:47Z",
    "outlet": "Simply Wall St",
    "method": "news search (newsroom not indexed)",
@@ -2862,17 +2873,6 @@
    "outlet": "kalkine.com",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-25T21:28:11Z"
-  },
-  {
-   "id": "4f812ab99beec64b",
-   "company": "Rapport Therapeutics",
-   "title": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Rapport Therapeutics, Inc. (RAPP) Stock Price, News, Quote & History Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3czZUcmlKMzBIbGxGUXMwVjk1MndlSGpObHZSYmFzS2pBbXZuNW5pd0NYLVdYRy1kbVNoamwxbkQwVlNsOWNhWGdCT3MyaW5GVWc?oc=5",
-   "published": "2026-11-25T12:33:55Z",
-   "outlet": "Yahoo! Finance Canada",
-   "method": "news search (newsroom not indexed)",
-   "first_seen": "2026-11-21T21:13:37Z"
   },
   {
    "id": "51cb117369599333",
@@ -5073,6 +5073,17 @@
    "outlet": "Yahoo Finance Australia",
    "method": "news search (newsroom not indexed)",
    "first_seen": "2026-11-22T06:24:11Z"
+  },
+  {
+   "id": "ee1e129321c67c38",
+   "company": "Engrail Therapeutics",
+   "title": "Engrail Therapeutics - 2026 Funding Rounds & List of Investors - Tracxn",
+   "summary": "Engrail Therapeutics - 2026 Funding Rounds & List of Investors Tracxn",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOVRhTXl4bUdYTXI5eFcxSTVzNjFYNWtjWk9wOFk0eHZ4YXpmUHNMYndjWU1yRmVGZlprSG94UHI5WW9xWkdEUlVYYUZkYlI5RHdneGM2TFVjT1A1TFcwV2dMb3o3OHh2MldWREhicUNHNFB0aDF5NnlTRmIzblVKcEpUMDFNejdJYjJEU2dIVURZeHd0cDNrWHZQUFRtYUctNEpwUVJWUTMyY2s4d3N1U1NLR2VNcWxuQTlB?oc=5",
+   "published": "2026-11-21T20:06:21Z",
+   "outlet": "Tracxn",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
   },
   {
    "id": "80fcf414c7e940f2",
@@ -11334,6 +11345,17 @@
    "first_seen": null
   },
   {
+   "id": "76c5201aa6c90e53",
+   "company": "Incannex Healthcare",
+   "title": "Incannex Healthcare Q1 2027 Earnings Results and Report - MarketBeat",
+   "summary": "Incannex Healthcare Q1 2027 Earnings Results and Report MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR05mQ2dvNWZCSmotZXpsQ3JjLUZTSXE0N2VfdnRQcnE2QzNLM0RFYnJFd0RkN0MySkJsRVdETTVZa19raE40MDBLVUxPMGlQQUFWOXc1VEdZRTR3QTBDaVQ3N19HOFJHOW54UVJBWm4tQjJ2eTlZcy0xX0ZhbmE1QmlmZ21BNTBYamJZZXZEMjBTZmc?oc=5",
+   "published": "2026-11-12T14:02:46Z",
+   "outlet": "MarketBeat",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "8d21cf4363143ff3",
    "company": "Alkermes",
    "title": "Alkermes and Teva reach settlement on LYBALVI patent litigation - Investing.com",
@@ -11419,17 +11441,6 @@
    "published": "2026-11-12T08:00:00Z",
    "outlet": "NRx Pharmaceuticals",
    "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "76c5201aa6c90e53",
-   "company": "Incannex Healthcare",
-   "title": "Incannex Healthcare Q1 2027 Earnings Results and Report - MarketBeat",
-   "summary": "Incannex Healthcare Q1 2027 Earnings Results and Report MarketBeat",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR05mQ2dvNWZCSmotZXpsQ3JjLUZTSXE0N2VfdnRQcnE2QzNLM0RFYnJFd0RkN0MySkJsRVdETTVZa19raE40MDBLVUxPMGlQQUFWOXc1VEdZRTR3QTBDaVQ3N19HOFJHOW54UVJBWm4tQjJ2eTlZcy0xX0ZhbmE1QmlmZ21BNTBYamJZZXZEMjBTZmc?oc=5",
-   "published": "2026-11-12T08:00:00Z",
-   "outlet": "MarketBeat",
-   "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
   {
@@ -32377,6 +32388,17 @@
    "first_seen": null
   },
   {
+   "id": "591796d72afe8ba9",
+   "company": "Usona Institute",
+   "title": "Protomartyr Announce New Album ‘Hotel Usona’ - Clash Magazine",
+   "summary": "Protomartyr Announce New Album ‘Hotel Usona’ Clash Magazine",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ2FpV210NzNwNVhQaDFfM3VBaWpDVElCajVBaVVWM3FjN3N3UEVtaXZMQ25jQmtSZXc0eUd3QTR6NE84UmlINGxVZGtfVGJRQ3p6RS0xN1k4ZUp1RXpDRUowX3B2YVZWY09HM0J6Y1JMYVA2WDN1aEZsOGtBemM1bA?oc=5",
+   "published": "2026-07-23T07:00:00Z",
+   "outlet": "Clash Magazine",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
    "id": "bec53c0b14d01d14",
    "company": "Usona Institute",
    "title": "Protomartyr announce their new album, Hotel Usona - Northern Transmissions",
@@ -33891,6 +33913,17 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTE5VXzh4R3YwbEF2a05CcHVwS0IyTUw5bnRfdW1UZlJsWE1MQmJoSWM5UndzMklTckVQaENBaWdnSUFWT0FLUG4wRG5tM1pKRnlqMjUwS2VUdXlsOGNQTmdyYS1kX2stVzk2aVNBbzQwQVgyVGxTVVg2R2lNZkxoMFY2dG85RjhXb05RN3dsMDRSblk0YlNobk1kSQ?oc=5",
    "published": "2026-07-16T07:00:00Z",
    "outlet": "Yahoo Finance",
+   "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "f9b0ddb9d222a1ac",
+   "company": "Filament Health",
+   "title": "Red Light Holland Announces New Filament Health PEX010 European Research Shipment - Investing News Network",
+   "summary": "Red Light Holland Announces New Filament Health PEX010 European Research Shipment Investing News Network",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRTYzLXc4WUVLbXQ5RzlDUkJhQlhKWmxWOHRWWWFvZEhmX3BYX2NDakNYaGZCcHQySk9tY2ZrNFd1OXpHN2xkV0RhYUJiS09lWUwxMlVfSmNRTGNGR0dHZG5mQXlZek9PejZ2emhQZ0l2RUhaWmI5SVdOZGxiQUxac2o1ckhiR2Y5bVNocGtfX1cwZTVocTMyMUxEb08xOUk2RXNiOGNmaS05WjZs?oc=5",
+   "published": "2026-07-16T07:00:00Z",
+   "outlet": "Investing News Network",
    "method": "news search (newsroom not indexed)",
    "first_seen": null
   },
@@ -39857,6 +39890,17 @@
    "first_seen": null
   },
   {
+   "id": "8de03799d72a26e8",
+   "company": "Cerevance",
+   "title": "Cerevance - Cerevance",
+   "summary": "Cerevance Cerevance",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYWkybUV4b0I0NmxnX0w5VXNzODcteTdFUTRxYWJvcjNRQ3VUcnlYYTZNSUlNLXJHaVdNeFV1MWxuU0ZCenFlUkJjSHcyQlZWZ0RsejRpRW5GOWtrdS1WaG9rTms5UkNBZ2RHY3NmbThiVHNoWlc3SlJ5WHlHcW9HRTBnbk1EeXhmdkFKXzd1V3h0SVFnU2hNb1lOMW14SUZ6T05PUTB5bnp0TUp6ZkJEZ1RZNTFrRmVXb3FiVVhtYW83OWZrNmgyX0NjMXhSLXVrb3lpcEN5bmdLRWVBRmtOeUFTdWkyNVZrNGVoSUNaU1pqVE80M21sVW9BUWtwampCYXdwQlpNUHRXTzg?oc=5",
+   "published": "2026-05-12T07:00:00Z",
+   "outlet": "Cerevance",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "fbb7a8cc14e06160",
    "company": "Johnson & Johnson (incl. Intra-Cellular)",
    "title": "#NCT07573176 - J&J Clinical Trials",
@@ -42981,6 +43025,28 @@
    "first_seen": null
   },
   {
+   "id": "dacb49f701cc11bf",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine to Acquire Soleno Therapeutics, Expanding Its Endocrinology and Rare Disease Portfolio - neurocrine.gcs-web.com",
+   "summary": "Neurocrine to Acquire Soleno Therapeutics, Expanding Its Endocrinology and Rare Disease Portfolio neurocrine.gcs-web.com",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuQXBPWm1adFRtdjQ4bkN4a0Q2WWpDN0NTeXpyVWFDbGZEY0VPaVNaMXJwNE13aFNVVTFWZDBCUF9lRllHSExwQnkyaHBnT3YweDNfcFNJVEY?oc=5",
+   "published": "2026-04-06T07:00:00Z",
+   "outlet": "neurocrine.gcs-web.com",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
+   "id": "0acea3634fbe89b7",
+   "company": "Neurocrine Biosciences",
+   "title": "Form SC TO-C for Soleno Therapeutics INC filed 04/06/2026 - neurocrine.gcs-web.com",
+   "summary": "Form SC TO-C for Soleno Therapeutics INC filed 04/06/2026 neurocrine.gcs-web.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRUFmT0J1d1FfQUVfa1paMld5SG1YaVk4UENKd0JGRExDUmVtcjl4ZExVSkRGS3M1WlFDUkdPZkZ1VDU2d2o2NUhiSnVMZk5jMkpDMHJlQmlnSFgwT0NaSW15N21IVXJSeUN2VVJqbVpsbW5fVFRSVnV3UzJVZVN1RkxHWXh3ZEE?oc=5",
+   "published": "2026-04-06T07:00:00Z",
+   "outlet": "neurocrine.gcs-web.com",
+   "method": "newsroom via Google News (site:)",
+   "first_seen": null
+  },
+  {
    "id": "ee89aea9cfe64896",
    "company": "Arvinas",
    "title": "How The Arvinas (ARVN) Story Is Evolving As 2026 Neurology Catalysts Approach - Yahoo Finance",
@@ -45078,17 +45144,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRFp3RW1DakdidWtIT19Gc1lVdnhTVDZ2QkYtUlhCRGJKanhFaFJSRERxWjdoLVc0ajFhMWNKVzJYcjNlZ3RFRnRfNFNSanZQOVZYWmR2Rm9hRnRlckh4dWFhcEYwOWtXenhKUjdKQkVPSTJEQTFnOGpwVmdvd2pCaXRxSS1KOE44SENhWndYUHlCeGxhbm92dER0SDZPRXlvdE40QURPcnd6UWtObkpwbjN5TlU0UVd5SzJscjI0WDhNRS0yN2g1RQ?oc=5",
    "published": "2026-03-10T07:00:00Z",
    "outlet": "Xenon Pharmaceuticals",
-   "method": "newsroom via Google News (site:)",
-   "first_seen": null
-  },
-  {
-   "id": "8de03799d72a26e8",
-   "company": "Cerevance",
-   "title": "Cerevance - Cerevance",
-   "summary": "Cerevance Cerevance",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWjdaSFd3b1VDZE4tdlBwRHVlaEFmTlFwaVBvTTJmeThSTmtnV3N5QUxjUEJ1UEFoQjNwd00xcEQ1S3Z3NnBwQkJWUjFVLU5fbWlISWtuVy12VS1WbmpreUVBUmJJMGdMN3dfYzJReklWbnBERjB4YXFLcnE4YUVzUlhkVXJCVjZtYkR4dktIQ3psdnpiR2ZJazZITFVudk1pdUpoU21EbHhid2tfTzlKakJMaGx0blFDem93VlBoWUlCTUNlUGpBVm8yRDZmNk5DZlk0UnF1WnJ6NV9DZEc4dFF1XzV5NDhxbXE3UUFGZnhjMEdvZ2R1bXhSS1A3dw?oc=5",
-   "published": "2026-03-10T07:00:00Z",
-   "outlet": "Cerevance",
    "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
@@ -49754,6 +49809,17 @@
    "published": "2025-12-16T08:00:00Z",
    "outlet": "PR Newswire",
    "method": "news search (newsroom not indexed)",
+   "first_seen": null
+  },
+  {
+   "id": "e2ab08c4f918c75f",
+   "company": "Neurocrine Biosciences",
+   "title": "Neurocrine Biosciences Showcases R&D Transformation Driving Innovation Across Neuroscience and Endocrinology - neurocrine.gcs-web.com",
+   "summary": "Neurocrine Biosciences Showcases R&D Transformation Driving Innovation Across Neuroscience and Endocrinology neurocrine.gcs-web.com",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzelpxcm5MYTg5aTZGSndjSEFsazZYeEdMbHczOUZoWFZqRjJvZ3h6ZFctbnhHeTBZc1lkX0hReFZaTkhSb1NkR1J6aWZ2YlQ4TExyOGhqUmw?oc=5",
+   "published": "2025-12-16T08:00:00Z",
+   "outlet": "neurocrine.gcs-web.com",
+   "method": "newsroom via Google News (site:)",
    "first_seen": null
   },
   {
